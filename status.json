@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776852088,
+  "cached_at": 1776852119,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "36tIBh4eKWc",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-22T08:59:10.000Z",
       "start_scheduled": "2026-04-22T09:00:00.000Z",
       "start_actual": "2026-04-22T08:59:10.000Z",
-      "live_viewers": 8570,
+      "live_viewers": 8532,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. ????? - holoX -",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-22T09:01:34.000Z",
       "start_scheduled": "2026-04-22T09:00:00.000Z",
       "start_actual": "2026-04-22T09:01:34.000Z",
-      "live_viewers": 286,
+      "live_viewers": 285,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. ???? - UPROAR!! -",
@@ -79,6 +79,66 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCK9V2B22uJYu3N7eR_BT9QA": {
+      "video_id": "8aHjvtXhxdM",
+      "title": "??????#1 ???????????????????????????/??????",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-22T10:00:06.000Z",
+      "available_at": "2026-04-22T10:00:06.000Z",
+      "start_scheduled": "2026-04-22T10:00:00.000Z",
+      "start_actual": "2026-04-22T10:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+        "name": "Polka Ch. ?????",
+        "english_name": "Omaru Polka",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp6993wxpyDPHUpavwDFqgg": {
+      "video_id": "UyBSQ4zoHrw",
+      "title": "?????????????????(8th Anniversary Party?Starry Bl?min'?Live at CLUB CITTA 2025.10.01)",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Original_Song",
+      "published_at": "2026-04-22T10:00:06.000Z",
+      "available_at": "2026-04-22T10:00:06.000Z",
+      "start_scheduled": "2026-04-22T10:00:00.000Z",
+      "start_actual": "2026-04-22T10:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCp6993wxpyDPHUpavwDFqgg",
+        "name": "SoraCh. ??????????",
+        "english_name": "Tokino Sora",
+        "org": "Hololive",
+        "suborg": "0v0th Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFKOVgVbGmX65RxO3EtH3iw": {
+      "video_id": "aCfTCggRwP8",
+      "title": "??????STAR DIVE????????????!??????~!!??????/??????",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "MONGIL:_STAR_DIVE",
+      "published_at": "2026-04-22T04:45:20.000Z",
+      "available_at": "2026-04-22T10:00:09.000Z",
+      "start_scheduled": "2026-04-22T10:00:00.000Z",
+      "start_actual": "2026-04-22T10:00:09.000Z",
+      "live_viewers": 1249,
+      "channel": {
+        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+        "name": "Lamy Ch. ?????",
+        "english_name": "Yukihana Lamy",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
