@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776859288,
+  "cached_at": 1776859349,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "36tIBh4eKWc",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-22T09:01:51.000Z",
       "start_scheduled": "2026-04-22T09:00:00.000Z",
       "start_actual": "2026-04-22T09:01:51.000Z",
-      "live_viewers": 7816,
+      "live_viewers": 7736,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. ???????? - FLOW GLOW",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-22T11:00:08.000Z",
       "start_scheduled": "2026-04-22T11:00:00.000Z",
       "start_actual": "2026-04-22T11:00:08.000Z",
-      "live_viewers": 30967,
+      "live_viewers": 31188,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. ?????",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-22T11:01:11.000Z",
       "start_scheduled": "2026-04-22T11:00:00.000Z",
       "start_actual": "2026-04-22T11:01:11.000Z",
-      "live_viewers": 3309,
+      "live_viewers": 3448,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. ????? ? ReGLOSS",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-22T11:07:59.000Z",
       "start_scheduled": "2026-04-22T11:00:00.000Z",
       "start_actual": "2026-04-22T11:07:59.000Z",
-      "live_viewers": 21587,
+      "live_viewers": 21677,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "???Ch??????",
@@ -119,6 +119,83 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCPI-eyzOIfQiGE3JK7H8XEw": {
+      "video_id": "xyKpf5OEX90",
+      "title": "?Overwatch????????FB?????..!? ??????????????? #?????",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Overwatch",
+      "published_at": "2026-04-21T22:10:38.000Z",
+      "available_at": "2026-04-22T12:00:00.000Z",
+      "start_scheduled": "2026-04-22T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCPI-eyzOIfQiGE3JK7H8XEw",
+        "name": "???? Okamoto Nagi",
+        "english_name": "Okamoto Nagi",
+        "org": "Twitch Independents",
+        "suborg": "nvNOVA",
+        "photo": "https://yt3.ggpht.com/iY7JWBWoFYEeQL46aqa3msQNMOo8DLYFfSaZuSFvpCpSXk2LWFQTTv7IAh9otm6r5LlsncrD9Q0=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "EkDReRGhWFM",
+      "title": "?OVERWATCH?????????????!! / ????",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Overwatch",
+      "published_at": "2026-04-22T11:34:08.000Z",
+      "available_at": "2026-04-22T12:00:00.000Z",
+      "start_scheduled": "2026-04-22T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.????",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCtMiyDQJ97iax5wuwGhLzGg": {
+      "video_id": "jKyngn2pHKw",
+      "title": "?Overwatch?????????????OW??????????#????/Vtuber?#?????",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Overwatch",
+      "published_at": "2026-04-22T07:16:20.000Z",
+      "available_at": "2026-04-22T12:00:00.000Z",
+      "start_scheduled": "2026-04-22T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCtMiyDQJ97iax5wuwGhLzGg",
+        "name": "???? YUTORI PEKE",
+        "english_name": "Yutori Peke",
+        "org": "Twitch Independents",
+        "suborg": "nvNOVA",
+        "photo": "https://yt3.ggpht.com/haScgHq7RwfXzoI_E_IMZ18-g7tNlfP6Ko5SEM-XnHj9dgsSNFixGh1c3jpV1X8eVO0Bl1gOzw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCL_qhgtOy0dy1Agp8vkySQg": {
+      "video_id": "EkEGYeQ27YI",
+      "title": "?FUNKO FIND CHALLENGE!!?you hide them. we find them. ???????!#calliolive #pr #morifunkofind",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-20T01:32:20.000Z",
+      "available_at": "2026-04-22T12:00:14.000Z",
+      "start_scheduled": "2026-04-22T12:00:00.000Z",
+      "start_actual": "2026-04-22T12:00:14.000Z",
+      "live_viewers": 721,
+      "channel": {
+        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+        "name": "Mori Calliope Ch. hololive-EN",
+        "english_name": "Mori Calliope",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
