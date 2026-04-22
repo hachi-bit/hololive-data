@@ -1,25 +1,4 @@
 {
-  "cached_at": 1776892588,
-  "lives": {
-    "UCe3tlAzxc9eEGKH5PGC4arg": {
-      "video_id": "87usu9YHfCg",
-      "title": "?Kletka?Please let me survive more than 5 minutes this time...?FIRST STAGE PRODUCTION EN?",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "KLETKA",
-      "published_at": "2026-04-22T11:09:26.000Z",
-      "available_at": "2026-04-22T17:02:39.000Z",
-      "start_scheduled": "2026-04-22T17:00:00.000Z",
-      "start_actual": "2026-04-22T17:02:39.000Z",
-      "live_viewers": 156,
-      "channel": {
-        "id": "UCe3tlAzxc9eEGKH5PGC4arg",
-        "name": "Caelen Strayfe ?FIRST STAGE PRODUCTION EN?",
-        "english_name": "Caelen Strayfe",
-        "org": "FIRST STAGE PRODUCTION",
-        "suborg": "3cEN Lamentus",
-        "photo": "https://yt3.ggpht.com/mlbn2TaJy28HdHpmIIY-X20IcFkYiVGR65l1AEnjDzf14bYE5IZcvMapzzXy6ISz5pgTHhDqRw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    }
-  }
+  "cached_at": 1776892649,
+  "lives": {}
 }
