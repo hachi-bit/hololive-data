@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776860610,
+  "cached_at": 1776860670,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "36tIBh4eKWc",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-22T08:59:10.000Z",
       "start_scheduled": "2026-04-22T09:00:00.000Z",
       "start_actual": "2026-04-22T08:59:10.000Z",
-      "live_viewers": 8076,
+      "live_viewers": 7934,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. ????? - holoX -",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-22T09:01:51.000Z",
       "start_scheduled": "2026-04-22T09:00:00.000Z",
       "start_actual": "2026-04-22T09:01:51.000Z",
-      "live_viewers": 4835,
+      "live_viewers": 4310,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. ???????? - FLOW GLOW",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-22T11:00:08.000Z",
       "start_scheduled": "2026-04-22T11:00:00.000Z",
       "start_actual": "2026-04-22T11:00:08.000Z",
-      "live_viewers": 32844,
+      "live_viewers": 33771,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. ?????",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-22T11:07:59.000Z",
       "start_scheduled": "2026-04-22T11:00:00.000Z",
       "start_actual": "2026-04-22T11:07:59.000Z",
-      "live_viewers": 20614,
+      "live_viewers": 21095,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "???Ch??????",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-22T12:00:14.000Z",
       "start_scheduled": "2026-04-22T12:00:00.000Z",
       "start_actual": "2026-04-22T12:00:14.000Z",
-      "live_viewers": 1832,
+      "live_viewers": 1893,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -146,12 +146,12 @@
       "title": "Making more of HoloEN | Tomodachi Life: Living the Dream",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "Tomodachi_Life",
       "published_at": "2026-04-22T11:54:13.000Z",
       "available_at": "2026-04-22T12:02:08.000Z",
       "start_scheduled": "2026-04-22T12:10:00.000Z",
       "start_actual": "2026-04-22T12:02:08.000Z",
-      "live_viewers": 2596,
+      "live_viewers": 2880,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-22T12:08:00.000Z",
       "start_scheduled": "2026-04-22T12:00:00.000Z",
       "start_actual": "2026-04-22T12:08:00.000Z",
-      "live_viewers": 14,
+      "live_viewers": 16,
       "channel": {
         "id": "UCtMiyDQJ97iax5wuwGhLzGg",
         "name": "???? YUTORI PEKE",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-22T12:10:03.000Z",
       "start_scheduled": "2026-04-22T12:00:00.000Z",
       "start_actual": "2026-04-22T12:10:03.000Z",
-      "live_viewers": 22,
+      "live_viewers": 21,
       "channel": {
         "id": "UCPI-eyzOIfQiGE3JK7H8XEw",
         "name": "???? Okamoto Nagi",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-22T12:10:15.000Z",
       "start_scheduled": "2026-04-22T12:00:00.000Z",
       "start_actual": "2026-04-22T12:10:15.000Z",
-      "live_viewers": 386,
+      "live_viewers": 390,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.????",
