@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776868289,
+  "cached_at": 1776868349,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "36tIBh4eKWc",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-22T08:59:10.000Z",
       "start_scheduled": "2026-04-22T09:00:00.000Z",
       "start_actual": "2026-04-22T08:59:10.000Z",
-      "live_viewers": 6038,
+      "live_viewers": 6064,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. ????? - holoX -",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-22T11:02:11.000Z",
       "start_scheduled": "2026-04-22T11:00:00.000Z",
       "start_actual": "2026-04-22T11:02:11.000Z",
-      "live_viewers": 1351,
+      "live_viewers": 1373,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-22T12:02:08.000Z",
       "start_scheduled": "2026-04-22T12:10:00.000Z",
       "start_actual": "2026-04-22T12:02:08.000Z",
-      "live_viewers": 6449,
+      "live_viewers": 5958,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-22T12:34:45.000Z",
       "start_scheduled": "2026-04-22T12:30:00.000Z",
       "start_actual": "2026-04-22T12:34:45.000Z",
-      "live_viewers": 474,
+      "live_viewers": 475,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. ?????",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-22T13:01:52.000Z",
       "start_scheduled": "2026-04-22T13:00:00.000Z",
       "start_actual": "2026-04-22T13:01:52.000Z",
-      "live_viewers": 8573,
+      "live_viewers": 8668,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. ?????",
@@ -311,7 +311,7 @@
       "available_at": "2026-04-22T13:30:20.000Z",
       "start_scheduled": "2026-04-22T13:30:00.000Z",
       "start_actual": "2026-04-22T13:30:20.000Z",
-      "live_viewers": 1742,
+      "live_viewers": 1761,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -351,7 +351,7 @@
       "available_at": "2026-04-22T14:02:05.000Z",
       "start_scheduled": "2026-04-22T14:00:00.000Z",
       "start_actual": "2026-04-22T14:02:05.000Z",
-      "live_viewers": 1973,
+      "live_viewers": 1999,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. ?????",
@@ -371,7 +371,7 @@
       "available_at": "2026-04-22T14:05:17.000Z",
       "start_scheduled": "2026-04-22T14:00:00.000Z",
       "start_actual": "2026-04-22T14:05:17.000Z",
-      "live_viewers": 3465,
+      "live_viewers": 4180,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. ????? - FLOW GLOW",
@@ -379,6 +379,25 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "hog8vrRvgLI",
+      "title": "?Tomodachi Life?WELCOME TO DOOMED YURI ISLAND?Pavolia Reine/hololiveID?",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-22T14:06:32.000Z",
+      "available_at": "2026-04-22T14:30:00.000Z",
+      "start_scheduled": "2026-04-22T14:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
