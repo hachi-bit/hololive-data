@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776884668,
+  "cached_at": 1776884728,
   "lives": {
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
       "video_id": "Z60F5BoPcJw",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-22T13:01:52.000Z",
       "start_scheduled": "2026-04-22T13:00:00.000Z",
       "start_actual": "2026-04-22T13:01:52.000Z",
-      "live_viewers": 8038,
+      "live_viewers": 7878,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. ?????",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
-      "video_id": "hog8vrRvgLI",
-      "title": "?Tomodachi Life?WELCOME TO DOOMED YURI ISLAND?Pavolia Reine/hololiveID?",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-22T14:06:32.000Z",
-      "available_at": "2026-04-22T14:31:32.000Z",
-      "start_scheduled": "2026-04-22T14:30:00.000Z",
-      "start_actual": "2026-04-22T14:31:32.000Z",
-      "live_viewers": 2351,
-      "channel": {
-        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "name": "Pavolia Reine Ch. hololive-ID",
-        "english_name": "Pavolia Reine",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCe3tlAzxc9eEGKH5PGC4arg": {
@@ -91,7 +71,7 @@
       "available_at": "2026-04-22T17:03:04.000Z",
       "start_scheduled": "2026-04-22T17:00:00.000Z",
       "start_actual": "2026-04-22T17:03:04.000Z",
-      "live_viewers": 396,
+      "live_viewers": 380,
       "channel": {
         "id": "UCfVSveW0-5LoLjM_SmkR2PQ",
         "name": "Elias Delborne?FIRST STAGE PRODUCTION EN?",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-22T17:06:41.000Z",
       "start_scheduled": "2026-04-22T17:00:00.000Z",
       "start_actual": "2026-04-22T17:06:41.000Z",
-      "live_viewers": 561,
+      "live_viewers": 556,
       "channel": {
         "id": "UCpYf6C9QsP_BRf97vLuXlIA",
         "name": "Vantacrow Bringer ?NIJISANJI EN?",
