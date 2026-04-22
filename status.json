@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776877771,
+  "cached_at": 1776877831,
   "lives": {
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
       "video_id": "Z60F5BoPcJw",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-22T13:01:52.000Z",
       "start_scheduled": "2026-04-22T13:00:00.000Z",
       "start_actual": "2026-04-22T13:01:52.000Z",
-      "live_viewers": 11623,
+      "live_viewers": 11520,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. ?????",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-22T15:01:49.000Z",
       "start_scheduled": "2026-04-22T15:00:00.000Z",
       "start_actual": "2026-04-22T15:01:49.000Z",
-      "live_viewers": 954,
+      "live_viewers": 990,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -119,25 +119,6 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCpYf6C9QsP_BRf97vLuXlIA": {
-      "video_id": "qVEWilZzh-c",
-      "title": "?KLETKA?What even is this game",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "KLETKA",
-      "published_at": "2026-04-22T17:00:59.000Z",
-      "available_at": "2026-04-22T17:00:00.000Z",
-      "start_scheduled": "2026-04-22T17:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCpYf6C9QsP_BRf97vLuXlIA",
-        "name": "Vantacrow Bringer ?NIJISANJI EN?",
-        "english_name": "Vantacrow Bringer",
-        "org": "Nijisanji",
-        "suborg": "5eEN Krisis",
-        "photo": "https://yt3.ggpht.com/5C2Pd2GdbBFGmWqv1H4RBtBPppTYvY7Bcpad_iuOuNQC4dJm45NB53lNnCuUMVLMkYT3e50_yA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCe3tlAzxc9eEGKH5PGC4arg": {
@@ -150,7 +131,7 @@
       "available_at": "2026-04-22T17:02:39.000Z",
       "start_scheduled": "2026-04-22T17:00:00.000Z",
       "start_actual": "2026-04-22T17:02:39.000Z",
-      "live_viewers": 204,
+      "live_viewers": 226,
       "channel": {
         "id": "UCe3tlAzxc9eEGKH5PGC4arg",
         "name": "Caelen Strayfe ?FIRST STAGE PRODUCTION EN?",
@@ -158,6 +139,26 @@
         "org": "FIRST STAGE PRODUCTION",
         "suborg": "3cEN Lamentus",
         "photo": "https://yt3.ggpht.com/mlbn2TaJy28HdHpmIIY-X20IcFkYiVGR65l1AEnjDzf14bYE5IZcvMapzzXy6ISz5pgTHhDqRw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCpYf6C9QsP_BRf97vLuXlIA": {
+      "video_id": "qVEWilZzh-c",
+      "title": "?KLETKA?What even is this game",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "KLETKA",
+      "published_at": "2026-04-22T17:00:59.000Z",
+      "available_at": "2026-04-22T17:06:41.000Z",
+      "start_scheduled": "2026-04-22T17:00:00.000Z",
+      "start_actual": "2026-04-22T17:06:41.000Z",
+      "live_viewers": 191,
+      "channel": {
+        "id": "UCpYf6C9QsP_BRf97vLuXlIA",
+        "name": "Vantacrow Bringer ?NIJISANJI EN?",
+        "english_name": "Vantacrow Bringer",
+        "org": "Nijisanji",
+        "suborg": "5eEN Krisis",
+        "photo": "https://yt3.ggpht.com/5C2Pd2GdbBFGmWqv1H4RBtBPppTYvY7Bcpad_iuOuNQC4dJm45NB53lNnCuUMVLMkYT3e50_yA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
