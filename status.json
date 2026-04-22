@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776880948,
+  "cached_at": 1776881008,
   "lives": {
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
       "video_id": "Z60F5BoPcJw",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-22T13:01:52.000Z",
       "start_scheduled": "2026-04-22T13:00:00.000Z",
       "start_actual": "2026-04-22T13:01:52.000Z",
-      "live_viewers": 9271,
+      "live_viewers": 9144,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. ?????",
@@ -81,6 +81,26 @@
         "photo": "https://yt3.ggpht.com/mlbn2TaJy28HdHpmIIY-X20IcFkYiVGR65l1AEnjDzf14bYE5IZcvMapzzXy6ISz5pgTHhDqRw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCfVSveW0-5LoLjM_SmkR2PQ": {
+      "video_id": "OphJqTgS9Gs",
+      "title": "PLEASE FEED THE ELEVATOR w/ Cae, Shiki, Vanta, Bettel & Caspurr?KLETKA?",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "KLETKA",
+      "published_at": "2026-04-22T12:26:04.000Z",
+      "available_at": "2026-04-22T17:03:04.000Z",
+      "start_scheduled": "2026-04-22T17:00:00.000Z",
+      "start_actual": "2026-04-22T17:03:04.000Z",
+      "live_viewers": 342,
+      "channel": {
+        "id": "UCfVSveW0-5LoLjM_SmkR2PQ",
+        "name": "Elias Delborne?FIRST STAGE PRODUCTION EN?",
+        "english_name": "Elias Delborne",
+        "org": "FIRST STAGE PRODUCTION",
+        "suborg": "3cEN Lamentus",
+        "photo": "https://yt3.ggpht.com/oevTEU8ymGQY2jlbD7MUHb3_GJlpsT8_Gvgzlo00Gr4GWc6nplc8pYdx1950gWODu1tqj1n_=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCpYf6C9QsP_BRf97vLuXlIA": {
       "video_id": "qVEWilZzh-c",
       "title": "?KLETKA?What even is this game",
@@ -111,7 +131,7 @@
       "available_at": "2026-04-22T17:13:06.000Z",
       "start_scheduled": "2026-04-22T17:00:00.000Z",
       "start_actual": "2026-04-22T17:13:06.000Z",
-      "live_viewers": 250,
+      "live_viewers": 264,
       "channel": {
         "id": "UCXEtq-HwfxgedQ2tF6-txUQ",
         "name": "Caspurr Catacini",
