@@ -1,1 +1,85 @@
-
+{
+  "cached_at": 1776850961,
+  "lives": {
+    "UC6eWCld0KwmyHFbAqK3V-Rw": {
+      "video_id": "36tIBh4eKWc",
+      "title": "????????????????????????????????????????~~~!?????????/??????",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-21T16:06:42.000Z",
+      "available_at": "2026-04-22T08:59:10.000Z",
+      "start_scheduled": "2026-04-22T09:00:00.000Z",
+      "start_actual": "2026-04-22T08:59:10.000Z",
+      "live_viewers": 8546,
+      "channel": {
+        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+        "name": "Koyori ch. ????? - holoX -",
+        "english_name": "Hakui Koyori",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
+      "video_id": "_4Qz0irpas4",
+      "title": "?PRAGMATA??????!???? \"\"?????\"\" ??????!!????????/ ?????? ?",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PRAGMATA",
+      "published_at": "2026-04-20T10:34:19.000Z",
+      "available_at": "2026-04-22T09:01:34.000Z",
+      "start_scheduled": "2026-04-22T09:00:00.000Z",
+      "start_actual": "2026-04-22T09:01:34.000Z",
+      "live_viewers": 268,
+      "channel": {
+        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
+        "name": "Uyu Ch. ???? - UPROAR!! -",
+        "english_name": "Utsugi Uyu",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAWSyEs_Io8MtpY3m-zqILA": {
+      "video_id": "V3e8QmPEVPU",
+      "title": "? ?????????? ??????????????!!!!? ???? / hololive ?",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-22T05:22:52.000Z",
+      "available_at": "2026-04-22T09:01:35.000Z",
+      "start_scheduled": "2026-04-22T09:00:00.000Z",
+      "start_actual": "2026-04-22T09:01:35.000Z",
+      "live_viewers": 7689,
+      "channel": {
+        "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+        "name": "Nene Ch.????",
+        "english_name": "Momosuzu Nene",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "rRfDJH3JENc",
+      "title": "? ??????????? ?????!??????????????!?#???????? #hololiveDEV_IS #FLOWGLOW?",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Super_Mario",
+      "published_at": "2026-04-22T07:50:36.000Z",
+      "available_at": "2026-04-22T09:01:51.000Z",
+      "start_scheduled": "2026-04-22T09:00:00.000Z",
+      "start_actual": "2026-04-22T09:01:51.000Z",
+      "live_viewers": 7478,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. ???????? - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    }
+  }
+}
