@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776869548,
+  "cached_at": 1776869608,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "36tIBh4eKWc",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-22T11:02:11.000Z",
       "start_scheduled": "2026-04-22T11:00:00.000Z",
       "start_actual": "2026-04-22T11:02:11.000Z",
-      "live_viewers": 1326,
+      "live_viewers": 1306,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-22T12:02:08.000Z",
       "start_scheduled": "2026-04-22T12:10:00.000Z",
       "start_actual": "2026-04-22T12:02:08.000Z",
-      "live_viewers": 5918,
+      "live_viewers": 5942,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-22T12:34:45.000Z",
       "start_scheduled": "2026-04-22T12:30:00.000Z",
       "start_actual": "2026-04-22T12:34:45.000Z",
-      "live_viewers": 478,
+      "live_viewers": 501,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. ?????",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-22T13:01:52.000Z",
       "start_scheduled": "2026-04-22T13:00:00.000Z",
       "start_actual": "2026-04-22T13:01:52.000Z",
-      "live_viewers": 9188,
+      "live_viewers": 10338,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. ?????",
@@ -159,86 +159,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvaTdHTWBGv3MKj3KVqJVCw": {
-      "video_id": "wz89TnYZQ44",
-      "title": "? school666 ?????????????????????? ???????/????? ?",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "School_666",
-      "published_at": "2026-04-21T14:52:34.000Z",
-      "available_at": "2026-04-22T13:02:46.000Z",
-      "start_scheduled": "2026-04-22T13:00:00.000Z",
-      "start_actual": "2026-04-22T13:02:46.000Z",
-      "live_viewers": 10026,
-      "channel": {
-        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-        "name": "Okayu Ch. ?????",
-        "english_name": "Nekomata Okayu",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvzGlP9oQwU--Y0r9id_jnA": {
-      "video_id": "ttdZdjucW5M",
-      "title": "?#??????????????????????????????????????????????!!!?school666??????/??????",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "School_666",
-      "published_at": "2026-04-22T08:25:37.000Z",
-      "available_at": "2026-04-22T13:02:55.000Z",
-      "start_scheduled": "2026-04-22T13:00:00.000Z",
-      "start_actual": "2026-04-22T13:02:55.000Z",
-      "live_viewers": 18057,
-      "channel": {
-        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-        "name": "Subaru Ch. ?????",
-        "english_name": "Oozora Subaru",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "2wpT2D0rI4o",
-      "title": "? school666 ??????????????????????? ??????/??????",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "School_666",
-      "published_at": "2026-04-22T11:06:44.000Z",
-      "available_at": "2026-04-22T13:02:56.000Z",
-      "start_scheduled": "2026-04-22T13:00:00.000Z",
-      "start_actual": "2026-04-22T13:02:56.000Z",
-      "live_viewers": 10760,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "???Ch??????",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC7fk0CB07ly8oSl0aqKkqFg": {
-      "video_id": "9QzgnlmSdJY",
-      "title": "?School 666?????????????!?????????/??????",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "School_666",
-      "published_at": "2026-04-22T12:10:41.000Z",
-      "available_at": "2026-04-22T13:03:35.000Z",
-      "start_scheduled": "2026-04-22T13:00:00.000Z",
-      "start_actual": "2026-04-22T13:03:35.000Z",
-      "live_viewers": 8832,
-      "channel": {
-        "id": "UC7fk0CB07ly8oSl0aqKkqFg",
-        "name": "Nakiri Ayame Ch. ?????",
-        "english_name": "Nakiri Ayame",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdXAk5MpyLD8594lm_OvtGQ": {
@@ -251,7 +171,7 @@
       "available_at": "2026-04-22T13:10:19.000Z",
       "start_scheduled": "2026-04-22T13:10:00.000Z",
       "start_actual": "2026-04-22T13:10:19.000Z",
-      "live_viewers": 3650,
+      "live_viewers": 3637,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. ??????? ? ReGLOSS",
@@ -311,7 +231,7 @@
       "available_at": "2026-04-22T14:02:05.000Z",
       "start_scheduled": "2026-04-22T14:00:00.000Z",
       "start_actual": "2026-04-22T14:02:05.000Z",
-      "live_viewers": 2636,
+      "live_viewers": 2666,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. ?????",
@@ -351,7 +271,7 @@
       "available_at": "2026-04-22T14:31:32.000Z",
       "start_scheduled": "2026-04-22T14:30:00.000Z",
       "start_actual": "2026-04-22T14:31:32.000Z",
-      "live_viewers": 576,
+      "live_viewers": 681,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
