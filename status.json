@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776883108,
+  "cached_at": 1776883169,
   "lives": {
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
       "video_id": "Z60F5BoPcJw",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-22T13:01:52.000Z",
       "start_scheduled": "2026-04-22T13:00:00.000Z",
       "start_actual": "2026-04-22T13:01:52.000Z",
-      "live_viewers": 8437,
+      "live_viewers": 8354,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. ?????",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-22T14:31:32.000Z",
       "start_scheduled": "2026-04-22T14:30:00.000Z",
       "start_actual": "2026-04-22T14:31:32.000Z",
-      "live_viewers": 2561,
+      "live_viewers": 2584,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-22T17:13:06.000Z",
       "start_scheduled": "2026-04-22T17:00:00.000Z",
       "start_actual": "2026-04-22T17:13:06.000Z",
-      "live_viewers": 266,
+      "live_viewers": 252,
       "channel": {
         "id": "UCXEtq-HwfxgedQ2tF6-txUQ",
         "name": "Caspurr Catacini",
