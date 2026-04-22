@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776863668,
+  "cached_at": 1776863728,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "36tIBh4eKWc",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-22T08:59:10.000Z",
       "start_scheduled": "2026-04-22T09:00:00.000Z",
       "start_actual": "2026-04-22T08:59:10.000Z",
-      "live_viewers": 7465,
+      "live_viewers": 7222,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. ????? - holoX -",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-22T11:00:08.000Z",
       "start_scheduled": "2026-04-22T11:00:00.000Z",
       "start_actual": "2026-04-22T11:00:08.000Z",
-      "live_viewers": 32162,
+      "live_viewers": 32183,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. ?????",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-22T11:01:11.000Z",
       "start_scheduled": "2026-04-22T11:00:00.000Z",
       "start_actual": "2026-04-22T11:01:11.000Z",
-      "live_viewers": 3973,
+      "live_viewers": 3787,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. ????? ? ReGLOSS",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-22T12:02:08.000Z",
       "start_scheduled": "2026-04-22T12:10:00.000Z",
       "start_actual": "2026-04-22T12:02:08.000Z",
-      "live_viewers": 4801,
+      "live_viewers": 5159,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-22T12:10:15.000Z",
       "start_scheduled": "2026-04-22T12:00:00.000Z",
       "start_actual": "2026-04-22T12:10:15.000Z",
-      "live_viewers": 459,
+      "live_viewers": 447,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.????",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-22T13:00:30.000Z",
       "start_scheduled": "2026-04-22T13:00:00.000Z",
       "start_actual": "2026-04-22T13:00:30.000Z",
-      "live_viewers": 362,
+      "live_viewers": 372,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.?????",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-22T13:01:52.000Z",
       "start_scheduled": "2026-04-22T13:00:00.000Z",
       "start_actual": "2026-04-22T13:01:52.000Z",
-      "live_viewers": 4122,
+      "live_viewers": 4304,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. ?????",
@@ -271,7 +271,7 @@
       "available_at": "2026-04-22T13:02:46.000Z",
       "start_scheduled": "2026-04-22T13:00:00.000Z",
       "start_actual": "2026-04-22T13:02:46.000Z",
-      "live_viewers": 10266,
+      "live_viewers": 10811,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. ?????",
@@ -291,7 +291,7 @@
       "available_at": "2026-04-22T13:02:55.000Z",
       "start_scheduled": "2026-04-22T13:00:00.000Z",
       "start_actual": "2026-04-22T13:02:55.000Z",
-      "live_viewers": 17355,
+      "live_viewers": 18162,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. ?????",
@@ -311,7 +311,7 @@
       "available_at": "2026-04-22T13:02:56.000Z",
       "start_scheduled": "2026-04-22T13:00:00.000Z",
       "start_actual": "2026-04-22T13:02:56.000Z",
-      "live_viewers": 8627,
+      "live_viewers": 9100,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "???Ch??????",
@@ -331,7 +331,7 @@
       "available_at": "2026-04-22T13:03:35.000Z",
       "start_scheduled": "2026-04-22T13:00:00.000Z",
       "start_actual": "2026-04-22T13:03:35.000Z",
-      "live_viewers": 6911,
+      "live_viewers": 7424,
       "channel": {
         "id": "UC7fk0CB07ly8oSl0aqKkqFg",
         "name": "Nakiri Ayame Ch. ?????",
@@ -348,10 +348,10 @@
       "status": "live",
       "topic_id": "Pokemon_Pokopia",
       "published_at": "2026-04-22T13:08:32.000Z",
-      "available_at": "2026-04-22T13:10:16.000Z",
+      "available_at": "2026-04-22T13:10:19.000Z",
       "start_scheduled": "2026-04-22T13:10:00.000Z",
-      "start_actual": "2026-04-22T13:10:16.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-22T13:10:19.000Z",
+      "live_viewers": 1288,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. ??????? ? ReGLOSS",
