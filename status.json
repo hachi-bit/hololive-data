@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776854068,
+  "cached_at": 1776854128,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "36tIBh4eKWc",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-22T08:59:10.000Z",
       "start_scheduled": "2026-04-22T09:00:00.000Z",
       "start_actual": "2026-04-22T08:59:10.000Z",
-      "live_viewers": 8165,
+      "live_viewers": 8237,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. ????? - holoX -",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
-      "video_id": "_4Qz0irpas4",
-      "title": "?PRAGMATA??????!???? \"\"?????\"\" ??????!!????????/ ?????? ?",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "PRAGMATA",
-      "published_at": "2026-04-20T10:34:19.000Z",
-      "available_at": "2026-04-22T09:01:34.000Z",
-      "start_scheduled": "2026-04-22T09:00:00.000Z",
-      "start_actual": "2026-04-22T09:01:34.000Z",
-      "live_viewers": 303,
-      "channel": {
-        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
-        "name": "Uyu Ch. ???? - UPROAR!! -",
-        "english_name": "Utsugi Uyu",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCAWSyEs_Io8MtpY3m-zqILA": {
@@ -51,7 +31,7 @@
       "available_at": "2026-04-22T09:01:35.000Z",
       "start_scheduled": "2026-04-22T09:00:00.000Z",
       "start_actual": "2026-04-22T09:01:35.000Z",
-      "live_viewers": 9512,
+      "live_viewers": 10185,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.????",
@@ -71,7 +51,7 @@
       "available_at": "2026-04-22T09:01:51.000Z",
       "start_scheduled": "2026-04-22T09:00:00.000Z",
       "start_actual": "2026-04-22T09:01:51.000Z",
-      "live_viewers": 9205,
+      "live_viewers": 9484,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. ???????? - FLOW GLOW",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-22T10:00:09.000Z",
       "start_scheduled": "2026-04-22T10:00:00.000Z",
       "start_actual": "2026-04-22T10:00:09.000Z",
-      "live_viewers": 5713,
+      "live_viewers": 5891,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. ?????",
