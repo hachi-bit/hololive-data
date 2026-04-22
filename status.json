@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776888629,
+  "cached_at": 1776888688,
   "lives": {
     "UCe3tlAzxc9eEGKH5PGC4arg": {
       "video_id": "87usu9YHfCg",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-22T17:02:39.000Z",
       "start_scheduled": "2026-04-22T17:00:00.000Z",
       "start_actual": "2026-04-22T17:02:39.000Z",
-      "live_viewers": 248,
+      "live_viewers": 236,
       "channel": {
         "id": "UCe3tlAzxc9eEGKH5PGC4arg",
         "name": "Caelen Strayfe ?FIRST STAGE PRODUCTION EN?",
@@ -59,26 +59,6 @@
         "org": "Nijisanji",
         "suborg": "5eEN Krisis",
         "photo": "https://yt3.ggpht.com/5C2Pd2GdbBFGmWqv1H4RBtBPppTYvY7Bcpad_iuOuNQC4dJm45NB53lNnCuUMVLMkYT3e50_yA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCXEtq-HwfxgedQ2tF6-txUQ": {
-      "video_id": "b-XiJk2cTRE",
-      "title": "?Kletka?Collab w/ Elias, Shiki, Bettel, Vanta, Caelen",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "KLETKA",
-      "published_at": "2026-04-22T16:55:25.000Z",
-      "available_at": "2026-04-22T17:13:06.000Z",
-      "start_scheduled": "2026-04-22T17:00:00.000Z",
-      "start_actual": "2026-04-22T17:13:06.000Z",
-      "live_viewers": 312,
-      "channel": {
-        "id": "UCXEtq-HwfxgedQ2tF6-txUQ",
-        "name": "Caspurr Catacini",
-        "english_name": "Caspurr Catacini",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/4ye7aMdKWioTbGLnUMUDK_fbPLTp_bEblLHeEwQdZ5RDXr6g9_kqogcptmYH7V6XA1cWvmjs=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
