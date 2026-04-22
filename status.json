@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776877473,
+  "cached_at": 1776877528,
   "lives": {
     "UCZgOv3YDEs-ZnZWDYVwJdmA": {
       "video_id": "PcYmJycXNag",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-22T12:34:45.000Z",
       "start_scheduled": "2026-04-22T12:30:00.000Z",
       "start_actual": "2026-04-22T12:34:45.000Z",
-      "live_viewers": 544,
+      "live_viewers": 532,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. ?????",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-22T13:30:20.000Z",
       "start_scheduled": "2026-04-22T13:30:00.000Z",
       "start_actual": "2026-04-22T13:30:20.000Z",
-      "live_viewers": 2456,
+      "live_viewers": 2461,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -158,6 +158,25 @@
         "org": "FIRST STAGE PRODUCTION",
         "suborg": "3cEN Lamentus",
         "photo": "https://yt3.ggpht.com/mlbn2TaJy28HdHpmIIY-X20IcFkYiVGR65l1AEnjDzf14bYE5IZcvMapzzXy6ISz5pgTHhDqRw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCpYf6C9QsP_BRf97vLuXlIA": {
+      "video_id": "qVEWilZzh-c",
+      "title": "?KLETKA?What even is this game",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "KLETKA",
+      "published_at": "2026-04-22T17:00:59.000Z",
+      "available_at": "2026-04-22T17:00:00.000Z",
+      "start_scheduled": "2026-04-22T17:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCpYf6C9QsP_BRf97vLuXlIA",
+        "name": "Vantacrow Bringer ?NIJISANJI EN?",
+        "english_name": "Vantacrow Bringer",
+        "org": "Nijisanji",
+        "suborg": "5eEN Krisis",
+        "photo": "https://yt3.ggpht.com/5C2Pd2GdbBFGmWqv1H4RBtBPppTYvY7Bcpad_iuOuNQC4dJm45NB53lNnCuUMVLMkYT3e50_yA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
