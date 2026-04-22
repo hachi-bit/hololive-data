@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776880768,
+  "cached_at": 1776880828,
   "lives": {
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
       "video_id": "Z60F5BoPcJw",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-22T13:01:52.000Z",
       "start_scheduled": "2026-04-22T13:00:00.000Z",
       "start_actual": "2026-04-22T13:01:52.000Z",
-      "live_viewers": 9371,
+      "live_viewers": 9271,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. ?????",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-22T14:31:32.000Z",
       "start_scheduled": "2026-04-22T14:30:00.000Z",
       "start_actual": "2026-04-22T14:31:32.000Z",
-      "live_viewers": 2759,
+      "live_viewers": 2768,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-22T17:02:39.000Z",
       "start_scheduled": "2026-04-22T17:00:00.000Z",
       "start_actual": "2026-04-22T17:02:39.000Z",
-      "live_viewers": 305,
+      "live_viewers": 310,
       "channel": {
         "id": "UCe3tlAzxc9eEGKH5PGC4arg",
         "name": "Caelen Strayfe ?FIRST STAGE PRODUCTION EN?",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-22T17:06:41.000Z",
       "start_scheduled": "2026-04-22T17:00:00.000Z",
       "start_actual": "2026-04-22T17:06:41.000Z",
-      "live_viewers": 629,
+      "live_viewers": 605,
       "channel": {
         "id": "UCpYf6C9QsP_BRf97vLuXlIA",
         "name": "Vantacrow Bringer ?NIJISANJI EN?",
@@ -99,6 +99,26 @@
         "org": "Nijisanji",
         "suborg": "5eEN Krisis",
         "photo": "https://yt3.ggpht.com/5C2Pd2GdbBFGmWqv1H4RBtBPppTYvY7Bcpad_iuOuNQC4dJm45NB53lNnCuUMVLMkYT3e50_yA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCXEtq-HwfxgedQ2tF6-txUQ": {
+      "video_id": "b-XiJk2cTRE",
+      "title": "?Kletka?Collab w/ Elias, Shiki, Bettel, Vanta, Caelen",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "KLETKA",
+      "published_at": "2026-04-22T16:55:25.000Z",
+      "available_at": "2026-04-22T17:13:06.000Z",
+      "start_scheduled": "2026-04-22T17:00:00.000Z",
+      "start_actual": "2026-04-22T17:13:06.000Z",
+      "live_viewers": 250,
+      "channel": {
+        "id": "UCXEtq-HwfxgedQ2tF6-txUQ",
+        "name": "Caspurr Catacini",
+        "english_name": "Caspurr Catacini",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/4ye7aMdKWioTbGLnUMUDK_fbPLTp_bEblLHeEwQdZ5RDXr6g9_kqogcptmYH7V6XA1cWvmjs=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
