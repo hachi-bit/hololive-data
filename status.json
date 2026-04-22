@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776855748,
+  "cached_at": 1776855808,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "36tIBh4eKWc",
@@ -79,6 +79,104 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+      "video_id": "c_qfG21MCOc",
+      "title": "???4???????? #???? ? ????????!????????/?????/??????",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-04-22T03:09:03.000Z",
+      "available_at": "2026-04-22T11:00:00.000Z",
+      "start_scheduled": "2026-04-22T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "name": "???Ch??????",
+        "english_name": "Shirakami Fubuki",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCYz_5n-uDuChHtLo7My1HnQ": {
+      "video_id": "fk1kG1Ulcic",
+      "title": "?Tomodachi Life: Living the Dream? Pt.7: TIME TO CUSTOMIZE THE ISLAND?? ?Kureiji Ollie?",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-22T09:46:13.000Z",
+      "available_at": "2026-04-22T11:00:00.000Z",
+      "start_scheduled": "2026-04-22T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+        "name": "Kureiji Ollie Ch. hololive-ID",
+        "english_name": "Kureiji Ollie",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "YE_u2QfVqc8",
+      "title": "????????????????????????? ???????????????!??!??????/??????",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-21T05:07:53.000Z",
+      "available_at": "2026-04-22T11:00:08.000Z",
+      "start_scheduled": "2026-04-22T11:00:00.000Z",
+      "start_actual": "2026-04-22T11:00:08.000Z",
+      "live_viewers": 5033,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. ?????",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCMwGHR0BTZuLsmjY_NT5Pwg": {
+      "video_id": "INcVfIXXh_A",
+      "title": "???????????????!+?????...?! #PR",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "announce",
+      "published_at": "2026-04-21T21:24:12.000Z",
+      "available_at": "2026-04-22T11:00:14.000Z",
+      "start_scheduled": "2026-04-22T11:00:00.000Z",
+      "start_actual": "2026-04-22T11:00:14.000Z",
+      "live_viewers": 1334,
+      "channel": {
+        "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "name": "Ninomae Ina'nis Ch. hololive-EN",
+        "english_name": "Ninomae Ina'nis",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCtyWhCj3AqKh2dXctLkDtng": {
+      "video_id": "gX-DbRL337Q",
+      "title": "?Slay the Spire 2????????????????????????????/hololive DEV_IS ReGLOSS?",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Slay_the_Spire",
+      "published_at": "2026-04-22T09:21:21.000Z",
+      "available_at": "2026-04-22T11:01:11.000Z",
+      "start_scheduled": "2026-04-22T11:00:00.000Z",
+      "start_actual": "2026-04-22T11:01:11.000Z",
+      "live_viewers": 932,
+      "channel": {
+        "id": "UCtyWhCj3AqKh2dXctLkDtng",
+        "name": "Ririka Ch. ????? ? ReGLOSS",
+        "english_name": "Ichijou Ririka",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
