@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776856048,
+  "cached_at": 1776856108,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "36tIBh4eKWc",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-22T08:59:10.000Z",
       "start_scheduled": "2026-04-22T09:00:00.000Z",
       "start_actual": "2026-04-22T08:59:10.000Z",
-      "live_viewers": 9630,
+      "live_viewers": 9291,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. ????? - holoX -",
@@ -41,26 +41,6 @@
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCK9V2B22uJYu3N7eR_BT9QA": {
-      "video_id": "8aHjvtXhxdM",
-      "title": "??????#1 ???????????????????????????/??????",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-22T10:00:06.000Z",
-      "available_at": "2026-04-22T10:00:06.000Z",
-      "start_scheduled": "2026-04-22T10:00:00.000Z",
-      "start_actual": "2026-04-22T10:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-        "name": "Polka Ch. ?????",
-        "english_name": "Omaru Polka",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCFKOVgVbGmX65RxO3EtH3iw": {
       "video_id": "aCfTCggRwP8",
       "title": "??????STAR DIVE????????????!??????~!!??????/??????",
@@ -71,7 +51,7 @@
       "available_at": "2026-04-22T10:00:09.000Z",
       "start_scheduled": "2026-04-22T10:00:00.000Z",
       "start_actual": "2026-04-22T10:00:09.000Z",
-      "live_viewers": 6553,
+      "live_viewers": 6418,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. ?????",
@@ -110,7 +90,7 @@
       "available_at": "2026-04-22T11:00:08.000Z",
       "start_scheduled": "2026-04-22T11:00:00.000Z",
       "start_actual": "2026-04-22T11:00:08.000Z",
-      "live_viewers": 9038,
+      "live_viewers": 13296,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. ?????",
@@ -130,7 +110,7 @@
       "available_at": "2026-04-22T11:00:14.000Z",
       "start_scheduled": "2026-04-22T11:00:00.000Z",
       "start_actual": "2026-04-22T11:00:14.000Z",
-      "live_viewers": 2778,
+      "live_viewers": 3668,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -150,7 +130,7 @@
       "available_at": "2026-04-22T11:01:11.000Z",
       "start_scheduled": "2026-04-22T11:00:00.000Z",
       "start_actual": "2026-04-22T11:01:11.000Z",
-      "live_viewers": 1018,
+      "live_viewers": 1583,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. ????? ? ReGLOSS",
@@ -170,7 +150,7 @@
       "available_at": "2026-04-22T11:02:11.000Z",
       "start_scheduled": "2026-04-22T11:00:00.000Z",
       "start_actual": "2026-04-22T11:02:11.000Z",
-      "live_viewers": 337,
+      "live_viewers": 574,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
