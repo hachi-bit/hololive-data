@@ -1,26 +1,6 @@
 {
-  "cached_at": 1776877648,
+  "cached_at": 1776877708,
   "lives": {
-    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
-      "video_id": "PcYmJycXNag",
-      "title": "???????? 0 HD??????????????! # 1? #????? ?",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-04-22T02:55:49.000Z",
-      "available_at": "2026-04-22T12:34:45.000Z",
-      "start_scheduled": "2026-04-22T12:30:00.000Z",
-      "start_actual": "2026-04-22T12:34:45.000Z",
-      "live_viewers": 532,
-      "channel": {
-        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "name": "Izuru Ch. ?????",
-        "english_name": "Kanade Izuru",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
       "video_id": "Z60F5BoPcJw",
       "title": "? ???????? ?????!????????????... #9??????/?????4??????????",
@@ -31,7 +11,7 @@
       "available_at": "2026-04-22T13:01:52.000Z",
       "start_scheduled": "2026-04-22T13:00:00.000Z",
       "start_actual": "2026-04-22T13:01:52.000Z",
-      "live_viewers": 11575,
+      "live_viewers": 11623,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. ?????",
@@ -51,7 +31,7 @@
       "available_at": "2026-04-22T13:30:20.000Z",
       "start_scheduled": "2026-04-22T13:30:00.000Z",
       "start_actual": "2026-04-22T13:30:20.000Z",
-      "live_viewers": 2461,
+      "live_viewers": 2463,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -71,7 +51,7 @@
       "available_at": "2026-04-22T13:30:37.000Z",
       "start_scheduled": "2026-04-22T13:30:00.000Z",
       "start_actual": "2026-04-22T13:30:37.000Z",
-      "live_viewers": 8082,
+      "live_viewers": 8220,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. ??? - FLOW GLOW",
@@ -91,7 +71,7 @@
       "available_at": "2026-04-22T14:02:05.000Z",
       "start_scheduled": "2026-04-22T14:00:00.000Z",
       "start_actual": "2026-04-22T14:02:05.000Z",
-      "live_viewers": 4951,
+      "live_viewers": 5016,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. ?????",
@@ -141,25 +121,6 @@
         "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCe3tlAzxc9eEGKH5PGC4arg": {
-      "video_id": "87usu9YHfCg",
-      "title": "?Kletka?Please let me survive more than 5 minutes this time...?FIRST STAGE PRODUCTION EN?",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "KLETKA",
-      "published_at": "2026-04-22T11:09:26.000Z",
-      "available_at": "2026-04-22T17:00:00.000Z",
-      "start_scheduled": "2026-04-22T17:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCe3tlAzxc9eEGKH5PGC4arg",
-        "name": "Caelen Strayfe ?FIRST STAGE PRODUCTION EN?",
-        "english_name": "Caelen Strayfe",
-        "org": "FIRST STAGE PRODUCTION",
-        "suborg": "3cEN Lamentus",
-        "photo": "https://yt3.ggpht.com/mlbn2TaJy28HdHpmIIY-X20IcFkYiVGR65l1AEnjDzf14bYE5IZcvMapzzXy6ISz5pgTHhDqRw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCpYf6C9QsP_BRf97vLuXlIA": {
       "video_id": "qVEWilZzh-c",
       "title": "?KLETKA?What even is this game",
@@ -177,6 +138,26 @@
         "org": "Nijisanji",
         "suborg": "5eEN Krisis",
         "photo": "https://yt3.ggpht.com/5C2Pd2GdbBFGmWqv1H4RBtBPppTYvY7Bcpad_iuOuNQC4dJm45NB53lNnCuUMVLMkYT3e50_yA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCe3tlAzxc9eEGKH5PGC4arg": {
+      "video_id": "87usu9YHfCg",
+      "title": "?Kletka?Please let me survive more than 5 minutes this time...?FIRST STAGE PRODUCTION EN?",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "KLETKA",
+      "published_at": "2026-04-22T11:09:26.000Z",
+      "available_at": "2026-04-22T17:02:39.000Z",
+      "start_scheduled": "2026-04-22T17:00:00.000Z",
+      "start_actual": "2026-04-22T17:02:39.000Z",
+      "live_viewers": 204,
+      "channel": {
+        "id": "UCe3tlAzxc9eEGKH5PGC4arg",
+        "name": "Caelen Strayfe ?FIRST STAGE PRODUCTION EN?",
+        "english_name": "Caelen Strayfe",
+        "org": "FIRST STAGE PRODUCTION",
+        "suborg": "3cEN Lamentus",
+        "photo": "https://yt3.ggpht.com/mlbn2TaJy28HdHpmIIY-X20IcFkYiVGR65l1AEnjDzf14bYE5IZcvMapzzXy6ISz5pgTHhDqRw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
