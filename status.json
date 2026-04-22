@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776897270,
+  "cached_at": 1776897330,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "yfYY-Zpfw5w",
@@ -8,9 +8,10 @@
       "status": "live",
       "topic_id": "Tomodachi_Life",
       "published_at": "2026-04-22T03:17:09.000Z",
-      "available_at": "2026-04-22T22:00:00.000Z",
+      "available_at": "2026-04-22T22:30:17.000Z",
       "start_scheduled": "2026-04-22T22:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-22T22:30:17.000Z",
+      "live_viewers": 297,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
