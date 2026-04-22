@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776859588,
+  "cached_at": 1776859648,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "36tIBh4eKWc",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-22T08:59:10.000Z",
       "start_scheduled": "2026-04-22T09:00:00.000Z",
       "start_actual": "2026-04-22T08:59:10.000Z",
-      "live_viewers": 7934,
+      "live_viewers": 8070,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. ????? - holoX -",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-22T11:00:08.000Z",
       "start_scheduled": "2026-04-22T11:00:00.000Z",
       "start_actual": "2026-04-22T11:00:08.000Z",
-      "live_viewers": 31664,
+      "live_viewers": 32254,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. ?????",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-22T11:01:11.000Z",
       "start_scheduled": "2026-04-22T11:00:00.000Z",
       "start_actual": "2026-04-22T11:01:11.000Z",
-      "live_viewers": 3448,
+      "live_viewers": 3437,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. ????? ? ReGLOSS",
@@ -121,6 +121,25 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "EkDReRGhWFM",
+      "title": "?OVERWATCH?????????????!! / ????",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Overwatch",
+      "published_at": "2026-04-22T11:34:08.000Z",
+      "available_at": "2026-04-22T12:00:00.000Z",
+      "start_scheduled": "2026-04-22T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.????",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCtMiyDQJ97iax5wuwGhLzGg": {
       "video_id": "jKyngn2pHKw",
       "title": "?Overwatch?????????????OW??????????#????/Vtuber?#?????",
@@ -159,25 +178,6 @@
         "photo": "https://yt3.ggpht.com/iY7JWBWoFYEeQL46aqa3msQNMOo8DLYFfSaZuSFvpCpSXk2LWFQTTv7IAh9otm6r5LlsncrD9Q0=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "EkDReRGhWFM",
-      "title": "?OVERWATCH?????????????!! / ????",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Overwatch",
-      "published_at": "2026-04-22T11:34:08.000Z",
-      "available_at": "2026-04-22T12:00:00.000Z",
-      "start_scheduled": "2026-04-22T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.????",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "EkEGYeQ27YI",
       "title": "?FUNKO FIND CHALLENGE!!?you hide them. we find them. ???????!#calliolive #pr #morifunkofind",
@@ -188,7 +188,7 @@
       "available_at": "2026-04-22T12:00:14.000Z",
       "start_scheduled": "2026-04-22T12:00:00.000Z",
       "start_actual": "2026-04-22T12:00:14.000Z",
-      "live_viewers": 973,
+      "live_viewers": 1263,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -208,7 +208,7 @@
       "available_at": "2026-04-22T12:02:08.000Z",
       "start_scheduled": "2026-04-22T12:10:00.000Z",
       "start_actual": "2026-04-22T12:02:08.000Z",
-      "live_viewers": 457,
+      "live_viewers": 929,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
