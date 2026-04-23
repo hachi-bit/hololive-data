@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776935310,
+  "cached_at": 1776935368,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "NrHwDewVR7U",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-23T06:59:32.000Z",
       "start_scheduled": "2026-04-23T07:00:00.000Z",
       "start_actual": "2026-04-23T06:59:32.000Z",
-      "live_viewers": 2890,
+      "live_viewers": 2720,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-23T08:08:35.000Z",
       "start_scheduled": "2026-04-23T08:05:00.000Z",
       "start_actual": "2026-04-23T08:08:35.000Z",
-      "live_viewers": 273,
+      "live_viewers": 262,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. ????",
@@ -80,25 +80,6 @@
         "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "ZGmEf5ocEXs",
-      "title": "? ??????????? ?????!??????????????!?#???????? #hololiveDEV_IS #FLOWGLOW?",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Super_Mario",
-      "published_at": "2026-04-22T22:53:18.000Z",
-      "available_at": "2026-04-23T09:00:00.000Z",
-      "start_scheduled": "2026-04-23T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-        "name": "Vivi Ch. ???????? - FLOW GLOW",
-        "english_name": "Kikirara Vivi",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
       "video_id": "TbJodPWChyg",
       "title": "???????????????!??????????!!??????/??????",
@@ -109,7 +90,7 @@
       "available_at": "2026-04-23T09:00:23.000Z",
       "start_scheduled": "2026-04-23T09:00:00.000Z",
       "start_actual": "2026-04-23T09:00:23.000Z",
-      "live_viewers": 5213,
+      "live_viewers": 7327,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. ?????",
@@ -117,6 +98,26 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "ZGmEf5ocEXs",
+      "title": "? ??????????? ?????!??????????????!?#???????? #hololiveDEV_IS #FLOWGLOW?",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Super_Mario",
+      "published_at": "2026-04-22T22:53:18.000Z",
+      "available_at": "2026-04-23T09:06:13.000Z",
+      "start_scheduled": "2026-04-23T09:00:00.000Z",
+      "start_actual": "2026-04-23T09:06:13.000Z",
+      "live_viewers": 1608,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. ???????? - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
