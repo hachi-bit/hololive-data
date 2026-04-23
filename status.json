@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776951486,
+  "cached_at": 1776951547,
   "lives": {
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
       "video_id": "TbJodPWChyg",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-23T09:00:23.000Z",
       "start_scheduled": "2026-04-23T09:00:00.000Z",
       "start_actual": "2026-04-23T09:00:23.000Z",
-      "live_viewers": 11254,
+      "live_viewers": 11288,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-23T11:00:39.000Z",
       "start_scheduled": "2026-04-23T11:00:00.000Z",
       "start_actual": "2026-04-23T11:00:39.000Z",
-      "live_viewers": 4550,
+      "live_viewers": 4557,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-23T11:59:14.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T11:59:14.000Z",
-      "live_viewers": 931,
+      "live_viewers": 903,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-23T11:59:52.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T11:59:52.000Z",
-      "live_viewers": 2059,
+      "live_viewers": 2062,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-23T12:01:35.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:01:35.000Z",
-      "live_viewers": 1222,
+      "live_viewers": 1287,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -271,7 +271,7 @@
       "available_at": "2026-04-23T12:33:55.000Z",
       "start_scheduled": "2026-04-23T12:30:00.000Z",
       "start_actual": "2026-04-23T12:33:55.000Z",
-      "live_viewers": 328,
+      "live_viewers": 349,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -351,7 +351,7 @@
       "available_at": "2026-04-23T13:02:49.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:02:49.000Z",
-      "live_viewers": 2810,
+      "live_viewers": 3072,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -371,7 +371,7 @@
       "available_at": "2026-04-23T13:04:52.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:04:52.000Z",
-      "live_viewers": 8085,
+      "live_viewers": 8564,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -391,7 +391,7 @@
       "available_at": "2026-04-23T13:13:57.000Z",
       "start_scheduled": "2026-04-23T13:15:00.000Z",
       "start_actual": "2026-04-23T13:13:57.000Z",
-      "live_viewers": 1024,
+      "live_viewers": 2744,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -411,7 +411,7 @@
       "available_at": "2026-04-23T13:31:57.000Z",
       "start_scheduled": "2026-04-23T13:30:00.000Z",
       "start_actual": "2026-04-23T13:31:57.000Z",
-      "live_viewers": 3258,
+      "live_viewers": 4025,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
