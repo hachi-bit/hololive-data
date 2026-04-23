@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776958205,
+  "cached_at": 1776958265,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "ptQk4rS3L6E",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-23T09:59:50.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T09:59:50.000Z",
-      "live_viewers": 6269,
+      "live_viewers": 6257,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-23T11:00:24.000Z",
       "start_scheduled": "2026-04-23T11:00:00.000Z",
       "start_actual": "2026-04-23T11:00:24.000Z",
-      "live_viewers": 9055,
+      "live_viewers": 8889,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-23T11:59:52.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T11:59:52.000Z",
-      "live_viewers": 1787,
+      "live_viewers": 1802,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -83,7 +83,7 @@
     },
     "UC_a00ml_EVDXSrtY8ZuyqGQ": {
       "video_id": "tNZEiLd7O7w",
-      "title": "【R.E.P.O】今日も楽しく魂もといオーブ集め!【#妖縁REPO￤#夏渚まはろ￤#パレプロ】",
+      "title": "【R.E.P.O】今日も楽しく魂もといオーブ集め！【#妖縁REPO￤#夏渚まはろ￤#パレプロ】",
       "type": "stream",
       "status": "live",
       "topic_id": "R.E.P.O.",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-23T13:04:52.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:04:52.000Z",
-      "live_viewers": 11995,
+      "live_viewers": 11971,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-23T13:31:57.000Z",
       "start_scheduled": "2026-04-23T13:30:00.000Z",
       "start_actual": "2026-04-23T13:31:57.000Z",
-      "live_viewers": 7879,
+      "live_viewers": 7811,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
