@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776972184,
+  "cached_at": 1776972245,
   "lives": {
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
       "video_id": "Fn1x0ifIWFU",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-23T13:04:52.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:04:52.000Z",
-      "live_viewers": 12429,
+      "live_viewers": 12245,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCJv02SHZgav7Mv3V0kBOR8Q": {
-      "video_id": "rXdixkyku0I",
-      "title": "【Resident Evil 5】A fear you can't forget!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-04-18T22:38:33.000Z",
-      "available_at": "2026-04-23T14:44:19.000Z",
-      "start_scheduled": "2026-04-23T15:00:00.000Z",
-      "start_actual": "2026-04-23T14:44:19.000Z",
-      "live_viewers": 382,
-      "channel": {
-        "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
-        "name": "Goldbullet Ch. HOLOSTARS-EN",
-        "english_name": "Goldbullet",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
@@ -51,7 +31,7 @@
       "available_at": "2026-04-23T17:22:15.000Z",
       "start_scheduled": "2026-04-23T17:00:00.000Z",
       "start_actual": "2026-04-23T17:22:15.000Z",
-      "live_viewers": 588,
+      "live_viewers": 817,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
