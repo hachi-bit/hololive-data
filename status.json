@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776927689,
+  "cached_at": 1776927748,
   "lives": {
     "UCmbs8T6MWqUHP1tIQvSgKrg": {
       "video_id": "RL8acX-1vBU",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-23T03:19:07.000Z",
       "start_scheduled": "2026-04-23T03:15:00.000Z",
       "start_actual": "2026-04-23T03:19:07.000Z",
-      "live_viewers": 6418,
+      "live_viewers": 6453,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -39,6 +39,26 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "NrHwDewVR7U",
+      "title": "?Tomodachi Life?POPULATING THE DOOMED YURI ISLAND?Pavolia Reine/hololiveID?",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-23T06:45:29.000Z",
+      "available_at": "2026-04-23T06:59:32.000Z",
+      "start_scheduled": "2026-04-23T07:00:00.000Z",
+      "start_actual": "2026-04-23T06:59:32.000Z",
+      "live_viewers": 165,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
