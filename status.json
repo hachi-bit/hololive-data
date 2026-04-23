@@ -1,25 +1,6 @@
 {
-  "cached_at": 1776987305,
+  "cached_at": 1776987365,
   "lives": {
-    "UC9p_lqQ0FEDz327Vgf5JwqA": {
-      "video_id": "aeO0EFHTnIU",
-      "title": "【Girls' Frontline 2: Exilium】Heading to the front lines! #sponsored",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Girls'_Frontline",
-      "published_at": "2026-04-23T13:42:53.000Z",
-      "available_at": "2026-04-23T23:00:00.000Z",
-      "start_scheduled": "2026-04-23T23:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-        "name": "Koseki Bijou Ch. hololive-EN",
-        "english_name": "Koseki Bijou",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1uv2Oq6kNxgATlCiez59hw": {
       "video_id": "bQNeCm72Xmw",
       "title": "【 Euro Truck Simulator 2 】朝活で一緒にドライブしませんか!【常闇トワ/ホロライブ】",
@@ -30,7 +11,7 @@
       "available_at": "2026-04-23T23:02:57.000Z",
       "start_scheduled": "2026-04-23T23:00:00.000Z",
       "start_actual": "2026-04-23T23:02:57.000Z",
-      "live_viewers": 6324,
+      "live_viewers": 6439,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -57,6 +38,26 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9p_lqQ0FEDz327Vgf5JwqA": {
+      "video_id": "aeO0EFHTnIU",
+      "title": "【Girls' Frontline 2: Exilium】Heading to the front lines! #sponsored",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Girls'_Frontline",
+      "published_at": "2026-04-23T13:42:53.000Z",
+      "available_at": "2026-04-23T23:30:41.000Z",
+      "start_scheduled": "2026-04-23T23:00:00.000Z",
+      "start_actual": "2026-04-23T23:30:41.000Z",
+      "live_viewers": 2594,
+      "channel": {
+        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+        "name": "Koseki Bijou Ch. hololive-EN",
+        "english_name": "Koseki Bijou",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
