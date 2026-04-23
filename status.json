@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776958986,
+  "cached_at": 1776959045,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "ptQk4rS3L6E",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-23T11:00:24.000Z",
       "start_scheduled": "2026-04-23T11:00:00.000Z",
       "start_actual": "2026-04-23T11:00:24.000Z",
-      "live_viewers": 8872,
+      "live_viewers": 8881,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChSvpZYRPh0FvG4SJGSga3g": {
-      "video_id": "4h6wx2IXvRs",
-      "title": "【トモダチコレクション】続・シャバにホロスタメンバーを増やそう!【影山シエン/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-23T09:56:14.000Z",
-      "available_at": "2026-04-23T12:01:35.000Z",
-      "start_scheduled": "2026-04-23T12:00:00.000Z",
-      "start_actual": "2026-04-23T12:01:35.000Z",
-      "live_viewers": 1226,
-      "channel": {
-        "id": "UChSvpZYRPh0FvG4SJGSga3g",
-        "name": "Shien Ch.影山シエン",
-        "english_name": "Kageyama Shien",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCZgOv3YDEs-ZnZWDYVwJdmA": {
@@ -131,7 +111,7 @@
       "available_at": "2026-04-23T13:02:49.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:02:49.000Z",
-      "live_viewers": 4767,
+      "live_viewers": 4705,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -151,7 +131,7 @@
       "available_at": "2026-04-23T13:04:52.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:04:52.000Z",
-      "live_viewers": 13152,
+      "live_viewers": 13155,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-23T13:13:57.000Z",
       "start_scheduled": "2026-04-23T13:15:00.000Z",
       "start_actual": "2026-04-23T13:13:57.000Z",
-      "live_viewers": 2202,
+      "live_viewers": 2193,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -251,7 +231,7 @@
       "available_at": "2026-04-23T14:44:19.000Z",
       "start_scheduled": "2026-04-23T15:00:00.000Z",
       "start_actual": "2026-04-23T14:44:19.000Z",
-      "live_viewers": 285,
+      "live_viewers": 296,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
