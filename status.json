@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776988205,
+  "cached_at": 1776988265,
   "lives": {
     "UC1uv2Oq6kNxgATlCiez59hw": {
       "video_id": "bQNeCm72Xmw",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-23T23:02:57.000Z",
       "start_scheduled": "2026-04-23T23:00:00.000Z",
       "start_actual": "2026-04-23T23:02:57.000Z",
-      "live_viewers": 6924,
+      "live_viewers": 7186,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-23T23:30:41.000Z",
       "start_scheduled": "2026-04-23T23:00:00.000Z",
       "start_actual": "2026-04-23T23:30:41.000Z",
-      "live_viewers": 357,
+      "live_viewers": 3699,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCajbFh6e_R8QZdHAMbbi4rQ": {
-      "video_id": "D5e6jonTHNU",
-      "title": "【T2 Voicepack】The Mire Warden",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-04-23T23:20:45.000Z",
-      "available_at": "2026-04-23T23:34:26.000Z",
-      "start_scheduled": "2026-04-23T23:30:00.000Z",
-      "start_actual": "2026-04-23T23:34:26.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-        "english_name": "Crimzon Ruze",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
