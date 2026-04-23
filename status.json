@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776981785,
+  "cached_at": 1776981845,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "onXQ8GVsEYk",
@@ -19,46 +19,6 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCQ0UDLQCjY0rmuxCDE38FGg": {
-      "video_id": "-xeBTPuQyvw",
-      "title": "おはよしてっ!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "morning",
-      "published_at": "2026-04-23T20:08:11.000Z",
-      "available_at": "2026-04-23T20:08:49.000Z",
-      "start_scheduled": "2026-04-23T20:10:00.000Z",
-      "start_actual": "2026-04-23T20:08:49.000Z",
-      "live_viewers": 5702,
-      "channel": {
-        "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-        "name": "Matsuri Channel 夏色まつり",
-        "english_name": "Natsuiro Matsuri",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCHP4f7G2dWD4qib7BMatGAw": {
-      "video_id": "9ceBQZUjE3g",
-      "title": "THE HAPPIEST DAY ON EARTH",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "celebration",
-      "published_at": "2026-04-23T18:52:38.000Z",
-      "available_at": "2026-04-23T20:59:45.000Z",
-      "start_scheduled": "2026-04-23T21:00:00.000Z",
-      "start_actual": "2026-04-23T20:59:45.000Z",
-      "live_viewers": 1410,
-      "channel": {
-        "id": "UCHP4f7G2dWD4qib7BMatGAw",
-        "name": "Gavis Bettel Ch. HOLOSTARS-EN",
-        "english_name": "Gavis Bettel",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
