@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776947826,
+  "cached_at": 1776947885,
   "lives": {
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
       "video_id": "TbJodPWChyg",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-23T09:00:23.000Z",
       "start_scheduled": "2026-04-23T09:00:00.000Z",
       "start_actual": "2026-04-23T09:00:23.000Z",
-      "live_viewers": 11252,
+      "live_viewers": 11387,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-23T09:59:50.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T09:59:50.000Z",
-      "live_viewers": 6524,
+      "live_viewers": 6311,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-23T10:00:11.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T10:00:11.000Z",
-      "live_viewers": 5158,
+      "live_viewers": 5354,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-23T11:00:35.000Z",
       "start_scheduled": "2026-04-23T11:00:00.000Z",
       "start_actual": "2026-04-23T11:00:35.000Z",
-      "live_viewers": 3860,
+      "live_viewers": 3846,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-23T11:59:14.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T11:59:14.000Z",
-      "live_viewers": 923,
+      "live_viewers": 894,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -291,7 +291,7 @@
       "available_at": "2026-04-23T12:00:15.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:00:15.000Z",
-      "live_viewers": 50,
+      "live_viewers": 52,
       "channel": {
         "id": "UC_a00ml_EVDXSrtY8ZuyqGQ",
         "name": "夏渚まはろ / Nanagisa Mahalo【パレプロ】",
@@ -311,7 +311,7 @@
       "available_at": "2026-04-23T12:01:35.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:01:35.000Z",
-      "live_viewers": 873,
+      "live_viewers": 888,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -331,7 +331,7 @@
       "available_at": "2026-04-23T12:02:26.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:02:26.000Z",
-      "live_viewers": 26,
+      "live_viewers": 28,
       "channel": {
         "id": "UC7W6gEF88kzL-mN8V_QxzVg",
         "name": "埼凰リンネ / rinne_saio",
@@ -351,7 +351,7 @@
       "available_at": "2026-04-23T12:02:51.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:02:51.000Z",
-      "live_viewers": 37640,
+      "live_viewers": 37657,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -368,9 +368,10 @@
       "status": "live",
       "topic_id": "residentevil",
       "published_at": "2026-04-22T17:08:46.000Z",
-      "available_at": "2026-04-23T12:30:00.000Z",
+      "available_at": "2026-04-23T12:33:55.000Z",
       "start_scheduled": "2026-04-23T12:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-23T12:33:55.000Z",
+      "live_viewers": 178,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
