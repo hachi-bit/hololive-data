@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776914188,
+  "cached_at": 1776914248,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "yfYY-Zpfw5w",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-23T02:32:02.000Z",
       "start_scheduled": "2026-04-23T02:30:00.000Z",
       "start_actual": "2026-04-23T02:32:02.000Z",
-      "live_viewers": 376,
+      "live_viewers": 377,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. ?????",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-23T03:00:37.000Z",
       "start_scheduled": "2026-04-23T03:00:00.000Z",
       "start_actual": "2026-04-23T03:00:37.000Z",
-      "live_viewers": 3849,
+      "live_viewers": 4158,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. ????",
@@ -99,6 +99,25 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCmbs8T6MWqUHP1tIQvSgKrg": {
+      "video_id": "RL8acX-1vBU",
+      "title": "?Pragmata?Good Parent I Am",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PRAGMATA",
+      "published_at": "2026-04-23T01:49:27.000Z",
+      "available_at": "2026-04-23T03:15:00.000Z",
+      "start_scheduled": "2026-04-23T03:15:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
+        "name": "Ouro Kronii Ch. hololive-EN",
+        "english_name": "Ouro Kronii",
+        "org": "Hololive",
+        "suborg": "ibEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
