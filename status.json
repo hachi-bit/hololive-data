@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776943865,
+  "cached_at": 1776943925,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "NrHwDewVR7U",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-23T06:59:32.000Z",
       "start_scheduled": "2026-04-23T07:00:00.000Z",
       "start_actual": "2026-04-23T06:59:32.000Z",
-      "live_viewers": 1876,
+      "live_viewers": 1852,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-23T09:59:50.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T09:59:50.000Z",
-      "live_viewers": 6542,
+      "live_viewers": 6785,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -121,26 +121,6 @@
         "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "sZ-uZVuiKS8",
-      "title": "【初見】アークナイツ：エンドフィールドやってみる！ぺこ！【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Arknights:_Endfield",
-      "published_at": "2026-04-21T05:01:46.000Z",
-      "available_at": "2026-04-23T10:00:16.000Z",
-      "start_scheduled": "2026-04-23T10:00:00.000Z",
-      "start_actual": "2026-04-23T10:00:16.000Z",
-      "live_viewers": 12031,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
       "video_id": "dSpZLfR-Zkw",
       "title": "【 バイオハザード 0 HD REMASTER 】ゾンビかかって来なさ~~い!🧟#02【 猫又おかゆ/ホロライブ 】",
@@ -151,7 +131,7 @@
       "available_at": "2026-04-23T11:00:24.000Z",
       "start_scheduled": "2026-04-23T11:00:00.000Z",
       "start_actual": "2026-04-23T11:00:24.000Z",
-      "live_viewers": 7558,
+      "live_viewers": 8074,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-23T11:00:51.000Z",
       "start_scheduled": "2026-04-23T11:00:00.000Z",
       "start_actual": "2026-04-23T11:00:51.000Z",
-      "live_viewers": 3667,
+      "live_viewers": 3800,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -251,7 +231,7 @@
       "available_at": "2026-04-23T11:00:57.000Z",
       "start_scheduled": "2026-04-23T11:00:00.000Z",
       "start_actual": "2026-04-23T11:00:57.000Z",
-      "live_viewers": 2412,
+      "live_viewers": 2949,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -291,7 +271,7 @@
       "available_at": "2026-04-23T11:01:05.000Z",
       "start_scheduled": "2026-04-23T11:00:00.000Z",
       "start_actual": "2026-04-23T11:01:05.000Z",
-      "live_viewers": 5155,
+      "live_viewers": 5332,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
