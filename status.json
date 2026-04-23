@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776938465,
+  "cached_at": 1776938525,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "NrHwDewVR7U",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-23T06:59:32.000Z",
       "start_scheduled": "2026-04-23T07:00:00.000Z",
       "start_actual": "2026-04-23T06:59:32.000Z",
-      "live_viewers": 2314,
+      "live_viewers": 2269,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-23T09:06:13.000Z",
       "start_scheduled": "2026-04-23T09:00:00.000Z",
       "start_actual": "2026-04-23T09:06:13.000Z",
-      "live_viewers": 7883,
+      "live_viewers": 8254,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-23T09:06:51.000Z",
       "start_scheduled": "2026-04-23T09:00:00.000Z",
       "start_actual": "2026-04-23T09:06:51.000Z",
-      "live_viewers": 7427,
+      "live_viewers": 7461,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -119,6 +119,106 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCa9Y57gfeY0Zro_noHRVrnw": {
+      "video_id": "ptQk4rS3L6E",
+      "title": "【 悪魔城ドラキュラXセレクション 月下の夜想曲&血の輪廻 】#2 初めての「月下の夜想曲」で遊ぶのら!!!【姫森ルーナ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Castlevania",
+      "published_at": "2026-04-22T12:08:14.000Z",
+      "available_at": "2026-04-23T09:58:30.000Z",
+      "start_scheduled": "2026-04-23T10:00:00.000Z",
+      "start_actual": "2026-04-23T09:58:30.000Z",
+      "live_viewers": 1031,
+      "channel": {
+        "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+        "name": "Luna Ch. 姫森ルーナ",
+        "english_name": "Himemori Luna",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6eWCld0KwmyHFbAqK3V-Rw": {
+      "video_id": "nP3LDiWGfWA",
+      "title": "【トモコレ】修羅場の島へようこそ!💖💙💜💛💚新メンバーも3人追加!✨【博衣こより/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-23T06:39:23.000Z",
+      "available_at": "2026-04-23T09:59:50.000Z",
+      "start_scheduled": "2026-04-23T10:00:00.000Z",
+      "start_actual": "2026-04-23T09:59:50.000Z",
+      "live_viewers": 637,
+      "channel": {
+        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+        "name": "Koyori ch. 博衣こより - holoX -",
+        "english_name": "Hakui Koyori",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCK9V2B22uJYu3N7eR_BT9QA": {
+      "video_id": "3m27Iqzu0UU",
+      "title": "【ポルカの伝説】フェネックの三つ子にご対面!?",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-23T10:00:06.000Z",
+      "available_at": "2026-04-23T10:00:06.000Z",
+      "start_scheduled": "2026-04-23T10:00:00.000Z",
+      "start_actual": "2026-04-23T10:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+        "name": "Polka Ch. 尾丸ポルカ",
+        "english_name": "Omaru Polka",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCWQtYtq9EOB4-I5P-3fh8lA": {
+      "video_id": "JjsRMyXIoD0",
+      "title": "【トモコレ】トモダチコレクション わくわく生活やってみるうう！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-23T03:27:24.000Z",
+      "available_at": "2026-04-23T10:00:11.000Z",
+      "start_scheduled": "2026-04-23T10:00:00.000Z",
+      "start_actual": "2026-04-23T10:00:11.000Z",
+      "live_viewers": 1284,
+      "channel": {
+        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "english_name": "Otonose Kanade",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "sZ-uZVuiKS8",
+      "title": "【初見】アークナイツ：エンドフィールドやってみる!ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Arknights:_Endfield",
+      "published_at": "2026-04-21T05:01:46.000Z",
+      "available_at": "2026-04-23T10:00:16.000Z",
+      "start_scheduled": "2026-04-23T10:00:00.000Z",
+      "start_actual": "2026-04-23T10:00:16.000Z",
+      "live_viewers": 3292,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
