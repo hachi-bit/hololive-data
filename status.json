@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776903208,
+  "cached_at": 1776903268,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "yfYY-Zpfw5w",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-22T22:30:17.000Z",
       "start_scheduled": "2026-04-22T22:00:00.000Z",
       "start_actual": "2026-04-22T22:30:17.000Z",
-      "live_viewers": 664,
+      "live_viewers": 695,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-22T22:56:28.000Z",
       "start_scheduled": "2026-04-22T23:00:00.000Z",
       "start_actual": "2026-04-22T22:56:28.000Z",
-      "live_viewers": 7140,
+      "live_viewers": 7413,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -48,9 +48,10 @@
       "status": "live",
       "topic_id": "unboxing",
       "published_at": "2026-04-22T18:52:18.000Z",
-      "available_at": "2026-04-23T00:00:00.000Z",
+      "available_at": "2026-04-23T00:09:30.000Z",
       "start_scheduled": "2026-04-23T00:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-23T00:09:30.000Z",
+      "live_viewers": 301,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
