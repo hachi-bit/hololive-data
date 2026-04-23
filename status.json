@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776965225,
+  "cached_at": 1776965286,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "ptQk4rS3L6E",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-23T09:58:30.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T09:58:30.000Z",
-      "live_viewers": 5727,
+      "live_viewers": 5090,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-23T09:59:50.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T09:59:50.000Z",
-      "live_viewers": 6154,
+      "live_viewers": 6224,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-23T13:02:49.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:02:49.000Z",
-      "live_viewers": 4522,
+      "live_viewers": 4312,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-23T13:04:52.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:04:52.000Z",
-      "live_viewers": 13121,
+      "live_viewers": 12971,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-23T14:44:19.000Z",
       "start_scheduled": "2026-04-23T15:00:00.000Z",
       "start_actual": "2026-04-23T14:44:19.000Z",
-      "live_viewers": 433,
+      "live_viewers": 395,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
@@ -148,9 +148,10 @@
       "status": "live",
       "topic_id": "Pokemon",
       "published_at": "2026-04-23T06:30:51.000Z",
-      "available_at": "2026-04-23T17:00:00.000Z",
+      "available_at": "2026-04-23T17:22:15.000Z",
       "start_scheduled": "2026-04-23T17:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-23T17:22:15.000Z",
+      "live_viewers": 306,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
