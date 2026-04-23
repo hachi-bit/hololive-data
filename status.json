@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776945905,
+  "cached_at": 1776945965,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "NrHwDewVR7U",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-23T06:59:32.000Z",
       "start_scheduled": "2026-04-23T07:00:00.000Z",
       "start_actual": "2026-04-23T06:59:32.000Z",
-      "live_viewers": 1785,
+      "live_viewers": 1609,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-23T09:06:13.000Z",
       "start_scheduled": "2026-04-23T09:00:00.000Z",
       "start_actual": "2026-04-23T09:06:13.000Z",
-      "live_viewers": 3159,
+      "live_viewers": 3050,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-23T11:00:39.000Z",
       "start_scheduled": "2026-04-23T11:00:00.000Z",
       "start_actual": "2026-04-23T11:00:39.000Z",
-      "live_viewers": 6171,
+      "live_viewers": 5886,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -271,7 +271,7 @@
       "available_at": "2026-04-23T11:59:14.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T11:59:14.000Z",
-      "live_viewers": 517,
+      "live_viewers": 669,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -291,7 +291,7 @@
       "available_at": "2026-04-23T11:59:52.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T11:59:52.000Z",
-      "live_viewers": 447,
+      "live_viewers": 642,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -299,44 +299,6 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvzGlP9oQwU--Y0r9id_jnA": {
-      "video_id": "4rAspUpRpik",
-      "title": "【#生スバル】スバルの小屋：ゲスト まつり【ホロライブ/大空スバル】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-04-22T18:00:43.000Z",
-      "available_at": "2026-04-23T12:00:00.000Z",
-      "start_scheduled": "2026-04-23T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-        "name": "Subaru Ch. 大空スバル",
-        "english_name": "Oozora Subaru",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "video_id": "8FGEUkzypKc",
-      "title": "【R.E.P.O】妖縁メンバーでR.E.P.Oやってくぞ!今回は2回目だから行けるかっ!?【埼凰リンネ / YUMENOS】#shorts #新人vtuber ##妖縁REPO",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-04-23T02:52:47.000Z",
-      "available_at": "2026-04-23T12:00:00.000Z",
-      "start_scheduled": "2026-04-23T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC7W6gEF88kzL-mN8V_QxzVg",
-        "name": "埼凰リンネ / rinne_saio",
-        "english_name": "Saio Rinne",
-        "org": "YUMENOS",
-        "suborg": "1bGen 2",
-        "photo": "https://yt3.ggpht.com/azLV3196MlCaaX5QWRVzhIfMCD7LOrAcsSDQuufYtafmUO043qE40kTJqogZiIZaM0WXiShYQA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1DCedRgGHBdm81E1llLhOQ": {
@@ -349,7 +311,7 @@
       "available_at": "2026-04-23T12:00:09.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:00:09.000Z",
-      "live_viewers": 6830,
+      "live_viewers": 8423,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -369,7 +331,7 @@
       "available_at": "2026-04-23T12:00:15.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:00:15.000Z",
-      "live_viewers": 29,
+      "live_viewers": 32,
       "channel": {
         "id": "UC_a00ml_EVDXSrtY8ZuyqGQ",
         "name": "夏渚まはろ / Nanagisa Mahalo【パレプロ】",
@@ -389,7 +351,7 @@
       "available_at": "2026-04-23T12:01:35.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:01:35.000Z",
-      "live_viewers": 244,
+      "live_viewers": 492,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -397,6 +359,46 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7W6gEF88kzL-mN8V_QxzVg": {
+      "video_id": "8FGEUkzypKc",
+      "title": "【R.E.P.O】妖縁メンバーでR.E.P.Oやってくぞ!今回は2回目だから行けるかっ!?【埼凰リンネ / YUMENOS】#shorts #新人vtuber ##妖縁REPO",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-04-23T02:52:47.000Z",
+      "available_at": "2026-04-23T12:02:26.000Z",
+      "start_scheduled": "2026-04-23T12:00:00.000Z",
+      "start_actual": "2026-04-23T12:02:26.000Z",
+      "live_viewers": 31,
+      "channel": {
+        "id": "UC7W6gEF88kzL-mN8V_QxzVg",
+        "name": "埼凰リンネ / rinne_saio",
+        "english_name": "Saio Rinne",
+        "org": "YUMENOS",
+        "suborg": "1bGen 2",
+        "photo": "https://yt3.ggpht.com/azLV3196MlCaaX5QWRVzhIfMCD7LOrAcsSDQuufYtafmUO043qE40kTJqogZiIZaM0WXiShYQA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvzGlP9oQwU--Y0r9id_jnA": {
+      "video_id": "4rAspUpRpik",
+      "title": "【#生スバル】スバルの小屋：ゲスト まつり【ホロライブ/大空スバル】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-04-22T18:00:43.000Z",
+      "available_at": "2026-04-23T12:02:51.000Z",
+      "start_scheduled": "2026-04-23T12:00:00.000Z",
+      "start_actual": "2026-04-23T12:02:51.000Z",
+      "live_viewers": 14367,
+      "channel": {
+        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+        "name": "Subaru Ch. 大空スバル",
+        "english_name": "Oozora Subaru",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
