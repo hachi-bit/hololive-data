@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776957247,
+  "cached_at": 1776957307,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "ptQk4rS3L6E",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-23T11:00:24.000Z",
       "start_scheduled": "2026-04-23T11:00:00.000Z",
       "start_actual": "2026-04-23T11:00:24.000Z",
-      "live_viewers": 9395,
+      "live_viewers": 9219,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-23T11:59:14.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T11:59:14.000Z",
-      "live_viewers": 871,
+      "live_viewers": 854,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-23T11:59:52.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T11:59:52.000Z",
-      "live_viewers": 1862,
+      "live_viewers": 1832,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-23T12:02:26.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:02:26.000Z",
-      "live_viewers": 27,
+      "live_viewers": 24,
       "channel": {
         "id": "UC7W6gEF88kzL-mN8V_QxzVg",
         "name": "埼凰リンネ / rinne_saio",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-23T13:00:25.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:00:25.000Z",
-      "live_viewers": 13842,
+      "live_viewers": 13226,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-23T13:04:52.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:04:52.000Z",
-      "live_viewers": 12122,
+      "live_viewers": 12179,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -331,7 +331,7 @@
       "available_at": "2026-04-23T14:44:19.000Z",
       "start_scheduled": "2026-04-23T15:00:00.000Z",
       "start_actual": "2026-04-23T14:44:19.000Z",
-      "live_viewers": 212,
+      "live_viewers": 223,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
