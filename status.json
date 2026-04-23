@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776968705,
+  "cached_at": 1776968765,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "nP3LDiWGfWA",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-23T09:59:50.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T09:59:50.000Z",
-      "live_viewers": 5834,
+      "live_viewers": 5805,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -41,26 +41,6 @@
         "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCZLZ8Jjx_RN2CXloOmgTHVg": {
-      "video_id": "P9QMwh2Yhsw",
-      "title": "【Collector's Cove】sail sail sail ⛵",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-04-21T11:17:20.000Z",
-      "available_at": "2026-04-23T13:13:57.000Z",
-      "start_scheduled": "2026-04-23T13:15:00.000Z",
-      "start_actual": "2026-04-23T13:13:57.000Z",
-      "live_viewers": 2686,
-      "channel": {
-        "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "name": "Kaela Kovalskia Ch. hololive-ID",
-        "english_name": "Kaela Kovalskia",
-        "org": "Hololive",
-        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-        "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCAoy6rzhSf4ydcYjJw3WoVg": {
       "video_id": "FlcZ-9bVpb4",
       "title": "【Tomodachi Life】Yes【IOFI / HOLOLIVE】",
@@ -71,7 +51,7 @@
       "available_at": "2026-04-23T14:04:30.000Z",
       "start_scheduled": "2026-04-23T14:00:00.000Z",
       "start_actual": "2026-04-23T14:04:30.000Z",
-      "live_viewers": 1385,
+      "live_viewers": 3056,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -91,7 +71,7 @@
       "available_at": "2026-04-23T14:44:19.000Z",
       "start_scheduled": "2026-04-23T15:00:00.000Z",
       "start_actual": "2026-04-23T14:44:19.000Z",
-      "live_viewers": 373,
+      "live_viewers": 376,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
