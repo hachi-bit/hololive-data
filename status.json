@@ -1,26 +1,6 @@
 {
-  "cached_at": 1776952926,
+  "cached_at": 1776952985,
   "lives": {
-    "UCdyqAaZDKHXg4Ahi7VENThQ": {
-      "video_id": "TbJodPWChyg",
-      "title": "【トモコレ】はじめてのトモコレ!わくわく生活あじまる!!【白銀ノエル/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-23T04:13:26.000Z",
-      "available_at": "2026-04-23T09:00:23.000Z",
-      "start_scheduled": "2026-04-23T09:00:00.000Z",
-      "start_actual": "2026-04-23T09:00:23.000Z",
-      "live_viewers": 5883,
-      "channel": {
-        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-        "name": "Noel Ch. 白銀ノエル",
-        "english_name": "Shirogane Noel",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "ptQk4rS3L6E",
       "title": "【 悪魔城ドラキュラXセレクション 月下の夜想曲&血の輪廻 】#2 初めての「月下の夜想曲」で遊ぶのら!!!【姫森ルーナ/ホロライブ】",
@@ -31,7 +11,7 @@
       "available_at": "2026-04-23T09:58:30.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T09:58:30.000Z",
-      "live_viewers": 5048,
+      "live_viewers": 5157,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +31,7 @@
       "available_at": "2026-04-23T09:59:50.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T09:59:50.000Z",
-      "live_viewers": 6614,
+      "live_viewers": 6535,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-23T12:00:15.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:00:15.000Z",
-      "live_viewers": 53,
+      "live_viewers": 52,
       "channel": {
         "id": "UC_a00ml_EVDXSrtY8ZuyqGQ",
         "name": "夏渚まはろ / Nanagisa Mahalo【パレプロ】",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-23T12:01:35.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:01:35.000Z",
-      "live_viewers": 1302,
+      "live_viewers": 1275,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-23T12:02:26.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:02:26.000Z",
-      "live_viewers": 38,
+      "live_viewers": 28,
       "channel": {
         "id": "UC7W6gEF88kzL-mN8V_QxzVg",
         "name": "埼凰リンネ / rinne_saio",
@@ -251,7 +231,7 @@
       "available_at": "2026-04-23T13:00:07.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:00:07.000Z",
-      "live_viewers": 315,
+      "live_viewers": 318,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -271,7 +251,7 @@
       "available_at": "2026-04-23T13:00:25.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:00:25.000Z",
-      "live_viewers": 12271,
+      "live_viewers": 12690,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -291,7 +271,7 @@
       "available_at": "2026-04-23T13:01:09.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:01:09.000Z",
-      "live_viewers": 1547,
+      "live_viewers": 1523,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -311,7 +291,7 @@
       "available_at": "2026-04-23T13:02:49.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:02:49.000Z",
-      "live_viewers": 4389,
+      "live_viewers": 4431,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -351,7 +331,7 @@
       "available_at": "2026-04-23T13:13:57.000Z",
       "start_scheduled": "2026-04-23T13:15:00.000Z",
       "start_actual": "2026-04-23T13:13:57.000Z",
-      "live_viewers": 2404,
+      "live_viewers": 2372,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -371,7 +351,7 @@
       "available_at": "2026-04-23T13:31:57.000Z",
       "start_scheduled": "2026-04-23T13:30:00.000Z",
       "start_actual": "2026-04-23T13:31:57.000Z",
-      "live_viewers": 7444,
+      "live_viewers": 7471,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -379,6 +359,44 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAoy6rzhSf4ydcYjJw3WoVg": {
+      "video_id": "FlcZ-9bVpb4",
+      "title": "【Tomodachi Life】Yes【IOFI / HOLOLIVE】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-23T11:25:48.000Z",
+      "available_at": "2026-04-23T14:00:00.000Z",
+      "start_scheduled": "2026-04-23T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+        "name": "Airani Iofifteen Channel hololive-ID",
+        "english_name": "Airani Iofifteen",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "h6NJlg7J7P4",
+      "title": "【歌枠 / karaoke】リクエスト受付中!!寝れる曲を教えてください / アステル",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-04-23T13:42:55.000Z",
+      "available_at": "2026-04-23T14:00:00.000Z",
+      "start_scheduled": "2026-04-23T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
