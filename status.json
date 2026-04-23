@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776914488,
+  "cached_at": 1776914548,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "yfYY-Zpfw5w",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-23T01:58:01.000Z",
       "start_scheduled": "2026-04-23T02:00:00.000Z",
       "start_actual": "2026-04-23T01:58:01.000Z",
-      "live_viewers": 1754,
+      "live_viewers": 1752,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-23T02:32:02.000Z",
       "start_scheduled": "2026-04-23T02:30:00.000Z",
       "start_actual": "2026-04-23T02:32:02.000Z",
-      "live_viewers": 377,
+      "live_viewers": 368,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. ?????",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-23T03:00:37.000Z",
       "start_scheduled": "2026-04-23T03:00:00.000Z",
       "start_actual": "2026-04-23T03:00:37.000Z",
-      "live_viewers": 4500,
+      "live_viewers": 4623,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. ????",
@@ -108,9 +108,10 @@
       "status": "live",
       "topic_id": "PRAGMATA",
       "published_at": "2026-04-23T01:49:27.000Z",
-      "available_at": "2026-04-23T03:15:00.000Z",
+      "available_at": "2026-04-23T03:19:07.000Z",
       "start_scheduled": "2026-04-23T03:15:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-23T03:19:07.000Z",
+      "live_viewers": 2889,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
