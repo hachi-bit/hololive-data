@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776939365,
+  "cached_at": 1776939425,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "NrHwDewVR7U",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-23T06:59:32.000Z",
       "start_scheduled": "2026-04-23T07:00:00.000Z",
       "start_actual": "2026-04-23T06:59:32.000Z",
-      "live_viewers": 2252,
+      "live_viewers": 2233,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-23T09:58:30.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T09:58:30.000Z",
-      "live_viewers": 2985,
+      "live_viewers": 3289,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-23T09:59:50.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T09:59:50.000Z",
-      "live_viewers": 3988,
+      "live_viewers": 4488,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -139,26 +139,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCK9V2B22uJYu3N7eR_BT9QA": {
-      "video_id": "3m27Iqzu0UU",
-      "title": "【ポルカの伝説】フェネックの三つ子にご対面!?",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-04-23T10:00:06.000Z",
-      "available_at": "2026-04-23T10:00:06.000Z",
-      "start_scheduled": "2026-04-23T10:00:00.000Z",
-      "start_actual": "2026-04-23T10:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-        "name": "Polka Ch. 尾丸ポルカ",
-        "english_name": "Omaru Polka",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCWQtYtq9EOB4-I5P-3fh8lA": {
@@ -171,7 +151,7 @@
       "available_at": "2026-04-23T10:00:11.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T10:00:11.000Z",
-      "live_viewers": 4512,
+      "live_viewers": 4771,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-23T10:00:16.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T10:00:16.000Z",
-      "live_viewers": 9075,
+      "live_viewers": 9667,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
