@@ -1,26 +1,6 @@
 {
-  "cached_at": 1776917848,
+  "cached_at": 1776917908,
   "lives": {
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "0luXwhQNOYQ",
-      "title": "????????????????/???????",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-04-23T01:53:28.000Z",
-      "available_at": "2026-04-23T02:32:02.000Z",
-      "start_scheduled": "2026-04-23T02:30:00.000Z",
-      "start_actual": "2026-04-23T02:32:02.000Z",
-      "live_viewers": 444,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. ?????",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1uv2Oq6kNxgATlCiez59hw": {
       "video_id": "HCumIb3P--g",
       "title": "? The Mr. Rabbit Magic Show ??????????????/??????",
@@ -91,7 +71,7 @@
       "available_at": "2026-04-23T03:55:34.000Z",
       "start_scheduled": "2026-04-23T04:00:00.000Z",
       "start_actual": "2026-04-23T03:55:34.000Z",
-      "live_viewers": 3728,
+      "live_viewers": 3861,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-23T04:00:15.000Z",
       "start_scheduled": "2026-04-23T04:00:00.000Z",
       "start_actual": "2026-04-23T04:00:15.000Z",
-      "live_viewers": 1015,
+      "live_viewers": 1086,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. ?????",
