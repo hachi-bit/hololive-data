@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776913348,
+  "cached_at": 1776913408,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "yfYY-Zpfw5w",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-23T01:58:01.000Z",
       "start_scheduled": "2026-04-23T02:00:00.000Z",
       "start_actual": "2026-04-23T01:58:01.000Z",
-      "live_viewers": 1657,
+      "live_viewers": 1655,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-23T02:32:02.000Z",
       "start_scheduled": "2026-04-23T02:30:00.000Z",
       "start_actual": "2026-04-23T02:32:02.000Z",
-      "live_viewers": 348,
+      "live_viewers": 357,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. ?????",
@@ -79,6 +79,44 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1uv2Oq6kNxgATlCiez59hw": {
+      "video_id": "HCumIb3P--g",
+      "title": "? The Mr. Rabbit Magic Show ??????????????/??????",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Rusty_Lake",
+      "published_at": "2026-04-23T02:03:35.000Z",
+      "available_at": "2026-04-23T03:00:00.000Z",
+      "start_scheduled": "2026-04-23T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1uv2Oq6kNxgATlCiez59hw",
+        "name": "Towa Ch. ????",
+        "english_name": "Tokoyami Towa",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTVSOgYuSWmNAt-lnJPkEEw": {
+      "video_id": "NKc1giIrMxs",
+      "title": "?T2 WATCHALONG?INTERSTELLAR",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-04-22T07:57:02.000Z",
+      "available_at": "2026-04-23T03:00:00.000Z",
+      "start_scheduled": "2026-04-23T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
+        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
+        "english_name": "Jurard T Rexford",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
