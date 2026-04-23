@@ -1,26 +1,6 @@
 {
-  "cached_at": 1776946085,
+  "cached_at": 1776946145,
   "lives": {
-    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
-      "video_id": "NrHwDewVR7U",
-      "title": "【Tomodachi Life】POPULATING THE DOOMED YURI ISLAND【Pavolia Reine/hololiveID】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-23T06:45:29.000Z",
-      "available_at": "2026-04-23T06:59:32.000Z",
-      "start_scheduled": "2026-04-23T07:00:00.000Z",
-      "start_actual": "2026-04-23T06:59:32.000Z",
-      "live_viewers": 1609,
-      "channel": {
-        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "name": "Pavolia Reine Ch. hololive-ID",
-        "english_name": "Pavolia Reine",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
       "video_id": "TbJodPWChyg",
       "title": "【トモコレ】はじめてのトモコレ!わくわく生活あじまる!!【白銀ノエル/ホロライブ】",
@@ -31,7 +11,7 @@
       "available_at": "2026-04-23T09:00:23.000Z",
       "start_scheduled": "2026-04-23T09:00:00.000Z",
       "start_actual": "2026-04-23T09:00:23.000Z",
-      "live_viewers": 12911,
+      "live_viewers": 12521,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -71,7 +51,7 @@
       "available_at": "2026-04-23T09:58:30.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T09:58:30.000Z",
-      "live_viewers": 5185,
+      "live_viewers": 5138,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -131,7 +111,7 @@
       "available_at": "2026-04-23T11:00:24.000Z",
       "start_scheduled": "2026-04-23T11:00:00.000Z",
       "start_actual": "2026-04-23T11:00:24.000Z",
-      "live_viewers": 9599,
+      "live_viewers": 9371,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -151,7 +131,7 @@
       "available_at": "2026-04-23T11:00:35.000Z",
       "start_scheduled": "2026-04-23T11:00:00.000Z",
       "start_actual": "2026-04-23T11:00:35.000Z",
-      "live_viewers": 3806,
+      "live_viewers": 3795,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-23T11:00:51.000Z",
       "start_scheduled": "2026-04-23T11:00:00.000Z",
       "start_actual": "2026-04-23T11:00:51.000Z",
-      "live_viewers": 4168,
+      "live_viewers": 4144,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-23T11:00:54.000Z",
       "start_scheduled": "2026-04-23T11:00:00.000Z",
       "start_actual": "2026-04-23T11:00:54.000Z",
-      "live_viewers": 9324,
+      "live_viewers": 8996,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -231,7 +211,7 @@
       "available_at": "2026-04-23T11:00:57.000Z",
       "start_scheduled": "2026-04-23T11:00:00.000Z",
       "start_actual": "2026-04-23T11:00:57.000Z",
-      "live_viewers": 2635,
+      "live_viewers": 2676,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -271,7 +251,7 @@
       "available_at": "2026-04-23T11:59:14.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T11:59:14.000Z",
-      "live_viewers": 669,
+      "live_viewers": 743,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -291,7 +271,7 @@
       "available_at": "2026-04-23T11:59:52.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T11:59:52.000Z",
-      "live_viewers": 642,
+      "live_viewers": 1516,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -311,7 +291,7 @@
       "available_at": "2026-04-23T12:00:09.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:00:09.000Z",
-      "live_viewers": 8423,
+      "live_viewers": 9310,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -331,7 +311,7 @@
       "available_at": "2026-04-23T12:00:15.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:00:15.000Z",
-      "live_viewers": 32,
+      "live_viewers": 37,
       "channel": {
         "id": "UC_a00ml_EVDXSrtY8ZuyqGQ",
         "name": "夏渚まはろ / Nanagisa Mahalo【パレプロ】",
@@ -351,7 +331,7 @@
       "available_at": "2026-04-23T12:01:35.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:01:35.000Z",
-      "live_viewers": 492,
+      "live_viewers": 630,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -371,7 +351,7 @@
       "available_at": "2026-04-23T12:02:26.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:02:26.000Z",
-      "live_viewers": 31,
+      "live_viewers": 25,
       "channel": {
         "id": "UC7W6gEF88kzL-mN8V_QxzVg",
         "name": "埼凰リンネ / rinne_saio",
@@ -391,7 +371,7 @@
       "available_at": "2026-04-23T12:02:51.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:02:51.000Z",
-      "live_viewers": 14367,
+      "live_viewers": 23132,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
