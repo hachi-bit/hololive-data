@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776931768,
+  "cached_at": 1776931828,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "NrHwDewVR7U",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-23T06:59:32.000Z",
       "start_scheduled": "2026-04-23T07:00:00.000Z",
       "start_actual": "2026-04-23T06:59:32.000Z",
-      "live_viewers": 3124,
+      "live_viewers": 3181,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-23T07:58:31.000Z",
       "start_scheduled": "2026-04-23T08:00:00.000Z",
       "start_actual": "2026-04-23T07:58:31.000Z",
-      "live_viewers": 601,
+      "live_viewers": 658,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -39,6 +39,25 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGNI4MENvnsymYjKiZwv9eg": {
+      "video_id": "WkJzZewlU00",
+      "title": "?????????????????????????????? ?????/???????",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-23T08:05:26.000Z",
+      "available_at": "2026-04-23T08:05:00.000Z",
+      "start_scheduled": "2026-04-23T08:05:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. ????",
+        "english_name": "Kishido Temma",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
