@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776909568,
+  "cached_at": 1776909628,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "yfYY-Zpfw5w",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-22T22:56:28.000Z",
       "start_scheduled": "2026-04-22T23:00:00.000Z",
       "start_actual": "2026-04-22T22:56:28.000Z",
-      "live_viewers": 9267,
+      "live_viewers": 9356,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -59,6 +59,26 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCMqGG8BRAiI1lJfKOpETM_w": {
+      "video_id": "qEosyt4Oubc",
+      "title": "?Self Booth 3D Off Collab?3/4vandingo's Beach Photoshoot Episode!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "3D_Stream",
+      "published_at": "2026-04-18T05:36:53.000Z",
+      "available_at": "2026-04-23T01:58:01.000Z",
+      "start_scheduled": "2026-04-23T02:00:00.000Z",
+      "start_actual": "2026-04-23T01:58:01.000Z",
+      "live_viewers": 348,
+      "channel": {
+        "id": "UCMqGG8BRAiI1lJfKOpETM_w",
+        "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
+        "english_name": "Josuiji Shinri",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
