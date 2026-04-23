@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776939845,
+  "cached_at": 1776939905,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "NrHwDewVR7U",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "WkJzZewlU00",
-      "title": "【謎ゲー】寿司キャットとかいう謎のゲームを遊ばせてください。 【岸堂天真/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-04-23T08:05:26.000Z",
-      "available_at": "2026-04-23T08:08:35.000Z",
-      "start_scheduled": "2026-04-23T08:05:00.000Z",
-      "start_actual": "2026-04-23T08:08:35.000Z",
-      "live_viewers": 294,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
@@ -71,7 +51,7 @@
       "available_at": "2026-04-23T09:06:13.000Z",
       "start_scheduled": "2026-04-23T09:00:00.000Z",
       "start_actual": "2026-04-23T09:06:13.000Z",
-      "live_viewers": 7406,
+      "live_viewers": 7342,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-23T09:58:30.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T09:58:30.000Z",
-      "live_viewers": 3857,
+      "live_viewers": 4010,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -131,7 +111,7 @@
       "available_at": "2026-04-23T09:59:50.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T09:59:50.000Z",
-      "live_viewers": 4743,
+      "live_viewers": 4918,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -151,7 +131,7 @@
       "available_at": "2026-04-23T10:00:11.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T10:00:11.000Z",
-      "live_viewers": 4930,
+      "live_viewers": 5028,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-23T10:00:16.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T10:00:16.000Z",
-      "live_viewers": 10837,
+      "live_viewers": 11262,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
