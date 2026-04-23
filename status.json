@@ -1,26 +1,6 @@
 {
-  "cached_at": 1776920008,
+  "cached_at": 1776920068,
   "lives": {
-    "UC1uv2Oq6kNxgATlCiez59hw": {
-      "video_id": "HCumIb3P--g",
-      "title": "? The Mr. Rabbit Magic Show ??????????????/??????",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Rusty_Lake",
-      "published_at": "2026-04-23T02:03:35.000Z",
-      "available_at": "2026-04-23T03:00:37.000Z",
-      "start_scheduled": "2026-04-23T03:00:00.000Z",
-      "start_actual": "2026-04-23T03:00:37.000Z",
-      "live_viewers": 5432,
-      "channel": {
-        "id": "UC1uv2Oq6kNxgATlCiez59hw",
-        "name": "Towa Ch. ????",
-        "english_name": "Tokoyami Towa",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "NKc1giIrMxs",
       "title": "?T2 WATCHALONG?INTERSTELLAR",
@@ -51,7 +31,7 @@
       "available_at": "2026-04-23T03:19:07.000Z",
       "start_scheduled": "2026-04-23T03:15:00.000Z",
       "start_actual": "2026-04-23T03:19:07.000Z",
-      "live_viewers": 7033,
+      "live_viewers": 7028,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -71,7 +51,7 @@
       "available_at": "2026-04-23T03:55:34.000Z",
       "start_scheduled": "2026-04-23T04:00:00.000Z",
       "start_actual": "2026-04-23T03:55:34.000Z",
-      "live_viewers": 5407,
+      "live_viewers": 5763,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
