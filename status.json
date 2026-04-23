@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776953105,
+  "cached_at": 1776953169,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "ptQk4rS3L6E",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-23T11:59:14.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T11:59:14.000Z",
-      "live_viewers": 905,
+      "live_viewers": 864,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-23T11:59:52.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T11:59:52.000Z",
-      "live_viewers": 2120,
+      "live_viewers": 2061,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-23T12:00:09.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:00:09.000Z",
-      "live_viewers": 12102,
+      "live_viewers": 11946,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-23T12:02:26.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:02:26.000Z",
-      "live_viewers": 28,
+      "live_viewers": 25,
       "channel": {
         "id": "UC7W6gEF88kzL-mN8V_QxzVg",
         "name": "埼凰リンネ / rinne_saio",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-23T12:33:55.000Z",
       "start_scheduled": "2026-04-23T12:30:00.000Z",
       "start_actual": "2026-04-23T12:33:55.000Z",
-      "live_viewers": 346,
+      "live_viewers": 335,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -311,7 +311,7 @@
       "available_at": "2026-04-23T13:04:52.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:04:52.000Z",
-      "live_viewers": 9705,
+      "live_viewers": 12292,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -351,7 +351,7 @@
       "available_at": "2026-04-23T13:31:57.000Z",
       "start_scheduled": "2026-04-23T13:30:00.000Z",
       "start_actual": "2026-04-23T13:31:57.000Z",
-      "live_viewers": 7471,
+      "live_viewers": 7857,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -359,25 +359,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCAoy6rzhSf4ydcYjJw3WoVg": {
-      "video_id": "FlcZ-9bVpb4",
-      "title": "【Tomodachi Life】Yes【IOFI / HOLOLIVE】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-23T11:25:48.000Z",
-      "available_at": "2026-04-23T14:00:00.000Z",
-      "start_scheduled": "2026-04-23T14:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-        "name": "Airani Iofifteen Channel hololive-ID",
-        "english_name": "Airani Iofifteen",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
@@ -397,6 +378,25 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAoy6rzhSf4ydcYjJw3WoVg": {
+      "video_id": "FlcZ-9bVpb4",
+      "title": "【Tomodachi Life】Yes【IOFI / HOLOLIVE】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-23T11:25:48.000Z",
+      "available_at": "2026-04-23T14:00:00.000Z",
+      "start_scheduled": "2026-04-23T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+        "name": "Airani Iofifteen Channel hololive-ID",
+        "english_name": "Airani Iofifteen",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
