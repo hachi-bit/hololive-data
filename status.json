@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776955686,
+  "cached_at": 1776955745,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "ptQk4rS3L6E",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-23T09:58:30.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T09:58:30.000Z",
-      "live_viewers": 4950,
+      "live_viewers": 4848,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-23T11:59:14.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T11:59:14.000Z",
-      "live_viewers": 909,
+      "live_viewers": 914,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-23T11:59:52.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T11:59:52.000Z",
-      "live_viewers": 1866,
+      "live_viewers": 1798,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "H_js76oeYCw",
-      "title": "#4【初見】『機動戦士ガンダム Zガンダム』同時視聴!!ぺこ!【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-04-21T04:55:28.000Z",
-      "available_at": "2026-04-23T12:00:09.000Z",
-      "start_scheduled": "2026-04-23T12:00:00.000Z",
-      "start_actual": "2026-04-23T12:00:09.000Z",
-      "live_viewers": 11851,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC_a00ml_EVDXSrtY8ZuyqGQ": {
@@ -171,7 +151,7 @@
       "available_at": "2026-04-23T12:02:26.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:02:26.000Z",
-      "live_viewers": 37,
+      "live_viewers": 30,
       "channel": {
         "id": "UC7W6gEF88kzL-mN8V_QxzVg",
         "name": "埼凰リンネ / rinne_saio",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-23T13:00:25.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:00:25.000Z",
-      "live_viewers": 12674,
+      "live_viewers": 13131,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -231,7 +211,7 @@
       "available_at": "2026-04-23T13:01:09.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:01:09.000Z",
-      "live_viewers": 1603,
+      "live_viewers": 1585,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -351,7 +331,7 @@
       "available_at": "2026-04-23T14:06:14.000Z",
       "start_scheduled": "2026-04-23T14:00:00.000Z",
       "start_actual": "2026-04-23T14:06:14.000Z",
-      "live_viewers": 610,
+      "live_viewers": 627,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -371,7 +351,7 @@
       "available_at": "2026-04-23T14:44:19.000Z",
       "start_scheduled": "2026-04-23T15:00:00.000Z",
       "start_actual": "2026-04-23T14:44:19.000Z",
-      "live_viewers": 53,
+      "live_viewers": 86,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
