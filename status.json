@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776962886,
+  "cached_at": 1776962945,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "ptQk4rS3L6E",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-23T09:58:30.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T09:58:30.000Z",
-      "live_viewers": 6363,
+      "live_viewers": 6333,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
-      "video_id": "du6RRtqluBQ",
-      "title": "【バイオハザード 0 HDリマスター】初見でバイオゼロ! # 2【 #奏手イヅル 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-04-22T17:08:46.000Z",
-      "available_at": "2026-04-23T12:33:55.000Z",
-      "start_scheduled": "2026-04-23T12:30:00.000Z",
-      "start_actual": "2026-04-23T12:33:55.000Z",
-      "live_viewers": 394,
-      "channel": {
-        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "name": "Izuru Ch. 奏手イヅル",
-        "english_name": "Kanade Izuru",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCl69AEx4MdqMZH7Jtsm7Tig": {
@@ -191,7 +171,7 @@
       "available_at": "2026-04-23T14:44:19.000Z",
       "start_scheduled": "2026-04-23T15:00:00.000Z",
       "start_actual": "2026-04-23T14:44:19.000Z",
-      "live_viewers": 367,
+      "live_viewers": 374,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
