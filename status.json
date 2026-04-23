@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776913768,
+  "cached_at": 1776913828,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "yfYY-Zpfw5w",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9p_lqQ0FEDz327Vgf5JwqA": {
-      "video_id": "VoikxdtCQ2k",
-      "title": "?Tomodachi Life: Living the Dream?My name is Biboo. It's nice to meet you. Today is April 23, 2026.",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-22T14:36:26.000Z",
-      "available_at": "2026-04-22T22:56:28.000Z",
-      "start_scheduled": "2026-04-22T23:00:00.000Z",
-      "start_actual": "2026-04-22T22:56:28.000Z",
-      "live_viewers": 12546,
-      "channel": {
-        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-        "name": "Koseki Bijou Ch. hololive-EN",
-        "english_name": "Koseki Bijou",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCMqGG8BRAiI1lJfKOpETM_w": {
@@ -81,25 +61,6 @@
         "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCTVSOgYuSWmNAt-lnJPkEEw": {
-      "video_id": "NKc1giIrMxs",
-      "title": "?T2 WATCHALONG?INTERSTELLAR",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-04-22T07:57:02.000Z",
-      "available_at": "2026-04-23T03:00:00.000Z",
-      "start_scheduled": "2026-04-23T03:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
-        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
-        "english_name": "Jurard T Rexford",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1uv2Oq6kNxgATlCiez59hw": {
       "video_id": "HCumIb3P--g",
       "title": "? The Mr. Rabbit Magic Show ??????????????/??????",
@@ -110,7 +71,7 @@
       "available_at": "2026-04-23T03:00:37.000Z",
       "start_scheduled": "2026-04-23T03:00:00.000Z",
       "start_actual": "2026-04-23T03:00:37.000Z",
-      "live_viewers": 2377,
+      "live_viewers": 2841,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. ????",
@@ -118,6 +79,26 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTVSOgYuSWmNAt-lnJPkEEw": {
+      "video_id": "NKc1giIrMxs",
+      "title": "?T2 WATCHALONG?INTERSTELLAR",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-04-22T07:57:02.000Z",
+      "available_at": "2026-04-23T03:01:45.000Z",
+      "start_scheduled": "2026-04-23T03:00:00.000Z",
+      "start_actual": "2026-04-23T03:01:45.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
+        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
+        "english_name": "Jurard T Rexford",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
