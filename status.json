@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776957845,
+  "cached_at": 1776957906,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "ptQk4rS3L6E",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-23T09:58:30.000Z",
       "start_scheduled": "2026-04-23T10:00:00.000Z",
       "start_actual": "2026-04-23T09:58:30.000Z",
-      "live_viewers": 4838,
+      "live_viewers": 4809,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-23T11:00:24.000Z",
       "start_scheduled": "2026-04-23T11:00:00.000Z",
       "start_actual": "2026-04-23T11:00:24.000Z",
-      "live_viewers": 9137,
+      "live_viewers": 9068,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKeAhJvy8zgXWbh9duVjIaQ": {
-      "video_id": "BIRgnhxucw4",
-      "title": "【 #妖縁REPO 】おひさしNEWTOWNコラボ!【アルランディス/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-04-20T15:33:20.000Z",
-      "available_at": "2026-04-23T11:59:14.000Z",
-      "start_scheduled": "2026-04-23T12:00:00.000Z",
-      "start_actual": "2026-04-23T11:59:14.000Z",
-      "live_viewers": 854,
-      "channel": {
-        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
-        "name": "Aruran Ch. アルランディス",
-        "english_name": "Arurandeisu",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCTvHWSfBZgtxE4sILOaurIQ": {
@@ -111,7 +91,7 @@
       "available_at": "2026-04-23T12:00:15.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:00:15.000Z",
-      "live_viewers": 53,
+      "live_viewers": 60,
       "channel": {
         "id": "UC_a00ml_EVDXSrtY8ZuyqGQ",
         "name": "夏渚まはろ / Nanagisa Mahalo【パレプロ】",
@@ -131,7 +111,7 @@
       "available_at": "2026-04-23T12:01:35.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:01:35.000Z",
-      "live_viewers": 1095,
+      "live_viewers": 1198,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -139,26 +119,6 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "video_id": "8FGEUkzypKc",
-      "title": "【R.E.P.O】妖縁メンバーでR.E.P.Oやってくぞ!今回は2回目だから行けるかっ!?【埼凰リンネ / YUMENOS】#shorts #新人vtuber ##妖縁REPO",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-04-23T02:52:47.000Z",
-      "available_at": "2026-04-23T12:02:26.000Z",
-      "start_scheduled": "2026-04-23T12:00:00.000Z",
-      "start_actual": "2026-04-23T12:02:26.000Z",
-      "live_viewers": 24,
-      "channel": {
-        "id": "UC7W6gEF88kzL-mN8V_QxzVg",
-        "name": "埼凰リンネ / rinne_saio",
-        "english_name": "Saio Rinne",
-        "org": "YUMENOS",
-        "suborg": "1bGen 2",
-        "photo": "https://yt3.ggpht.com/azLV3196MlCaaX5QWRVzhIfMCD7LOrAcsSDQuufYtafmUO043qE40kTJqogZiIZaM0WXiShYQA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCZgOv3YDEs-ZnZWDYVwJdmA": {
@@ -171,7 +131,7 @@
       "available_at": "2026-04-23T12:33:55.000Z",
       "start_scheduled": "2026-04-23T12:30:00.000Z",
       "start_actual": "2026-04-23T12:33:55.000Z",
-      "live_viewers": 367,
+      "live_viewers": 380,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -191,7 +151,7 @@
       "available_at": "2026-04-23T13:00:25.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:00:25.000Z",
-      "live_viewers": 13581,
+      "live_viewers": 14049,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -251,7 +211,7 @@
       "available_at": "2026-04-23T13:13:57.000Z",
       "start_scheduled": "2026-04-23T13:15:00.000Z",
       "start_actual": "2026-04-23T13:13:57.000Z",
-      "live_viewers": 2221,
+      "live_viewers": 2253,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -311,7 +271,7 @@
       "available_at": "2026-04-23T14:06:14.000Z",
       "start_scheduled": "2026-04-23T14:00:00.000Z",
       "start_actual": "2026-04-23T14:06:14.000Z",
-      "live_viewers": 690,
+      "live_viewers": 697,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -331,7 +291,7 @@
       "available_at": "2026-04-23T14:44:19.000Z",
       "start_scheduled": "2026-04-23T15:00:00.000Z",
       "start_actual": "2026-04-23T14:44:19.000Z",
-      "live_viewers": 245,
+      "live_viewers": 263,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
