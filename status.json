@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776949626,
+  "cached_at": 1776949689,
   "lives": {
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
       "video_id": "TbJodPWChyg",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-23T09:00:23.000Z",
       "start_scheduled": "2026-04-23T09:00:00.000Z",
       "start_actual": "2026-04-23T09:00:23.000Z",
-      "live_viewers": 10645,
+      "live_viewers": 11981,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-23T11:59:14.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T11:59:14.000Z",
-      "live_viewers": 974,
+      "live_viewers": 962,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-23T11:59:52.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T11:59:52.000Z",
-      "live_viewers": 2208,
+      "live_viewers": 2119,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-23T12:00:09.000Z",
       "start_scheduled": "2026-04-23T12:00:00.000Z",
       "start_actual": "2026-04-23T12:00:09.000Z",
-      "live_viewers": 12132,
+      "live_viewers": 12238,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -331,7 +331,7 @@
       "available_at": "2026-04-23T12:33:55.000Z",
       "start_scheduled": "2026-04-23T12:30:00.000Z",
       "start_actual": "2026-04-23T12:33:55.000Z",
-      "live_viewers": 295,
+      "live_viewers": 287,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -339,44 +339,6 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCqm3BQLlJfvkTsX_hvm0UmA": {
-      "video_id": "Fn1x0ifIWFU",
-      "title": "【 トモダチコレクション わくわく生活 】初めてのトモコレ生活!!!【角巻わため/ホロライブ4期生】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-22T23:32:29.000Z",
-      "available_at": "2026-04-23T13:00:00.000Z",
-      "start_scheduled": "2026-04-23T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-        "name": "Watame Ch. 角巻わため",
-        "english_name": "Tsunomaki Watame",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCl69AEx4MdqMZH7Jtsm7Tig": {
-      "video_id": "PlWomiAw57A",
-      "title": "【HYTALE】MAIDORA is back and ready to explore !!! 【Raora Panthera】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Hytale",
-      "published_at": "2026-04-23T03:22:37.000Z",
-      "available_at": "2026-04-23T13:00:00.000Z",
-      "start_scheduled": "2026-04-23T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
-        "name": "Raora Panthera Ch. hololive-EN",
-        "english_name": "Raora Panthera",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
@@ -389,7 +351,7 @@
       "available_at": "2026-04-23T13:00:07.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:00:07.000Z",
-      "live_viewers": 161,
+      "live_viewers": 208,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -409,7 +371,7 @@
       "available_at": "2026-04-23T13:00:25.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:00:25.000Z",
-      "live_viewers": 5312,
+      "live_viewers": 7000,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -429,7 +391,7 @@
       "available_at": "2026-04-23T13:01:09.000Z",
       "start_scheduled": "2026-04-23T13:00:00.000Z",
       "start_actual": "2026-04-23T13:01:09.000Z",
-      "live_viewers": 1445,
+      "live_viewers": 1519,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -437,6 +399,46 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCl69AEx4MdqMZH7Jtsm7Tig": {
+      "video_id": "PlWomiAw57A",
+      "title": "【HYTALE】MAIDORA is back and ready to explore !!! 【Raora Panthera】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Hytale",
+      "published_at": "2026-04-23T03:22:37.000Z",
+      "available_at": "2026-04-23T13:02:49.000Z",
+      "start_scheduled": "2026-04-23T13:00:00.000Z",
+      "start_actual": "2026-04-23T13:02:49.000Z",
+      "live_viewers": 1223,
+      "channel": {
+        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
+        "name": "Raora Panthera Ch. hololive-EN",
+        "english_name": "Raora Panthera",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "Fn1x0ifIWFU",
+      "title": "【 トモダチコレクション わくわく生活 】初めてのトモコレ生活!!!【角巻わため/ホロライブ4期生】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-22T23:32:29.000Z",
+      "available_at": "2026-04-23T13:04:52.000Z",
+      "start_scheduled": "2026-04-23T13:00:00.000Z",
+      "start_actual": "2026-04-23T13:04:52.000Z",
+      "live_viewers": 3629,
+      "channel": {
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
