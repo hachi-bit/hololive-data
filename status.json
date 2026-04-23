@@ -1,26 +1,6 @@
 {
-  "cached_at": 1776931469,
+  "cached_at": 1776931528,
   "lives": {
-    "UCmbs8T6MWqUHP1tIQvSgKrg": {
-      "video_id": "RL8acX-1vBU",
-      "title": "?Pragmata?Good Parent I Am",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "PRAGMATA",
-      "published_at": "2026-04-23T01:49:27.000Z",
-      "available_at": "2026-04-23T03:19:07.000Z",
-      "start_scheduled": "2026-04-23T03:15:00.000Z",
-      "start_actual": "2026-04-23T03:19:07.000Z",
-      "live_viewers": 4604,
-      "channel": {
-        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
-        "name": "Ouro Kronii Ch. hololive-EN",
-        "english_name": "Ouro Kronii",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "NrHwDewVR7U",
       "title": "?Tomodachi Life?POPULATING THE DOOMED YURI ISLAND?Pavolia Reine/hololiveID?",
@@ -51,7 +31,7 @@
       "available_at": "2026-04-23T07:58:31.000Z",
       "start_scheduled": "2026-04-23T08:00:00.000Z",
       "start_actual": "2026-04-23T07:58:31.000Z",
-      "live_viewers": 323,
+      "live_viewers": 484,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
