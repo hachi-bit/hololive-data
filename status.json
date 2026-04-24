@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777035305,
+  "cached_at": 1777035366,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "co-_B4rC_Mk",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-24T03:00:35.000Z",
       "start_scheduled": "2026-04-24T03:00:00.000Z",
       "start_actual": "2026-04-24T03:00:35.000Z",
-      "live_viewers": 388,
+      "live_viewers": 377,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-24T08:00:06.000Z",
       "start_scheduled": "2026-04-24T08:05:00.000Z",
       "start_actual": "2026-04-24T08:00:06.000Z",
-      "live_viewers": 6196,
+      "live_viewers": 6183,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-24T09:09:56.000Z",
       "start_scheduled": "2026-04-24T09:10:00.000Z",
       "start_actual": "2026-04-24T09:09:56.000Z",
-      "live_viewers": 4302,
+      "live_viewers": 3977,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-24T09:57:31.000Z",
       "start_scheduled": "2026-04-24T10:00:00.000Z",
       "start_actual": "2026-04-24T09:57:31.000Z",
-      "live_viewers": 7611,
+      "live_viewers": 7448,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-24T10:59:40.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:59:40.000Z",
-      "live_viewers": 122,
+      "live_viewers": 119,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-24T11:00:53.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:53.000Z",
-      "live_viewers": 3192,
+      "live_viewers": 3207,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -219,26 +219,6 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCUKD-uaobj9jiqB-VXt71mA": {
-      "video_id": "ZEBQVa3LGOI",
-      "title": "【メンバー限定/Member only】SSRB総会 2026/4月号【獅白ぼたん/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-04-24T07:10:00.000Z",
-      "available_at": "2026-04-24T11:01:14.000Z",
-      "start_scheduled": "2026-04-24T11:00:00.000Z",
-      "start_actual": "2026-04-24T11:01:14.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCUKD-uaobj9jiqB-VXt71mA",
-        "name": "Botan Ch.獅白ぼたん",
-        "english_name": "Shishiro Botan",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
@@ -271,7 +251,7 @@
       "available_at": "2026-04-24T11:59:56.000Z",
       "start_scheduled": "2026-04-24T09:00:00.000Z",
       "start_actual": "2026-04-24T11:59:56.000Z",
-      "live_viewers": 161,
+      "live_viewers": 154,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -291,7 +271,7 @@
       "available_at": "2026-04-24T12:00:21.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:00:21.000Z",
-      "live_viewers": 1516,
+      "live_viewers": 1525,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -311,7 +291,7 @@
       "available_at": "2026-04-24T12:00:29.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:00:29.000Z",
-      "live_viewers": 39955,
+      "live_viewers": 40588,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -331,7 +311,7 @@
       "available_at": "2026-04-24T12:01:50.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:01:50.000Z",
-      "live_viewers": 2329,
+      "live_viewers": 2414,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -351,7 +331,7 @@
       "available_at": "2026-04-24T12:15:04.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:15:04.000Z",
-      "live_viewers": 879,
+      "live_viewers": 903,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -371,7 +351,7 @@
       "available_at": "2026-04-24T12:33:11.000Z",
       "start_scheduled": "2026-04-24T12:30:00.000Z",
       "start_actual": "2026-04-24T12:33:11.000Z",
-      "live_viewers": 225,
+      "live_viewers": 239,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
