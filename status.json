@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777001344,
+  "cached_at": 1777001405,
   "lives": {
     "UCyxtGMdWlURZ30WSnEjDOQw": {
       "video_id": "ziQcaG2SAXo",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-24T00:43:54.000Z",
       "start_scheduled": "2026-04-24T00:30:00.000Z",
       "start_actual": "2026-04-24T00:43:54.000Z",
-      "live_viewers": 322,
+      "live_viewers": 316,
       "channel": {
         "id": "UCyxtGMdWlURZ30WSnEjDOQw",
         "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
         "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC2hx0xVkMoHGWijwr_lA01w": {
-      "video_id": "RnAYDgtYMEg",
-      "title": "【Pokémon LeafGreen Version🍃】I hate Shinies #6【Soul-Link】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Pokemon",
-      "published_at": "2026-04-24T00:30:34.000Z",
-      "available_at": "2026-04-24T00:45:00.000Z",
-      "start_scheduled": "2026-04-24T00:45:00.000Z",
-      "start_actual": "2026-04-24T00:45:00.000Z",
-      "live_viewers": 213,
-      "channel": {
-        "id": "UC2hx0xVkMoHGWijwr_lA01w",
-        "name": "Axel Syrios Ch. HOLOSTARS-EN",
-        "english_name": "Axel Syrios",
-        "org": "Hololive",
-        "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-        "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC060r4zABV18vcahAWR1n7w": {
@@ -51,7 +31,7 @@
       "available_at": "2026-04-24T00:49:13.000Z",
       "start_scheduled": "2026-04-24T00:00:00.000Z",
       "start_actual": "2026-04-24T00:49:13.000Z",
-      "live_viewers": 486,
+      "live_viewers": 470,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -71,7 +51,7 @@
       "available_at": "2026-04-24T00:55:56.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
       "start_actual": "2026-04-24T00:55:56.000Z",
-      "live_viewers": 10858,
+      "live_viewers": 10621,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-24T02:31:13.000Z",
       "start_scheduled": "2026-04-24T02:30:00.000Z",
       "start_actual": "2026-04-24T02:31:13.000Z",
-      "live_viewers": 1313,
+      "live_viewers": 1306,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-24T03:01:28.000Z",
       "start_scheduled": "2026-04-24T03:00:00.000Z",
       "start_actual": "2026-04-24T03:01:28.000Z",
-      "live_viewers": 2795,
+      "live_viewers": 2859,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
