@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777035125,
+  "cached_at": 1777035185,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "co-_B4rC_Mk",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-24T08:00:06.000Z",
       "start_scheduled": "2026-04-24T08:05:00.000Z",
       "start_actual": "2026-04-24T08:00:06.000Z",
-      "live_viewers": 6271,
+      "live_viewers": 6196,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-24T10:59:15.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:59:15.000Z",
-      "live_viewers": 283,
+      "live_viewers": 262,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-24T11:00:12.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:12.000Z",
-      "live_viewers": 28152,
+      "live_viewers": 28277,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-24T11:00:53.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:53.000Z",
-      "live_viewers": 3112,
+      "live_viewers": 3192,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -371,7 +371,7 @@
       "available_at": "2026-04-24T12:33:11.000Z",
       "start_scheduled": "2026-04-24T12:30:00.000Z",
       "start_actual": "2026-04-24T12:33:11.000Z",
-      "live_viewers": 213,
+      "live_viewers": 225,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -379,26 +379,6 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCMwGHR0BTZuLsmjY_NT5Pwg": {
-      "video_id": "YzgPJtBuOAE",
-      "title": "『GETCHA!』 Ninomae Ina'nis & Takanashi Kiara (Cover)",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Music_Cover",
-      "published_at": "2026-04-24T12:45:06.000Z",
-      "available_at": "2026-04-24T12:45:06.000Z",
-      "start_scheduled": "2026-04-24T12:45:00.000Z",
-      "start_actual": "2026-04-24T12:45:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "name": "Ninomae Ina'nis Ch. hololive-EN",
-        "english_name": "Ninomae Ina'nis",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
