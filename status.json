@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777041125,
+  "cached_at": 1777041185,
   "lives": {
-    "UCTVSOgYuSWmNAt-lnJPkEEw": {
-      "video_id": "co-_B4rC_Mk",
-      "title": "【PRAGMATA】THE ADVENTURE CONTINUES (SPOILER ALERT!)",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "PRAGMATA",
-      "published_at": "2026-04-23T06:54:43.000Z",
-      "available_at": "2026-04-24T03:00:35.000Z",
-      "start_scheduled": "2026-04-24T03:00:00.000Z",
-      "start_actual": "2026-04-24T03:00:35.000Z",
-      "live_viewers": 461,
-      "channel": {
-        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
-        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
-        "english_name": "Jurard T Rexford",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "aOO06lRjhpI",
       "title": "【ぷちホロの村 - 剣とお店と田舎暮らし】農業したり探検もできる!スローライフ始めます!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
@@ -31,7 +11,7 @@
       "available_at": "2026-04-24T09:09:56.000Z",
       "start_scheduled": "2026-04-24T09:10:00.000Z",
       "start_actual": "2026-04-24T09:09:56.000Z",
-      "live_viewers": 2483,
+      "live_viewers": 2362,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -51,7 +31,7 @@
       "available_at": "2026-04-24T09:57:31.000Z",
       "start_scheduled": "2026-04-24T10:00:00.000Z",
       "start_actual": "2026-04-24T09:57:31.000Z",
-      "live_viewers": 7271,
+      "live_viewers": 7262,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-24T11:00:12.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:12.000Z",
-      "live_viewers": 27686,
+      "live_viewers": 27753,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +131,7 @@
       "available_at": "2026-04-24T12:01:50.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:01:50.000Z",
-      "live_viewers": 2753,
+      "live_viewers": 2749,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-24T12:15:04.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:15:04.000Z",
-      "live_viewers": 788,
+      "live_viewers": 778,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-24T12:33:11.000Z",
       "start_scheduled": "2026-04-24T12:30:00.000Z",
       "start_actual": "2026-04-24T12:33:11.000Z",
-      "live_viewers": 343,
+      "live_viewers": 351,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -251,7 +231,7 @@
       "available_at": "2026-04-24T13:00:41.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:41.000Z",
-      "live_viewers": 5309,
+      "live_viewers": 5414,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -271,7 +251,7 @@
       "available_at": "2026-04-24T13:00:53.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:53.000Z",
-      "live_viewers": 14363,
+      "live_viewers": 14567,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -311,7 +291,7 @@
       "available_at": "2026-04-24T13:01:03.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:01:03.000Z",
-      "live_viewers": 2662,
+      "live_viewers": 2652,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -431,7 +411,7 @@
       "available_at": "2026-04-24T13:59:57.000Z",
       "start_scheduled": "2026-04-24T14:00:00.000Z",
       "start_actual": "2026-04-24T13:59:57.000Z",
-      "live_viewers": 375,
+      "live_viewers": 412,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -470,7 +450,7 @@
       "available_at": "2026-04-24T14:00:55.000Z",
       "start_scheduled": "2026-04-24T14:00:00.000Z",
       "start_actual": "2026-04-24T14:00:55.000Z",
-      "live_viewers": 2381,
+      "live_viewers": 2506,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -490,7 +470,7 @@
       "available_at": "2026-04-24T14:01:01.000Z",
       "start_scheduled": "2026-04-24T14:00:00.000Z",
       "start_actual": "2026-04-24T14:01:01.000Z",
-      "live_viewers": 2982,
+      "live_viewers": 3043,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -527,8 +507,9 @@
       "status": "live",
       "topic_id": "membersonly",
       "published_at": "2026-04-24T14:07:40.000Z",
-      "available_at": "2026-04-24T14:15:00.000Z",
+      "available_at": "2026-04-24T14:19:37.000Z",
       "start_scheduled": "2026-04-24T14:15:00.000Z",
+      "start_actual": "2026-04-24T14:19:37.000Z",
       "live_viewers": 0,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
