@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776999305,
+  "cached_at": 1776999365,
   "lives": {
     "UCyxtGMdWlURZ30WSnEjDOQw": {
       "video_id": "ziQcaG2SAXo",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-24T00:43:54.000Z",
       "start_scheduled": "2026-04-24T00:30:00.000Z",
       "start_actual": "2026-04-24T00:43:54.000Z",
-      "live_viewers": 299,
+      "live_viewers": 313,
       "channel": {
         "id": "UCyxtGMdWlURZ30WSnEjDOQw",
         "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -81,26 +81,6 @@
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCANDOlYTJT7N5jlRC3zfzVA": {
-      "video_id": "MtAPypOpFL4",
-      "title": "【Pokémon Champions】 朝 メ ガ ス ピ ア ー 【夕刻ロベル/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Pokemon",
-      "published_at": "2026-04-22T09:41:31.000Z",
-      "available_at": "2026-04-24T00:50:56.000Z",
-      "start_scheduled": "2026-04-24T01:00:00.000Z",
-      "start_actual": "2026-04-24T00:50:56.000Z",
-      "live_viewers": 1649,
-      "channel": {
-        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
-        "name": "Roberu Ch. 夕刻ロベル",
-        "english_name": "Yukoku Roberu",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCt9H_RpQzhxzlyBxFqrdHqA": {
       "video_id": "CYOCX21xwG0",
       "title": "【FUWAWA RETURNS|フワワ復活!】ただいま✨️ i'm finally back home, ruffians 🐾🩵 【FUWAMOCO】",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-24T00:55:56.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
       "start_actual": "2026-04-24T00:55:56.000Z",
-      "live_viewers": 13100,
+      "live_viewers": 12925,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -131,7 +111,7 @@
       "available_at": "2026-04-24T01:00:31.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
       "start_actual": "2026-04-24T01:00:31.000Z",
-      "live_viewers": 638,
+      "live_viewers": 644,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-24T02:31:13.000Z",
       "start_scheduled": "2026-04-24T02:30:00.000Z",
       "start_actual": "2026-04-24T02:31:13.000Z",
-      "live_viewers": 997,
+      "live_viewers": 1103,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
