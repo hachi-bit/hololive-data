@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777032244,
+  "cached_at": 1777032305,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "co-_B4rC_Mk",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-24T08:00:06.000Z",
       "start_scheduled": "2026-04-24T08:05:00.000Z",
       "start_actual": "2026-04-24T08:00:06.000Z",
-      "live_viewers": 7481,
+      "live_viewers": 7352,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -39,25 +39,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
-      "video_id": "r5QLc5sRH-E",
-      "title": "【PRAGMATA】カプコン発!超話題の \"\"プラグマタ\"\" をプレイする!!!【※ネタバレあり/ ホロスターズ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "PRAGMATA",
-      "published_at": "2026-04-22T10:23:51.000Z",
-      "available_at": "2026-04-24T09:00:00.000Z",
-      "start_scheduled": "2026-04-24T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
-        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
-        "english_name": "Utsugi Uyu",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
@@ -170,7 +151,7 @@
       "available_at": "2026-04-24T10:59:15.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:59:15.000Z",
-      "live_viewers": 279,
+      "live_viewers": 286,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -190,7 +171,7 @@
       "available_at": "2026-04-24T10:59:40.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:59:40.000Z",
-      "live_viewers": 123,
+      "live_viewers": 129,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -210,7 +191,7 @@
       "available_at": "2026-04-24T11:00:12.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:12.000Z",
-      "live_viewers": 28274,
+      "live_viewers": 27266,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -250,7 +231,7 @@
       "available_at": "2026-04-24T11:00:53.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:53.000Z",
-      "live_viewers": 3003,
+      "live_viewers": 3130,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -310,7 +291,7 @@
       "available_at": "2026-04-24T11:15:56.000Z",
       "start_scheduled": "2026-04-24T11:15:00.000Z",
       "start_actual": "2026-04-24T11:15:56.000Z",
-      "live_viewers": 3718,
+      "live_viewers": 3846,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -318,6 +299,104 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
+      "video_id": "r5QLc5sRH-E",
+      "title": "【PRAGMATA】カプコン発!超話題の \"\"プラグマタ\"\" をプレイする!!!【※ネタバレあり/ ホロスターズ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PRAGMATA",
+      "published_at": "2026-04-22T10:23:51.000Z",
+      "available_at": "2026-04-24T11:59:56.000Z",
+      "start_scheduled": "2026-04-24T09:00:00.000Z",
+      "start_actual": "2026-04-24T11:59:56.000Z",
+      "live_viewers": 52,
+      "channel": {
+        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
+        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
+        "english_name": "Utsugi Uyu",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCl69AEx4MdqMZH7Jtsm7Tig": {
+      "video_id": "tD0qcZEvWjc",
+      "title": "【HYTALE】GO BIG OR GO HOME!!!【Raora Panthera】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Hytale",
+      "published_at": "2026-04-24T01:53:27.000Z",
+      "available_at": "2026-04-24T12:00:00.000Z",
+      "start_scheduled": "2026-04-24T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
+        "name": "Raora Panthera Ch. hololive-EN",
+        "english_name": "Raora Panthera",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC727SQYUvx5pDDGQpTICNWg": {
+      "video_id": "Yey0cW9RnPU",
+      "title": "【Pode】BEST TEAMWORK INCOMING! ゼーニャで協力プレイ!【hololive ID 2nd Generation | Anya Melfissa】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-24T03:23:14.000Z",
+      "available_at": "2026-04-24T12:00:00.000Z",
+      "start_scheduled": "2026-04-24T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC727SQYUvx5pDDGQpTICNWg",
+        "name": "Anya Melfissa Ch. hololive-ID",
+        "english_name": "Anya Melfissa",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6t3-_N8A6ME1JShZHHqOMw": {
+      "video_id": "oQoNh9TyINY",
+      "title": "【Vlog】喫茶店で優雅なひと時☕ブレンドティー体験してきました!!【花咲みやび/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Vlog",
+      "published_at": "2026-04-24T12:00:06.000Z",
+      "available_at": "2026-04-24T12:00:06.000Z",
+      "start_scheduled": "2026-04-24T12:00:00.000Z",
+      "start_actual": "2026-04-24T12:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "english_name": "Hanasaki Miyabi",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp-5t9SrOQwXMU7iIjQfARg": {
+      "video_id": "HIuF4Cr5sI8",
+      "title": "【マリパ】全員が大神ミオのマリパってどういうこと?【 #ホロライブゲーマーズ  】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_Party",
+      "published_at": "2026-04-24T03:21:46.000Z",
+      "available_at": "2026-04-24T12:00:29.000Z",
+      "start_scheduled": "2026-04-24T12:00:00.000Z",
+      "start_actual": "2026-04-24T12:00:29.000Z",
+      "live_viewers": 15894,
+      "channel": {
+        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+        "name": "Mio Channel 大神ミオ",
+        "english_name": "Ookami Mio",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
