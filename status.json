@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777050305,
+  "cached_at": 1777050365,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "j6mxZSMjh0A",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-24T09:57:31.000Z",
       "start_scheduled": "2026-04-24T10:00:00.000Z",
       "start_actual": "2026-04-24T09:57:31.000Z",
-      "live_viewers": 7339,
+      "live_viewers": 7508,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCL_qhgtOy0dy1Agp8vkySQg": {
-      "video_id": "og3yjUcDheY",
-      "title": "【HOLO HYTALE SERVER】always lost but enjoying life #calliolive",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Hytale",
-      "published_at": "2026-04-20T14:39:38.000Z",
-      "available_at": "2026-04-24T11:00:53.000Z",
-      "start_scheduled": "2026-04-24T11:00:00.000Z",
-      "start_actual": "2026-04-24T11:00:53.000Z",
-      "live_viewers": 2797,
-      "channel": {
-        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-        "name": "Mori Calliope Ch. hololive-EN",
-        "english_name": "Mori Calliope",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCl69AEx4MdqMZH7Jtsm7Tig": {
@@ -91,7 +71,7 @@
       "available_at": "2026-04-24T13:00:25.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:25.000Z",
-      "live_viewers": 983,
+      "live_viewers": 761,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-24T13:01:03.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:01:03.000Z",
-      "live_viewers": 3106,
+      "live_viewers": 3078,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -131,7 +111,7 @@
       "available_at": "2026-04-24T13:01:08.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:01:08.000Z",
-      "live_viewers": 14574,
+      "live_viewers": 14289,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -231,7 +211,7 @@
       "available_at": "2026-04-24T14:50:18.000Z",
       "start_scheduled": "2026-04-24T15:00:00.000Z",
       "start_actual": "2026-04-24T14:50:18.000Z",
-      "live_viewers": 324,
+      "live_viewers": 305,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
