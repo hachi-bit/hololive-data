@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777035785,
+  "cached_at": 1777035845,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "co-_B4rC_Mk",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-24T03:00:35.000Z",
       "start_scheduled": "2026-04-24T03:00:00.000Z",
       "start_actual": "2026-04-24T03:00:35.000Z",
-      "live_viewers": 377,
+      "live_viewers": 343,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-24T08:00:06.000Z",
       "start_scheduled": "2026-04-24T08:05:00.000Z",
       "start_actual": "2026-04-24T08:00:06.000Z",
-      "live_viewers": 6151,
+      "live_viewers": 6056,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-24T10:59:15.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:59:15.000Z",
-      "live_viewers": 262,
+      "live_viewers": 231,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-24T11:00:12.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:12.000Z",
-      "live_viewers": 28450,
+      "live_viewers": 28063,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-24T11:59:56.000Z",
       "start_scheduled": "2026-04-24T09:00:00.000Z",
       "start_actual": "2026-04-24T11:59:56.000Z",
-      "live_viewers": 154,
+      "live_viewers": 158,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -291,7 +291,7 @@
       "available_at": "2026-04-24T12:00:29.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:00:29.000Z",
-      "live_viewers": 40588,
+      "live_viewers": 38372,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -331,7 +331,7 @@
       "available_at": "2026-04-24T12:15:04.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:15:04.000Z",
-      "live_viewers": 936,
+      "live_viewers": 922,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -351,7 +351,7 @@
       "available_at": "2026-04-24T12:33:11.000Z",
       "start_scheduled": "2026-04-24T12:30:00.000Z",
       "start_actual": "2026-04-24T12:33:11.000Z",
-      "live_viewers": 260,
+      "live_viewers": 255,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -359,6 +359,203 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvzGlP9oQwU--Y0r9id_jnA": {
+      "video_id": "yvBNM3WSX1Y",
+      "title": "【#6】ジョジョ第5部同時視聴みるしゅばあああああああああああああああああああああ!!!!：JoJo's Bizarre Adventure: Golden Wind【ホロライブ/大空スバル】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-04-22T18:03:55.000Z",
+      "available_at": "2026-04-24T13:00:00.000Z",
+      "start_scheduled": "2026-04-24T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+        "name": "Subaru Ch. 大空スバル",
+        "english_name": "Oozora Subaru",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKMWFR6lAstLa7Vbf5dH7ig": {
+      "video_id": "vnTs6rJY7q8",
+      "title": "【機動戦士ガンダム 第08MS小隊】完全初見だ!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-24T12:59:21.000Z",
+      "available_at": "2026-04-24T13:00:00.000Z",
+      "start_scheduled": "2026-04-24T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+        "english_name": "Rindo Chihaya",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCP0BspO_AMEe3aQqqpo89Dg": {
+      "video_id": "YP410Ytvsis",
+      "title": "【Hytale】let's do something【hololive | moona】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Hytale",
+      "published_at": "2026-04-24T04:55:58.000Z",
+      "available_at": "2026-04-24T13:00:00.000Z",
+      "start_scheduled": "2026-04-24T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+        "name": "Moona Hoshinova hololive-ID",
+        "english_name": "Moona Hoshinova",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1iA6_NT4mtAcIII6ygrvCw": {
+      "video_id": "IZVXxaL2KXo",
+      "title": "#7【ぽこ あポケモン】まったりぽこあ✨【轟はじめ/ReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pokemon_Pokopia",
+      "published_at": "2026-04-24T07:23:44.000Z",
+      "available_at": "2026-04-24T13:00:12.000Z",
+      "start_scheduled": "2026-04-24T13:00:00.000Z",
+      "start_actual": "2026-04-24T13:00:12.000Z",
+      "live_viewers": 921,
+      "channel": {
+        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+        "english_name": "Todoroki Hajime",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCYz_5n-uDuChHtLo7My1HnQ": {
+      "video_id": "nc6UtX5R35E",
+      "title": "【HYTALE - EN&ID Server】  Pt.3: I MAY HAVE BEEN A BIT DISTRACTED BUT I'M BACK 【Kureiji Ollie】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Hytale",
+      "published_at": "2026-04-23T16:05:31.000Z",
+      "available_at": "2026-04-24T13:00:25.000Z",
+      "start_scheduled": "2026-04-24T13:00:00.000Z",
+      "start_actual": "2026-04-24T13:00:25.000Z",
+      "live_viewers": 193,
+      "channel": {
+        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+        "name": "Kureiji Ollie Ch. hololive-ID",
+        "english_name": "Kureiji Ollie",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCMwGHR0BTZuLsmjY_NT5Pwg": {
+      "video_id": "QL6lUxXWBiU",
+      "title": "【Hytale】NO IDEA WHAT I'M DOING!!!! HELP",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Hytale",
+      "published_at": "2026-04-24T08:01:39.000Z",
+      "available_at": "2026-04-24T13:00:41.000Z",
+      "start_scheduled": "2026-04-24T13:00:00.000Z",
+      "start_actual": "2026-04-24T13:00:41.000Z",
+      "live_viewers": 1475,
+      "channel": {
+        "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "name": "Ninomae Ina'nis Ch. hololive-EN",
+        "english_name": "Ninomae Ina'nis",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC0TXe_LYZ4scaW2XMyi5_kw": {
+      "video_id": "uMz2LRXL0oE",
+      "title": "【BIOHAZARD RE:3】完全初見!バイオハザード RE:3【ホロライブ / AZKi】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-04-24T09:31:13.000Z",
+      "available_at": "2026-04-24T13:00:53.000Z",
+      "start_scheduled": "2026-04-24T13:00:00.000Z",
+      "start_actual": "2026-04-24T13:00:53.000Z",
+      "live_viewers": 3954,
+      "channel": {
+        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+        "name": "AZKi Channel",
+        "english_name": "AZKi",
+        "org": "Hololive",
+        "suborg": "0z0th Generation",
+        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9mf_ZVpouoILRY9NUIaK-w": {
+      "video_id": "eWxexyPiii8",
+      "title": "【雑談枠】いそがしの4月 【律可/ホロスターズ】#りつすた",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-04-24T09:27:08.000Z",
+      "available_at": "2026-04-24T13:00:54.000Z",
+      "start_scheduled": "2026-04-24T13:00:00.000Z",
+      "start_actual": "2026-04-24T13:00:54.000Z",
+      "live_viewers": 151,
+      "channel": {
+        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+        "name": "Rikka ch.律可",
+        "english_name": "Rikka",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCHsx4Hqa-1ORjQTh9TYDhww": {
+      "video_id": "7--XyvGY_ns",
+      "title": "【HOLO EN/ID HYTALE】my preciousss....golden house.... we wants it, we needs it... #kfp #キアライブ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Hytale",
+      "published_at": "2026-04-23T21:41:51.000Z",
+      "available_at": "2026-04-24T13:01:03.000Z",
+      "start_scheduled": "2026-04-24T13:00:00.000Z",
+      "start_actual": "2026-04-24T13:01:03.000Z",
+      "live_viewers": 396,
+      "channel": {
+        "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+        "name": "Takanashi Kiara Ch. hololive-EN",
+        "english_name": "Takanashi Kiara",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "cYGZzov8fU0",
+      "title": "【 クロノ・トリガー 】完全初見!ついに名作に触れるひつじ... #最終回 【角巻わため/ホロライブ4期生】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Chrono_Trigger",
+      "published_at": "2026-04-23T22:04:15.000Z",
+      "available_at": "2026-04-24T13:01:08.000Z",
+      "start_scheduled": "2026-04-24T13:00:00.000Z",
+      "start_actual": "2026-04-24T13:01:08.000Z",
+      "live_viewers": 1622,
+      "channel": {
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
