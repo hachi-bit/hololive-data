@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777048805,
+  "cached_at": 1777048865,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "j6mxZSMjh0A",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-24T09:57:31.000Z",
       "start_scheduled": "2026-04-24T10:00:00.000Z",
       "start_actual": "2026-04-24T09:57:31.000Z",
-      "live_viewers": 7639,
+      "live_viewers": 7586,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-24T11:00:53.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:53.000Z",
-      "live_viewers": 2818,
+      "live_viewers": 2826,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -81,26 +81,6 @@
         "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC1iA6_NT4mtAcIII6ygrvCw": {
-      "video_id": "IZVXxaL2KXo",
-      "title": "＃７【ぽこ あポケモン】まったりぽこあ✨【轟はじめ/ReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Pokemon_Pokopia",
-      "published_at": "2026-04-24T07:23:44.000Z",
-      "available_at": "2026-04-24T13:00:12.000Z",
-      "start_scheduled": "2026-04-24T13:00:00.000Z",
-      "start_actual": "2026-04-24T13:00:12.000Z",
-      "live_viewers": 4369,
-      "channel": {
-        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-        "english_name": "Todoroki Hajime",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCYz_5n-uDuChHtLo7My1HnQ": {
       "video_id": "nc6UtX5R35E",
       "title": "【HYTALE - EN&ID Server】  Pt.3: I MAY HAVE BEEN A BIT DISTRACTED BUT I'M BACK 【Kureiji Ollie】",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-24T13:00:25.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:25.000Z",
-      "live_viewers": 962,
+      "live_viewers": 991,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -151,7 +131,7 @@
       "available_at": "2026-04-24T13:01:08.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:01:08.000Z",
-      "live_viewers": 15270,
+      "live_viewers": 15931,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-24T13:02:10.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:02:10.000Z",
-      "live_viewers": 1041,
+      "live_viewers": 1031,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -271,7 +251,7 @@
       "available_at": "2026-04-24T14:50:18.000Z",
       "start_scheduled": "2026-04-24T15:00:00.000Z",
       "start_actual": "2026-04-24T14:50:18.000Z",
-      "live_viewers": 333,
+      "live_viewers": 339,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
