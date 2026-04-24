@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776989165,
+  "cached_at": 1776989225,
   "lives": {
     "UC1uv2Oq6kNxgATlCiez59hw": {
       "video_id": "bQNeCm72Xmw",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-23T23:02:57.000Z",
       "start_scheduled": "2026-04-23T23:00:00.000Z",
       "start_actual": "2026-04-23T23:02:57.000Z",
-      "live_viewers": 7496,
+      "live_viewers": 7515,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-23T23:30:41.000Z",
       "start_scheduled": "2026-04-23T23:00:00.000Z",
       "start_actual": "2026-04-23T23:30:41.000Z",
-      "live_viewers": 4104,
+      "live_viewers": 4243,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -60,25 +60,6 @@
         "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "sfQ-Dcj8p4U",
-      "title": "【Pokémon FR LG Soul-Link 🍃】#4 | Machiruze The Arbok is GONE  ( & Drowzee..)",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Pokemon",
-      "published_at": "2026-04-23T15:23:55.000Z",
-      "available_at": "2026-04-24T00:00:00.000Z",
-      "start_scheduled": "2026-04-24T00:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC060r4zABV18vcahAWR1n7w",
-        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-        "english_name": "Machina X Flayon",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCyxtGMdWlURZ30WSnEjDOQw": {
       "video_id": "ziQcaG2SAXo",
       "title": "【🔥 Pokémon FR LG Soul-Link 🍃】 SILPH CO., HERE WE GO!!! ✨ SHINY SPICY 🔥 #AlTogether",
@@ -96,6 +77,25 @@
         "org": "Hololive",
         "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
         "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC060r4zABV18vcahAWR1n7w": {
+      "video_id": "sfQ-Dcj8p4U",
+      "title": "【Pokémon FR LG Soul-Link 🍃】#4 | Machiruze The Arbok is GONE  ( & Drowzee..)",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pokemon",
+      "published_at": "2026-04-23T15:23:55.000Z",
+      "available_at": "2026-04-24T00:00:00.000Z",
+      "start_scheduled": "2026-04-24T00:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC060r4zABV18vcahAWR1n7w",
+        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
+        "english_name": "Machina X Flayon",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
