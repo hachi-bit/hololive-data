@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777042265,
+  "cached_at": 1777042326,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "j6mxZSMjh0A",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-24T10:58:46.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:58:46.000Z",
-      "live_viewers": 789,
+      "live_viewers": 795,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-24T13:00:12.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:12.000Z",
-      "live_viewers": 3718,
+      "live_viewers": 3703,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-24T13:00:25.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:25.000Z",
-      "live_viewers": 1029,
+      "live_viewers": 995,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-24T13:00:41.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:41.000Z",
-      "live_viewers": 5549,
+      "live_viewers": 5490,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -271,7 +271,7 @@
       "available_at": "2026-04-24T13:01:59.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:01:59.000Z",
-      "live_viewers": 15625,
+      "live_viewers": 15702,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -351,7 +351,7 @@
       "available_at": "2026-04-24T13:59:57.000Z",
       "start_scheduled": "2026-04-24T14:00:00.000Z",
       "start_actual": "2026-04-24T13:59:57.000Z",
-      "live_viewers": 496,
+      "live_viewers": 525,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -371,7 +371,7 @@
       "available_at": "2026-04-24T14:00:55.000Z",
       "start_scheduled": "2026-04-24T14:00:00.000Z",
       "start_actual": "2026-04-24T14:00:55.000Z",
-      "live_viewers": 2823,
+      "live_viewers": 2873,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -391,7 +391,7 @@
       "available_at": "2026-04-24T14:01:01.000Z",
       "start_scheduled": "2026-04-24T14:00:00.000Z",
       "start_actual": "2026-04-24T14:01:01.000Z",
-      "live_viewers": 3650,
+      "live_viewers": 3707,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -451,7 +451,7 @@
       "available_at": "2026-04-24T14:30:32.000Z",
       "start_scheduled": "2026-04-24T14:00:00.000Z",
       "start_actual": "2026-04-24T14:30:32.000Z",
-      "live_viewers": 485,
+      "live_viewers": 480,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -459,6 +459,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCJv02SHZgav7Mv3V0kBOR8Q": {
+      "video_id": "dQIOmE6FJAE",
+      "title": "【Resident Evil 7】A bloody family reunion.",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-04-18T22:41:59.000Z",
+      "available_at": "2026-04-24T14:50:18.000Z",
+      "start_scheduled": "2026-04-24T15:00:00.000Z",
+      "start_actual": "2026-04-24T14:50:18.000Z",
+      "live_viewers": 69,
+      "channel": {
+        "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
+        "name": "Goldbullet Ch. HOLOSTARS-EN",
+        "english_name": "Goldbullet",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
