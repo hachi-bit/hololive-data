@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777037705,
+  "cached_at": 1777037765,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "co-_B4rC_Mk",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-24T09:09:56.000Z",
       "start_scheduled": "2026-04-24T09:10:00.000Z",
       "start_actual": "2026-04-24T09:09:56.000Z",
-      "live_viewers": 2990,
+      "live_viewers": 2943,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-24T10:59:40.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:59:40.000Z",
-      "live_viewers": 115,
+      "live_viewers": 108,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-24T11:00:12.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:12.000Z",
-      "live_viewers": 28722,
+      "live_viewers": 29190,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -221,26 +221,6 @@
         "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC_sFNM0z0MWm9A6WlKPuMMg": {
-      "video_id": "vNTicmHdDqk",
-      "title": "Quietly and politely doing my dailies | Tomodachi Life: Living the Dream",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-24T11:03:07.000Z",
-      "available_at": "2026-04-24T11:15:56.000Z",
-      "start_scheduled": "2026-04-24T11:15:00.000Z",
-      "start_actual": "2026-04-24T11:15:56.000Z",
-      "live_viewers": 3852,
-      "channel": {
-        "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
-        "name": "Nerissa Ravencroft Ch. hololive-EN",
-        "english_name": "Nerissa Ravencroft",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCgRqGV1gBf2Esxh0Tz1vxzw": {
       "video_id": "r5QLc5sRH-E",
       "title": "【PRAGMATA】カプコン発!超話題の \"\"プラグマタ\"\" をプレイする!!!【※ネタバレあり/ ホロスターズ 】",
@@ -251,7 +231,7 @@
       "available_at": "2026-04-24T11:59:56.000Z",
       "start_scheduled": "2026-04-24T09:00:00.000Z",
       "start_actual": "2026-04-24T11:59:56.000Z",
-      "live_viewers": 156,
+      "live_viewers": 157,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -351,7 +331,7 @@
       "available_at": "2026-04-24T13:00:12.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:12.000Z",
-      "live_viewers": 2582,
+      "live_viewers": 2744,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -371,7 +351,7 @@
       "available_at": "2026-04-24T13:00:25.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:25.000Z",
-      "live_viewers": 513,
+      "live_viewers": 539,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -391,7 +371,7 @@
       "available_at": "2026-04-24T13:00:41.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:41.000Z",
-      "live_viewers": 4384,
+      "live_viewers": 4698,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -411,7 +391,7 @@
       "available_at": "2026-04-24T13:00:53.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:53.000Z",
-      "live_viewers": 12913,
+      "live_viewers": 13108,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -431,7 +411,7 @@
       "available_at": "2026-04-24T13:00:54.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:54.000Z",
-      "live_viewers": 292,
+      "live_viewers": 295,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -451,7 +431,7 @@
       "available_at": "2026-04-24T13:01:03.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:01:03.000Z",
-      "live_viewers": 1757,
+      "live_viewers": 2686,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -471,7 +451,7 @@
       "available_at": "2026-04-24T13:01:08.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:01:08.000Z",
-      "live_viewers": 6759,
+      "live_viewers": 7048,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -491,7 +471,7 @@
       "available_at": "2026-04-24T13:01:59.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:01:59.000Z",
-      "live_viewers": 14661,
+      "live_viewers": 14797,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -511,7 +491,7 @@
       "available_at": "2026-04-24T13:02:10.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:02:10.000Z",
-      "live_viewers": 787,
+      "live_viewers": 754,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -531,7 +511,7 @@
       "available_at": "2026-04-24T13:07:08.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:07:08.000Z",
-      "live_viewers": 1152,
+      "live_viewers": 1163,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -551,7 +531,7 @@
       "available_at": "2026-04-24T13:29:59.000Z",
       "start_scheduled": "2026-04-24T13:30:00.000Z",
       "start_actual": "2026-04-24T13:29:59.000Z",
-      "live_viewers": 447,
+      "live_viewers": 903,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
