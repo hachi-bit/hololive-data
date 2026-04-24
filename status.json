@@ -1,4 +1,25 @@
 {
-  "cached_at": 1777064585,
-  "lives": {}
+  "cached_at": 1777064645,
+  "lives": {
+    "UCHP4f7G2dWD4qib7BMatGAw": {
+      "video_id": "lxWGT0a_myo",
+      "title": "[MENSHI] FINISHING ART COMMS (I HOPE)",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-04-10T19:22:19.000Z",
+      "available_at": "2026-04-24T21:00:10.000Z",
+      "start_scheduled": "2026-04-24T21:00:00.000Z",
+      "start_actual": "2026-04-24T21:00:10.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCHP4f7G2dWD4qib7BMatGAw",
+        "name": "Gavis Bettel Ch. HOLOSTARS-EN",
+        "english_name": "Gavis Bettel",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    }
+  }
 }
