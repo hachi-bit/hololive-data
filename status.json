@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777039505,
+  "cached_at": 1777039565,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "co-_B4rC_Mk",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-24T09:09:56.000Z",
       "start_scheduled": "2026-04-24T09:10:00.000Z",
       "start_actual": "2026-04-24T09:09:56.000Z",
-      "live_viewers": 2563,
+      "live_viewers": 2574,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-24T10:59:40.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:59:40.000Z",
-      "live_viewers": 126,
+      "live_viewers": 125,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -311,7 +311,7 @@
       "available_at": "2026-04-24T13:00:12.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:12.000Z",
-      "live_viewers": 3063,
+      "live_viewers": 3076,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -351,7 +351,7 @@
       "available_at": "2026-04-24T13:00:41.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:41.000Z",
-      "live_viewers": 4654,
+      "live_viewers": 4766,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -371,7 +371,7 @@
       "available_at": "2026-04-24T13:00:53.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:53.000Z",
-      "live_viewers": 13787,
+      "live_viewers": 13529,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -491,7 +491,7 @@
       "available_at": "2026-04-24T13:07:08.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:07:08.000Z",
-      "live_viewers": 1260,
+      "live_viewers": 1262,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -531,7 +531,7 @@
       "available_at": "2026-04-24T13:59:57.000Z",
       "start_scheduled": "2026-04-24T14:00:00.000Z",
       "start_actual": "2026-04-24T13:59:57.000Z",
-      "live_viewers": 137,
+      "live_viewers": 172,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -539,44 +539,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC6eWCld0KwmyHFbAqK3V-Rw": {
-      "video_id": "1SvVtoggBxw",
-      "title": "【Membership Only】holoXライブ直前！4月のまったり雑談.。☆*【博衣こより/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-04-23T06:59:52.000Z",
-      "available_at": "2026-04-24T14:00:00.000Z",
-      "start_scheduled": "2026-04-24T14:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-        "name": "Koyori ch. 博衣こより - holoX -",
-        "english_name": "Hakui Koyori",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "U-Rs_-Ogut0",
-      "title": "【雑談】なんかラジオみたいなトーク 第19回【荒咬オウガ  アール/Aru】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-04-23T14:55:10.000Z",
-      "available_at": "2026-04-24T14:00:00.000Z",
-      "start_scheduled": "2026-04-24T14:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "name": "Oga Ch.荒咬オウガ",
-        "english_name": "Aragami Oga",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
@@ -598,6 +560,26 @@
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
+      "video_id": "U-Rs_-Ogut0",
+      "title": "【雑談】なんかラジオみたいなトーク 第19回【荒咬オウガ  アール/Aru】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-04-23T14:55:10.000Z",
+      "available_at": "2026-04-24T14:00:55.000Z",
+      "start_scheduled": "2026-04-24T14:00:00.000Z",
+      "start_actual": "2026-04-24T14:00:55.000Z",
+      "live_viewers": 1153,
+      "channel": {
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "name": "Oga Ch.荒咬オウガ",
+        "english_name": "Aragami Oga",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "CDk5B51_rGc",
       "title": "【 定期雑談 】もうすぐholoXライブだね☺色々お話するでぇ!!!  #もう金ルイ 【鷹嶺ルイ/ホロライブ】",
@@ -605,9 +587,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-04-24T10:23:45.000Z",
-      "available_at": "2026-04-24T14:00:00.000Z",
+      "available_at": "2026-04-24T14:01:01.000Z",
       "start_scheduled": "2026-04-24T14:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-24T14:01:01.000Z",
+      "live_viewers": 1234,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -615,6 +598,26 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6eWCld0KwmyHFbAqK3V-Rw": {
+      "video_id": "1SvVtoggBxw",
+      "title": "【Membership Only】holoXライブ直前!4月のまったり雑談.。☆*【博衣こより/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-04-23T06:59:52.000Z",
+      "available_at": "2026-04-24T14:01:12.000Z",
+      "start_scheduled": "2026-04-24T14:00:00.000Z",
+      "start_actual": "2026-04-24T14:01:12.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+        "name": "Koyori ch. 博衣こより - holoX -",
+        "english_name": "Hakui Koyori",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
