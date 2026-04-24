@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777048145,
+  "cached_at": 1777048205,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "j6mxZSMjh0A",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-24T12:01:50.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:01:50.000Z",
-      "live_viewers": 2988,
+      "live_viewers": 2972,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-24T13:00:25.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:25.000Z",
-      "live_viewers": 1006,
+      "live_viewers": 977,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -179,26 +179,6 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKMWFR6lAstLa7Vbf5dH7ig": {
-      "video_id": "vnTs6rJY7q8",
-      "title": "【機動戦士ガンダム 第08MS小隊】完全初見だ!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-04-24T12:59:21.000Z",
-      "available_at": "2026-04-24T13:07:08.000Z",
-      "start_scheduled": "2026-04-24T13:00:00.000Z",
-      "start_actual": "2026-04-24T13:07:08.000Z",
-      "live_viewers": 1175,
-      "channel": {
-        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "english_name": "Rindo Chihaya",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
@@ -311,7 +291,7 @@
       "available_at": "2026-04-24T14:50:18.000Z",
       "start_scheduled": "2026-04-24T15:00:00.000Z",
       "start_actual": "2026-04-24T14:50:18.000Z",
-      "live_viewers": 328,
+      "live_viewers": 333,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
