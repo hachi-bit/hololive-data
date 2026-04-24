@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777000505,
+  "cached_at": 1777000565,
   "lives": {
     "UCyxtGMdWlURZ30WSnEjDOQw": {
       "video_id": "ziQcaG2SAXo",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-24T00:43:54.000Z",
       "start_scheduled": "2026-04-24T00:30:00.000Z",
       "start_actual": "2026-04-24T00:43:54.000Z",
-      "live_viewers": 313,
+      "live_viewers": 311,
       "channel": {
         "id": "UCyxtGMdWlURZ30WSnEjDOQw",
         "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-24T00:44:14.000Z",
       "start_scheduled": "2026-04-24T00:00:00.000Z",
       "start_actual": "2026-04-24T00:44:14.000Z",
-      "live_viewers": 515,
+      "live_viewers": 493,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-24T00:55:56.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
       "start_actual": "2026-04-24T00:55:56.000Z",
-      "live_viewers": 11906,
+      "live_viewers": 11415,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-24T01:00:42.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
       "start_actual": "2026-04-24T01:00:42.000Z",
-      "live_viewers": 2680,
+      "live_viewers": 2873,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-24T02:31:13.000Z",
       "start_scheduled": "2026-04-24T02:30:00.000Z",
       "start_actual": "2026-04-24T02:31:13.000Z",
-      "live_viewers": 1266,
+      "live_viewers": 1274,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-24T03:00:35.000Z",
       "start_scheduled": "2026-04-24T03:00:00.000Z",
       "start_actual": "2026-04-24T03:00:35.000Z",
-      "live_viewers": 183,
+      "live_viewers": 202,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-24T03:00:44.000Z",
       "start_scheduled": "2026-04-24T03:00:00.000Z",
       "start_actual": "2026-04-24T03:00:44.000Z",
-      "live_viewers": 3420,
+      "live_viewers": 3625,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-24T03:01:28.000Z",
       "start_scheduled": "2026-04-24T03:00:00.000Z",
       "start_actual": "2026-04-24T03:01:28.000Z",
-      "live_viewers": 2222,
+      "live_viewers": 2357,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
