@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777027505,
+  "cached_at": 1777027565,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "co-_B4rC_Mk",
@@ -21,26 +21,6 @@
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCANDOlYTJT7N5jlRC3zfzVA": {
-      "video_id": "VR8Oxf4pRpo",
-      "title": "【P5R】初見で挑む『ペルソナ5 ザ・ロイヤル』 7日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Persona",
-      "published_at": "2026-04-23T13:42:04.000Z",
-      "available_at": "2026-04-24T04:00:15.000Z",
-      "start_scheduled": "2026-04-24T04:00:00.000Z",
-      "start_actual": "2026-04-24T04:00:15.000Z",
-      "live_viewers": 2726,
-      "channel": {
-        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
-        "name": "Roberu Ch. 夕刻ロベル",
-        "english_name": "Yukoku Roberu",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "jmBUMk_m8S8",
       "title": "【Overwatch】Reine Keyboard Collection Preorders Closing Apr 27!【Pavolia Reine/hololiveID】",
@@ -51,7 +31,7 @@
       "available_at": "2026-04-24T06:57:33.000Z",
       "start_scheduled": "2026-04-24T07:00:00.000Z",
       "start_actual": "2026-04-24T06:57:33.000Z",
-      "live_viewers": 1127,
+      "live_viewers": 1113,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -130,7 +110,7 @@
       "available_at": "2026-04-24T09:57:31.000Z",
       "start_scheduled": "2026-04-24T10:00:00.000Z",
       "start_actual": "2026-04-24T09:57:31.000Z",
-      "live_viewers": 4838,
+      "live_viewers": 4947,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -170,7 +150,7 @@
       "available_at": "2026-04-24T10:00:40.000Z",
       "start_scheduled": "2026-04-24T10:00:00.000Z",
       "start_actual": "2026-04-24T10:00:40.000Z",
-      "live_viewers": 13839,
+      "live_viewers": 14165,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
