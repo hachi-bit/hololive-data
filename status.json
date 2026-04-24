@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777021866,
+  "cached_at": 1777021925,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "co-_B4rC_Mk",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-24T04:00:15.000Z",
       "start_scheduled": "2026-04-24T04:00:00.000Z",
       "start_actual": "2026-04-24T04:00:15.000Z",
-      "live_viewers": 2475,
+      "live_viewers": 2539,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -118,6 +118,26 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "aOO06lRjhpI",
+      "title": "【ぷちホロの村 - 剣とお店と田舎暮らし】農業したり探検もできる!スローライフ始めます!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-04-24T02:08:13.000Z",
+      "available_at": "2026-04-24T09:09:56.000Z",
+      "start_scheduled": "2026-04-24T09:10:00.000Z",
+      "start_actual": "2026-04-24T09:09:56.000Z",
+      "live_viewers": 2436,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
