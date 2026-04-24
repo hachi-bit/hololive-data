@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776997925,
+  "cached_at": 1776997985,
   "lives": {
     "UCyxtGMdWlURZ30WSnEjDOQw": {
       "video_id": "ziQcaG2SAXo",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-24T00:43:54.000Z",
       "start_scheduled": "2026-04-24T00:30:00.000Z",
       "start_actual": "2026-04-24T00:43:54.000Z",
-      "live_viewers": 299,
+      "live_viewers": 301,
       "channel": {
         "id": "UCyxtGMdWlURZ30WSnEjDOQw",
         "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-24T00:44:14.000Z",
       "start_scheduled": "2026-04-24T00:00:00.000Z",
       "start_actual": "2026-04-24T00:44:14.000Z",
-      "live_viewers": 511,
+      "live_viewers": 518,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-24T00:50:56.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
       "start_actual": "2026-04-24T00:50:56.000Z",
-      "live_viewers": 1866,
+      "live_viewers": 1684,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-24T00:55:56.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
       "start_actual": "2026-04-24T00:55:56.000Z",
-      "live_viewers": 14905,
+      "live_viewers": 14377,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -159,6 +159,25 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCYz_5n-uDuChHtLo7My1HnQ": {
+      "video_id": "NfVJtGPLXzs",
+      "title": "【Tomodachi Life: Living the Dream】 Pt.8: TRYING TO MAKE THE MIIs SHARE HOUSES 【Kureiji Ollie】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-23T15:51:22.000Z",
+      "available_at": "2026-04-24T02:30:00.000Z",
+      "start_scheduled": "2026-04-24T02:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+        "name": "Kureiji Ollie Ch. hololive-ID",
+        "english_name": "Kureiji Ollie",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
