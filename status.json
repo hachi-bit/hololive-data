@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776992285,
+  "cached_at": 1776992345,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "aeO0EFHTnIU",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-24T00:43:54.000Z",
       "start_scheduled": "2026-04-24T00:30:00.000Z",
       "start_actual": "2026-04-24T00:43:54.000Z",
-      "live_viewers": 205,
+      "live_viewers": 210,
       "channel": {
         "id": "UCyxtGMdWlURZ30WSnEjDOQw",
         "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-24T00:44:14.000Z",
       "start_scheduled": "2026-04-24T00:00:00.000Z",
       "start_actual": "2026-04-24T00:44:14.000Z",
-      "live_viewers": 340,
+      "live_viewers": 368,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-24T00:45:00.000Z",
       "start_scheduled": "2026-04-24T00:45:00.000Z",
       "start_actual": "2026-04-24T00:45:00.000Z",
-      "live_viewers": 114,
+      "live_viewers": 121,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-24T00:49:13.000Z",
       "start_scheduled": "2026-04-24T00:00:00.000Z",
       "start_actual": "2026-04-24T00:49:13.000Z",
-      "live_viewers": 172,
+      "live_viewers": 180,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -99,6 +99,26 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCt9H_RpQzhxzlyBxFqrdHqA": {
+      "video_id": "CYOCX21xwG0",
+      "title": "【FUWAWA RETURNS|フワワ復活!】ただいま✨️ i'm finally back home, ruffians 🐾🩵 【FUWAMOCO】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-22T05:10:57.000Z",
+      "available_at": "2026-04-24T00:55:56.000Z",
+      "start_scheduled": "2026-04-24T01:00:00.000Z",
+      "start_actual": "2026-04-24T00:55:56.000Z",
+      "live_viewers": 6881,
+      "channel": {
+        "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
+        "name": "FUWAMOCO Ch. hololive-EN",
+        "english_name": "Fuwawa & Mococo Abyssgard",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
