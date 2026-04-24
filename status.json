@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777071545,
+  "cached_at": 1777071605,
   "lives": {
     "UCHP4f7G2dWD4qib7BMatGAw": {
       "video_id": "lxWGT0a_myo",
@@ -19,6 +19,26 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9p_lqQ0FEDz327Vgf5JwqA": {
+      "video_id": "EQDcfOTmPRo",
+      "title": "【holoVillage: Our Cozy Days】BIBOO IN A COMFY GAME? MY DREAM COME TRUE!!!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-04-24T13:08:02.000Z",
+      "available_at": "2026-04-24T22:56:52.000Z",
+      "start_scheduled": "2026-04-24T23:00:00.000Z",
+      "start_actual": "2026-04-24T22:56:52.000Z",
+      "live_viewers": 1777,
+      "channel": {
+        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+        "name": "Koseki Bijou Ch. hololive-EN",
+        "english_name": "Koseki Bijou",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
