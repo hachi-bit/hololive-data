@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776998046,
+  "cached_at": 1776998106,
   "lives": {
     "UCyxtGMdWlURZ30WSnEjDOQw": {
       "video_id": "ziQcaG2SAXo",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-24T00:55:56.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
       "start_actual": "2026-04-24T00:55:56.000Z",
-      "live_viewers": 14377,
+      "live_viewers": 14134,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-24T01:00:31.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
       "start_actual": "2026-04-24T01:00:31.000Z",
-      "live_viewers": 642,
+      "live_viewers": 627,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -146,7 +146,7 @@
       "title": "【drawing stream】drawing a buuuunch of bones... #calliolive",
       "type": "stream",
       "status": "live",
-      "topic_id": "Tomodachi_Life",
+      "topic_id": "drawing",
       "published_at": "2026-04-20T14:48:12.000Z",
       "available_at": "2026-04-24T01:00:42.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
@@ -168,9 +168,10 @@
       "status": "live",
       "topic_id": "Tomodachi_Life",
       "published_at": "2026-04-23T15:51:22.000Z",
-      "available_at": "2026-04-24T02:30:00.000Z",
+      "available_at": "2026-04-24T02:31:13.000Z",
       "start_scheduled": "2026-04-24T02:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-24T02:31:13.000Z",
+      "live_viewers": 352,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
