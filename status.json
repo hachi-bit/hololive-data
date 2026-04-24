@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776991985,
+  "cached_at": 1776992045,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "aeO0EFHTnIU",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-23T23:30:41.000Z",
       "start_scheduled": "2026-04-23T23:00:00.000Z",
       "start_actual": "2026-04-23T23:30:41.000Z",
-      "live_viewers": 5324,
+      "live_viewers": 5358,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -19,25 +19,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "sfQ-Dcj8p4U",
-      "title": "【Pokémon FR LG Soul-Link 🍃】#4 | Machiruze The Arbok is GONE  ( & Drowzee..)",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Pokemon",
-      "published_at": "2026-04-23T15:23:55.000Z",
-      "available_at": "2026-04-24T00:00:00.000Z",
-      "start_scheduled": "2026-04-24T00:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC060r4zABV18vcahAWR1n7w",
-        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-        "english_name": "Machina X Flayon",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCyxtGMdWlURZ30WSnEjDOQw": {
@@ -50,7 +31,7 @@
       "available_at": "2026-04-24T00:43:54.000Z",
       "start_scheduled": "2026-04-24T00:30:00.000Z",
       "start_actual": "2026-04-24T00:43:54.000Z",
-      "live_viewers": 201,
+      "live_viewers": 214,
       "channel": {
         "id": "UCyxtGMdWlURZ30WSnEjDOQw",
         "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -70,7 +51,7 @@
       "available_at": "2026-04-24T00:44:14.000Z",
       "start_scheduled": "2026-04-24T00:00:00.000Z",
       "start_actual": "2026-04-24T00:44:14.000Z",
-      "live_viewers": 332,
+      "live_viewers": 344,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -90,7 +71,7 @@
       "available_at": "2026-04-24T00:45:00.000Z",
       "start_scheduled": "2026-04-24T00:45:00.000Z",
       "start_actual": "2026-04-24T00:45:00.000Z",
-      "live_viewers": 88,
+      "live_viewers": 107,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -98,6 +79,26 @@
         "org": "Hololive",
         "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
         "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC060r4zABV18vcahAWR1n7w": {
+      "video_id": "sfQ-Dcj8p4U",
+      "title": "【Pokémon FR LG Soul-Link 🍃】#4 | Machiruze The Arbok is GONE  ( & Drowzee..)",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pokemon",
+      "published_at": "2026-04-23T15:23:55.000Z",
+      "available_at": "2026-04-24T00:49:13.000Z",
+      "start_scheduled": "2026-04-24T00:00:00.000Z",
+      "start_actual": "2026-04-24T00:49:13.000Z",
+      "live_viewers": 142,
+      "channel": {
+        "id": "UC060r4zABV18vcahAWR1n7w",
+        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
+        "english_name": "Machina X Flayon",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
