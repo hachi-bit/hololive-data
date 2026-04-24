@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777004345,
+  "cached_at": 1777004405,
   "lives": {
     "UCyxtGMdWlURZ30WSnEjDOQw": {
       "video_id": "ziQcaG2SAXo",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-24T00:43:54.000Z",
       "start_scheduled": "2026-04-24T00:30:00.000Z",
       "start_actual": "2026-04-24T00:43:54.000Z",
-      "live_viewers": 357,
+      "live_viewers": 362,
       "channel": {
         "id": "UCyxtGMdWlURZ30WSnEjDOQw",
         "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-24T00:55:56.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
       "start_actual": "2026-04-24T00:55:56.000Z",
-      "live_viewers": 7857,
+      "live_viewers": 7833,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -121,26 +121,6 @@
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCozx5csNhCx1wsVq3SZVkBQ": {
-      "video_id": "WjIcTvWeLtw",
-      "title": "【独占動画】エリザベス様ご本人からビデオメッセージが到着!?【昼ホロ/花園さやか】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "News_Show",
-      "published_at": "2026-04-23T14:27:44.000Z",
-      "available_at": "2026-04-24T03:00:44.000Z",
-      "start_scheduled": "2026-04-24T03:00:00.000Z",
-      "start_actual": "2026-04-24T03:00:44.000Z",
-      "live_viewers": 3841,
-      "channel": {
-        "id": "UCozx5csNhCx1wsVq3SZVkBQ",
-        "name": "holoAN room (ホロアナ)",
-        "english_name": "holoAN room",
-        "org": "Hololive",
-        "suborg": "0hOfficial",
-        "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC8rcEBzJSleTkf_-agPM20g": {
       "video_id": "WSU7drBSBkE",
       "title": "【PRAGMATA】Wholesome Sci-fi The Game #sponsored",
@@ -151,7 +131,7 @@
       "available_at": "2026-04-24T03:01:28.000Z",
       "start_scheduled": "2026-04-24T03:00:00.000Z",
       "start_actual": "2026-04-24T03:01:28.000Z",
-      "live_viewers": 3665,
+      "live_viewers": 3746,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-24T04:00:15.000Z",
       "start_scheduled": "2026-04-24T04:00:00.000Z",
       "start_actual": "2026-04-24T04:00:15.000Z",
-      "live_viewers": 1381,
+      "live_viewers": 1450,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
