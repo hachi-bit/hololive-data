@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777033085,
+  "cached_at": 1777033145,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "co-_B4rC_Mk",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-24T08:00:06.000Z",
       "start_scheduled": "2026-04-24T08:05:00.000Z",
       "start_actual": "2026-04-24T08:00:06.000Z",
-      "live_viewers": 7090,
+      "live_viewers": 6667,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-24T09:09:56.000Z",
       "start_scheduled": "2026-04-24T09:10:00.000Z",
       "start_actual": "2026-04-24T09:09:56.000Z",
-      "live_viewers": 6884,
+      "live_viewers": 6742,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-24T11:00:12.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:12.000Z",
-      "live_viewers": 26989,
+      "live_viewers": 26717,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-24T11:00:32.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:32.000Z",
-      "live_viewers": 27,
+      "live_viewers": 29,
       "channel": {
         "id": "UCrOK22InJkQCsKZC6Bq0Bcg",
         "name": "游禅ウラト / Urato Yuzen",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-24T11:00:53.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:53.000Z",
-      "live_viewers": 3101,
+      "live_viewers": 3106,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -291,7 +291,7 @@
       "available_at": "2026-04-24T11:59:56.000Z",
       "start_scheduled": "2026-04-24T09:00:00.000Z",
       "start_actual": "2026-04-24T11:59:56.000Z",
-      "live_viewers": 93,
+      "live_viewers": 118,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -299,45 +299,6 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC727SQYUvx5pDDGQpTICNWg": {
-      "video_id": "Yey0cW9RnPU",
-      "title": "【Pode】BEST TEAMWORK INCOMING! ゼーニャで協力プレイ!【hololive ID 2nd Generation | Anya Melfissa】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-04-24T03:23:14.000Z",
-      "available_at": "2026-04-24T12:00:00.000Z",
-      "start_scheduled": "2026-04-24T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC727SQYUvx5pDDGQpTICNWg",
-        "name": "Anya Melfissa Ch. hololive-ID",
-        "english_name": "Anya Melfissa",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "oQoNh9TyINY",
-      "title": "【Vlog】喫茶店で優雅なひと時☕ブレンドティー体験してきました!!【花咲みやび/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Vlog",
-      "published_at": "2026-04-24T12:00:06.000Z",
-      "available_at": "2026-04-24T12:00:06.000Z",
-      "start_scheduled": "2026-04-24T12:00:00.000Z",
-      "start_actual": "2026-04-24T12:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdXAk5MpyLD8594lm_OvtGQ": {
@@ -350,7 +311,7 @@
       "available_at": "2026-04-24T12:00:21.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:00:21.000Z",
-      "live_viewers": 1135,
+      "live_viewers": 1189,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -370,7 +331,7 @@
       "available_at": "2026-04-24T12:00:29.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:00:29.000Z",
-      "live_viewers": 32305,
+      "live_viewers": 35250,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -390,7 +351,7 @@
       "available_at": "2026-04-24T12:01:50.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:01:50.000Z",
-      "live_viewers": 1469,
+      "live_viewers": 1604,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -398,6 +359,26 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC727SQYUvx5pDDGQpTICNWg": {
+      "video_id": "Yey0cW9RnPU",
+      "title": "【Pode】BEST TEAMWORK INCOMING! ゼーニャで協力プレイ!【hololive ID 2nd Generation | Anya Melfissa】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-24T03:23:14.000Z",
+      "available_at": "2026-04-24T12:15:04.000Z",
+      "start_scheduled": "2026-04-24T12:00:00.000Z",
+      "start_actual": "2026-04-24T12:15:04.000Z",
+      "live_viewers": 406,
+      "channel": {
+        "id": "UC727SQYUvx5pDDGQpTICNWg",
+        "name": "Anya Melfissa Ch. hololive-ID",
+        "english_name": "Anya Melfissa",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
