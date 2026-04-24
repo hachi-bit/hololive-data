@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777036085,
+  "cached_at": 1777036145,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "co-_B4rC_Mk",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-24T08:00:06.000Z",
       "start_scheduled": "2026-04-24T08:05:00.000Z",
       "start_actual": "2026-04-24T08:00:06.000Z",
-      "live_viewers": 6056,
+      "live_viewers": 5926,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-24T09:57:31.000Z",
       "start_scheduled": "2026-04-24T10:00:00.000Z",
       "start_actual": "2026-04-24T09:57:31.000Z",
-      "live_viewers": 7448,
+      "live_viewers": 7171,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-24T10:58:46.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:58:46.000Z",
-      "live_viewers": 1055,
+      "live_viewers": 996,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-24T11:00:12.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:12.000Z",
-      "live_viewers": 28063,
+      "live_viewers": 27810,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-24T11:00:53.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:53.000Z",
-      "live_viewers": 3171,
+      "live_viewers": 2917,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -291,7 +291,7 @@
       "available_at": "2026-04-24T12:00:29.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:00:29.000Z",
-      "live_viewers": 38372,
+      "live_viewers": 38013,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -351,7 +351,7 @@
       "available_at": "2026-04-24T12:33:11.000Z",
       "start_scheduled": "2026-04-24T12:30:00.000Z",
       "start_actual": "2026-04-24T12:33:11.000Z",
-      "live_viewers": 255,
+      "live_viewers": 243,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -359,25 +359,6 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKMWFR6lAstLa7Vbf5dH7ig": {
-      "video_id": "vnTs6rJY7q8",
-      "title": "【機動戦士ガンダム 第08MS小隊】完全初見だ!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-04-24T12:59:21.000Z",
-      "available_at": "2026-04-24T13:00:00.000Z",
-      "start_scheduled": "2026-04-24T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "english_name": "Rindo Chihaya",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1iA6_NT4mtAcIII6ygrvCw": {
@@ -390,7 +371,7 @@
       "available_at": "2026-04-24T13:00:12.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:12.000Z",
-      "live_viewers": 1287,
+      "live_viewers": 1447,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -410,7 +391,7 @@
       "available_at": "2026-04-24T13:00:25.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:25.000Z",
-      "live_viewers": 244,
+      "live_viewers": 293,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -430,7 +411,7 @@
       "available_at": "2026-04-24T13:00:41.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:41.000Z",
-      "live_viewers": 2226,
+      "live_viewers": 2734,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -450,7 +431,7 @@
       "available_at": "2026-04-24T13:00:53.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:53.000Z",
-      "live_viewers": 5700,
+      "live_viewers": 7117,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -470,7 +451,7 @@
       "available_at": "2026-04-24T13:00:54.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:00:54.000Z",
-      "live_viewers": 210,
+      "live_viewers": 223,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -490,7 +471,7 @@
       "available_at": "2026-04-24T13:01:03.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:01:03.000Z",
-      "live_viewers": 561,
+      "live_viewers": 1047,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -510,7 +491,7 @@
       "available_at": "2026-04-24T13:01:08.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:01:08.000Z",
-      "live_viewers": 2671,
+      "live_viewers": 3413,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -530,7 +511,7 @@
       "available_at": "2026-04-24T13:01:59.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:01:59.000Z",
-      "live_viewers": 10190,
+      "live_viewers": 12279,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -550,7 +531,7 @@
       "available_at": "2026-04-24T13:02:10.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:02:10.000Z",
-      "live_viewers": 366,
+      "live_viewers": 438,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -558,6 +539,26 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKMWFR6lAstLa7Vbf5dH7ig": {
+      "video_id": "vnTs6rJY7q8",
+      "title": "【機動戦士ガンダム 第08MS小隊】完全初見だ!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-24T12:59:21.000Z",
+      "available_at": "2026-04-24T13:07:08.000Z",
+      "start_scheduled": "2026-04-24T13:00:00.000Z",
+      "start_actual": "2026-04-24T13:07:08.000Z",
+      "live_viewers": 471,
+      "channel": {
+        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+        "english_name": "Rindo Chihaya",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
