@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777021085,
+  "cached_at": 1777021145,
   "lives": {
-    "UCL_qhgtOy0dy1Agp8vkySQg": {
-      "video_id": "W0hpBFmA2t4",
-      "title": "【drawing stream】drawing a buuuunch of bones... #calliolive",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "drawing",
-      "published_at": "2026-04-20T14:48:12.000Z",
-      "available_at": "2026-04-24T01:00:42.000Z",
-      "start_scheduled": "2026-04-24T01:00:00.000Z",
-      "start_actual": "2026-04-24T01:00:42.000Z",
-      "live_viewers": 2198,
-      "channel": {
-        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-        "name": "Mori Calliope Ch. hololive-EN",
-        "english_name": "Mori Calliope",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "co-_B4rC_Mk",
       "title": "【PRAGMATA】THE ADVENTURE CONTINUES (SPOILER ALERT!)",
@@ -31,7 +11,7 @@
       "available_at": "2026-04-24T03:00:35.000Z",
       "start_scheduled": "2026-04-24T03:00:00.000Z",
       "start_actual": "2026-04-24T03:00:35.000Z",
-      "live_viewers": 404,
+      "live_viewers": 419,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -91,7 +71,7 @@
       "available_at": "2026-04-24T06:57:33.000Z",
       "start_scheduled": "2026-04-24T07:00:00.000Z",
       "start_actual": "2026-04-24T06:57:33.000Z",
-      "live_viewers": 1267,
+      "live_viewers": 1276,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-24T08:00:06.000Z",
       "start_scheduled": "2026-04-24T08:05:00.000Z",
       "start_actual": "2026-04-24T08:00:06.000Z",
-      "live_viewers": 9584,
+      "live_viewers": 10063,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
