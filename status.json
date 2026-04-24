@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777014005,
+  "cached_at": 1777014065,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "sfQ-Dcj8p4U",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-24T00:49:13.000Z",
       "start_scheduled": "2026-04-24T00:00:00.000Z",
       "start_actual": "2026-04-24T00:49:13.000Z",
-      "live_viewers": 371,
+      "live_viewers": 366,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-24T03:01:28.000Z",
       "start_scheduled": "2026-04-24T03:00:00.000Z",
       "start_actual": "2026-04-24T03:01:28.000Z",
-      "live_viewers": 4689,
+      "live_viewers": 4642,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-24T04:00:15.000Z",
       "start_scheduled": "2026-04-24T04:00:00.000Z",
       "start_actual": "2026-04-24T04:00:15.000Z",
-      "live_viewers": 2450,
+      "live_viewers": 2474,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -119,6 +119,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "jmBUMk_m8S8",
+      "title": "【Overwatch】Reine Keyboard Collection Preorders Closing Apr 27!【Pavolia Reine/hololiveID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Overwatch",
+      "published_at": "2026-04-24T06:20:54.000Z",
+      "available_at": "2026-04-24T06:57:33.000Z",
+      "start_scheduled": "2026-04-24T07:00:00.000Z",
+      "start_actual": "2026-04-24T06:57:33.000Z",
+      "live_viewers": 173,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
