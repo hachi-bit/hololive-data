@@ -1,26 +1,6 @@
 {
-  "cached_at": 1776994565,
+  "cached_at": 1776994625,
   "lives": {
-    "UC9p_lqQ0FEDz327Vgf5JwqA": {
-      "video_id": "aeO0EFHTnIU",
-      "title": "【Girls' Frontline 2: Exilium】Heading to the front lines! #sponsored",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Girls'_Frontline",
-      "published_at": "2026-04-23T13:42:53.000Z",
-      "available_at": "2026-04-23T23:30:41.000Z",
-      "start_scheduled": "2026-04-23T23:00:00.000Z",
-      "start_actual": "2026-04-23T23:30:41.000Z",
-      "live_viewers": 5166,
-      "channel": {
-        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-        "name": "Koseki Bijou Ch. hololive-EN",
-        "english_name": "Koseki Bijou",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCyxtGMdWlURZ30WSnEjDOQw": {
       "video_id": "ziQcaG2SAXo",
       "title": "【🔥 Pokémon FR LG Soul-Link 🍃】 SILPH CO., HERE WE GO!!! ✨ SHINY SPICY 🔥 #AlTogether",
@@ -31,7 +11,7 @@
       "available_at": "2026-04-24T00:43:54.000Z",
       "start_scheduled": "2026-04-24T00:30:00.000Z",
       "start_actual": "2026-04-24T00:43:54.000Z",
-      "live_viewers": 248,
+      "live_viewers": 257,
       "channel": {
         "id": "UCyxtGMdWlURZ30WSnEjDOQw",
         "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-24T00:50:56.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
       "start_actual": "2026-04-24T00:50:56.000Z",
-      "live_viewers": 1324,
+      "live_viewers": 1364,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -151,7 +131,7 @@
       "available_at": "2026-04-24T01:00:31.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
       "start_actual": "2026-04-24T01:00:31.000Z",
-      "live_viewers": 442,
+      "live_viewers": 473,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-24T01:00:42.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
       "start_actual": "2026-04-24T01:00:42.000Z",
-      "live_viewers": 1689,
+      "live_viewers": 1838,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
