@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777054145,
+  "cached_at": 1777054206,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "j6mxZSMjh0A",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-24T13:59:57.000Z",
       "start_scheduled": "2026-04-24T14:00:00.000Z",
       "start_actual": "2026-04-24T13:59:57.000Z",
-      "live_viewers": 1299,
+      "live_viewers": 1249,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -121,26 +121,6 @@
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCJv02SHZgav7Mv3V0kBOR8Q": {
-      "video_id": "dQIOmE6FJAE",
-      "title": "【Resident Evil 7】A bloody family reunion.",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-04-18T22:41:59.000Z",
-      "available_at": "2026-04-24T14:50:18.000Z",
-      "start_scheduled": "2026-04-24T15:00:00.000Z",
-      "start_actual": "2026-04-24T14:50:18.000Z",
-      "live_viewers": 379,
-      "channel": {
-        "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
-        "name": "Goldbullet Ch. HOLOSTARS-EN",
-        "english_name": "Goldbullet",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCvN5h1ShZtc7nly3pezRayg": {
       "video_id": "wc-51Z-2a7M",
       "title": "【PRAGMATA】SHE HAS HER MOTHER'S EYES  #sponsored",
@@ -151,7 +131,7 @@
       "available_at": "2026-04-24T18:02:07.000Z",
       "start_scheduled": "2026-04-24T18:00:00.000Z",
       "start_actual": "2026-04-24T18:02:07.000Z",
-      "live_viewers": 1872,
+      "live_viewers": 2330,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
