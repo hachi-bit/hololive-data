@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777021265,
+  "cached_at": 1777021337,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "co-_B4rC_Mk",
@@ -99,6 +99,25 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
+      "video_id": "r5QLc5sRH-E",
+      "title": "【PRAGMATA】カプコン発!超話題の \"\"プラグマタ\"\" をプレイする!!!【※ネタバレあり/ ホロスターズ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PRAGMATA",
+      "published_at": "2026-04-22T10:23:51.000Z",
+      "available_at": "2026-04-24T09:00:00.000Z",
+      "start_scheduled": "2026-04-24T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
+        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
+        "english_name": "Utsugi Uyu",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
