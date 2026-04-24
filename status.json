@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777003445,
+  "cached_at": 1777003505,
   "lives": {
     "UCyxtGMdWlURZ30WSnEjDOQw": {
       "video_id": "ziQcaG2SAXo",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-24T00:55:56.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
       "start_actual": "2026-04-24T00:55:56.000Z",
-      "live_viewers": 8892,
+      "live_viewers": 8520,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-24T01:00:42.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
       "start_actual": "2026-04-24T01:00:42.000Z",
-      "live_viewers": 2625,
+      "live_viewers": 2689,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-24T02:31:13.000Z",
       "start_scheduled": "2026-04-24T02:30:00.000Z",
       "start_actual": "2026-04-24T02:31:13.000Z",
-      "live_viewers": 1398,
+      "live_viewers": 1646,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-24T03:00:35.000Z",
       "start_scheduled": "2026-04-24T03:00:00.000Z",
       "start_actual": "2026-04-24T03:00:35.000Z",
-      "live_viewers": 311,
+      "live_viewers": 310,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-24T03:01:28.000Z",
       "start_scheduled": "2026-04-24T03:00:00.000Z",
       "start_actual": "2026-04-24T03:01:28.000Z",
-      "live_viewers": 3534,
+      "live_viewers": 3502,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -168,10 +168,10 @@
       "status": "live",
       "topic_id": "Persona",
       "published_at": "2026-04-23T13:42:04.000Z",
-      "available_at": "2026-04-24T04:00:10.000Z",
+      "available_at": "2026-04-24T04:00:15.000Z",
       "start_scheduled": "2026-04-24T04:00:00.000Z",
-      "start_actual": "2026-04-24T04:00:10.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-24T04:00:15.000Z",
+      "live_viewers": 787,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
