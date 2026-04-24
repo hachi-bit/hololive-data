@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777027805,
+  "cached_at": 1777027866,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "co-_B4rC_Mk",
@@ -90,7 +90,7 @@
       "available_at": "2026-04-24T09:09:56.000Z",
       "start_scheduled": "2026-04-24T09:10:00.000Z",
       "start_actual": "2026-04-24T09:09:56.000Z",
-      "live_viewers": 12300,
+      "live_viewers": 12244,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -110,7 +110,7 @@
       "available_at": "2026-04-24T09:57:31.000Z",
       "start_scheduled": "2026-04-24T10:00:00.000Z",
       "start_actual": "2026-04-24T09:57:31.000Z",
-      "live_viewers": 4947,
+      "live_viewers": 5163,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -158,6 +158,26 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCmms2EE02mK4zdECwrHBpaA": {
+      "video_id": "vsc7GzrtIhk",
+      "title": "☀️夏に向けた #ホロカ 最新情報てんこ盛り!【#ホロカにゅーすLIVE】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-22T02:47:00.000Z",
+      "available_at": "2026-04-24T10:47:37.000Z",
+      "start_scheduled": "2026-04-24T11:00:00.000Z",
+      "start_actual": "2026-04-24T10:47:37.000Z",
+      "live_viewers": 431,
+      "channel": {
+        "id": "UCmms2EE02mK4zdECwrHBpaA",
+        "name": "hololive OFFICIAL CARD GAME【公式】",
+        "english_name": "hololive OFFICIAL CARD GAME",
+        "org": "Hololive",
+        "suborg": "w_Misc",
+        "photo": "https://yt3.ggpht.com/auWUDx657AsLAGf8xx-NDUgiWGd9DOxM9qTYI_nMCZktK7OOdz_CT0xYSLKONO2H8IzlUkaEig=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
