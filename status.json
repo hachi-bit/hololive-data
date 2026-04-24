@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776998645,
+  "cached_at": 1776998705,
   "lives": {
     "UCyxtGMdWlURZ30WSnEjDOQw": {
       "video_id": "ziQcaG2SAXo",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-24T00:43:54.000Z",
       "start_scheduled": "2026-04-24T00:30:00.000Z",
       "start_actual": "2026-04-24T00:43:54.000Z",
-      "live_viewers": 301,
+      "live_viewers": 280,
       "channel": {
         "id": "UCyxtGMdWlURZ30WSnEjDOQw",
         "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-24T00:45:00.000Z",
       "start_scheduled": "2026-04-24T00:45:00.000Z",
       "start_actual": "2026-04-24T00:45:00.000Z",
-      "live_viewers": 221,
+      "live_viewers": 222,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-24T00:49:13.000Z",
       "start_scheduled": "2026-04-24T00:00:00.000Z",
       "start_actual": "2026-04-24T00:49:13.000Z",
-      "live_viewers": 246,
+      "live_viewers": 226,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-24T00:55:56.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
       "start_actual": "2026-04-24T00:55:56.000Z",
-      "live_viewers": 13814,
+      "live_viewers": 13463,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-24T01:00:31.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
       "start_actual": "2026-04-24T01:00:31.000Z",
-      "live_viewers": 619,
+      "live_viewers": 616,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-24T02:31:13.000Z",
       "start_scheduled": "2026-04-24T02:30:00.000Z",
       "start_actual": "2026-04-24T02:31:13.000Z",
-      "live_viewers": 708,
+      "live_viewers": 806,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
