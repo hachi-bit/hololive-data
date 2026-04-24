@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777032905,
+  "cached_at": 1777032965,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "co-_B4rC_Mk",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-24T03:00:35.000Z",
       "start_scheduled": "2026-04-24T03:00:00.000Z",
       "start_actual": "2026-04-24T03:00:35.000Z",
-      "live_viewers": 412,
+      "live_viewers": 389,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-24T09:09:56.000Z",
       "start_scheduled": "2026-04-24T09:10:00.000Z",
       "start_actual": "2026-04-24T09:09:56.000Z",
-      "live_viewers": 7293,
+      "live_viewers": 6884,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCmms2EE02mK4zdECwrHBpaA": {
-      "video_id": "vsc7GzrtIhk",
-      "title": "☀️夏に向けた #ホロカ 最新情報てんこ盛り!【#ホロカにゅーすLIVE】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-04-22T02:47:00.000Z",
-      "available_at": "2026-04-24T10:47:37.000Z",
-      "start_scheduled": "2026-04-24T11:00:00.000Z",
-      "start_actual": "2026-04-24T10:47:37.000Z",
-      "live_viewers": 4783,
-      "channel": {
-        "id": "UCmms2EE02mK4zdECwrHBpaA",
-        "name": "hololive OFFICIAL CARD GAME【公式】",
-        "english_name": "hololive OFFICIAL CARD GAME",
-        "org": "Hololive",
-        "suborg": "w_Misc",
-        "photo": "https://yt3.ggpht.com/auWUDx657AsLAGf8xx-NDUgiWGd9DOxM9qTYI_nMCZktK7OOdz_CT0xYSLKONO2H8IzlUkaEig=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
@@ -131,7 +111,7 @@
       "available_at": "2026-04-24T10:59:11.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:59:11.000Z",
-      "live_viewers": 1127,
+      "live_viewers": 1041,
       "channel": {
         "id": "UCo6mwsozDGMW0UNGowBJGhg",
         "name": "昏昏アリア / Konkon Aria",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-24T10:59:40.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:59:40.000Z",
-      "live_viewers": 120,
+      "live_viewers": 112,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-24T11:00:12.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:12.000Z",
-      "live_viewers": 26630,
+      "live_viewers": 26989,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -231,7 +211,7 @@
       "available_at": "2026-04-24T11:00:53.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:53.000Z",
-      "live_viewers": 3113,
+      "live_viewers": 3101,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -291,7 +271,7 @@
       "available_at": "2026-04-24T11:15:56.000Z",
       "start_scheduled": "2026-04-24T11:15:00.000Z",
       "start_actual": "2026-04-24T11:15:56.000Z",
-      "live_viewers": 4025,
+      "live_viewers": 4006,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -311,7 +291,7 @@
       "available_at": "2026-04-24T11:59:56.000Z",
       "start_scheduled": "2026-04-24T09:00:00.000Z",
       "start_actual": "2026-04-24T11:59:56.000Z",
-      "live_viewers": 89,
+      "live_viewers": 93,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -370,7 +350,7 @@
       "available_at": "2026-04-24T12:00:21.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:00:21.000Z",
-      "live_viewers": 1050,
+      "live_viewers": 1135,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -390,7 +370,7 @@
       "available_at": "2026-04-24T12:00:29.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:00:29.000Z",
-      "live_viewers": 29411,
+      "live_viewers": 32305,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -410,7 +390,7 @@
       "available_at": "2026-04-24T12:01:50.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:01:50.000Z",
-      "live_viewers": 1346,
+      "live_viewers": 1469,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
