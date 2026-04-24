@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777045685,
+  "cached_at": 1777045745,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "j6mxZSMjh0A",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-24T10:58:46.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:58:46.000Z",
-      "live_viewers": 733,
+      "live_viewers": 737,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-24T11:00:53.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:53.000Z",
-      "live_viewers": 2801,
+      "live_viewers": 2823,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-24T12:01:50.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:01:50.000Z",
-      "live_viewers": 3160,
+      "live_viewers": 3137,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-24T13:02:10.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:02:10.000Z",
-      "live_viewers": 1079,
+      "live_viewers": 1103,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-24T13:07:08.000Z",
       "start_scheduled": "2026-04-24T13:00:00.000Z",
       "start_actual": "2026-04-24T13:07:08.000Z",
-      "live_viewers": 1342,
+      "live_viewers": 1358,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-24T13:29:59.000Z",
       "start_scheduled": "2026-04-24T13:30:00.000Z",
       "start_actual": "2026-04-24T13:29:59.000Z",
-      "live_viewers": 3245,
+      "live_viewers": 3254,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -283,7 +283,7 @@
     },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
       "video_id": "U-Rs_-Ogut0",
-      "title": "【雑談】なんかラジオみたいなトーク 第19回【荒咬オウガ  アール/Aru】",
+      "title": "【雑談】なんかラジオみたいなトーク　第19回【荒咬オウガ アール/Aru】",
       "type": "stream",
       "status": "live",
       "topic_id": "talk",
@@ -291,7 +291,7 @@
       "available_at": "2026-04-24T14:00:55.000Z",
       "start_scheduled": "2026-04-24T14:00:00.000Z",
       "start_actual": "2026-04-24T14:00:55.000Z",
-      "live_viewers": 3040,
+      "live_viewers": 2965,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -311,7 +311,7 @@
       "available_at": "2026-04-24T14:01:01.000Z",
       "start_scheduled": "2026-04-24T14:00:00.000Z",
       "start_actual": "2026-04-24T14:01:01.000Z",
-      "live_viewers": 3993,
+      "live_viewers": 3951,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -391,7 +391,7 @@
       "available_at": "2026-04-24T14:50:18.000Z",
       "start_scheduled": "2026-04-24T15:00:00.000Z",
       "start_actual": "2026-04-24T14:50:18.000Z",
-      "live_viewers": 270,
+      "live_viewers": 277,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
