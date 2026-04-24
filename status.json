@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777033565,
+  "cached_at": 1777033625,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "co-_B4rC_Mk",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-24T09:09:56.000Z",
       "start_scheduled": "2026-04-24T09:10:00.000Z",
       "start_actual": "2026-04-24T09:09:56.000Z",
-      "live_viewers": 6707,
+      "live_viewers": 6674,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-24T09:57:31.000Z",
       "start_scheduled": "2026-04-24T10:00:00.000Z",
       "start_actual": "2026-04-24T09:57:31.000Z",
-      "live_viewers": 6472,
+      "live_viewers": 6807,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-24T10:59:15.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:59:15.000Z",
-      "live_viewers": 278,
+      "live_viewers": 275,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-24T10:59:40.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:59:40.000Z",
-      "live_viewers": 112,
+      "live_viewers": 119,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-24T11:00:12.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:12.000Z",
-      "live_viewers": 26782,
+      "live_viewers": 26905,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-24T11:00:53.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:53.000Z",
-      "live_viewers": 3106,
+      "live_viewers": 3121,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -271,7 +271,7 @@
       "available_at": "2026-04-24T11:15:56.000Z",
       "start_scheduled": "2026-04-24T11:15:00.000Z",
       "start_actual": "2026-04-24T11:15:56.000Z",
-      "live_viewers": 4067,
+      "live_viewers": 4093,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -291,7 +291,7 @@
       "available_at": "2026-04-24T11:59:56.000Z",
       "start_scheduled": "2026-04-24T09:00:00.000Z",
       "start_actual": "2026-04-24T11:59:56.000Z",
-      "live_viewers": 145,
+      "live_viewers": 146,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -311,7 +311,7 @@
       "available_at": "2026-04-24T12:00:21.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:00:21.000Z",
-      "live_viewers": 1281,
+      "live_viewers": 1339,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -331,7 +331,7 @@
       "available_at": "2026-04-24T12:00:29.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:00:29.000Z",
-      "live_viewers": 36520,
+      "live_viewers": 36348,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -351,7 +351,7 @@
       "available_at": "2026-04-24T12:01:50.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:01:50.000Z",
-      "live_viewers": 1832,
+      "live_viewers": 1972,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -371,7 +371,7 @@
       "available_at": "2026-04-24T12:15:04.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:15:04.000Z",
-      "live_viewers": 509,
+      "live_viewers": 584,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
