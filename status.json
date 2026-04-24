@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777001165,
+  "cached_at": 1777001225,
   "lives": {
     "UCyxtGMdWlURZ30WSnEjDOQw": {
       "video_id": "ziQcaG2SAXo",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-24T00:43:54.000Z",
       "start_scheduled": "2026-04-24T00:30:00.000Z",
       "start_actual": "2026-04-24T00:43:54.000Z",
-      "live_viewers": 312,
+      "live_viewers": 322,
       "channel": {
         "id": "UCyxtGMdWlURZ30WSnEjDOQw",
         "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
         "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCajbFh6e_R8QZdHAMbbi4rQ": {
-      "video_id": "JvGhzhyU1Uo",
-      "title": "Team Toxic's Blasting off Again!【POKÉMON FIRE RED | SOUL LINK 5】w/ Flayon, Altare, and Axel!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Pokemon",
-      "published_at": "2026-04-23T23:04:01.000Z",
-      "available_at": "2026-04-24T00:44:14.000Z",
-      "start_scheduled": "2026-04-24T00:00:00.000Z",
-      "start_actual": "2026-04-24T00:44:14.000Z",
-      "live_viewers": 487,
-      "channel": {
-        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-        "english_name": "Crimzon Ruze",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC2hx0xVkMoHGWijwr_lA01w": {
@@ -51,7 +31,7 @@
       "available_at": "2026-04-24T00:45:00.000Z",
       "start_scheduled": "2026-04-24T00:45:00.000Z",
       "start_actual": "2026-04-24T00:45:00.000Z",
-      "live_viewers": 227,
+      "live_viewers": 213,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -71,7 +51,7 @@
       "available_at": "2026-04-24T00:49:13.000Z",
       "start_scheduled": "2026-04-24T00:00:00.000Z",
       "start_actual": "2026-04-24T00:49:13.000Z",
-      "live_viewers": 244,
+      "live_viewers": 486,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -91,7 +71,7 @@
       "available_at": "2026-04-24T00:55:56.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
       "start_actual": "2026-04-24T00:55:56.000Z",
-      "live_viewers": 11315,
+      "live_viewers": 10858,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -151,7 +131,7 @@
       "available_at": "2026-04-24T03:00:35.000Z",
       "start_scheduled": "2026-04-24T03:00:00.000Z",
       "start_actual": "2026-04-24T03:00:35.000Z",
-      "live_viewers": 243,
+      "live_viewers": 265,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-24T03:00:44.000Z",
       "start_scheduled": "2026-04-24T03:00:00.000Z",
       "start_actual": "2026-04-24T03:00:44.000Z",
-      "live_viewers": 4112,
+      "live_viewers": 4265,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-24T03:01:28.000Z",
       "start_scheduled": "2026-04-24T03:00:00.000Z",
       "start_actual": "2026-04-24T03:01:28.000Z",
-      "live_viewers": 2620,
+      "live_viewers": 2795,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
