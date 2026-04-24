@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777029485,
+  "cached_at": 1777029545,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "co-_B4rC_Mk",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-24T08:00:06.000Z",
       "start_scheduled": "2026-04-24T08:05:00.000Z",
       "start_actual": "2026-04-24T08:00:06.000Z",
-      "live_viewers": 8426,
+      "live_viewers": 8384,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -98,6 +98,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCeCWj-SiJG9SWN6wGORiLmw": {
+      "video_id": "H3n986tscvo",
+      "title": "【League of Legends】more purple and fish【#VSPOEN #JiraJisaki】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-04-24T06:11:56.000Z",
+      "available_at": "2026-04-24T09:11:20.000Z",
+      "start_scheduled": "2026-04-24T09:00:00.000Z",
+      "start_actual": "2026-04-24T09:11:20.000Z",
+      "live_viewers": 136,
+      "channel": {
+        "id": "UCeCWj-SiJG9SWN6wGORiLmw",
+        "name": "Jira Jisaki 【VSPO! EN】",
+        "english_name": "Jira Jisaki",
+        "org": "VSpo",
+        "suborg": "1aEnglish",
+        "photo": "https://yt3.ggpht.com/9fK7tc3-fqWBvNK9zMoaKevb3THmK3JRQCkkJrR-fdpSFQIJNhEhaxwlm1H9S3nn4AG72nq1=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCa9Y57gfeY0Zro_noHRVrnw": {
@@ -150,7 +170,7 @@
       "available_at": "2026-04-24T10:58:46.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:58:46.000Z",
-      "live_viewers": 1213,
+      "live_viewers": 1252,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -170,7 +190,7 @@
       "available_at": "2026-04-24T10:59:11.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:59:11.000Z",
-      "live_viewers": 937,
+      "live_viewers": 1020,
       "channel": {
         "id": "UCo6mwsozDGMW0UNGowBJGhg",
         "name": "昏昏アリア / Konkon Aria",
@@ -190,7 +210,7 @@
       "available_at": "2026-04-24T10:59:15.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:59:15.000Z",
-      "live_viewers": 242,
+      "live_viewers": 255,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -210,7 +230,7 @@
       "available_at": "2026-04-24T10:59:40.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:59:40.000Z",
-      "live_viewers": 111,
+      "live_viewers": 114,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -230,7 +250,7 @@
       "available_at": "2026-04-24T11:00:12.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:12.000Z",
-      "live_viewers": 20531,
+      "live_viewers": 22262,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -250,7 +270,7 @@
       "available_at": "2026-04-24T11:00:32.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:32.000Z",
-      "live_viewers": 25,
+      "live_viewers": 26,
       "channel": {
         "id": "UCrOK22InJkQCsKZC6Bq0Bcg",
         "name": "游禅ウラト / Urato Yuzen",
@@ -270,7 +290,7 @@
       "available_at": "2026-04-24T11:00:53.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:53.000Z",
-      "live_viewers": 2151,
+      "live_viewers": 2260,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -290,7 +310,7 @@
       "available_at": "2026-04-24T11:00:55.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:55.000Z",
-      "live_viewers": 3673,
+      "live_viewers": 3855,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -327,9 +347,10 @@
       "status": "live",
       "topic_id": "Tomodachi_Life",
       "published_at": "2026-04-24T11:03:07.000Z",
-      "available_at": "2026-04-24T11:15:00.000Z",
+      "available_at": "2026-04-24T11:15:56.000Z",
       "start_scheduled": "2026-04-24T11:15:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-24T11:15:56.000Z",
+      "live_viewers": 662,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
