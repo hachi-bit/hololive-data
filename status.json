@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777028645,
+  "cached_at": 1777028705,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "co-_B4rC_Mk",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-24T08:00:06.000Z",
       "start_scheduled": "2026-04-24T08:05:00.000Z",
       "start_actual": "2026-04-24T08:00:06.000Z",
-      "live_viewers": 8978,
+      "live_viewers": 8759,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -110,7 +110,7 @@
       "available_at": "2026-04-24T09:57:31.000Z",
       "start_scheduled": "2026-04-24T10:00:00.000Z",
       "start_actual": "2026-04-24T09:57:31.000Z",
-      "live_viewers": 5282,
+      "live_viewers": 5652,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -140,26 +140,6 @@
         "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCFKOVgVbGmX65RxO3EtH3iw": {
-      "video_id": "Ekdsnb2aWY4",
-      "title": "【 #雪夜月 】重大告知あり!雪夜月をねねにガチプレゼン大会!!みんなも一緒に乾杯しよ!【 雪花ラミィ /ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "announce",
-      "published_at": "2026-04-24T04:26:03.000Z",
-      "available_at": "2026-04-24T10:00:40.000Z",
-      "start_scheduled": "2026-04-24T10:00:00.000Z",
-      "start_actual": "2026-04-24T10:00:40.000Z",
-      "live_viewers": 14067,
-      "channel": {
-        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
-        "name": "Lamy Ch. 雪花ラミィ",
-        "english_name": "Yukihana Lamy",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCmms2EE02mK4zdECwrHBpaA": {
       "video_id": "vsc7GzrtIhk",
       "title": "☀️夏に向けた #ホロカ 最新情報てんこ盛り!【#ホロカにゅーすLIVE】",
@@ -170,7 +150,7 @@
       "available_at": "2026-04-24T10:47:37.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:47:37.000Z",
-      "live_viewers": 1769,
+      "live_viewers": 2757,
       "channel": {
         "id": "UCmms2EE02mK4zdECwrHBpaA",
         "name": "hololive OFFICIAL CARD GAME【公式】",
@@ -190,7 +170,7 @@
       "available_at": "2026-04-24T10:58:46.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:58:46.000Z",
-      "live_viewers": 471,
+      "live_viewers": 825,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -210,7 +190,7 @@
       "available_at": "2026-04-24T10:59:11.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:59:11.000Z",
-      "live_viewers": 270,
+      "live_viewers": 595,
       "channel": {
         "id": "UCo6mwsozDGMW0UNGowBJGhg",
         "name": "昏昏アリア / Konkon Aria",
@@ -230,7 +210,7 @@
       "available_at": "2026-04-24T10:59:15.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:59:15.000Z",
-      "live_viewers": 115,
+      "live_viewers": 187,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -250,7 +230,7 @@
       "available_at": "2026-04-24T10:59:40.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:59:40.000Z",
-      "live_viewers": 33,
+      "live_viewers": 84,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -258,25 +238,6 @@
         "org": "Neo-Porte",
         "suborg": "0m6th Generation",
         "photo": "https://yt3.ggpht.com/ApKOz7sH6YpKWtzBQVaZGVc9N4KHJSlT3MUEVukFphSTTnJMEl_dplx6b3EI5n1pW_heDH4aCQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCrOK22InJkQCsKZC6Bq0Bcg": {
-      "video_id": "bvBs2Z6MjzQ",
-      "title": "【 スプラトゥーン3 】素敵な方々とNEWなフルパ w/ 愁子, 鬼ヶ谷テン, 夜十神封魔【游禅ウラト / YUMENOS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Splatoon",
-      "published_at": "2026-04-24T09:16:23.000Z",
-      "available_at": "2026-04-24T11:00:00.000Z",
-      "start_scheduled": "2026-04-24T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCrOK22InJkQCsKZC6Bq0Bcg",
-        "name": "游禅ウラト / Urato Yuzen",
-        "english_name": "Yuzen Urato",
-        "org": "YUMENOS",
-        "suborg": "1bGen 2",
-        "photo": "https://yt3.ggpht.com/hjRm0CVrwF34aDscdrmyPnWEciGpmkH_ip-BsK187OvZMik_CQP39vd3GAnVaMZLdEvUo2g-7A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCUKD-uaobj9jiqB-VXt71mA": {
@@ -298,6 +259,46 @@
         "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "Yc2DMfXRm14",
+      "title": "【初見】友達が少ないウサギが『トモダチコレクション わくわく生活』で最高の島を作る!ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-23T21:41:01.000Z",
+      "available_at": "2026-04-24T11:00:12.000Z",
+      "start_scheduled": "2026-04-24T11:00:00.000Z",
+      "start_actual": "2026-04-24T11:00:12.000Z",
+      "live_viewers": 9011,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCrOK22InJkQCsKZC6Bq0Bcg": {
+      "video_id": "bvBs2Z6MjzQ",
+      "title": "【 スプラトゥーン3 】素敵な方々とNEWなフルパ w/ 愁子, 鬼ヶ谷テン, 夜十神封魔【游禅ウラト / YUMENOS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Splatoon",
+      "published_at": "2026-04-24T09:16:23.000Z",
+      "available_at": "2026-04-24T11:00:32.000Z",
+      "start_scheduled": "2026-04-24T11:00:00.000Z",
+      "start_actual": "2026-04-24T11:00:32.000Z",
+      "live_viewers": 17,
+      "channel": {
+        "id": "UCrOK22InJkQCsKZC6Bq0Bcg",
+        "name": "游禅ウラト / Urato Yuzen",
+        "english_name": "Yuzen Urato",
+        "org": "YUMENOS",
+        "suborg": "1bGen 2",
+        "photo": "https://yt3.ggpht.com/hjRm0CVrwF34aDscdrmyPnWEciGpmkH_ip-BsK187OvZMik_CQP39vd3GAnVaMZLdEvUo2g-7A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "og3yjUcDheY",
       "title": "【HOLO HYTALE SERVER】always lost but enjoying life #calliolive",
@@ -305,9 +306,10 @@
       "status": "live",
       "topic_id": "Hytale",
       "published_at": "2026-04-20T14:39:38.000Z",
-      "available_at": "2026-04-24T11:00:00.000Z",
+      "available_at": "2026-04-24T11:00:53.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-24T11:00:53.000Z",
+      "live_viewers": 1204,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -324,9 +326,10 @@
       "status": "live",
       "topic_id": "The_Night_Cleaner",
       "published_at": "2026-04-24T09:54:06.000Z",
-      "available_at": "2026-04-24T11:00:00.000Z",
+      "available_at": "2026-04-24T11:00:55.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-24T11:00:55.000Z",
+      "live_viewers": 1924,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -334,26 +337,6 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "Yc2DMfXRm14",
-      "title": "【初見】友達が少ないウサギが『トモダチコレクション わくわく生活』で最高の島を作る!ぺこ!【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-23T21:41:01.000Z",
-      "available_at": "2026-04-24T11:00:12.000Z",
-      "start_scheduled": "2026-04-24T11:00:00.000Z",
-      "start_actual": "2026-04-24T11:00:12.000Z",
-      "live_viewers": 4714,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
