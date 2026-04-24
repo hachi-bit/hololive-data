@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777034705,
+  "cached_at": 1777034765,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "co-_B4rC_Mk",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-24T10:58:46.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T10:58:46.000Z",
-      "live_viewers": 1244,
+      "live_viewers": 1050,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-24T11:00:12.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:12.000Z",
-      "live_viewers": 27822,
+      "live_viewers": 27970,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-24T11:00:32.000Z",
       "start_scheduled": "2026-04-24T11:00:00.000Z",
       "start_actual": "2026-04-24T11:00:32.000Z",
-      "live_viewers": 26,
+      "live_viewers": 29,
       "channel": {
         "id": "UCrOK22InJkQCsKZC6Bq0Bcg",
         "name": "游禅ウラト / Urato Yuzen",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-24T11:15:56.000Z",
       "start_scheduled": "2026-04-24T11:15:00.000Z",
       "start_actual": "2026-04-24T11:15:56.000Z",
-      "live_viewers": 4118,
+      "live_viewers": 4141,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -331,7 +331,7 @@
       "available_at": "2026-04-24T12:01:50.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:01:50.000Z",
-      "live_viewers": 2228,
+      "live_viewers": 2327,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -351,7 +351,7 @@
       "available_at": "2026-04-24T12:15:04.000Z",
       "start_scheduled": "2026-04-24T12:00:00.000Z",
       "start_actual": "2026-04-24T12:15:04.000Z",
-      "live_viewers": 865,
+      "live_viewers": 875,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -371,7 +371,7 @@
       "available_at": "2026-04-24T12:33:11.000Z",
       "start_scheduled": "2026-04-24T12:30:00.000Z",
       "start_actual": "2026-04-24T12:33:11.000Z",
-      "live_viewers": 181,
+      "live_viewers": 198,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
