@@ -1,5 +1,5 @@
 {
-  "cached_at": 1776992525,
+  "cached_at": 1776992585,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "aeO0EFHTnIU",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-24T00:43:54.000Z",
       "start_scheduled": "2026-04-24T00:30:00.000Z",
       "start_actual": "2026-04-24T00:43:54.000Z",
-      "live_viewers": 230,
+      "live_viewers": 223,
       "channel": {
         "id": "UCyxtGMdWlURZ30WSnEjDOQw",
         "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-24T00:44:14.000Z",
       "start_scheduled": "2026-04-24T00:00:00.000Z",
       "start_actual": "2026-04-24T00:44:14.000Z",
-      "live_viewers": 392,
+      "live_viewers": 389,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-24T00:45:00.000Z",
       "start_scheduled": "2026-04-24T00:45:00.000Z",
       "start_actual": "2026-04-24T00:45:00.000Z",
-      "live_viewers": 135,
+      "live_viewers": 139,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-24T00:49:13.000Z",
       "start_scheduled": "2026-04-24T00:00:00.000Z",
       "start_actual": "2026-04-24T00:49:13.000Z",
-      "live_viewers": 185,
+      "live_viewers": 187,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-24T00:55:56.000Z",
       "start_scheduled": "2026-04-24T01:00:00.000Z",
       "start_actual": "2026-04-24T00:55:56.000Z",
-      "live_viewers": 10938,
+      "live_viewers": 14827,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -119,6 +119,45 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCL_qhgtOy0dy1Agp8vkySQg": {
+      "video_id": "W0hpBFmA2t4",
+      "title": "【drawing stream】drawing a buuuunch of bones... #calliolive",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "drawing",
+      "published_at": "2026-04-20T14:48:12.000Z",
+      "available_at": "2026-04-24T01:00:00.000Z",
+      "start_scheduled": "2026-04-24T01:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+        "name": "Mori Calliope Ch. hololive-EN",
+        "english_name": "Mori Calliope",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC727SQYUvx5pDDGQpTICNWg": {
+      "video_id": "ZhOP3uIDTf0",
+      "title": "【Supadonoreading】We Have Lots to Catch Up To ~ Part 1! #shorts【hololive ID 2nd Gen | Anya Melfissa】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Superchat_Reading",
+      "published_at": "2026-04-23T12:50:45.000Z",
+      "available_at": "2026-04-24T01:00:31.000Z",
+      "start_scheduled": "2026-04-24T01:00:00.000Z",
+      "start_actual": "2026-04-24T01:00:31.000Z",
+      "live_viewers": 115,
+      "channel": {
+        "id": "UC727SQYUvx5pDDGQpTICNWg",
+        "name": "Anya Melfissa Ch. hololive-ID",
+        "english_name": "Anya Melfissa",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
