@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777127705,
+  "cached_at": 1777127765,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "35wDEg2ibfw",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-25T13:00:36.000Z",
       "start_scheduled": "2026-04-25T13:00:00.000Z",
       "start_actual": "2026-04-25T13:00:36.000Z",
-      "live_viewers": 21048,
+      "live_viewers": 21125,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-25T13:00:59.000Z",
       "start_scheduled": "2026-04-25T13:00:00.000Z",
       "start_actual": "2026-04-25T13:00:59.000Z",
-      "live_viewers": 10994,
+      "live_viewers": 11205,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-25T14:00:59.000Z",
       "start_scheduled": "2026-04-25T14:00:00.000Z",
       "start_actual": "2026-04-25T14:00:59.000Z",
-      "live_viewers": 5799,
+      "live_viewers": 6015,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -258,6 +258,25 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCANDOlYTJT7N5jlRC3zfzVA": {
+      "video_id": "AtE35_Kd1kc",
+      "title": "【雑談】シャニマス8thライブ DAY1 少しだけ感想会【夕刻ロベル/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "idolmaster",
+      "published_at": "2026-04-25T14:33:15.000Z",
+      "available_at": "2026-04-25T14:33:15.000Z",
+      "start_scheduled": "2026-04-25T14:33:15.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+        "name": "Roberu Ch. 夕刻ロベル",
+        "english_name": "Yukoku Roberu",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
