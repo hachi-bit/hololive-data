@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777099265,
+  "cached_at": 1777099325,
   "lives": {
-    "UC9p_lqQ0FEDz327Vgf5JwqA": {
-      "video_id": "EQDcfOTmPRo",
-      "title": "【holoVillage: Our Cozy Days】BIBOO IN A COMFY GAME? MY DREAM COME TRUE!!!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "holoVillage",
-      "published_at": "2026-04-24T13:08:02.000Z",
-      "available_at": "2026-04-24T22:56:52.000Z",
-      "start_scheduled": "2026-04-24T23:00:00.000Z",
-      "start_actual": "2026-04-24T22:56:52.000Z",
-      "live_viewers": 3586,
-      "channel": {
-        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-        "name": "Koseki Bijou Ch. hololive-EN",
-        "english_name": "Koseki Bijou",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "DTdqMWLP7BU",
       "title": "【holoVillage: Our Cozy Days】they sent her to a farm upstate #calliolive",
@@ -71,7 +51,7 @@
       "available_at": "2026-04-25T02:02:57.000Z",
       "start_scheduled": "2026-04-25T02:00:00.000Z",
       "start_actual": "2026-04-25T02:02:57.000Z",
-      "live_viewers": 2325,
+      "live_viewers": 2300,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -91,7 +71,7 @@
       "available_at": "2026-04-25T02:03:13.000Z",
       "start_scheduled": "2026-04-25T02:00:00.000Z",
       "start_actual": "2026-04-25T02:03:13.000Z",
-      "live_viewers": 5802,
+      "live_viewers": 5710,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-25T04:03:11.000Z",
       "start_scheduled": "2026-04-25T04:00:00.000Z",
       "start_actual": "2026-04-25T04:03:11.000Z",
-      "live_viewers": 23438,
+      "live_viewers": 23850,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -271,7 +251,7 @@
       "available_at": "2026-04-25T05:59:59.000Z",
       "start_scheduled": "2026-04-25T06:00:00.000Z",
       "start_actual": "2026-04-25T05:59:59.000Z",
-      "live_viewers": 240,
+      "live_viewers": 250,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
