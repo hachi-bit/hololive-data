@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777087925,
+  "cached_at": 1777087985,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "EQDcfOTmPRo",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-24T22:56:52.000Z",
       "start_scheduled": "2026-04-24T23:00:00.000Z",
       "start_actual": "2026-04-24T22:56:52.000Z",
-      "live_viewers": 7158,
+      "live_viewers": 6983,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-25T00:00:22.000Z",
       "start_scheduled": "2026-04-25T00:00:00.000Z",
       "start_actual": "2026-04-25T00:00:22.000Z",
-      "live_viewers": 3634,
+      "live_viewers": 3678,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-25T03:00:21.000Z",
       "start_scheduled": "2026-04-25T03:00:00.000Z",
       "start_actual": "2026-04-25T03:00:21.000Z",
-      "live_viewers": 13135,
+      "live_viewers": 13392,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-25T03:01:53.000Z",
       "start_scheduled": "2026-04-25T03:00:00.000Z",
       "start_actual": "2026-04-25T03:01:53.000Z",
-      "live_viewers": 5006,
+      "live_viewers": 5414,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-25T03:05:41.000Z",
       "start_scheduled": "2026-04-25T03:05:00.000Z",
       "start_actual": "2026-04-25T03:05:41.000Z",
-      "live_viewers": 693,
+      "live_viewers": 770,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -199,6 +199,25 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7gxU6NXjKF1LrgOddPzgTw": {
+      "video_id": "0Oc6rOAAloU",
+      "title": "THE VOICE THAT PIERCED HEAVEN🐦‍⬛🔥🔅 POST #HAKKAMINI3D 3D ZATSUDAN 🎉✨",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-04-24T14:44:33.000Z",
+      "available_at": "2026-04-25T03:30:00.000Z",
+      "start_scheduled": "2026-04-25T03:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+        "english_name": "Banzoin Hakka",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
