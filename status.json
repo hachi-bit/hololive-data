@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777122004,
+  "cached_at": 1777122065,
   "lives": {
     "UCc88OV45ICgHbn3ZqLLb52w": {
       "video_id": "D6xvWxlOmkM",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-25T09:01:13.000Z",
       "start_scheduled": "2026-04-25T09:00:00.000Z",
       "start_actual": "2026-04-25T09:01:13.000Z",
-      "live_viewers": 7481,
+      "live_viewers": 7828,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-25T09:01:21.000Z",
       "start_scheduled": "2026-04-25T09:00:00.000Z",
       "start_actual": "2026-04-25T09:01:21.000Z",
-      "live_viewers": 4450,
+      "live_viewers": 4694,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-25T10:31:01.000Z",
       "start_scheduled": "2026-04-25T10:30:00.000Z",
       "start_actual": "2026-04-25T10:31:01.000Z",
-      "live_viewers": 279,
+      "live_viewers": 266,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-25T10:58:02.000Z",
       "start_scheduled": "2026-04-25T11:00:00.000Z",
       "start_actual": "2026-04-25T10:58:02.000Z",
-      "live_viewers": 252,
+      "live_viewers": 260,
       "channel": {
         "id": "UCLK0cRXu3PY7cPbdWiVYemA",
         "name": "羽流鷲りりり / Ririri Channel【ななしいんく】",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-25T11:00:24.000Z",
       "start_scheduled": "2026-04-25T11:00:00.000Z",
       "start_actual": "2026-04-25T11:00:24.000Z",
-      "live_viewers": 15932,
+      "live_viewers": 16108,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -221,26 +221,6 @@
         "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCW5uhrG1eCBYditmhL0Ykjw": {
-      "video_id": "PGppUhILuP4",
-      "title": "【3D BIRTHDAY LIVE】NOW That's an 80s BOP! #ERBday2026",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Birthday",
-      "published_at": "2026-04-17T10:11:50.000Z",
-      "available_at": "2026-04-25T12:00:35.000Z",
-      "start_scheduled": "2026-04-25T12:00:00.000Z",
-      "start_actual": "2026-04-25T12:00:35.000Z",
-      "live_viewers": 45455,
-      "channel": {
-        "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-        "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-        "english_name": "Elizabeth Rose Bloodflame",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC7fk0CB07ly8oSl0aqKkqFg": {
       "video_id": "e7JvA7J1jNs",
       "title": "【バイオハザード レクイエム】恐怖の地下編#4【百鬼あやめ/ホロライブ】",
@@ -251,7 +231,7 @@
       "available_at": "2026-04-25T12:02:09.000Z",
       "start_scheduled": "2026-04-25T12:00:00.000Z",
       "start_actual": "2026-04-25T12:02:09.000Z",
-      "live_viewers": 11678,
+      "live_viewers": 12946,
       "channel": {
         "id": "UC7fk0CB07ly8oSl0aqKkqFg",
         "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -271,7 +251,7 @@
       "available_at": "2026-04-25T12:04:51.000Z",
       "start_scheduled": "2026-04-25T12:00:00.000Z",
       "start_actual": "2026-04-25T12:04:51.000Z",
-      "live_viewers": 227,
+      "live_viewers": 264,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
