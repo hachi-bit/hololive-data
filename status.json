@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777079045,
+  "cached_at": 1777079105,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "EQDcfOTmPRo",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-24T22:56:52.000Z",
       "start_scheduled": "2026-04-24T23:00:00.000Z",
       "start_actual": "2026-04-24T22:56:52.000Z",
-      "live_viewers": 8797,
+      "live_viewers": 8748,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-25T00:00:22.000Z",
       "start_scheduled": "2026-04-25T00:00:00.000Z",
       "start_actual": "2026-04-25T00:00:22.000Z",
-      "live_viewers": 3795,
+      "live_viewers": 3968,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -48,9 +48,10 @@
       "status": "live",
       "topic_id": "morning",
       "published_at": "2026-04-23T17:16:14.000Z",
-      "available_at": "2026-04-25T01:00:00.000Z",
+      "available_at": "2026-04-25T01:01:45.000Z",
       "start_scheduled": "2026-04-25T01:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-25T01:01:45.000Z",
+      "live_viewers": 9548,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
