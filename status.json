@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777096565,
+  "cached_at": 1777096625,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "EQDcfOTmPRo",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-24T22:56:52.000Z",
       "start_scheduled": "2026-04-24T23:00:00.000Z",
       "start_actual": "2026-04-24T22:56:52.000Z",
-      "live_viewers": 5293,
+      "live_viewers": 4927,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-25T03:51:15.000Z",
       "start_scheduled": "2026-04-25T03:50:00.000Z",
       "start_actual": "2026-04-25T03:51:15.000Z",
-      "live_viewers": 3057,
+      "live_viewers": 3092,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-25T05:00:12.000Z",
       "start_scheduled": "2026-04-25T05:00:00.000Z",
       "start_actual": "2026-04-25T05:00:12.000Z",
-      "live_viewers": 3948,
+      "live_viewers": 4093,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-25T05:02:27.000Z",
       "start_scheduled": "2026-04-25T05:00:00.000Z",
       "start_actual": "2026-04-25T05:02:27.000Z",
-      "live_viewers": 720,
+      "live_viewers": 596,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-25T05:05:41.000Z",
       "start_scheduled": "2026-04-25T05:00:00.000Z",
       "start_actual": "2026-04-25T05:05:41.000Z",
-      "live_viewers": 2187,
+      "live_viewers": 2242,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
