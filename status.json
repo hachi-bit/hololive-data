@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777101244,
+  "cached_at": 1777101305,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "DTdqMWLP7BU",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-25T02:00:34.000Z",
       "start_scheduled": "2026-04-25T02:00:00.000Z",
       "start_actual": "2026-04-25T02:00:34.000Z",
-      "live_viewers": 4453,
+      "live_viewers": 4364,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-25T03:00:21.000Z",
       "start_scheduled": "2026-04-25T03:00:00.000Z",
       "start_actual": "2026-04-25T03:00:21.000Z",
-      "live_viewers": 17211,
+      "live_viewers": 17111,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC727SQYUvx5pDDGQpTICNWg": {
-      "video_id": "OvpTZhOdTTo",
-      "title": "【SPOILER ALERT | Resident Evil Requiem】Leon Gaming😎 レオンで頑張るの巻【hololive ID | Anya Melfissa】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-04-24T23:07:50.000Z",
-      "available_at": "2026-04-25T03:05:41.000Z",
-      "start_scheduled": "2026-04-25T03:05:00.000Z",
-      "start_actual": "2026-04-25T03:05:41.000Z",
-      "live_viewers": 1037,
-      "channel": {
-        "id": "UC727SQYUvx5pDDGQpTICNWg",
-        "name": "Anya Melfissa Ch. hololive-ID",
-        "english_name": "Anya Melfissa",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
@@ -171,7 +151,7 @@
       "available_at": "2026-04-25T04:03:11.000Z",
       "start_scheduled": "2026-04-25T04:00:00.000Z",
       "start_actual": "2026-04-25T04:03:11.000Z",
-      "live_viewers": 24407,
+      "live_viewers": 24399,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-25T05:02:27.000Z",
       "start_scheduled": "2026-04-25T05:00:00.000Z",
       "start_actual": "2026-04-25T05:02:27.000Z",
-      "live_viewers": 924,
+      "live_viewers": 920,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -271,7 +251,7 @@
       "available_at": "2026-04-25T06:00:42.000Z",
       "start_scheduled": "2026-04-25T06:00:00.000Z",
       "start_actual": "2026-04-25T06:00:42.000Z",
-      "live_viewers": 6262,
+      "live_viewers": 6361,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -291,7 +271,7 @@
       "available_at": "2026-04-25T07:10:20.000Z",
       "start_scheduled": "2026-04-25T07:15:00.000Z",
       "start_actual": "2026-04-25T07:10:20.000Z",
-      "live_viewers": 1031,
+      "live_viewers": 1668,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
