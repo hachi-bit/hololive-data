@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777138805,
+  "cached_at": 1777138865,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "35wDEg2ibfw",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-25T09:01:21.000Z",
       "start_scheduled": "2026-04-25T09:00:00.000Z",
       "start_actual": "2026-04-25T09:01:21.000Z",
-      "live_viewers": 4348,
+      "live_viewers": 4157,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC7fk0CB07ly8oSl0aqKkqFg": {
-      "video_id": "e7JvA7J1jNs",
-      "title": "【バイオハザード レクイエム】恐怖の地下編#4【百鬼あやめ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-04-25T11:13:14.000Z",
-      "available_at": "2026-04-25T12:02:09.000Z",
-      "start_scheduled": "2026-04-25T12:00:00.000Z",
-      "start_actual": "2026-04-25T12:02:09.000Z",
-      "live_viewers": 8964,
-      "channel": {
-        "id": "UC7fk0CB07ly8oSl0aqKkqFg",
-        "name": "Nakiri Ayame Ch. 百鬼あやめ",
-        "english_name": "Nakiri Ayame",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
