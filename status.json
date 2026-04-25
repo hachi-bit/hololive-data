@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777122245,
+  "cached_at": 1777122305,
   "lives": {
     "UCUKD-uaobj9jiqB-VXt71mA": {
       "video_id": "vw_LsBweIRE",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-25T10:01:06.000Z",
       "start_scheduled": "2026-04-25T10:00:00.000Z",
       "start_actual": "2026-04-25T10:01:06.000Z",
-      "live_viewers": 1180,
+      "live_viewers": 1283,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -130,7 +130,7 @@
       "available_at": "2026-04-25T11:00:24.000Z",
       "start_scheduled": "2026-04-25T11:00:00.000Z",
       "start_actual": "2026-04-25T11:00:24.000Z",
-      "live_viewers": 16108,
+      "live_viewers": 16383,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -190,7 +190,7 @@
       "available_at": "2026-04-25T11:37:04.000Z",
       "start_scheduled": "2026-04-25T11:30:00.000Z",
       "start_actual": "2026-04-25T11:37:04.000Z",
-      "live_viewers": 376,
+      "live_viewers": 455,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -230,7 +230,7 @@
       "available_at": "2026-04-25T12:04:51.000Z",
       "start_scheduled": "2026-04-25T12:00:00.000Z",
       "start_actual": "2026-04-25T12:04:51.000Z",
-      "live_viewers": 264,
+      "live_viewers": 279,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -238,63 +238,6 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp-5t9SrOQwXMU7iIjQfARg": {
-      "video_id": "PxSpa6gbv7E",
-      "title": "【ぷちホロの村】ホロメンと過ごせる村?!のんびり生活した~い!【ホロライブ/大神ミオ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "holoVillage",
-      "published_at": "2026-04-25T09:33:11.000Z",
-      "available_at": "2026-04-25T13:00:00.000Z",
-      "start_scheduled": "2026-04-25T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-        "name": "Mio Channel 大神ミオ",
-        "english_name": "Ookami Mio",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "uhZ27bLlc1A",
-      "title": "【ぷちホロの村】ホロメンと過ごすスローライフの始まり!ぺこ!【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "holoVillage",
-      "published_at": "2026-04-25T08:56:28.000Z",
-      "available_at": "2026-04-25T13:00:00.000Z",
-      "start_scheduled": "2026-04-25T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1iA6_NT4mtAcIII6ygrvCw": {
-      "video_id": "N1kL0qf_K9A",
-      "title": "【歌枠】アニソン縛りで歌っちゃお!【轟はじめ/ReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-04-25T11:37:12.000Z",
-      "available_at": "2026-04-25T13:00:00.000Z",
-      "start_scheduled": "2026-04-25T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-        "english_name": "Todoroki Hajime",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
@@ -307,7 +250,7 @@
       "available_at": "2026-04-25T13:00:16.000Z",
       "start_scheduled": "2026-04-25T13:00:00.000Z",
       "start_actual": "2026-04-25T13:00:16.000Z",
-      "live_viewers": 1295,
+      "live_viewers": 1835,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -315,6 +258,66 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1iA6_NT4mtAcIII6ygrvCw": {
+      "video_id": "N1kL0qf_K9A",
+      "title": "【歌枠】アニソン縛りで歌っちゃお!【轟はじめ/ReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-04-25T11:37:12.000Z",
+      "available_at": "2026-04-25T13:00:26.000Z",
+      "start_scheduled": "2026-04-25T13:00:00.000Z",
+      "start_actual": "2026-04-25T13:00:26.000Z",
+      "live_viewers": 3183,
+      "channel": {
+        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+        "english_name": "Todoroki Hajime",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "uhZ27bLlc1A",
+      "title": "【ぷちホロの村】ホロメンと過ごすスローライフの始まり!ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-04-25T08:56:28.000Z",
+      "available_at": "2026-04-25T13:00:36.000Z",
+      "start_scheduled": "2026-04-25T13:00:00.000Z",
+      "start_actual": "2026-04-25T13:00:36.000Z",
+      "live_viewers": 8426,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp-5t9SrOQwXMU7iIjQfARg": {
+      "video_id": "PxSpa6gbv7E",
+      "title": "【ぷちホロの村】ホロメンと過ごせる村?!のんびり生活した~い!【ホロライブ/大神ミオ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-04-25T09:33:11.000Z",
+      "available_at": "2026-04-25T13:00:59.000Z",
+      "start_scheduled": "2026-04-25T13:00:00.000Z",
+      "start_actual": "2026-04-25T13:00:59.000Z",
+      "live_viewers": 4502,
+      "channel": {
+        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+        "name": "Mio Channel 大神ミオ",
+        "english_name": "Ookami Mio",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
