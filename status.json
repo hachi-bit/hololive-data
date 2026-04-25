@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777122604,
+  "cached_at": 1777122665,
   "lives": {
     "UCUKD-uaobj9jiqB-VXt71mA": {
       "video_id": "vw_LsBweIRE",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-25T09:01:21.000Z",
       "start_scheduled": "2026-04-25T09:00:00.000Z",
       "start_actual": "2026-04-25T09:01:21.000Z",
-      "live_viewers": 4669,
+      "live_viewers": 4612,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -90,7 +90,7 @@
       "available_at": "2026-04-25T10:58:02.000Z",
       "start_scheduled": "2026-04-25T11:00:00.000Z",
       "start_actual": "2026-04-25T10:58:02.000Z",
-      "live_viewers": 260,
+      "live_viewers": 283,
       "channel": {
         "id": "UCLK0cRXu3PY7cPbdWiVYemA",
         "name": "羽流鷲りりり / Ririri Channel【ななしいんく】",
@@ -130,7 +130,7 @@
       "available_at": "2026-04-25T11:00:24.000Z",
       "start_scheduled": "2026-04-25T11:00:00.000Z",
       "start_actual": "2026-04-25T11:00:24.000Z",
-      "live_viewers": 16383,
+      "live_viewers": 16300,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -170,7 +170,7 @@
       "available_at": "2026-04-25T11:02:48.000Z",
       "start_scheduled": "2026-04-25T11:00:00.000Z",
       "start_actual": "2026-04-25T11:02:48.000Z",
-      "live_viewers": 19795,
+      "live_viewers": 19718,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -178,26 +178,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdfMHxjcCc2HSd9qFvfJgjg": {
-      "video_id": "1GP02H3kH1c",
-      "title": "【 歌枠 l KARAOKE 】ひらけ!喉!ちょっとだけうたう!【 水無世燐央 l UPROAR!! 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-04-25T11:29:38.000Z",
-      "available_at": "2026-04-25T11:37:04.000Z",
-      "start_scheduled": "2026-04-25T11:30:00.000Z",
-      "start_actual": "2026-04-25T11:37:04.000Z",
-      "live_viewers": 455,
-      "channel": {
-        "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-        "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-        "english_name": "Minase Rio",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC7fk0CB07ly8oSl0aqKkqFg": {
@@ -230,7 +210,7 @@
       "available_at": "2026-04-25T12:04:51.000Z",
       "start_scheduled": "2026-04-25T12:00:00.000Z",
       "start_actual": "2026-04-25T12:04:51.000Z",
-      "live_viewers": 279,
+      "live_viewers": 282,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -250,7 +230,7 @@
       "available_at": "2026-04-25T13:00:16.000Z",
       "start_scheduled": "2026-04-25T13:00:00.000Z",
       "start_actual": "2026-04-25T13:00:16.000Z",
-      "live_viewers": 2391,
+      "live_viewers": 2714,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -270,7 +250,7 @@
       "available_at": "2026-04-25T13:00:26.000Z",
       "start_scheduled": "2026-04-25T13:00:00.000Z",
       "start_actual": "2026-04-25T13:00:26.000Z",
-      "live_viewers": 4356,
+      "live_viewers": 4970,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -290,7 +270,7 @@
       "available_at": "2026-04-25T13:00:36.000Z",
       "start_scheduled": "2026-04-25T13:00:00.000Z",
       "start_actual": "2026-04-25T13:00:36.000Z",
-      "live_viewers": 12984,
+      "live_viewers": 15464,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -310,7 +290,7 @@
       "available_at": "2026-04-25T13:00:59.000Z",
       "start_scheduled": "2026-04-25T13:00:00.000Z",
       "start_actual": "2026-04-25T13:00:59.000Z",
-      "live_viewers": 6706,
+      "live_viewers": 7541,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
