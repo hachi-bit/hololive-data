@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777140425,
+  "cached_at": 1777140485,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "35wDEg2ibfw",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-25T17:58:48.000Z",
       "start_scheduled": "2026-04-25T18:00:00.000Z",
       "start_actual": "2026-04-25T17:58:48.000Z",
-      "live_viewers": 1340,
+      "live_viewers": 1626,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -119,6 +119,26 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvN5h1ShZtc7nly3pezRayg": {
+      "video_id": "gZPvQOElCaE",
+      "title": "【STREAM】STREAM AND MINI ANNOUNCEMENT!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "announce",
+      "published_at": "2026-04-25T13:52:10.000Z",
+      "available_at": "2026-04-25T18:04:51.000Z",
+      "start_scheduled": "2026-04-25T18:05:00.000Z",
+      "start_actual": "2026-04-25T18:04:51.000Z",
+      "live_viewers": 3362,
+      "channel": {
+        "id": "UCvN5h1ShZtc7nly3pezRayg",
+        "name": "Cecilia Immergreen Ch. hololive-EN",
+        "english_name": "Cecilia Immergreen",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
