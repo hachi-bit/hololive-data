@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777082824,
+  "cached_at": 1777082885,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "EQDcfOTmPRo",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-24T22:56:52.000Z",
       "start_scheduled": "2026-04-24T23:00:00.000Z",
       "start_actual": "2026-04-24T22:56:52.000Z",
-      "live_viewers": 8227,
+      "live_viewers": 8014,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-25T01:01:45.000Z",
       "start_scheduled": "2026-04-25T01:00:00.000Z",
       "start_actual": "2026-04-25T01:01:45.000Z",
-      "live_viewers": 28767,
+      "live_viewers": 28527,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -81,44 +81,6 @@
         "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCmbs8T6MWqUHP1tIQvSgKrg": {
-      "video_id": "cpv6TNyz90k",
-      "title": "【Hytale】Letting Her Cook With @holoen_raorapanthera",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Hytale",
-      "published_at": "2026-04-24T19:54:30.000Z",
-      "available_at": "2026-04-25T02:00:00.000Z",
-      "start_scheduled": "2026-04-25T02:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
-        "name": "Ouro Kronii Ch. hololive-EN",
-        "english_name": "Ouro Kronii",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCl69AEx4MdqMZH7Jtsm7Tig": {
-      "video_id": "AOYpCVCTzco",
-      "title": "【HYTALE】I DON'T KNOW HOW TO STOP【Raora Panthera】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Hytale",
-      "published_at": "2026-04-24T17:16:52.000Z",
-      "available_at": "2026-04-25T02:00:00.000Z",
-      "start_scheduled": "2026-04-25T02:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
-        "name": "Raora Panthera Ch. hololive-EN",
-        "english_name": "Raora Panthera",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "ZODsG0oEpPs",
       "title": "【MINI 3D LIVE】LET'S ROCK OUT 🤘🎤🔥 IT'S #HAKKAMINI3D TIME ✨",
@@ -129,7 +91,7 @@
       "available_at": "2026-04-25T02:00:12.000Z",
       "start_scheduled": "2026-04-25T02:00:00.000Z",
       "start_actual": "2026-04-25T02:00:12.000Z",
-      "live_viewers": 2510,
+      "live_viewers": 2988,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -149,7 +111,7 @@
       "available_at": "2026-04-25T02:00:34.000Z",
       "start_scheduled": "2026-04-25T02:00:00.000Z",
       "start_actual": "2026-04-25T02:00:34.000Z",
-      "live_viewers": 995,
+      "live_viewers": 1163,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -169,7 +131,7 @@
       "available_at": "2026-04-25T02:01:40.000Z",
       "start_scheduled": "2026-04-25T02:00:00.000Z",
       "start_actual": "2026-04-25T02:01:40.000Z",
-      "live_viewers": 1948,
+      "live_viewers": 2842,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -177,6 +139,46 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCl69AEx4MdqMZH7Jtsm7Tig": {
+      "video_id": "AOYpCVCTzco",
+      "title": "【HYTALE】I DON'T KNOW HOW TO STOP【Raora Panthera】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Hytale",
+      "published_at": "2026-04-24T17:16:52.000Z",
+      "available_at": "2026-04-25T02:02:57.000Z",
+      "start_scheduled": "2026-04-25T02:00:00.000Z",
+      "start_actual": "2026-04-25T02:02:57.000Z",
+      "live_viewers": 815,
+      "channel": {
+        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
+        "name": "Raora Panthera Ch. hololive-EN",
+        "english_name": "Raora Panthera",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCmbs8T6MWqUHP1tIQvSgKrg": {
+      "video_id": "cpv6TNyz90k",
+      "title": "【Hytale】Letting Her Cook With @holoen_raorapanthera",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Hytale",
+      "published_at": "2026-04-24T19:54:30.000Z",
+      "available_at": "2026-04-25T02:03:13.000Z",
+      "start_scheduled": "2026-04-25T02:00:00.000Z",
+      "start_actual": "2026-04-25T02:03:13.000Z",
+      "live_viewers": 1707,
+      "channel": {
+        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
+        "name": "Ouro Kronii Ch. hololive-EN",
+        "english_name": "Ouro Kronii",
+        "org": "Hololive",
+        "suborg": "ibEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
