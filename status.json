@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777157825,
+  "cached_at": 1777157885,
   "lives": {
     "UCjLEmnpCNeisMxy134KPwWw": {
       "video_id": "z-iDg5HmikY",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-25T21:29:15.000Z",
       "start_scheduled": "2026-04-25T21:30:00.000Z",
       "start_actual": "2026-04-25T21:29:15.000Z",
-      "live_viewers": 1223,
+      "live_viewers": 1211,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -19,6 +19,26 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9p_lqQ0FEDz327Vgf5JwqA": {
+      "video_id": "FQmt3juKGQ4",
+      "title": "【Tomodachi Life: Living the Dream】I want more CHAOS!!!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-25T16:08:00.000Z",
+      "available_at": "2026-04-25T22:55:20.000Z",
+      "start_scheduled": "2026-04-25T23:00:00.000Z",
+      "start_actual": "2026-04-25T22:55:20.000Z",
+      "live_viewers": 1105,
+      "channel": {
+        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+        "name": "Koseki Bijou Ch. hololive-EN",
+        "english_name": "Koseki Bijou",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
