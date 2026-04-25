@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777089785,
+  "cached_at": 1777089845,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "EQDcfOTmPRo",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-24T22:56:52.000Z",
       "start_scheduled": "2026-04-24T23:00:00.000Z",
       "start_actual": "2026-04-24T22:56:52.000Z",
-      "live_viewers": 6819,
+      "live_viewers": 6783,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-25T03:00:21.000Z",
       "start_scheduled": "2026-04-25T03:00:00.000Z",
       "start_actual": "2026-04-25T03:00:21.000Z",
-      "live_viewers": 16791,
+      "live_viewers": 16163,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-25T03:01:53.000Z",
       "start_scheduled": "2026-04-25T03:00:00.000Z",
       "start_actual": "2026-04-25T03:01:53.000Z",
-      "live_viewers": 5532,
+      "live_viewers": 5306,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-25T03:05:41.000Z",
       "start_scheduled": "2026-04-25T03:05:00.000Z",
       "start_actual": "2026-04-25T03:05:41.000Z",
-      "live_viewers": 1044,
+      "live_viewers": 1006,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-25T03:41:47.000Z",
       "start_scheduled": "2026-04-25T03:30:00.000Z",
       "start_actual": "2026-04-25T03:41:47.000Z",
-      "live_viewers": 1126,
+      "live_viewers": 1138,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-25T03:51:15.000Z",
       "start_scheduled": "2026-04-25T03:50:00.000Z",
       "start_actual": "2026-04-25T03:51:15.000Z",
-      "live_viewers": 1647,
+      "live_viewers": 1815,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -199,6 +199,25 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvzGlP9oQwU--Y0r9id_jnA": {
+      "video_id": "DGAI6Zd7yhY",
+      "title": "【#9】LOST JUDGMENT：裁かれざる記憶【※ネタバレあり】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Judgment",
+      "published_at": "2026-04-23T17:16:47.000Z",
+      "available_at": "2026-04-25T04:00:00.000Z",
+      "start_scheduled": "2026-04-25T04:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+        "name": "Subaru Ch. 大空スバル",
+        "english_name": "Oozora Subaru",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
