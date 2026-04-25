@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777092305,
+  "cached_at": 1777092365,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "EQDcfOTmPRo",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-25T02:00:34.000Z",
       "start_scheduled": "2026-04-25T02:00:00.000Z",
       "start_actual": "2026-04-25T02:00:34.000Z",
-      "live_viewers": 3768,
+      "live_viewers": 3680,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-25T02:01:40.000Z",
       "start_scheduled": "2026-04-25T02:00:00.000Z",
       "start_actual": "2026-04-25T02:01:40.000Z",
-      "live_viewers": 6877,
+      "live_viewers": 6855,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-25T02:02:57.000Z",
       "start_scheduled": "2026-04-25T02:00:00.000Z",
       "start_actual": "2026-04-25T02:02:57.000Z",
-      "live_viewers": 2571,
+      "live_viewers": 2526,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-25T02:03:13.000Z",
       "start_scheduled": "2026-04-25T02:00:00.000Z",
       "start_actual": "2026-04-25T02:03:13.000Z",
-      "live_viewers": 5881,
+      "live_viewers": 6033,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-25T03:00:21.000Z",
       "start_scheduled": "2026-04-25T03:00:00.000Z",
       "start_actual": "2026-04-25T03:00:21.000Z",
-      "live_viewers": 18538,
+      "live_viewers": 18415,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -161,26 +161,6 @@
         "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC7gxU6NXjKF1LrgOddPzgTw": {
-      "video_id": "0Oc6rOAAloU",
-      "title": "THE VOICE THAT PIERCED HEAVEN🐦‍⬛🔥🔅 POST #HAKKAMINI3D 3D ZATSUDAN 🎉✨",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-04-24T14:44:33.000Z",
-      "available_at": "2026-04-25T03:41:47.000Z",
-      "start_scheduled": "2026-04-25T03:30:00.000Z",
-      "start_actual": "2026-04-25T03:41:47.000Z",
-      "live_viewers": 1150,
-      "channel": {
-        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-        "english_name": "Banzoin Hakka",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
       "video_id": "1-LY4ttC1xU",
       "title": "#08【仁王2】おまたせ戦国時代!!天下統一目指して脳筋パッションだ~!!!【白銀ノエル/ホロライブ】",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-25T04:03:11.000Z",
       "start_scheduled": "2026-04-25T04:00:00.000Z",
       "start_actual": "2026-04-25T04:03:11.000Z",
-      "live_viewers": 17078,
+      "live_viewers": 17106,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
