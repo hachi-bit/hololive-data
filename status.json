@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777128305,
+  "cached_at": 1777128365,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "35wDEg2ibfw",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-25T11:00:24.000Z",
       "start_scheduled": "2026-04-25T11:00:00.000Z",
       "start_actual": "2026-04-25T11:00:24.000Z",
-      "live_viewers": 16761,
+      "live_viewers": 16733,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-25T14:00:59.000Z",
       "start_scheduled": "2026-04-25T14:00:00.000Z",
       "start_actual": "2026-04-25T14:00:59.000Z",
-      "live_viewers": 6468,
+      "live_viewers": 6614,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-25T14:02:16.000Z",
       "start_scheduled": "2026-04-25T14:00:00.000Z",
       "start_actual": "2026-04-25T14:02:16.000Z",
-      "live_viewers": 810,
+      "live_viewers": 833,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-25T14:02:55.000Z",
       "start_scheduled": "2026-04-25T14:00:00.000Z",
       "start_actual": "2026-04-25T14:02:55.000Z",
-      "live_viewers": 330,
+      "live_viewers": 366,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -228,8 +228,9 @@
       "status": "live",
       "topic_id": "membersonly",
       "published_at": "2026-04-24T22:34:59.000Z",
-      "available_at": "2026-04-25T14:05:00.000Z",
+      "available_at": "2026-04-25T14:08:31.000Z",
       "start_scheduled": "2026-04-25T14:05:00.000Z",
+      "start_actual": "2026-04-25T14:08:31.000Z",
       "live_viewers": 0,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -250,7 +251,7 @@
       "available_at": "2026-04-25T14:37:51.000Z",
       "start_scheduled": "2026-04-25T14:33:15.000Z",
       "start_actual": "2026-04-25T14:37:51.000Z",
-      "live_viewers": 472,
+      "live_viewers": 580,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
