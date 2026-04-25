@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777075265,
+  "cached_at": 1777075326,
   "lives": {
     "UCHP4f7G2dWD4qib7BMatGAw": {
       "video_id": "lxWGT0a_myo",
@@ -39,6 +39,26 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCMwGHR0BTZuLsmjY_NT5Pwg": {
+      "video_id": "P35xVr65j1Y",
+      "title": "【Arknights: Endfield】Chubby Lung Enjoyers Unite!!!! New Content!!!!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Arknights:_Endfield",
+      "published_at": "2026-04-21T23:56:01.000Z",
+      "available_at": "2026-04-25T00:00:20.000Z",
+      "start_scheduled": "2026-04-25T00:00:00.000Z",
+      "start_actual": "2026-04-25T00:00:20.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "name": "Ninomae Ina'nis Ch. hololive-EN",
+        "english_name": "Ninomae Ina'nis",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
