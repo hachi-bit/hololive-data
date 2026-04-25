@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777127225,
+  "cached_at": 1777127285,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "35wDEg2ibfw",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-25T11:00:24.000Z",
       "start_scheduled": "2026-04-25T11:00:00.000Z",
       "start_actual": "2026-04-25T11:00:24.000Z",
-      "live_viewers": 17101,
+      "live_viewers": 16729,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "zvS8qPTejeY",
-      "title": "【トモダチコレクション】#ホロエンタメランド 結婚でHAPPYEND？　【白上フブキ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-25T04:26:27.000Z",
-      "available_at": "2026-04-25T11:02:48.000Z",
-      "start_scheduled": "2026-04-25T11:00:00.000Z",
-      "start_actual": "2026-04-25T11:02:48.000Z",
-      "live_viewers": 16100,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "フブキCh。白上フブキ",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC7fk0CB07ly8oSl0aqKkqFg": {
@@ -71,7 +51,7 @@
       "available_at": "2026-04-25T12:02:09.000Z",
       "start_scheduled": "2026-04-25T12:00:00.000Z",
       "start_actual": "2026-04-25T12:02:09.000Z",
-      "live_viewers": 13206,
+      "live_viewers": 13274,
       "channel": {
         "id": "UC7fk0CB07ly8oSl0aqKkqFg",
         "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -131,7 +111,7 @@
       "available_at": "2026-04-25T13:00:36.000Z",
       "start_scheduled": "2026-04-25T13:00:00.000Z",
       "start_actual": "2026-04-25T13:00:36.000Z",
-      "live_viewers": 20980,
+      "live_viewers": 21042,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-25T14:00:59.000Z",
       "start_scheduled": "2026-04-25T14:00:00.000Z",
       "start_actual": "2026-04-25T14:00:59.000Z",
-      "live_viewers": 5216,
+      "live_viewers": 5504,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -251,7 +231,7 @@
       "available_at": "2026-04-25T14:02:55.000Z",
       "start_scheduled": "2026-04-25T14:00:00.000Z",
       "start_actual": "2026-04-25T14:02:55.000Z",
-      "live_viewers": 236,
+      "live_viewers": 249,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
