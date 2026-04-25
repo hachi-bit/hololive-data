@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777117145,
+  "cached_at": 1777117206,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "Jitu5SVs78w",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-25T09:01:21.000Z",
       "start_scheduled": "2026-04-25T09:00:00.000Z",
       "start_actual": "2026-04-25T09:01:21.000Z",
-      "live_viewers": 4888,
+      "live_viewers": 4878,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-25T10:59:23.000Z",
       "start_scheduled": "2026-04-25T11:00:00.000Z",
       "start_actual": "2026-04-25T10:59:23.000Z",
-      "live_viewers": 485,
+      "live_viewers": 481,
       "channel": {
         "id": "UC7WY5VP-P-rSb2ES5npk8yA",
         "name": "千羽 黒乃:Senba Channel",
@@ -271,7 +271,7 @@
       "available_at": "2026-04-25T11:03:17.000Z",
       "start_scheduled": "2026-04-25T11:00:00.000Z",
       "start_actual": "2026-04-25T11:03:17.000Z",
-      "live_viewers": 8522,
+      "live_viewers": 8423,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -288,9 +288,10 @@
       "status": "live",
       "topic_id": "singing",
       "published_at": "2026-04-25T11:29:38.000Z",
-      "available_at": "2026-04-25T11:30:00.000Z",
+      "available_at": "2026-04-25T11:37:04.000Z",
       "start_scheduled": "2026-04-25T11:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-25T11:37:04.000Z",
+      "live_viewers": 113,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
