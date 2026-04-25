@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777118944,
+  "cached_at": 1777119005,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "Jitu5SVs78w",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-25T08:59:58.000Z",
       "start_scheduled": "2026-04-25T09:00:00.000Z",
       "start_actual": "2026-04-25T08:59:58.000Z",
-      "live_viewers": 37400,
+      "live_viewers": 37391,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-25T11:00:24.000Z",
       "start_scheduled": "2026-04-25T11:00:00.000Z",
       "start_actual": "2026-04-25T11:00:24.000Z",
-      "live_viewers": 14766,
+      "live_viewers": 14685,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -271,7 +271,7 @@
       "available_at": "2026-04-25T11:37:04.000Z",
       "start_scheduled": "2026-04-25T11:30:00.000Z",
       "start_actual": "2026-04-25T11:37:04.000Z",
-      "live_viewers": 302,
+      "live_viewers": 318,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -279,25 +279,6 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
-      "video_id": "AZUAzeUe_Ew",
-      "title": "【ASMR ANATOMY LESSON】Let's talk about the human body",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "asmr",
-      "published_at": "2026-04-23T23:35:25.000Z",
-      "available_at": "2026-04-25T12:00:00.000Z",
-      "start_scheduled": "2026-04-25T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-        "name": "Octavio Ch. HOLOSTARS-EN",
-        "english_name": "Octavio",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCW5uhrG1eCBYditmhL0Ykjw": {
@@ -310,7 +291,7 @@
       "available_at": "2026-04-25T12:00:35.000Z",
       "start_scheduled": "2026-04-25T12:00:00.000Z",
       "start_actual": "2026-04-25T12:00:35.000Z",
-      "live_viewers": 29437,
+      "live_viewers": 33371,
       "channel": {
         "id": "UCW5uhrG1eCBYditmhL0Ykjw",
         "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -330,7 +311,7 @@
       "available_at": "2026-04-25T12:02:09.000Z",
       "start_scheduled": "2026-04-25T12:00:00.000Z",
       "start_actual": "2026-04-25T12:02:09.000Z",
-      "live_viewers": 3404,
+      "live_viewers": 4694,
       "channel": {
         "id": "UC7fk0CB07ly8oSl0aqKkqFg",
         "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -338,6 +319,26 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
+      "video_id": "AZUAzeUe_Ew",
+      "title": "【ASMR ANATOMY LESSON】Let's talk about the human body",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "asmr",
+      "published_at": "2026-04-23T23:35:25.000Z",
+      "available_at": "2026-04-25T12:04:51.000Z",
+      "start_scheduled": "2026-04-25T12:00:00.000Z",
+      "start_actual": "2026-04-25T12:04:51.000Z",
+      "live_viewers": 149,
+      "channel": {
+        "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+        "name": "Octavio Ch. HOLOSTARS-EN",
+        "english_name": "Octavio",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
