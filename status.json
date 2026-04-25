@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777104845,
+  "cached_at": 1777104905,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "PPO43lOYItI",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-25T02:01:40.000Z",
       "start_scheduled": "2026-04-25T02:00:00.000Z",
       "start_actual": "2026-04-25T02:01:40.000Z",
-      "live_viewers": 5849,
+      "live_viewers": 5888,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-25T03:00:21.000Z",
       "start_scheduled": "2026-04-25T03:00:00.000Z",
       "start_actual": "2026-04-25T03:00:21.000Z",
-      "live_viewers": 17256,
+      "live_viewers": 18165,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-25T03:01:53.000Z",
       "start_scheduled": "2026-04-25T03:00:00.000Z",
       "start_actual": "2026-04-25T03:01:53.000Z",
-      "live_viewers": 3832,
+      "live_viewers": 3782,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-25T05:02:27.000Z",
       "start_scheduled": "2026-04-25T05:00:00.000Z",
       "start_actual": "2026-04-25T05:02:27.000Z",
-      "live_viewers": 1413,
+      "live_viewers": 1461,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-25T05:05:41.000Z",
       "start_scheduled": "2026-04-25T05:00:00.000Z",
       "start_actual": "2026-04-25T05:05:41.000Z",
-      "live_viewers": 3347,
+      "live_viewers": 3503,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-25T06:00:42.000Z",
       "start_scheduled": "2026-04-25T06:00:00.000Z",
       "start_actual": "2026-04-25T06:00:42.000Z",
-      "live_viewers": 7031,
+      "live_viewers": 7196,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-25T07:10:20.000Z",
       "start_scheduled": "2026-04-25T07:15:00.000Z",
       "start_actual": "2026-04-25T07:10:20.000Z",
-      "live_viewers": 7024,
+      "live_viewers": 7105,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-25T08:04:54.000Z",
       "start_scheduled": "2026-04-25T08:00:00.000Z",
       "start_actual": "2026-04-25T08:04:54.000Z",
-      "live_viewers": 967,
+      "live_viewers": 1119,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -199,6 +199,26 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp-5t9SrOQwXMU7iIjQfARg": {
+      "video_id": "WZEfe3uT0uE",
+      "title": "【歌枠】アニソン歌って上がる歌枠~~!!!【 ホロライブ / 大神ミオ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-04-25T08:10:47.000Z",
+      "available_at": "2026-04-25T08:11:46.000Z",
+      "start_scheduled": "2026-04-25T08:10:47.000Z",
+      "start_actual": "2026-04-25T08:11:46.000Z",
+      "live_viewers": 3301,
+      "channel": {
+        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+        "name": "Mio Channel 大神ミオ",
+        "english_name": "Ookami Mio",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
