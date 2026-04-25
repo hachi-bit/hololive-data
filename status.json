@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777114805,
+  "cached_at": 1777114865,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "Jitu5SVs78w",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-25T08:59:58.000Z",
       "start_scheduled": "2026-04-25T09:00:00.000Z",
       "start_actual": "2026-04-25T08:59:58.000Z",
-      "live_viewers": 41567,
+      "live_viewers": 42605,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-25T09:01:13.000Z",
       "start_scheduled": "2026-04-25T09:00:00.000Z",
       "start_actual": "2026-04-25T09:01:13.000Z",
-      "live_viewers": 10183,
+      "live_viewers": 10220,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-25T10:00:08.000Z",
       "start_scheduled": "2026-04-25T10:00:00.000Z",
       "start_actual": "2026-04-25T10:00:08.000Z",
-      "live_viewers": 3478,
+      "live_viewers": 3634,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-25T10:01:06.000Z",
       "start_scheduled": "2026-04-25T10:00:00.000Z",
       "start_actual": "2026-04-25T10:01:06.000Z",
-      "live_viewers": 1243,
+      "live_viewers": 1276,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -199,6 +199,46 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCLK0cRXu3PY7cPbdWiVYemA": {
+      "video_id": "o9G4MTar6oI",
+      "title": "【 スト6 】 明日大会 ぷげらさんアレックスコーチング 【羽流鷲りりり|ななしいんく】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-04-24T18:39:42.000Z",
+      "available_at": "2026-04-25T10:58:02.000Z",
+      "start_scheduled": "2026-04-25T11:00:00.000Z",
+      "start_actual": "2026-04-25T10:58:02.000Z",
+      "live_viewers": 54,
+      "channel": {
+        "id": "UCLK0cRXu3PY7cPbdWiVYemA",
+        "name": "羽流鷲りりり / Ririri Channel【ななしいんく】",
+        "english_name": "Uruwashi Ririri",
+        "org": "774inc",
+        "suborg": "25Nanashiinku",
+        "photo": "https://yt3.ggpht.com/CrRdj1eqKxWtN9kbkRejxPlNhIoikEhKubDWEPK4BtcJLbvumADzuBxwI_7Oar5PT22x1XQ2Jw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7WY5VP-P-rSb2ES5npk8yA": {
+      "video_id": "YXqI8iJxKl0",
+      "title": "【#スト6 】本番直前! GO!ALEX祭に向けてｱｲﾑﾚﾃﾞｨじゃ~!【千羽黒乃】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-04-24T17:42:40.000Z",
+      "available_at": "2026-04-25T10:59:23.000Z",
+      "start_scheduled": "2026-04-25T11:00:00.000Z",
+      "start_actual": "2026-04-25T10:59:23.000Z",
+      "live_viewers": 108,
+      "channel": {
+        "id": "UC7WY5VP-P-rSb2ES5npk8yA",
+        "name": "千羽 黒乃:Senba Channel",
+        "english_name": "Senba Kurono",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kKgXX1_C3ff15DbzGZOh5ylpx_tUoPEQt52sfVrZKhAQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
