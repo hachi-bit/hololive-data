@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777101125,
+  "cached_at": 1777101185,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "DTdqMWLP7BU",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-25T05:00:12.000Z",
       "start_scheduled": "2026-04-25T05:00:00.000Z",
       "start_actual": "2026-04-25T05:00:12.000Z",
-      "live_viewers": 4895,
+      "live_viewers": 4979,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-25T05:02:27.000Z",
       "start_scheduled": "2026-04-25T05:00:00.000Z",
       "start_actual": "2026-04-25T05:02:27.000Z",
-      "live_viewers": 907,
+      "live_viewers": 924,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-25T05:59:59.000Z",
       "start_scheduled": "2026-04-25T06:00:00.000Z",
       "start_actual": "2026-04-25T05:59:59.000Z",
-      "live_viewers": 274,
+      "live_viewers": 293,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -279,6 +279,26 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCt9H_RpQzhxzlyBxFqrdHqA": {
+      "video_id": "GmcYjV6aTuA",
+      "title": "【CHRONO TRIGGER OFF-COLLAB with CECILIA】is it too late for pancakes? 🐾【SPOILER WARNING|FUWAMOCO】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Chrono_Trigger",
+      "published_at": "2026-04-21T13:23:24.000Z",
+      "available_at": "2026-04-25T07:10:20.000Z",
+      "start_scheduled": "2026-04-25T07:15:00.000Z",
+      "start_actual": "2026-04-25T07:10:20.000Z",
+      "live_viewers": 1031,
+      "channel": {
+        "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
+        "name": "FUWAMOCO Ch. hololive-EN",
+        "english_name": "Fuwawa & Mococo Abyssgard",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
