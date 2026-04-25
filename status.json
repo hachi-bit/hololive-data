@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777122125,
+  "cached_at": 1777122185,
   "lives": {
-    "UCc88OV45ICgHbn3ZqLLb52w": {
-      "video_id": "D6xvWxlOmkM",
-      "title": "Pokémon Champions|初めてのポケモンチャンピオンズ!マスターボール級への道 - 夜十神封魔 / ホロスターズ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Pokemon",
-      "published_at": "2026-04-24T20:40:47.000Z",
-      "available_at": "2026-04-25T05:59:59.000Z",
-      "start_scheduled": "2026-04-25T06:00:00.000Z",
-      "start_actual": "2026-04-25T05:59:59.000Z",
-      "live_viewers": 237,
-      "channel": {
-        "id": "UCc88OV45ICgHbn3ZqLLb52w",
-        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-        "english_name": "Yatogami Fuma",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCUKD-uaobj9jiqB-VXt71mA": {
       "video_id": "vw_LsBweIRE",
       "title": "【ぷちホロの村】ホロメン達と田舎暮らしするぞい!ー ぷちホロの村 - 剣とお店と田舎暮らし【獅白ぼたん/ホロライブ】",
@@ -82,16 +62,15 @@
       }
     },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "DT-qOsu7PlQ",
-      "title": "【ストリートファイター6】アレックス祭 チーム練習【荒咬オウガ /ホロスターズ】",
+      "video_id": "o0gk9MDdpnA",
+      "title": "【メンバー限定】同時視聴する作品探して見るやつ【荒咬オウガ /ホロスターズ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-04-25T05:45:36.000Z",
-      "available_at": "2026-04-25T10:31:01.000Z",
-      "start_scheduled": "2026-04-25T10:30:00.000Z",
-      "start_actual": "2026-04-25T10:31:01.000Z",
-      "live_viewers": 266,
+      "topic_id": "membersonly",
+      "published_at": "2026-04-25T05:48:16.000Z",
+      "available_at": "2026-04-25T13:00:00.000Z",
+      "start_scheduled": "2026-04-25T13:00:00.000Z",
+      "live_viewers": 0,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -171,7 +150,7 @@
       "available_at": "2026-04-25T11:01:13.000Z",
       "start_scheduled": "2026-04-25T11:00:00.000Z",
       "start_actual": "2026-04-25T11:01:13.000Z",
-      "live_viewers": 2649,
+      "live_viewers": 2907,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -191,7 +170,7 @@
       "available_at": "2026-04-25T11:02:48.000Z",
       "start_scheduled": "2026-04-25T11:00:00.000Z",
       "start_actual": "2026-04-25T11:02:48.000Z",
-      "live_viewers": 19509,
+      "live_viewers": 20421,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -259,6 +238,83 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp-5t9SrOQwXMU7iIjQfARg": {
+      "video_id": "PxSpa6gbv7E",
+      "title": "【ぷちホロの村】ホロメンと過ごせる村?!のんびり生活した~い!【ホロライブ/大神ミオ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-04-25T09:33:11.000Z",
+      "available_at": "2026-04-25T13:00:00.000Z",
+      "start_scheduled": "2026-04-25T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+        "name": "Mio Channel 大神ミオ",
+        "english_name": "Ookami Mio",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "uhZ27bLlc1A",
+      "title": "【ぷちホロの村】ホロメンと過ごすスローライフの始まり!ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-04-25T08:56:28.000Z",
+      "available_at": "2026-04-25T13:00:00.000Z",
+      "start_scheduled": "2026-04-25T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1iA6_NT4mtAcIII6ygrvCw": {
+      "video_id": "N1kL0qf_K9A",
+      "title": "【歌枠】アニソン縛りで歌っちゃお!【轟はじめ/ReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-04-25T11:37:12.000Z",
+      "available_at": "2026-04-25T13:00:00.000Z",
+      "start_scheduled": "2026-04-25T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+        "english_name": "Todoroki Hajime",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKMWFR6lAstLa7Vbf5dH7ig": {
+      "video_id": "CM5ora5CHVY",
+      "title": "【ポケモン/リーフグリーン】#3 パラスと一緒に初見ポケモン!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pokemon",
+      "published_at": "2026-04-19T15:46:49.000Z",
+      "available_at": "2026-04-25T13:00:16.000Z",
+      "start_scheduled": "2026-04-25T13:00:00.000Z",
+      "start_actual": "2026-04-25T13:00:16.000Z",
+      "live_viewers": 1295,
+      "channel": {
+        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+        "english_name": "Rindo Chihaya",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
