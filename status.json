@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777112285,
+  "cached_at": 1777112345,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "Jitu5SVs78w",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-25T07:10:20.000Z",
       "start_scheduled": "2026-04-25T07:15:00.000Z",
       "start_actual": "2026-04-25T07:10:20.000Z",
-      "live_viewers": 6113,
+      "live_viewers": 6108,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-25T08:04:54.000Z",
       "start_scheduled": "2026-04-25T08:00:00.000Z",
       "start_actual": "2026-04-25T08:04:54.000Z",
-      "live_viewers": 1597,
+      "live_viewers": 1566,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-25T08:59:58.000Z",
       "start_scheduled": "2026-04-25T09:00:00.000Z",
       "start_actual": "2026-04-25T08:59:58.000Z",
-      "live_viewers": 35093,
+      "live_viewers": 35689,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-25T09:01:13.000Z",
       "start_scheduled": "2026-04-25T09:00:00.000Z",
       "start_actual": "2026-04-25T09:01:13.000Z",
-      "live_viewers": 9218,
+      "live_viewers": 9591,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-25T09:01:21.000Z",
       "start_scheduled": "2026-04-25T09:00:00.000Z",
       "start_actual": "2026-04-25T09:01:21.000Z",
-      "live_viewers": 4372,
+      "live_viewers": 4626,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -139,6 +139,25 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC10wVt6hoQiwySRhz7RdOUA": {
+      "video_id": "SesNnU4-lU4",
+      "title": "ReGLOSSで靴作ってみた【#作ってReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-25T10:00:06.000Z",
+      "available_at": "2026-04-25T10:00:06.000Z",
+      "start_scheduled": "2026-04-25T10:00:00.000Z",
+      "start_actual": "2026-04-25T10:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC10wVt6hoQiwySRhz7RdOUA",
+        "name": "hololive DEV_IS ReGLOSS",
+        "org": "Hololive",
+        "suborg": "0fOfficial",
+        "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCK9V2B22uJYu3N7eR_BT9QA": {
@@ -161,25 +180,6 @@
         "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC10wVt6hoQiwySRhz7RdOUA": {
-      "video_id": "SesNnU4-lU4",
-      "title": "ReGLOSSで靴作ってみた【#作ってReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-04-25T10:00:06.000Z",
-      "available_at": "2026-04-25T10:00:06.000Z",
-      "start_scheduled": "2026-04-25T10:00:00.000Z",
-      "start_actual": "2026-04-25T10:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC10wVt6hoQiwySRhz7RdOUA",
-        "name": "hololive DEV_IS ReGLOSS",
-        "org": "Hololive",
-        "suborg": "0fOfficial",
-        "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCjk2nKmHzgH5Xy-C5qYRd5A": {
       "video_id": "O6LReL-b5ig",
       "title": "【NELLコイルフトン】快適睡眠😴?すうちはが使ってみた🔧💙【水宮枢/ホロライブDEV_IS】",
@@ -190,7 +190,7 @@
       "available_at": "2026-04-25T10:00:08.000Z",
       "start_scheduled": "2026-04-25T10:00:00.000Z",
       "start_actual": "2026-04-25T10:00:08.000Z",
-      "live_viewers": 2309,
+      "live_viewers": 2527,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -210,7 +210,7 @@
       "available_at": "2026-04-25T10:01:06.000Z",
       "start_scheduled": "2026-04-25T10:00:00.000Z",
       "start_actual": "2026-04-25T10:01:06.000Z",
-      "live_viewers": 796,
+      "live_viewers": 891,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
