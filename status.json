@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777123864,
+  "cached_at": 1777123925,
   "lives": {
     "UCUKD-uaobj9jiqB-VXt71mA": {
       "video_id": "vw_LsBweIRE",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-25T12:02:09.000Z",
       "start_scheduled": "2026-04-25T12:00:00.000Z",
       "start_actual": "2026-04-25T12:02:09.000Z",
-      "live_viewers": 13216,
+      "live_viewers": 13231,
       "channel": {
         "id": "UC7fk0CB07ly8oSl0aqKkqFg",
         "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -190,7 +190,7 @@
       "available_at": "2026-04-25T13:00:16.000Z",
       "start_scheduled": "2026-04-25T13:00:00.000Z",
       "start_actual": "2026-04-25T13:00:16.000Z",
-      "live_viewers": 3823,
+      "live_viewers": 3961,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -210,7 +210,7 @@
       "available_at": "2026-04-25T13:00:26.000Z",
       "start_scheduled": "2026-04-25T13:00:00.000Z",
       "start_actual": "2026-04-25T13:00:26.000Z",
-      "live_viewers": 7374,
+      "live_viewers": 7597,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -230,7 +230,7 @@
       "available_at": "2026-04-25T13:00:36.000Z",
       "start_scheduled": "2026-04-25T13:00:00.000Z",
       "start_actual": "2026-04-25T13:00:36.000Z",
-      "live_viewers": 19680,
+      "live_viewers": 19675,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -250,7 +250,7 @@
       "available_at": "2026-04-25T13:00:59.000Z",
       "start_scheduled": "2026-04-25T13:00:00.000Z",
       "start_actual": "2026-04-25T13:00:59.000Z",
-      "live_viewers": 9305,
+      "live_viewers": 9542,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -258,6 +258,26 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZLZ8Jjx_RN2CXloOmgTHVg": {
+      "video_id": "gMOz6E9lBV4",
+      "title": "【holoVillage: Our Cozy Days】slow living, peaceful life 😇 no Ckia is allowed here",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-04-21T11:29:04.000Z",
+      "available_at": "2026-04-25T13:30:01.000Z",
+      "start_scheduled": "2026-04-25T13:30:00.000Z",
+      "start_actual": "2026-04-25T13:30:01.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "name": "Kaela Kovalskia Ch. hololive-ID",
+        "english_name": "Kaela Kovalskia",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
