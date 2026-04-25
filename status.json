@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777134425,
+  "cached_at": 1777134485,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "35wDEg2ibfw",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-25T12:02:09.000Z",
       "start_scheduled": "2026-04-25T12:00:00.000Z",
       "start_actual": "2026-04-25T12:02:09.000Z",
-      "live_viewers": 12650,
+      "live_viewers": 12763,
       "channel": {
         "id": "UC7fk0CB07ly8oSl0aqKkqFg",
         "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -61,26 +61,6 @@
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "uhZ27bLlc1A",
-      "title": "【ぷちホロの村】ホロメンと過ごすスローライフの始まり!ぺこ!【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "holoVillage",
-      "published_at": "2026-04-25T08:56:28.000Z",
-      "available_at": "2026-04-25T13:00:36.000Z",
-      "start_scheduled": "2026-04-25T13:00:00.000Z",
-      "start_actual": "2026-04-25T13:00:36.000Z",
-      "live_viewers": 18625,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
       "video_id": "gMOz6E9lBV4",
       "title": "【holoVillage: Our Cozy Days】slow living, peaceful life 😇 no Ckia is allowed here",
@@ -91,7 +71,7 @@
       "available_at": "2026-04-25T13:30:27.000Z",
       "start_scheduled": "2026-04-25T13:30:00.000Z",
       "start_actual": "2026-04-25T13:30:27.000Z",
-      "live_viewers": 3217,
+      "live_viewers": 3367,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -131,7 +111,7 @@
       "available_at": "2026-04-25T14:02:16.000Z",
       "start_scheduled": "2026-04-25T14:00:00.000Z",
       "start_actual": "2026-04-25T14:02:16.000Z",
-      "live_viewers": 1066,
+      "live_viewers": 1084,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
