@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777141625,
+  "cached_at": 1777141685,
   "lives": {
-    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "35wDEg2ibfw",
-      "title": "【PsychoBreak 2/サイコブレイク2】完全初見!精神崩壊大絶叫…【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "The_Evil_Within",
-      "published_at": "2026-04-25T03:14:24.000Z",
-      "available_at": "2026-04-25T09:01:21.000Z",
-      "start_scheduled": "2026-04-25T09:00:00.000Z",
-      "start_actual": "2026-04-25T09:01:21.000Z",
-      "live_viewers": 3135,
-      "channel": {
-        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "english_name": "Kikirara Vivi",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "CM5ora5CHVY",
       "title": "【ポケモン/リーフグリーン】#3 パラスと一緒に初見ポケモン!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
@@ -31,7 +11,7 @@
       "available_at": "2026-04-25T13:00:16.000Z",
       "start_scheduled": "2026-04-25T13:00:00.000Z",
       "start_actual": "2026-04-25T13:00:16.000Z",
-      "live_viewers": 6494,
+      "live_viewers": 6496,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -51,7 +31,7 @@
       "available_at": "2026-04-25T13:30:27.000Z",
       "start_scheduled": "2026-04-25T13:30:00.000Z",
       "start_actual": "2026-04-25T13:30:27.000Z",
-      "live_viewers": 3821,
+      "live_viewers": 3620,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -91,7 +71,7 @@
       "available_at": "2026-04-25T17:58:48.000Z",
       "start_scheduled": "2026-04-25T18:00:00.000Z",
       "start_actual": "2026-04-25T17:58:48.000Z",
-      "live_viewers": 2699,
+      "live_viewers": 2805,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-25T18:04:51.000Z",
       "start_scheduled": "2026-04-25T18:05:00.000Z",
       "start_actual": "2026-04-25T18:04:51.000Z",
-      "live_viewers": 6895,
+      "live_viewers": 7104,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
