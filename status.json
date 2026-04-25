@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777111925,
+  "cached_at": 1777111985,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "Jitu5SVs78w",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-25T08:59:58.000Z",
       "start_scheduled": "2026-04-25T09:00:00.000Z",
       "start_actual": "2026-04-25T08:59:58.000Z",
-      "live_viewers": 34402,
+      "live_viewers": 34950,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-25T09:01:13.000Z",
       "start_scheduled": "2026-04-25T09:00:00.000Z",
       "start_actual": "2026-04-25T09:01:13.000Z",
-      "live_viewers": 9109,
+      "live_viewers": 9218,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -161,6 +161,25 @@
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UC10wVt6hoQiwySRhz7RdOUA": {
+      "video_id": "SesNnU4-lU4",
+      "title": "ReGLOSSで靴作ってみた【#作ってReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-25T10:00:06.000Z",
+      "available_at": "2026-04-25T10:00:06.000Z",
+      "start_scheduled": "2026-04-25T10:00:00.000Z",
+      "start_actual": "2026-04-25T10:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC10wVt6hoQiwySRhz7RdOUA",
+        "name": "hololive DEV_IS ReGLOSS",
+        "org": "Hololive",
+        "suborg": "0fOfficial",
+        "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCK9V2B22uJYu3N7eR_BT9QA": {
       "video_id": "NHv11o0ksOA",
       "title": "【トモコレ】#3 うちの島に恋の嵐、吹き荒れまくり【尾丸ポルカ/ホロライブ】",
@@ -181,25 +200,6 @@
         "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC10wVt6hoQiwySRhz7RdOUA": {
-      "video_id": "SesNnU4-lU4",
-      "title": "ReGLOSSで靴作ってみた【#作ってReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-04-25T10:00:06.000Z",
-      "available_at": "2026-04-25T10:00:06.000Z",
-      "start_scheduled": "2026-04-25T10:00:00.000Z",
-      "start_actual": "2026-04-25T10:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC10wVt6hoQiwySRhz7RdOUA",
-        "name": "hololive DEV_IS ReGLOSS",
-        "org": "Hololive",
-        "suborg": "0fOfficial",
-        "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCjk2nKmHzgH5Xy-C5qYRd5A": {
       "video_id": "O6LReL-b5ig",
       "title": "【NELLコイルフトン】快適睡眠😴?すうちはが使ってみた🔧💙【水宮枢/ホロライブDEV_IS】",
@@ -210,7 +210,7 @@
       "available_at": "2026-04-25T10:00:08.000Z",
       "start_scheduled": "2026-04-25T10:00:00.000Z",
       "start_actual": "2026-04-25T10:00:08.000Z",
-      "live_viewers": 2047,
+      "live_viewers": 2200,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -230,7 +230,7 @@
       "available_at": "2026-04-25T10:01:06.000Z",
       "start_scheduled": "2026-04-25T10:00:00.000Z",
       "start_actual": "2026-04-25T10:01:06.000Z",
-      "live_viewers": 658,
+      "live_viewers": 723,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
