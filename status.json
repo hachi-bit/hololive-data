@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777140605,
+  "cached_at": 1777140664,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "35wDEg2ibfw",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-25T13:00:16.000Z",
       "start_scheduled": "2026-04-25T13:00:00.000Z",
       "start_actual": "2026-04-25T13:00:16.000Z",
-      "live_viewers": 6673,
+      "live_viewers": 6635,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -81,26 +81,6 @@
         "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCOyYb1c43VlX9rc_lT6NKQw": {
-      "video_id": "sohQ7feKnPs",
-      "title": "PRISUNERS NIGHT NOW !!!!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-04-25T15:52:53.000Z",
-      "available_at": "2026-04-25T16:00:33.000Z",
-      "start_scheduled": "2026-04-25T16:00:00.000Z",
-      "start_actual": "2026-04-25T16:00:33.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-        "name": "Ayunda Risu Ch. hololive-ID",
-        "english_name": "Ayunda Risu",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCQ0UDLQCjY0rmuxCDE38FGg": {
       "video_id": "fjpMX1qQsdo",
       "title": "【 HER TREES : THE PUZZLE HOUSE 】深夜のパズルタイム🌙【ホロライブ/夏色まつり】",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-25T17:58:48.000Z",
       "start_scheduled": "2026-04-25T18:00:00.000Z",
       "start_actual": "2026-04-25T17:58:48.000Z",
-      "live_viewers": 1626,
+      "live_viewers": 1873,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -131,7 +111,7 @@
       "available_at": "2026-04-25T18:04:51.000Z",
       "start_scheduled": "2026-04-25T18:05:00.000Z",
       "start_actual": "2026-04-25T18:04:51.000Z",
-      "live_viewers": 3362,
+      "live_viewers": 4565,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
