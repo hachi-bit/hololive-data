@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777089185,
+  "cached_at": 1777089245,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "EQDcfOTmPRo",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-25T02:00:34.000Z",
       "start_scheduled": "2026-04-25T02:00:00.000Z",
       "start_actual": "2026-04-25T02:00:34.000Z",
-      "live_viewers": 2912,
+      "live_viewers": 4460,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-25T02:03:13.000Z",
       "start_scheduled": "2026-04-25T02:00:00.000Z",
       "start_actual": "2026-04-25T02:03:13.000Z",
-      "live_viewers": 5690,
+      "live_viewers": 5746,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-25T03:00:21.000Z",
       "start_scheduled": "2026-04-25T03:00:00.000Z",
       "start_actual": "2026-04-25T03:00:21.000Z",
-      "live_viewers": 15844,
+      "live_viewers": 16112,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-25T03:01:53.000Z",
       "start_scheduled": "2026-04-25T03:00:00.000Z",
       "start_actual": "2026-04-25T03:01:53.000Z",
-      "live_viewers": 6004,
+      "live_viewers": 5709,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-25T03:05:41.000Z",
       "start_scheduled": "2026-04-25T03:05:00.000Z",
       "start_actual": "2026-04-25T03:05:41.000Z",
-      "live_viewers": 926,
+      "live_viewers": 963,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-25T03:41:47.000Z",
       "start_scheduled": "2026-04-25T03:30:00.000Z",
       "start_actual": "2026-04-25T03:41:47.000Z",
-      "live_viewers": 1011,
+      "live_viewers": 1052,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -188,9 +188,10 @@
       "status": "live",
       "topic_id": "Nioh",
       "published_at": "2026-04-25T00:15:39.000Z",
-      "available_at": "2026-04-25T03:50:00.000Z",
+      "available_at": "2026-04-25T03:51:15.000Z",
       "start_scheduled": "2026-04-25T03:50:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-25T03:51:15.000Z",
+      "live_viewers": 615,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
