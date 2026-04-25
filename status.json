@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777129025,
+  "cached_at": 1777129085,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "35wDEg2ibfw",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-25T11:00:24.000Z",
       "start_scheduled": "2026-04-25T11:00:00.000Z",
       "start_actual": "2026-04-25T11:00:24.000Z",
-      "live_viewers": 17151,
+      "live_viewers": 16308,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-25T12:02:09.000Z",
       "start_scheduled": "2026-04-25T12:00:00.000Z",
       "start_actual": "2026-04-25T12:02:09.000Z",
-      "live_viewers": 14637,
+      "live_viewers": 14342,
       "channel": {
         "id": "UC7fk0CB07ly8oSl0aqKkqFg",
         "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-25T13:00:16.000Z",
       "start_scheduled": "2026-04-25T13:00:00.000Z",
       "start_actual": "2026-04-25T13:00:16.000Z",
-      "live_viewers": 5546,
+      "live_viewers": 5484,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-25T13:00:36.000Z",
       "start_scheduled": "2026-04-25T13:00:00.000Z",
       "start_actual": "2026-04-25T13:00:36.000Z",
-      "live_viewers": 20727,
+      "live_viewers": 20568,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-25T13:00:59.000Z",
       "start_scheduled": "2026-04-25T13:00:00.000Z",
       "start_actual": "2026-04-25T13:00:59.000Z",
-      "live_viewers": 11193,
+      "live_viewers": 11111,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-25T13:30:27.000Z",
       "start_scheduled": "2026-04-25T13:30:00.000Z",
       "start_actual": "2026-04-25T13:30:27.000Z",
-      "live_viewers": 2761,
+      "live_viewers": 2827,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-25T14:00:59.000Z",
       "start_scheduled": "2026-04-25T14:00:00.000Z",
       "start_actual": "2026-04-25T14:00:59.000Z",
-      "live_viewers": 6932,
+      "live_viewers": 7165,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-25T14:02:16.000Z",
       "start_scheduled": "2026-04-25T14:00:00.000Z",
       "start_actual": "2026-04-25T14:02:16.000Z",
-      "live_viewers": 896,
+      "live_viewers": 929,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -239,26 +239,6 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCANDOlYTJT7N5jlRC3zfzVA": {
-      "video_id": "AtE35_Kd1kc",
-      "title": "【雑談】シャニマス8thライブ DAY1 少しだけ感想会【夕刻ロベル/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "idolmaster",
-      "published_at": "2026-04-25T14:33:15.000Z",
-      "available_at": "2026-04-25T14:37:51.000Z",
-      "start_scheduled": "2026-04-25T14:33:15.000Z",
-      "start_actual": "2026-04-25T14:37:51.000Z",
-      "live_viewers": 690,
-      "channel": {
-        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
-        "name": "Roberu Ch. 夕刻ロベル",
-        "english_name": "Yukoku Roberu",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
