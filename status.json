@@ -1,4 +1,25 @@
 {
-  "cached_at": 1777152665,
-  "lives": {}
+  "cached_at": 1777152725,
+  "lives": {
+    "UCjLEmnpCNeisMxy134KPwWw": {
+      "video_id": "z-iDg5HmikY",
+      "title": "【Watchalong | LCS】C9 cs SR, i'm supporting the blue one #LCSCostream",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-04-25T19:39:05.000Z",
+      "available_at": "2026-04-25T21:29:15.000Z",
+      "start_scheduled": "2026-04-25T21:30:00.000Z",
+      "start_actual": "2026-04-25T21:29:15.000Z",
+      "live_viewers": 284,
+      "channel": {
+        "id": "UCjLEmnpCNeisMxy134KPwWw",
+        "name": "Kobo Kanaeru Ch. hololive-ID",
+        "english_name": "Kobo Kanaeru",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj"
+      }
+    }
+  }
 }
