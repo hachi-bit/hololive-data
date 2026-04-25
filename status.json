@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777089065,
+  "cached_at": 1777089124,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "EQDcfOTmPRo",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-24T22:56:52.000Z",
       "start_scheduled": "2026-04-24T23:00:00.000Z",
       "start_actual": "2026-04-24T22:56:52.000Z",
-      "live_viewers": 6812,
+      "live_viewers": 6747,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -19,46 +19,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCMwGHR0BTZuLsmjY_NT5Pwg": {
-      "video_id": "P35xVr65j1Y",
-      "title": "【Arknights: Endfield】Chubby Lung Enjoyers Unite!!!! New Content!!!!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Arknights:_Endfield",
-      "published_at": "2026-04-21T23:56:01.000Z",
-      "available_at": "2026-04-25T00:00:22.000Z",
-      "start_scheduled": "2026-04-25T00:00:00.000Z",
-      "start_actual": "2026-04-25T00:00:22.000Z",
-      "live_viewers": 3777,
-      "channel": {
-        "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "name": "Ninomae Ina'nis Ch. hololive-EN",
-        "english_name": "Ninomae Ina'nis",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC_sFNM0z0MWm9A6WlKPuMMg": {
-      "video_id": "NMVvopv2wPo",
-      "title": "Let's party! | Members-Only",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-04-24T15:10:48.000Z",
-      "available_at": "2026-04-25T01:24:26.000Z",
-      "start_scheduled": "2026-04-25T01:30:00.000Z",
-      "start_actual": "2026-04-25T01:24:26.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
-        "name": "Nerissa Ravencroft Ch. hololive-EN",
-        "english_name": "Nerissa Ravencroft",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCL_qhgtOy0dy1Agp8vkySQg": {
@@ -151,7 +111,7 @@
       "available_at": "2026-04-25T03:00:21.000Z",
       "start_scheduled": "2026-04-25T03:00:00.000Z",
       "start_actual": "2026-04-25T03:00:21.000Z",
-      "live_viewers": 15391,
+      "live_viewers": 15844,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -211,7 +171,7 @@
       "available_at": "2026-04-25T03:41:47.000Z",
       "start_scheduled": "2026-04-25T03:30:00.000Z",
       "start_actual": "2026-04-25T03:41:47.000Z",
-      "live_viewers": 973,
+      "live_viewers": 1011,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -219,6 +179,25 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdyqAaZDKHXg4Ahi7VENThQ": {
+      "video_id": "1-LY4ttC1xU",
+      "title": "#08【仁王2】おまたせ戦国時代!!天下統一目指して脳筋パッションだ~!!!【白銀ノエル/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Nioh",
+      "published_at": "2026-04-25T00:15:39.000Z",
+      "available_at": "2026-04-25T03:50:00.000Z",
+      "start_scheduled": "2026-04-25T03:50:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+        "name": "Noel Ch. 白銀ノエル",
+        "english_name": "Shirogane Noel",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
