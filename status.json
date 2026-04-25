@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777093505,
+  "cached_at": 1777093564,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "EQDcfOTmPRo",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-25T02:00:34.000Z",
       "start_scheduled": "2026-04-25T02:00:00.000Z",
       "start_actual": "2026-04-25T02:00:34.000Z",
-      "live_viewers": 3508,
+      "live_viewers": 3513,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-25T02:02:57.000Z",
       "start_scheduled": "2026-04-25T02:00:00.000Z",
       "start_actual": "2026-04-25T02:02:57.000Z",
-      "live_viewers": 2521,
+      "live_viewers": 2520,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-25T03:00:21.000Z",
       "start_scheduled": "2026-04-25T03:00:00.000Z",
       "start_actual": "2026-04-25T03:00:21.000Z",
-      "live_viewers": 17986,
+      "live_viewers": 18062,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-25T03:05:41.000Z",
       "start_scheduled": "2026-04-25T03:05:00.000Z",
       "start_actual": "2026-04-25T03:05:41.000Z",
-      "live_viewers": 1133,
+      "live_viewers": 1171,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-25T03:51:15.000Z",
       "start_scheduled": "2026-04-25T03:50:00.000Z",
       "start_actual": "2026-04-25T03:51:15.000Z",
-      "live_viewers": 2996,
+      "live_viewers": 3024,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-25T04:03:11.000Z",
       "start_scheduled": "2026-04-25T04:00:00.000Z",
       "start_actual": "2026-04-25T04:03:11.000Z",
-      "live_viewers": 18337,
+      "live_viewers": 18404,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -199,25 +199,6 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
-      "video_id": "Jitu5SVs78w",
-      "title": "【Tomodachi Life】MAKING CUSTOM TREASURES AND MAKING TROUBLE ALSO【Pavolia Reine/hololiveID】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-25T04:44:34.000Z",
-      "available_at": "2026-04-25T05:00:00.000Z",
-      "start_scheduled": "2026-04-25T05:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "name": "Pavolia Reine Ch. hololive-ID",
-        "english_name": "Pavolia Reine",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCK9V2B22uJYu3N7eR_BT9QA": {
@@ -249,7 +230,7 @@
       "available_at": "2026-04-25T05:00:12.000Z",
       "start_scheduled": "2026-04-25T05:00:00.000Z",
       "start_actual": "2026-04-25T05:00:12.000Z",
-      "live_viewers": 893,
+      "live_viewers": 1838,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -257,6 +238,26 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "Jitu5SVs78w",
+      "title": "【Tomodachi Life】MAKING CUSTOM TREASURES AND MAKING TROUBLE ALSO【Pavolia Reine/hololiveID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-25T04:44:34.000Z",
+      "available_at": "2026-04-25T05:02:27.000Z",
+      "start_scheduled": "2026-04-25T05:00:00.000Z",
+      "start_actual": "2026-04-25T05:02:27.000Z",
+      "live_viewers": 176,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
