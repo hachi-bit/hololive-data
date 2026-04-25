@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777108145,
+  "cached_at": 1777108205,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "PPO43lOYItI",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-25T02:01:40.000Z",
       "start_scheduled": "2026-04-25T02:00:00.000Z",
       "start_actual": "2026-04-25T02:01:40.000Z",
-      "live_viewers": 6007,
+      "live_viewers": 5994,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-25T05:02:27.000Z",
       "start_scheduled": "2026-04-25T05:00:00.000Z",
       "start_actual": "2026-04-25T05:02:27.000Z",
-      "live_viewers": 1304,
+      "live_viewers": 1303,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-25T06:00:42.000Z",
       "start_scheduled": "2026-04-25T06:00:00.000Z",
       "start_actual": "2026-04-25T06:00:42.000Z",
-      "live_viewers": 8096,
+      "live_viewers": 8037,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-25T08:04:54.000Z",
       "start_scheduled": "2026-04-25T08:00:00.000Z",
       "start_actual": "2026-04-25T08:04:54.000Z",
-      "live_viewers": 1698,
+      "live_viewers": 1688,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -139,26 +139,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp-5t9SrOQwXMU7iIjQfARg": {
-      "video_id": "WZEfe3uT0uE",
-      "title": "【歌枠】アニソン歌って上がる歌枠~~!!!【 ホロライブ / 大神ミオ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-04-25T08:10:47.000Z",
-      "available_at": "2026-04-25T08:11:46.000Z",
-      "start_scheduled": "2026-04-25T08:10:47.000Z",
-      "start_actual": "2026-04-25T08:11:46.000Z",
-      "live_viewers": 11976,
-      "channel": {
-        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-        "name": "Mio Channel 大神ミオ",
-        "english_name": "Ookami Mio",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCCzUftO8KOVkV4wQG1vkUvg": {
@@ -171,7 +151,7 @@
       "available_at": "2026-04-25T08:59:58.000Z",
       "start_scheduled": "2026-04-25T09:00:00.000Z",
       "start_actual": "2026-04-25T08:59:58.000Z",
-      "live_viewers": 13530,
+      "live_viewers": 17057,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-25T09:01:13.000Z",
       "start_scheduled": "2026-04-25T09:00:00.000Z",
       "start_actual": "2026-04-25T09:01:13.000Z",
-      "live_viewers": 2916,
+      "live_viewers": 4258,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-25T09:01:21.000Z",
       "start_scheduled": "2026-04-25T09:00:00.000Z",
       "start_actual": "2026-04-25T09:01:21.000Z",
-      "live_viewers": 1433,
+      "live_viewers": 1821,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
