@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777112105,
+  "cached_at": 1777112165,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "Jitu5SVs78w",
@@ -41,26 +41,6 @@
         "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "mLNyIp72Nvo",
-      "title": "【 Slay the Spire 2 】 A5が超えられないリージェント様とワイ 【白上フブキ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Slay_the_Spire",
-      "published_at": "2026-04-25T04:55:21.000Z",
-      "available_at": "2026-04-25T06:00:42.000Z",
-      "start_scheduled": "2026-04-25T06:00:00.000Z",
-      "start_actual": "2026-04-25T06:00:42.000Z",
-      "live_viewers": 7439,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "フブキCh。白上フブキ",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCt9H_RpQzhxzlyBxFqrdHqA": {
       "video_id": "GmcYjV6aTuA",
       "title": "【CHRONO TRIGGER OFF-COLLAB with CECILIA】is it too late for pancakes? 🐾【SPOILER WARNING|FUWAMOCO】",
@@ -71,7 +51,7 @@
       "available_at": "2026-04-25T07:10:20.000Z",
       "start_scheduled": "2026-04-25T07:15:00.000Z",
       "start_actual": "2026-04-25T07:10:20.000Z",
-      "live_viewers": 6120,
+      "live_viewers": 6113,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-25T08:59:58.000Z",
       "start_scheduled": "2026-04-25T09:00:00.000Z",
       "start_actual": "2026-04-25T08:59:58.000Z",
-      "live_viewers": 34950,
+      "live_viewers": 35093,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -161,25 +141,6 @@
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC10wVt6hoQiwySRhz7RdOUA": {
-      "video_id": "SesNnU4-lU4",
-      "title": "ReGLOSSで靴作ってみた【#作ってReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-04-25T10:00:06.000Z",
-      "available_at": "2026-04-25T10:00:06.000Z",
-      "start_scheduled": "2026-04-25T10:00:00.000Z",
-      "start_actual": "2026-04-25T10:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC10wVt6hoQiwySRhz7RdOUA",
-        "name": "hololive DEV_IS ReGLOSS",
-        "org": "Hololive",
-        "suborg": "0fOfficial",
-        "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCK9V2B22uJYu3N7eR_BT9QA": {
       "video_id": "NHv11o0ksOA",
       "title": "【トモコレ】#3 うちの島に恋の嵐、吹き荒れまくり【尾丸ポルカ/ホロライブ】",
@@ -200,6 +161,25 @@
         "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UC10wVt6hoQiwySRhz7RdOUA": {
+      "video_id": "SesNnU4-lU4",
+      "title": "ReGLOSSで靴作ってみた【#作ってReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-25T10:00:06.000Z",
+      "available_at": "2026-04-25T10:00:06.000Z",
+      "start_scheduled": "2026-04-25T10:00:00.000Z",
+      "start_actual": "2026-04-25T10:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC10wVt6hoQiwySRhz7RdOUA",
+        "name": "hololive DEV_IS ReGLOSS",
+        "org": "Hololive",
+        "suborg": "0fOfficial",
+        "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCjk2nKmHzgH5Xy-C5qYRd5A": {
       "video_id": "O6LReL-b5ig",
       "title": "【NELLコイルフトン】快適睡眠😴?すうちはが使ってみた🔧💙【水宮枢/ホロライブDEV_IS】",
@@ -210,7 +190,7 @@
       "available_at": "2026-04-25T10:00:08.000Z",
       "start_scheduled": "2026-04-25T10:00:00.000Z",
       "start_actual": "2026-04-25T10:00:08.000Z",
-      "live_viewers": 2200,
+      "live_viewers": 2309,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -230,7 +210,7 @@
       "available_at": "2026-04-25T10:01:06.000Z",
       "start_scheduled": "2026-04-25T10:00:00.000Z",
       "start_actual": "2026-04-25T10:01:06.000Z",
-      "live_viewers": 723,
+      "live_viewers": 796,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
