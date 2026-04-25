@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777127945,
+  "cached_at": 1777128005,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "35wDEg2ibfw",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-25T11:00:24.000Z",
       "start_scheduled": "2026-04-25T11:00:00.000Z",
       "start_actual": "2026-04-25T11:00:24.000Z",
-      "live_viewers": 16105,
+      "live_viewers": 16700,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -81,26 +81,6 @@
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC1iA6_NT4mtAcIII6ygrvCw": {
-      "video_id": "N1kL0qf_K9A",
-      "title": "【歌枠】アニソン縛りで歌っちゃお!【轟はじめ/ReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-04-25T11:37:12.000Z",
-      "available_at": "2026-04-25T13:00:26.000Z",
-      "start_scheduled": "2026-04-25T13:00:00.000Z",
-      "start_actual": "2026-04-25T13:00:26.000Z",
-      "live_viewers": 6825,
-      "channel": {
-        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-        "english_name": "Todoroki Hajime",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "uhZ27bLlc1A",
       "title": "【ぷちホロの村】ホロメンと過ごすスローライフの始まり!ぺこ!【ホロライブ/兎田ぺこら】",
@@ -131,7 +111,7 @@
       "available_at": "2026-04-25T13:00:59.000Z",
       "start_scheduled": "2026-04-25T13:00:00.000Z",
       "start_actual": "2026-04-25T13:00:59.000Z",
-      "live_viewers": 11205,
+      "live_viewers": 11283,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-25T14:02:16.000Z",
       "start_scheduled": "2026-04-25T14:00:00.000Z",
       "start_actual": "2026-04-25T14:02:16.000Z",
-      "live_viewers": 784,
+      "live_viewers": 814,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
