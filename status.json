@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777211405,
+  "cached_at": 1777211465,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "6yldqUgysNE",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-26T12:01:07.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:01:07.000Z",
-      "live_viewers": 3446,
+      "live_viewers": 3322,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-26T13:00:36.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:00:36.000Z",
-      "live_viewers": 421,
+      "live_viewers": 422,
       "channel": {
         "id": "UC1fvUNao61EenXh0KPFGSTg",
         "name": "Pinku Rimu",
@@ -351,7 +351,7 @@
       "available_at": "2026-04-26T13:05:16.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:05:16.000Z",
-      "live_viewers": 3038,
+      "live_viewers": 3392,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -359,26 +359,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
-      "video_id": "Lri_lJmao7c",
-      "title": "【ASMR】メン限お試し15分・微糖…?バイノーラルでお話☁️【水宮枢/ホロライブDEV_IS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "asmr",
-      "published_at": "2026-04-24T17:59:13.000Z",
-      "available_at": "2026-04-26T13:31:09.000Z",
-      "start_scheduled": "2026-04-26T13:30:00.000Z",
-      "start_actual": "2026-04-26T13:31:09.000Z",
-      "live_viewers": 4707,
-      "channel": {
-        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-        "name": "Su Ch. 水宮枢 - FLOW GLOW",
-        "english_name": "Mizumiya Su",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCp6993wxpyDPHUpavwDFqgg": {
@@ -391,7 +371,7 @@
       "available_at": "2026-04-26T13:33:08.000Z",
       "start_scheduled": "2026-04-26T13:30:00.000Z",
       "start_actual": "2026-04-26T13:33:08.000Z",
-      "live_viewers": 3989,
+      "live_viewers": 4483,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
