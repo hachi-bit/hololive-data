@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777203065,
+  "cached_at": 1777203125,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "6yldqUgysNE",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-26T08:30:28.000Z",
       "start_scheduled": "2026-04-26T08:30:00.000Z",
       "start_actual": "2026-04-26T08:30:28.000Z",
-      "live_viewers": 5127,
+      "live_viewers": 5167,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCAoy6rzhSf4ydcYjJw3WoVg": {
-      "video_id": "CEf2AbjfY48",
-      "title": "【People of Note】Turn Base RPG Rythm Game! 【 iofi / hololiveID 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-04-26T04:55:43.000Z",
-      "available_at": "2026-04-26T09:00:22.000Z",
-      "start_scheduled": "2026-04-26T09:00:00.000Z",
-      "start_actual": "2026-04-26T09:00:22.000Z",
-      "live_viewers": 779,
-      "channel": {
-        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-        "name": "Airani Iofifteen Channel hololive-ID",
-        "english_name": "Airani Iofifteen",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCUKD-uaobj9jiqB-VXt71mA": {
@@ -91,7 +71,7 @@
       "available_at": "2026-04-26T09:00:40.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:00:40.000Z",
-      "live_viewers": 7481,
+      "live_viewers": 7377,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-26T09:59:49.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T09:59:49.000Z",
-      "live_viewers": 382,
+      "live_viewers": 387,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -310,7 +290,7 @@
       "available_at": "2026-04-26T11:00:16.000Z",
       "start_scheduled": "2026-04-26T11:00:00.000Z",
       "start_actual": "2026-04-26T11:00:16.000Z",
-      "live_viewers": 13797,
+      "live_viewers": 14332,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -318,6 +298,25 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6t3-_N8A6ME1JShZHHqOMw": {
+      "video_id": "MBSScXgygkQ",
+      "title": "【#花岸新衣装】僕たちの悪、魅せます。【花咲みやび/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Outfit_Reveal",
+      "published_at": "2026-04-22T18:02:32.000Z",
+      "available_at": "2026-04-26T11:30:00.000Z",
+      "start_scheduled": "2026-04-26T11:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "english_name": "Hanasaki Miyabi",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
