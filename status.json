@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777210265,
+  "cached_at": 1777210325,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "6yldqUgysNE",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-26T11:00:16.000Z",
       "start_scheduled": "2026-04-26T11:00:00.000Z",
       "start_actual": "2026-04-26T11:00:16.000Z",
-      "live_viewers": 18026,
+      "live_viewers": 17943,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-26T12:01:39.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:01:39.000Z",
-      "live_viewers": 11218,
+      "live_viewers": 10906,
       "channel": {
         "id": "UC7fk0CB07ly8oSl0aqKkqFg",
         "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-26T12:02:31.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:02:31.000Z",
-      "live_viewers": 39190,
+      "live_viewers": 38327,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -271,7 +271,7 @@
       "available_at": "2026-04-26T13:00:36.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:00:36.000Z",
-      "live_viewers": 371,
+      "live_viewers": 404,
       "channel": {
         "id": "UC1fvUNao61EenXh0KPFGSTg",
         "name": "Pinku Rimu",
@@ -351,7 +351,7 @@
       "available_at": "2026-04-26T13:01:52.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:01:52.000Z",
-      "live_viewers": 8255,
+      "live_viewers": 8271,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -391,7 +391,7 @@
       "available_at": "2026-04-26T13:05:16.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:05:16.000Z",
-      "live_viewers": 3609,
+      "live_viewers": 4496,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -399,6 +399,44 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
+      "video_id": "Lri_lJmao7c",
+      "title": "【ASMR】メン限お試し15分・微糖…?バイノーラルでお話☁️【水宮枢/ホロライブDEV_IS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "asmr",
+      "published_at": "2026-04-24T17:59:13.000Z",
+      "available_at": "2026-04-26T13:30:00.000Z",
+      "start_scheduled": "2026-04-26T13:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+        "name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "english_name": "Mizumiya Su",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp6993wxpyDPHUpavwDFqgg": {
+      "video_id": "TWmREknspMs",
+      "title": "【ぷちホロの村 - 剣とお店と田舎暮らし】わたしものんびり生活がしたい!!【ホロライブ/ときのそら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-04-26T12:39:59.000Z",
+      "available_at": "2026-04-26T13:30:00.000Z",
+      "start_scheduled": "2026-04-26T13:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCp6993wxpyDPHUpavwDFqgg",
+        "name": "SoraCh. ときのそらチャンネル",
+        "english_name": "Tokino Sora",
+        "org": "Hololive",
+        "suborg": "0v0th Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
