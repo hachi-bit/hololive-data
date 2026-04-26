@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777208165,
+  "cached_at": 1777208225,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "6yldqUgysNE",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-26T08:30:28.000Z",
       "start_scheduled": "2026-04-26T08:30:00.000Z",
       "start_actual": "2026-04-26T08:30:28.000Z",
-      "live_viewers": 4411,
+      "live_viewers": 4423,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -41,26 +41,6 @@
         "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCUKD-uaobj9jiqB-VXt71mA": {
-      "video_id": "p3FNoCHQRrQ",
-      "title": "【ぷちホロの村】#02 大都会ホロ村の1日がはじまるー ぷちホロの村 - 剣とお店と田舎暮らし【獅白ぼたん/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "holoVillage",
-      "published_at": "2026-04-25T16:23:02.000Z",
-      "available_at": "2026-04-26T09:00:40.000Z",
-      "start_scheduled": "2026-04-26T09:00:00.000Z",
-      "start_actual": "2026-04-26T09:00:40.000Z",
-      "live_viewers": 5996,
-      "channel": {
-        "id": "UCUKD-uaobj9jiqB-VXt71mA",
-        "name": "Botan Ch.獅白ぼたん",
-        "english_name": "Shishiro Botan",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1uv2Oq6kNxgATlCiez59hw": {
       "video_id": "CnmB5uG-jbE",
       "title": "【 ぷちホロの村 】#1 スローライフと言えば!!!楽しみにしてた🎶【常闇トワ/ホロライブ】",
@@ -79,6 +59,26 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "p3FNoCHQRrQ",
+      "title": "【ぷちホロの村】#02 大都会ホロ村の1日がはじまるー ぷちホロの村 - 剣とお店と田舎暮らし【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-04-25T16:23:02.000Z",
+      "available_at": "2026-04-26T09:00:40.000Z",
+      "start_scheduled": "2026-04-26T09:00:00.000Z",
+      "start_actual": "2026-04-26T09:00:40.000Z",
+      "live_viewers": 5996,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
@@ -171,7 +171,7 @@
       "available_at": "2026-04-26T12:01:07.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:01:07.000Z",
-      "live_viewers": 3622,
+      "live_viewers": 3672,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-26T12:01:11.000Z",
       "start_scheduled": "2026-04-26T11:00:00.000Z",
       "start_actual": "2026-04-26T12:01:11.000Z",
-      "live_viewers": 4188,
+      "live_viewers": 4270,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-26T12:01:39.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:01:39.000Z",
-      "live_viewers": 11253,
+      "live_viewers": 11319,
       "channel": {
         "id": "UC7fk0CB07ly8oSl0aqKkqFg",
         "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-26T12:02:31.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:02:31.000Z",
-      "live_viewers": 45904,
+      "live_viewers": 45569,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-26T12:05:20.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:05:20.000Z",
-      "live_viewers": 1089,
+      "live_viewers": 1040,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -271,7 +271,7 @@
       "available_at": "2026-04-26T12:30:10.000Z",
       "start_scheduled": "2026-04-26T12:30:00.000Z",
       "start_actual": "2026-04-26T12:30:10.000Z",
-      "live_viewers": 931,
+      "live_viewers": 1015,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
