@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777205105,
+  "cached_at": 1777205169,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "6yldqUgysNE",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-26T08:30:28.000Z",
       "start_scheduled": "2026-04-26T08:30:00.000Z",
       "start_actual": "2026-04-26T08:30:28.000Z",
-      "live_viewers": 5090,
+      "live_viewers": 4848,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-26T09:00:03.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:00:03.000Z",
-      "live_viewers": 41228,
+      "live_viewers": 40321,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCUKD-uaobj9jiqB-VXt71mA": {
-      "video_id": "p3FNoCHQRrQ",
-      "title": "【ぷちホロの村】#02 大都会ホロ村の1日がはじまるー ぷちホロの村 - 剣とお店と田舎暮らし【獅白ぼたん/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "holoVillage",
-      "published_at": "2026-04-25T16:23:02.000Z",
-      "available_at": "2026-04-26T09:00:40.000Z",
-      "start_scheduled": "2026-04-26T09:00:00.000Z",
-      "start_actual": "2026-04-26T09:00:40.000Z",
-      "live_viewers": 7499,
-      "channel": {
-        "id": "UCUKD-uaobj9jiqB-VXt71mA",
-        "name": "Botan Ch.獅白ぼたん",
-        "english_name": "Shishiro Botan",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1uv2Oq6kNxgATlCiez59hw": {
@@ -81,6 +61,26 @@
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "p3FNoCHQRrQ",
+      "title": "【ぷちホロの村】#02 大都会ホロ村の1日がはじまるー ぷちホロの村 - 剣とお店と田舎暮らし【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-04-25T16:23:02.000Z",
+      "available_at": "2026-04-26T09:00:40.000Z",
+      "start_scheduled": "2026-04-26T09:00:00.000Z",
+      "start_actual": "2026-04-26T09:00:40.000Z",
+      "live_viewers": 7499,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "DRs3y6qfS7Q",
       "title": "【 スーパーマリオワールド 】完全初見!初めてのマリオワールドに挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-26T09:05:35.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:05:35.000Z",
-      "live_viewers": 6967,
+      "live_viewers": 6637,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-26T09:59:05.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T09:59:05.000Z",
-      "live_viewers": 194,
+      "live_viewers": 181,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "5dLxLkwISoI",
-      "title": "【 #ALEX祭 】アレックス祭 本番【荒咬オウガ /ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-04-26T03:41:40.000Z",
-      "available_at": "2026-04-26T09:59:49.000Z",
-      "start_scheduled": "2026-04-26T10:00:00.000Z",
-      "start_actual": "2026-04-26T09:59:49.000Z",
-      "live_viewers": 320,
-      "channel": {
-        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "name": "Oga Ch.荒咬オウガ",
-        "english_name": "Aragami Oga",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC7WY5VP-P-rSb2ES5npk8yA": {
@@ -161,6 +141,26 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kKgXX1_C3ff15DbzGZOh5ylpx_tUoPEQt52sfVrZKhAQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
+      "video_id": "5dLxLkwISoI",
+      "title": "【 #ALEX祭 】アレックス祭 本番【荒咬オウガ /ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-04-26T03:41:40.000Z",
+      "available_at": "2026-04-26T09:59:49.000Z",
+      "start_scheduled": "2026-04-26T10:00:00.000Z",
+      "start_actual": "2026-04-26T09:59:49.000Z",
+      "live_viewers": 294,
+      "channel": {
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "name": "Oga Ch.荒咬オウガ",
+        "english_name": "Aragami Oga",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCXUtikLthPFa5DDmgT3naGA": {
       "video_id": "OSvwcWQCEDk",
       "title": "【ストリートファイター6】 #ALEX祭 本番来ちゃー!!!ごー!アレックス!!!",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-26T10:00:00.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T10:00:00.000Z",
-      "live_viewers": 184,
+      "live_viewers": 174,
       "channel": {
         "id": "UCXUtikLthPFa5DDmgT3naGA",
         "name": "銀棘ぐみ / Gintoge Gumi",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-26T10:02:49.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T10:02:49.000Z",
-      "live_viewers": 6129,
+      "live_viewers": 5187,
       "channel": {
         "id": "UClhLb5qSZy0Gvn3c-HuaInQ",
         "name": "斜落せつな / Sharaku Setsuna",
@@ -271,7 +271,7 @@
       "available_at": "2026-04-26T11:31:27.000Z",
       "start_scheduled": "2026-04-26T11:30:00.000Z",
       "start_actual": "2026-04-26T11:31:27.000Z",
-      "live_viewers": 1523,
+      "live_viewers": 1493,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -291,7 +291,7 @@
       "available_at": "2026-04-26T11:59:29.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T11:59:29.000Z",
-      "live_viewers": 312,
+      "live_viewers": 376,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -318,44 +318,6 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC-hM6YJuNYVAmUWxeIr9FeA": {
-      "video_id": "PgNsGoQhtRc",
-      "title": "【 配信復帰 】ただいま!!!!!!!!!!!!!!!!!!【ホロライブ/さくらみこ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-04-26T04:28:06.000Z",
-      "available_at": "2026-04-26T12:00:00.000Z",
-      "start_scheduled": "2026-04-26T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-        "name": "Miko Ch. さくらみこ",
-        "english_name": "Sakura Miko",
-        "org": "Hololive",
-        "suborg": "0y0th Generation",
-        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC7fk0CB07ly8oSl0aqKkqFg": {
-      "video_id": "yXjPu4K1Vkg",
-      "title": "【雑談】遂にあれが来たッ・・・!【百鬼あやめ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-04-26T10:52:50.000Z",
-      "available_at": "2026-04-26T12:00:00.000Z",
-      "start_scheduled": "2026-04-26T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC7fk0CB07ly8oSl0aqKkqFg",
-        "name": "Nakiri Ayame Ch. 百鬼あやめ",
-        "english_name": "Nakiri Ayame",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCL_qhgtOy0dy1Agp8vkySQg": {
@@ -388,7 +350,7 @@
       "available_at": "2026-04-26T12:01:07.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:01:07.000Z",
-      "live_viewers": 1476,
+      "live_viewers": 2006,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -400,7 +362,7 @@
     },
     "UCdXAk5MpyLD8594lm_OvtGQ": {
       "video_id": "OqkEWHWRlRw",
-      "title": "【OMSI 2】静岡県沼津市へ遊びにいっちゃおう…！　OMSI 2 プロジェクト沼津をプレイしてみるよ！【儒烏風亭らでん #ReGLOSS 】",
+      "title": "【OMSI 2】静岡県沼津市へ遊びにいっちゃおう…! OMSI 2 プロジェクト沼津をプレイしてみるよ!【儒烏風亭らでん #ReGLOSS 】",
       "type": "stream",
       "status": "live",
       "topic_id": "none",
@@ -408,7 +370,7 @@
       "available_at": "2026-04-26T12:01:11.000Z",
       "start_scheduled": "2026-04-26T11:00:00.000Z",
       "start_actual": "2026-04-26T12:01:11.000Z",
-      "live_viewers": 2133,
+      "live_viewers": 2761,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -416,6 +378,46 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7fk0CB07ly8oSl0aqKkqFg": {
+      "video_id": "yXjPu4K1Vkg",
+      "title": "【雑談】遂にあれが来たッ・・・!【百鬼あやめ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-04-26T10:52:50.000Z",
+      "available_at": "2026-04-26T12:01:39.000Z",
+      "start_scheduled": "2026-04-26T12:00:00.000Z",
+      "start_actual": "2026-04-26T12:01:39.000Z",
+      "live_viewers": 5380,
+      "channel": {
+        "id": "UC7fk0CB07ly8oSl0aqKkqFg",
+        "name": "Nakiri Ayame Ch. 百鬼あやめ",
+        "english_name": "Nakiri Ayame",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC-hM6YJuNYVAmUWxeIr9FeA": {
+      "video_id": "PgNsGoQhtRc",
+      "title": "【 配信復帰 】ただいま!!!!!!!!!!!!!!!!!!【ホロライブ/さくらみこ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-26T04:28:06.000Z",
+      "available_at": "2026-04-26T12:02:31.000Z",
+      "start_scheduled": "2026-04-26T12:00:00.000Z",
+      "start_actual": "2026-04-26T12:02:31.000Z",
+      "live_viewers": 34168,
+      "channel": {
+        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+        "name": "Miko Ch. さくらみこ",
+        "english_name": "Sakura Miko",
+        "org": "Hololive",
+        "suborg": "0y0th Generation",
+        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
