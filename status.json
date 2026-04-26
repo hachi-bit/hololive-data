@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777230065,
+  "cached_at": 1777230127,
   "lives": {
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
       "video_id": "U2LCBHDmsmk",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-26T15:10:40.000Z",
       "start_scheduled": "2026-04-26T15:00:00.000Z",
       "start_actual": "2026-04-26T15:10:40.000Z",
-      "live_viewers": 920,
+      "live_viewers": 950,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-26T15:34:11.000Z",
       "start_scheduled": "2026-04-26T15:30:00.000Z",
       "start_actual": "2026-04-26T15:34:11.000Z",
-      "live_viewers": 287,
+      "live_viewers": 284,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-26T15:48:07.000Z",
       "start_scheduled": "2026-04-26T15:30:00.000Z",
       "start_actual": "2026-04-26T15:48:07.000Z",
-      "live_viewers": 218,
+      "live_viewers": 224,
       "channel": {
         "id": "UCUtKkGKef8BYMs3h-3zQm9A",
         "name": "Suha Channel 【NIJISANJI】",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-26T16:01:28.000Z",
       "start_scheduled": "2026-04-26T16:00:00.000Z",
       "start_actual": "2026-04-26T16:01:28.000Z",
-      "live_viewers": 7266,
+      "live_viewers": 7505,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
