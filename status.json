@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777215905,
+  "cached_at": 1777215965,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "DRs3y6qfS7Q",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-26T09:05:35.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:05:35.000Z",
-      "live_viewers": 2391,
+      "live_viewers": 2423,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-26T11:00:16.000Z",
       "start_scheduled": "2026-04-26T11:00:00.000Z",
       "start_actual": "2026-04-26T11:00:16.000Z",
-      "live_viewers": 12559,
+      "live_viewers": 4852,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-26T11:59:29.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T11:59:29.000Z",
-      "live_viewers": 703,
+      "live_viewers": 724,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-26T12:05:20.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:05:20.000Z",
-      "live_viewers": 1274,
+      "live_viewers": 1262,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCTvHWSfBZgtxE4sILOaurIQ": {
-      "video_id": "UhRZcBXoqnI",
-      "title": "cat",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-04-26T10:25:50.000Z",
-      "available_at": "2026-04-26T12:59:30.000Z",
-      "start_scheduled": "2026-04-26T13:00:00.000Z",
-      "start_actual": "2026-04-26T12:59:30.000Z",
-      "live_viewers": 1562,
-      "channel": {
-        "id": "UCTvHWSfBZgtxE4sILOaurIQ",
-        "name": "Vestia Zeta Ch. hololive-ID",
-        "english_name": "Vestia Zeta",
-        "org": "Hololive",
-        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-        "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvN5h1ShZtc7nly3pezRayg": {
@@ -191,7 +171,7 @@
       "available_at": "2026-04-26T13:01:52.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:01:52.000Z",
-      "live_viewers": 14384,
+      "live_viewers": 15052,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -271,7 +251,7 @@
       "available_at": "2026-04-26T14:01:50.000Z",
       "start_scheduled": "2026-04-26T14:00:00.000Z",
       "start_actual": "2026-04-26T14:01:50.000Z",
-      "live_viewers": 693,
+      "live_viewers": 778,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
