@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777198025,
+  "cached_at": 1777198085,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "KPwbBy9rWvo",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-26T08:57:32.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T08:57:32.000Z",
-      "live_viewers": 3242,
+      "live_viewers": 3106,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-26T09:00:03.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:00:03.000Z",
-      "live_viewers": 34447,
+      "live_viewers": 34188,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-26T09:05:35.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:05:35.000Z",
-      "live_viewers": 6269,
+      "live_viewers": 5983,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-26T09:59:05.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T09:59:05.000Z",
-      "live_viewers": 110,
+      "live_viewers": 119,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-26T09:59:15.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T09:59:15.000Z",
-      "live_viewers": 8499,
+      "live_viewers": 12922,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-26T09:59:17.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T09:59:17.000Z",
-      "live_viewers": 13805,
+      "live_viewers": 15508,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -259,26 +259,6 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "5dLxLkwISoI",
-      "title": "【 #ALEX祭 】アレックス祭 本番【荒咬オウガ /ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-04-26T03:41:40.000Z",
-      "available_at": "2026-04-26T09:59:49.000Z",
-      "start_scheduled": "2026-04-26T10:00:00.000Z",
-      "start_actual": "2026-04-26T09:59:49.000Z",
-      "live_viewers": 194,
-      "channel": {
-        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "name": "Oga Ch.荒咬オウガ",
-        "english_name": "Aragami Oga",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC7WY5VP-P-rSb2ES5npk8yA": {
@@ -291,7 +271,7 @@
       "available_at": "2026-04-26T09:59:49.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T09:59:49.000Z",
-      "live_viewers": 353,
+      "live_viewers": 423,
       "channel": {
         "id": "UC7WY5VP-P-rSb2ES5npk8yA",
         "name": "千羽 黒乃:Senba Channel",
@@ -299,6 +279,26 @@
         "org": "Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kKgXX1_C3ff15DbzGZOh5ylpx_tUoPEQt52sfVrZKhAQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
+      "video_id": "5dLxLkwISoI",
+      "title": "【 #ALEX祭 】アレックス祭 本番【荒咬オウガ /ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-04-26T03:41:40.000Z",
+      "available_at": "2026-04-26T09:59:49.000Z",
+      "start_scheduled": "2026-04-26T10:00:00.000Z",
+      "start_actual": "2026-04-26T09:59:49.000Z",
+      "live_viewers": 231,
+      "channel": {
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "name": "Oga Ch.荒咬オウガ",
+        "english_name": "Aragami Oga",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCXUtikLthPFa5DDmgT3naGA": {
@@ -311,7 +311,7 @@
       "available_at": "2026-04-26T10:00:00.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T10:00:00.000Z",
-      "live_viewers": 118,
+      "live_viewers": 159,
       "channel": {
         "id": "UCXUtikLthPFa5DDmgT3naGA",
         "name": "銀棘ぐみ / Gintoge Gumi",
@@ -319,25 +319,6 @@
         "org": ".LIVE",
         "suborg": "1eVPI 3rd Generation",
         "photo": "https://yt3.ggpht.com/WCSZxqRXh9NY86VEZA0uG9SIF7nMsVyklhhZQSEcpN3uZ_s4FwE3IMmr9R-oxDnSOa4cMG0K08k=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UClhLb5qSZy0Gvn3c-HuaInQ": {
-      "video_id": "ByiNToAZUNw",
-      "title": "【本配信】GO!ALEX祭 希望誕生🪽【STREET FIGHTER 6】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-04-24T09:14:17.000Z",
-      "available_at": "2026-04-26T10:00:00.000Z",
-      "start_scheduled": "2026-04-26T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UClhLb5qSZy0Gvn3c-HuaInQ",
-        "name": "斜落せつな / Sharaku Setsuna",
-        "english_name": "Sharaku Setsuna",
-        "org": ".LIVE",
-        "suborg": "1aVPI 1st Generation",
-        "photo": "https://yt3.ggpht.com/yKiH6-DnBhBi8cAFQ0UJVmk-Roa4oJbtti_7yGOfbPbAV52Y6ImhWyzlFlMhCPQlcNC6YUy2QPk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
@@ -350,7 +331,7 @@
       "available_at": "2026-04-26T10:00:23.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T10:00:23.000Z",
-      "live_viewers": 638,
+      "live_viewers": 836,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -370,7 +351,7 @@
       "available_at": "2026-04-26T10:00:45.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T10:00:45.000Z",
-      "live_viewers": 132,
+      "live_viewers": 196,
       "channel": {
         "id": "UCLK0cRXu3PY7cPbdWiVYemA",
         "name": "羽流鷲りりり / Ririri Channel【ななしいんく】",
@@ -378,6 +359,26 @@
         "org": "774inc",
         "suborg": "25Nanashiinku",
         "photo": "https://yt3.ggpht.com/CrRdj1eqKxWtN9kbkRejxPlNhIoikEhKubDWEPK4BtcJLbvumADzuBxwI_7Oar5PT22x1XQ2Jw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UClhLb5qSZy0Gvn3c-HuaInQ": {
+      "video_id": "ByiNToAZUNw",
+      "title": "【本配信】GO!ALEX祭 希望誕生🪽【STREET FIGHTER 6】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-04-24T09:14:17.000Z",
+      "available_at": "2026-04-26T10:02:49.000Z",
+      "start_scheduled": "2026-04-26T10:00:00.000Z",
+      "start_actual": "2026-04-26T10:02:49.000Z",
+      "live_viewers": 2135,
+      "channel": {
+        "id": "UClhLb5qSZy0Gvn3c-HuaInQ",
+        "name": "斜落せつな / Sharaku Setsuna",
+        "english_name": "Sharaku Setsuna",
+        "org": ".LIVE",
+        "suborg": "1aVPI 1st Generation",
+        "photo": "https://yt3.ggpht.com/yKiH6-DnBhBi8cAFQ0UJVmk-Roa4oJbtti_7yGOfbPbAV52Y6ImhWyzlFlMhCPQlcNC6YUy2QPk=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
