@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777172525,
+  "cached_at": 1777172585,
   "lives": {
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "duYIshsxbVE",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-25T23:59:47.000Z",
       "start_scheduled": "2026-04-26T00:00:00.000Z",
       "start_actual": "2026-04-25T23:59:47.000Z",
-      "live_viewers": 6970,
+      "live_viewers": 7039,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-26T00:15:08.000Z",
       "start_scheduled": "2026-04-26T00:15:00.000Z",
       "start_actual": "2026-04-26T00:15:08.000Z",
-      "live_viewers": 429,
+      "live_viewers": 410,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-26T00:58:12.000Z",
       "start_scheduled": "2026-04-26T01:00:00.000Z",
       "start_actual": "2026-04-26T00:58:12.000Z",
-      "live_viewers": 3465,
+      "live_viewers": 3654,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-26T01:04:35.000Z",
       "start_scheduled": "2026-04-26T01:00:00.000Z",
       "start_actual": "2026-04-26T01:04:35.000Z",
-      "live_viewers": 5142,
+      "live_viewers": 5143,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-26T02:24:19.000Z",
       "start_scheduled": "2026-04-26T02:30:00.000Z",
       "start_actual": "2026-04-26T02:24:19.000Z",
-      "live_viewers": 237,
+      "live_viewers": 229,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
@@ -199,6 +199,65 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC8rcEBzJSleTkf_-agPM20g": {
+      "video_id": "5qf0xjoRO9I",
+      "title": "【Mass Effect】It's Massive :o",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mass_Effect",
+      "published_at": "2026-04-25T18:47:13.000Z",
+      "available_at": "2026-04-26T03:00:00.000Z",
+      "start_scheduled": "2026-04-26T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC8rcEBzJSleTkf_-agPM20g",
+        "name": "IRyS Ch. hololive-EN",
+        "english_name": "IRyS",
+        "org": "Hololive",
+        "suborg": "iaEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "izdPUFk1lYs",
+      "title": "#5【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ!生まれた意味を知るRPGやる!TALES OF THE ABYSS ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tales_of",
+      "published_at": "2026-04-25T13:03:19.000Z",
+      "available_at": "2026-04-26T03:00:09.000Z",
+      "start_scheduled": "2026-04-26T03:00:00.000Z",
+      "start_actual": "2026-04-26T03:00:09.000Z",
+      "live_viewers": 3241,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTVSOgYuSWmNAt-lnJPkEEw": {
+      "video_id": "F9oVuXAp8Ew",
+      "title": "【TOMODACHI LIFE: LIVING THE DREAM】MY ISLAND LIFE WITH A TWIST",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-24T14:26:10.000Z",
+      "available_at": "2026-04-26T03:00:13.000Z",
+      "start_scheduled": "2026-04-26T03:00:00.000Z",
+      "start_actual": "2026-04-26T03:00:13.000Z",
+      "live_viewers": 155,
+      "channel": {
+        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
+        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
+        "english_name": "Jurard T Rexford",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
