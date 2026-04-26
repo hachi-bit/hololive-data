@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777208465,
+  "cached_at": 1777208526,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "6yldqUgysNE",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-26T09:00:03.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:00:03.000Z",
-      "live_viewers": 38518,
+      "live_viewers": 38520,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-26T09:00:40.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:00:40.000Z",
-      "live_viewers": 5372,
+      "live_viewers": 5498,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-26T09:00:40.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:00:40.000Z",
-      "live_viewers": 3958,
+      "live_viewers": 3896,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-26T11:00:16.000Z",
       "start_scheduled": "2026-04-26T11:00:00.000Z",
       "start_actual": "2026-04-26T11:00:16.000Z",
-      "live_viewers": 18539,
+      "live_viewers": 18268,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-26T12:01:07.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:01:07.000Z",
-      "live_viewers": 3672,
+      "live_viewers": 3596,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-26T12:01:39.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:01:39.000Z",
-      "live_viewers": 11319,
+      "live_viewers": 11521,
       "channel": {
         "id": "UC7fk0CB07ly8oSl0aqKkqFg",
         "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-26T12:02:31.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:02:31.000Z",
-      "live_viewers": 45569,
+      "live_viewers": 44268,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-26T12:05:20.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:05:20.000Z",
-      "live_viewers": 1040,
+      "live_viewers": 1128,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -271,7 +271,7 @@
       "available_at": "2026-04-26T12:30:10.000Z",
       "start_scheduled": "2026-04-26T12:30:00.000Z",
       "start_actual": "2026-04-26T12:30:10.000Z",
-      "live_viewers": 1013,
+      "live_viewers": 1012,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -279,6 +279,179 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTvHWSfBZgtxE4sILOaurIQ": {
+      "video_id": "UhRZcBXoqnI",
+      "title": "cat",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-26T10:25:50.000Z",
+      "available_at": "2026-04-26T12:59:30.000Z",
+      "start_scheduled": "2026-04-26T13:00:00.000Z",
+      "start_actual": "2026-04-26T12:59:30.000Z",
+      "live_viewers": 492,
+      "channel": {
+        "id": "UCTvHWSfBZgtxE4sILOaurIQ",
+        "name": "Vestia Zeta Ch. hololive-ID",
+        "english_name": "Vestia Zeta",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "eyMNTLaE-Kg",
+      "title": "【 ぷちホロの村 - 剣とお店と田舎暮らし 】このゲームをプレイする夢を見たんだ【角巻わため/ホロライブ4期生】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-04-25T21:10:04.000Z",
+      "available_at": "2026-04-26T13:00:00.000Z",
+      "start_scheduled": "2026-04-26T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFKOVgVbGmX65RxO3EtH3iw": {
+      "video_id": "_MDo3l7mztY",
+      "title": "【メンバー限定】日曜日の夜にまったりメン限【雪花ラミィ /ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-04-26T11:42:20.000Z",
+      "available_at": "2026-04-26T13:00:00.000Z",
+      "start_scheduled": "2026-04-26T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+        "name": "Lamy Ch. 雪花ラミィ",
+        "english_name": "Yukihana Lamy",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1fvUNao61EenXh0KPFGSTg": {
+      "video_id": "mk7Q2AcuZGQ",
+      "title": "OLIMPIADE MATEMATIKA WITH MASTER @KureijiOllie 😱",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-26T03:39:20.000Z",
+      "available_at": "2026-04-26T13:00:00.000Z",
+      "start_scheduled": "2026-04-26T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1fvUNao61EenXh0KPFGSTg",
+        "name": "Pinku Rimu",
+        "english_name": "Pinku Rimu",
+        "org": "ReMemories",
+        "suborg": "1g4th Generation",
+        "photo": "https://yt3.ggpht.com/MrwENv1bnICNbbaZowZcbTR6aCjxFp9EVOBnQHVtaoe5_1h_8X6Dxsw8RpYDd-wVojktxYb2CQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvN5h1ShZtc7nly3pezRayg": {
+      "video_id": "rQ8vgiY-alM",
+      "title": "【RESIDENT EVIL REQUIEM】@HakosBaelz  be courageous and FACE YOUR FEARS [Spoilers Ahead]",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-04-21T07:08:31.000Z",
+      "available_at": "2026-04-26T13:00:00.000Z",
+      "start_scheduled": "2026-04-26T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvN5h1ShZtc7nly3pezRayg",
+        "name": "Cecilia Immergreen Ch. hololive-EN",
+        "english_name": "Cecilia Immergreen",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
+      "video_id": "0XApCMYKTm0",
+      "title": "メン限 4月もおわり【奏手イヅル】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-26T12:59:13.000Z",
+      "available_at": "2026-04-26T13:00:00.000Z",
+      "start_scheduled": "2026-04-26T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "english_name": "Kanade Izuru",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFTLzh12_nrtzqBPsTCqenA": {
+      "video_id": "8VuVf4o2DvI",
+      "title": "【APEX】新モニターでエペやる!w.ドリさん、ズズ【ホロライブ/アキロゼ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "apex",
+      "published_at": "2026-04-26T12:24:30.000Z",
+      "available_at": "2026-04-26T13:00:00.000Z",
+      "start_scheduled": "2026-04-26T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCFTLzh12_nrtzqBPsTCqenA",
+        "name": "アキロゼCh。Vtuber/ホロライブ所属",
+        "english_name": "Aki Rosenthal",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAoy6rzhSf4ydcYjJw3WoVg": {
+      "video_id": "2sqc1UbmUZU",
+      "title": "BALLS BALLS BALLS BALLS!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-04-26T05:07:46.000Z",
+      "available_at": "2026-04-26T13:00:00.000Z",
+      "start_scheduled": "2026-04-26T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+        "name": "Airani Iofifteen Channel hololive-ID",
+        "english_name": "Airani Iofifteen",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1iA6_NT4mtAcIII6ygrvCw": {
+      "video_id": "mOHUwttMa2A",
+      "title": "【鬼サザエトリ】ぼく、サザエとる【轟はじめ/ReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Goblin_Gnome_Horn",
+      "published_at": "2026-04-26T09:48:53.000Z",
+      "available_at": "2026-04-26T13:00:09.000Z",
+      "start_scheduled": "2026-04-26T13:00:00.000Z",
+      "start_actual": "2026-04-26T13:00:09.000Z",
+      "live_viewers": 976,
+      "channel": {
+        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+        "english_name": "Todoroki Hajime",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
