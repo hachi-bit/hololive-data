@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777180805,
+  "cached_at": 1777180866,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "hqCjk45WeRM",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-26T00:15:08.000Z",
       "start_scheduled": "2026-04-26T00:15:00.000Z",
       "start_actual": "2026-04-26T00:15:08.000Z",
-      "live_viewers": 322,
+      "live_viewers": 305,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
-      "video_id": "0rEqPPwPOGI",
-      "title": "≪Tomodachi Life: Living the Dream≫ how cursed can I make this....",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-25T12:03:31.000Z",
-      "available_at": "2026-04-26T01:01:32.000Z",
-      "start_scheduled": "2026-04-26T01:00:00.000Z",
-      "start_actual": "2026-04-26T01:01:32.000Z",
-      "live_viewers": 6281,
-      "channel": {
-        "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "name": "Hakos Baelz Ch. hololive-EN",
-        "english_name": "Hakos Baelz",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC060r4zABV18vcahAWR1n7w": {
@@ -51,7 +31,7 @@
       "available_at": "2026-04-26T01:02:15.000Z",
       "start_scheduled": "2026-04-26T01:00:00.000Z",
       "start_actual": "2026-04-26T01:02:15.000Z",
-      "live_viewers": 366,
+      "live_viewers": 374,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -91,7 +71,7 @@
       "available_at": "2026-04-26T02:24:19.000Z",
       "start_scheduled": "2026-04-26T02:30:00.000Z",
       "start_actual": "2026-04-26T02:24:19.000Z",
-      "live_viewers": 287,
+      "live_viewers": 289,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-26T03:00:09.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:00:09.000Z",
-      "live_viewers": 17982,
+      "live_viewers": 18437,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +131,7 @@
       "available_at": "2026-04-26T03:04:03.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:04:03.000Z",
-      "live_viewers": 6297,
+      "live_viewers": 8851,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
