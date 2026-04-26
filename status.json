@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777187285,
+  "cached_at": 1777187345,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "aWL00l2F-kU",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-26T03:00:13.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:00:13.000Z",
-      "live_viewers": 711,
+      "live_viewers": 725,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-26T03:04:03.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:04:03.000Z",
-      "live_viewers": 7271,
+      "live_viewers": 7315,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-26T04:02:58.000Z",
       "start_scheduled": "2026-04-26T04:00:00.000Z",
       "start_actual": "2026-04-26T04:02:58.000Z",
-      "live_viewers": 27266,
+      "live_viewers": 27236,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -188,9 +188,10 @@
       "status": "live",
       "topic_id": "Horse_racing",
       "published_at": "2026-04-25T09:30:15.000Z",
-      "available_at": "2026-04-26T07:00:00.000Z",
+      "available_at": "2026-04-26T07:04:21.000Z",
       "start_scheduled": "2026-04-26T07:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-26T07:04:21.000Z",
+      "live_viewers": 2645,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
