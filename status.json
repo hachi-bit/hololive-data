@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777210445,
+  "cached_at": 1777210505,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "6yldqUgysNE",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-26T09:00:03.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:00:03.000Z",
-      "live_viewers": 36633,
+      "live_viewers": 35775,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-26T09:05:35.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:05:35.000Z",
-      "live_viewers": 2612,
+      "live_viewers": 2577,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-26T11:00:16.000Z",
       "start_scheduled": "2026-04-26T11:00:00.000Z",
       "start_actual": "2026-04-26T11:00:16.000Z",
-      "live_viewers": 17943,
+      "live_viewers": 18164,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-26T12:01:07.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:01:07.000Z",
-      "live_viewers": 3356,
+      "live_viewers": 3446,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-26T12:05:20.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:05:20.000Z",
-      "live_viewers": 1170,
+      "live_viewers": 1128,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-26T12:59:30.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T12:59:30.000Z",
-      "live_viewers": 1408,
+      "live_viewers": 1434,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-26T13:00:09.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:00:09.000Z",
-      "live_viewers": 3807,
+      "live_viewers": 3855,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -271,7 +271,7 @@
       "available_at": "2026-04-26T13:00:36.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:00:36.000Z",
-      "live_viewers": 404,
+      "live_viewers": 411,
       "channel": {
         "id": "UC1fvUNao61EenXh0KPFGSTg",
         "name": "Pinku Rimu",
@@ -311,7 +311,7 @@
       "available_at": "2026-04-26T13:01:33.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:01:33.000Z",
-      "live_viewers": 6203,
+      "live_viewers": 6519,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -391,7 +391,7 @@
       "available_at": "2026-04-26T13:05:16.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:05:16.000Z",
-      "live_viewers": 4496,
+      "live_viewers": 5187,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -399,25 +399,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
-      "video_id": "Lri_lJmao7c",
-      "title": "【ASMR】メン限お試し15分・微糖…?バイノーラルでお話☁️【水宮枢/ホロライブDEV_IS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "asmr",
-      "published_at": "2026-04-24T17:59:13.000Z",
-      "available_at": "2026-04-26T13:30:00.000Z",
-      "start_scheduled": "2026-04-26T13:30:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-        "name": "Su Ch. 水宮枢 - FLOW GLOW",
-        "english_name": "Mizumiya Su",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCp6993wxpyDPHUpavwDFqgg": {
@@ -437,6 +418,26 @@
         "org": "Hololive",
         "suborg": "0v0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
+      "video_id": "Lri_lJmao7c",
+      "title": "【ASMR】メン限お試し15分・微糖…?バイノーラルでお話☁️【水宮枢/ホロライブDEV_IS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "asmr",
+      "published_at": "2026-04-24T17:59:13.000Z",
+      "available_at": "2026-04-26T13:31:09.000Z",
+      "start_scheduled": "2026-04-26T13:30:00.000Z",
+      "start_actual": "2026-04-26T13:31:09.000Z",
+      "live_viewers": 2463,
+      "channel": {
+        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+        "name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "english_name": "Mizumiya Su",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
