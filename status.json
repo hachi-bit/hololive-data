@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777201625,
+  "cached_at": 1777201685,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "6yldqUgysNE",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-26T09:00:03.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:00:03.000Z",
-      "live_viewers": 39667,
+      "live_viewers": 39369,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -61,26 +61,6 @@
         "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCUKD-uaobj9jiqB-VXt71mA": {
-      "video_id": "p3FNoCHQRrQ",
-      "title": "【ぷちホロの村】#02 大都会ホロ村の1日がはじまるー ぷちホロの村 - 剣とお店と田舎暮らし【獅白ぼたん/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "holoVillage",
-      "published_at": "2026-04-25T16:23:02.000Z",
-      "available_at": "2026-04-26T09:00:40.000Z",
-      "start_scheduled": "2026-04-26T09:00:00.000Z",
-      "start_actual": "2026-04-26T09:00:40.000Z",
-      "live_viewers": 7102,
-      "channel": {
-        "id": "UCUKD-uaobj9jiqB-VXt71mA",
-        "name": "Botan Ch.獅白ぼたん",
-        "english_name": "Shishiro Botan",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1uv2Oq6kNxgATlCiez59hw": {
       "video_id": "CnmB5uG-jbE",
       "title": "【 ぷちホロの村 】#1 スローライフと言えば!!!楽しみにしてた🎶【常闇トワ/ホロライブ】",
@@ -99,6 +79,26 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "p3FNoCHQRrQ",
+      "title": "【ぷちホロの村】#02 大都会ホロ村の1日がはじまるー ぷちホロの村 - 剣とお店と田舎暮らし【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-04-25T16:23:02.000Z",
+      "available_at": "2026-04-26T09:00:40.000Z",
+      "start_scheduled": "2026-04-26T09:00:00.000Z",
+      "start_actual": "2026-04-26T09:00:40.000Z",
+      "live_viewers": 7514,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
@@ -131,7 +131,7 @@
       "available_at": "2026-04-26T09:59:05.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T09:59:05.000Z",
-      "live_viewers": 209,
+      "live_viewers": 190,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -139,26 +139,6 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "5dLxLkwISoI",
-      "title": "【 #ALEX祭 】アレックス祭 本番【荒咬オウガ /ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-04-26T03:41:40.000Z",
-      "available_at": "2026-04-26T09:59:49.000Z",
-      "start_scheduled": "2026-04-26T10:00:00.000Z",
-      "start_actual": "2026-04-26T09:59:49.000Z",
-      "live_viewers": 400,
-      "channel": {
-        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "name": "Oga Ch.荒咬オウガ",
-        "english_name": "Aragami Oga",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC7WY5VP-P-rSb2ES5npk8yA": {
@@ -171,7 +151,7 @@
       "available_at": "2026-04-26T09:59:49.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T09:59:49.000Z",
-      "live_viewers": 909,
+      "live_viewers": 912,
       "channel": {
         "id": "UC7WY5VP-P-rSb2ES5npk8yA",
         "name": "千羽 黒乃:Senba Channel",
@@ -179,6 +159,26 @@
         "org": "Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kKgXX1_C3ff15DbzGZOh5ylpx_tUoPEQt52sfVrZKhAQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
+      "video_id": "5dLxLkwISoI",
+      "title": "【 #ALEX祭 】アレックス祭 本番【荒咬オウガ /ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-04-26T03:41:40.000Z",
+      "available_at": "2026-04-26T09:59:49.000Z",
+      "start_scheduled": "2026-04-26T10:00:00.000Z",
+      "start_actual": "2026-04-26T09:59:49.000Z",
+      "live_viewers": 402,
+      "channel": {
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "name": "Oga Ch.荒咬オウガ",
+        "english_name": "Aragami Oga",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCXUtikLthPFa5DDmgT3naGA": {
@@ -251,7 +251,7 @@
       "available_at": "2026-04-26T10:02:49.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T10:02:49.000Z",
-      "live_viewers": 6684,
+      "live_viewers": 6617,
       "channel": {
         "id": "UClhLb5qSZy0Gvn3c-HuaInQ",
         "name": "斜落せつな / Sharaku Setsuna",
@@ -290,7 +290,7 @@
       "available_at": "2026-04-26T11:00:05.000Z",
       "start_scheduled": "2026-04-26T11:00:00.000Z",
       "start_actual": "2026-04-26T11:00:05.000Z",
-      "live_viewers": 656,
+      "live_viewers": 831,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -310,7 +310,7 @@
       "available_at": "2026-04-26T11:00:16.000Z",
       "start_scheduled": "2026-04-26T11:00:00.000Z",
       "start_actual": "2026-04-26T11:00:16.000Z",
-      "live_viewers": 5786,
+      "live_viewers": 7787,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
