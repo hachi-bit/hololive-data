@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777199405,
+  "cached_at": 1777199465,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "KPwbBy9rWvo",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-26T02:00:46.000Z",
       "start_scheduled": "2026-04-26T02:00:00.000Z",
       "start_actual": "2026-04-26T02:00:46.000Z",
-      "live_viewers": 2319,
+      "live_viewers": 2305,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-26T03:04:03.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:04:03.000Z",
-      "live_viewers": 3690,
+      "live_viewers": 3619,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-26T08:57:32.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T08:57:32.000Z",
-      "live_viewers": 3060,
+      "live_viewers": 3099,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-26T09:00:03.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:00:03.000Z",
-      "live_viewers": 35306,
+      "live_viewers": 34776,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -121,26 +121,6 @@
         "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCUKD-uaobj9jiqB-VXt71mA": {
-      "video_id": "p3FNoCHQRrQ",
-      "title": "【ぷちホロの村】#02 大都会ホロ村の1日がはじまるー ぷちホロの村 - 剣とお店と田舎暮らし【獅白ぼたん/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "holoVillage",
-      "published_at": "2026-04-25T16:23:02.000Z",
-      "available_at": "2026-04-26T09:00:40.000Z",
-      "start_scheduled": "2026-04-26T09:00:00.000Z",
-      "start_actual": "2026-04-26T09:00:40.000Z",
-      "live_viewers": 6086,
-      "channel": {
-        "id": "UCUKD-uaobj9jiqB-VXt71mA",
-        "name": "Botan Ch.獅白ぼたん",
-        "english_name": "Shishiro Botan",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1uv2Oq6kNxgATlCiez59hw": {
       "video_id": "CnmB5uG-jbE",
       "title": "【 ぷちホロの村 】#1 スローライフと言えば!!!楽しみにしてた🎶【常闇トワ/ホロライブ】",
@@ -159,6 +139,26 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "p3FNoCHQRrQ",
+      "title": "【ぷちホロの村】#02 大都会ホロ村の1日がはじまるー ぷちホロの村 - 剣とお店と田舎暮らし【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-04-25T16:23:02.000Z",
+      "available_at": "2026-04-26T09:00:40.000Z",
+      "start_scheduled": "2026-04-26T09:00:00.000Z",
+      "start_actual": "2026-04-26T09:00:40.000Z",
+      "live_viewers": 6132,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
@@ -191,7 +191,7 @@
       "available_at": "2026-04-26T09:59:05.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T09:59:05.000Z",
-      "live_viewers": 179,
+      "live_viewers": 178,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-26T09:59:15.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T09:59:15.000Z",
-      "live_viewers": 19821,
+      "live_viewers": 20258,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-26T09:59:17.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T09:59:17.000Z",
-      "live_viewers": 20466,
+      "live_viewers": 20872,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-26T09:59:49.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T09:59:49.000Z",
-      "live_viewers": 334,
+      "live_viewers": 329,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -271,7 +271,7 @@
       "available_at": "2026-04-26T09:59:49.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T09:59:49.000Z",
-      "live_viewers": 642,
+      "live_viewers": 658,
       "channel": {
         "id": "UC7WY5VP-P-rSb2ES5npk8yA",
         "name": "千羽 黒乃:Senba Channel",
@@ -291,7 +291,7 @@
       "available_at": "2026-04-26T10:00:00.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T10:00:00.000Z",
-      "live_viewers": 184,
+      "live_viewers": 191,
       "channel": {
         "id": "UCXUtikLthPFa5DDmgT3naGA",
         "name": "銀棘ぐみ / Gintoge Gumi",
@@ -311,7 +311,7 @@
       "available_at": "2026-04-26T10:00:23.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T10:00:23.000Z",
-      "live_viewers": 1375,
+      "live_viewers": 1452,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -331,7 +331,7 @@
       "available_at": "2026-04-26T10:00:45.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T10:00:45.000Z",
-      "live_viewers": 346,
+      "live_viewers": 359,
       "channel": {
         "id": "UCLK0cRXu3PY7cPbdWiVYemA",
         "name": "羽流鷲りりり / Ririri Channel【ななしいんく】",
@@ -351,7 +351,7 @@
       "available_at": "2026-04-26T10:02:49.000Z",
       "start_scheduled": "2026-04-26T10:00:00.000Z",
       "start_actual": "2026-04-26T10:02:49.000Z",
-      "live_viewers": 5100,
+      "live_viewers": 5467,
       "channel": {
         "id": "UClhLb5qSZy0Gvn3c-HuaInQ",
         "name": "斜落せつな / Sharaku Setsuna",
