@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777219385,
+  "cached_at": 1777219444,
   "lives": {
     "UChSvpZYRPh0FvG4SJGSga3g": {
       "video_id": "YO0Zzzz2-ns",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-26T12:30:10.000Z",
       "start_scheduled": "2026-04-26T12:30:00.000Z",
       "start_actual": "2026-04-26T12:30:10.000Z",
-      "live_viewers": 1561,
+      "live_viewers": 1495,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-26T13:01:52.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:01:52.000Z",
-      "live_viewers": 16282,
+      "live_viewers": 16215,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-26T13:33:08.000Z",
       "start_scheduled": "2026-04-26T13:30:00.000Z",
       "start_actual": "2026-04-26T13:33:08.000Z",
-      "live_viewers": 8730,
+      "live_viewers": 8633,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-26T15:10:40.000Z",
       "start_scheduled": "2026-04-26T15:00:00.000Z",
       "start_actual": "2026-04-26T15:10:40.000Z",
-      "live_viewers": 1087,
+      "live_viewers": 1032,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-26T15:14:51.000Z",
       "start_scheduled": "2026-04-26T15:00:00.000Z",
       "start_actual": "2026-04-26T15:14:51.000Z",
-      "live_viewers": 277,
+      "live_viewers": 276,
       "channel": {
         "id": "UCez5D_dtExDJzQOAzg1k1RQ",
         "name": "折咲もしゅch-Moshu Orisaki-",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-26T15:34:11.000Z",
       "start_scheduled": "2026-04-26T15:30:00.000Z",
       "start_actual": "2026-04-26T15:34:11.000Z",
-      "live_viewers": 188,
+      "live_viewers": 200,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -179,6 +179,25 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCHsx4Hqa-1ORjQTh9TYDhww": {
+      "video_id": "G056d3IIO-M",
+      "title": "【TOMODACHI LIFE 2】MANY NEW ADDITIONS...!!! And surprising relations... #kfp #キアライブ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-25T23:36:09.000Z",
+      "available_at": "2026-04-26T16:00:00.000Z",
+      "start_scheduled": "2026-04-26T16:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+        "name": "Takanashi Kiara Ch. hololive-EN",
+        "english_name": "Takanashi Kiara",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
