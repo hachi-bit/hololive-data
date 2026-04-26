@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777171625,
+  "cached_at": 1777171685,
   "lives": {
-    "UC9p_lqQ0FEDz327Vgf5JwqA": {
-      "video_id": "FQmt3juKGQ4",
-      "title": "【Tomodachi Life: Living the Dream】I want more CHAOS!!!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-25T16:08:00.000Z",
-      "available_at": "2026-04-25T22:55:20.000Z",
-      "start_scheduled": "2026-04-25T23:00:00.000Z",
-      "start_actual": "2026-04-25T22:55:20.000Z",
-      "live_viewers": 6825,
-      "channel": {
-        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-        "name": "Koseki Bijou Ch. hololive-EN",
-        "english_name": "Koseki Bijou",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "duYIshsxbVE",
       "title": "【 ドラゴンボールZ KAKAROT 】完全初見!そして10年後編・・・!!!【鷹嶺ルイ/ホロライブ】※ネタバレあり",
@@ -31,7 +11,7 @@
       "available_at": "2026-04-25T23:59:47.000Z",
       "start_scheduled": "2026-04-26T00:00:00.000Z",
       "start_actual": "2026-04-25T23:59:47.000Z",
-      "live_viewers": 8281,
+      "live_viewers": 7847,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-26T01:00:19.000Z",
       "start_scheduled": "2026-04-26T01:00:00.000Z",
       "start_actual": "2026-04-26T01:00:19.000Z",
-      "live_viewers": 8428,
+      "live_viewers": 8179,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -131,7 +111,7 @@
       "available_at": "2026-04-26T01:01:32.000Z",
       "start_scheduled": "2026-04-26T01:00:00.000Z",
       "start_actual": "2026-04-26T01:01:32.000Z",
-      "live_viewers": 3988,
+      "live_viewers": 6445,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-26T01:04:35.000Z",
       "start_scheduled": "2026-04-26T01:00:00.000Z",
       "start_actual": "2026-04-26T01:04:35.000Z",
-      "live_viewers": 5028,
+      "live_viewers": 4999,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-26T02:00:46.000Z",
       "start_scheduled": "2026-04-26T02:00:00.000Z",
       "start_actual": "2026-04-26T02:00:46.000Z",
-      "live_viewers": 4975,
+      "live_viewers": 5185,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-26T02:24:19.000Z",
       "start_scheduled": "2026-04-26T02:30:00.000Z",
       "start_actual": "2026-04-26T02:24:19.000Z",
-      "live_viewers": 192,
+      "live_viewers": 204,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
