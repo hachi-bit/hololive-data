@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777185725,
+  "cached_at": 1777185785,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "aWL00l2F-kU",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-26T03:04:03.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:04:03.000Z",
-      "live_viewers": 7504,
+      "live_viewers": 7320,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-26T04:02:58.000Z",
       "start_scheduled": "2026-04-26T04:00:00.000Z",
       "start_actual": "2026-04-26T04:02:58.000Z",
-      "live_viewers": 26836,
+      "live_viewers": 27331,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-26T05:31:05.000Z",
       "start_scheduled": "2026-04-26T05:30:00.000Z",
       "start_actual": "2026-04-26T05:31:05.000Z",
-      "live_viewers": 2849,
+      "live_viewers": 2936,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-26T05:31:17.000Z",
       "start_scheduled": "2026-04-26T05:30:00.000Z",
       "start_actual": "2026-04-26T05:31:17.000Z",
-      "live_viewers": 2375,
+      "live_viewers": 2454,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
