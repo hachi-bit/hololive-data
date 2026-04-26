@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777225985,
+  "cached_at": 1777226045,
   "lives": {
     "UCP0BspO_AMEe3aQqqpo89Dg": {
       "video_id": "692T4WINJNo",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-26T13:05:16.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:05:16.000Z",
-      "live_viewers": 3753,
+      "live_viewers": 3627,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-26T15:14:51.000Z",
       "start_scheduled": "2026-04-26T15:00:00.000Z",
       "start_actual": "2026-04-26T15:14:51.000Z",
-      "live_viewers": 283,
+      "live_viewers": 277,
       "channel": {
         "id": "UCez5D_dtExDJzQOAzg1k1RQ",
         "name": "折咲もしゅch-Moshu Orisaki-",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-26T16:01:28.000Z",
       "start_scheduled": "2026-04-26T16:00:00.000Z",
       "start_actual": "2026-04-26T16:01:28.000Z",
-      "live_viewers": 6718,
+      "live_viewers": 6747,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -128,9 +128,10 @@
       "status": "live",
       "topic_id": "League_of_Legends",
       "published_at": "2026-04-26T17:29:53.000Z",
-      "available_at": "2026-04-26T17:45:00.000Z",
+      "available_at": "2026-04-26T17:50:43.000Z",
       "start_scheduled": "2026-04-26T17:45:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-26T17:50:43.000Z",
+      "live_viewers": 133,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
