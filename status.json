@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777190645,
+  "cached_at": 1777190705,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "aWL00l2F-kU",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-26T03:00:09.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:00:09.000Z",
-      "live_viewers": 19278,
+      "live_viewers": 19784,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-26T03:04:03.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:04:03.000Z",
-      "live_viewers": 6866,
+      "live_viewers": 6914,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -99,46 +99,6 @@
         "org": "Hololive",
         "suborg": "iaEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvzGlP9oQwU--Y0r9id_jnA": {
-      "video_id": "OD5WdwUo7tM",
-      "title": "【#10】LOST JUDGMENT：裁かれざる記憶【※ネタバレあり】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Judgment",
-      "published_at": "2026-04-23T17:17:24.000Z",
-      "available_at": "2026-04-26T04:02:58.000Z",
-      "start_scheduled": "2026-04-26T04:00:00.000Z",
-      "start_actual": "2026-04-26T04:02:58.000Z",
-      "live_viewers": 21241,
-      "channel": {
-        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-        "name": "Subaru Ch. 大空スバル",
-        "english_name": "Oozora Subaru",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCK9V2B22uJYu3N7eR_BT9QA": {
-      "video_id": "FI9WoA7J_mk",
-      "title": "【フローラS・マイラーズC】競馬配信🔰春の重賞はまだまだ続く・・・【尾丸ポルカ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Horse_racing",
-      "published_at": "2026-04-26T05:02:35.000Z",
-      "available_at": "2026-04-26T05:31:17.000Z",
-      "start_scheduled": "2026-04-26T05:30:00.000Z",
-      "start_actual": "2026-04-26T05:31:17.000Z",
-      "live_viewers": 1766,
-      "channel": {
-        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-        "name": "Polka Ch. 尾丸ポルカ",
-        "english_name": "Omaru Polka",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
@@ -151,7 +111,7 @@
       "available_at": "2026-04-26T07:04:21.000Z",
       "start_scheduled": "2026-04-26T07:00:00.000Z",
       "start_actual": "2026-04-26T07:04:21.000Z",
-      "live_viewers": 4696,
+      "live_viewers": 4549,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
