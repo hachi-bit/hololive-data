@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777181645,
+  "cached_at": 1777181705,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "hqCjk45WeRM",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-26T03:00:09.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:00:09.000Z",
-      "live_viewers": 18420,
+      "live_viewers": 18604,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-26T03:00:13.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:00:13.000Z",
-      "live_viewers": 698,
+      "live_viewers": 680,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-26T03:04:03.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:04:03.000Z",
-      "live_viewers": 8647,
+      "live_viewers": 8330,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-26T03:55:17.000Z",
       "start_scheduled": "2026-04-26T04:00:00.000Z",
       "start_actual": "2026-04-26T03:55:17.000Z",
-      "live_viewers": 5498,
+      "live_viewers": 5478,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -188,9 +188,10 @@
       "status": "live",
       "topic_id": "Horse_racing",
       "published_at": "2026-04-25T20:24:11.000Z",
-      "available_at": "2026-04-26T05:30:00.000Z",
+      "available_at": "2026-04-26T05:31:05.000Z",
       "start_scheduled": "2026-04-26T05:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-26T05:31:05.000Z",
+      "live_viewers": 906,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -207,9 +208,10 @@
       "status": "live",
       "topic_id": "Horse_racing",
       "published_at": "2026-04-25T09:25:38.000Z",
-      "available_at": "2026-04-26T05:30:00.000Z",
+      "available_at": "2026-04-26T05:31:14.000Z",
       "start_scheduled": "2026-04-26T05:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-26T05:31:14.000Z",
+      "live_viewers": 1510,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -226,9 +228,10 @@
       "status": "live",
       "topic_id": "Horse_racing",
       "published_at": "2026-04-26T05:02:35.000Z",
-      "available_at": "2026-04-26T05:30:00.000Z",
+      "available_at": "2026-04-26T05:31:17.000Z",
       "start_scheduled": "2026-04-26T05:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-26T05:31:17.000Z",
+      "live_viewers": 679,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
