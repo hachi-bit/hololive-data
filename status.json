@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777209005,
+  "cached_at": 1777209065,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "6yldqUgysNE",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-26T09:00:03.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:00:03.000Z",
-      "live_viewers": 39257,
+      "live_viewers": 40412,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-26T09:00:40.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:00:40.000Z",
-      "live_viewers": 5394,
+      "live_viewers": 5490,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-26T12:01:07.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:01:07.000Z",
-      "live_viewers": 3596,
+      "live_viewers": 3507,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-26T12:01:11.000Z",
       "start_scheduled": "2026-04-26T11:00:00.000Z",
       "start_actual": "2026-04-26T12:01:11.000Z",
-      "live_viewers": 4383,
+      "live_viewers": 4230,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-26T12:01:39.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:01:39.000Z",
-      "live_viewers": 11515,
+      "live_viewers": 11383,
       "channel": {
         "id": "UC7fk0CB07ly8oSl0aqKkqFg",
         "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-26T12:30:10.000Z",
       "start_scheduled": "2026-04-26T12:30:00.000Z",
       "start_actual": "2026-04-26T12:30:10.000Z",
-      "live_viewers": 1067,
+      "live_viewers": 1046,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -271,7 +271,7 @@
       "available_at": "2026-04-26T12:59:30.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T12:59:30.000Z",
-      "live_viewers": 1219,
+      "live_viewers": 1216,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -300,25 +300,6 @@
         "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCFKOVgVbGmX65RxO3EtH3iw": {
-      "video_id": "_MDo3l7mztY",
-      "title": "【メンバー限定】日曜日の夜にまったりメン限【雪花ラミィ /ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-04-26T11:42:20.000Z",
-      "available_at": "2026-04-26T13:00:00.000Z",
-      "start_scheduled": "2026-04-26T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
-        "name": "Lamy Ch. 雪花ラミィ",
-        "english_name": "Yukihana Lamy",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCZgOv3YDEs-ZnZWDYVwJdmA": {
       "video_id": "0XApCMYKTm0",
       "title": "メン限 4月もおわり【奏手イヅル】",
@@ -338,6 +319,25 @@
         "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCFKOVgVbGmX65RxO3EtH3iw": {
+      "video_id": "_MDo3l7mztY",
+      "title": "【メンバー限定】日曜日の夜にまったりメン限【雪花ラミィ /ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-04-26T11:42:20.000Z",
+      "available_at": "2026-04-26T13:00:00.000Z",
+      "start_scheduled": "2026-04-26T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+        "name": "Lamy Ch. 雪花ラミィ",
+        "english_name": "Yukihana Lamy",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UC1iA6_NT4mtAcIII6ygrvCw": {
       "video_id": "mOHUwttMa2A",
       "title": "【鬼サザエトリ】ぼく、サザエとる【轟はじめ/ReGLOSS】",
@@ -348,7 +348,7 @@
       "available_at": "2026-04-26T13:00:09.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:00:09.000Z",
-      "live_viewers": 2678,
+      "live_viewers": 2994,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -368,7 +368,7 @@
       "available_at": "2026-04-26T13:00:36.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:00:36.000Z",
-      "live_viewers": 219,
+      "live_viewers": 256,
       "channel": {
         "id": "UC1fvUNao61EenXh0KPFGSTg",
         "name": "Pinku Rimu",
@@ -388,7 +388,7 @@
       "available_at": "2026-04-26T13:01:33.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:01:33.000Z",
-      "live_viewers": 3449,
+      "live_viewers": 4051,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -408,7 +408,7 @@
       "available_at": "2026-04-26T13:01:52.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:01:52.000Z",
-      "live_viewers": 4009,
+      "live_viewers": 4843,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -428,7 +428,7 @@
       "available_at": "2026-04-26T13:05:16.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:05:16.000Z",
-      "live_viewers": 1659,
+      "live_viewers": 2703,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
