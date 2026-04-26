@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777161785,
+  "cached_at": 1777161845,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "FQmt3juKGQ4",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-25T22:55:20.000Z",
       "start_scheduled": "2026-04-25T23:00:00.000Z",
       "start_actual": "2026-04-25T22:55:20.000Z",
-      "live_viewers": 7047,
+      "live_viewers": 7060,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -19,6 +19,64 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "duYIshsxbVE",
+      "title": "【 ドラゴンボールZ KAKAROT 】完全初見!そして10年後編・・・!!!【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dragon_Ball_Z:_Kakarot",
+      "published_at": "2026-04-25T09:22:25.000Z",
+      "available_at": "2026-04-25T23:59:47.000Z",
+      "start_scheduled": "2026-04-26T00:00:00.000Z",
+      "start_actual": "2026-04-25T23:59:47.000Z",
+      "live_viewers": 1455,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCajbFh6e_R8QZdHAMbbi4rQ": {
+      "video_id": "HwSAD0JtC1s",
+      "title": "Sing Your Heart Out, Holostar【UNARCHIVED KARAOKE】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-04-25T17:15:14.000Z",
+      "available_at": "2026-04-26T00:00:00.000Z",
+      "start_scheduled": "2026-04-26T00:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+        "english_name": "Crimzon Ruze",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCMwGHR0BTZuLsmjY_NT5Pwg": {
+      "video_id": "Md7Fi0Na_PI",
+      "title": "【MEMBERS】Drawn to Dawn Watchalong!!!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-04-25T23:08:53.000Z",
+      "available_at": "2026-04-26T00:00:00.000Z",
+      "start_scheduled": "2026-04-26T00:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "name": "Ninomae Ina'nis Ch. hololive-EN",
+        "english_name": "Ninomae Ina'nis",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
