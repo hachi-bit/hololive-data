@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777181945,
+  "cached_at": 1777182005,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "hqCjk45WeRM",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-26T00:15:08.000Z",
       "start_scheduled": "2026-04-26T00:15:00.000Z",
       "start_actual": "2026-04-26T00:15:08.000Z",
-      "live_viewers": 305,
+      "live_viewers": 299,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-26T02:00:46.000Z",
       "start_scheduled": "2026-04-26T02:00:00.000Z",
       "start_actual": "2026-04-26T02:00:46.000Z",
-      "live_viewers": 6919,
+      "live_viewers": 6837,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-26T03:00:09.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:00:09.000Z",
-      "live_viewers": 18604,
+      "live_viewers": 18596,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-26T03:04:03.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:04:03.000Z",
-      "live_viewers": 8231,
+      "live_viewers": 8235,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-26T05:31:05.000Z",
       "start_scheduled": "2026-04-26T05:30:00.000Z",
       "start_actual": "2026-04-26T05:31:05.000Z",
-      "live_viewers": 1298,
+      "live_viewers": 1477,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-26T05:31:14.000Z",
       "start_scheduled": "2026-04-26T05:30:00.000Z",
       "start_actual": "2026-04-26T05:31:14.000Z",
-      "live_viewers": 2165,
+      "live_viewers": 2380,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-26T05:31:17.000Z",
       "start_scheduled": "2026-04-26T05:30:00.000Z",
       "start_actual": "2026-04-26T05:31:17.000Z",
-      "live_viewers": 1067,
+      "live_viewers": 1159,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
