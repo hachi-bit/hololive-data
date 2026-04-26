@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777226164,
+  "cached_at": 1777226225,
   "lives": {
-    "UCP0BspO_AMEe3aQqqpo89Dg": {
-      "video_id": "692T4WINJNo",
-      "title": "【Tomodachi Life: Living the Dream】First time playing!【hololive | moona】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-24T04:58:20.000Z",
-      "available_at": "2026-04-26T12:30:10.000Z",
-      "start_scheduled": "2026-04-26T12:30:00.000Z",
-      "start_actual": "2026-04-26T12:30:10.000Z",
-      "live_viewers": 1341,
-      "channel": {
-        "id": "UCP0BspO_AMEe3aQqqpo89Dg",
-        "name": "Moona Hoshinova hololive-ID",
-        "english_name": "Moona Hoshinova",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCFTLzh12_nrtzqBPsTCqenA": {
       "video_id": "8VuVf4o2DvI",
       "title": "【APEX】新モニターでエペやる!w.ドリさん、ズズ【ホロライブ/アキロゼ】",
@@ -91,7 +71,7 @@
       "available_at": "2026-04-26T15:34:11.000Z",
       "start_scheduled": "2026-04-26T15:30:00.000Z",
       "start_actual": "2026-04-26T15:34:11.000Z",
-      "live_viewers": 310,
+      "live_viewers": 318,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-26T16:01:28.000Z",
       "start_scheduled": "2026-04-26T16:00:00.000Z",
       "start_actual": "2026-04-26T16:01:28.000Z",
-      "live_viewers": 6747,
+      "live_viewers": 7002,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -131,7 +111,7 @@
       "available_at": "2026-04-26T17:50:43.000Z",
       "start_scheduled": "2026-04-26T17:45:00.000Z",
       "start_actual": "2026-04-26T17:50:43.000Z",
-      "live_viewers": 133,
+      "live_viewers": 149,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
