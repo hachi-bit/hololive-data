@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777206665,
+  "cached_at": 1777206725,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "6yldqUgysNE",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-26T09:00:03.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:00:03.000Z",
-      "live_viewers": 38863,
+      "live_viewers": 39203,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCUKD-uaobj9jiqB-VXt71mA": {
-      "video_id": "p3FNoCHQRrQ",
-      "title": "【ぷちホロの村】#02 大都会ホロ村の1日がはじまるー ぷちホロの村 - 剣とお店と田舎暮らし【獅白ぼたん/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "holoVillage",
-      "published_at": "2026-04-25T16:23:02.000Z",
-      "available_at": "2026-04-26T09:00:40.000Z",
-      "start_scheduled": "2026-04-26T09:00:00.000Z",
-      "start_actual": "2026-04-26T09:00:40.000Z",
-      "live_viewers": 6858,
-      "channel": {
-        "id": "UCUKD-uaobj9jiqB-VXt71mA",
-        "name": "Botan Ch.獅白ぼたん",
-        "english_name": "Shishiro Botan",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1uv2Oq6kNxgATlCiez59hw": {
@@ -71,7 +51,7 @@
       "available_at": "2026-04-26T09:00:40.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:00:40.000Z",
-      "live_viewers": 5799,
+      "live_viewers": 5715,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -79,6 +59,26 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "p3FNoCHQRrQ",
+      "title": "【ぷちホロの村】#02 大都会ホロ村の1日がはじまるー ぷちホロの村 - 剣とお店と田舎暮らし【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-04-25T16:23:02.000Z",
+      "available_at": "2026-04-26T09:00:40.000Z",
+      "start_scheduled": "2026-04-26T09:00:00.000Z",
+      "start_actual": "2026-04-26T09:00:40.000Z",
+      "live_viewers": 6746,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCc88OV45ICgHbn3ZqLLb52w": {
-      "video_id": "AiUayNJmuPw",
-      "title": "STREET FIGHTER 6 #ALEX祭｜GO!ALEX祭 大会本番 - 夜十神封魔 / ホロスターズ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-04-25T16:52:51.000Z",
-      "available_at": "2026-04-26T09:59:05.000Z",
-      "start_scheduled": "2026-04-26T10:00:00.000Z",
-      "start_actual": "2026-04-26T09:59:05.000Z",
-      "live_viewers": 183,
-      "channel": {
-        "id": "UCc88OV45ICgHbn3ZqLLb52w",
-        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-        "english_name": "Yatogami Fuma",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC7WY5VP-P-rSb2ES5npk8yA": {
@@ -171,7 +151,7 @@
       "available_at": "2026-04-26T11:59:29.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T11:59:29.000Z",
-      "live_viewers": 825,
+      "live_viewers": 863,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-26T12:01:07.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:01:07.000Z",
-      "live_viewers": 3512,
+      "live_viewers": 3565,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -231,7 +211,7 @@
       "available_at": "2026-04-26T12:01:11.000Z",
       "start_scheduled": "2026-04-26T11:00:00.000Z",
       "start_actual": "2026-04-26T12:01:11.000Z",
-      "live_viewers": 4197,
+      "live_viewers": 4175,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -251,7 +231,7 @@
       "available_at": "2026-04-26T12:01:39.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:01:39.000Z",
-      "live_viewers": 10502,
+      "live_viewers": 10681,
       "channel": {
         "id": "UC7fk0CB07ly8oSl0aqKkqFg",
         "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -271,7 +251,7 @@
       "available_at": "2026-04-26T12:02:31.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:02:31.000Z",
-      "live_viewers": 49440,
+      "live_viewers": 49242,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -291,7 +271,7 @@
       "available_at": "2026-04-26T12:05:20.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:05:20.000Z",
-      "live_viewers": 861,
+      "live_viewers": 885,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -299,6 +279,26 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCP0BspO_AMEe3aQqqpo89Dg": {
+      "video_id": "692T4WINJNo",
+      "title": "【Tomodachi Life: Living the Dream】First time playing!【hololive | moona】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-24T04:58:20.000Z",
+      "available_at": "2026-04-26T12:30:10.000Z",
+      "start_scheduled": "2026-04-26T12:30:00.000Z",
+      "start_actual": "2026-04-26T12:30:10.000Z",
+      "live_viewers": 180,
+      "channel": {
+        "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+        "name": "Moona Hoshinova hololive-ID",
+        "english_name": "Moona Hoshinova",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
