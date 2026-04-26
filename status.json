@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777174385,
+  "cached_at": 1777174445,
   "lives": {
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "duYIshsxbVE",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-25T23:59:47.000Z",
       "start_scheduled": "2026-04-26T00:00:00.000Z",
       "start_actual": "2026-04-25T23:59:47.000Z",
-      "live_viewers": 7912,
+      "live_viewers": 7978,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-26T01:00:19.000Z",
       "start_scheduled": "2026-04-26T01:00:00.000Z",
       "start_actual": "2026-04-26T01:00:19.000Z",
-      "live_viewers": 5826,
+      "live_viewers": 5594,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -141,26 +141,6 @@
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCt9H_RpQzhxzlyBxFqrdHqA": {
-      "video_id": "nlPYABsRG8o",
-      "title": "【1000 DAYS CELEBRATION】protecting your smile for 1000 days 🐾💕 【FUWAMOCO】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "celebration",
-      "published_at": "2026-04-24T06:44:37.000Z",
-      "available_at": "2026-04-26T01:04:35.000Z",
-      "start_scheduled": "2026-04-26T01:00:00.000Z",
-      "start_actual": "2026-04-26T01:04:35.000Z",
-      "live_viewers": 4821,
-      "channel": {
-        "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
-        "name": "FUWAMOCO Ch. hololive-EN",
-        "english_name": "Fuwawa & Mococo Abyssgard",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "KPwbBy9rWvo",
       "title": "【プラグマタ】クリアまで!!ディアナに浄化される😭✨カプコンさん渾身の完全新作、やるよー!! #2 【博衣こより/ホロライブ】※ネタバレを含みます",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-26T02:24:19.000Z",
       "start_scheduled": "2026-04-26T02:30:00.000Z",
       "start_actual": "2026-04-26T02:24:19.000Z",
-      "live_viewers": 233,
+      "live_viewers": 243,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-26T03:00:09.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:00:09.000Z",
-      "live_viewers": 14116,
+      "live_viewers": 14246,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -231,7 +211,7 @@
       "available_at": "2026-04-26T03:00:13.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:00:13.000Z",
-      "live_viewers": 595,
+      "live_viewers": 626,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -251,7 +231,7 @@
       "available_at": "2026-04-26T03:04:03.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:04:03.000Z",
-      "live_viewers": 4853,
+      "live_viewers": 5049,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
