@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777246625,
+  "cached_at": 1777246685,
   "lives": {
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
       "video_id": "kszNEQA1IcE",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-26T21:46:18.000Z",
       "start_scheduled": "2026-04-26T21:45:00.000Z",
       "start_actual": "2026-04-26T21:46:18.000Z",
-      "live_viewers": 1066,
+      "live_viewers": 996,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp-5t9SrOQwXMU7iIjQfARg": {
-      "video_id": "5TjBUCjv64A",
-      "title": "【#朝ミオ 】月曜日だよ~!おはみぉーん!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "News_Show",
-      "published_at": "2026-04-26T11:49:12.000Z",
-      "available_at": "2026-04-26T22:30:17.000Z",
-      "start_scheduled": "2026-04-26T22:30:00.000Z",
-      "start_actual": "2026-04-26T22:30:17.000Z",
-      "live_viewers": 13198,
-      "channel": {
-        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-        "name": "Mio Channel 大神ミオ",
-        "english_name": "Ookami Mio",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
@@ -71,7 +51,7 @@
       "available_at": "2026-04-26T22:56:14.000Z",
       "start_scheduled": "2026-04-26T23:00:00.000Z",
       "start_actual": "2026-04-26T22:56:14.000Z",
-      "live_viewers": 3161,
+      "live_viewers": 3443,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
