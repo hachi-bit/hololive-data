@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777244285,
+  "cached_at": 1777244345,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "jt9FlT61OW0",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-26T22:30:17.000Z",
       "start_scheduled": "2026-04-26T22:30:00.000Z",
       "start_actual": "2026-04-26T22:30:17.000Z",
-      "live_viewers": 14201,
+      "live_viewers": 14384,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -79,6 +79,26 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9p_lqQ0FEDz327Vgf5JwqA": {
+      "video_id": "H-v9YPl0aw4",
+      "title": "【PRAGMATA】I will raise her without weakness.",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PRAGMATA",
+      "published_at": "2026-04-26T17:20:30.000Z",
+      "available_at": "2026-04-26T22:56:14.000Z",
+      "start_scheduled": "2026-04-26T23:00:00.000Z",
+      "start_actual": "2026-04-26T22:56:14.000Z",
+      "live_viewers": 776,
+      "channel": {
+        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+        "name": "Koseki Bijou Ch. hololive-EN",
+        "english_name": "Koseki Bijou",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
