@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777185305,
+  "cached_at": 1777185365,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "aWL00l2F-kU",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-26T03:00:09.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:00:09.000Z",
-      "live_viewers": 17869,
+      "live_viewers": 17939,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-26T03:04:03.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:04:03.000Z",
-      "live_viewers": 7490,
+      "live_viewers": 7504,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-26T05:31:05.000Z",
       "start_scheduled": "2026-04-26T05:30:00.000Z",
       "start_actual": "2026-04-26T05:31:05.000Z",
-      "live_viewers": 2792,
+      "live_viewers": 2882,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-26T05:31:14.000Z",
       "start_scheduled": "2026-04-26T05:30:00.000Z",
       "start_actual": "2026-04-26T05:31:14.000Z",
-      "live_viewers": 7614,
+      "live_viewers": 7901,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
