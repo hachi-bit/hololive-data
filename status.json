@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777176125,
+  "cached_at": 1777176185,
   "lives": {
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "duYIshsxbVE",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-26T01:00:19.000Z",
       "start_scheduled": "2026-04-26T01:00:00.000Z",
       "start_actual": "2026-04-26T01:00:19.000Z",
-      "live_viewers": 5065,
+      "live_viewers": 4971,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-26T01:01:32.000Z",
       "start_scheduled": "2026-04-26T01:00:00.000Z",
       "start_actual": "2026-04-26T01:01:32.000Z",
-      "live_viewers": 6683,
+      "live_viewers": 6783,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-26T02:24:19.000Z",
       "start_scheduled": "2026-04-26T02:30:00.000Z",
       "start_actual": "2026-04-26T02:24:19.000Z",
-      "live_viewers": 257,
+      "live_viewers": 263,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-26T03:04:03.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:04:03.000Z",
-      "live_viewers": 6022,
+      "live_viewers": 6061,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-26T03:55:17.000Z",
       "start_scheduled": "2026-04-26T04:00:00.000Z",
       "start_actual": "2026-04-26T03:55:17.000Z",
-      "live_viewers": 2967,
+      "live_viewers": 3496,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -219,6 +219,25 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvzGlP9oQwU--Y0r9id_jnA": {
+      "video_id": "OD5WdwUo7tM",
+      "title": "【#10】LOST JUDGMENT：裁かれざる記憶【※ネタバレあり】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Judgment",
+      "published_at": "2026-04-23T17:17:24.000Z",
+      "available_at": "2026-04-26T04:00:00.000Z",
+      "start_scheduled": "2026-04-26T04:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+        "name": "Subaru Ch. 大空スバル",
+        "english_name": "Oozora Subaru",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
