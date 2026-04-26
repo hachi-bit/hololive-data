@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777215726,
+  "cached_at": 1777215785,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "DRs3y6qfS7Q",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-26T11:00:16.000Z",
       "start_scheduled": "2026-04-26T11:00:00.000Z",
       "start_actual": "2026-04-26T11:00:16.000Z",
-      "live_viewers": 19051,
+      "live_viewers": 12559,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-26T13:01:33.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:01:33.000Z",
-      "live_viewers": 9505,
+      "live_viewers": 9509,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -279,6 +279,44 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKeAhJvy8zgXWbh9duVjIaQ": {
+      "video_id": "U2LCBHDmsmk",
+      "title": "【人喰ノ檻 - KLETKA】何も悪いことしてないのに囚人になりました。脱出します【アルランディス/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "KLETKA",
+      "published_at": "2026-04-25T05:52:33.000Z",
+      "available_at": "2026-04-26T15:00:00.000Z",
+      "start_scheduled": "2026-04-26T15:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "english_name": "Arurandeisu",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCez5D_dtExDJzQOAzg1k1RQ": {
+      "video_id": "g0ILvBGrc68",
+      "title": "【 # 人喰ノ檻 - KLETKA】人喰いエレベーターvsオワ軍【#折咲もしゅ #MOSHULIVE #REJECT】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "KLETKA",
+      "published_at": "2026-04-26T11:43:45.000Z",
+      "available_at": "2026-04-26T15:00:00.000Z",
+      "start_scheduled": "2026-04-26T15:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCez5D_dtExDJzQOAzg1k1RQ",
+        "name": "折咲もしゅch-Moshu Orisaki-",
+        "english_name": "Orisaki Moshu",
+        "org": "Independents",
+        "suborg": "reREJECT",
+        "photo": "https://yt3.ggpht.com/Go2Zwoy_FnXEEYwxhVaEvJ7yIii0bc5415GAS7tpWkX-MGVvbvYfp5a6svtSC4isPBvopLbnPA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
