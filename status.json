@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777213625,
+  "cached_at": 1777213686,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "DRs3y6qfS7Q",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-26T09:05:35.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:05:35.000Z",
-      "live_viewers": 2496,
+      "live_viewers": 2474,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-26T11:00:16.000Z",
       "start_scheduled": "2026-04-26T11:00:00.000Z",
       "start_actual": "2026-04-26T11:00:16.000Z",
-      "live_viewers": 19347,
+      "live_viewers": 19282,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-26T12:01:07.000Z",
       "start_scheduled": "2026-04-26T12:00:00.000Z",
       "start_actual": "2026-04-26T12:01:07.000Z",
-      "live_viewers": 3162,
+      "live_viewers": 3039,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC7fk0CB07ly8oSl0aqKkqFg": {
-      "video_id": "yXjPu4K1Vkg",
-      "title": "【雑談】遂にあれが来たッ・・・!【百鬼あやめ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-04-26T10:52:50.000Z",
-      "available_at": "2026-04-26T12:01:39.000Z",
-      "start_scheduled": "2026-04-26T12:00:00.000Z",
-      "start_actual": "2026-04-26T12:01:39.000Z",
-      "live_viewers": 9182,
-      "channel": {
-        "id": "UC7fk0CB07ly8oSl0aqKkqFg",
-        "name": "Nakiri Ayame Ch. 百鬼あやめ",
-        "english_name": "Nakiri Ayame",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChSvpZYRPh0FvG4SJGSga3g": {
@@ -191,7 +171,7 @@
       "available_at": "2026-04-26T13:00:09.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:00:09.000Z",
-      "live_viewers": 4842,
+      "live_viewers": 4769,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-26T13:00:36.000Z",
       "start_scheduled": "2026-04-26T13:00:00.000Z",
       "start_actual": "2026-04-26T13:00:36.000Z",
-      "live_viewers": 402,
+      "live_viewers": 400,
       "channel": {
         "id": "UC1fvUNao61EenXh0KPFGSTg",
         "name": "Pinku Rimu",
@@ -391,7 +371,7 @@
       "available_at": "2026-04-26T14:01:50.000Z",
       "start_scheduled": "2026-04-26T14:00:00.000Z",
       "start_actual": "2026-04-26T14:01:50.000Z",
-      "live_viewers": 543,
+      "live_viewers": 549,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
