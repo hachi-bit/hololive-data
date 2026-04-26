@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777229945,
+  "cached_at": 1777230005,
   "lives": {
-    "UCFTLzh12_nrtzqBPsTCqenA": {
-      "video_id": "8VuVf4o2DvI",
-      "title": "【APEX】新モニターでエペやる!w.ドリさん、ズズ【ホロライブ/アキロゼ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "apex",
-      "published_at": "2026-04-26T12:24:30.000Z",
-      "available_at": "2026-04-26T13:05:16.000Z",
-      "start_scheduled": "2026-04-26T13:00:00.000Z",
-      "start_actual": "2026-04-26T13:05:16.000Z",
-      "live_viewers": 3114,
-      "channel": {
-        "id": "UCFTLzh12_nrtzqBPsTCqenA",
-        "name": "アキロゼCh。Vtuber/ホロライブ所属",
-        "english_name": "Aki Rosenthal",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
       "video_id": "U2LCBHDmsmk",
       "title": "【人喰ノ檻 - KLETKA】何も悪いことしてないのに囚人になりました。脱出します【アルランディス/ホロスターズ】",
@@ -71,7 +51,7 @@
       "available_at": "2026-04-26T15:34:11.000Z",
       "start_scheduled": "2026-04-26T15:30:00.000Z",
       "start_actual": "2026-04-26T15:34:11.000Z",
-      "live_viewers": 288,
+      "live_viewers": 287,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -131,7 +111,7 @@
       "available_at": "2026-04-26T17:50:43.000Z",
       "start_scheduled": "2026-04-26T17:45:00.000Z",
       "start_actual": "2026-04-26T17:50:43.000Z",
-      "live_viewers": 263,
+      "live_viewers": 245,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
