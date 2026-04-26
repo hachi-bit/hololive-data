@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777227125,
+  "cached_at": 1777227185,
   "lives": {
     "UCFTLzh12_nrtzqBPsTCqenA": {
       "video_id": "8VuVf4o2DvI",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-26T17:50:43.000Z",
       "start_scheduled": "2026-04-26T17:45:00.000Z",
       "start_actual": "2026-04-26T17:50:43.000Z",
-      "live_viewers": 206,
+      "live_viewers": 211,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -128,8 +128,9 @@
       "status": "live",
       "topic_id": "membersonly",
       "published_at": "2026-04-12T02:32:09.000Z",
-      "available_at": "2026-04-26T18:00:00.000Z",
+      "available_at": "2026-04-26T18:04:25.000Z",
       "start_scheduled": "2026-04-26T18:00:00.000Z",
+      "start_actual": "2026-04-26T18:04:25.000Z",
       "live_viewers": 0,
       "channel": {
         "id": "UCW5uhrG1eCBYditmhL0Ykjw",
