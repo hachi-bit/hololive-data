@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777242665,
+  "cached_at": 1777242725,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "jt9FlT61OW0",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-26T17:50:43.000Z",
       "start_scheduled": "2026-04-26T17:45:00.000Z",
       "start_actual": "2026-04-26T17:50:43.000Z",
-      "live_viewers": 415,
+      "live_viewers": 420,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-26T21:46:18.000Z",
       "start_scheduled": "2026-04-26T21:45:00.000Z",
       "start_actual": "2026-04-26T21:46:18.000Z",
-      "live_viewers": 825,
+      "live_viewers": 902,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -79,6 +79,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp-5t9SrOQwXMU7iIjQfARg": {
+      "video_id": "5TjBUCjv64A",
+      "title": "【#朝ミオ 】月曜日だよ～！おはみぉーん！",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "News_Show",
+      "published_at": "2026-04-26T11:49:12.000Z",
+      "available_at": "2026-04-26T22:30:14.000Z",
+      "start_scheduled": "2026-04-26T22:30:00.000Z",
+      "start_actual": "2026-04-26T22:30:14.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+        "name": "Mio Channel 大神ミオ",
+        "english_name": "Ookami Mio",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
