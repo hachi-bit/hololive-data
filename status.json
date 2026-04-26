@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777197185,
+  "cached_at": 1777197245,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "KPwbBy9rWvo",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-26T02:00:46.000Z",
       "start_scheduled": "2026-04-26T02:00:00.000Z",
       "start_actual": "2026-04-26T02:00:46.000Z",
-      "live_viewers": 2871,
+      "live_viewers": 2774,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-26T03:00:13.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:00:13.000Z",
-      "live_viewers": 1064,
+      "live_viewers": 1063,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-26T03:04:03.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:04:03.000Z",
-      "live_viewers": 4144,
+      "live_viewers": 4147,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-26T08:57:32.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T08:57:32.000Z",
-      "live_viewers": 3248,
+      "live_viewers": 3236,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-26T09:00:03.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:00:03.000Z",
-      "live_viewers": 36452,
+      "live_viewers": 36000,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-26T09:00:22.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:00:22.000Z",
-      "live_viewers": 564,
+      "live_viewers": 558,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -139,26 +139,6 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1uv2Oq6kNxgATlCiez59hw": {
-      "video_id": "CnmB5uG-jbE",
-      "title": "【 ぷちホロの村 】#1 スローライフと言えば!!!楽しみにしてた🎶【常闇トワ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "holoVillage",
-      "published_at": "2026-04-26T06:39:26.000Z",
-      "available_at": "2026-04-26T09:00:40.000Z",
-      "start_scheduled": "2026-04-26T09:00:00.000Z",
-      "start_actual": "2026-04-26T09:00:40.000Z",
-      "live_viewers": 7587,
-      "channel": {
-        "id": "UC1uv2Oq6kNxgATlCiez59hw",
-        "name": "Towa Ch. 常闇トワ",
-        "english_name": "Tokoyami Towa",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCUKD-uaobj9jiqB-VXt71mA": {
@@ -171,7 +151,7 @@
       "available_at": "2026-04-26T09:00:40.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:00:40.000Z",
-      "live_viewers": 6161,
+      "live_viewers": 6190,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -179,6 +159,26 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1uv2Oq6kNxgATlCiez59hw": {
+      "video_id": "CnmB5uG-jbE",
+      "title": "【 ぷちホロの村 】#1 スローライフと言えば!!!楽しみにしてた🎶【常闇トワ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-04-26T06:39:26.000Z",
+      "available_at": "2026-04-26T09:00:40.000Z",
+      "start_scheduled": "2026-04-26T09:00:00.000Z",
+      "start_actual": "2026-04-26T09:00:40.000Z",
+      "live_viewers": 7707,
+      "channel": {
+        "id": "UC1uv2Oq6kNxgATlCiez59hw",
+        "name": "Towa Ch. 常闇トワ",
+        "english_name": "Tokoyami Towa",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
@@ -191,7 +191,7 @@
       "available_at": "2026-04-26T09:05:35.000Z",
       "start_scheduled": "2026-04-26T09:00:00.000Z",
       "start_actual": "2026-04-26T09:05:35.000Z",
-      "live_viewers": 5818,
+      "live_viewers": 6090,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
