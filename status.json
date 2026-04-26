@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777165565,
+  "cached_at": 1777165625,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "FQmt3juKGQ4",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-26T00:03:32.000Z",
       "start_scheduled": "2026-04-26T00:00:00.000Z",
       "start_actual": "2026-04-26T00:03:32.000Z",
-      "live_viewers": 1209,
+      "live_viewers": 1212,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-26T00:58:12.000Z",
       "start_scheduled": "2026-04-26T01:00:00.000Z",
       "start_actual": "2026-04-26T00:58:12.000Z",
-      "live_viewers": 1292,
+      "live_viewers": 1626,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -119,44 +119,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "aWL00l2F-kU",
-      "title": "【GUILTY GEAR STRIVE】Flayon is Ram and R-TRUS is Potemkin. WE GRAPPLIN",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Guilty_Gear",
-      "published_at": "2026-04-20T02:52:55.000Z",
-      "available_at": "2026-04-26T01:00:00.000Z",
-      "start_scheduled": "2026-04-26T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC060r4zABV18vcahAWR1n7w",
-        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-        "english_name": "Machina X Flayon",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCt9H_RpQzhxzlyBxFqrdHqA": {
-      "video_id": "nlPYABsRG8o",
-      "title": "【1000 DAYS CELEBRATION】protecting your smile for 1000 days 🐾💕 【FUWAMOCO】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "celebration",
-      "published_at": "2026-04-24T06:44:37.000Z",
-      "available_at": "2026-04-26T01:00:00.000Z",
-      "start_scheduled": "2026-04-26T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
-        "name": "FUWAMOCO Ch. hololive-EN",
-        "english_name": "Fuwawa & Mococo Abyssgard",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
@@ -169,7 +131,7 @@
       "available_at": "2026-04-26T01:00:19.000Z",
       "start_scheduled": "2026-04-26T01:00:00.000Z",
       "start_actual": "2026-04-26T01:00:19.000Z",
-      "live_viewers": 3261,
+      "live_viewers": 4718,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -189,7 +151,7 @@
       "available_at": "2026-04-26T01:01:32.000Z",
       "start_scheduled": "2026-04-26T01:00:00.000Z",
       "start_actual": "2026-04-26T01:01:32.000Z",
-      "live_viewers": 976,
+      "live_viewers": 1661,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -197,6 +159,46 @@
         "org": "Hololive",
         "suborg": "ibEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC060r4zABV18vcahAWR1n7w": {
+      "video_id": "aWL00l2F-kU",
+      "title": "【GUILTY GEAR STRIVE】Flayon is Ram and R-TRUS is Potemkin. WE GRAPPLIN",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Guilty_Gear",
+      "published_at": "2026-04-20T02:52:55.000Z",
+      "available_at": "2026-04-26T01:02:15.000Z",
+      "start_scheduled": "2026-04-26T01:00:00.000Z",
+      "start_actual": "2026-04-26T01:02:15.000Z",
+      "live_viewers": 141,
+      "channel": {
+        "id": "UC060r4zABV18vcahAWR1n7w",
+        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
+        "english_name": "Machina X Flayon",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCt9H_RpQzhxzlyBxFqrdHqA": {
+      "video_id": "nlPYABsRG8o",
+      "title": "【1000 DAYS CELEBRATION】protecting your smile for 1000 days 🐾💕 【FUWAMOCO】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "celebration",
+      "published_at": "2026-04-24T06:44:37.000Z",
+      "available_at": "2026-04-26T01:04:35.000Z",
+      "start_scheduled": "2026-04-26T01:00:00.000Z",
+      "start_actual": "2026-04-26T01:04:35.000Z",
+      "live_viewers": 1707,
+      "channel": {
+        "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
+        "name": "FUWAMOCO Ch. hololive-EN",
+        "english_name": "Fuwawa & Mococo Abyssgard",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
