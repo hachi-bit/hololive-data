@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777171445,
+  "cached_at": 1777171505,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "FQmt3juKGQ4",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-25T22:55:20.000Z",
       "start_scheduled": "2026-04-25T23:00:00.000Z",
       "start_actual": "2026-04-25T22:55:20.000Z",
-      "live_viewers": 7420,
+      "live_viewers": 6825,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-26T00:58:12.000Z",
       "start_scheduled": "2026-04-26T01:00:00.000Z",
       "start_actual": "2026-04-26T00:58:12.000Z",
-      "live_viewers": 3137,
+      "live_viewers": 3317,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-26T01:00:19.000Z",
       "start_scheduled": "2026-04-26T01:00:00.000Z",
       "start_actual": "2026-04-26T01:00:19.000Z",
-      "live_viewers": 9554,
+      "live_viewers": 8428,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-26T01:01:32.000Z",
       "start_scheduled": "2026-04-26T01:00:00.000Z",
       "start_actual": "2026-04-26T01:01:32.000Z",
-      "live_viewers": 3780,
+      "live_viewers": 3988,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
