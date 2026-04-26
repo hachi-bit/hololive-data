@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777186205,
+  "cached_at": 1777186264,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "aWL00l2F-kU",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-26T02:24:19.000Z",
       "start_scheduled": "2026-04-26T02:30:00.000Z",
       "start_actual": "2026-04-26T02:24:19.000Z",
-      "live_viewers": 287,
+      "live_viewers": 274,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-26T03:00:09.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:00:09.000Z",
-      "live_viewers": 18104,
+      "live_viewers": 18095,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-26T03:04:03.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:04:03.000Z",
-      "live_viewers": 7320,
+      "live_viewers": 7483,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "iaEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCt9H_RpQzhxzlyBxFqrdHqA": {
-      "video_id": "HY8bDFoUIzA",
-      "title": "【YUNYUN SYNDROME|ゆんゆん電波シンドローム】denpa rhythm game of our favorite songs?! 🐾 【FUWAMOCO|SPOILER WARNING】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Yunyun_Syndrome!?_Rhythm_Psychosis",
-      "published_at": "2026-04-25T03:18:14.000Z",
-      "available_at": "2026-04-26T03:55:17.000Z",
-      "start_scheduled": "2026-04-26T04:00:00.000Z",
-      "start_actual": "2026-04-26T03:55:17.000Z",
-      "live_viewers": 4296,
-      "channel": {
-        "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
-        "name": "FUWAMOCO Ch. hololive-EN",
-        "english_name": "Fuwawa & Mococo Abyssgard",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvzGlP9oQwU--Y0r9id_jnA": {
@@ -191,7 +171,7 @@
       "available_at": "2026-04-26T05:31:14.000Z",
       "start_scheduled": "2026-04-26T05:30:00.000Z",
       "start_actual": "2026-04-26T05:31:14.000Z",
-      "live_viewers": 8333,
+      "live_viewers": 8119,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-26T05:31:17.000Z",
       "start_scheduled": "2026-04-26T05:30:00.000Z",
       "start_actual": "2026-04-26T05:31:17.000Z",
-      "live_viewers": 2496,
+      "live_viewers": 2454,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
