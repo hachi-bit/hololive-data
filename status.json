@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777168925,
+  "cached_at": 1777168985,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "FQmt3juKGQ4",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-25T23:59:47.000Z",
       "start_scheduled": "2026-04-26T00:00:00.000Z",
       "start_actual": "2026-04-25T23:59:47.000Z",
-      "live_viewers": 8087,
+      "live_viewers": 8208,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-26T00:15:08.000Z",
       "start_scheduled": "2026-04-26T00:15:00.000Z",
       "start_actual": "2026-04-26T00:15:08.000Z",
-      "live_viewers": 377,
+      "live_viewers": 370,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-26T01:00:19.000Z",
       "start_scheduled": "2026-04-26T01:00:00.000Z",
       "start_actual": "2026-04-26T01:00:19.000Z",
-      "live_viewers": 9483,
+      "live_viewers": 9505,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-26T01:01:32.000Z",
       "start_scheduled": "2026-04-26T01:00:00.000Z",
       "start_actual": "2026-04-26T01:01:32.000Z",
-      "live_viewers": 3399,
+      "live_viewers": 3527,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-26T01:04:35.000Z",
       "start_scheduled": "2026-04-26T01:00:00.000Z",
       "start_actual": "2026-04-26T01:04:35.000Z",
-      "live_viewers": 4964,
+      "live_viewers": 5008,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -199,6 +199,26 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6eWCld0KwmyHFbAqK3V-Rw": {
+      "video_id": "KPwbBy9rWvo",
+      "title": "【プラグマタ】クリアまで!!ディアナに浄化される😭✨カプコンさん渾身の完全新作、やるよー!! #2 【博衣こより/ホロライブ】※ネタバレを含みます",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PRAGMATA",
+      "published_at": "2026-04-23T07:17:41.000Z",
+      "available_at": "2026-04-26T02:00:46.000Z",
+      "start_scheduled": "2026-04-26T02:00:00.000Z",
+      "start_actual": "2026-04-26T02:00:46.000Z",
+      "live_viewers": 902,
+      "channel": {
+        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+        "name": "Koyori ch. 博衣こより - holoX -",
+        "english_name": "Hakui Koyori",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
