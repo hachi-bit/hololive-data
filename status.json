@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777176425,
+  "cached_at": 1777176485,
   "lives": {
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "duYIshsxbVE",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-26T03:55:17.000Z",
       "start_scheduled": "2026-04-26T04:00:00.000Z",
       "start_actual": "2026-04-26T03:55:17.000Z",
-      "live_viewers": 3805,
+      "live_viewers": 3993,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -228,9 +228,10 @@
       "status": "live",
       "topic_id": "Judgment",
       "published_at": "2026-04-23T17:17:24.000Z",
-      "available_at": "2026-04-26T04:00:00.000Z",
+      "available_at": "2026-04-26T04:02:58.000Z",
       "start_scheduled": "2026-04-26T04:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-26T04:02:58.000Z",
+      "live_viewers": 9690,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
