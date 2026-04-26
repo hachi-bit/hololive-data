@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777190105,
+  "cached_at": 1777190165,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "aWL00l2F-kU",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-26T01:02:15.000Z",
       "start_scheduled": "2026-04-26T01:00:00.000Z",
       "start_actual": "2026-04-26T01:02:15.000Z",
-      "live_viewers": 517,
+      "live_viewers": 483,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-26T03:00:09.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:00:09.000Z",
-      "live_viewers": 19075,
+      "live_viewers": 19018,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-26T03:00:13.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:00:13.000Z",
-      "live_viewers": 805,
+      "live_viewers": 829,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-26T03:04:03.000Z",
       "start_scheduled": "2026-04-26T03:00:00.000Z",
       "start_actual": "2026-04-26T03:04:03.000Z",
-      "live_viewers": 7087,
+      "live_viewers": 6866,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-26T04:02:58.000Z",
       "start_scheduled": "2026-04-26T04:00:00.000Z",
       "start_actual": "2026-04-26T04:02:58.000Z",
-      "live_viewers": 28583,
+      "live_viewers": 23535,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-26T07:04:21.000Z",
       "start_scheduled": "2026-04-26T07:00:00.000Z",
       "start_actual": "2026-04-26T07:04:21.000Z",
-      "live_viewers": 5040,
+      "live_viewers": 4881,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
