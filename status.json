@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777261925,
+  "cached_at": 1777261985,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "H-v9YPl0aw4",
@@ -61,26 +61,6 @@
         "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
-      "video_id": "2pn5_pZu8Q4",
-      "title": "≪Tomodachi Life: Living the Dream≫ ONE MORE RESIDENT!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-26T12:42:06.000Z",
-      "available_at": "2026-04-27T01:00:44.000Z",
-      "start_scheduled": "2026-04-27T01:00:00.000Z",
-      "start_actual": "2026-04-27T01:00:44.000Z",
-      "live_viewers": 2778,
-      "channel": {
-        "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "name": "Hakos Baelz Ch. hololive-EN",
-        "english_name": "Hakos Baelz",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCKuwxopq9c3cldzSOo4ceSA": {
       "video_id": "C1UBmntUBmo",
       "title": "【APEX】朝活APEX部(部員一名)【八神ツクモ/ネオポルテ】→奇跡の3名 アステル・レダ、xnfriさん",
@@ -91,7 +71,7 @@
       "available_at": "2026-04-27T01:30:31.000Z",
       "start_scheduled": "2026-04-27T01:30:00.000Z",
       "start_actual": "2026-04-27T01:30:31.000Z",
-      "live_viewers": 109,
+      "live_viewers": 104,
       "channel": {
         "id": "UCKuwxopq9c3cldzSOo4ceSA",
         "name": "八神ツクモ / Yagami Tsukumo",
@@ -151,7 +131,7 @@
       "available_at": "2026-04-27T02:58:19.000Z",
       "start_scheduled": "2026-04-27T03:00:00.000Z",
       "start_actual": "2026-04-27T02:58:19.000Z",
-      "live_viewers": 5727,
+      "live_viewers": 5741,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-27T03:01:21.000Z",
       "start_scheduled": "2026-04-27T03:00:00.000Z",
       "start_actual": "2026-04-27T03:01:21.000Z",
-      "live_viewers": 235,
+      "live_viewers": 253,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-27T03:02:32.000Z",
       "start_scheduled": "2026-04-27T03:00:00.000Z",
       "start_actual": "2026-04-27T03:02:32.000Z",
-      "live_viewers": 9324,
+      "live_viewers": 11545,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-27T03:39:46.000Z",
       "start_scheduled": "2026-04-27T03:45:00.000Z",
       "start_actual": "2026-04-27T03:39:46.000Z",
-      "live_viewers": 269,
+      "live_viewers": 260,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
