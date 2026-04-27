@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777251785,
+  "cached_at": 1777251845,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "H-v9YPl0aw4",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-27T00:55:22.000Z",
       "start_scheduled": "2026-04-27T01:00:00.000Z",
       "start_actual": "2026-04-27T00:55:22.000Z",
-      "live_viewers": 3079,
+      "live_viewers": 3723,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -59,6 +59,26 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
+      "video_id": "2pn5_pZu8Q4",
+      "title": "≪Tomodachi Life: Living the Dream≫ ONE MORE RESIDENT!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-26T12:42:06.000Z",
+      "available_at": "2026-04-27T01:00:44.000Z",
+      "start_scheduled": "2026-04-27T01:00:00.000Z",
+      "start_actual": "2026-04-27T01:00:44.000Z",
+      "live_viewers": 1411,
+      "channel": {
+        "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "name": "Hakos Baelz Ch. hololive-EN",
+        "english_name": "Hakos Baelz",
+        "org": "Hololive",
+        "suborg": "ibEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
