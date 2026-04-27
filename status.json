@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777258746,
+  "cached_at": 1777258805,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "H-v9YPl0aw4",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-27T00:55:22.000Z",
       "start_scheduled": "2026-04-27T01:00:00.000Z",
       "start_actual": "2026-04-27T00:55:22.000Z",
-      "live_viewers": 6190,
+      "live_viewers": 6092,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -119,6 +119,26 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCozx5csNhCx1wsVq3SZVkBQ": {
+      "video_id": "1ByRLzx4Sf0",
+      "title": "【全員集合】情報密度が高過ぎる件について。【昼ホロ/3人回】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "News_Show",
+      "published_at": "2026-04-26T16:02:11.000Z",
+      "available_at": "2026-04-27T02:58:17.000Z",
+      "start_scheduled": "2026-04-27T03:00:00.000Z",
+      "start_actual": "2026-04-27T02:58:17.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCozx5csNhCx1wsVq3SZVkBQ",
+        "name": "holoAN room (ホロアナ)",
+        "english_name": "holoAN room",
+        "org": "Hololive",
+        "suborg": "0hOfficial",
+        "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
