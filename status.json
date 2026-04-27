@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777284305,
+  "cached_at": 1777284366,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "TO2ujFxk1Kk",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-27T09:01:43.000Z",
       "start_scheduled": "2026-04-27T09:00:00.000Z",
       "start_actual": "2026-04-27T09:01:43.000Z",
-      "live_viewers": 11285,
+      "live_viewers": 10037,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-27T09:32:17.000Z",
       "start_scheduled": "2026-04-27T09:30:00.000Z",
       "start_actual": "2026-04-27T09:32:17.000Z",
-      "live_viewers": 896,
+      "live_viewers": 878,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-27T09:57:29.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T09:57:29.000Z",
-      "live_viewers": 2495,
+      "live_viewers": 3431,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -59,25 +59,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCANDOlYTJT7N5jlRC3zfzVA": {
-      "video_id": "k73QjKhoJGk",
-      "title": "【#ロベルないとめあ】互いに買ってきたサーティワンの商品を当てあう我々【夕刻ロベル/神楽めあ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-04-26T02:00:25.000Z",
-      "available_at": "2026-04-27T10:00:00.000Z",
-      "start_scheduled": "2026-04-27T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
-        "name": "Roberu Ch. 夕刻ロベル",
-        "english_name": "Yukoku Roberu",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
@@ -90,7 +71,7 @@
       "available_at": "2026-04-27T10:00:16.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T10:00:16.000Z",
-      "live_viewers": 638,
+      "live_viewers": 1267,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -110,7 +91,7 @@
       "available_at": "2026-04-27T10:00:24.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T10:00:24.000Z",
-      "live_viewers": 2530,
+      "live_viewers": 7004,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -130,7 +111,7 @@
       "available_at": "2026-04-27T10:00:28.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T10:00:28.000Z",
-      "live_viewers": 3470,
+      "live_viewers": 9215,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -150,7 +131,7 @@
       "available_at": "2026-04-27T10:01:07.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T10:01:07.000Z",
-      "live_viewers": 1764,
+      "live_viewers": 2938,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -158,6 +139,26 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCANDOlYTJT7N5jlRC3zfzVA": {
+      "video_id": "k73QjKhoJGk",
+      "title": "【#ロベルないとめあ】互いに買ってきたサーティワンの商品を当てあう我々【夕刻ロベル/神楽めあ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-04-26T02:00:25.000Z",
+      "available_at": "2026-04-27T10:01:40.000Z",
+      "start_scheduled": "2026-04-27T10:00:00.000Z",
+      "start_actual": "2026-04-27T10:01:40.000Z",
+      "live_viewers": 1708,
+      "channel": {
+        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+        "name": "Roberu Ch. 夕刻ロベル",
+        "english_name": "Yukoku Roberu",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
