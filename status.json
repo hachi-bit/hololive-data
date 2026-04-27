@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777287844,
+  "cached_at": 1777287905,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "TO2ujFxk1Kk",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-27T10:00:16.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T10:00:16.000Z",
-      "live_viewers": 2895,
+      "live_viewers": 3001,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-27T10:00:24.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T10:00:24.000Z",
-      "live_viewers": 23707,
+      "live_viewers": 24125,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-27T10:28:35.000Z",
       "start_scheduled": "2026-04-27T10:30:00.000Z",
       "start_actual": "2026-04-27T10:28:35.000Z",
-      "live_viewers": 17627,
+      "live_viewers": 17773,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-27T10:58:01.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T10:58:01.000Z",
-      "live_viewers": 342,
+      "live_viewers": 451,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -200,63 +200,6 @@
         "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCAWSyEs_Io8MtpY3m-zqILA": {
-      "video_id": "fnnzaDNQWdw",
-      "title": "【 トモダチコレクション 】ねねねトワワ、今日も今日とて結ばれたい【 桃鈴ねね / hololive 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-27T10:06:28.000Z",
-      "available_at": "2026-04-27T11:00:00.000Z",
-      "start_scheduled": "2026-04-27T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-        "name": "Nene Ch.桃鈴ねね",
-        "english_name": "Momosuzu Nene",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC-hM6YJuNYVAmUWxeIr9FeA": {
-      "video_id": "8RlaAqLgpuk",
-      "title": "【トモコレ】ついに地獄ワクワク島の物語が動き出すにぇえええええええ!!!!!!【ホロライブ/さくらみこ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-26T15:05:42.000Z",
-      "available_at": "2026-04-27T11:00:00.000Z",
-      "start_scheduled": "2026-04-27T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-        "name": "Miko Ch. さくらみこ",
-        "english_name": "Sakura Miko",
-        "org": "Hololive",
-        "suborg": "0y0th Generation",
-        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCUKD-uaobj9jiqB-VXt71mA": {
-      "video_id": "lud1eBLf5Nc",
-      "title": "【ぷちホロの村】#03 ラスボスおるか~っ!(副題：高級パンとござるクッキーが名産品の大都会ホロ村より愛をこめて)【獅白ぼたん/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "holoVillage",
-      "published_at": "2026-04-26T20:31:59.000Z",
-      "available_at": "2026-04-27T11:00:00.000Z",
-      "start_scheduled": "2026-04-27T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCUKD-uaobj9jiqB-VXt71mA",
-        "name": "Botan Ch.獅白ぼたん",
-        "english_name": "Shishiro Botan",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
       "video_id": "OwpDnsBO4R4",
       "title": "【ケモMV】けもももももも! /にゃんぐこーん🌽🍙(original)",
@@ -275,6 +218,66 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAWSyEs_Io8MtpY3m-zqILA": {
+      "video_id": "fnnzaDNQWdw",
+      "title": "【 トモダチコレクション 】ねねねトワワ、今日も今日とて結ばれたい【 桃鈴ねね / hololive 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-27T10:06:28.000Z",
+      "available_at": "2026-04-27T11:01:50.000Z",
+      "start_scheduled": "2026-04-27T11:00:00.000Z",
+      "start_actual": "2026-04-27T11:01:50.000Z",
+      "live_viewers": 1269,
+      "channel": {
+        "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+        "name": "Nene Ch.桃鈴ねね",
+        "english_name": "Momosuzu Nene",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "lud1eBLf5Nc",
+      "title": "【ぷちホロの村】#03 ラスボスおるか~っ!(副題：高級パンとござるクッキーが名産品の大都会ホロ村より愛をこめて)【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-04-26T20:31:59.000Z",
+      "available_at": "2026-04-27T11:02:07.000Z",
+      "start_scheduled": "2026-04-27T11:00:00.000Z",
+      "start_actual": "2026-04-27T11:02:07.000Z",
+      "live_viewers": 1425,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC-hM6YJuNYVAmUWxeIr9FeA": {
+      "video_id": "8RlaAqLgpuk",
+      "title": "【トモコレ】ついに地獄ワクワク島の物語が動き出すにぇえええええええ!!!!!!【ホロライブ/さくらみこ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-26T15:05:42.000Z",
+      "available_at": "2026-04-27T11:02:21.000Z",
+      "start_scheduled": "2026-04-27T11:00:00.000Z",
+      "start_actual": "2026-04-27T11:02:21.000Z",
+      "live_viewers": 8647,
+      "channel": {
+        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+        "name": "Miko Ch. さくらみこ",
+        "english_name": "Sakura Miko",
+        "org": "Hololive",
+        "suborg": "0y0th Generation",
+        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
