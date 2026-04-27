@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777288025,
+  "cached_at": 1777288085,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "TO2ujFxk1Kk",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-27T09:57:29.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T09:57:29.000Z",
-      "live_viewers": 8011,
+      "live_viewers": 8344,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-27T10:00:24.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T10:00:24.000Z",
-      "live_viewers": 24125,
+      "live_viewers": 23574,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-27T10:01:07.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T10:01:07.000Z",
-      "live_viewers": 6059,
+      "live_viewers": 6005,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-27T10:28:35.000Z",
       "start_scheduled": "2026-04-27T10:30:00.000Z",
       "start_actual": "2026-04-27T10:28:35.000Z",
-      "live_viewers": 17773,
+      "live_viewers": 14953,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-27T10:58:01.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T10:58:01.000Z",
-      "live_viewers": 451,
+      "live_viewers": 591,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -200,26 +200,6 @@
         "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "OwpDnsBO4R4",
-      "title": "【ケモMV】けもももももも! /にゃんぐこーん🌽🍙(original)",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Original_Song",
-      "published_at": "2026-04-27T11:00:06.000Z",
-      "available_at": "2026-04-27T11:00:06.000Z",
-      "start_scheduled": "2026-04-27T11:00:00.000Z",
-      "start_actual": "2026-04-27T11:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "フブキCh。白上フブキ",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCAWSyEs_Io8MtpY3m-zqILA": {
       "video_id": "fnnzaDNQWdw",
       "title": "【 トモダチコレクション 】ねねねトワワ、今日も今日とて結ばれたい【 桃鈴ねね / hololive 】",
@@ -230,7 +210,7 @@
       "available_at": "2026-04-27T11:01:50.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T11:01:50.000Z",
-      "live_viewers": 1269,
+      "live_viewers": 2277,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -250,7 +230,7 @@
       "available_at": "2026-04-27T11:02:07.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T11:02:07.000Z",
-      "live_viewers": 1425,
+      "live_viewers": 2871,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -270,7 +250,7 @@
       "available_at": "2026-04-27T11:02:21.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T11:02:21.000Z",
-      "live_viewers": 8647,
+      "live_viewers": 18771,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
