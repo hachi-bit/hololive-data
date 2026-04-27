@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777251485,
+  "cached_at": 1777251545,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "H-v9YPl0aw4",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-26T22:56:14.000Z",
       "start_scheduled": "2026-04-26T23:00:00.000Z",
       "start_actual": "2026-04-26T22:56:14.000Z",
-      "live_viewers": 5489,
+      "live_viewers": 5540,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -39,6 +39,26 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCt9H_RpQzhxzlyBxFqrdHqA": {
+      "video_id": "0IosTcfAq6k",
+      "title": "【CHRONO TRIGGER OFF-COLLAB with CECILIA】cecilia promised no tickling me 🐾【SPOILER WARNING|FUWAMOCO】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Chrono_Trigger",
+      "published_at": "2026-04-21T13:27:46.000Z",
+      "available_at": "2026-04-27T00:55:22.000Z",
+      "start_scheduled": "2026-04-27T01:00:00.000Z",
+      "start_actual": "2026-04-27T00:55:22.000Z",
+      "live_viewers": 2459,
+      "channel": {
+        "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
+        "name": "FUWAMOCO Ch. hololive-EN",
+        "english_name": "Fuwawa & Mococo Abyssgard",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
