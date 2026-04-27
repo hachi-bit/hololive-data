@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777282265,
+  "cached_at": 1777282325,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "TO2ujFxk1Kk",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-27T09:01:43.000Z",
       "start_scheduled": "2026-04-27T09:00:00.000Z",
       "start_actual": "2026-04-27T09:01:43.000Z",
-      "live_viewers": 8565,
+      "live_viewers": 8672,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -19,6 +19,25 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKeAhJvy8zgXWbh9duVjIaQ": {
+      "video_id": "S8BIGNqZnIU",
+      "title": "【雑談】ソロでドン【アルランディス/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-04-27T08:35:20.000Z",
+      "available_at": "2026-04-27T09:30:00.000Z",
+      "start_scheduled": "2026-04-27T09:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "english_name": "Arurandeisu",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
