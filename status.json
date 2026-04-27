@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777248125,
+  "cached_at": 1777248187,
   "lives": {
-    "UCgnfPPb9JI3e9A4cXHnWbyg": {
-      "video_id": "kszNEQA1IcE",
-      "title": "Take Your AI Daughter to Work Day 【PRAGMATA】#sponsored",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "PRAGMATA",
-      "published_at": "2026-04-25T19:37:04.000Z",
-      "available_at": "2026-04-26T19:56:22.000Z",
-      "start_scheduled": "2026-04-26T20:00:00.000Z",
-      "start_actual": "2026-04-26T19:56:22.000Z",
-      "live_viewers": 3729,
-      "channel": {
-        "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
-        "name": "Shiori Novella Ch. hololive-EN",
-        "english_name": "Shiori Novella",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCjLEmnpCNeisMxy134KPwWw": {
       "video_id": "9UXffcq9JQk",
       "title": "【Watchalong | LCS】TLAW vs SEN, Supporting TLAW because it's blue #LCSCostream",
@@ -59,6 +39,26 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_sFNM0z0MWm9A6WlKPuMMg": {
+      "video_id": "qWZGv3V7vaY",
+      "title": "Nerissa - Blue World【original song】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Original_Song",
+      "published_at": "2026-04-27T00:00:06.000Z",
+      "available_at": "2026-04-27T00:00:06.000Z",
+      "start_scheduled": "2026-04-27T00:00:00.000Z",
+      "start_actual": "2026-04-27T00:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+        "name": "Nerissa Ravencroft Ch. hololive-EN",
+        "english_name": "Nerissa Ravencroft",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
