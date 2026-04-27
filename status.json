@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777265945,
+  "cached_at": 1777266005,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "H-v9YPl0aw4",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-26T22:56:14.000Z",
       "start_scheduled": "2026-04-26T23:00:00.000Z",
       "start_actual": "2026-04-26T22:56:14.000Z",
-      "live_viewers": 4973,
+      "live_viewers": 4846,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKuwxopq9c3cldzSOo4ceSA": {
-      "video_id": "C1UBmntUBmo",
-      "title": "【APEX】朝活APEX部(部員一名)【八神ツクモ/ネオポルテ】→奇跡の3名 アステル・レダ、xnfriさん",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "apex",
-      "published_at": "2026-04-27T00:25:10.000Z",
-      "available_at": "2026-04-27T01:30:31.000Z",
-      "start_scheduled": "2026-04-27T01:30:00.000Z",
-      "start_actual": "2026-04-27T01:30:31.000Z",
-      "live_viewers": 131,
-      "channel": {
-        "id": "UCKuwxopq9c3cldzSOo4ceSA",
-        "name": "八神ツクモ / Yagami Tsukumo",
-        "english_name": "Yagami Tsukumo",
-        "org": "Neo-Porte",
-        "suborg": "0k5th Generation",
-        "photo": "https://yt3.ggpht.com/7a7QvD0AdkwTmfxFCkcUZbQ18PTsDW0P9LGWmB36pTV4peSqE6_1ouO20tvwtvqpTzqn2bOHag=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCYz_5n-uDuChHtLo7My1HnQ": {
@@ -151,7 +131,7 @@
       "available_at": "2026-04-27T03:39:46.000Z",
       "start_scheduled": "2026-04-27T03:45:00.000Z",
       "start_actual": "2026-04-27T03:39:46.000Z",
-      "live_viewers": 490,
+      "live_viewers": 430,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
