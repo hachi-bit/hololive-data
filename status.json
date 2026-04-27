@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777284125,
+  "cached_at": 1777284185,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "TO2ujFxk1Kk",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-27T09:32:17.000Z",
       "start_scheduled": "2026-04-27T09:30:00.000Z",
       "start_actual": "2026-04-27T09:32:17.000Z",
-      "live_viewers": 881,
+      "live_viewers": 896,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-27T09:57:29.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T09:57:29.000Z",
-      "live_viewers": 1185,
+      "live_viewers": 2495,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -59,6 +59,105 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCANDOlYTJT7N5jlRC3zfzVA": {
+      "video_id": "k73QjKhoJGk",
+      "title": "【#ロベルないとめあ】互いに買ってきたサーティワンの商品を当てあう我々【夕刻ロベル/神楽めあ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-04-26T02:00:25.000Z",
+      "available_at": "2026-04-27T10:00:00.000Z",
+      "start_scheduled": "2026-04-27T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+        "name": "Roberu Ch. 夕刻ロベル",
+        "english_name": "Yukoku Roberu",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdyqAaZDKHXg4Ahi7VENThQ": {
+      "video_id": "7j_nNQ87Isc",
+      "title": "【モンスターハンターストーリーズ3】脳筋女騎士!モンハンの世界へ🔥【白銀ノエル/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "monhun",
+      "published_at": "2026-04-22T00:57:49.000Z",
+      "available_at": "2026-04-27T10:00:16.000Z",
+      "start_scheduled": "2026-04-27T10:00:00.000Z",
+      "start_actual": "2026-04-27T10:00:16.000Z",
+      "live_viewers": 638,
+      "channel": {
+        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+        "name": "Noel Ch. 白銀ノエル",
+        "english_name": "Shirogane Noel",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "bYeptv7XUSM",
+      "title": "【初見】友達が少ないウサギが『トモダチコレクション わくわく生活』で最高の島を作る!ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-27T06:03:43.000Z",
+      "available_at": "2026-04-27T10:00:24.000Z",
+      "start_scheduled": "2026-04-27T10:00:00.000Z",
+      "start_actual": "2026-04-27T10:00:24.000Z",
+      "live_viewers": 2530,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvaTdHTWBGv3MKj3KVqJVCw": {
+      "video_id": "nGyhht1rLi8",
+      "title": "【 🔥告知あり 】ケモケモな #にゃんぐこーん でホラーゲームだッ🍙🌽✊✦【 ホロライブ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "announce",
+      "published_at": "2026-04-26T19:26:04.000Z",
+      "available_at": "2026-04-27T10:00:28.000Z",
+      "start_scheduled": "2026-04-27T10:00:00.000Z",
+      "start_actual": "2026-04-27T10:00:28.000Z",
+      "live_viewers": 3470,
+      "channel": {
+        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+        "name": "Okayu Ch. 猫又おかゆ",
+        "english_name": "Nekomata Okayu",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6eWCld0KwmyHFbAqK3V-Rw": {
+      "video_id": "MVPJIwcHSj8",
+      "title": "【料理枠/カメラ有】holoXライブ直前!相方弁当ならぬ、仲間お菓子を作る♡♡♡【博衣こより/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cooking_Stream",
+      "published_at": "2026-04-27T05:27:35.000Z",
+      "available_at": "2026-04-27T10:01:07.000Z",
+      "start_scheduled": "2026-04-27T10:00:00.000Z",
+      "start_actual": "2026-04-27T10:01:07.000Z",
+      "live_viewers": 1764,
+      "channel": {
+        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+        "name": "Koyori ch. 博衣こより - holoX -",
+        "english_name": "Hakui Koyori",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
