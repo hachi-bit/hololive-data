@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777291565,
+  "cached_at": 1777291625,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "TO2ujFxk1Kk",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-27T10:00:24.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T10:00:24.000Z",
-      "live_viewers": 24065,
+      "live_viewers": 24568,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-27T10:58:01.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T10:58:01.000Z",
-      "live_viewers": 1103,
+      "live_viewers": 1135,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-27T11:01:50.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T11:01:50.000Z",
-      "live_viewers": 4148,
+      "live_viewers": 4415,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-27T11:02:21.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T11:02:21.000Z",
-      "live_viewers": 39216,
+      "live_viewers": 39939,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-27T11:31:17.000Z",
       "start_scheduled": "2026-04-27T11:30:00.000Z",
       "start_actual": "2026-04-27T11:31:17.000Z",
-      "live_viewers": 146,
+      "live_viewers": 142,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -219,6 +219,26 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6t3-_N8A6ME1JShZHHqOMw": {
+      "video_id": "qEZV6SftROs",
+      "title": "【雑談】新衣装写真撮影会&最近のスパチャ読み【花咲みやび/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Superchat_Reading",
+      "published_at": "2026-04-27T11:42:24.000Z",
+      "available_at": "2026-04-27T12:00:00.000Z",
+      "start_scheduled": "2026-04-27T12:00:00.000Z",
+      "start_actual": "2026-04-27T12:00:00.000Z",
+      "live_viewers": 228,
+      "channel": {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "english_name": "Hanasaki Miyabi",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
@@ -247,9 +267,10 @@
       "status": "live",
       "topic_id": "Detroit:_Become_Human",
       "published_at": "2026-04-27T06:43:05.000Z",
-      "available_at": "2026-04-27T12:00:00.000Z",
+      "available_at": "2026-04-27T12:03:17.000Z",
       "start_scheduled": "2026-04-27T12:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-27T12:03:17.000Z",
+      "live_viewers": 3143,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -257,26 +278,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "qEZV6SftROs",
-      "title": "【雑談】新衣装写真撮影会&最近のスパチャ読み【花咲みやび/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Superchat_Reading",
-      "published_at": "2026-04-27T11:42:24.000Z",
-      "available_at": "2026-04-27T12:00:00.000Z",
-      "start_scheduled": "2026-04-27T12:00:00.000Z",
-      "start_actual": "2026-04-27T12:00:00.000Z",
-      "live_viewers": 166,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
