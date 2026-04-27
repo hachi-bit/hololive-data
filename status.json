@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777290485,
+  "cached_at": 1777290545,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "TO2ujFxk1Kk",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-27T09:01:43.000Z",
       "start_scheduled": "2026-04-27T09:00:00.000Z",
       "start_actual": "2026-04-27T09:01:43.000Z",
-      "live_viewers": 5186,
+      "live_viewers": 5143,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-27T10:00:24.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T10:00:24.000Z",
-      "live_viewers": 24495,
+      "live_viewers": 24512,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-27T10:58:01.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T10:58:01.000Z",
-      "live_viewers": 1056,
+      "live_viewers": 1022,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-27T11:01:50.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T11:01:50.000Z",
-      "live_viewers": 4415,
+      "live_viewers": 4141,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-27T11:31:17.000Z",
       "start_scheduled": "2026-04-27T11:30:00.000Z",
       "start_actual": "2026-04-27T11:31:17.000Z",
-      "live_viewers": 118,
+      "live_viewers": 126,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
