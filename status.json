@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777304705,
+  "cached_at": 1777304765,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "WqOQkIS_rLc",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-27T09:57:29.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T09:57:29.000Z",
-      "live_viewers": 3920,
+      "live_viewers": 3441,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-27T11:02:21.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T11:02:21.000Z",
-      "live_viewers": 20220,
+      "live_viewers": 20103,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "0y0th Generation",
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKMWFR6lAstLa7Vbf5dH7ig": {
-      "video_id": "Xchrs1a-99Y",
-      "title": "【首都高バトル】ひさびさに首都高行こうぜ~~~【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tokyo_Xtreme_Racer",
-      "published_at": "2026-04-27T11:29:04.000Z",
-      "available_at": "2026-04-27T12:14:57.000Z",
-      "start_scheduled": "2026-04-27T12:00:00.000Z",
-      "start_actual": "2026-04-27T12:14:57.000Z",
-      "live_viewers": 4235,
-      "channel": {
-        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "english_name": "Rindo Chihaya",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCp-5t9SrOQwXMU7iIjQfARg": {
