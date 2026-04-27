@@ -1,4 +1,25 @@
 {
-  "cached_at": 1777327325,
-  "lives": {}
+  "cached_at": 1777327385,
+  "lives": {
+    "UC6eWCld0KwmyHFbAqK3V-Rw": {
+      "video_id": "0gJXk9WV0YI",
+      "title": "【 #朝こよ 】遂に明日holoXライブ!前日の火曜日の朝も朝こよ~!☀ #282 【博衣こより/hololive】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "News_Show",
+      "published_at": "2026-04-26T16:36:21.000Z",
+      "available_at": "2026-04-27T21:59:42.000Z",
+      "start_scheduled": "2026-04-27T22:00:00.000Z",
+      "start_actual": "2026-04-27T21:59:42.000Z",
+      "live_viewers": 3253,
+      "channel": {
+        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+        "name": "Koyori ch. 博衣こより - holoX -",
+        "english_name": "Hakui Koyori",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    }
+  }
 }
