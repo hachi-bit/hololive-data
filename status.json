@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777248605,
+  "cached_at": 1777248665,
   "lives": {
     "UCjLEmnpCNeisMxy134KPwWw": {
       "video_id": "9UXffcq9JQk",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-26T21:46:18.000Z",
       "start_scheduled": "2026-04-26T21:45:00.000Z",
       "start_actual": "2026-04-26T21:46:18.000Z",
-      "live_viewers": 1189,
+      "live_viewers": 1302,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-26T22:56:14.000Z",
       "start_scheduled": "2026-04-26T23:00:00.000Z",
       "start_actual": "2026-04-26T22:56:14.000Z",
-      "live_viewers": 4357,
+      "live_viewers": 4597,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC_sFNM0z0MWm9A6WlKPuMMg": {
-      "video_id": "qWZGv3V7vaY",
-      "title": "Nerissa - Blue World【original song】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Original_Song",
-      "published_at": "2026-04-27T00:00:06.000Z",
-      "available_at": "2026-04-27T00:00:06.000Z",
-      "start_scheduled": "2026-04-27T00:00:00.000Z",
-      "start_actual": "2026-04-27T00:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
-        "name": "Nerissa Ravencroft Ch. hololive-EN",
-        "english_name": "Nerissa Ravencroft",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
