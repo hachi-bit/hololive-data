@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777261445,
+  "cached_at": 1777261505,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "H-v9YPl0aw4",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-26T22:56:14.000Z",
       "start_scheduled": "2026-04-26T23:00:00.000Z",
       "start_actual": "2026-04-26T22:56:14.000Z",
-      "live_viewers": 5159,
+      "live_viewers": 4948,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-27T02:58:19.000Z",
       "start_scheduled": "2026-04-27T03:00:00.000Z",
       "start_actual": "2026-04-27T02:58:19.000Z",
-      "live_viewers": 5775,
+      "live_viewers": 5727,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-27T03:01:21.000Z",
       "start_scheduled": "2026-04-27T03:00:00.000Z",
       "start_actual": "2026-04-27T03:01:21.000Z",
-      "live_viewers": 228,
+      "live_viewers": 237,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-27T03:39:46.000Z",
       "start_scheduled": "2026-04-27T03:45:00.000Z",
       "start_actual": "2026-04-27T03:39:46.000Z",
-      "live_viewers": 152,
+      "live_viewers": 182,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
