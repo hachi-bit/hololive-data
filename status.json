@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777296785,
+  "cached_at": 1777296845,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "TO2ujFxk1Kk",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-27T10:00:24.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T10:00:24.000Z",
-      "live_viewers": 23738,
+      "live_viewers": 23355,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-27T12:03:17.000Z",
       "start_scheduled": "2026-04-27T12:00:00.000Z",
       "start_actual": "2026-04-27T12:03:17.000Z",
-      "live_viewers": 7880,
+      "live_viewers": 7799,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-27T12:59:22.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T12:59:22.000Z",
-      "live_viewers": 827,
+      "live_viewers": 841,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-27T12:59:41.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T12:59:41.000Z",
-      "live_viewers": 503,
+      "live_viewers": 542,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-27T13:00:01.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:01.000Z",
-      "live_viewers": 98,
+      "live_viewers": 108,
       "channel": {
         "id": "UCJlcEuTs4LNMPn0xL3czRrA",
         "name": "ONShannon ",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-27T13:00:12.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:12.000Z",
-      "live_viewers": 97,
+      "live_viewers": 117,
       "channel": {
         "id": "UCK4lZqiWNuOf-CTyX3Qbj1w",
         "name": "Gabriel Abyssia",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-27T13:00:25.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:25.000Z",
-      "live_viewers": 1828,
+      "live_viewers": 1880,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -271,7 +271,7 @@
       "available_at": "2026-04-27T13:00:26.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:26.000Z",
-      "live_viewers": 3990,
+      "live_viewers": 4015,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -291,7 +291,7 @@
       "available_at": "2026-04-27T13:00:28.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:28.000Z",
-      "live_viewers": 5150,
+      "live_viewers": 5222,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -311,7 +311,7 @@
       "available_at": "2026-04-27T13:00:40.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:40.000Z",
-      "live_viewers": 7863,
+      "live_viewers": 7958,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -331,7 +331,7 @@
       "available_at": "2026-04-27T13:00:59.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:59.000Z",
-      "live_viewers": 106,
+      "live_viewers": 112,
       "channel": {
         "id": "UCWrxLFxCjH3_1Ii-SGEBsdQ",
         "name": "Deidey",
@@ -351,7 +351,7 @@
       "available_at": "2026-04-27T13:01:09.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:01:09.000Z",
-      "live_viewers": 11334,
+      "live_viewers": 11617,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -371,7 +371,7 @@
       "available_at": "2026-04-27T13:01:23.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:01:23.000Z",
-      "live_viewers": 69,
+      "live_viewers": 59,
       "channel": {
         "id": "UCzuELV9IeEGNI3_3MUSNnow",
         "name": "Violetta Calytrix",
@@ -391,7 +391,7 @@
       "available_at": "2026-04-27T13:01:55.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:01:55.000Z",
-      "live_viewers": 132,
+      "live_viewers": 123,
       "channel": {
         "id": "UCndWeMfiDIQs-o18GJPwETA",
         "name": "Karissa Sharlotte【AKA Virtual】",
@@ -411,7 +411,7 @@
       "available_at": "2026-04-27T13:04:13.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:04:13.000Z",
-      "live_viewers": 2597,
+      "live_viewers": 2590,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -431,7 +431,7 @@
       "available_at": "2026-04-27T13:07:47.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:07:47.000Z",
-      "live_viewers": 3381,
+      "live_viewers": 3394,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -439,6 +439,25 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
+      "video_id": "71MbvSbJq5o",
+      "title": "【ウマ娘プリティーダービー】完全初見#12 新人トレーナ✨️メイン編【水宮枢/ホロライブDEV_IS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "umamusume",
+      "published_at": "2026-04-26T20:29:56.000Z",
+      "available_at": "2026-04-27T13:30:00.000Z",
+      "start_scheduled": "2026-04-27T13:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+        "name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "english_name": "Mizumiya Su",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
