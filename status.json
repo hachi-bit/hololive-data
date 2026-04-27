@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777305305,
+  "cached_at": 1777305365,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "WqOQkIS_rLc",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-27T13:00:28.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:28.000Z",
-      "live_viewers": 10140,
+      "live_viewers": 10165,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-27T13:00:40.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:40.000Z",
-      "live_viewers": 9166,
+      "live_viewers": 9147,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCP0BspO_AMEe3aQqqpo89Dg": {
-      "video_id": "bFHxY1MKfgQ",
-      "title": "【Membership】ASMR Working... Literally【Moona Hoshinova】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-04-27T13:34:47.000Z",
-      "available_at": "2026-04-27T13:53:10.000Z",
-      "start_scheduled": "2026-04-27T13:45:00.000Z",
-      "start_actual": "2026-04-27T13:53:10.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCP0BspO_AMEe3aQqqpo89Dg",
-        "name": "Moona Hoshinova hololive-ID",
-        "english_name": "Moona Hoshinova",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
