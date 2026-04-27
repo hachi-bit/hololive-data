@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777303625,
+  "cached_at": 1777303685,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "WqOQkIS_rLc",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-27T11:02:21.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T11:02:21.000Z",
-      "live_viewers": 22185,
+      "live_viewers": 21779,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-27T12:14:57.000Z",
       "start_scheduled": "2026-04-27T12:00:00.000Z",
       "start_actual": "2026-04-27T12:14:57.000Z",
-      "live_viewers": 4616,
+      "live_viewers": 4445,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -79,66 +79,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCAoy6rzhSf4ydcYjJw3WoVg": {
-      "video_id": "VTuWoJtuWFw",
-      "title": "【Feign】Chaos Chaos Chaos 【 iofi / hololiveID 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Feign",
-      "published_at": "2026-04-27T05:27:54.000Z",
-      "available_at": "2026-04-27T12:59:22.000Z",
-      "start_scheduled": "2026-04-27T13:00:00.000Z",
-      "start_actual": "2026-04-27T12:59:22.000Z",
-      "live_viewers": 684,
-      "channel": {
-        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-        "name": "Airani Iofifteen Channel hololive-ID",
-        "english_name": "Airani Iofifteen",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCYz_5n-uDuChHtLo7My1HnQ": {
-      "video_id": "xhH9eVch4OM",
-      "title": "【FEIGN】 COLLAB AKBAR!! KEPADA SIAPA AKU HARUS BERPERCAYA-- 【Kureiji Ollie】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Feign",
-      "published_at": "2026-04-20T17:32:15.000Z",
-      "available_at": "2026-04-27T12:59:41.000Z",
-      "start_scheduled": "2026-04-27T13:00:00.000Z",
-      "start_actual": "2026-04-27T12:59:41.000Z",
-      "live_viewers": 484,
-      "channel": {
-        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
-        "name": "Kureiji Ollie Ch. hololive-ID",
-        "english_name": "Kureiji Ollie",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCJlcEuTs4LNMPn0xL3czRrA": {
-      "video_id": "yd1t87QhnX8",
-      "title": "Collab pokonya buanyaakk | Feign",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Feign",
-      "published_at": "2026-04-27T05:05:35.000Z",
-      "available_at": "2026-04-27T13:00:01.000Z",
-      "start_scheduled": "2026-04-27T13:00:00.000Z",
-      "start_actual": "2026-04-27T13:00:01.000Z",
-      "live_viewers": 105,
-      "channel": {
-        "id": "UCJlcEuTs4LNMPn0xL3czRrA",
-        "name": "ONShannon ",
-        "english_name": "Shannon Lynn",
-        "org": "AKA Virtual",
-        "suborg": "0gChao.5",
-        "photo": "https://yt3.ggpht.com/vofOOZs6Rby_Cx6OlTM2YvfIHFm7IfP1ZSmVmxU6_OBiBcnvsl72O5SpSj6ZGPjY5452hWzF=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCK4lZqiWNuOf-CTyX3Qbj1w": {
@@ -151,7 +91,7 @@
       "available_at": "2026-04-27T13:00:12.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:12.000Z",
-      "live_viewers": 109,
+      "live_viewers": 58,
       "channel": {
         "id": "UCK4lZqiWNuOf-CTyX3Qbj1w",
         "name": "Gabriel Abyssia",
@@ -171,7 +111,7 @@
       "available_at": "2026-04-27T13:00:25.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:25.000Z",
-      "live_viewers": 1934,
+      "live_viewers": 1913,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -191,7 +131,7 @@
       "available_at": "2026-04-27T13:00:28.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:28.000Z",
-      "live_viewers": 8887,
+      "live_viewers": 9260,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -251,7 +191,7 @@
       "available_at": "2026-04-27T13:01:09.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:01:09.000Z",
-      "live_viewers": 14525,
+      "live_viewers": 14408,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -291,7 +231,7 @@
       "available_at": "2026-04-27T13:01:55.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:01:55.000Z",
-      "live_viewers": 120,
+      "live_viewers": 128,
       "channel": {
         "id": "UCndWeMfiDIQs-o18GJPwETA",
         "name": "Karissa Sharlotte【AKA Virtual】",
@@ -371,7 +311,7 @@
       "available_at": "2026-04-27T14:01:27.000Z",
       "start_scheduled": "2026-04-27T14:00:00.000Z",
       "start_actual": "2026-04-27T14:01:27.000Z",
-      "live_viewers": 904,
+      "live_viewers": 945,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
