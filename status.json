@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777292466,
+  "cached_at": 1777292525,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "TO2ujFxk1Kk",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-27T09:01:43.000Z",
       "start_scheduled": "2026-04-27T09:00:00.000Z",
       "start_actual": "2026-04-27T09:01:43.000Z",
-      "live_viewers": 4860,
+      "live_viewers": 4800,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -61,26 +61,6 @@
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC6eWCld0KwmyHFbAqK3V-Rw": {
-      "video_id": "MVPJIwcHSj8",
-      "title": "【料理枠/カメラ有】holoXライブ直前!相方弁当ならぬ、仲間お菓子を作る♡♡♡【博衣こより/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Cooking_Stream",
-      "published_at": "2026-04-27T05:27:35.000Z",
-      "available_at": "2026-04-27T10:01:07.000Z",
-      "start_scheduled": "2026-04-27T10:00:00.000Z",
-      "start_actual": "2026-04-27T10:01:07.000Z",
-      "live_viewers": 3814,
-      "channel": {
-        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-        "name": "Koyori ch. 博衣こより - holoX -",
-        "english_name": "Hakui Koyori",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCOyYb1c43VlX9rc_lT6NKQw": {
       "video_id": "Jbvy2gXAmBc",
       "title": "Malam Malam kita Malas #MMMalas",
@@ -91,7 +71,7 @@
       "available_at": "2026-04-27T10:58:01.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T10:58:01.000Z",
-      "live_viewers": 1126,
+      "live_viewers": 1165,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-27T11:01:50.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T11:01:50.000Z",
-      "live_viewers": 4778,
+      "live_viewers": 4897,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -151,7 +131,7 @@
       "available_at": "2026-04-27T11:02:21.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T11:02:21.000Z",
-      "live_viewers": 40657,
+      "live_viewers": 40991,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-27T12:00:00.000Z",
       "start_scheduled": "2026-04-27T12:00:00.000Z",
       "start_actual": "2026-04-27T12:00:00.000Z",
-      "live_viewers": 309,
+      "live_viewers": 336,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -231,7 +211,7 @@
       "available_at": "2026-04-27T12:03:17.000Z",
       "start_scheduled": "2026-04-27T12:00:00.000Z",
       "start_actual": "2026-04-27T12:03:17.000Z",
-      "live_viewers": 5685,
+      "live_viewers": 5841,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -251,7 +231,7 @@
       "available_at": "2026-04-27T12:14:57.000Z",
       "start_scheduled": "2026-04-27T12:00:00.000Z",
       "start_actual": "2026-04-27T12:14:57.000Z",
-      "live_viewers": 2492,
+      "live_viewers": 3273,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
