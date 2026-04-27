@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777291805,
+  "cached_at": 1777291881,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "TO2ujFxk1Kk",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-27T09:01:43.000Z",
       "start_scheduled": "2026-04-27T09:00:00.000Z",
       "start_actual": "2026-04-27T09:01:43.000Z",
-      "live_viewers": 4828,
+      "live_viewers": 4860,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -81,26 +81,6 @@
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCANDOlYTJT7N5jlRC3zfzVA": {
-      "video_id": "k73QjKhoJGk",
-      "title": "【#ロベルないとめあ】互いに買ってきたサーティワンの商品を当てあう我々【夕刻ロベル/神楽めあ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-04-26T02:00:25.000Z",
-      "available_at": "2026-04-27T10:01:40.000Z",
-      "start_scheduled": "2026-04-27T10:00:00.000Z",
-      "start_actual": "2026-04-27T10:01:40.000Z",
-      "live_viewers": 3852,
-      "channel": {
-        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
-        "name": "Roberu Ch. 夕刻ロベル",
-        "english_name": "Yukoku Roberu",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCOyYb1c43VlX9rc_lT6NKQw": {
       "video_id": "Jbvy2gXAmBc",
       "title": "Malam Malam kita Malas #MMMalas",
@@ -151,7 +131,7 @@
       "available_at": "2026-04-27T11:02:07.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T11:02:07.000Z",
-      "live_viewers": 6877,
+      "live_viewers": 6842,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-27T11:08:25.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T11:08:25.000Z",
-      "live_viewers": 4915,
+      "live_viewers": 5261,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -221,6 +201,26 @@
         "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UC6t3-_N8A6ME1JShZHHqOMw": {
+      "video_id": "qEZV6SftROs",
+      "title": "【雑談】新衣装写真撮影会&最近のスパチャ読み【花咲みやび/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Superchat_Reading",
+      "published_at": "2026-04-27T11:42:24.000Z",
+      "available_at": "2026-04-27T12:00:00.000Z",
+      "start_scheduled": "2026-04-27T12:00:00.000Z",
+      "start_actual": "2026-04-27T12:00:00.000Z",
+      "live_viewers": 270,
+      "channel": {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "english_name": "Hanasaki Miyabi",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "Xchrs1a-99Y",
       "title": "【首都高バトル】ひさびさに首都高行こうぜ~~~【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
@@ -240,26 +240,6 @@
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "qEZV6SftROs",
-      "title": "【雑談】新衣装写真撮影会&最近のスパチャ読み【花咲みやび/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Superchat_Reading",
-      "published_at": "2026-04-27T11:42:24.000Z",
-      "available_at": "2026-04-27T12:00:00.000Z",
-      "start_scheduled": "2026-04-27T12:00:00.000Z",
-      "start_actual": "2026-04-27T12:00:00.000Z",
-      "live_viewers": 225,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "775nWfB95IE",
       "title": "【Detroit Become Human】CC become human ft. babydoll",
@@ -270,7 +250,7 @@
       "available_at": "2026-04-27T12:03:17.000Z",
       "start_scheduled": "2026-04-27T12:00:00.000Z",
       "start_actual": "2026-04-27T12:03:17.000Z",
-      "live_viewers": 3869,
+      "live_viewers": 4399,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
