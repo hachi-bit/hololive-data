@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777262765,
+  "cached_at": 1777262825,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "H-v9YPl0aw4",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-27T01:30:31.000Z",
       "start_scheduled": "2026-04-27T01:30:00.000Z",
       "start_actual": "2026-04-27T01:30:31.000Z",
-      "live_viewers": 118,
+      "live_viewers": 114,
       "channel": {
         "id": "UCKuwxopq9c3cldzSOo4ceSA",
         "name": "八神ツクモ / Yagami Tsukumo",
@@ -121,26 +121,6 @@
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCozx5csNhCx1wsVq3SZVkBQ": {
-      "video_id": "1ByRLzx4Sf0",
-      "title": "【全員集合】情報密度が高過ぎる件について。【昼ホロ/3人回】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "News_Show",
-      "published_at": "2026-04-26T16:02:11.000Z",
-      "available_at": "2026-04-27T02:58:19.000Z",
-      "start_scheduled": "2026-04-27T03:00:00.000Z",
-      "start_actual": "2026-04-27T02:58:19.000Z",
-      "live_viewers": 5609,
-      "channel": {
-        "id": "UCozx5csNhCx1wsVq3SZVkBQ",
-        "name": "holoAN room (ホロアナ)",
-        "english_name": "holoAN room",
-        "org": "Hololive",
-        "suborg": "0hOfficial",
-        "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCc88OV45ICgHbn3ZqLLb52w": {
       "video_id": "8RPqapRgUsY",
       "title": "Pokémon Champions|ハイボ級 → マスボ級! - 夜十神封魔 / ホロスターズ",
@@ -151,7 +131,7 @@
       "available_at": "2026-04-27T03:01:21.000Z",
       "start_scheduled": "2026-04-27T03:00:00.000Z",
       "start_actual": "2026-04-27T03:01:21.000Z",
-      "live_viewers": 236,
+      "live_viewers": 255,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-27T03:02:32.000Z",
       "start_scheduled": "2026-04-27T03:00:00.000Z",
       "start_actual": "2026-04-27T03:02:32.000Z",
-      "live_viewers": 10249,
+      "live_viewers": 9995,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-27T03:39:46.000Z",
       "start_scheduled": "2026-04-27T03:45:00.000Z",
       "start_actual": "2026-04-27T03:39:46.000Z",
-      "live_viewers": 342,
+      "live_viewers": 361,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
