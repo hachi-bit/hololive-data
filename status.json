@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777258925,
+  "cached_at": 1777258985,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "H-v9YPl0aw4",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-27T01:00:44.000Z",
       "start_scheduled": "2026-04-27T01:00:00.000Z",
       "start_actual": "2026-04-27T01:00:44.000Z",
-      "live_viewers": 5161,
+      "live_viewers": 5084,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-27T02:00:43.000Z",
       "start_scheduled": "2026-04-27T02:00:00.000Z",
       "start_actual": "2026-04-27T02:00:43.000Z",
-      "live_viewers": 1199,
+      "live_viewers": 1168,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -128,10 +128,10 @@
       "status": "live",
       "topic_id": "News_Show",
       "published_at": "2026-04-26T16:02:11.000Z",
-      "available_at": "2026-04-27T02:58:17.000Z",
+      "available_at": "2026-04-27T02:58:19.000Z",
       "start_scheduled": "2026-04-27T03:00:00.000Z",
-      "start_actual": "2026-04-27T02:58:17.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-27T02:58:19.000Z",
+      "live_viewers": 2137,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
@@ -139,6 +139,44 @@
         "org": "Hololive",
         "suborg": "0hOfficial",
         "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCc88OV45ICgHbn3ZqLLb52w": {
+      "video_id": "8RPqapRgUsY",
+      "title": "Pokémon Champions|ハイボ級 → マスボ級! - 夜十神封魔 / ホロスターズ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pokemon",
+      "published_at": "2026-04-26T17:21:24.000Z",
+      "available_at": "2026-04-27T03:00:00.000Z",
+      "start_scheduled": "2026-04-27T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCc88OV45ICgHbn3ZqLLb52w",
+        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+        "english_name": "Yatogami Fuma",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC8rcEBzJSleTkf_-agPM20g": {
+      "video_id": "NEYxXPg7hsQ",
+      "title": "【NEW OUTFIT REVEAL】Monster Hunter Stories 3 with Outfit & fighting more Monsters! #sponsored",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Outfit_Reveal",
+      "published_at": "2026-04-26T15:07:34.000Z",
+      "available_at": "2026-04-27T03:00:00.000Z",
+      "start_scheduled": "2026-04-27T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC8rcEBzJSleTkf_-agPM20g",
+        "name": "IRyS Ch. hololive-EN",
+        "english_name": "IRyS",
+        "org": "Hololive",
+        "suborg": "iaEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
