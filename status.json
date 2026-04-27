@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777290725,
+  "cached_at": 1777290787,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "TO2ujFxk1Kk",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-27T09:01:43.000Z",
       "start_scheduled": "2026-04-27T09:00:00.000Z",
       "start_actual": "2026-04-27T09:01:43.000Z",
-      "live_viewers": 5143,
+      "live_viewers": 5018,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-27T09:32:17.000Z",
       "start_scheduled": "2026-04-27T09:30:00.000Z",
       "start_actual": "2026-04-27T09:32:17.000Z",
-      "live_viewers": 877,
+      "live_viewers": 853,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-27T09:57:29.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T09:57:29.000Z",
-      "live_viewers": 9174,
+      "live_viewers": 10253,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-27T10:01:07.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T10:01:07.000Z",
-      "live_viewers": 5348,
+      "live_viewers": 5201,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-27T10:58:01.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T10:58:01.000Z",
-      "live_viewers": 1022,
+      "live_viewers": 1035,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-27T11:01:50.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T11:01:50.000Z",
-      "live_viewers": 4141,
+      "live_viewers": 3961,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-27T11:31:17.000Z",
       "start_scheduled": "2026-04-27T11:30:00.000Z",
       "start_actual": "2026-04-27T11:31:17.000Z",
-      "live_viewers": 127,
+      "live_viewers": 126,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
