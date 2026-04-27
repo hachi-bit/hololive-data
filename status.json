@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777261745,
+  "cached_at": 1777261805,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "H-v9YPl0aw4",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-26T22:56:14.000Z",
       "start_scheduled": "2026-04-26T23:00:00.000Z",
       "start_actual": "2026-04-26T22:56:14.000Z",
-      "live_viewers": 4886,
+      "live_viewers": 4921,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-27T00:55:22.000Z",
       "start_scheduled": "2026-04-27T01:00:00.000Z",
       "start_actual": "2026-04-27T00:55:22.000Z",
-      "live_viewers": 5873,
+      "live_viewers": 5826,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-27T01:00:44.000Z",
       "start_scheduled": "2026-04-27T01:00:00.000Z",
       "start_actual": "2026-04-27T01:00:44.000Z",
-      "live_viewers": 2895,
+      "live_viewers": 2778,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -79,6 +79,26 @@
         "org": "Hololive",
         "suborg": "ibEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKuwxopq9c3cldzSOo4ceSA": {
+      "video_id": "C1UBmntUBmo",
+      "title": "【APEX】朝活APEX部(部員一名)【八神ツクモ/ネオポルテ】→奇跡の3名 アステル・レダ、xnfriさん",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "apex",
+      "published_at": "2026-04-27T00:25:10.000Z",
+      "available_at": "2026-04-27T01:30:31.000Z",
+      "start_scheduled": "2026-04-27T01:30:00.000Z",
+      "start_actual": "2026-04-27T01:30:31.000Z",
+      "live_viewers": 109,
+      "channel": {
+        "id": "UCKuwxopq9c3cldzSOo4ceSA",
+        "name": "八神ツクモ / Yagami Tsukumo",
+        "english_name": "Yagami Tsukumo",
+        "org": "Neo-Porte",
+        "suborg": "0k5th Generation",
+        "photo": "https://yt3.ggpht.com/7a7QvD0AdkwTmfxFCkcUZbQ18PTsDW0P9LGWmB36pTV4peSqE6_1ouO20tvwtvqpTzqn2bOHag=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCYz_5n-uDuChHtLo7My1HnQ": {
@@ -151,7 +171,7 @@
       "available_at": "2026-04-27T03:01:21.000Z",
       "start_scheduled": "2026-04-27T03:00:00.000Z",
       "start_actual": "2026-04-27T03:01:21.000Z",
-      "live_viewers": 229,
+      "live_viewers": 235,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -191,7 +211,7 @@
       "available_at": "2026-04-27T03:39:46.000Z",
       "start_scheduled": "2026-04-27T03:45:00.000Z",
       "start_actual": "2026-04-27T03:39:46.000Z",
-      "live_viewers": 232,
+      "live_viewers": 269,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
