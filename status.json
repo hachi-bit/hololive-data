@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777295405,
+  "cached_at": 1777295465,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "TO2ujFxk1Kk",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-27T10:00:24.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T10:00:24.000Z",
-      "live_viewers": 25406,
+      "live_viewers": 25236,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-27T11:02:21.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T11:02:21.000Z",
-      "live_viewers": 39063,
+      "live_viewers": 38455,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-27T12:14:57.000Z",
       "start_scheduled": "2026-04-27T12:00:00.000Z",
       "start_actual": "2026-04-27T12:14:57.000Z",
-      "live_viewers": 139,
+      "live_viewers": 4469,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-27T12:59:22.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T12:59:22.000Z",
-      "live_viewers": 575,
+      "live_viewers": 642,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-27T12:59:41.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T12:59:41.000Z",
-      "live_viewers": 369,
+      "live_viewers": 395,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -219,25 +219,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCK9V2B22uJYu3N7eR_BT9QA": {
-      "video_id": "kpL7afPk0TA",
-      "title": "【歌枠/KARAOKE】春はJ-POP?ボカロ?まったりしながら今週もがんばろ🎶【尾丸ポルカ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-04-27T11:42:14.000Z",
-      "available_at": "2026-04-27T13:00:00.000Z",
-      "start_scheduled": "2026-04-27T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-        "name": "Polka Ch. 尾丸ポルカ",
-        "english_name": "Omaru Polka",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCJlcEuTs4LNMPn0xL3czRrA": {
@@ -250,7 +231,7 @@
       "available_at": "2026-04-27T13:00:01.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:01.000Z",
-      "live_viewers": 59,
+      "live_viewers": 82,
       "channel": {
         "id": "UCJlcEuTs4LNMPn0xL3czRrA",
         "name": "ONShannon ",
@@ -270,7 +251,7 @@
       "available_at": "2026-04-27T13:00:12.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:12.000Z",
-      "live_viewers": 58,
+      "live_viewers": 76,
       "channel": {
         "id": "UCK4lZqiWNuOf-CTyX3Qbj1w",
         "name": "Gabriel Abyssia",
@@ -290,7 +271,7 @@
       "available_at": "2026-04-27T13:00:25.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:25.000Z",
-      "live_viewers": 1077,
+      "live_viewers": 1294,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -310,7 +291,7 @@
       "available_at": "2026-04-27T13:00:26.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:26.000Z",
-      "live_viewers": 3230,
+      "live_viewers": 3377,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -330,7 +311,7 @@
       "available_at": "2026-04-27T13:00:28.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:28.000Z",
-      "live_viewers": 4107,
+      "live_viewers": 4338,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -350,7 +331,7 @@
       "available_at": "2026-04-27T13:00:40.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:40.000Z",
-      "live_viewers": 4707,
+      "live_viewers": 5372,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -370,7 +351,7 @@
       "available_at": "2026-04-27T13:00:59.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:59.000Z",
-      "live_viewers": 72,
+      "live_viewers": 81,
       "channel": {
         "id": "UCWrxLFxCjH3_1Ii-SGEBsdQ",
         "name": "Deidey",
@@ -390,7 +371,7 @@
       "available_at": "2026-04-27T13:01:09.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:01:09.000Z",
-      "live_viewers": 7119,
+      "live_viewers": 8018,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -410,7 +391,7 @@
       "available_at": "2026-04-27T13:01:23.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:01:23.000Z",
-      "live_viewers": 47,
+      "live_viewers": 44,
       "channel": {
         "id": "UCzuELV9IeEGNI3_3MUSNnow",
         "name": "Violetta Calytrix",
@@ -430,7 +411,7 @@
       "available_at": "2026-04-27T13:01:55.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:01:55.000Z",
-      "live_viewers": 64,
+      "live_viewers": 81,
       "channel": {
         "id": "UCndWeMfiDIQs-o18GJPwETA",
         "name": "Karissa Sharlotte【AKA Virtual】",
@@ -450,7 +431,7 @@
       "available_at": "2026-04-27T13:04:13.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:04:13.000Z",
-      "live_viewers": 1303,
+      "live_viewers": 1632,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -458,6 +439,26 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCK9V2B22uJYu3N7eR_BT9QA": {
+      "video_id": "kpL7afPk0TA",
+      "title": "【歌枠/KARAOKE】春はJ-POP?ボカロ?まったりしながら今週もがんばろ🎶【尾丸ポルカ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-04-27T11:42:14.000Z",
+      "available_at": "2026-04-27T13:07:47.000Z",
+      "start_scheduled": "2026-04-27T13:00:00.000Z",
+      "start_actual": "2026-04-27T13:07:47.000Z",
+      "live_viewers": 1947,
+      "channel": {
+        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+        "name": "Polka Ch. 尾丸ポルカ",
+        "english_name": "Omaru Polka",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
