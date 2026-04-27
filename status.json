@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777301045,
+  "cached_at": 1777301105,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "WqOQkIS_rLc",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-27T09:57:29.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T09:57:29.000Z",
-      "live_viewers": 4585,
+      "live_viewers": 4485,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-27T12:03:17.000Z",
       "start_scheduled": "2026-04-27T12:00:00.000Z",
       "start_actual": "2026-04-27T12:03:17.000Z",
-      "live_viewers": 8053,
+      "live_viewers": 8307,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-27T12:59:22.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T12:59:22.000Z",
-      "live_viewers": 853,
+      "live_viewers": 813,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-27T12:59:41.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T12:59:41.000Z",
-      "live_viewers": 503,
+      "live_viewers": 527,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-27T13:00:01.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:01.000Z",
-      "live_viewers": 152,
+      "live_viewers": 137,
       "channel": {
         "id": "UCJlcEuTs4LNMPn0xL3czRrA",
         "name": "ONShannon ",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-27T13:01:09.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:01:09.000Z",
-      "live_viewers": 13780,
+      "live_viewers": 14292,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -291,7 +291,7 @@
       "available_at": "2026-04-27T13:01:55.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:01:55.000Z",
-      "live_viewers": 128,
+      "live_viewers": 130,
       "channel": {
         "id": "UCndWeMfiDIQs-o18GJPwETA",
         "name": "Karissa Sharlotte【AKA Virtual】",
@@ -431,7 +431,7 @@
       "available_at": "2026-04-27T14:01:27.000Z",
       "start_scheduled": "2026-04-27T14:00:00.000Z",
       "start_actual": "2026-04-27T14:01:27.000Z",
-      "live_viewers": 773,
+      "live_viewers": 788,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -448,9 +448,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-04-20T15:14:55.000Z",
-      "available_at": "2026-04-27T14:40:00.000Z",
+      "available_at": "2026-04-27T14:41:45.000Z",
       "start_scheduled": "2026-04-27T14:40:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-27T14:41:45.000Z",
+      "live_viewers": 1130,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
