@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777285865,
+  "cached_at": 1777285926,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "TO2ujFxk1Kk",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-27T10:00:28.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T10:00:28.000Z",
-      "live_viewers": 16957,
+      "live_viewers": 16789,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-27T10:01:40.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T10:01:40.000Z",
-      "live_viewers": 4052,
+      "live_viewers": 4178,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -159,6 +159,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp6993wxpyDPHUpavwDFqgg": {
+      "video_id": "QTHO1h2Utbg",
+      "title": "【重大告知】ときのそら覚悟決めました。【ホロライブ/ときのそら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "announce",
+      "published_at": "2026-04-23T14:08:37.000Z",
+      "available_at": "2026-04-27T10:28:35.000Z",
+      "start_scheduled": "2026-04-27T10:30:00.000Z",
+      "start_actual": "2026-04-27T10:28:35.000Z",
+      "live_viewers": 6532,
+      "channel": {
+        "id": "UCp6993wxpyDPHUpavwDFqgg",
+        "name": "SoraCh. ときのそらチャンネル",
+        "english_name": "Tokino Sora",
+        "org": "Hololive",
+        "suborg": "0v0th Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
