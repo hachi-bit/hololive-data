@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777291085,
+  "cached_at": 1777291145,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "TO2ujFxk1Kk",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-27T09:01:43.000Z",
       "start_scheduled": "2026-04-27T09:00:00.000Z",
       "start_actual": "2026-04-27T09:01:43.000Z",
-      "live_viewers": 5018,
+      "live_viewers": 4879,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-27T10:00:24.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T10:00:24.000Z",
-      "live_viewers": 24147,
+      "live_viewers": 24070,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -121,26 +121,6 @@
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCp6993wxpyDPHUpavwDFqgg": {
-      "video_id": "QTHO1h2Utbg",
-      "title": "【重大告知】ときのそら覚悟決めました。【ホロライブ/ときのそら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "announce",
-      "published_at": "2026-04-23T14:08:37.000Z",
-      "available_at": "2026-04-27T10:28:35.000Z",
-      "start_scheduled": "2026-04-27T10:30:00.000Z",
-      "start_actual": "2026-04-27T10:28:35.000Z",
-      "live_viewers": 8176,
-      "channel": {
-        "id": "UCp6993wxpyDPHUpavwDFqgg",
-        "name": "SoraCh. ときのそらチャンネル",
-        "english_name": "Tokino Sora",
-        "org": "Hololive",
-        "suborg": "0v0th Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCOyYb1c43VlX9rc_lT6NKQw": {
       "video_id": "Jbvy2gXAmBc",
       "title": "Malam Malam kita Malas #MMMalas",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-27T11:01:50.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T11:01:50.000Z",
-      "live_viewers": 3961,
+      "live_viewers": 4112,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-27T11:02:07.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T11:02:07.000Z",
-      "live_viewers": 6502,
+      "live_viewers": 6602,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-27T11:02:21.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T11:02:21.000Z",
-      "live_viewers": 38527,
+      "live_viewers": 38795,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -251,7 +231,7 @@
       "available_at": "2026-04-27T11:31:17.000Z",
       "start_scheduled": "2026-04-27T11:30:00.000Z",
       "start_actual": "2026-04-27T11:31:17.000Z",
-      "live_viewers": 129,
+      "live_viewers": 142,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
