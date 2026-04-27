@@ -1,25 +1,4 @@
 {
-  "cached_at": 1777317485,
-  "lives": {
-    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
-      "video_id": "tdK8osqJgdw",
-      "title": "【Tomodachi Life】HORROR - The Cursed Island of Yearning.【Pavolia Reine/hololiveID】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-27T13:26:19.000Z",
-      "available_at": "2026-04-27T14:01:27.000Z",
-      "start_scheduled": "2026-04-27T14:00:00.000Z",
-      "start_actual": "2026-04-27T14:01:27.000Z",
-      "live_viewers": 2730,
-      "channel": {
-        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "name": "Pavolia Reine Ch. hololive-ID",
-        "english_name": "Pavolia Reine",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    }
-  }
+  "cached_at": 1777317545,
+  "lives": {}
 }
