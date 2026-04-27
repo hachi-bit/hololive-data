@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777302605,
+  "cached_at": 1777302665,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "WqOQkIS_rLc",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-27T09:57:29.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T09:57:29.000Z",
-      "live_viewers": 4362,
+      "live_viewers": 4355,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-27T12:03:17.000Z",
       "start_scheduled": "2026-04-27T12:00:00.000Z",
       "start_actual": "2026-04-27T12:03:17.000Z",
-      "live_viewers": 8393,
+      "live_viewers": 8287,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-27T12:59:22.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T12:59:22.000Z",
-      "live_viewers": 760,
+      "live_viewers": 750,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-27T13:00:28.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:28.000Z",
-      "live_viewers": 8728,
+      "live_viewers": 8711,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-27T13:00:40.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:40.000Z",
-      "live_viewers": 8727,
+      "live_viewers": 8853,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-27T13:00:59.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:00:59.000Z",
-      "live_viewers": 102,
+      "live_viewers": 94,
       "channel": {
         "id": "UCWrxLFxCjH3_1Ii-SGEBsdQ",
         "name": "Deidey",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-27T13:01:09.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:01:09.000Z",
-      "live_viewers": 14103,
+      "live_viewers": 14263,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -331,7 +331,7 @@
       "available_at": "2026-04-27T13:07:47.000Z",
       "start_scheduled": "2026-04-27T13:00:00.000Z",
       "start_actual": "2026-04-27T13:07:47.000Z",
-      "live_viewers": 3283,
+      "live_viewers": 3601,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -439,26 +439,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCFTLzh12_nrtzqBPsTCqenA": {
-      "video_id": "LriFEExbkWk",
-      "title": "『#やりたいと思ってる自分磨き  』 #アキちょこナイパレ 第33回 ~ホロライブ深夜ラジオ~",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-04-20T15:14:55.000Z",
-      "available_at": "2026-04-27T14:41:45.000Z",
-      "start_scheduled": "2026-04-27T14:40:00.000Z",
-      "start_actual": "2026-04-27T14:41:45.000Z",
-      "live_viewers": 2328,
-      "channel": {
-        "id": "UCFTLzh12_nrtzqBPsTCqenA",
-        "name": "アキロゼCh。Vtuber/ホロライブ所属",
-        "english_name": "Aki Rosenthal",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
