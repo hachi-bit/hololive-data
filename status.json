@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777259225,
+  "cached_at": 1777259285,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "H-v9YPl0aw4",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-26T22:56:14.000Z",
       "start_scheduled": "2026-04-26T23:00:00.000Z",
       "start_actual": "2026-04-26T22:56:14.000Z",
-      "live_viewers": 5457,
+      "live_viewers": 5523,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-27T02:00:43.000Z",
       "start_scheduled": "2026-04-27T02:00:00.000Z",
       "start_actual": "2026-04-27T02:00:43.000Z",
-      "live_viewers": 1168,
+      "live_viewers": 1226,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-27T02:58:19.000Z",
       "start_scheduled": "2026-04-27T03:00:00.000Z",
       "start_actual": "2026-04-27T02:58:19.000Z",
-      "live_viewers": 2858,
+      "live_viewers": 3512,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
@@ -139,25 +139,6 @@
         "org": "Hololive",
         "suborg": "0hOfficial",
         "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC8rcEBzJSleTkf_-agPM20g": {
-      "video_id": "NEYxXPg7hsQ",
-      "title": "【NEW OUTFIT REVEAL】Monster Hunter Stories 3 with Outfit & fighting more Monsters! #sponsored",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Outfit_Reveal",
-      "published_at": "2026-04-26T15:07:34.000Z",
-      "available_at": "2026-04-27T03:00:00.000Z",
-      "start_scheduled": "2026-04-27T03:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC8rcEBzJSleTkf_-agPM20g",
-        "name": "IRyS Ch. hololive-EN",
-        "english_name": "IRyS",
-        "org": "Hololive",
-        "suborg": "iaEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCc88OV45ICgHbn3ZqLLb52w": {
@@ -170,7 +151,7 @@
       "available_at": "2026-04-27T03:01:21.000Z",
       "start_scheduled": "2026-04-27T03:00:00.000Z",
       "start_actual": "2026-04-27T03:01:21.000Z",
-      "live_viewers": 78,
+      "live_viewers": 113,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -178,6 +159,26 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC8rcEBzJSleTkf_-agPM20g": {
+      "video_id": "NEYxXPg7hsQ",
+      "title": "【NEW OUTFIT REVEAL】Monster Hunter Stories 3 with Outfit & fighting more Monsters! #sponsored",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Outfit_Reveal",
+      "published_at": "2026-04-26T15:07:34.000Z",
+      "available_at": "2026-04-27T03:02:32.000Z",
+      "start_scheduled": "2026-04-27T03:00:00.000Z",
+      "start_actual": "2026-04-27T03:02:32.000Z",
+      "live_viewers": 2914,
+      "channel": {
+        "id": "UC8rcEBzJSleTkf_-agPM20g",
+        "name": "IRyS Ch. hololive-EN",
+        "english_name": "IRyS",
+        "org": "Hololive",
+        "suborg": "iaEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
