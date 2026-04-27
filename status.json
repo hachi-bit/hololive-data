@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777293605,
+  "cached_at": 1777293665,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "TO2ujFxk1Kk",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-27T09:57:29.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T09:57:29.000Z",
-      "live_viewers": 8641,
+      "live_viewers": 8360,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-27T10:00:24.000Z",
       "start_scheduled": "2026-04-27T10:00:00.000Z",
       "start_actual": "2026-04-27T10:00:24.000Z",
-      "live_viewers": 24673,
+      "live_viewers": 24675,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCOyYb1c43VlX9rc_lT6NKQw": {
-      "video_id": "Jbvy2gXAmBc",
-      "title": "Malam Malam kita Malas #MMMalas",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-04-27T10:22:39.000Z",
-      "available_at": "2026-04-27T10:58:01.000Z",
-      "start_scheduled": "2026-04-27T11:00:00.000Z",
-      "start_actual": "2026-04-27T10:58:01.000Z",
-      "live_viewers": 868,
-      "channel": {
-        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-        "name": "Ayunda Risu Ch. hololive-ID",
-        "english_name": "Ayunda Risu",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCAWSyEs_Io8MtpY3m-zqILA": {
@@ -111,7 +91,7 @@
       "available_at": "2026-04-27T11:02:07.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T11:02:07.000Z",
-      "live_viewers": 7207,
+      "live_viewers": 7234,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -131,7 +111,7 @@
       "available_at": "2026-04-27T11:02:21.000Z",
       "start_scheduled": "2026-04-27T11:00:00.000Z",
       "start_actual": "2026-04-27T11:02:21.000Z",
-      "live_viewers": 41677,
+      "live_viewers": 41344,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-27T11:31:17.000Z",
       "start_scheduled": "2026-04-27T11:30:00.000Z",
       "start_actual": "2026-04-27T11:31:17.000Z",
-      "live_viewers": 199,
+      "live_viewers": 210,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-27T12:00:00.000Z",
       "start_scheduled": "2026-04-27T12:00:00.000Z",
       "start_actual": "2026-04-27T12:00:00.000Z",
-      "live_viewers": 394,
+      "live_viewers": 402,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -231,7 +211,7 @@
       "available_at": "2026-04-27T12:14:57.000Z",
       "start_scheduled": "2026-04-27T12:00:00.000Z",
       "start_actual": "2026-04-27T12:14:57.000Z",
-      "live_viewers": 4966,
+      "live_viewers": 5526,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
