@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777261325,
+  "cached_at": 1777261385,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "H-v9YPl0aw4",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-27T00:55:22.000Z",
       "start_scheduled": "2026-04-27T01:00:00.000Z",
       "start_actual": "2026-04-27T00:55:22.000Z",
-      "live_viewers": 5934,
+      "live_viewers": 5873,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-27T01:00:44.000Z",
       "start_scheduled": "2026-04-27T01:00:00.000Z",
       "start_actual": "2026-04-27T01:00:44.000Z",
-      "live_viewers": 3176,
+      "live_viewers": 2895,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-27T02:00:43.000Z",
       "start_scheduled": "2026-04-27T02:00:00.000Z",
       "start_actual": "2026-04-27T02:00:43.000Z",
-      "live_viewers": 1259,
+      "live_viewers": 1404,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-27T03:01:21.000Z",
       "start_scheduled": "2026-04-27T03:00:00.000Z",
       "start_actual": "2026-04-27T03:01:21.000Z",
-      "live_viewers": 212,
+      "live_viewers": 228,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-27T03:02:32.000Z",
       "start_scheduled": "2026-04-27T03:00:00.000Z",
       "start_actual": "2026-04-27T03:02:32.000Z",
-      "live_viewers": 8258,
+      "live_viewers": 8671,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -179,6 +179,26 @@
         "org": "Hololive",
         "suborg": "iaEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "qBg_EPsjXsk",
+      "title": "【 APEX 】緊急でえーぺっくすをしています / アステル つくも xnfri",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "apex",
+      "published_at": "2026-04-27T03:36:29.000Z",
+      "available_at": "2026-04-27T03:39:46.000Z",
+      "start_scheduled": "2026-04-27T03:45:00.000Z",
+      "start_actual": "2026-04-27T03:39:46.000Z",
+      "live_viewers": 152,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
