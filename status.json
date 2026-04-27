@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777248965,
+  "cached_at": 1777249025,
   "lives": {
     "UCjLEmnpCNeisMxy134KPwWw": {
       "video_id": "9UXffcq9JQk",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-26T21:46:18.000Z",
       "start_scheduled": "2026-04-26T21:45:00.000Z",
       "start_actual": "2026-04-26T21:46:18.000Z",
-      "live_viewers": 1302,
+      "live_viewers": 1269,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-26T22:56:14.000Z",
       "start_scheduled": "2026-04-26T23:00:00.000Z",
       "start_actual": "2026-04-26T22:56:14.000Z",
-      "live_viewers": 4597,
+      "live_viewers": 4741,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -39,6 +39,26 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7gxU6NXjKF1LrgOddPzgTw": {
+      "video_id": "iaUGFhuAQJI",
+      "title": "【T2 MENSHI】LET'S CHECK OUT HOW #HAKKAMINI3D WAS COOKED MY HAKKITO 🤘🎤🔥【BEHIND THE SCENES】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-04-26T15:29:24.000Z",
+      "available_at": "2026-04-27T00:14:11.000Z",
+      "start_scheduled": "2026-04-27T00:15:00.000Z",
+      "start_actual": "2026-04-27T00:14:11.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+        "english_name": "Banzoin Hakka",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
