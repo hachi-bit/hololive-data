@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777282565,
+  "cached_at": 1777282625,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "TO2ujFxk1Kk",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-27T09:01:43.000Z",
       "start_scheduled": "2026-04-27T09:00:00.000Z",
       "start_actual": "2026-04-27T09:01:43.000Z",
-      "live_viewers": 8672,
+      "live_viewers": 9245,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -28,9 +28,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-04-27T08:35:20.000Z",
-      "available_at": "2026-04-27T09:30:00.000Z",
+      "available_at": "2026-04-27T09:32:17.000Z",
       "start_scheduled": "2026-04-27T09:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-27T09:32:17.000Z",
+      "live_viewers": 405,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
