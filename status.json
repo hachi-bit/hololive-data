@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777345325,
+  "cached_at": 1777345385,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "7FJIAgWJb80",
@@ -19,6 +19,25 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1uv2Oq6kNxgATlCiez59hw": {
+      "video_id": "WDuhGal5OTc",
+      "title": "【 ぷちホロの村 】#2 ひるかつ~~!☀【常闇トワ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-04-27T16:50:18.000Z",
+      "available_at": "2026-04-28T03:00:00.000Z",
+      "start_scheduled": "2026-04-28T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1uv2Oq6kNxgATlCiez59hw",
+        "name": "Towa Ch. 常闇トワ",
+        "english_name": "Tokoyami Towa",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
