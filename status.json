@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777382767,
+  "cached_at": 1777382834,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "GC4_WX6erXU",
@@ -30,7 +30,7 @@
       "available_at": "2026-04-28T09:57:52.000Z",
       "start_scheduled": "2026-04-28T10:00:00.000Z",
       "start_actual": "2026-04-28T09:57:52.000Z",
-      "live_viewers": 4129,
+      "live_viewers": 3859,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -70,7 +70,7 @@
       "available_at": "2026-04-28T11:01:06.000Z",
       "start_scheduled": "2026-04-28T11:00:00.000Z",
       "start_actual": "2026-04-28T11:01:06.000Z",
-      "live_viewers": 9350,
+      "live_viewers": 9124,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -130,7 +130,7 @@
       "available_at": "2026-04-28T12:03:02.000Z",
       "start_scheduled": "2026-04-28T12:00:00.000Z",
       "start_actual": "2026-04-28T12:03:02.000Z",
-      "live_viewers": 20958,
+      "live_viewers": 20981,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -150,7 +150,7 @@
       "available_at": "2026-04-28T12:11:34.000Z",
       "start_scheduled": "2026-04-28T12:10:00.000Z",
       "start_actual": "2026-04-28T12:11:34.000Z",
-      "live_viewers": 438,
+      "live_viewers": 447,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -170,7 +170,7 @@
       "available_at": "2026-04-28T12:38:03.000Z",
       "start_scheduled": "2026-04-28T12:30:00.000Z",
       "start_actual": "2026-04-28T12:38:03.000Z",
-      "live_viewers": 25,
+      "live_viewers": 30,
       "channel": {
         "id": "UCNGMMdEgYIUR6rC44v9aZ8w",
         "name": "瀬尾カザリ / Ceo Kazari",
@@ -210,7 +210,7 @@
       "available_at": "2026-04-28T13:00:11.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:00:11.000Z",
-      "live_viewers": 4211,
+      "live_viewers": 4328,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -230,7 +230,7 @@
       "available_at": "2026-04-28T13:00:18.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:00:18.000Z",
-      "live_viewers": 3905,
+      "live_viewers": 4021,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -270,7 +270,7 @@
       "available_at": "2026-04-28T13:00:59.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:00:59.000Z",
-      "live_viewers": 5127,
+      "live_viewers": 5672,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -290,7 +290,7 @@
       "available_at": "2026-04-28T13:01:09.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:01:09.000Z",
-      "live_viewers": 14533,
+      "live_viewers": 15808,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -307,8 +307,9 @@
       "status": "live",
       "topic_id": "watchalong",
       "published_at": "2026-04-28T13:13:05.000Z",
-      "available_at": "2026-04-28T13:18:05.000Z",
+      "available_at": "2026-04-28T13:18:25.000Z",
       "start_scheduled": "2026-04-28T13:18:05.000Z",
+      "start_actual": "2026-04-28T13:18:25.000Z",
       "live_viewers": 0,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
