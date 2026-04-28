@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777382045,
+  "cached_at": 1777382105,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "GC4_WX6erXU",
@@ -50,7 +50,7 @@
       "available_at": "2026-04-28T10:59:55.000Z",
       "start_scheduled": "2026-04-28T11:00:00.000Z",
       "start_actual": "2026-04-28T10:59:55.000Z",
-      "live_viewers": 2220,
+      "live_viewers": 2021,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -90,7 +90,7 @@
       "available_at": "2026-04-28T11:03:47.000Z",
       "start_scheduled": "2026-04-28T11:00:00.000Z",
       "start_actual": "2026-04-28T11:03:47.000Z",
-      "live_viewers": 34437,
+      "live_viewers": 33094,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -110,7 +110,7 @@
       "available_at": "2026-04-28T11:59:53.000Z",
       "start_scheduled": "2026-04-28T12:00:00.000Z",
       "start_actual": "2026-04-28T11:59:53.000Z",
-      "live_viewers": 2057,
+      "live_viewers": 2091,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -130,7 +130,7 @@
       "available_at": "2026-04-28T12:03:02.000Z",
       "start_scheduled": "2026-04-28T12:00:00.000Z",
       "start_actual": "2026-04-28T12:03:02.000Z",
-      "live_viewers": 21386,
+      "live_viewers": 21172,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -170,7 +170,7 @@
       "available_at": "2026-04-28T12:38:03.000Z",
       "start_scheduled": "2026-04-28T12:30:00.000Z",
       "start_actual": "2026-04-28T12:38:03.000Z",
-      "live_viewers": 34,
+      "live_viewers": 28,
       "channel": {
         "id": "UCNGMMdEgYIUR6rC44v9aZ8w",
         "name": "瀬尾カザリ / Ceo Kazari",
@@ -219,25 +219,6 @@
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "2PcZmEIBZCo",
-      "title": "【 同時視聴 】名探偵コナン ハロウィンの花嫁見る!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-04-28T12:29:25.000Z",
-      "available_at": "2026-04-28T13:00:00.000Z",
-      "start_scheduled": "2026-04-28T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "english_name": "Kikirara Vivi",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "ZTL2Ad_DGrc",
       "title": "【ぷちホロの村】のんびりスローライフ❤【ホロライブ DEV_IS 響咲リオナ】",
@@ -248,7 +229,7 @@
       "available_at": "2026-04-28T13:00:11.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:00:11.000Z",
-      "live_viewers": 3283,
+      "live_viewers": 3347,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -268,7 +249,7 @@
       "available_at": "2026-04-28T13:00:18.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:00:18.000Z",
-      "live_viewers": 3242,
+      "live_viewers": 3440,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -288,7 +269,7 @@
       "available_at": "2026-04-28T13:00:59.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:00:59.000Z",
-      "live_viewers": 3847,
+      "live_viewers": 4144,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -308,7 +289,7 @@
       "available_at": "2026-04-28T13:01:09.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:01:09.000Z",
-      "live_viewers": 11462,
+      "live_viewers": 12892,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -316,6 +297,26 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "2PcZmEIBZCo",
+      "title": "【 同時視聴 】名探偵コナン ハロウィンの花嫁見る!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-04-28T12:29:25.000Z",
+      "available_at": "2026-04-28T13:10:59.000Z",
+      "start_scheduled": "2026-04-28T13:00:00.000Z",
+      "start_actual": "2026-04-28T13:10:59.000Z",
+      "live_viewers": 1278,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
