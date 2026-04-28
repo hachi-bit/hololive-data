@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777381565,
+  "cached_at": 1777381625,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "GC4_WX6erXU",
@@ -90,7 +90,7 @@
       "available_at": "2026-04-28T11:03:47.000Z",
       "start_scheduled": "2026-04-28T11:00:00.000Z",
       "start_actual": "2026-04-28T11:03:47.000Z",
-      "live_viewers": 35734,
+      "live_viewers": 34605,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -130,7 +130,7 @@
       "available_at": "2026-04-28T12:03:02.000Z",
       "start_scheduled": "2026-04-28T12:00:00.000Z",
       "start_actual": "2026-04-28T12:03:02.000Z",
-      "live_viewers": 21640,
+      "live_viewers": 21471,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -170,7 +170,7 @@
       "available_at": "2026-04-28T12:38:03.000Z",
       "start_scheduled": "2026-04-28T12:30:00.000Z",
       "start_actual": "2026-04-28T12:38:03.000Z",
-      "live_viewers": 24,
+      "live_viewers": 31,
       "channel": {
         "id": "UCNGMMdEgYIUR6rC44v9aZ8w",
         "name": "瀬尾カザリ / Ceo Kazari",
@@ -200,25 +200,6 @@
         "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCYz_5n-uDuChHtLo7My1HnQ": {
-      "video_id": "DLVH1uZnLmk",
-      "title": "【ZOMILY - FREETALK】 *winks at you* HI ZOMILY~ 【Kureiji Ollie】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-04-25T16:40:14.000Z",
-      "available_at": "2026-04-28T13:00:00.000Z",
-      "start_scheduled": "2026-04-28T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
-        "name": "Kureiji Ollie Ch. hololive-ID",
-        "english_name": "Kureiji Ollie",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "2PcZmEIBZCo",
       "title": "【 同時視聴 】名探偵コナン ハロウィンの花嫁見る!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
@@ -238,6 +219,25 @@
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCYz_5n-uDuChHtLo7My1HnQ": {
+      "video_id": "DLVH1uZnLmk",
+      "title": "【ZOMILY - FREETALK】 *winks at you* HI ZOMILY~ 【Kureiji Ollie】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-04-25T16:40:14.000Z",
+      "available_at": "2026-04-28T13:00:00.000Z",
+      "start_scheduled": "2026-04-28T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+        "name": "Kureiji Ollie Ch. hololive-ID",
+        "english_name": "Kureiji Ollie",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "ZTL2Ad_DGrc",
       "title": "【ぷちホロの村】のんびりスローライフ❤【ホロライブ DEV_IS 響咲リオナ】",
@@ -248,7 +248,7 @@
       "available_at": "2026-04-28T13:00:11.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:00:11.000Z",
-      "live_viewers": 1911,
+      "live_viewers": 2597,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -268,7 +268,7 @@
       "available_at": "2026-04-28T13:00:18.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:00:18.000Z",
-      "live_viewers": 1980,
+      "live_viewers": 2640,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -288,7 +288,7 @@
       "available_at": "2026-04-28T13:00:59.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:00:59.000Z",
-      "live_viewers": 2194,
+      "live_viewers": 2928,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -308,7 +308,7 @@
       "available_at": "2026-04-28T13:01:09.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:01:09.000Z",
-      "live_viewers": 6005,
+      "live_viewers": 8138,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
