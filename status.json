@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777379469,
+  "cached_at": 1777379529,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "GC4_WX6erXU",
@@ -30,7 +30,7 @@
       "available_at": "2026-04-28T09:57:52.000Z",
       "start_scheduled": "2026-04-28T10:00:00.000Z",
       "start_actual": "2026-04-28T09:57:52.000Z",
-      "live_viewers": 5397,
+      "live_viewers": 5303,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -70,7 +70,7 @@
       "available_at": "2026-04-28T11:01:06.000Z",
       "start_scheduled": "2026-04-28T11:00:00.000Z",
       "start_actual": "2026-04-28T11:01:06.000Z",
-      "live_viewers": 9917,
+      "live_viewers": 10004,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -110,7 +110,7 @@
       "available_at": "2026-04-28T11:59:53.000Z",
       "start_scheduled": "2026-04-28T12:00:00.000Z",
       "start_actual": "2026-04-28T11:59:53.000Z",
-      "live_viewers": 1788,
+      "live_viewers": 1924,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -130,7 +130,7 @@
       "available_at": "2026-04-28T12:00:35.000Z",
       "start_scheduled": "2026-04-28T12:00:00.000Z",
       "start_actual": "2026-04-28T12:00:35.000Z",
-      "live_viewers": 4542,
+      "live_viewers": 4678,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -150,7 +150,7 @@
       "available_at": "2026-04-28T12:03:02.000Z",
       "start_scheduled": "2026-04-28T12:00:00.000Z",
       "start_actual": "2026-04-28T12:03:02.000Z",
-      "live_viewers": 20268,
+      "live_viewers": 20644,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -170,7 +170,7 @@
       "available_at": "2026-04-28T12:11:34.000Z",
       "start_scheduled": "2026-04-28T12:10:00.000Z",
       "start_actual": "2026-04-28T12:11:34.000Z",
-      "live_viewers": 304,
+      "live_viewers": 333,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -178,6 +178,25 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNGMMdEgYIUR6rC44v9aZ8w": {
+      "video_id": "4V3mgpq3qQ4",
+      "title": "【league of legends】lolカスタム参戦するで メンバー概要欄【瀬尾カザリ / ネオポルテ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-04-28T12:24:22.000Z",
+      "available_at": "2026-04-28T12:30:00.000Z",
+      "start_scheduled": "2026-04-28T12:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCNGMMdEgYIUR6rC44v9aZ8w",
+        "name": "瀬尾カザリ / Ceo Kazari",
+        "english_name": "CEO Kazari",
+        "org": "Neo-Porte",
+        "suborg": "0g3rd Generation",
+        "photo": "https://yt3.ggpht.com/9WUbgXgzWb_lHkv9F0gpf9C8447nwQdMwzzetZl54s-cEGP4TBfzrLzeFH74FAoPPqzNCoHgIQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
