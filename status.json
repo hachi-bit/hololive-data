@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777350906,
+  "cached_at": 1777350965,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "7FJIAgWJb80",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-28T03:02:41.000Z",
       "start_scheduled": "2026-04-28T03:00:00.000Z",
       "start_actual": "2026-04-28T03:02:41.000Z",
-      "live_viewers": 8163,
+      "live_viewers": 8377,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -88,9 +88,10 @@
       "status": "live",
       "topic_id": "Death_Stranding",
       "published_at": "2026-04-28T04:04:46.000Z",
-      "available_at": "2026-04-28T04:30:00.000Z",
+      "available_at": "2026-04-28T04:32:17.000Z",
       "start_scheduled": "2026-04-28T04:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-28T04:32:17.000Z",
+      "live_viewers": 88,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
