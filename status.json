@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777381149,
+  "cached_at": 1777381207,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "GC4_WX6erXU",
@@ -130,7 +130,7 @@
       "available_at": "2026-04-28T12:00:35.000Z",
       "start_scheduled": "2026-04-28T12:00:00.000Z",
       "start_actual": "2026-04-28T12:00:35.000Z",
-      "live_viewers": 4674,
+      "live_viewers": 4695,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -170,7 +170,7 @@
       "available_at": "2026-04-28T12:11:34.000Z",
       "start_scheduled": "2026-04-28T12:10:00.000Z",
       "start_actual": "2026-04-28T12:11:34.000Z",
-      "live_viewers": 381,
+      "live_viewers": 401,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -190,7 +190,7 @@
       "available_at": "2026-04-28T12:38:03.000Z",
       "start_scheduled": "2026-04-28T12:30:00.000Z",
       "start_actual": "2026-04-28T12:38:03.000Z",
-      "live_viewers": 31,
+      "live_viewers": 25,
       "channel": {
         "id": "UCNGMMdEgYIUR6rC44v9aZ8w",
         "name": "瀬尾カザリ / Ceo Kazari",
@@ -198,6 +198,26 @@
         "org": "Neo-Porte",
         "suborg": "0g3rd Generation",
         "photo": "https://yt3.ggpht.com/9WUbgXgzWb_lHkv9F0gpf9C8447nwQdMwzzetZl54s-cEGP4TBfzrLzeFH74FAoPPqzNCoHgIQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCOyYb1c43VlX9rc_lT6NKQw": {
+      "video_id": "kkXJNe75N_Q",
+      "title": "YEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-28T12:32:50.000Z",
+      "available_at": "2026-04-28T12:58:17.000Z",
+      "start_scheduled": "2026-04-28T13:00:00.000Z",
+      "start_actual": "2026-04-28T12:58:17.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+        "name": "Ayunda Risu Ch. hololive-ID",
+        "english_name": "Ayunda Risu",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
