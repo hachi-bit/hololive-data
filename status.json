@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777378505,
+  "cached_at": 1777378565,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "GC4_WX6erXU",
@@ -110,7 +110,7 @@
       "available_at": "2026-04-28T11:59:53.000Z",
       "start_scheduled": "2026-04-28T12:00:00.000Z",
       "start_actual": "2026-04-28T11:59:53.000Z",
-      "live_viewers": 1091,
+      "live_viewers": 1352,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -130,7 +130,7 @@
       "available_at": "2026-04-28T12:00:35.000Z",
       "start_scheduled": "2026-04-28T12:00:00.000Z",
       "start_actual": "2026-04-28T12:00:35.000Z",
-      "live_viewers": 3479,
+      "live_viewers": 3834,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -150,7 +150,7 @@
       "available_at": "2026-04-28T12:03:02.000Z",
       "start_scheduled": "2026-04-28T12:00:00.000Z",
       "start_actual": "2026-04-28T12:03:02.000Z",
-      "live_viewers": 16571,
+      "live_viewers": 18102,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -167,9 +167,10 @@
       "status": "live",
       "topic_id": "League_of_Legends",
       "published_at": "2026-04-28T12:08:58.000Z",
-      "available_at": "2026-04-28T12:10:00.000Z",
+      "available_at": "2026-04-28T12:11:34.000Z",
       "start_scheduled": "2026-04-28T12:10:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-28T12:11:34.000Z",
+      "live_viewers": 172,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
