@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777347185,
+  "cached_at": 1777347245,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "7FJIAgWJb80",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-28T01:09:37.000Z",
       "start_scheduled": "2026-04-28T01:15:00.000Z",
       "start_actual": "2026-04-28T01:09:37.000Z",
-      "live_viewers": 5937,
+      "live_viewers": 5926,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-28T03:02:41.000Z",
       "start_scheduled": "2026-04-28T03:00:00.000Z",
       "start_actual": "2026-04-28T03:02:41.000Z",
-      "live_viewers": 6253,
+      "live_viewers": 6535,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -39,6 +39,26 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "RJH1s7QtL0k",
+      "title": "【Tomodachi Life】Love is NOT Dead, and we will prove it【Pavolia Reine/hololiveID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-28T02:56:48.000Z",
+      "available_at": "2026-04-28T03:31:17.000Z",
+      "start_scheduled": "2026-04-28T03:30:00.000Z",
+      "start_actual": "2026-04-28T03:31:17.000Z",
+      "live_viewers": 239,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
