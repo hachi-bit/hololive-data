@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777338067,
+  "cached_at": 1777338128,
   "lives": {
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
       "video_id": "IhAxaTZeNqw",
@@ -19,6 +19,25 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
+      "video_id": "6w2WKB2fxkM",
+      "title": "【T4 Members Only】RED CARPET PREMIERE: SAYONARA",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-04-27T00:12:55.000Z",
+      "available_at": "2026-04-28T01:00:00.000Z",
+      "start_scheduled": "2026-04-28T01:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+        "name": "Octavio Ch. HOLOSTARS-EN",
+        "english_name": "Octavio",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
