@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777363805,
+  "cached_at": 1777363865,
   "lives": {
-    "UC1uv2Oq6kNxgATlCiez59hw": {
-      "video_id": "WDuhGal5OTc",
-      "title": "【 ぷちホロの村 】#2 ひるかつ~~!☀【常闇トワ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "holoVillage",
-      "published_at": "2026-04-27T16:50:18.000Z",
-      "available_at": "2026-04-28T03:02:41.000Z",
-      "start_scheduled": "2026-04-28T03:00:00.000Z",
-      "start_actual": "2026-04-28T03:02:41.000Z",
-      "live_viewers": 9013,
-      "channel": {
-        "id": "UC1uv2Oq6kNxgATlCiez59hw",
-        "name": "Towa Ch. 常闇トワ",
-        "english_name": "Tokoyami Towa",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "RJH1s7QtL0k",
       "title": "【Tomodachi Life】Love is NOT Dead, and we will prove it【Pavolia Reine/hololiveID】",
@@ -51,7 +31,7 @@
       "available_at": "2026-04-28T04:00:20.000Z",
       "start_scheduled": "2026-04-28T04:00:00.000Z",
       "start_actual": "2026-04-28T04:00:20.000Z",
-      "live_viewers": 2282,
+      "live_viewers": 2323,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
