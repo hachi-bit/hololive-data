@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777381445,
+  "cached_at": 1777381505,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "GC4_WX6erXU",
@@ -110,7 +110,7 @@
       "available_at": "2026-04-28T11:59:53.000Z",
       "start_scheduled": "2026-04-28T12:00:00.000Z",
       "start_actual": "2026-04-28T11:59:53.000Z",
-      "live_viewers": 2110,
+      "live_viewers": 2057,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -118,26 +118,6 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1iA6_NT4mtAcIII6ygrvCw": {
-      "video_id": "S7bjUzgO-bQ",
-      "title": "【雑談】短めだけどお話しよ~!【轟はじめ/ReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-04-27T12:24:55.000Z",
-      "available_at": "2026-04-28T12:00:35.000Z",
-      "start_scheduled": "2026-04-28T12:00:00.000Z",
-      "start_actual": "2026-04-28T12:00:35.000Z",
-      "live_viewers": 4655,
-      "channel": {
-        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-        "english_name": "Todoroki Hajime",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1DCedRgGHBdm81E1llLhOQ": {
@@ -170,7 +150,7 @@
       "available_at": "2026-04-28T12:11:34.000Z",
       "start_scheduled": "2026-04-28T12:10:00.000Z",
       "start_actual": "2026-04-28T12:11:34.000Z",
-      "live_viewers": 401,
+      "live_viewers": 413,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -268,7 +248,7 @@
       "available_at": "2026-04-28T13:00:11.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:00:11.000Z",
-      "live_viewers": 1010,
+      "live_viewers": 1911,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -288,7 +268,7 @@
       "available_at": "2026-04-28T13:00:18.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:00:18.000Z",
-      "live_viewers": 802,
+      "live_viewers": 1980,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -308,7 +288,7 @@
       "available_at": "2026-04-28T13:00:59.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:00:59.000Z",
-      "live_viewers": 1692,
+      "live_viewers": 2194,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -328,7 +308,7 @@
       "available_at": "2026-04-28T13:01:09.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:01:09.000Z",
-      "live_viewers": 4757,
+      "live_viewers": 6005,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
