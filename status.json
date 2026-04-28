@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777370405,
+  "cached_at": 1777370465,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "wInuh1ji8EM",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-28T08:45:04.000Z",
       "start_scheduled": "2026-04-28T08:45:00.000Z",
       "start_actual": "2026-04-28T08:45:04.000Z",
-      "live_viewers": 1622,
+      "live_viewers": 1659,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-28T09:01:38.000Z",
       "start_scheduled": "2026-04-28T09:00:00.000Z",
       "start_actual": "2026-04-28T09:01:38.000Z",
-      "live_viewers": 8803,
+      "live_viewers": 8762,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -99,6 +99,46 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCa9Y57gfeY0Zro_noHRVrnw": {
+      "video_id": "O_Di8kO446Q",
+      "title": "【 悪魔城ドラキュラXセレクション 月下の夜想曲&血の輪廻 】#3 最終回!初めての「月下の夜想曲」で遊ぶのら!!!【姫森ルーナ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Castlevania",
+      "published_at": "2026-04-27T16:12:31.000Z",
+      "available_at": "2026-04-28T09:57:52.000Z",
+      "start_scheduled": "2026-04-28T10:00:00.000Z",
+      "start_actual": "2026-04-28T09:57:52.000Z",
+      "live_viewers": 886,
+      "channel": {
+        "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+        "name": "Luna Ch. 姫森ルーナ",
+        "english_name": "Himemori Luna",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCJFZiqLMntJufDCHc6bQixg": {
+      "video_id": "y5KdUOldwcc",
+      "title": "【#SSholoX 1stライブ直前! 】4周年記念配信&ライブ告知配信一挙放送!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Anniversary",
+      "published_at": "2026-04-24T08:22:57.000Z",
+      "available_at": "2026-04-28T09:58:15.000Z",
+      "start_scheduled": "2026-04-28T10:00:00.000Z",
+      "start_actual": "2026-04-28T09:58:15.000Z",
+      "live_viewers": 2958,
+      "channel": {
+        "id": "UCJFZiqLMntJufDCHc6bQixg",
+        "name": "hololive ホロライブ - VTuber Group",
+        "english_name": "hololive VTuber Group",
+        "org": "Hololive",
+        "suborg": "0aOfficial",
+        "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
