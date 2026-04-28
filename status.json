@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777377965,
+  "cached_at": 1777378025,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "EsADTY0Hlks",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-28T09:57:52.000Z",
       "start_scheduled": "2026-04-28T10:00:00.000Z",
       "start_actual": "2026-04-28T09:57:52.000Z",
-      "live_viewers": 5401,
+      "live_viewers": 5061,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCJFZiqLMntJufDCHc6bQixg": {
-      "video_id": "y5KdUOldwcc",
-      "title": "【#SSholoX 1stライブ直前! 】4周年記念配信&ライブ告知配信一挙放送!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Anniversary",
-      "published_at": "2026-04-24T08:22:57.000Z",
-      "available_at": "2026-04-28T09:58:15.000Z",
-      "start_scheduled": "2026-04-28T10:00:00.000Z",
-      "start_actual": "2026-04-28T09:58:15.000Z",
-      "live_viewers": 9649,
-      "channel": {
-        "id": "UCJFZiqLMntJufDCHc6bQixg",
-        "name": "hololive ホロライブ - VTuber Group",
-        "english_name": "hololive VTuber Group",
-        "org": "Hololive",
-        "suborg": "0aOfficial",
-        "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCtyWhCj3AqKh2dXctLkDtng": {
@@ -79,26 +59,6 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
-      "video_id": "zDwTjmFEwEA",
-      "title": "【三ツ星ファーム】すうヴィヴィで大実食🍴😋【水宮枢/ホロライブDEV_IS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-04-27T17:44:20.000Z",
-      "available_at": "2026-04-28T11:00:12.000Z",
-      "start_scheduled": "2026-04-28T11:00:00.000Z",
-      "start_actual": "2026-04-28T11:00:12.000Z",
-      "live_viewers": 4792,
-      "channel": {
-        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-        "name": "Su Ch. 水宮枢 - FLOW GLOW",
-        "english_name": "Mizumiya Su",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
@@ -131,7 +91,7 @@
       "available_at": "2026-04-28T11:03:47.000Z",
       "start_scheduled": "2026-04-28T11:00:00.000Z",
       "start_actual": "2026-04-28T11:03:47.000Z",
-      "live_viewers": 34465,
+      "live_viewers": 34684,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -151,7 +111,7 @@
       "available_at": "2026-04-28T11:59:53.000Z",
       "start_scheduled": "2026-04-28T12:00:00.000Z",
       "start_actual": "2026-04-28T11:59:53.000Z",
-      "live_viewers": 709,
+      "live_viewers": 1002,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -159,25 +119,6 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "ITsHoU8eIpI",
-      "title": "【ガンプラ】初めての『HG 1/144 シャア専用ザク』作り!!!!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Gunpla",
-      "published_at": "2026-04-28T09:15:32.000Z",
-      "available_at": "2026-04-28T12:00:00.000Z",
-      "start_scheduled": "2026-04-28T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1iA6_NT4mtAcIII6ygrvCw": {
@@ -190,7 +131,7 @@
       "available_at": "2026-04-28T12:00:35.000Z",
       "start_scheduled": "2026-04-28T12:00:00.000Z",
       "start_actual": "2026-04-28T12:00:35.000Z",
-      "live_viewers": 1564,
+      "live_viewers": 2691,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -198,6 +139,26 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "ITsHoU8eIpI",
+      "title": "【ガンプラ】初めての『HG 1/144 シャア専用ザク』作り!!!!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Gunpla",
+      "published_at": "2026-04-28T09:15:32.000Z",
+      "available_at": "2026-04-28T12:03:02.000Z",
+      "start_scheduled": "2026-04-28T12:00:00.000Z",
+      "start_actual": "2026-04-28T12:03:02.000Z",
+      "live_viewers": 10113,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
