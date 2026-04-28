@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777366925,
+  "cached_at": 1777366985,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "wInuh1ji8EM",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-28T04:00:20.000Z",
       "start_scheduled": "2026-04-28T04:00:00.000Z",
       "start_actual": "2026-04-28T04:00:20.000Z",
-      "live_viewers": 2468,
+      "live_viewers": 2535,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-28T08:43:25.000Z",
       "start_scheduled": "2026-04-28T08:30:00.000Z",
       "start_actual": "2026-04-28T08:43:25.000Z",
-      "live_viewers": 4821,
+      "live_viewers": 5264,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-28T08:45:04.000Z",
       "start_scheduled": "2026-04-28T08:45:00.000Z",
       "start_actual": "2026-04-28T08:45:04.000Z",
-      "live_viewers": 956,
+      "live_viewers": 993,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -59,6 +59,25 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAWSyEs_Io8MtpY3m-zqILA": {
+      "video_id": "mmdv6ZBtDMA",
+      "title": "【 トモダチコレクション 】ねねねトワワが両想いになりました!結婚ある?【 桃鈴ねね / hololive 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-28T03:14:19.000Z",
+      "available_at": "2026-04-28T09:00:00.000Z",
+      "start_scheduled": "2026-04-28T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+        "name": "Nene Ch.桃鈴ねね",
+        "english_name": "Momosuzu Nene",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
