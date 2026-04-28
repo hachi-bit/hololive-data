@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777377665,
+  "cached_at": 1777377725,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "EsADTY0Hlks",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-28T09:58:15.000Z",
       "start_scheduled": "2026-04-28T10:00:00.000Z",
       "start_actual": "2026-04-28T09:58:15.000Z",
-      "live_viewers": 10326,
+      "live_viewers": 9649,
       "channel": {
         "id": "UCJFZiqLMntJufDCHc6bQixg",
         "name": "hololive ホロライブ - VTuber Group",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-28T11:01:06.000Z",
       "start_scheduled": "2026-04-28T11:00:00.000Z",
       "start_actual": "2026-04-28T11:01:06.000Z",
-      "live_viewers": 9318,
+      "live_viewers": 9388,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -139,6 +139,64 @@
         "org": "Hololive",
         "suborg": "0y0th Generation",
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCjLEmnpCNeisMxy134KPwWw": {
+      "video_id": "DOlICwBMpGI",
+      "title": "【Split Fiction】LAST DI STREAM INI kalo ga skill issue...",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Split_Fiction",
+      "published_at": "2026-04-28T11:01:18.000Z",
+      "available_at": "2026-04-28T11:59:53.000Z",
+      "start_scheduled": "2026-04-28T12:00:00.000Z",
+      "start_actual": "2026-04-28T11:59:53.000Z",
+      "live_viewers": 388,
+      "channel": {
+        "id": "UCjLEmnpCNeisMxy134KPwWw",
+        "name": "Kobo Kanaeru Ch. hololive-ID",
+        "english_name": "Kobo Kanaeru",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "ITsHoU8eIpI",
+      "title": "【ガンプラ】初めての『HG 1/144 シャア専用ザク』作り!!!!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Gunpla",
+      "published_at": "2026-04-28T09:15:32.000Z",
+      "available_at": "2026-04-28T12:00:00.000Z",
+      "start_scheduled": "2026-04-28T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1iA6_NT4mtAcIII6ygrvCw": {
+      "video_id": "S7bjUzgO-bQ",
+      "title": "【雑談】短めだけどお話しよ~！【轟はじめ/ReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-04-27T12:24:55.000Z",
+      "available_at": "2026-04-28T12:00:00.000Z",
+      "start_scheduled": "2026-04-28T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+        "english_name": "Todoroki Hajime",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
