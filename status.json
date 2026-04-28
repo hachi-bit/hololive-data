@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777382407,
+  "cached_at": 1777382468,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "GC4_WX6erXU",
@@ -170,7 +170,7 @@
       "available_at": "2026-04-28T12:38:03.000Z",
       "start_scheduled": "2026-04-28T12:30:00.000Z",
       "start_actual": "2026-04-28T12:38:03.000Z",
-      "live_viewers": 27,
+      "live_viewers": 25,
       "channel": {
         "id": "UCNGMMdEgYIUR6rC44v9aZ8w",
         "name": "瀬尾カザリ / Ceo Kazari",
@@ -229,7 +229,7 @@
       "available_at": "2026-04-28T13:00:11.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:00:11.000Z",
-      "live_viewers": 3764,
+      "live_viewers": 3907,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -249,7 +249,7 @@
       "available_at": "2026-04-28T13:00:18.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:00:18.000Z",
-      "live_viewers": 3716,
+      "live_viewers": 3760,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -269,7 +269,7 @@
       "available_at": "2026-04-28T13:00:59.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:00:59.000Z",
-      "live_viewers": 4654,
+      "live_viewers": 4760,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -289,7 +289,7 @@
       "available_at": "2026-04-28T13:01:09.000Z",
       "start_scheduled": "2026-04-28T13:00:00.000Z",
       "start_actual": "2026-04-28T13:01:09.000Z",
-      "live_viewers": 13670,
+      "live_viewers": 13996,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -300,16 +300,15 @@
       }
     },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "2PcZmEIBZCo",
+      "video_id": "dZ1Btn0Gj4I",
       "title": "【 同時視聴 】名探偵コナン ハロウィンの花嫁見る!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
       "type": "stream",
       "status": "live",
       "topic_id": "watchalong",
-      "published_at": "2026-04-28T12:29:25.000Z",
-      "available_at": "2026-04-28T13:10:59.000Z",
-      "start_scheduled": "2026-04-28T13:00:00.000Z",
-      "start_actual": "2026-04-28T13:10:59.000Z",
-      "live_viewers": 1327,
+      "published_at": "2026-04-28T13:13:05.000Z",
+      "available_at": "2026-04-28T13:18:05.000Z",
+      "start_scheduled": "2026-04-28T13:18:05.000Z",
+      "live_viewers": 0,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
