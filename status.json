@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777365125,
+  "cached_at": 1777365185,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "wInuh1ji8EM",
@@ -19,6 +19,25 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "Qx7uOTzdrZI",
+      "title": "【 スーパーマリオワールド 】完全初見!初めてのマリオワールドに挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Super_Mario",
+      "published_at": "2026-04-28T04:15:37.000Z",
+      "available_at": "2026-04-28T08:30:00.000Z",
+      "start_scheduled": "2026-04-28T08:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
