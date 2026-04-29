@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777464200,
+  "cached_at": 1777464260,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "FqRSr7eJnnk",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-29T05:57:20.000Z",
       "start_scheduled": "2026-04-29T06:00:00.000Z",
       "start_actual": "2026-04-29T05:57:20.000Z",
-      "live_viewers": 6987,
+      "live_viewers": 6645,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-29T10:58:44.000Z",
       "start_scheduled": "2026-04-29T11:00:00.000Z",
       "start_actual": "2026-04-29T10:58:44.000Z",
-      "live_viewers": 10968,
+      "live_viewers": 10737,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-29T11:00:32.000Z",
       "start_scheduled": "2026-04-29T11:00:00.000Z",
       "start_actual": "2026-04-29T11:00:32.000Z",
-      "live_viewers": 2324,
+      "live_viewers": 2364,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-29T11:01:12.000Z",
       "start_scheduled": "2026-04-29T11:00:00.000Z",
       "start_actual": "2026-04-29T11:01:12.000Z",
-      "live_viewers": 33347,
+      "live_viewers": 32717,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-29T11:14:31.000Z",
       "start_scheduled": "2026-04-29T11:15:00.000Z",
       "start_actual": "2026-04-29T11:14:31.000Z",
-      "live_viewers": 4503,
+      "live_viewers": 4611,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -143,7 +143,7 @@
     },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "ApuX4fCJwTU",
-      "title": "【 同時視聴 】名探偵コナン 黒鉄の魚影見る!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "title": "【 同時視聴 】名探偵コナン 黒鉄の魚影見る！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
       "type": "stream",
       "status": "live",
       "topic_id": "membersonly",
