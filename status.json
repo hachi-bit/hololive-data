@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777467859,
+  "cached_at": 1777467919,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "7vXaumkwv3E",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-29T05:57:20.000Z",
       "start_scheduled": "2026-04-29T06:00:00.000Z",
       "start_actual": "2026-04-29T05:57:20.000Z",
-      "live_viewers": 5594,
+      "live_viewers": 5429,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-29T11:01:12.000Z",
       "start_scheduled": "2026-04-29T11:00:00.000Z",
       "start_actual": "2026-04-29T11:01:12.000Z",
-      "live_viewers": 25246,
+      "live_viewers": 25238,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-29T11:14:31.000Z",
       "start_scheduled": "2026-04-29T11:15:00.000Z",
       "start_actual": "2026-04-29T11:14:31.000Z",
-      "live_viewers": 5085,
+      "live_viewers": 4834,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvaTdHTWBGv3MKj3KVqJVCw": {
-      "video_id": "CWRVS_VtrrY",
-      "title": "【 🔴オフコラボ 】地獄のくじ引きが帰ってきた🔥🔥🔥【 #スバおか /ホロライブ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-04-28T17:45:31.000Z",
-      "available_at": "2026-04-29T12:01:22.000Z",
-      "start_scheduled": "2026-04-29T12:00:00.000Z",
-      "start_actual": "2026-04-29T12:01:22.000Z",
-      "live_viewers": 42750,
-      "channel": {
-        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-        "name": "Okayu Ch. 猫又おかゆ",
-        "english_name": "Nekomata Okayu",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC7fk0CB07ly8oSl0aqKkqFg": {
@@ -171,7 +151,7 @@
       "available_at": "2026-04-29T12:59:48.000Z",
       "start_scheduled": "2026-04-29T13:00:00.000Z",
       "start_actual": "2026-04-29T12:59:48.000Z",
-      "live_viewers": 574,
+      "live_viewers": 1501,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-29T12:59:50.000Z",
       "start_scheduled": "2026-04-29T13:00:00.000Z",
       "start_actual": "2026-04-29T12:59:50.000Z",
-      "live_viewers": 335,
+      "live_viewers": 605,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -199,25 +179,6 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCqm3BQLlJfvkTsX_hvm0UmA": {
-      "video_id": "c0MLy6bxJMs",
-      "title": "【 クロノ・トリガー 】完全初見!マルチエンド回収の旅!! #番外編2【角巻わため/ホロライブ4期生】※ネタバレあり",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Chrono_Trigger",
-      "published_at": "2026-04-28T20:38:36.000Z",
-      "available_at": "2026-04-29T13:00:00.000Z",
-      "start_scheduled": "2026-04-29T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-        "name": "Watame Ch. 角巻わため",
-        "english_name": "Tsunomaki Watame",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCp-5t9SrOQwXMU7iIjQfARg": {
@@ -239,23 +200,23 @@
         "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "yy8equ4mud8",
-      "title": "【ドラゴンボールZ KAKAROT】完全初見!ついに魔人ブウとご対面じゃっ🔥【ホロライブ DEV_IS 響咲リオナ】※ネタバレあり",
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "c0MLy6bxJMs",
+      "title": "【 クロノ・トリガー 】完全初見!マルチエンド回収の旅!! #番外編2【角巻わため/ホロライブ4期生】※ネタバレあり",
       "type": "stream",
       "status": "live",
-      "topic_id": "Dragon_Ball_Z:_Kakarot",
-      "published_at": "2026-04-26T13:02:05.000Z",
+      "topic_id": "Chrono_Trigger",
+      "published_at": "2026-04-28T20:38:36.000Z",
       "available_at": "2026-04-29T13:00:00.000Z",
       "start_scheduled": "2026-04-29T13:00:00.000Z",
       "live_viewers": 0,
       "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
         "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCFKOVgVbGmX65RxO3EtH3iw": {
@@ -268,7 +229,7 @@
       "available_at": "2026-04-29T13:00:13.000Z",
       "start_scheduled": "2026-04-29T13:00:00.000Z",
       "start_actual": "2026-04-29T13:00:13.000Z",
-      "live_viewers": 5558,
+      "live_viewers": 11486,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -276,6 +237,26 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "yy8equ4mud8",
+      "title": "【ドラゴンボールZ KAKAROT】完全初見!ついに魔人ブウとご対面じゃっ🔥【ホロライブ DEV_IS 響咲リオナ】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dragon_Ball_Z:_Kakarot",
+      "published_at": "2026-04-26T13:02:05.000Z",
+      "available_at": "2026-04-29T13:00:53.000Z",
+      "start_scheduled": "2026-04-29T13:00:00.000Z",
+      "start_actual": "2026-04-29T13:00:53.000Z",
+      "live_viewers": 1004,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
