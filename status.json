@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777456939,
+  "cached_at": 1777456999,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "zECD6gLrYdM",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-29T03:01:15.000Z",
       "start_scheduled": "2026-04-29T03:00:00.000Z",
       "start_actual": "2026-04-29T03:01:15.000Z",
-      "live_viewers": 938,
+      "live_viewers": 927,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-29T05:57:20.000Z",
       "start_scheduled": "2026-04-29T06:00:00.000Z",
       "start_actual": "2026-04-29T05:57:20.000Z",
-      "live_viewers": 11534,
+      "live_viewers": 11567,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -98,6 +98,44 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC5CwaMl1eIgY8h02uZw7u8A": {
+      "video_id": "4S0B8hbqkd8",
+      "title": "【海外行ってきた】近況報告雑談‼✨【星街すいせい / #ほしまちすたじお】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-04-29T07:08:18.000Z",
+      "available_at": "2026-04-29T10:00:00.000Z",
+      "start_scheduled": "2026-04-29T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC5CwaMl1eIgY8h02uZw7u8A",
+        "name": "Suisei Channel",
+        "english_name": "Hoshimachi Suisei",
+        "org": "Hololive",
+        "suborg": "0x0th Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCK9V2B22uJYu3N7eR_BT9QA": {
+      "video_id": "8zr1yJflCIg",
+      "title": "【羽田盃】競馬配信🔰3歳ダート戦線、頂点決戦。【尾丸ポルカ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Horse_racing",
+      "published_at": "2026-04-29T09:17:01.000Z",
+      "available_at": "2026-04-29T10:00:00.000Z",
+      "start_scheduled": "2026-04-29T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+        "name": "Polka Ch. 尾丸ポルカ",
+        "english_name": "Omaru Polka",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
