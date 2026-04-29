@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777454900,
+  "cached_at": 1777454959,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "zECD6gLrYdM",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-29T05:57:20.000Z",
       "start_scheduled": "2026-04-29T06:00:00.000Z",
       "start_actual": "2026-04-29T05:57:20.000Z",
-      "live_viewers": 10283,
+      "live_viewers": 10790,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-29T08:28:50.000Z",
       "start_scheduled": "2026-04-29T08:30:00.000Z",
       "start_actual": "2026-04-29T08:28:50.000Z",
-      "live_viewers": 618,
+      "live_viewers": 631,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCJFZiqLMntJufDCHc6bQixg": {
-      "video_id": "5Cy0vzUhQhE",
-      "title": "【チラ見せ】秘密結社holoX Live 2026「First MISSION」【 #SSholoX世界リペイント計画】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "3D_Stream",
-      "published_at": "2026-04-16T03:34:10.000Z",
-      "available_at": "2026-04-29T08:30:12.000Z",
-      "start_scheduled": "2026-04-29T08:30:00.000Z",
-      "start_actual": "2026-04-29T08:30:12.000Z",
-      "live_viewers": 5952,
-      "channel": {
-        "id": "UCJFZiqLMntJufDCHc6bQixg",
-        "name": "hololive ホロライブ - VTuber Group",
-        "english_name": "hololive VTuber Group",
-        "org": "Hololive",
-        "suborg": "0aOfficial",
-        "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCt9H_RpQzhxzlyBxFqrdHqA": {
