@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777497319,
+  "cached_at": 1777497380,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "5OPhaxx81Xo",
@@ -8,9 +8,10 @@
       "status": "live",
       "topic_id": "Creature_Kitchen",
       "published_at": "2026-04-29T05:51:53.000Z",
-      "available_at": "2026-04-29T21:00:00.000Z",
+      "available_at": "2026-04-29T21:10:14.000Z",
       "start_scheduled": "2026-04-29T21:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-29T21:10:14.000Z",
+      "live_viewers": 2700,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
