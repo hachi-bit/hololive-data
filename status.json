@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777475901,
+  "cached_at": 1777475959,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "y0WsNvXOdns",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-29T11:00:32.000Z",
       "start_scheduled": "2026-04-29T11:00:00.000Z",
       "start_actual": "2026-04-29T11:00:32.000Z",
-      "live_viewers": 3073,
+      "live_viewers": 3075,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-29T11:06:27.000Z",
       "start_scheduled": "2026-04-29T11:00:00.000Z",
       "start_actual": "2026-04-29T11:06:27.000Z",
-      "live_viewers": 26679,
+      "live_viewers": 24373,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-29T13:00:53.000Z",
       "start_scheduled": "2026-04-29T13:00:00.000Z",
       "start_actual": "2026-04-29T13:00:53.000Z",
-      "live_viewers": 3519,
+      "live_viewers": 3890,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-29T13:31:10.000Z",
       "start_scheduled": "2026-04-29T13:30:00.000Z",
       "start_actual": "2026-04-29T13:31:10.000Z",
-      "live_viewers": 8761,
+      "live_viewers": 9138,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-29T13:38:09.000Z",
       "start_scheduled": "2026-04-29T13:35:00.000Z",
       "start_actual": "2026-04-29T13:38:09.000Z",
-      "live_viewers": 811,
+      "live_viewers": 832,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-29T14:00:33.000Z",
       "start_scheduled": "2026-04-29T14:00:00.000Z",
       "start_actual": "2026-04-29T14:00:33.000Z",
-      "live_viewers": 1262,
+      "live_viewers": 1317,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -241,26 +241,6 @@
         "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCvzGlP9oQwU--Y0r9id_jnA": {
-      "video_id": "sbs4fauCXco",
-      "title": "【#生スバル】メンバー限定!VRC配信しゅばああああああああああああああああああああああああ!!!!：member only【ホロライブ/大空スバル】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-04-28T11:49:49.000Z",
-      "available_at": "2026-04-29T14:04:07.000Z",
-      "start_scheduled": "2026-04-29T14:00:00.000Z",
-      "start_actual": "2026-04-29T14:04:07.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-        "name": "Subaru Ch. 大空スバル",
-        "english_name": "Oozora Subaru",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC2hx0xVkMoHGWijwr_lA01w": {
       "video_id": "DVf2fFLHv0I",
       "title": "【TOMODACHI LIFE: LIVING THE DREAM】Welcome, to the great island of North Elysium🌴 #1",
@@ -271,7 +251,7 @@
       "available_at": "2026-04-29T15:02:49.000Z",
       "start_scheduled": "2026-04-29T15:00:00.000Z",
       "start_actual": "2026-04-29T15:02:49.000Z",
-      "live_viewers": 388,
+      "live_viewers": 475,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
