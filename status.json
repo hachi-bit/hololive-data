@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777474939,
+  "cached_at": 1777475018,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "y0WsNvXOdns",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-29T13:00:53.000Z",
       "start_scheduled": "2026-04-29T13:00:00.000Z",
       "start_actual": "2026-04-29T13:00:53.000Z",
-      "live_viewers": 4120,
+      "live_viewers": 4127,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-29T13:38:09.000Z",
       "start_scheduled": "2026-04-29T13:35:00.000Z",
       "start_actual": "2026-04-29T13:38:09.000Z",
-      "live_viewers": 760,
+      "live_viewers": 782,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-29T14:00:33.000Z",
       "start_scheduled": "2026-04-29T14:00:00.000Z",
       "start_actual": "2026-04-29T14:00:33.000Z",
-      "live_viewers": 1119,
+      "live_viewers": 1141,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -279,6 +279,25 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC2hx0xVkMoHGWijwr_lA01w": {
+      "video_id": "DVf2fFLHv0I",
+      "title": "【TOMODACHI LIFE: LIVING THE DREAM】Welcome, to the great island of North Elysium🌴 #1",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-29T14:26:13.000Z",
+      "available_at": "2026-04-29T15:00:00.000Z",
+      "start_scheduled": "2026-04-29T15:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC2hx0xVkMoHGWijwr_lA01w",
+        "name": "Axel Syrios Ch. HOLOSTARS-EN",
+        "english_name": "Axel Syrios",
+        "org": "Hololive",
+        "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
+        "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
