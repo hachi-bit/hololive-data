@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777476380,
+  "cached_at": 1777476439,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "y0WsNvXOdns",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-29T11:06:27.000Z",
       "start_scheduled": "2026-04-29T11:00:00.000Z",
       "start_actual": "2026-04-29T11:06:27.000Z",
-      "live_viewers": 20472,
+      "live_viewers": 19924,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "0y0th Generation",
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "ApuX4fCJwTU",
-      "title": "【 同時視聴 】名探偵コナン 黒鉄の魚影見る!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-04-29T09:54:42.000Z",
-      "available_at": "2026-04-29T12:02:25.000Z",
-      "start_scheduled": "2026-04-29T12:00:00.000Z",
-      "start_actual": "2026-04-29T12:02:25.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "english_name": "Kikirara Vivi",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9LSiN9hXI55svYEBrrK-tw": {
@@ -151,7 +131,7 @@
       "available_at": "2026-04-29T13:38:09.000Z",
       "start_scheduled": "2026-04-29T13:35:00.000Z",
       "start_actual": "2026-04-29T13:38:09.000Z",
-      "live_viewers": 832,
+      "live_viewers": 956,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-29T14:00:33.000Z",
       "start_scheduled": "2026-04-29T14:00:00.000Z",
       "start_actual": "2026-04-29T14:00:33.000Z",
-      "live_viewers": 1317,
+      "live_viewers": 1466,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -231,7 +211,7 @@
       "available_at": "2026-04-29T15:02:49.000Z",
       "start_scheduled": "2026-04-29T15:00:00.000Z",
       "start_actual": "2026-04-29T15:02:49.000Z",
-      "live_viewers": 477,
+      "live_viewers": 521,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
