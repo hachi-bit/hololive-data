@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777478959,
+  "cached_at": 1777479020,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "y0WsNvXOdns",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-29T11:00:32.000Z",
       "start_scheduled": "2026-04-29T11:00:00.000Z",
       "start_actual": "2026-04-29T11:00:32.000Z",
-      "live_viewers": 3319,
+      "live_viewers": 3291,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -41,26 +41,6 @@
         "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCp6993wxpyDPHUpavwDFqgg": {
-      "video_id": "FXpEJTAyBqs",
-      "title": "【Vampire Survivors】アドベンチャーも楽しみたくない?【ホロライブ/ときのそら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Vampire_Survivors",
-      "published_at": "2026-04-29T13:05:42.000Z",
-      "available_at": "2026-04-29T13:28:50.000Z",
-      "start_scheduled": "2026-04-29T13:30:00.000Z",
-      "start_actual": "2026-04-29T13:28:50.000Z",
-      "live_viewers": 3819,
-      "channel": {
-        "id": "UCp6993wxpyDPHUpavwDFqgg",
-        "name": "SoraCh. ときのそらチャンネル",
-        "english_name": "Tokino Sora",
-        "org": "Hololive",
-        "suborg": "0v0th Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCjk2nKmHzgH5Xy-C5qYRd5A": {
       "video_id": "dZy-2opi6i4",
       "title": "【BLEACH Rebirth of Souls】完全初見 どんな話なんだ…!#9【水宮枢/ホロライブDEV_IS】",
@@ -71,7 +51,7 @@
       "available_at": "2026-04-29T13:31:10.000Z",
       "start_scheduled": "2026-04-29T13:30:00.000Z",
       "start_actual": "2026-04-29T13:31:10.000Z",
-      "live_viewers": 3855,
+      "live_viewers": 3705,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -91,7 +71,7 @@
       "available_at": "2026-04-29T13:38:09.000Z",
       "start_scheduled": "2026-04-29T13:35:00.000Z",
       "start_actual": "2026-04-29T13:38:09.000Z",
-      "live_viewers": 921,
+      "live_viewers": 752,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-29T15:02:49.000Z",
       "start_scheduled": "2026-04-29T15:00:00.000Z",
       "start_actual": "2026-04-29T15:02:49.000Z",
-      "live_viewers": 619,
+      "live_viewers": 629,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
