@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777472240,
+  "cached_at": 1777472300,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "y0WsNvXOdns",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-29T11:14:31.000Z",
       "start_scheduled": "2026-04-29T11:15:00.000Z",
       "start_actual": "2026-04-29T11:14:31.000Z",
-      "live_viewers": 4694,
+      "live_viewers": 4616,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-29T12:01:56.000Z",
       "start_scheduled": "2026-04-29T12:00:00.000Z",
       "start_actual": "2026-04-29T12:01:56.000Z",
-      "live_viewers": 11099,
+      "live_viewers": 10465,
       "channel": {
         "id": "UC7fk0CB07ly8oSl0aqKkqFg",
         "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-29T12:59:48.000Z",
       "start_scheduled": "2026-04-29T13:00:00.000Z",
       "start_actual": "2026-04-29T12:59:48.000Z",
-      "live_viewers": 3321,
+      "live_viewers": 3787,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-29T13:00:53.000Z",
       "start_scheduled": "2026-04-29T13:00:00.000Z",
       "start_actual": "2026-04-29T13:00:53.000Z",
-      "live_viewers": 4499,
+      "live_viewers": 4792,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -159,26 +159,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp-5t9SrOQwXMU7iIjQfARg": {
-      "video_id": "p3D4Uj67T1k",
-      "title": "【メンバーシップ限定】ひそひそ声で、寝る前に雑談ASMR",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-04-29T10:27:17.000Z",
-      "available_at": "2026-04-29T13:01:03.000Z",
-      "start_scheduled": "2026-04-29T13:00:00.000Z",
-      "start_actual": "2026-04-29T13:01:03.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-        "name": "Mio Channel 大神ミオ",
-        "english_name": "Ookami Mio",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
@@ -191,7 +171,7 @@
       "available_at": "2026-04-29T13:03:07.000Z",
       "start_scheduled": "2026-04-29T13:00:00.000Z",
       "start_actual": "2026-04-29T13:03:07.000Z",
-      "live_viewers": 7086,
+      "live_viewers": 7196,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -251,7 +231,7 @@
       "available_at": "2026-04-29T13:38:09.000Z",
       "start_scheduled": "2026-04-29T13:35:00.000Z",
       "start_actual": "2026-04-29T13:38:09.000Z",
-      "live_viewers": 672,
+      "live_viewers": 679,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -271,7 +251,7 @@
       "available_at": "2026-04-29T14:00:33.000Z",
       "start_scheduled": "2026-04-29T14:00:00.000Z",
       "start_actual": "2026-04-29T14:00:33.000Z",
-      "live_viewers": 589,
+      "live_viewers": 720,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -291,7 +271,7 @@
       "available_at": "2026-04-29T14:00:58.000Z",
       "start_scheduled": "2026-04-29T14:00:00.000Z",
       "start_actual": "2026-04-29T14:00:58.000Z",
-      "live_viewers": 452,
+      "live_viewers": 474,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -331,7 +311,7 @@
       "available_at": "2026-04-29T14:01:57.000Z",
       "start_scheduled": "2026-04-29T14:00:00.000Z",
       "start_actual": "2026-04-29T14:01:57.000Z",
-      "live_viewers": 5534,
+      "live_viewers": 6053,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
