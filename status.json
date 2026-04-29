@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777458859,
+  "cached_at": 1777458919,
   "lives": {
-    "UCTVSOgYuSWmNAt-lnJPkEEw": {
-      "video_id": "zECD6gLrYdM",
-      "title": "【TOMODACHI LIFE: LIVING THE DREAM】EVERYONE ON THIS ISLAND IS GAY (EXCEPT ME)",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-28T03:11:26.000Z",
-      "available_at": "2026-04-29T03:01:15.000Z",
-      "start_scheduled": "2026-04-29T03:00:00.000Z",
-      "start_actual": "2026-04-29T03:01:15.000Z",
-      "live_viewers": 561,
-      "channel": {
-        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
-        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
-        "english_name": "Jurard T Rexford",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "FqRSr7eJnnk",
       "title": "【崩壊：スターレイル】Ver4.2 開拓クエスト『そして、人々の笑いが響き渡る』をやる男【夕刻ロベル/ホロスターズ】",
@@ -31,7 +11,7 @@
       "available_at": "2026-04-29T04:00:32.000Z",
       "start_scheduled": "2026-04-29T04:00:00.000Z",
       "start_actual": "2026-04-29T04:00:32.000Z",
-      "live_viewers": 2275,
+      "live_viewers": 2179,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -51,7 +31,7 @@
       "available_at": "2026-04-29T05:57:20.000Z",
       "start_scheduled": "2026-04-29T06:00:00.000Z",
       "start_actual": "2026-04-29T05:57:20.000Z",
-      "live_viewers": 10935,
+      "live_viewers": 10717,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -91,7 +71,7 @@
       "available_at": "2026-04-29T10:03:16.000Z",
       "start_scheduled": "2026-04-29T10:00:00.000Z",
       "start_actual": "2026-04-29T10:03:16.000Z",
-      "live_viewers": 3024,
+      "live_viewers": 3171,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-29T10:03:50.000Z",
       "start_scheduled": "2026-04-29T10:00:00.000Z",
       "start_actual": "2026-04-29T10:03:50.000Z",
-      "live_viewers": 15160,
+      "live_viewers": 15406,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
