@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777463359,
+  "cached_at": 1777463421,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "FqRSr7eJnnk",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-29T04:00:32.000Z",
       "start_scheduled": "2026-04-29T04:00:00.000Z",
       "start_actual": "2026-04-29T04:00:32.000Z",
-      "live_viewers": 2516,
+      "live_viewers": 2137,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-29T05:57:20.000Z",
       "start_scheduled": "2026-04-29T06:00:00.000Z",
       "start_actual": "2026-04-29T05:57:20.000Z",
-      "live_viewers": 7554,
+      "live_viewers": 7159,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCc88OV45ICgHbn3ZqLLb52w": {
-      "video_id": "7Zn8yH4mzT0",
-      "title": "【同時視聴】弊社の先輩のLIVE、皆で見よう!秘密結社holoX Live 2026「First MISSION」#SSholoX世界リペイント計画 - 夜十神封魔 / ホロスターズ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-04-27T18:08:24.000Z",
-      "available_at": "2026-04-29T08:28:50.000Z",
-      "start_scheduled": "2026-04-29T08:30:00.000Z",
-      "start_actual": "2026-04-29T08:28:50.000Z",
-      "live_viewers": 667,
-      "channel": {
-        "id": "UCc88OV45ICgHbn3ZqLLb52w",
-        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-        "english_name": "Yatogami Fuma",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC5CwaMl1eIgY8h02uZw7u8A": {
@@ -91,7 +71,7 @@
       "available_at": "2026-04-29T10:58:44.000Z",
       "start_scheduled": "2026-04-29T11:00:00.000Z",
       "start_actual": "2026-04-29T10:58:44.000Z",
-      "live_viewers": 11127,
+      "live_viewers": 11211,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-29T11:00:32.000Z",
       "start_scheduled": "2026-04-29T11:00:00.000Z",
       "start_actual": "2026-04-29T11:00:32.000Z",
-      "live_viewers": 2075,
+      "live_viewers": 2196,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -131,7 +111,7 @@
       "available_at": "2026-04-29T11:01:12.000Z",
       "start_scheduled": "2026-04-29T11:00:00.000Z",
       "start_actual": "2026-04-29T11:01:12.000Z",
-      "live_viewers": 31830,
+      "live_viewers": 32362,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +131,7 @@
       "available_at": "2026-04-29T11:06:27.000Z",
       "start_scheduled": "2026-04-29T11:00:00.000Z",
       "start_actual": "2026-04-29T11:06:27.000Z",
-      "live_viewers": 26610,
+      "live_viewers": 27240,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-29T11:14:31.000Z",
       "start_scheduled": "2026-04-29T11:15:00.000Z",
       "start_actual": "2026-04-29T11:14:31.000Z",
-      "live_viewers": 3998,
+      "live_viewers": 4106,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
