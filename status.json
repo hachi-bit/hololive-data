@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777501278,
+  "cached_at": 1777501338,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "5OPhaxx81Xo",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-29T21:10:14.000Z",
       "start_scheduled": "2026-04-29T21:00:00.000Z",
       "start_actual": "2026-04-29T21:10:14.000Z",
-      "live_viewers": 5480,
+      "live_viewers": 5596,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -19,25 +19,6 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdyqAaZDKHXg4Ahi7VENThQ": {
-      "video_id": "GiZ5EjPKhm8",
-      "title": "【メンバー限定】お仕事前に団員さんとお喋り🍀【白銀ノエル/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-04-29T12:24:33.000Z",
-      "available_at": "2026-04-29T22:00:00.000Z",
-      "start_scheduled": "2026-04-29T22:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-        "name": "Noel Ch. 白銀ノエル",
-        "english_name": "Shirogane Noel",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCHP4f7G2dWD4qib7BMatGAw": {
@@ -50,7 +31,7 @@
       "available_at": "2026-04-29T22:04:08.000Z",
       "start_scheduled": "2026-04-29T22:00:00.000Z",
       "start_actual": "2026-04-29T22:04:08.000Z",
-      "live_viewers": 1161,
+      "live_viewers": 1280,
       "channel": {
         "id": "UCHP4f7G2dWD4qib7BMatGAw",
         "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -58,6 +39,26 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdyqAaZDKHXg4Ahi7VENThQ": {
+      "video_id": "GiZ5EjPKhm8",
+      "title": "【メンバー限定】お仕事前に団員さんとお喋り🍀【白銀ノエル/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-04-29T12:24:33.000Z",
+      "available_at": "2026-04-29T22:13:02.000Z",
+      "start_scheduled": "2026-04-29T22:00:00.000Z",
+      "start_actual": "2026-04-29T22:13:02.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+        "name": "Noel Ch. 白銀ノエル",
+        "english_name": "Shirogane Noel",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
