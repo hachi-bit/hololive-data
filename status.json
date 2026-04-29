@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777458681,
+  "cached_at": 1777458740,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "zECD6gLrYdM",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-29T03:01:15.000Z",
       "start_scheduled": "2026-04-29T03:00:00.000Z",
       "start_actual": "2026-04-29T03:01:15.000Z",
-      "live_viewers": 659,
+      "live_viewers": 561,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-29T10:03:16.000Z",
       "start_scheduled": "2026-04-29T10:00:00.000Z",
       "start_actual": "2026-04-29T10:03:16.000Z",
-      "live_viewers": 2907,
+      "live_viewers": 3024,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-29T10:03:50.000Z",
       "start_scheduled": "2026-04-29T10:00:00.000Z",
       "start_actual": "2026-04-29T10:03:50.000Z",
-      "live_viewers": 15132,
+      "live_viewers": 15160,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -119,25 +119,6 @@
         "org": "Hololive",
         "suborg": "0x0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp-5t9SrOQwXMU7iIjQfARg": {
-      "video_id": "p3D4Uj67T1k",
-      "title": "【メンバーシップ限定】ひそひそ声で、寝る前に雑談ASMR",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-04-29T10:27:17.000Z",
-      "available_at": "2026-04-29T10:27:17.000Z",
-      "start_scheduled": "2026-04-29T10:27:17.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-        "name": "Mio Channel 大神ミオ",
-        "english_name": "Ookami Mio",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
