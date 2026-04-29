@@ -1,163 +1,123 @@
 {
-  "cached_at": 1777395239,
+  "cached_at": 1777454480,
   "lives": {
-    "UCKMWFR6lAstLa7Vbf5dH7ig": {
-      "video_id": "GC4_WX6erXU",
-      "title": "【ポケモン/リーフグリーン】#4 パラスと一緒に初見ポケモン!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "UCTVSOgYuSWmNAt-lnJPkEEw": {
+      "video_id": "zECD6gLrYdM",
+      "title": "【TOMODACHI LIFE: LIVING THE DREAM】EVERYONE ON THIS ISLAND IS GAY (EXCEPT ME)",
       "type": "stream",
       "status": "live",
-      "topic_id": "Pokemon",
-      "published_at": "2026-04-25T19:46:35.000Z",
-      "available_at": "2026-04-28T09:00:00.000Z",
-      "start_scheduled": "2026-04-28T09:00:00.000Z",
-      "live_viewers": 0,
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-28T03:11:26.000Z",
+      "available_at": "2026-04-29T03:01:15.000Z",
+      "start_scheduled": "2026-04-29T03:00:00.000Z",
+      "start_actual": "2026-04-29T03:01:15.000Z",
+      "live_viewers": 877,
       "channel": {
-        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "english_name": "Rindo Chihaya",
+        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
+        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
+        "english_name": "Jurard T Rexford",
         "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCvaTdHTWBGv3MKj3KVqJVCw": {
-      "video_id": "rncGib1nrV0",
-      "title": "【 バイオハザード 0 HD REMASTER 】ゾンビかかって来なさ~~い!🧟#03【 猫又おかゆ/ホロライブ 】",
+    "UCANDOlYTJT7N5jlRC3zfzVA": {
+      "video_id": "FqRSr7eJnnk",
+      "title": "【崩壊：スターレイル】Ver4.2 開拓クエスト『そして、人々の笑いが響き渡る』をやる男【夕刻ロベル/ホロスターズ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-04-27T17:47:24.000Z",
-      "available_at": "2026-04-28T11:01:06.000Z",
-      "start_scheduled": "2026-04-28T11:00:00.000Z",
-      "start_actual": "2026-04-28T11:01:06.000Z",
-      "live_viewers": 9135,
+      "topic_id": "Honkai_Star_Rail",
+      "published_at": "2026-04-26T18:23:15.000Z",
+      "available_at": "2026-04-29T04:00:32.000Z",
+      "start_scheduled": "2026-04-29T04:00:00.000Z",
+      "start_actual": "2026-04-29T04:00:32.000Z",
+      "live_viewers": 2028,
       "channel": {
-        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-        "name": "Okayu Ch. 猫又おかゆ",
-        "english_name": "Nekomata Okayu",
+        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+        "name": "Roberu Ch. 夕刻ロベル",
+        "english_name": "Yukoku Roberu",
         "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCqm3BQLlJfvkTsX_hvm0UmA": {
-      "video_id": "DQu1OVL7Bfs",
-      "title": "【 クロノ・トリガー 】完全初見!マルチエンド回収行くか...?! #番外編1【角巻わため/ホロライブ4期生】※ネタバレあり",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Chrono_Trigger",
-      "published_at": "2026-04-27T21:05:51.000Z",
-      "available_at": "2026-04-28T13:00:59.000Z",
-      "start_scheduled": "2026-04-28T13:00:00.000Z",
-      "start_actual": "2026-04-28T13:00:59.000Z",
-      "live_viewers": 11741,
-      "channel": {
-        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-        "name": "Watame Ch. 角巻わため",
-        "english_name": "Tsunomaki Watame",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "dZ1Btn0Gj4I",
-      "title": "【 同時視聴 】名探偵コナン ハロウィンの花嫁見る!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-04-28T13:13:05.000Z",
-      "available_at": "2026-04-28T13:18:25.000Z",
-      "start_scheduled": "2026-04-28T13:18:05.000Z",
-      "start_actual": "2026-04-28T13:18:25.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "english_name": "Kikirara Vivi",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "F2totkLsp5U",
-      "title": "【ストリートファイター6】アレックス修行【荒咬オウガ /ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-04-28T12:48:56.000Z",
-      "available_at": "2026-04-28T14:01:10.000Z",
-      "start_scheduled": "2026-04-28T14:00:00.000Z",
-      "start_actual": "2026-04-28T14:01:10.000Z",
-      "live_viewers": 318,
-      "channel": {
-        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "name": "Oga Ch.荒咬オウガ",
-        "english_name": "Aragami Oga",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCl69AEx4MdqMZH7Jtsm7Tig": {
-      "video_id": "xvw5XaCW7kw",
-      "title": "【DIABLO IV】BIG CAT GOES TO HELL!!! 【Raora Panthera】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Diablo",
-      "published_at": "2026-04-27T16:16:52.000Z",
-      "available_at": "2026-04-28T14:01:22.000Z",
-      "start_scheduled": "2026-04-28T14:00:00.000Z",
-      "start_actual": "2026-04-28T14:01:22.000Z",
-      "live_viewers": 4450,
-      "channel": {
-        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
-        "name": "Raora Panthera Ch. hololive-EN",
-        "english_name": "Raora Panthera",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCZLZ8Jjx_RN2CXloOmgTHVg": {
-      "video_id": "R_FRzbHQZYM",
-      "title": "【holoVillage: Our Cozy Days】dont tell me that there's 6⭐ rare fishes in this game",
+    "UCa9Y57gfeY0Zro_noHRVrnw": {
+      "video_id": "7vXaumkwv3E",
+      "title": "【 ぷちホロの村 】どんなゲームか遊んでみるのら!!!🪓(・o・🍬)【姫森ルーナ/ホロライブ】",
       "type": "stream",
       "status": "live",
       "topic_id": "holoVillage",
-      "published_at": "2026-04-28T12:28:56.000Z",
-      "available_at": "2026-04-28T14:29:49.000Z",
-      "start_scheduled": "2026-04-28T14:30:00.000Z",
-      "start_actual": "2026-04-28T14:29:49.000Z",
-      "live_viewers": 2687,
+      "published_at": "2026-04-29T04:14:26.000Z",
+      "available_at": "2026-04-29T05:57:20.000Z",
+      "start_scheduled": "2026-04-29T06:00:00.000Z",
+      "start_actual": "2026-04-29T05:57:20.000Z",
+      "live_viewers": 9390,
       "channel": {
-        "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "name": "Kaela Kovalskia Ch. hololive-ID",
-        "english_name": "Kaela Kovalskia",
+        "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+        "name": "Luna Ch. 姫森ルーナ",
+        "english_name": "Himemori Luna",
         "org": "Hololive",
-        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-        "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
-      "video_id": "_eyb4b0YVeY",
-      "title": "【Overwatch】I need my mythic prisms【Pavolia Reine/hololiveID】",
+    "UCc88OV45ICgHbn3ZqLLb52w": {
+      "video_id": "7Zn8yH4mzT0",
+      "title": "【同時視聴】弊社の先輩のLIVE、皆で見よう!秘密結社holoX Live 2026「First MISSION」#SSholoX世界リペイント計画 - 夜十神封魔 / ホロスターズ",
       "type": "stream",
       "status": "live",
-      "topic_id": "Overwatch",
-      "published_at": "2026-04-28T14:29:57.000Z",
-      "available_at": "2026-04-28T14:30:46.000Z",
-      "start_scheduled": "2026-04-28T14:30:00.000Z",
-      "start_actual": "2026-04-28T14:30:46.000Z",
-      "live_viewers": 876,
+      "topic_id": "watchalong",
+      "published_at": "2026-04-27T18:08:24.000Z",
+      "available_at": "2026-04-29T08:28:50.000Z",
+      "start_scheduled": "2026-04-29T08:30:00.000Z",
+      "start_actual": "2026-04-29T08:28:50.000Z",
+      "live_viewers": 587,
       "channel": {
-        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "name": "Pavolia Reine Ch. hololive-ID",
-        "english_name": "Pavolia Reine",
+        "id": "UCc88OV45ICgHbn3ZqLLb52w",
+        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+        "english_name": "Yatogami Fuma",
         "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCJFZiqLMntJufDCHc6bQixg": {
+      "video_id": "5Cy0vzUhQhE",
+      "title": "【チラ見せ】秘密結社holoX Live 2026「First MISSION」【 #SSholoX世界リペイント計画】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "3D_Stream",
+      "published_at": "2026-04-16T03:34:10.000Z",
+      "available_at": "2026-04-29T08:30:12.000Z",
+      "start_scheduled": "2026-04-29T08:30:00.000Z",
+      "start_actual": "2026-04-29T08:30:12.000Z",
+      "live_viewers": 30865,
+      "channel": {
+        "id": "UCJFZiqLMntJufDCHc6bQixg",
+        "name": "hololive ホロライブ - VTuber Group",
+        "english_name": "hololive VTuber Group",
+        "org": "Hololive",
+        "suborg": "0aOfficial",
+        "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCt9H_RpQzhxzlyBxFqrdHqA": {
+      "video_id": "Xkc1JIPdYaQ",
+      "title": "【HOLOX GEN LIVE CONCERT WATCHALONG 同時視聴】behold the secret society holoX ✖️🐾 【FUWAMOCO|#SSholoX】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-04-27T09:57:53.000Z",
+      "available_at": "2026-04-29T08:50:00.000Z",
+      "start_scheduled": "2026-04-29T08:50:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
+        "name": "FUWAMOCO Ch. hololive-EN",
+        "english_name": "Fuwawa & Mococo Abyssgard",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
