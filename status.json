@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777467679,
+  "cached_at": 1777467741,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "7vXaumkwv3E",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-29T05:57:20.000Z",
       "start_scheduled": "2026-04-29T06:00:00.000Z",
       "start_actual": "2026-04-29T05:57:20.000Z",
-      "live_viewers": 5673,
+      "live_viewers": 5594,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-29T11:00:32.000Z",
       "start_scheduled": "2026-04-29T11:00:00.000Z",
       "start_actual": "2026-04-29T11:00:32.000Z",
-      "live_viewers": 2892,
+      "live_viewers": 2862,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-29T11:01:12.000Z",
       "start_scheduled": "2026-04-29T11:00:00.000Z",
       "start_actual": "2026-04-29T11:01:12.000Z",
-      "live_viewers": 26187,
+      "live_viewers": 25246,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-29T12:01:22.000Z",
       "start_scheduled": "2026-04-29T12:00:00.000Z",
       "start_actual": "2026-04-29T12:01:22.000Z",
-      "live_viewers": 45762,
+      "live_viewers": 42750,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-29T12:01:56.000Z",
       "start_scheduled": "2026-04-29T12:00:00.000Z",
       "start_actual": "2026-04-29T12:01:56.000Z",
-      "live_viewers": 16732,
+      "live_viewers": 16589,
       "channel": {
         "id": "UC7fk0CB07ly8oSl0aqKkqFg",
         "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -159,6 +159,123 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdXAk5MpyLD8594lm_OvtGQ": {
+      "video_id": "IlPTs1niYrY",
+      "title": "【雑談】源氏物語展スペシャルサポーター!ポケパークなど【儒烏風亭らでん #ReGLOSS 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-04-29T11:19:05.000Z",
+      "available_at": "2026-04-29T12:59:48.000Z",
+      "start_scheduled": "2026-04-29T13:00:00.000Z",
+      "start_actual": "2026-04-29T12:59:48.000Z",
+      "live_viewers": 574,
+      "channel": {
+        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+        "english_name": "Juufuutei Raden",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTvHWSfBZgtxE4sILOaurIQ": {
+      "video_id": "bFd_f3uyOkA",
+      "title": "【holoVillage: Our Cozy Days】chief learning how to live a cozy life",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-04-28T10:21:06.000Z",
+      "available_at": "2026-04-29T12:59:50.000Z",
+      "start_scheduled": "2026-04-29T13:00:00.000Z",
+      "start_actual": "2026-04-29T12:59:50.000Z",
+      "live_viewers": 335,
+      "channel": {
+        "id": "UCTvHWSfBZgtxE4sILOaurIQ",
+        "name": "Vestia Zeta Ch. hololive-ID",
+        "english_name": "Vestia Zeta",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "c0MLy6bxJMs",
+      "title": "【 クロノ・トリガー 】完全初見!マルチエンド回収の旅!! #番外編2【角巻わため/ホロライブ4期生】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Chrono_Trigger",
+      "published_at": "2026-04-28T20:38:36.000Z",
+      "available_at": "2026-04-29T13:00:00.000Z",
+      "start_scheduled": "2026-04-29T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp-5t9SrOQwXMU7iIjQfARg": {
+      "video_id": "p3D4Uj67T1k",
+      "title": "【メンバーシップ限定】ひそひそ声で、寝る前に雑談ASMR",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-04-29T10:27:17.000Z",
+      "available_at": "2026-04-29T13:00:00.000Z",
+      "start_scheduled": "2026-04-29T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+        "name": "Mio Channel 大神ミオ",
+        "english_name": "Ookami Mio",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "yy8equ4mud8",
+      "title": "【ドラゴンボールZ KAKAROT】完全初見!ついに魔人ブウとご対面じゃっ🔥【ホロライブ DEV_IS 響咲リオナ】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dragon_Ball_Z:_Kakarot",
+      "published_at": "2026-04-26T13:02:05.000Z",
+      "available_at": "2026-04-29T13:00:00.000Z",
+      "start_scheduled": "2026-04-29T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFKOVgVbGmX65RxO3EtH3iw": {
+      "video_id": "ua8QKKIXT2s",
+      "title": "【3D配信】ねぽらぼでお菓子パーティー!はしゃいじゃうぞっ!!【ねぽらぼ /ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "3D_Stream",
+      "published_at": "2026-04-28T10:41:26.000Z",
+      "available_at": "2026-04-29T13:00:13.000Z",
+      "start_scheduled": "2026-04-29T13:00:00.000Z",
+      "start_actual": "2026-04-29T13:00:13.000Z",
+      "live_viewers": 5558,
+      "channel": {
+        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+        "name": "Lamy Ch. 雪花ラミィ",
+        "english_name": "Yukihana Lamy",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
