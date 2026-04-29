@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777460479,
+  "cached_at": 1777460539,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "FqRSr7eJnnk",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-29T04:00:32.000Z",
       "start_scheduled": "2026-04-29T04:00:00.000Z",
       "start_actual": "2026-04-29T04:00:32.000Z",
-      "live_viewers": 2366,
+      "live_viewers": 2414,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-29T08:28:50.000Z",
       "start_scheduled": "2026-04-29T08:30:00.000Z",
       "start_actual": "2026-04-29T08:28:50.000Z",
-      "live_viewers": 673,
+      "live_viewers": 677,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -99,6 +99,83 @@
         "org": "Hololive",
         "suborg": "0x0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCCzUftO8KOVkV4wQG1vkUvg": {
+      "video_id": "rtQHMVuZaoE",
+      "title": "【カメラ有り実食】マリン船長の終わり散らかしてる食生活を救いにきた──三ツ星ファーム【ホロライブ/宝鐘マリン】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Camera_Stream",
+      "published_at": "2026-04-29T03:40:25.000Z",
+      "available_at": "2026-04-29T10:58:44.000Z",
+      "start_scheduled": "2026-04-29T11:00:00.000Z",
+      "start_actual": "2026-04-29T10:58:44.000Z",
+      "live_viewers": 4019,
+      "channel": {
+        "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+        "name": "Marine Ch. 宝鐘マリン",
+        "english_name": "Houshou Marine",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCL_qhgtOy0dy1Agp8vkySQg": {
+      "video_id": "y0WsNvXOdns",
+      "title": "【Pragmata】you're my dad! boogie woogie woogie (part 2) #calliolive",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PRAGMATA",
+      "published_at": "2026-04-28T13:54:54.000Z",
+      "available_at": "2026-04-29T11:00:00.000Z",
+      "start_scheduled": "2026-04-29T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+        "name": "Mori Calliope Ch. hololive-EN",
+        "english_name": "Mori Calliope",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "43TPT54WmwA",
+      "title": "【ラーメン】家系らーめん兎田家、本日開店です!!!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-29T06:01:54.000Z",
+      "available_at": "2026-04-29T11:00:00.000Z",
+      "start_scheduled": "2026-04-29T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC-hM6YJuNYVAmUWxeIr9FeA": {
+      "video_id": "QLwtoUZ63_o",
+      "title": "【トモコレ】3日目🔥地獄ワクワク島の物語が動き出すにぇえええええええ!!!!!!【ホロライブ/さくらみこ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-29T09:09:35.000Z",
+      "available_at": "2026-04-29T11:00:00.000Z",
+      "start_scheduled": "2026-04-29T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+        "name": "Miko Ch. さくらみこ",
+        "english_name": "Sakura Miko",
+        "org": "Hololive",
+        "suborg": "0y0th Generation",
+        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
