@@ -1,4 +1,24 @@
 {
-  "cached_at": 1777496539,
-  "lives": {}
+  "cached_at": 1777496599,
+  "lives": {
+    "UCDHABijvPBnJm7F-KlNME3w": {
+      "video_id": "5OPhaxx81Xo",
+      "title": "【CREATURE KITCHEN】grems, we must cook",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Creature_Kitchen",
+      "published_at": "2026-04-29T05:51:53.000Z",
+      "available_at": "2026-04-29T21:00:00.000Z",
+      "start_scheduled": "2026-04-29T21:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCDHABijvPBnJm7F-KlNME3w",
+        "name": "Gigi Murin Ch. hololive-EN",
+        "english_name": "Gigi Murin",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    }
+  }
 }
