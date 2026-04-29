@@ -1,25 +1,4 @@
 {
-  "cached_at": 1777491201,
-  "lives": {
-    "UC2hx0xVkMoHGWijwr_lA01w": {
-      "video_id": "DVf2fFLHv0I",
-      "title": "【TOMODACHI LIFE: LIVING THE DREAM】Welcome, to the great island of North Elysium🌴 #1",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-29T14:26:13.000Z",
-      "available_at": "2026-04-29T15:02:49.000Z",
-      "start_scheduled": "2026-04-29T15:00:00.000Z",
-      "start_actual": "2026-04-29T15:02:49.000Z",
-      "live_viewers": 879,
-      "channel": {
-        "id": "UC2hx0xVkMoHGWijwr_lA01w",
-        "name": "Axel Syrios Ch. HOLOSTARS-EN",
-        "english_name": "Axel Syrios",
-        "org": "Hololive",
-        "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-        "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    }
-  }
+  "cached_at": 1777491259,
+  "lives": {}
 }
