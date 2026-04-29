@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777477999,
+  "cached_at": 1777478061,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "y0WsNvXOdns",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-29T11:00:32.000Z",
       "start_scheduled": "2026-04-29T11:00:00.000Z",
       "start_actual": "2026-04-29T11:00:32.000Z",
-      "live_viewers": 3335,
+      "live_viewers": 3243,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-29T13:03:07.000Z",
       "start_scheduled": "2026-04-29T13:00:00.000Z",
       "start_actual": "2026-04-29T13:03:07.000Z",
-      "live_viewers": 9412,
+      "live_viewers": 9616,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-29T13:28:50.000Z",
       "start_scheduled": "2026-04-29T13:30:00.000Z",
       "start_actual": "2026-04-29T13:28:50.000Z",
-      "live_viewers": 3959,
+      "live_viewers": 3827,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-29T15:02:49.000Z",
       "start_scheduled": "2026-04-29T15:00:00.000Z",
       "start_actual": "2026-04-29T15:02:49.000Z",
-      "live_viewers": 614,
+      "live_viewers": 636,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
