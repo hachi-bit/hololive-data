@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777540639,
+  "cached_at": 1777540699,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "t9eRUykX5h0",
@@ -90,7 +90,7 @@
       "available_at": "2026-04-30T06:30:12.000Z",
       "start_scheduled": "2026-04-30T06:30:00.000Z",
       "start_actual": "2026-04-30T06:30:12.000Z",
-      "live_viewers": 709,
+      "live_viewers": 763,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -110,7 +110,7 @@
       "available_at": "2026-04-30T07:56:06.000Z",
       "start_scheduled": "2026-04-30T08:00:00.000Z",
       "start_actual": "2026-04-30T07:56:06.000Z",
-      "live_viewers": 2464,
+      "live_viewers": 2431,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -150,7 +150,7 @@
       "available_at": "2026-04-30T09:01:35.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:01:35.000Z",
-      "live_viewers": 302,
+      "live_viewers": 312,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -170,7 +170,7 @@
       "available_at": "2026-04-30T09:01:48.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:01:48.000Z",
-      "live_viewers": 798,
+      "live_viewers": 859,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -190,7 +190,7 @@
       "available_at": "2026-04-30T09:03:02.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:03:02.000Z",
-      "live_viewers": 4231,
+      "live_viewers": 4588,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -210,7 +210,7 @@
       "available_at": "2026-04-30T09:04:49.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:04:49.000Z",
-      "live_viewers": 472,
+      "live_viewers": 522,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -222,14 +222,15 @@
     },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "NLWhlp3ZQzc",
-      "title": "【 スーパーマリオワールド 】完全初見！初めてのマリオワールドに挑戦！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "title": "【 スーパーマリオワールド 】完全初見!初めてのマリオワールドに挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
       "type": "stream",
       "status": "live",
       "topic_id": "Super_Mario",
       "published_at": "2026-04-30T03:14:56.000Z",
-      "available_at": "2026-04-30T09:10:00.000Z",
+      "available_at": "2026-04-30T09:13:19.000Z",
       "start_scheduled": "2026-04-30T09:10:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-30T09:13:19.000Z",
+      "live_viewers": 2550,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
