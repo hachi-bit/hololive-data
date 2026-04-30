@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777579519,
+  "cached_at": 1777579579,
   "lives": {
-    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
-      "video_id": "hUoW3G4pwU4",
-      "title": "【Tomodachi Life】UNDOING THE CURSE OF THE ISLAND...【Pavolia Reine/hololiveID】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-30T13:45:09.000Z",
-      "available_at": "2026-04-30T14:29:38.000Z",
-      "start_scheduled": "2026-04-30T14:30:00.000Z",
-      "start_actual": "2026-04-30T14:29:38.000Z",
-      "live_viewers": 1915,
-      "channel": {
-        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "name": "Pavolia Reine Ch. hololive-ID",
-        "english_name": "Pavolia Reine",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCHsx4Hqa-1ORjQTh9TYDhww": {
       "video_id": "1je0xRYLDx8",
       "title": "【holoVillage】Another smol 3D wawa in a cozy game!?!? GIMME #kfp #キアライブ",
@@ -31,7 +11,7 @@
       "available_at": "2026-04-30T16:46:38.000Z",
       "start_scheduled": "2026-04-30T16:45:00.000Z",
       "start_actual": "2026-04-30T16:46:38.000Z",
-      "live_viewers": 3884,
+      "live_viewers": 3771,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -51,7 +31,7 @@
       "available_at": "2026-04-30T17:04:16.000Z",
       "start_scheduled": "2026-04-30T17:00:00.000Z",
       "start_actual": "2026-04-30T17:04:16.000Z",
-      "live_viewers": 714,
+      "live_viewers": 723,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -71,7 +51,7 @@
       "available_at": "2026-04-30T19:11:25.000Z",
       "start_scheduled": "2026-04-30T19:10:00.000Z",
       "start_actual": "2026-04-30T19:11:25.000Z",
-      "live_viewers": 6084,
+      "live_viewers": 6164,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -91,7 +71,7 @@
       "available_at": "2026-04-30T19:57:37.000Z",
       "start_scheduled": "2026-04-30T20:00:00.000Z",
       "start_actual": "2026-04-30T19:57:37.000Z",
-      "live_viewers": 773,
+      "live_viewers": 1062,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
