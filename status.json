@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777536319,
+  "cached_at": 1777536380,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "CTYHz4ftcH0",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-30T01:56:31.000Z",
       "start_scheduled": "2026-04-30T02:00:00.000Z",
       "start_actual": "2026-04-30T01:56:31.000Z",
-      "live_viewers": 6954,
+      "live_viewers": 6352,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -130,7 +130,7 @@
       "available_at": "2026-04-30T04:02:21.000Z",
       "start_scheduled": "2026-04-30T04:00:00.000Z",
       "start_actual": "2026-04-30T04:02:21.000Z",
-      "live_viewers": 1782,
+      "live_viewers": 1813,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -150,7 +150,7 @@
       "available_at": "2026-04-30T04:06:53.000Z",
       "start_scheduled": "2026-04-30T04:00:00.000Z",
       "start_actual": "2026-04-30T04:06:53.000Z",
-      "live_viewers": 1695,
+      "live_viewers": 1692,
       "channel": {
         "id": "UCKF9kMEyUzID3-P7GbxmT6w",
         "name": "hm",
@@ -170,7 +170,7 @@
       "available_at": "2026-04-30T06:30:12.000Z",
       "start_scheduled": "2026-04-30T06:30:00.000Z",
       "start_actual": "2026-04-30T06:30:12.000Z",
-      "live_viewers": 464,
+      "live_viewers": 469,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -185,12 +185,12 @@
       "title": "【Overwatch】no I lie it's ranked【Pavolia Reine/hololiveID】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "Overwatch",
       "published_at": "2026-04-30T07:46:14.000Z",
       "available_at": "2026-04-30T07:56:06.000Z",
       "start_scheduled": "2026-04-30T08:00:00.000Z",
       "start_actual": "2026-04-30T07:56:06.000Z",
-      "live_viewers": 229,
+      "live_viewers": 302,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -207,9 +207,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-04-28T13:26:21.000Z",
-      "available_at": "2026-04-30T08:00:00.000Z",
+      "available_at": "2026-04-30T08:00:53.000Z",
       "start_scheduled": "2026-04-30T08:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-30T08:00:53.000Z",
+      "live_viewers": 1874,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
