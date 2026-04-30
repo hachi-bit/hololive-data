@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777542079,
+  "cached_at": 1777542139,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "t9eRUykX5h0",
@@ -38,26 +38,6 @@
         "org": "Hololive",
         "suborg": "iaEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCmbs8T6MWqUHP1tIQvSgKrg": {
-      "video_id": "1xtPvF4jvZU",
-      "title": "【Superchat Catchup】Reading Everything",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Superchat_Reading",
-      "published_at": "2026-04-29T22:42:26.000Z",
-      "available_at": "2026-04-30T03:16:54.000Z",
-      "start_scheduled": "2026-04-30T03:15:00.000Z",
-      "start_actual": "2026-04-30T03:16:54.000Z",
-      "live_viewers": 3071,
-      "channel": {
-        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
-        "name": "Ouro Kronii Ch. hololive-EN",
-        "english_name": "Ouro Kronii",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKuwxopq9c3cldzSOo4ceSA": {
@@ -130,7 +110,7 @@
       "available_at": "2026-04-30T09:01:35.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:01:35.000Z",
-      "live_viewers": 375,
+      "live_viewers": 387,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -150,7 +130,7 @@
       "available_at": "2026-04-30T09:01:48.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:01:48.000Z",
-      "live_viewers": 942,
+      "live_viewers": 896,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -170,7 +150,7 @@
       "available_at": "2026-04-30T09:03:02.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:03:02.000Z",
-      "live_viewers": 6192,
+      "live_viewers": 6296,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -190,7 +170,7 @@
       "available_at": "2026-04-30T09:04:49.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:04:49.000Z",
-      "live_viewers": 752,
+      "live_viewers": 786,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -210,7 +190,7 @@
       "available_at": "2026-04-30T09:13:19.000Z",
       "start_scheduled": "2026-04-30T09:10:00.000Z",
       "start_actual": "2026-04-30T09:13:19.000Z",
-      "live_viewers": 6365,
+      "live_viewers": 6652,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
