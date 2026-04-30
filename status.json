@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777541239,
+  "cached_at": 1777541299,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "t9eRUykX5h0",
@@ -50,7 +50,7 @@
       "available_at": "2026-04-30T03:16:54.000Z",
       "start_scheduled": "2026-04-30T03:15:00.000Z",
       "start_actual": "2026-04-30T03:16:54.000Z",
-      "live_viewers": 3187,
+      "live_viewers": 3120,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -150,7 +150,7 @@
       "available_at": "2026-04-30T09:01:35.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:01:35.000Z",
-      "live_viewers": 335,
+      "live_viewers": 342,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -170,7 +170,7 @@
       "available_at": "2026-04-30T09:01:48.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:01:48.000Z",
-      "live_viewers": 969,
+      "live_viewers": 944,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -190,7 +190,7 @@
       "available_at": "2026-04-30T09:03:02.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:03:02.000Z",
-      "live_viewers": 5141,
+      "live_viewers": 5190,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -210,7 +210,7 @@
       "available_at": "2026-04-30T09:04:49.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:04:49.000Z",
-      "live_viewers": 664,
+      "live_viewers": 673,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -230,7 +230,7 @@
       "available_at": "2026-04-30T09:13:19.000Z",
       "start_scheduled": "2026-04-30T09:10:00.000Z",
       "start_actual": "2026-04-30T09:13:19.000Z",
-      "live_viewers": 4131,
+      "live_viewers": 4423,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
