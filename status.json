@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777548199,
+  "cached_at": 1777548259,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "t9eRUykX5h0",
@@ -21,25 +21,6 @@
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC8rcEBzJSleTkf_-agPM20g": {
-      "video_id": "YgRGMmcfHO8",
-      "title": "【FREE CHAT】HiRyS!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "FreeChat",
-      "published_at": "2022-03-04T18:12:32.000Z",
-      "available_at": "2026-04-30T03:00:00.000Z",
-      "start_scheduled": "2026-04-30T03:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC8rcEBzJSleTkf_-agPM20g",
-        "name": "IRyS Ch. hololive-EN",
-        "english_name": "IRyS",
-        "org": "Hololive",
-        "suborg": "iaEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCKuwxopq9c3cldzSOo4ceSA": {
       "video_id": "0IKK8B0u9kI",
       "title": "【APEX】朝活APEX部(ガチ遅刻)【八神ツクモ/ネオポルテ】→アステル・レダ様、xnfri様",
@@ -50,7 +31,7 @@
       "available_at": "2026-04-30T03:50:12.000Z",
       "start_scheduled": "2026-04-30T03:45:00.000Z",
       "start_actual": "2026-04-30T03:50:12.000Z",
-      "live_viewers": 77,
+      "live_viewers": 65,
       "channel": {
         "id": "UCKuwxopq9c3cldzSOo4ceSA",
         "name": "八神ツクモ / Yagami Tsukumo",
@@ -90,7 +71,7 @@
       "available_at": "2026-04-30T09:01:35.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:01:35.000Z",
-      "live_viewers": 444,
+      "live_viewers": 445,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -110,7 +91,7 @@
       "available_at": "2026-04-30T09:01:48.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:01:48.000Z",
-      "live_viewers": 732,
+      "live_viewers": 763,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -150,7 +131,7 @@
       "available_at": "2026-04-30T09:13:19.000Z",
       "start_scheduled": "2026-04-30T09:10:00.000Z",
       "start_actual": "2026-04-30T09:13:19.000Z",
-      "live_viewers": 7280,
+      "live_viewers": 7500,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -210,7 +191,7 @@
       "available_at": "2026-04-30T10:01:26.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:01:26.000Z",
-      "live_viewers": 35657,
+      "live_viewers": 36246,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -250,7 +231,7 @@
       "available_at": "2026-04-30T10:05:22.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:05:22.000Z",
-      "live_viewers": 227,
+      "live_viewers": 228,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -290,7 +271,7 @@
       "available_at": "2026-04-30T10:05:28.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:05:28.000Z",
-      "live_viewers": 6198,
+      "live_viewers": 6108,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -330,7 +311,7 @@
       "available_at": "2026-04-30T10:05:40.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:05:40.000Z",
-      "live_viewers": 200,
+      "live_viewers": 198,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -350,7 +331,7 @@
       "available_at": "2026-04-30T10:07:07.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:07:07.000Z",
-      "live_viewers": 181,
+      "live_viewers": 180,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -370,7 +351,7 @@
       "available_at": "2026-04-30T11:00:02.000Z",
       "start_scheduled": "2026-04-30T11:00:00.000Z",
       "start_actual": "2026-04-30T11:00:02.000Z",
-      "live_viewers": 8241,
+      "live_viewers": 8460,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -390,7 +371,7 @@
       "available_at": "2026-04-30T11:02:06.000Z",
       "start_scheduled": "2026-04-30T11:00:00.000Z",
       "start_actual": "2026-04-30T11:02:06.000Z",
-      "live_viewers": 3318,
+      "live_viewers": 3616,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -410,7 +391,7 @@
       "available_at": "2026-04-30T11:02:27.000Z",
       "start_scheduled": "2026-04-30T11:00:00.000Z",
       "start_actual": "2026-04-30T11:02:27.000Z",
-      "live_viewers": 6682,
+      "live_viewers": 7142,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
