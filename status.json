@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777550419,
+  "cached_at": 1777550479,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "t9eRUykX5h0",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-30T10:01:26.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:01:26.000Z",
-      "live_viewers": 36884,
+      "live_viewers": 36591,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-30T10:05:22.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:05:22.000Z",
-      "live_viewers": 315,
+      "live_viewers": 300,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-30T10:05:28.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:05:28.000Z",
-      "live_viewers": 5627,
+      "live_viewers": 5610,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -261,29 +261,9 @@
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "ShTWqLufimY",
-      "title": "【Super Battle Golf】ホロスタゴルフ部【荒咬オウガ 花咲みやび 夜十神封魔】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Super_Battle_Golf",
-      "published_at": "2026-04-30T04:21:57.000Z",
-      "available_at": "2026-04-30T10:05:38.000Z",
-      "start_scheduled": "2026-04-30T10:00:00.000Z",
-      "start_actual": "2026-04-30T10:05:38.000Z",
-      "live_viewers": 276,
-      "channel": {
-        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "name": "Oga Ch.荒咬オウガ",
-        "english_name": "Aragami Oga",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCGNI4MENvnsymYjKiZwv9eg": {
       "video_id": "QYYLB3S_d5A",
-      "title": "【Super Battle Golf】ホロスタゴルフバトル、開催!天真視点【岸堂天真/花咲みやび/羽継烏有/荒咬オウガ/水無世燐央/夜十神封魔/ホロスターズ】",
+      "title": "【Super Battle Golf】ホロスタゴルフバトル、開催！天真視点【岸堂天真/花咲みやび/羽継烏有/荒咬オウガ/水無世燐央/夜十神封魔/ホロスターズ】",
       "type": "stream",
       "status": "live",
       "topic_id": "Super_Battle_Golf",
@@ -301,46 +281,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
-      "video_id": "ULgebVbpKTg",
-      "title": "【Super Battle Golf】 ホロスタメンバーで友情破壊ゴルフ!! 【ホロスターズ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Super_Battle_Golf",
-      "published_at": "2026-04-30T07:13:44.000Z",
-      "available_at": "2026-04-30T10:07:07.000Z",
-      "start_scheduled": "2026-04-30T10:00:00.000Z",
-      "start_actual": "2026-04-30T10:07:07.000Z",
-      "live_viewers": 162,
-      "channel": {
-        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
-        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
-        "english_name": "Utsugi Uyu",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCFKOVgVbGmX65RxO3EtH3iw": {
-      "video_id": "aXbhceIPDGg",
-      "title": "【アユート】Nintendo Switch 2をフルアーマー化!?まがまがーずでレビュー!【雪花ラミィ・桃鈴ねね/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Review",
-      "published_at": "2026-04-28T03:48:53.000Z",
-      "available_at": "2026-04-30T11:00:02.000Z",
-      "start_scheduled": "2026-04-30T11:00:00.000Z",
-      "start_actual": "2026-04-30T11:00:02.000Z",
-      "live_viewers": 8488,
-      "channel": {
-        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
-        "name": "Lamy Ch. 雪花ラミィ",
-        "english_name": "Yukihana Lamy",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "GC4_WX6erXU",
       "title": "【ポケモン/リーフグリーン】#4 パラスと一緒に初見ポケモン!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
@@ -351,7 +291,7 @@
       "available_at": "2026-04-30T11:02:06.000Z",
       "start_scheduled": "2026-04-30T11:00:00.000Z",
       "start_actual": "2026-04-30T11:02:06.000Z",
-      "live_viewers": 5057,
+      "live_viewers": 5270,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -371,7 +311,7 @@
       "available_at": "2026-04-30T11:02:27.000Z",
       "start_scheduled": "2026-04-30T11:00:00.000Z",
       "start_actual": "2026-04-30T11:02:27.000Z",
-      "live_viewers": 9106,
+      "live_viewers": 9202,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
