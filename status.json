@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777512199,
+  "cached_at": 1777512258,
   "lives": {
     "UCJv02SHZgav7Mv3V0kBOR8Q": {
       "video_id": "dJH_GoHZ_kU",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-30T00:01:11.000Z",
       "start_scheduled": "2026-04-30T00:00:00.000Z",
       "start_actual": "2026-04-30T00:01:11.000Z",
-      "live_viewers": 439,
+      "live_viewers": 445,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -61,25 +61,6 @@
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "WGW_B9Oiw00",
-      "title": "【TOMODACHI LIFE】Stylus, Please Work!! The Mii's Need This!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-29T16:03:12.000Z",
-      "available_at": "2026-04-30T01:00:00.000Z",
-      "start_scheduled": "2026-04-30T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC060r4zABV18vcahAWR1n7w",
-        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-        "english_name": "Machina X Flayon",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "F-fqVoYovFE",
       "title": "【Darksiders】up my alley game, probably (part 1) #calliolive",
@@ -90,7 +71,7 @@
       "available_at": "2026-04-30T01:00:30.000Z",
       "start_scheduled": "2026-04-30T01:00:00.000Z",
       "start_actual": "2026-04-30T01:00:30.000Z",
-      "live_viewers": 3824,
+      "live_viewers": 4025,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -98,6 +79,26 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC060r4zABV18vcahAWR1n7w": {
+      "video_id": "WGW_B9Oiw00",
+      "title": "【TOMODACHI LIFE】Stylus, Please Work!! The Mii's Need This!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-29T16:03:12.000Z",
+      "available_at": "2026-04-30T01:19:09.000Z",
+      "start_scheduled": "2026-04-30T01:00:00.000Z",
+      "start_actual": "2026-04-30T01:19:09.000Z",
+      "live_viewers": 219,
+      "channel": {
+        "id": "UC060r4zABV18vcahAWR1n7w",
+        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
+        "english_name": "Machina X Flayon",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
