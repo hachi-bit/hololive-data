@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777540459,
+  "cached_at": 1777540520,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "t9eRUykX5h0",
@@ -50,7 +50,7 @@
       "available_at": "2026-04-30T03:16:54.000Z",
       "start_scheduled": "2026-04-30T03:15:00.000Z",
       "start_actual": "2026-04-30T03:16:54.000Z",
-      "live_viewers": 3249,
+      "live_viewers": 3187,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -150,7 +150,7 @@
       "available_at": "2026-04-30T09:01:35.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:01:35.000Z",
-      "live_viewers": 269,
+      "live_viewers": 302,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -170,7 +170,7 @@
       "available_at": "2026-04-30T09:01:48.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:01:48.000Z",
-      "live_viewers": 746,
+      "live_viewers": 798,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -190,7 +190,7 @@
       "available_at": "2026-04-30T09:03:02.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:03:02.000Z",
-      "live_viewers": 3634,
+      "live_viewers": 4231,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -210,7 +210,7 @@
       "available_at": "2026-04-30T09:04:49.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:04:49.000Z",
-      "live_viewers": 392,
+      "live_viewers": 472,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -222,7 +222,7 @@
     },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "NLWhlp3ZQzc",
-      "title": "【 スーパーマリオワールド 】完全初見!初めてのマリオワールドに挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "title": "【 スーパーマリオワールド 】完全初見！初めてのマリオワールドに挑戦！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
       "type": "stream",
       "status": "live",
       "topic_id": "Super_Mario",
