@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777539738,
+  "cached_at": 1777539798,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "t9eRUykX5h0",
@@ -90,7 +90,7 @@
       "available_at": "2026-04-30T06:30:12.000Z",
       "start_scheduled": "2026-04-30T06:30:00.000Z",
       "start_actual": "2026-04-30T06:30:12.000Z",
-      "live_viewers": 712,
+      "live_viewers": 703,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -121,16 +121,15 @@
       }
     },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
-      "video_id": "yhV74Ax06Rc",
-      "title": "【LIVE衣装で振り返り】秘密結社holoX Live 2026「First MISSION」ありがとう‼ #SSholoX世界リペイント計画 #SSholoX 【鷹嶺ルイ/ホロライブ】",
+      "video_id": "Bqn9kx3xW8U",
+      "title": "【 #ルイ新アクセお披露目 】GW企画発表あり‼ かっこいい新アクセサリーを公開するぞ✨【鷹嶺ルイ/ホロライブ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-04-28T13:26:21.000Z",
-      "available_at": "2026-04-30T08:00:53.000Z",
-      "start_scheduled": "2026-04-30T08:00:00.000Z",
-      "start_actual": "2026-04-30T08:00:53.000Z",
-      "live_viewers": 5731,
+      "topic_id": "announce",
+      "published_at": "2026-04-30T02:05:22.000Z",
+      "available_at": "2026-04-30T09:00:00.000Z",
+      "start_scheduled": "2026-04-30T09:00:00.000Z",
+      "live_viewers": 0,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -138,6 +137,103 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAoy6rzhSf4ydcYjJw3WoVg": {
+      "video_id": "E6hctJ-1ORM",
+      "title": "【MHWilds】300??????【 iofi / hololiveID 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "monhun",
+      "published_at": "2026-04-30T05:55:50.000Z",
+      "available_at": "2026-04-30T09:00:00.000Z",
+      "start_scheduled": "2026-04-30T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+        "name": "Airani Iofifteen Channel hololive-ID",
+        "english_name": "Airani Iofifteen",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
+      "video_id": "nSTfz724420",
+      "title": "【 TFT / #激闘遊戯 】アルランディスに全任せ視点【 奏手イヅル w/ アルランディス 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Teamfight_Tactics",
+      "published_at": "2026-04-30T08:28:50.000Z",
+      "available_at": "2026-04-30T09:00:00.000Z",
+      "start_scheduled": "2026-04-30T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "english_name": "Kanade Izuru",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKeAhJvy8zgXWbh9duVjIaQ": {
+      "video_id": "8IZoChzvIt0",
+      "title": "【 TFT 】激闘遊戯 TFT Vol.1 にイヅルくんと出るぜ!GO!!!【アルランディス/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Teamfight_Tactics",
+      "published_at": "2026-04-29T15:46:37.000Z",
+      "available_at": "2026-04-30T09:00:00.000Z",
+      "start_scheduled": "2026-04-30T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "english_name": "Arurandeisu",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKMWFR6lAstLa7Vbf5dH7ig": {
+      "video_id": "lv0Cw3TEVFo",
+      "title": "光るなら / FLOW GLOW (Cover)",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Music_Cover",
+      "published_at": "2026-04-30T09:00:06.000Z",
+      "available_at": "2026-04-30T09:00:06.000Z",
+      "start_scheduled": "2026-04-30T09:00:00.000Z",
+      "start_actual": "2026-04-30T09:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+        "english_name": "Rindo Chihaya",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCK9V2B22uJYu3N7eR_BT9QA": {
+      "video_id": "Vq2L-agii1Y",
+      "title": "【トモコレ】#4 新住人も登場!史実再現?毎日ハプニングすぎる島【尾丸ポルカ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-30T09:00:06.000Z",
+      "available_at": "2026-04-30T09:00:06.000Z",
+      "start_scheduled": "2026-04-30T09:00:00.000Z",
+      "start_actual": "2026-04-30T09:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+        "name": "Polka Ch. 尾丸ポルカ",
+        "english_name": "Omaru Polka",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
