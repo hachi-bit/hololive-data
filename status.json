@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777507159,
+  "cached_at": 1777507219,
   "lives": {
     "UCHP4f7G2dWD4qib7BMatGAw": {
       "video_id": "QbrC2sZMUM0",
@@ -19,6 +19,26 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCJv02SHZgav7Mv3V0kBOR8Q": {
+      "video_id": "dJH_GoHZ_kU",
+      "title": "【Handcam】TAKE A LOOK AT MY GOODIES",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Camera_Stream",
+      "published_at": "2026-04-29T06:28:19.000Z",
+      "available_at": "2026-04-29T23:56:34.000Z",
+      "start_scheduled": "2026-04-30T00:00:00.000Z",
+      "start_actual": "2026-04-29T23:56:34.000Z",
+      "live_viewers": 115,
+      "channel": {
+        "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
+        "name": "Goldbullet Ch. HOLOSTARS-EN",
+        "english_name": "Goldbullet",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
