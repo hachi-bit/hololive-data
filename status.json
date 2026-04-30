@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777550299,
+  "cached_at": 1777550359,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "t9eRUykX5h0",
@@ -41,26 +41,6 @@
         "photo": "https://yt3.ggpht.com/7a7QvD0AdkwTmfxFCkcUZbQ18PTsDW0P9LGWmB36pTV4peSqE6_1ouO20tvwtvqpTzqn2bOHag=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
-      "video_id": "RsursFe4wRg",
-      "title": "【Overwatch】no I lie it's ranked【Pavolia Reine/hololiveID】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Overwatch",
-      "published_at": "2026-04-30T07:46:14.000Z",
-      "available_at": "2026-04-30T07:56:06.000Z",
-      "start_scheduled": "2026-04-30T08:00:00.000Z",
-      "start_actual": "2026-04-30T07:56:06.000Z",
-      "live_viewers": 1440,
-      "channel": {
-        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "name": "Pavolia Reine Ch. hololive-ID",
-        "english_name": "Pavolia Reine",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCZgOv3YDEs-ZnZWDYVwJdmA": {
       "video_id": "nSTfz724420",
       "title": "【 TFT / #激闘遊戯 】アルランディスに全任せ視点【 奏手イヅル w/ アルランディス 】",
@@ -71,7 +51,7 @@
       "available_at": "2026-04-30T09:01:35.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:01:35.000Z",
-      "live_viewers": 346,
+      "live_viewers": 330,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -91,7 +71,7 @@
       "available_at": "2026-04-30T09:01:48.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:01:48.000Z",
-      "live_viewers": 838,
+      "live_viewers": 828,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -131,7 +111,7 @@
       "available_at": "2026-04-30T09:13:19.000Z",
       "start_scheduled": "2026-04-30T09:10:00.000Z",
       "start_actual": "2026-04-30T09:13:19.000Z",
-      "live_viewers": 6898,
+      "live_viewers": 6613,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -151,7 +131,7 @@
       "available_at": "2026-04-30T09:58:03.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T09:58:03.000Z",
-      "live_viewers": 5348,
+      "live_viewers": 5476,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-30T10:01:26.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:01:26.000Z",
-      "live_viewers": 37133,
+      "live_viewers": 36884,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-30T10:01:44.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:01:44.000Z",
-      "live_viewers": 6477,
+      "live_viewers": 6438,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -219,6 +199,26 @@
         "org": "Hololive",
         "suborg": "0x0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6t3-_N8A6ME1JShZHHqOMw": {
+      "video_id": "zRqmBl1VJCU",
+      "title": "【Super Battle Golf】ホロスタでわちゃわちゃゴルフ【花咲みやび/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Super_Battle_Golf",
+      "published_at": "2026-04-29T10:30:24.000Z",
+      "available_at": "2026-04-30T10:05:22.000Z",
+      "start_scheduled": "2026-04-30T10:00:00.000Z",
+      "start_actual": "2026-04-30T10:05:22.000Z",
+      "live_viewers": 315,
+      "channel": {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "english_name": "Hanasaki Miyabi",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCc88OV45ICgHbn3ZqLLb52w": {
@@ -241,26 +241,6 @@
         "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "zRqmBl1VJCU",
-      "title": "【Super Battle Golf】ホロスタでわちゃわちゃゴルフ【花咲みやび/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Super_Battle_Golf",
-      "published_at": "2026-04-29T10:30:24.000Z",
-      "available_at": "2026-04-30T10:05:22.000Z",
-      "start_scheduled": "2026-04-30T10:00:00.000Z",
-      "start_actual": "2026-04-30T10:05:22.000Z",
-      "live_viewers": 312,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "XbH_jTnKT3g",
       "title": "【打ち上げ】秘密結社holoX Live 2026「First MISSION」打ち上げ&裏話&おうち3Dお披露目!! #SSholoX世界リペイント計画 #SSholoX 【博衣こより/ホロライブ】",
@@ -271,7 +251,7 @@
       "available_at": "2026-04-30T10:05:28.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:05:28.000Z",
-      "live_viewers": 5703,
+      "live_viewers": 5627,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -351,7 +331,7 @@
       "available_at": "2026-04-30T11:00:02.000Z",
       "start_scheduled": "2026-04-30T11:00:00.000Z",
       "start_actual": "2026-04-30T11:00:02.000Z",
-      "live_viewers": 8731,
+      "live_viewers": 8488,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
