@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777561639,
+  "cached_at": 1777561699,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "N5GOijX9U0o",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-30T10:05:28.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:05:28.000Z",
-      "live_viewers": 2097,
+      "live_viewers": 2152,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-30T11:02:06.000Z",
       "start_scheduled": "2026-04-30T11:00:00.000Z",
       "start_actual": "2026-04-30T11:02:06.000Z",
-      "live_viewers": 5838,
+      "live_viewers": 5819,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-30T12:00:58.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:00:58.000Z",
-      "live_viewers": 11208,
+      "live_viewers": 11279,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-30T12:03:35.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:03:35.000Z",
-      "live_viewers": 28698,
+      "live_viewers": 28408,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -161,26 +161,6 @@
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC0TXe_LYZ4scaW2XMyi5_kw": {
-      "video_id": "WjbfqY4dgUo",
-      "title": "【BIOHAZARD RE:3】完全初見!バイオハザード RE:3 #3【ホロライブ / AZKi】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-04-30T09:24:39.000Z",
-      "available_at": "2026-04-30T13:00:42.000Z",
-      "start_scheduled": "2026-04-30T13:00:00.000Z",
-      "start_actual": "2026-04-30T13:00:42.000Z",
-      "live_viewers": 7158,
-      "channel": {
-        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-        "name": "AZKi Channel",
-        "english_name": "AZKi",
-        "org": "Hololive",
-        "suborg": "0z0th Generation",
-        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCdXAk5MpyLD8594lm_OvtGQ": {
       "video_id": "WyPdWRhJ5P0",
       "title": "【晩酌】赤ワイン用&ウイスキー用の大人のポッキー実食会!?【儒烏風亭らでん #ReGLOSS 】",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-30T13:00:46.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:00:46.000Z",
-      "live_viewers": 3898,
+      "live_viewers": 3868,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-30T13:01:14.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:01:14.000Z",
-      "live_viewers": 1109,
+      "live_viewers": 1151,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -331,7 +311,7 @@
       "available_at": "2026-04-30T14:29:38.000Z",
       "start_scheduled": "2026-04-30T14:30:00.000Z",
       "start_actual": "2026-04-30T14:29:38.000Z",
-      "live_viewers": 875,
+      "live_viewers": 978,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -351,7 +331,7 @@
       "available_at": "2026-04-30T15:00:56.000Z",
       "start_scheduled": "2026-04-30T15:00:00.000Z",
       "start_actual": "2026-04-30T15:00:56.000Z",
-      "live_viewers": 75,
+      "live_viewers": 106,
       "channel": {
         "id": "UCyJPVXNqCOm5jHaneVwde_A",
         "name": "Ashkariel【FIRST STAGE PRODUCTION EN】 ",
