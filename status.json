@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777554559,
+  "cached_at": 1777554619,
   "lives": {
     "UCZgOv3YDEs-ZnZWDYVwJdmA": {
       "video_id": "nSTfz724420",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-30T09:13:19.000Z",
       "start_scheduled": "2026-04-30T09:10:00.000Z",
       "start_actual": "2026-04-30T09:13:19.000Z",
-      "live_viewers": 2368,
+      "live_viewers": 2305,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-30T09:58:03.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T09:58:03.000Z",
-      "live_viewers": 5672,
+      "live_viewers": 5947,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-30T10:05:28.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:05:28.000Z",
-      "live_viewers": 2874,
+      "live_viewers": 2838,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-30T12:59:25.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T12:59:25.000Z",
-      "live_viewers": 883,
+      "live_viewers": 1027,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-30T12:59:37.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T12:59:37.000Z",
-      "live_viewers": 856,
+      "live_viewers": 992,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -259,25 +259,6 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC-hM6YJuNYVAmUWxeIr9FeA": {
-      "video_id": "3-B_zTNBAx8",
-      "title": "【メンバー限定 】おはなしと夜ごはん食べる!にぇ!!!!!!!!【ホロライブ/さくらみこ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-04-30T11:14:50.000Z",
-      "available_at": "2026-04-30T13:00:00.000Z",
-      "start_scheduled": "2026-04-30T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-        "name": "Miko Ch. さくらみこ",
-        "english_name": "Sakura Miko",
-        "org": "Hololive",
-        "suborg": "0y0th Generation",
-        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9LSiN9hXI55svYEBrrK-tw": {
@@ -290,7 +271,7 @@
       "available_at": "2026-04-30T13:00:31.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:00:31.000Z",
-      "live_viewers": 1852,
+      "live_viewers": 2297,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -310,7 +291,7 @@
       "available_at": "2026-04-30T13:00:42.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:00:42.000Z",
-      "live_viewers": 5721,
+      "live_viewers": 6790,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -330,7 +311,7 @@
       "available_at": "2026-04-30T13:00:46.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:00:46.000Z",
-      "live_viewers": 2048,
+      "live_viewers": 2557,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -350,7 +331,7 @@
       "available_at": "2026-04-30T13:01:14.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:01:14.000Z",
-      "live_viewers": 796,
+      "live_viewers": 872,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -390,7 +371,7 @@
       "available_at": "2026-04-30T13:02:06.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:02:06.000Z",
-      "live_viewers": 9131,
+      "live_viewers": 10259,
       "channel": {
         "id": "UC_4tXjqecqox5Uc05ncxpxg",
         "name": "椎名唯華 / Shiina Yuika",
@@ -398,6 +379,26 @@
         "org": "Nijisanji",
         "suborg": "06Ex-Gamers",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_lSKtnq1fRJH-om5Pbg4ob1avtD83-LWmF5RdFSucDVy1Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC-hM6YJuNYVAmUWxeIr9FeA": {
+      "video_id": "3-B_zTNBAx8",
+      "title": "【メンバー限定 】おはなしと夜ごはん食べる!にぇ!!!!!!!!【ホロライブ/さくらみこ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-04-30T11:14:50.000Z",
+      "available_at": "2026-04-30T13:06:36.000Z",
+      "start_scheduled": "2026-04-30T13:00:00.000Z",
+      "start_actual": "2026-04-30T13:06:36.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+        "name": "Miko Ch. さくらみこ",
+        "english_name": "Sakura Miko",
+        "org": "Hololive",
+        "suborg": "0y0th Generation",
+        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
