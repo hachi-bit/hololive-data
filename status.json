@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777556361,
+  "cached_at": 1777556421,
   "lives": {
     "UCZgOv3YDEs-ZnZWDYVwJdmA": {
       "video_id": "nSTfz724420",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-30T09:01:35.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:01:35.000Z",
-      "live_viewers": 475,
+      "live_viewers": 492,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-30T09:58:03.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T09:58:03.000Z",
-      "live_viewers": 5999,
+      "live_viewers": 6003,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -141,26 +141,6 @@
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "aPqJnu791kQ",
-      "title": "【ポケモンファイアレッド】 FR版ポケットモンスターゴールドコイキング 購入編 #金コイフブさん【白上フブキ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Pokemon",
-      "published_at": "2026-04-30T05:16:10.000Z",
-      "available_at": "2026-04-30T11:02:27.000Z",
-      "start_scheduled": "2026-04-30T11:00:00.000Z",
-      "start_actual": "2026-04-30T11:02:27.000Z",
-      "live_viewers": 8699,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "フブキCh。白上フブキ",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "iWglpPnQnCU",
       "title": "#5【初見】『機動戦士ガンダム Zガンダム』同時視聴!!ぺこ!【ホロライブ/兎田ぺこら】",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-30T12:01:36.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:01:36.000Z",
-      "live_viewers": 4055,
+      "live_viewers": 4086,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -231,7 +211,7 @@
       "available_at": "2026-04-30T12:59:25.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T12:59:25.000Z",
-      "live_viewers": 1779,
+      "live_viewers": 1837,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -291,7 +271,7 @@
       "available_at": "2026-04-30T13:00:42.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:00:42.000Z",
-      "live_viewers": 10505,
+      "live_viewers": 10679,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -311,7 +291,7 @@
       "available_at": "2026-04-30T13:00:46.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:00:46.000Z",
-      "live_viewers": 3699,
+      "live_viewers": 3732,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -411,7 +391,7 @@
       "available_at": "2026-04-30T13:31:09.000Z",
       "start_scheduled": "2026-04-30T13:30:00.000Z",
       "start_actual": "2026-04-30T13:31:09.000Z",
-      "live_viewers": 2183,
+      "live_viewers": 2342,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -431,7 +411,7 @@
       "available_at": "2026-04-30T13:31:25.000Z",
       "start_scheduled": "2026-04-30T13:30:00.000Z",
       "start_actual": "2026-04-30T13:31:25.000Z",
-      "live_viewers": 2836,
+      "live_viewers": 2945,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
