@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777507279,
+  "cached_at": 1777507340,
   "lives": {
     "UCHP4f7G2dWD4qib7BMatGAw": {
       "video_id": "QbrC2sZMUM0",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-29T23:56:34.000Z",
       "start_scheduled": "2026-04-30T00:00:00.000Z",
       "start_actual": "2026-04-29T23:56:34.000Z",
-      "live_viewers": 115,
+      "live_viewers": 153,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
@@ -39,6 +39,25 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCajbFh6e_R8QZdHAMbbi4rQ": {
+      "video_id": "GpKYb9epC3A",
+      "title": "Project Unboxing! - Ruzeverse TCG【RUZADER DAY PROJECTS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "unboxing",
+      "published_at": "2026-04-29T09:20:08.000Z",
+      "available_at": "2026-04-30T00:00:00.000Z",
+      "start_scheduled": "2026-04-30T00:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+        "english_name": "Crimzon Ruze",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
