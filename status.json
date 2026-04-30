@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777561279,
+  "cached_at": 1777561340,
   "lives": {
-    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "NLWhlp3ZQzc",
-      "title": "【 スーパーマリオワールド 】完全初見!初めてのマリオワールドに挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Super_Mario",
-      "published_at": "2026-04-30T03:14:56.000Z",
-      "available_at": "2026-04-30T09:13:19.000Z",
-      "start_scheduled": "2026-04-30T09:10:00.000Z",
-      "start_actual": "2026-04-30T09:13:19.000Z",
-      "live_viewers": 1774,
-      "channel": {
-        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "english_name": "Kikirara Vivi",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "N5GOijX9U0o",
       "title": "【 鳴潮 】鳴潮2周年をお祝いするのらあああああ!!!第2章 Ver.2.8 #14【姫森ルーナ/ホロライブ】",
@@ -31,7 +11,7 @@
       "available_at": "2026-04-30T09:58:03.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T09:58:03.000Z",
-      "live_viewers": 6522,
+      "live_viewers": 6492,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +31,7 @@
       "available_at": "2026-04-30T10:05:28.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:05:28.000Z",
-      "live_viewers": 2231,
+      "live_viewers": 2097,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -71,7 +51,7 @@
       "available_at": "2026-04-30T11:02:06.000Z",
       "start_scheduled": "2026-04-30T11:00:00.000Z",
       "start_actual": "2026-04-30T11:02:06.000Z",
-      "live_viewers": 5841,
+      "live_viewers": 5799,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -91,7 +71,7 @@
       "available_at": "2026-04-30T12:00:58.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:00:58.000Z",
-      "live_viewers": 11366,
+      "live_viewers": 11210,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-30T12:01:36.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:01:36.000Z",
-      "live_viewers": 3364,
+      "live_viewers": 3219,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -131,7 +111,7 @@
       "available_at": "2026-04-30T12:03:35.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:03:35.000Z",
-      "live_viewers": 28552,
+      "live_viewers": 28698,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -171,7 +151,7 @@
       "available_at": "2026-04-30T13:00:31.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:00:31.000Z",
-      "live_viewers": 4983,
+      "live_viewers": 5409,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -191,7 +171,7 @@
       "available_at": "2026-04-30T13:00:42.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:00:42.000Z",
-      "live_viewers": 14199,
+      "live_viewers": 7298,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -231,7 +211,7 @@
       "available_at": "2026-04-30T13:01:14.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:01:14.000Z",
-      "live_viewers": 1186,
+      "live_viewers": 1109,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -311,7 +291,7 @@
       "available_at": "2026-04-30T14:00:32.000Z",
       "start_scheduled": "2026-04-30T14:00:00.000Z",
       "start_actual": "2026-04-30T14:00:32.000Z",
-      "live_viewers": 488,
+      "live_viewers": 504,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -351,7 +331,7 @@
       "available_at": "2026-04-30T14:29:38.000Z",
       "start_scheduled": "2026-04-30T14:30:00.000Z",
       "start_actual": "2026-04-30T14:29:38.000Z",
-      "live_viewers": 836,
+      "live_viewers": 855,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -359,6 +339,25 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCyJPVXNqCOm5jHaneVwde_A": {
+      "video_id": "4oapYQDl9mI",
+      "title": "【PEAK】 Beautiful Men Climbing Mountains! ✨ 【FIRST STAGE PRODUCTION EN】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PEAK",
+      "published_at": "2026-04-30T04:05:00.000Z",
+      "available_at": "2026-04-30T15:00:00.000Z",
+      "start_scheduled": "2026-04-30T15:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCyJPVXNqCOm5jHaneVwde_A",
+        "name": "Ashkariel【FIRST STAGE PRODUCTION EN】 ",
+        "english_name": "Ashkariel",
+        "org": "FIRST STAGE PRODUCTION",
+        "suborg": "3cEN Lamentus",
+        "photo": "https://yt3.ggpht.com/Y3VVy1olg7jbNqe5SzgxxVHu7FRJ0GMKpYtdnYP4KIweWQyeREG4NU2oampGXeSBDSU5Rs_AYs4=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
