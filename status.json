@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777523539,
+  "cached_at": 1777523599,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "k_lB5m8Wkis",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-30T01:00:30.000Z",
       "start_scheduled": "2026-04-30T01:00:00.000Z",
       "start_actual": "2026-04-30T01:00:30.000Z",
-      "live_viewers": 4428,
+      "live_viewers": 4429,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-30T01:56:31.000Z",
       "start_scheduled": "2026-04-30T02:00:00.000Z",
       "start_actual": "2026-04-30T01:56:31.000Z",
-      "live_viewers": 8161,
+      "live_viewers": 7901,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -150,7 +150,7 @@
       "available_at": "2026-04-30T03:16:54.000Z",
       "start_scheduled": "2026-04-30T03:15:00.000Z",
       "start_actual": "2026-04-30T03:16:54.000Z",
-      "live_viewers": 2878,
+      "live_viewers": 2917,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -170,7 +170,7 @@
       "available_at": "2026-04-30T03:50:12.000Z",
       "start_scheduled": "2026-04-30T03:45:00.000Z",
       "start_actual": "2026-04-30T03:50:12.000Z",
-      "live_viewers": 106,
+      "live_viewers": 108,
       "channel": {
         "id": "UCKuwxopq9c3cldzSOo4ceSA",
         "name": "八神ツクモ / Yagami Tsukumo",
@@ -190,7 +190,7 @@
       "available_at": "2026-04-30T04:02:21.000Z",
       "start_scheduled": "2026-04-30T04:00:00.000Z",
       "start_actual": "2026-04-30T04:02:21.000Z",
-      "live_viewers": 1159,
+      "live_viewers": 1216,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -198,6 +198,26 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTvHWSfBZgtxE4sILOaurIQ": {
+      "video_id": "1luFhQTaLx0",
+      "title": "【Pokopia】Onix...sorry it took so long.....",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pokemon_Pokopia",
+      "published_at": "2026-04-06T06:56:07.000Z",
+      "available_at": "2026-04-30T04:04:51.000Z",
+      "start_scheduled": "2026-04-30T04:05:00.000Z",
+      "start_actual": "2026-04-30T04:04:51.000Z",
+      "live_viewers": 954,
+      "channel": {
+        "id": "UCTvHWSfBZgtxE4sILOaurIQ",
+        "name": "Vestia Zeta Ch. hololive-ID",
+        "english_name": "Vestia Zeta",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKF9kMEyUzID3-P7GbxmT6w": {
@@ -210,7 +230,7 @@
       "available_at": "2026-04-30T04:06:53.000Z",
       "start_scheduled": "2026-04-30T04:00:00.000Z",
       "start_actual": "2026-04-30T04:06:53.000Z",
-      "live_viewers": 658,
+      "live_viewers": 715,
       "channel": {
         "id": "UCKF9kMEyUzID3-P7GbxmT6w",
         "name": "hm",
