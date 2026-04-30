@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777579221,
+  "cached_at": 1777579280,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "hUoW3G4pwU4",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-30T17:04:16.000Z",
       "start_scheduled": "2026-04-30T17:00:00.000Z",
       "start_actual": "2026-04-30T17:04:16.000Z",
-      "live_viewers": 703,
+      "live_viewers": 714,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -79,6 +79,26 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgnfPPb9JI3e9A4cXHnWbyg": {
+      "video_id": "5rB99r-ByJ8",
+      "title": "Teaching My AI Daughter about VTubing【PRAGMATA】#sponsored",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PRAGMATA",
+      "published_at": "2026-04-29T23:56:09.000Z",
+      "available_at": "2026-04-30T19:57:37.000Z",
+      "start_scheduled": "2026-04-30T20:00:00.000Z",
+      "start_actual": "2026-04-30T19:57:37.000Z",
+      "live_viewers": 679,
+      "channel": {
+        "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
+        "name": "Shiori Novella Ch. hololive-EN",
+        "english_name": "Shiori Novella",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
