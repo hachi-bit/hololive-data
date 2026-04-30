@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777527858,
+  "cached_at": 1777527919,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "k_lB5m8Wkis",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-30T00:14:40.000Z",
       "start_scheduled": "2026-04-30T00:15:00.000Z",
       "start_actual": "2026-04-30T00:14:40.000Z",
-      "live_viewers": 216,
+      "live_viewers": 217,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-30T01:56:31.000Z",
       "start_scheduled": "2026-04-30T02:00:00.000Z",
       "start_actual": "2026-04-30T01:56:31.000Z",
-      "live_viewers": 7812,
+      "live_viewers": 7355,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-30T02:14:40.000Z",
       "start_scheduled": "2026-04-30T02:15:00.000Z",
       "start_actual": "2026-04-30T02:14:40.000Z",
-      "live_viewers": 502,
+      "live_viewers": 517,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -110,7 +110,7 @@
       "available_at": "2026-04-30T03:00:14.000Z",
       "start_scheduled": "2026-04-30T03:00:00.000Z",
       "start_actual": "2026-04-30T03:00:14.000Z",
-      "live_viewers": 450,
+      "live_viewers": 454,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -130,7 +130,7 @@
       "available_at": "2026-04-30T03:16:54.000Z",
       "start_scheduled": "2026-04-30T03:15:00.000Z",
       "start_actual": "2026-04-30T03:16:54.000Z",
-      "live_viewers": 3030,
+      "live_viewers": 3009,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -150,7 +150,7 @@
       "available_at": "2026-04-30T03:50:12.000Z",
       "start_scheduled": "2026-04-30T03:45:00.000Z",
       "start_actual": "2026-04-30T03:50:12.000Z",
-      "live_viewers": 138,
+      "live_viewers": 127,
       "channel": {
         "id": "UCKuwxopq9c3cldzSOo4ceSA",
         "name": "八神ツクモ / Yagami Tsukumo",
@@ -210,7 +210,7 @@
       "available_at": "2026-04-30T04:06:53.000Z",
       "start_scheduled": "2026-04-30T04:00:00.000Z",
       "start_actual": "2026-04-30T04:06:53.000Z",
-      "live_viewers": 1338,
+      "live_viewers": 1360,
       "channel": {
         "id": "UCKF9kMEyUzID3-P7GbxmT6w",
         "name": "hm",
