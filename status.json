@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777524559,
+  "cached_at": 1777524619,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "k_lB5m8Wkis",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-30T01:00:30.000Z",
       "start_scheduled": "2026-04-30T01:00:00.000Z",
       "start_actual": "2026-04-30T01:00:30.000Z",
-      "live_viewers": 4332,
+      "live_viewers": 4244,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-30T02:14:40.000Z",
       "start_scheduled": "2026-04-30T02:15:00.000Z",
       "start_actual": "2026-04-30T02:14:40.000Z",
-      "live_viewers": 584,
+      "live_viewers": 556,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -130,7 +130,7 @@
       "available_at": "2026-04-30T03:00:14.000Z",
       "start_scheduled": "2026-04-30T03:00:00.000Z",
       "start_actual": "2026-04-30T03:00:14.000Z",
-      "live_viewers": 430,
+      "live_viewers": 463,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -190,7 +190,7 @@
       "available_at": "2026-04-30T04:02:21.000Z",
       "start_scheduled": "2026-04-30T04:00:00.000Z",
       "start_actual": "2026-04-30T04:02:21.000Z",
-      "live_viewers": 1424,
+      "live_viewers": 1439,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -210,7 +210,7 @@
       "available_at": "2026-04-30T04:04:51.000Z",
       "start_scheduled": "2026-04-30T04:05:00.000Z",
       "start_actual": "2026-04-30T04:04:51.000Z",
-      "live_viewers": 1110,
+      "live_viewers": 1101,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -230,7 +230,7 @@
       "available_at": "2026-04-30T04:06:53.000Z",
       "start_scheduled": "2026-04-30T04:00:00.000Z",
       "start_actual": "2026-04-30T04:06:53.000Z",
-      "live_viewers": 974,
+      "live_viewers": 1034,
       "channel": {
         "id": "UCKF9kMEyUzID3-P7GbxmT6w",
         "name": "hm",
