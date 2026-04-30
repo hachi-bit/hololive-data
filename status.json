@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777536139,
+  "cached_at": 1777536199,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "CTYHz4ftcH0",
@@ -90,7 +90,7 @@
       "available_at": "2026-04-30T03:16:54.000Z",
       "start_scheduled": "2026-04-30T03:15:00.000Z",
       "start_actual": "2026-04-30T03:16:54.000Z",
-      "live_viewers": 3105,
+      "live_viewers": 3058,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -190,7 +190,7 @@
       "available_at": "2026-04-30T07:56:06.000Z",
       "start_scheduled": "2026-04-30T08:00:00.000Z",
       "start_actual": "2026-04-30T07:56:06.000Z",
-      "live_viewers": 163,
+      "live_viewers": 229,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -198,6 +198,25 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "yhV74Ax06Rc",
+      "title": "【LIVE衣装で振り返り】秘密結社holoX Live 2026「First MISSION」ありがとう‼ #SSholoX世界リペイント計画 #SSholoX 【鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-04-28T13:26:21.000Z",
+      "available_at": "2026-04-30T08:00:00.000Z",
+      "start_scheduled": "2026-04-30T08:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
