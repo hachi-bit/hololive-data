@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777563079,
+  "cached_at": 1777563139,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "N5GOijX9U0o",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-30T12:01:36.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:01:36.000Z",
-      "live_viewers": 3239,
+      "live_viewers": 3354,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-30T12:03:35.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:03:35.000Z",
-      "live_viewers": 30135,
+      "live_viewers": 30136,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-30T13:00:31.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:00:31.000Z",
-      "live_viewers": 6809,
+      "live_viewers": 7684,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-30T13:01:14.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:01:14.000Z",
-      "live_viewers": 1180,
+      "live_viewers": 1179,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -219,6 +219,25 @@
         "org": "FIRST STAGE PRODUCTION",
         "suborg": "3cEN Lamentus",
         "photo": "https://yt3.ggpht.com/Y3VVy1olg7jbNqe5SzgxxVHu7FRJ0GMKpYtdnYP4KIweWQyeREG4NU2oampGXeSBDSU5Rs_AYs4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCOyYb1c43VlX9rc_lT6NKQw": {
+      "video_id": "euL2AtKCZGI",
+      "title": "HELLOOOOOOOOOOOOOOO",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-30T15:22:45.000Z",
+      "available_at": "2026-04-30T15:30:00.000Z",
+      "start_scheduled": "2026-04-30T15:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+        "name": "Ayunda Risu Ch. hololive-ID",
+        "english_name": "Ayunda Risu",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
