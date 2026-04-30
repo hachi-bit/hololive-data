@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777538719,
+  "cached_at": 1777538779,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "t9eRUykX5h0",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-30T02:14:40.000Z",
       "start_scheduled": "2026-04-30T02:15:00.000Z",
       "start_actual": "2026-04-30T02:14:40.000Z",
-      "live_viewers": 545,
+      "live_viewers": 525,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -50,7 +50,7 @@
       "available_at": "2026-04-30T03:16:54.000Z",
       "start_scheduled": "2026-04-30T03:15:00.000Z",
       "start_actual": "2026-04-30T03:16:54.000Z",
-      "live_viewers": 3298,
+      "live_viewers": 3257,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -110,7 +110,7 @@
       "available_at": "2026-04-30T07:56:06.000Z",
       "start_scheduled": "2026-04-30T08:00:00.000Z",
       "start_actual": "2026-04-30T07:56:06.000Z",
-      "live_viewers": 2752,
+      "live_viewers": 2655,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
