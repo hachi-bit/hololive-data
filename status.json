@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777543699,
+  "cached_at": 1777543759,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "t9eRUykX5h0",
@@ -170,7 +170,7 @@
       "available_at": "2026-04-30T09:58:03.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T09:58:03.000Z",
-      "live_viewers": 3267,
+      "live_viewers": 3846,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -197,121 +197,6 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC6eWCld0KwmyHFbAqK3V-Rw": {
-      "video_id": "XbH_jTnKT3g",
-      "title": "【打ち上げ】秘密結社holoX Live 2026「First MISSION」打ち上げ&裏話&おうち3Dお披露目!! #SSholoX世界リペイント計画 #SSholoX 【博衣こより/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "3D_Stream",
-      "published_at": "2026-04-27T23:46:14.000Z",
-      "available_at": "2026-04-30T10:00:00.000Z",
-      "start_scheduled": "2026-04-30T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-        "name": "Koyori ch. 博衣こより - holoX -",
-        "english_name": "Hakui Koyori",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCc88OV45ICgHbn3ZqLLb52w": {
-      "video_id": "1YzpATu2vy8",
-      "title": "Super Battle Golf|ホロスタゴルフ部 - 夜十神封魔",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Super_Battle_Golf",
-      "published_at": "2026-04-29T14:58:13.000Z",
-      "available_at": "2026-04-30T10:00:00.000Z",
-      "start_scheduled": "2026-04-30T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCc88OV45ICgHbn3ZqLLb52w",
-        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-        "english_name": "Yatogami Fuma",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "ShTWqLufimY",
-      "title": "【Super Battle Golf】ホロスタゴルフ部【荒咬オウガ 花咲みやび 夜十神封魔】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Super_Battle_Golf",
-      "published_at": "2026-04-30T04:21:57.000Z",
-      "available_at": "2026-04-30T10:00:00.000Z",
-      "start_scheduled": "2026-04-30T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "name": "Oga Ch.荒咬オウガ",
-        "english_name": "Aragami Oga",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "QYYLB3S_d5A",
-      "title": "【Super Battle Golf】ホロスタゴルフバトル、開催!天真視点【岸堂天真/花咲みやび/羽継烏有/荒咬オウガ/水無世燐央/夜十神封魔/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Super_Battle_Golf",
-      "published_at": "2026-04-30T07:19:39.000Z",
-      "available_at": "2026-04-30T10:00:00.000Z",
-      "start_scheduled": "2026-04-30T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "zRqmBl1VJCU",
-      "title": "【Super Battle Golf】ホロスタでわちゃわちゃゴルフ【花咲みやび/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Super_Battle_Golf",
-      "published_at": "2026-04-29T10:30:24.000Z",
-      "available_at": "2026-04-30T10:00:00.000Z",
-      "start_scheduled": "2026-04-30T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCJFZiqLMntJufDCHc6bQixg": {
-      "video_id": "nUWqmGPVxio",
-      "title": "【MV】Just for X / 秘密結社holoX【 #ssholox 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Original_Song",
-      "published_at": "2026-04-30T10:00:06.000Z",
-      "available_at": "2026-04-30T10:00:06.000Z",
-      "start_scheduled": "2026-04-30T10:00:00.000Z",
-      "start_actual": "2026-04-30T10:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCJFZiqLMntJufDCHc6bQixg",
-        "name": "hololive ホロライブ - VTuber Group",
-        "english_name": "hololive VTuber Group",
-        "org": "Hololive",
-        "suborg": "0aOfficial",
-        "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCK9V2B22uJYu3N7eR_BT9QA": {
@@ -364,7 +249,7 @@
       "available_at": "2026-04-30T10:01:03.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:01:03.000Z",
-      "live_viewers": 132,
+      "live_viewers": 154,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -384,7 +269,7 @@
       "available_at": "2026-04-30T10:01:09.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:01:09.000Z",
-      "live_viewers": 3035,
+      "live_viewers": 4188,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -404,7 +289,7 @@
       "available_at": "2026-04-30T10:01:26.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:01:26.000Z",
-      "live_viewers": 11814,
+      "live_viewers": 16483,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -424,7 +309,7 @@
       "available_at": "2026-04-30T10:01:44.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:01:44.000Z",
-      "live_viewers": 3994,
+      "live_viewers": 5030,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -432,6 +317,106 @@
         "org": "Hololive",
         "suborg": "0x0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6t3-_N8A6ME1JShZHHqOMw": {
+      "video_id": "zRqmBl1VJCU",
+      "title": "【Super Battle Golf】ホロスタでわちゃわちゃゴルフ【花咲みやび/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Super_Battle_Golf",
+      "published_at": "2026-04-29T10:30:24.000Z",
+      "available_at": "2026-04-30T10:05:22.000Z",
+      "start_scheduled": "2026-04-30T10:00:00.000Z",
+      "start_actual": "2026-04-30T10:05:22.000Z",
+      "live_viewers": 211,
+      "channel": {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "english_name": "Hanasaki Miyabi",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCc88OV45ICgHbn3ZqLLb52w": {
+      "video_id": "1YzpATu2vy8",
+      "title": "Super Battle Golf|ホロスタゴルフ部 - 夜十神封魔",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Super_Battle_Golf",
+      "published_at": "2026-04-29T14:58:13.000Z",
+      "available_at": "2026-04-30T10:05:22.000Z",
+      "start_scheduled": "2026-04-30T10:00:00.000Z",
+      "start_actual": "2026-04-30T10:05:22.000Z",
+      "live_viewers": 148,
+      "channel": {
+        "id": "UCc88OV45ICgHbn3ZqLLb52w",
+        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+        "english_name": "Yatogami Fuma",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6eWCld0KwmyHFbAqK3V-Rw": {
+      "video_id": "XbH_jTnKT3g",
+      "title": "【打ち上げ】秘密結社holoX Live 2026「First MISSION」打ち上げ&裏話&おうち3Dお披露目!! #SSholoX世界リペイント計画 #SSholoX 【博衣こより/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "3D_Stream",
+      "published_at": "2026-04-27T23:46:14.000Z",
+      "available_at": "2026-04-30T10:05:28.000Z",
+      "start_scheduled": "2026-04-30T10:00:00.000Z",
+      "start_actual": "2026-04-30T10:05:28.000Z",
+      "live_viewers": 3109,
+      "channel": {
+        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+        "name": "Koyori ch. 博衣こより - holoX -",
+        "english_name": "Hakui Koyori",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
+      "video_id": "ShTWqLufimY",
+      "title": "【Super Battle Golf】ホロスタゴルフ部【荒咬オウガ 花咲みやび 夜十神封魔】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Super_Battle_Golf",
+      "published_at": "2026-04-30T04:21:57.000Z",
+      "available_at": "2026-04-30T10:05:38.000Z",
+      "start_scheduled": "2026-04-30T10:00:00.000Z",
+      "start_actual": "2026-04-30T10:05:38.000Z",
+      "live_viewers": 140,
+      "channel": {
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "name": "Oga Ch.荒咬オウガ",
+        "english_name": "Aragami Oga",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGNI4MENvnsymYjKiZwv9eg": {
+      "video_id": "QYYLB3S_d5A",
+      "title": "【Super Battle Golf】ホロスタゴルフバトル、開催!天真視点【岸堂天真/花咲みやび/羽継烏有/荒咬オウガ/水無世燐央/夜十神封魔/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Super_Battle_Golf",
+      "published_at": "2026-04-30T07:19:39.000Z",
+      "available_at": "2026-04-30T10:05:40.000Z",
+      "start_scheduled": "2026-04-30T10:00:00.000Z",
+      "start_actual": "2026-04-30T10:05:40.000Z",
+      "live_viewers": 132,
+      "channel": {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "english_name": "Kishido Temma",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
