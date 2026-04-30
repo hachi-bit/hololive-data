@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777562119,
+  "cached_at": 1777562180,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "N5GOijX9U0o",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-30T09:58:03.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T09:58:03.000Z",
-      "live_viewers": 6585,
+      "live_viewers": 7066,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-30T12:00:58.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:00:58.000Z",
-      "live_viewers": 11279,
+      "live_viewers": 10136,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-30T13:00:46.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:00:46.000Z",
-      "live_viewers": 3868,
+      "live_viewers": 3886,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -179,26 +179,6 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCK9V2B22uJYu3N7eR_BT9QA": {
-      "video_id": "tH3kmbXMz34",
-      "title": "【メン限ないしょばなし】今月おわっちゃうおわっちゃうよ～【尾丸ポルカ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-04-30T11:56:23.000Z",
-      "available_at": "2026-04-30T13:01:38.000Z",
-      "start_scheduled": "2026-04-30T13:00:00.000Z",
-      "start_actual": "2026-04-30T13:01:38.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-        "name": "Polka Ch. 尾丸ポルカ",
-        "english_name": "Omaru Polka",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC-hM6YJuNYVAmUWxeIr9FeA": {
@@ -271,7 +251,7 @@
       "available_at": "2026-04-30T14:29:38.000Z",
       "start_scheduled": "2026-04-30T14:30:00.000Z",
       "start_actual": "2026-04-30T14:29:38.000Z",
-      "live_viewers": 1027,
+      "live_viewers": 1073,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -291,7 +271,7 @@
       "available_at": "2026-04-30T15:00:56.000Z",
       "start_scheduled": "2026-04-30T15:00:00.000Z",
       "start_actual": "2026-04-30T15:00:56.000Z",
-      "live_viewers": 125,
+      "live_viewers": 119,
       "channel": {
         "id": "UCyJPVXNqCOm5jHaneVwde_A",
         "name": "Ashkariel【FIRST STAGE PRODUCTION EN】 ",
