@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777567639,
+  "cached_at": 1777567699,
   "lives": {
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
       "video_id": "AVWnvJDlfXw",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-30T14:00:32.000Z",
       "start_scheduled": "2026-04-30T14:00:00.000Z",
       "start_actual": "2026-04-30T14:00:32.000Z",
-      "live_viewers": 805,
+      "live_viewers": 755,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -139,6 +139,25 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCHsx4Hqa-1ORjQTh9TYDhww": {
+      "video_id": "1je0xRYLDx8",
+      "title": "【holoVillage】Another smol 3D wawa in a cozy game!?!? GIMME #kfp #キアライブ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-04-30T01:49:03.000Z",
+      "available_at": "2026-04-30T16:45:00.000Z",
+      "start_scheduled": "2026-04-30T16:45:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+        "name": "Takanashi Kiara Ch. hololive-EN",
+        "english_name": "Takanashi Kiara",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
