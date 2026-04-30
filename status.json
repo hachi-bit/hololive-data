@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777552759,
+  "cached_at": 1777552819,
   "lives": {
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "t9eRUykX5h0",
-      "title": "【 APEX 】11時超えたら遅刻って話でした / アステル  xnfri ツクモ...?",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "apex",
-      "published_at": "2026-04-30T02:12:54.000Z",
-      "available_at": "2026-04-30T02:14:40.000Z",
-      "start_scheduled": "2026-04-30T02:15:00.000Z",
-      "start_actual": "2026-04-30T02:14:40.000Z",
-      "live_viewers": 355,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCZgOv3YDEs-ZnZWDYVwJdmA": {
       "video_id": "nSTfz724420",
       "title": "【 TFT / #激闘遊戯 】アルランディスに全任せ視点【 奏手イヅル w/ アルランディス 】",
@@ -31,7 +11,7 @@
       "available_at": "2026-04-30T09:01:35.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:01:35.000Z",
-      "live_viewers": 534,
+      "live_viewers": 601,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -71,7 +51,7 @@
       "available_at": "2026-04-30T09:04:49.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:04:49.000Z",
-      "live_viewers": 1030,
+      "live_viewers": 1024,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -111,7 +91,7 @@
       "available_at": "2026-04-30T09:58:03.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T09:58:03.000Z",
-      "live_viewers": 5624,
+      "live_viewers": 5512,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -131,7 +111,7 @@
       "available_at": "2026-04-30T10:01:26.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:01:26.000Z",
-      "live_viewers": 33788,
+      "live_viewers": 33731,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -151,7 +131,7 @@
       "available_at": "2026-04-30T10:01:44.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:01:44.000Z",
-      "live_viewers": 5753,
+      "live_viewers": 5757,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -211,7 +191,7 @@
       "available_at": "2026-04-30T11:02:27.000Z",
       "start_scheduled": "2026-04-30T11:00:00.000Z",
       "start_actual": "2026-04-30T11:02:27.000Z",
-      "live_viewers": 9756,
+      "live_viewers": 9869,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -231,7 +211,7 @@
       "available_at": "2026-04-30T11:59:37.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T11:59:37.000Z",
-      "live_viewers": 7388,
+      "live_viewers": 7243,
       "channel": {
         "id": "UC22BVlBsZc6ta3Dqz75NU6Q",
         "name": "飯田ぽち。【Iida Pochi.】",
@@ -251,7 +231,7 @@
       "available_at": "2026-04-30T12:00:58.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:00:58.000Z",
-      "live_viewers": 10983,
+      "live_viewers": 11055,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -271,7 +251,7 @@
       "available_at": "2026-04-30T12:01:36.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:01:36.000Z",
-      "live_viewers": 5427,
+      "live_viewers": 5439,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -291,7 +271,7 @@
       "available_at": "2026-04-30T12:03:35.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:03:35.000Z",
-      "live_viewers": 20389,
+      "live_viewers": 21197,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
