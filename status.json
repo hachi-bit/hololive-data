@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777586599,
+  "cached_at": 1777586659,
   "lives": {
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
       "video_id": "5rB99r-ByJ8",
@@ -39,6 +39,25 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "kcfLGvuz32E",
+      "title": "【 APEX 】とにかくね、時間を注げって話なんです / アステル",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "apex",
+      "published_at": "2026-04-30T21:02:15.000Z",
+      "available_at": "2026-04-30T22:00:00.000Z",
+      "start_scheduled": "2026-04-30T22:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
