@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777521439,
+  "cached_at": 1777521499,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "k_lB5m8Wkis",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-30T00:14:40.000Z",
       "start_scheduled": "2026-04-30T00:15:00.000Z",
       "start_actual": "2026-04-30T00:14:40.000Z",
-      "live_viewers": 256,
+      "live_viewers": 230,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-30T01:56:31.000Z",
       "start_scheduled": "2026-04-30T02:00:00.000Z",
       "start_actual": "2026-04-30T01:56:31.000Z",
-      "live_viewers": 7978,
+      "live_viewers": 7765,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -190,7 +190,7 @@
       "available_at": "2026-04-30T03:16:54.000Z",
       "start_scheduled": "2026-04-30T03:15:00.000Z",
       "start_actual": "2026-04-30T03:16:54.000Z",
-      "live_viewers": 2478,
+      "live_viewers": 2516,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -210,7 +210,7 @@
       "available_at": "2026-04-30T03:50:12.000Z",
       "start_scheduled": "2026-04-30T03:45:00.000Z",
       "start_actual": "2026-04-30T03:50:12.000Z",
-      "live_viewers": 56,
+      "live_viewers": 59,
       "channel": {
         "id": "UCKuwxopq9c3cldzSOo4ceSA",
         "name": "八神ツクモ / Yagami Tsukumo",
