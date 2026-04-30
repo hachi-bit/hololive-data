@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777550899,
+  "cached_at": 1777550959,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "t9eRUykX5h0",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-30T09:01:35.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:01:35.000Z",
-      "live_viewers": 330,
+      "live_viewers": 432,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-30T09:01:48.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:01:48.000Z",
-      "live_viewers": 828,
+      "live_viewers": 860,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-30T09:04:49.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:04:49.000Z",
-      "live_viewers": 1060,
+      "live_viewers": 1089,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-30T09:13:19.000Z",
       "start_scheduled": "2026-04-30T09:10:00.000Z",
       "start_actual": "2026-04-30T09:13:19.000Z",
-      "live_viewers": 4836,
+      "live_viewers": 4305,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-30T09:58:03.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T09:58:03.000Z",
-      "live_viewers": 5476,
+      "live_viewers": 5510,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-30T10:01:26.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:01:26.000Z",
-      "live_viewers": 35515,
+      "live_viewers": 34689,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-30T10:01:44.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:01:44.000Z",
-      "live_viewers": 6170,
+      "live_viewers": 6057,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-30T10:05:28.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:05:28.000Z",
-      "live_viewers": 5610,
+      "live_viewers": 5193,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-30T11:59:37.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T11:59:37.000Z",
-      "live_viewers": 4021,
+      "live_viewers": 4719,
       "channel": {
         "id": "UC22BVlBsZc6ta3Dqz75NU6Q",
         "name": "飯田ぽち。【Iida Pochi.】",
@@ -259,25 +259,6 @@
         "org": "Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/iWFFbPPyYnEqGJ3CkMsYgTkO4Nyu3ZxOLWalrVf5uIw78i-nv3X8nesL-eBmR5L_QJ7VuteN=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvzGlP9oQwU--Y0r9id_jnA": {
-      "video_id": "dyqtrZvzWJA",
-      "title": "【#生スバル】トモダチコレクションわくわく生活やるしゅばああああああああああああああああああああ!!!!【ホロライブ/大空スバル】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-29T13:31:37.000Z",
-      "available_at": "2026-04-30T12:00:00.000Z",
-      "start_scheduled": "2026-04-30T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-        "name": "Subaru Ch. 大空スバル",
-        "english_name": "Oozora Subaru",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1DCedRgGHBdm81E1llLhOQ": {
@@ -290,7 +271,7 @@
       "available_at": "2026-04-30T12:00:58.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:00:58.000Z",
-      "live_viewers": 7802,
+      "live_viewers": 9126,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -310,7 +291,7 @@
       "available_at": "2026-04-30T12:01:36.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:01:36.000Z",
-      "live_viewers": 3120,
+      "live_viewers": 4080,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -318,6 +299,26 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvzGlP9oQwU--Y0r9id_jnA": {
+      "video_id": "dyqtrZvzWJA",
+      "title": "【#生スバル】トモダチコレクションわくわく生活やるしゅばああああああああああああああああああああ!!!!【ホロライブ/大空スバル】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-29T13:31:37.000Z",
+      "available_at": "2026-04-30T12:03:35.000Z",
+      "start_scheduled": "2026-04-30T12:00:00.000Z",
+      "start_actual": "2026-04-30T12:03:35.000Z",
+      "live_viewers": 10571,
+      "channel": {
+        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+        "name": "Subaru Ch. 大空スバル",
+        "english_name": "Oozora Subaru",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
