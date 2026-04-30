@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777564159,
+  "cached_at": 1777564219,
   "lives": {
-    "UCa9Y57gfeY0Zro_noHRVrnw": {
-      "video_id": "N5GOijX9U0o",
-      "title": "【 鳴潮 】鳴潮2周年をお祝いするのらあああああ!!!第2章 Ver.2.8 #14【姫森ルーナ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Wuthering_Waves",
-      "published_at": "2026-04-29T15:08:29.000Z",
-      "available_at": "2026-04-30T09:58:03.000Z",
-      "start_scheduled": "2026-04-30T10:00:00.000Z",
-      "start_actual": "2026-04-30T09:58:03.000Z",
-      "live_viewers": 4198,
-      "channel": {
-        "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-        "name": "Luna Ch. 姫森ルーナ",
-        "english_name": "Himemori Luna",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "XbH_jTnKT3g",
       "title": "【打ち上げ】秘密結社holoX Live 2026「First MISSION」打ち上げ&裏話&おうち3Dお披露目!! #SSholoX世界リペイント計画 #SSholoX 【博衣こより/ホロライブ】",
@@ -61,26 +41,6 @@
         "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCvzGlP9oQwU--Y0r9id_jnA": {
-      "video_id": "dyqtrZvzWJA",
-      "title": "【#生スバル】トモダチコレクションわくわく生活やるしゅばああああああああああああああああああああ!!!!【ホロライブ/大空スバル】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-04-29T13:31:37.000Z",
-      "available_at": "2026-04-30T12:03:35.000Z",
-      "start_scheduled": "2026-04-30T12:00:00.000Z",
-      "start_actual": "2026-04-30T12:03:35.000Z",
-      "live_viewers": 24779,
-      "channel": {
-        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-        "name": "Subaru Ch. 大空スバル",
-        "english_name": "Oozora Subaru",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
       "video_id": "AVWnvJDlfXw",
       "title": "【Horsey Game】an Overwhelming Positive game that can change your life",
@@ -91,7 +51,7 @@
       "available_at": "2026-04-30T12:59:25.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T12:59:25.000Z",
-      "live_viewers": 2761,
+      "live_viewers": 2820,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -111,7 +71,7 @@
       "available_at": "2026-04-30T13:00:31.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:00:31.000Z",
-      "live_viewers": 7079,
+      "live_viewers": 7420,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -131,7 +91,7 @@
       "available_at": "2026-04-30T13:01:14.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:01:14.000Z",
-      "live_viewers": 1136,
+      "live_viewers": 1122,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -191,7 +151,7 @@
       "available_at": "2026-04-30T15:00:56.000Z",
       "start_scheduled": "2026-04-30T15:00:00.000Z",
       "start_actual": "2026-04-30T15:00:56.000Z",
-      "live_viewers": 187,
+      "live_viewers": 183,
       "channel": {
         "id": "UCyJPVXNqCOm5jHaneVwde_A",
         "name": "Ashkariel【FIRST STAGE PRODUCTION EN】 ",
