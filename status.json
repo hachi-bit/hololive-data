@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777586778,
+  "cached_at": 1777586838,
   "lives": {
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
       "video_id": "5rB99r-ByJ8",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-30T21:03:10.000Z",
       "start_scheduled": "2026-04-30T21:00:00.000Z",
       "start_actual": "2026-04-30T21:03:10.000Z",
-      "live_viewers": 4682,
+      "live_viewers": 4644,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -48,9 +48,10 @@
       "status": "live",
       "topic_id": "apex",
       "published_at": "2026-04-30T21:02:15.000Z",
-      "available_at": "2026-04-30T22:00:00.000Z",
+      "available_at": "2026-04-30T22:01:35.000Z",
       "start_scheduled": "2026-04-30T22:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-30T22:01:35.000Z",
+      "live_viewers": 152,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
