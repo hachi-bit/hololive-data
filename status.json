@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777522219,
+  "cached_at": 1777522279,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "k_lB5m8Wkis",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-30T01:00:30.000Z",
       "start_scheduled": "2026-04-30T01:00:00.000Z",
       "start_actual": "2026-04-30T01:00:30.000Z",
-      "live_viewers": 4454,
+      "live_viewers": 4353,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-30T01:19:09.000Z",
       "start_scheduled": "2026-04-30T01:00:00.000Z",
       "start_actual": "2026-04-30T01:19:09.000Z",
-      "live_viewers": 489,
+      "live_viewers": 487,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-30T01:56:31.000Z",
       "start_scheduled": "2026-04-30T02:00:00.000Z",
       "start_actual": "2026-04-30T01:56:31.000Z",
-      "live_viewers": 7691,
+      "live_viewers": 7822,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -130,7 +130,7 @@
       "available_at": "2026-04-30T03:00:14.000Z",
       "start_scheduled": "2026-04-30T03:00:00.000Z",
       "start_actual": "2026-04-30T03:00:14.000Z",
-      "live_viewers": 573,
+      "live_viewers": 509,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -190,7 +190,7 @@
       "available_at": "2026-04-30T03:50:12.000Z",
       "start_scheduled": "2026-04-30T03:45:00.000Z",
       "start_actual": "2026-04-30T03:50:12.000Z",
-      "live_viewers": 78,
+      "live_viewers": 80,
       "channel": {
         "id": "UCKuwxopq9c3cldzSOo4ceSA",
         "name": "八神ツクモ / Yagami Tsukumo",
@@ -198,25 +198,6 @@
         "org": "Neo-Porte",
         "suborg": "0k5th Generation",
         "photo": "https://yt3.ggpht.com/7a7QvD0AdkwTmfxFCkcUZbQ18PTsDW0P9LGWmB36pTV4peSqE6_1ouO20tvwtvqpTzqn2bOHag=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKF9kMEyUzID3-P7GbxmT6w": {
-      "video_id": "7vsfJJPUWNw",
-      "title": "【 7DAYS TO DIE 】おバカとゾンビと世紀末【 日向まる / 個人勢 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "7_days_to_die",
-      "published_at": "2026-04-24T00:05:42.000Z",
-      "available_at": "2026-04-30T04:00:00.000Z",
-      "start_scheduled": "2026-04-30T04:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCKF9kMEyUzID3-P7GbxmT6w",
-        "name": "hm",
-        "english_name": "Hinata Maru",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_k1CPaOgRI2Mu5IEri_BZInMpG8xGyCi-koUo8GUJQ3ibxdodVjGLAG_bd8zdnFKpqUPQ0=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
@@ -229,7 +210,7 @@
       "available_at": "2026-04-30T04:02:21.000Z",
       "start_scheduled": "2026-04-30T04:00:00.000Z",
       "start_actual": "2026-04-30T04:02:21.000Z",
-      "live_viewers": 695,
+      "live_viewers": 698,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -237,6 +218,26 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKF9kMEyUzID3-P7GbxmT6w": {
+      "video_id": "7vsfJJPUWNw",
+      "title": "【 7DAYS TO DIE 】おバカとゾンビと世紀末【 日向まる / 個人勢 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "7_days_to_die",
+      "published_at": "2026-04-24T00:05:42.000Z",
+      "available_at": "2026-04-30T04:06:53.000Z",
+      "start_scheduled": "2026-04-30T04:00:00.000Z",
+      "start_actual": "2026-04-30T04:06:53.000Z",
+      "live_viewers": 251,
+      "channel": {
+        "id": "UCKF9kMEyUzID3-P7GbxmT6w",
+        "name": "hm",
+        "english_name": "Hinata Maru",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_k1CPaOgRI2Mu5IEri_BZInMpG8xGyCi-koUo8GUJQ3ibxdodVjGLAG_bd8zdnFKpqUPQ0=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
