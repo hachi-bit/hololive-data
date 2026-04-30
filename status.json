@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777547899,
+  "cached_at": 1777547959,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "t9eRUykX5h0",
@@ -130,7 +130,7 @@
       "available_at": "2026-04-30T09:04:49.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:04:49.000Z",
-      "live_viewers": 1035,
+      "live_viewers": 1024,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -150,7 +150,7 @@
       "available_at": "2026-04-30T09:13:19.000Z",
       "start_scheduled": "2026-04-30T09:10:00.000Z",
       "start_actual": "2026-04-30T09:13:19.000Z",
-      "live_viewers": 7556,
+      "live_viewers": 7280,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -170,7 +170,7 @@
       "available_at": "2026-04-30T09:58:03.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T09:58:03.000Z",
-      "live_viewers": 5729,
+      "live_viewers": 5439,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -190,7 +190,7 @@
       "available_at": "2026-04-30T10:01:03.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:01:03.000Z",
-      "live_viewers": 192,
+      "live_viewers": 180,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -210,7 +210,7 @@
       "available_at": "2026-04-30T10:01:26.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:01:26.000Z",
-      "live_viewers": 34938,
+      "live_viewers": 34852,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -240,26 +240,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCc88OV45ICgHbn3ZqLLb52w": {
-      "video_id": "1YzpATu2vy8",
-      "title": "Super Battle Golf|ホロスタゴルフ部 - 夜十神封魔",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Super_Battle_Golf",
-      "published_at": "2026-04-29T14:58:13.000Z",
-      "available_at": "2026-04-30T10:05:22.000Z",
-      "start_scheduled": "2026-04-30T10:00:00.000Z",
-      "start_actual": "2026-04-30T10:05:22.000Z",
-      "live_viewers": 233,
-      "channel": {
-        "id": "UCc88OV45ICgHbn3ZqLLb52w",
-        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-        "english_name": "Yatogami Fuma",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC6t3-_N8A6ME1JShZHHqOMw": {
       "video_id": "zRqmBl1VJCU",
       "title": "【Super Battle Golf】ホロスタでわちゃわちゃゴルフ【花咲みやび/ホロスターズ】",
@@ -278,6 +258,26 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCc88OV45ICgHbn3ZqLLb52w": {
+      "video_id": "1YzpATu2vy8",
+      "title": "Super Battle Golf|ホロスタゴルフ部 - 夜十神封魔",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Super_Battle_Golf",
+      "published_at": "2026-04-29T14:58:13.000Z",
+      "available_at": "2026-04-30T10:05:22.000Z",
+      "start_scheduled": "2026-04-30T10:00:00.000Z",
+      "start_actual": "2026-04-30T10:05:22.000Z",
+      "live_viewers": 227,
+      "channel": {
+        "id": "UCc88OV45ICgHbn3ZqLLb52w",
+        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+        "english_name": "Yatogami Fuma",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
@@ -330,7 +330,7 @@
       "available_at": "2026-04-30T10:05:40.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:05:40.000Z",
-      "live_viewers": 208,
+      "live_viewers": 200,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -350,7 +350,7 @@
       "available_at": "2026-04-30T10:07:07.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:07:07.000Z",
-      "live_viewers": 171,
+      "live_viewers": 181,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -370,7 +370,7 @@
       "available_at": "2026-04-30T11:00:02.000Z",
       "start_scheduled": "2026-04-30T11:00:00.000Z",
       "start_actual": "2026-04-30T11:00:02.000Z",
-      "live_viewers": 7552,
+      "live_viewers": 8110,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -390,7 +390,7 @@
       "available_at": "2026-04-30T11:02:06.000Z",
       "start_scheduled": "2026-04-30T11:00:00.000Z",
       "start_actual": "2026-04-30T11:02:06.000Z",
-      "live_viewers": 2907,
+      "live_viewers": 3189,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -410,7 +410,7 @@
       "available_at": "2026-04-30T11:02:27.000Z",
       "start_scheduled": "2026-04-30T11:00:00.000Z",
       "start_actual": "2026-04-30T11:02:27.000Z",
-      "live_viewers": 5969,
+      "live_viewers": 6493,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
