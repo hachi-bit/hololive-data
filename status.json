@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777521319,
+  "cached_at": 1777521379,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "k_lB5m8Wkis",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-30T01:19:09.000Z",
       "start_scheduled": "2026-04-30T01:00:00.000Z",
       "start_actual": "2026-04-30T01:19:09.000Z",
-      "live_viewers": 440,
+      "live_viewers": 452,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-30T02:14:40.000Z",
       "start_scheduled": "2026-04-30T02:15:00.000Z",
       "start_actual": "2026-04-30T02:14:40.000Z",
-      "live_viewers": 568,
+      "live_viewers": 572,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -150,7 +150,7 @@
       "available_at": "2026-04-30T03:00:14.000Z",
       "start_scheduled": "2026-04-30T03:00:00.000Z",
       "start_actual": "2026-04-30T03:00:14.000Z",
-      "live_viewers": 297,
+      "live_viewers": 304,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -170,7 +170,7 @@
       "available_at": "2026-04-30T03:00:43.000Z",
       "start_scheduled": "2026-04-30T03:00:00.000Z",
       "start_actual": "2026-04-30T03:00:43.000Z",
-      "live_viewers": 5050,
+      "live_viewers": 5004,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -190,7 +190,7 @@
       "available_at": "2026-04-30T03:16:54.000Z",
       "start_scheduled": "2026-04-30T03:15:00.000Z",
       "start_actual": "2026-04-30T03:16:54.000Z",
-      "live_viewers": 2406,
+      "live_viewers": 2478,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -207,9 +207,10 @@
       "status": "live",
       "topic_id": "apex",
       "published_at": "2026-04-30T03:45:04.000Z",
-      "available_at": "2026-04-30T03:45:00.000Z",
+      "available_at": "2026-04-30T03:50:12.000Z",
       "start_scheduled": "2026-04-30T03:45:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-04-30T03:50:12.000Z",
+      "live_viewers": 56,
       "channel": {
         "id": "UCKuwxopq9c3cldzSOo4ceSA",
         "name": "八神ツクモ / Yagami Tsukumo",
