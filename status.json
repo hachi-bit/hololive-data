@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777553119,
+  "cached_at": 1777553179,
   "lives": {
     "UCZgOv3YDEs-ZnZWDYVwJdmA": {
       "video_id": "nSTfz724420",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-30T09:01:48.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:01:48.000Z",
-      "live_viewers": 739,
+      "live_viewers": 771,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -71,7 +71,7 @@
       "available_at": "2026-04-30T09:13:19.000Z",
       "start_scheduled": "2026-04-30T09:10:00.000Z",
       "start_actual": "2026-04-30T09:13:19.000Z",
-      "live_viewers": 2648,
+      "live_viewers": 2588,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-30T09:58:03.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T09:58:03.000Z",
-      "live_viewers": 5512,
+      "live_viewers": 5504,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-30T10:01:26.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:01:26.000Z",
-      "live_viewers": 33199,
+      "live_viewers": 32613,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -146,7 +146,7 @@
       "title": "【打ち上げ】秘密結社holoX Live 2026「First MISSION」打ち上げ&裏話&おうち3Dお披露目!! #SSholoX世界リペイント計画 #SSholoX 【博衣こより/ホロライブ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "3D_Stream",
+      "topic_id": "talk",
       "published_at": "2026-04-27T23:46:14.000Z",
       "available_at": "2026-04-30T10:05:28.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-30T11:02:06.000Z",
       "start_scheduled": "2026-04-30T11:00:00.000Z",
       "start_actual": "2026-04-30T11:02:06.000Z",
-      "live_viewers": 5767,
+      "live_viewers": 5685,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-30T12:00:58.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:00:58.000Z",
-      "live_viewers": 11055,
+      "live_viewers": 11123,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
