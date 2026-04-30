@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777553719,
+  "cached_at": 1777553779,
   "lives": {
     "UCZgOv3YDEs-ZnZWDYVwJdmA": {
       "video_id": "nSTfz724420",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-30T09:01:35.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:01:35.000Z",
-      "live_viewers": 637,
+      "live_viewers": 632,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-30T09:01:48.000Z",
       "start_scheduled": "2026-04-30T09:00:00.000Z",
       "start_actual": "2026-04-30T09:01:48.000Z",
-      "live_viewers": 772,
+      "live_viewers": 751,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-30T09:13:19.000Z",
       "start_scheduled": "2026-04-30T09:10:00.000Z",
       "start_actual": "2026-04-30T09:13:19.000Z",
-      "live_viewers": 2559,
+      "live_viewers": 2455,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -111,7 +111,7 @@
       "available_at": "2026-04-30T10:01:44.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:01:44.000Z",
-      "live_viewers": 5536,
+      "live_viewers": 5494,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-30T10:05:28.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:05:28.000Z",
-      "live_viewers": 3151,
+      "live_viewers": 3076,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-30T11:02:06.000Z",
       "start_scheduled": "2026-04-30T11:00:00.000Z",
       "start_actual": "2026-04-30T11:02:06.000Z",
-      "live_viewers": 5685,
+      "live_viewers": 5686,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -171,7 +171,7 @@
       "available_at": "2026-04-30T11:02:27.000Z",
       "start_scheduled": "2026-04-30T11:00:00.000Z",
       "start_actual": "2026-04-30T11:02:27.000Z",
-      "live_viewers": 9737,
+      "live_viewers": 9836,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -183,7 +183,7 @@
     },
     "UC22BVlBsZc6ta3Dqz75NU6Q": {
       "video_id": "N-0C24CTRCk",
-      "title": "【#飯田ぽち生誕ライブ2026】新衣装＆ゲスト＆重大告知あり! わたくしのわたくしによるわたくしのための誕生日パーティー　【飯田ぽち。Iida Pochi.】",
+      "title": "【#飯田ぽち生誕ライブ2026】新衣装&ゲスト&重大告知あり! わたくしのわたくしによるわたくしのための誕生日パーティー 【飯田ぽち。Iida Pochi.】",
       "type": "stream",
       "status": "live",
       "topic_id": "Birthday",
@@ -191,7 +191,7 @@
       "available_at": "2026-04-30T11:59:37.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T11:59:37.000Z",
-      "live_viewers": 7213,
+      "live_viewers": 7153,
       "channel": {
         "id": "UC22BVlBsZc6ta3Dqz75NU6Q",
         "name": "飯田ぽち。【Iida Pochi.】",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-30T12:00:58.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:00:58.000Z",
-      "live_viewers": 11123,
+      "live_viewers": 11183,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-30T12:01:36.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:01:36.000Z",
-      "live_viewers": 5204,
+      "live_viewers": 5132,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-30T12:03:35.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:03:35.000Z",
-      "live_viewers": 23089,
+      "live_viewers": 23716,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
