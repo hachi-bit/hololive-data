@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777576279,
+  "cached_at": 1777576339,
   "lives": {
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
       "video_id": "AVWnvJDlfXw",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-30T12:59:25.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T12:59:25.000Z",
-      "live_viewers": 2589,
+      "live_viewers": 2601,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-30T16:46:38.000Z",
       "start_scheduled": "2026-04-30T16:45:00.000Z",
       "start_actual": "2026-04-30T16:46:38.000Z",
-      "live_viewers": 4184,
+      "live_viewers": 4216,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -79,6 +79,25 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvN5h1ShZtc7nly3pezRayg": {
+      "video_id": "FiI3G8eIC68",
+      "title": "【GUERILLA】If this aren't the consequences of my own actions the stream",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-30T18:53:00.000Z",
+      "available_at": "2026-04-30T19:10:00.000Z",
+      "start_scheduled": "2026-04-30T19:10:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvN5h1ShZtc7nly3pezRayg",
+        "name": "Cecilia Immergreen Ch. hololive-EN",
+        "english_name": "Cecilia Immergreen",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
