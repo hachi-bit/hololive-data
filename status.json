@@ -1,46 +1,6 @@
 {
-  "cached_at": 1777559480,
+  "cached_at": 1777559539,
   "lives": {
-    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
-      "video_id": "nSTfz724420",
-      "title": "【 TFT / #激闘遊戯 】アルランディスに全任せ視点【 奏手イヅル w/ アルランディス 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Teamfight_Tactics",
-      "published_at": "2026-04-30T08:28:50.000Z",
-      "available_at": "2026-04-30T09:01:35.000Z",
-      "start_scheduled": "2026-04-30T09:00:00.000Z",
-      "start_actual": "2026-04-30T09:01:35.000Z",
-      "live_viewers": 507,
-      "channel": {
-        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "name": "Izuru Ch. 奏手イヅル",
-        "english_name": "Kanade Izuru",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKeAhJvy8zgXWbh9duVjIaQ": {
-      "video_id": "8IZoChzvIt0",
-      "title": "【 TFT 】激闘遊戯 TFT Vol.1 にイヅルくんと出るぜ!GO!!!【アルランディス/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Teamfight_Tactics",
-      "published_at": "2026-04-29T15:46:37.000Z",
-      "available_at": "2026-04-30T09:01:48.000Z",
-      "start_scheduled": "2026-04-30T09:00:00.000Z",
-      "start_actual": "2026-04-30T09:01:48.000Z",
-      "live_viewers": 644,
-      "channel": {
-        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
-        "name": "Aruran Ch. アルランディス",
-        "english_name": "Arurandeisu",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "NLWhlp3ZQzc",
       "title": "【 スーパーマリオワールド 】完全初見!初めてのマリオワールドに挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
@@ -91,7 +51,7 @@
       "available_at": "2026-04-30T10:05:28.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:05:28.000Z",
-      "live_viewers": 2363,
+      "live_viewers": 2346,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -111,7 +71,7 @@
       "available_at": "2026-04-30T11:02:06.000Z",
       "start_scheduled": "2026-04-30T11:00:00.000Z",
       "start_actual": "2026-04-30T11:02:06.000Z",
-      "live_viewers": 5449,
+      "live_viewers": 5453,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -131,7 +91,7 @@
       "available_at": "2026-04-30T12:00:58.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:00:58.000Z",
-      "live_viewers": 11305,
+      "live_viewers": 11244,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +111,7 @@
       "available_at": "2026-04-30T12:01:36.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:01:36.000Z",
-      "live_viewers": 3810,
+      "live_viewers": 3663,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -171,7 +131,7 @@
       "available_at": "2026-04-30T12:03:35.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:03:35.000Z",
-      "live_viewers": 28257,
+      "live_viewers": 28316,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -231,7 +191,7 @@
       "available_at": "2026-04-30T13:00:31.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:00:31.000Z",
-      "live_viewers": 4400,
+      "live_viewers": 4514,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -251,7 +211,7 @@
       "available_at": "2026-04-30T13:00:42.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:00:42.000Z",
-      "live_viewers": 13325,
+      "live_viewers": 13741,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -351,7 +311,7 @@
       "available_at": "2026-04-30T13:31:09.000Z",
       "start_scheduled": "2026-04-30T13:30:00.000Z",
       "start_actual": "2026-04-30T13:31:09.000Z",
-      "live_viewers": 4458,
+      "live_viewers": 4465,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -391,7 +351,7 @@
       "available_at": "2026-04-30T14:00:32.000Z",
       "start_scheduled": "2026-04-30T14:00:00.000Z",
       "start_actual": "2026-04-30T14:00:32.000Z",
-      "live_viewers": 467,
+      "live_viewers": 502,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -419,6 +379,26 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "hUoW3G4pwU4",
+      "title": "【Tomodachi Life】UNDOING THE CURSE OF THE ISLAND...【Pavolia Reine/hololiveID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-30T13:45:09.000Z",
+      "available_at": "2026-04-30T14:29:38.000Z",
+      "start_scheduled": "2026-04-30T14:30:00.000Z",
+      "start_actual": "2026-04-30T14:29:38.000Z",
+      "live_viewers": 185,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
