@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777522399,
+  "cached_at": 1777522459,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "k_lB5m8Wkis",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-30T00:14:40.000Z",
       "start_scheduled": "2026-04-30T00:15:00.000Z",
       "start_actual": "2026-04-30T00:14:40.000Z",
-      "live_viewers": 256,
+      "live_viewers": 262,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-30T02:14:40.000Z",
       "start_scheduled": "2026-04-30T02:15:00.000Z",
       "start_actual": "2026-04-30T02:14:40.000Z",
-      "live_viewers": 549,
+      "live_viewers": 542,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -140,26 +140,6 @@
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "QfHnRTGYRbg",
-      "title": "【定期配信#29】木曜のお昼の12時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-04-26T13:28:24.000Z",
-      "available_at": "2026-04-30T03:00:43.000Z",
-      "start_scheduled": "2026-04-30T03:00:00.000Z",
-      "start_actual": "2026-04-30T03:00:43.000Z",
-      "live_viewers": 5006,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCmbs8T6MWqUHP1tIQvSgKrg": {
       "video_id": "1xtPvF4jvZU",
       "title": "【Superchat Catchup】Reading Everything",
@@ -170,7 +150,7 @@
       "available_at": "2026-04-30T03:16:54.000Z",
       "start_scheduled": "2026-04-30T03:15:00.000Z",
       "start_actual": "2026-04-30T03:16:54.000Z",
-      "live_viewers": 2653,
+      "live_viewers": 2785,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -190,7 +170,7 @@
       "available_at": "2026-04-30T03:50:12.000Z",
       "start_scheduled": "2026-04-30T03:45:00.000Z",
       "start_actual": "2026-04-30T03:50:12.000Z",
-      "live_viewers": 80,
+      "live_viewers": 96,
       "channel": {
         "id": "UCKuwxopq9c3cldzSOo4ceSA",
         "name": "八神ツクモ / Yagami Tsukumo",
@@ -210,7 +190,7 @@
       "available_at": "2026-04-30T04:02:21.000Z",
       "start_scheduled": "2026-04-30T04:00:00.000Z",
       "start_actual": "2026-04-30T04:02:21.000Z",
-      "live_viewers": 698,
+      "live_viewers": 790,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -230,7 +210,7 @@
       "available_at": "2026-04-30T04:06:53.000Z",
       "start_scheduled": "2026-04-30T04:00:00.000Z",
       "start_actual": "2026-04-30T04:06:53.000Z",
-      "live_viewers": 251,
+      "live_viewers": 338,
       "channel": {
         "id": "UCKF9kMEyUzID3-P7GbxmT6w",
         "name": "hm",
