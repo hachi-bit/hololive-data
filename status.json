@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777554679,
+  "cached_at": 1777554741,
   "lives": {
     "UCZgOv3YDEs-ZnZWDYVwJdmA": {
       "video_id": "nSTfz724420",
@@ -91,7 +91,7 @@
       "available_at": "2026-04-30T10:01:26.000Z",
       "start_scheduled": "2026-04-30T10:00:00.000Z",
       "start_actual": "2026-04-30T10:01:26.000Z",
-      "live_viewers": 31871,
+      "live_viewers": 31431,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -131,7 +131,7 @@
       "available_at": "2026-04-30T11:02:06.000Z",
       "start_scheduled": "2026-04-30T11:00:00.000Z",
       "start_actual": "2026-04-30T11:02:06.000Z",
-      "live_viewers": 5675,
+      "live_viewers": 5526,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -151,7 +151,7 @@
       "available_at": "2026-04-30T11:02:27.000Z",
       "start_scheduled": "2026-04-30T11:00:00.000Z",
       "start_actual": "2026-04-30T11:02:27.000Z",
-      "live_viewers": 9506,
+      "live_viewers": 9263,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -211,7 +211,7 @@
       "available_at": "2026-04-30T12:03:35.000Z",
       "start_scheduled": "2026-04-30T12:00:00.000Z",
       "start_actual": "2026-04-30T12:03:35.000Z",
-      "live_viewers": 22896,
+      "live_viewers": 23833,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -231,7 +231,7 @@
       "available_at": "2026-04-30T12:59:25.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T12:59:25.000Z",
-      "live_viewers": 1027,
+      "live_viewers": 1116,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -251,7 +251,7 @@
       "available_at": "2026-04-30T12:59:37.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T12:59:37.000Z",
-      "live_viewers": 992,
+      "live_viewers": 1046,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -271,7 +271,7 @@
       "available_at": "2026-04-30T13:00:31.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:00:31.000Z",
-      "live_viewers": 2297,
+      "live_viewers": 2465,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -291,7 +291,7 @@
       "available_at": "2026-04-30T13:00:42.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:00:42.000Z",
-      "live_viewers": 6790,
+      "live_viewers": 7285,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -311,7 +311,7 @@
       "available_at": "2026-04-30T13:00:46.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:00:46.000Z",
-      "live_viewers": 2557,
+      "live_viewers": 2738,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -331,7 +331,7 @@
       "available_at": "2026-04-30T13:01:14.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:01:14.000Z",
-      "live_viewers": 872,
+      "live_viewers": 944,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -371,7 +371,7 @@
       "available_at": "2026-04-30T13:02:06.000Z",
       "start_scheduled": "2026-04-30T13:00:00.000Z",
       "start_actual": "2026-04-30T13:02:06.000Z",
-      "live_viewers": 10259,
+      "live_viewers": 11104,
       "channel": {
         "id": "UC_4tXjqecqox5Uc05ncxpxg",
         "name": "椎名唯華 / Shiina Yuika",
