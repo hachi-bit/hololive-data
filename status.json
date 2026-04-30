@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777530859,
+  "cached_at": 1777530919,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "WGW_B9Oiw00",
@@ -51,7 +51,7 @@
       "available_at": "2026-04-30T02:14:40.000Z",
       "start_scheduled": "2026-04-30T02:15:00.000Z",
       "start_actual": "2026-04-30T02:14:40.000Z",
-      "live_viewers": 573,
+      "live_viewers": 550,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -110,7 +110,7 @@
       "available_at": "2026-04-30T03:16:54.000Z",
       "start_scheduled": "2026-04-30T03:15:00.000Z",
       "start_actual": "2026-04-30T03:16:54.000Z",
-      "live_viewers": 3115,
+      "live_viewers": 3190,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -130,7 +130,7 @@
       "available_at": "2026-04-30T03:50:12.000Z",
       "start_scheduled": "2026-04-30T03:45:00.000Z",
       "start_actual": "2026-04-30T03:50:12.000Z",
-      "live_viewers": 135,
+      "live_viewers": 88,
       "channel": {
         "id": "UCKuwxopq9c3cldzSOo4ceSA",
         "name": "八神ツクモ / Yagami Tsukumo",
@@ -150,7 +150,7 @@
       "available_at": "2026-04-30T04:02:21.000Z",
       "start_scheduled": "2026-04-30T04:00:00.000Z",
       "start_actual": "2026-04-30T04:02:21.000Z",
-      "live_viewers": 1597,
+      "live_viewers": 1593,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -178,6 +178,26 @@
         "org": "Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k1CPaOgRI2Mu5IEri_BZInMpG8xGyCi-koUo8GUJQ3ibxdodVjGLAG_bd8zdnFKpqUPQ0=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC2hx0xVkMoHGWijwr_lA01w": {
+      "video_id": "exg_SkpR21Q",
+      "title": "【TOMODACHI LIFE: LIVING THE DREAM】Time to create more residents for my North Elysium Island!!!🌴 #2",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-30T05:45:01.000Z",
+      "available_at": "2026-04-30T06:30:12.000Z",
+      "start_scheduled": "2026-04-30T06:30:00.000Z",
+      "start_actual": "2026-04-30T06:30:12.000Z",
+      "live_viewers": 118,
+      "channel": {
+        "id": "UC2hx0xVkMoHGWijwr_lA01w",
+        "name": "Axel Syrios Ch. HOLOSTARS-EN",
+        "english_name": "Axel Syrios",
+        "org": "Hololive",
+        "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
+        "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
