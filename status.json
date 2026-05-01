@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777636881,
+  "cached_at": 1777636939,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "LvpVnqSaqM8",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-01T07:58:25.000Z",
       "start_scheduled": "2026-05-01T08:00:00.000Z",
       "start_actual": "2026-05-01T07:58:25.000Z",
-      "live_viewers": 1376,
+      "live_viewers": 1363,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-01T11:03:10.000Z",
       "start_scheduled": "2026-05-01T11:00:00.000Z",
       "start_actual": "2026-05-01T11:03:10.000Z",
-      "live_viewers": 28357,
+      "live_viewers": 28998,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-01T11:16:33.000Z",
       "start_scheduled": "2026-05-01T11:25:00.000Z",
       "start_actual": "2026-05-01T11:16:33.000Z",
-      "live_viewers": 3788,
+      "live_viewers": 3983,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -119,6 +119,44 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdyqAaZDKHXg4Ahi7VENThQ": {
+      "video_id": "fFn8Sii72nM",
+      "title": "【同時視聴】機動戦士ガンダム 鉄血のオルフェンズ 一緒に観ようッ!!【白銀ノエル/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-04-30T01:20:49.000Z",
+      "available_at": "2026-05-01T12:00:00.000Z",
+      "start_scheduled": "2026-05-01T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+        "name": "Noel Ch. 白銀ノエル",
+        "english_name": "Shirogane Noel",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
+      "video_id": "3PZa0cMPSz0",
+      "title": "【 #荒咬オウガ6周年 】荒咬オウガ　6th anniversary【荒咬オウガ /ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Anniversary",
+      "published_at": "2026-04-30T14:08:33.000Z",
+      "available_at": "2026-05-01T12:00:00.000Z",
+      "start_scheduled": "2026-05-01T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "name": "Oga Ch.荒咬オウガ",
+        "english_name": "Aragami Oga",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
