@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777604599,
+  "cached_at": 1777604659,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "bcCPZnvz6vA",
@@ -31,7 +31,7 @@
       "available_at": "2026-04-30T22:01:35.000Z",
       "start_scheduled": "2026-04-30T22:00:00.000Z",
       "start_actual": "2026-04-30T22:01:35.000Z",
-      "live_viewers": 575,
+      "live_viewers": 608,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-01T00:01:48.000Z",
       "start_scheduled": "2026-05-01T00:00:00.000Z",
       "start_actual": "2026-05-01T00:01:48.000Z",
-      "live_viewers": 245,
+      "live_viewers": 237,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-01T00:02:04.000Z",
       "start_scheduled": "2026-05-01T00:00:00.000Z",
       "start_actual": "2026-05-01T00:02:04.000Z",
-      "live_viewers": 785,
+      "live_viewers": 770,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-01T02:58:32.000Z",
       "start_scheduled": "2026-05-01T03:00:00.000Z",
       "start_actual": "2026-05-01T02:58:32.000Z",
-      "live_viewers": 927,
+      "live_viewers": 2560,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
@@ -179,6 +179,45 @@
         "org": "Hololive",
         "suborg": "0hOfficial",
         "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "QUQ7R-oS1Ac",
+      "title": "【 ドラゴンボールZ KAKAROT 】完全初見！GWだ～！！！DAIMA編だ～～～～～！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dragon_Ball_Z:_Kakarot",
+      "published_at": "2026-04-30T18:52:41.000Z",
+      "available_at": "2026-05-01T03:00:00.000Z",
+      "start_scheduled": "2026-05-01T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdyqAaZDKHXg4Ahi7VENThQ": {
+      "video_id": "ZM0WXIaict0",
+      "title": "#10【仁王2】叫んだら終了ぐらいの喉労り精神ッッ!NO秀吉(ひできち)!!天下統一目指して脳筋パッションだ~!!!【白銀ノエル/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Nioh",
+      "published_at": "2026-04-30T01:15:55.000Z",
+      "available_at": "2026-05-01T03:00:51.000Z",
+      "start_scheduled": "2026-05-01T03:00:00.000Z",
+      "start_actual": "2026-05-01T03:00:51.000Z",
+      "live_viewers": 915,
+      "channel": {
+        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+        "name": "Noel Ch. 白銀ノエル",
+        "english_name": "Shirogane Noel",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
