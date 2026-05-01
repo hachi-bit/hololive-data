@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777624639,
+  "cached_at": 1777624700,
   "lives": {
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "kcfLGvuz32E",
-      "title": "【 APEX 】とにかくね、時間を注げって話なんです / アステル",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "apex",
-      "published_at": "2026-04-30T21:02:15.000Z",
-      "available_at": "2026-04-30T22:01:35.000Z",
-      "start_scheduled": "2026-04-30T22:00:00.000Z",
-      "start_actual": "2026-04-30T22:01:35.000Z",
-      "live_viewers": 891,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "QUQ7R-oS1Ac",
       "title": "【 ドラゴンボールZ KAKAROT 】完全初見!GWだ~!!!DAIMA編だ~~~~~!!!【鷹嶺ルイ/ホロライブ】※ネタバレあり",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-01T08:00:19.000Z",
       "start_scheduled": "2026-05-01T08:00:00.000Z",
       "start_actual": "2026-05-01T08:00:19.000Z",
-      "live_viewers": 7313,
+      "live_viewers": 7699,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
