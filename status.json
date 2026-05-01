@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777668799,
+  "cached_at": 1777668859,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "avnIU3SIPgI",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-01T14:02:06.000Z",
       "start_scheduled": "2026-05-01T14:00:00.000Z",
       "start_actual": "2026-05-01T14:02:06.000Z",
-      "live_viewers": 2823,
+      "live_viewers": 2767,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-01T20:00:08.000Z",
       "start_scheduled": "2026-05-01T20:00:00.000Z",
       "start_actual": "2026-05-01T20:00:08.000Z",
-      "live_viewers": 2014,
+      "live_viewers": 2054,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -79,6 +79,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCHP4f7G2dWD4qib7BMatGAw": {
+      "video_id": "cvhNkbrmDXo",
+      "title": "[TOMODACHI LIFE: LIVING THE DREAM] LET'S SEE IF MY SWITCH TURNS ON!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-30T22:48:03.000Z",
+      "available_at": "2026-05-01T20:50:29.000Z",
+      "start_scheduled": "2026-05-01T21:00:00.000Z",
+      "start_actual": "2026-05-01T20:50:29.000Z",
+      "live_viewers": 356,
+      "channel": {
+        "id": "UCHP4f7G2dWD4qib7BMatGAw",
+        "name": "Gavis Bettel Ch. HOLOSTARS-EN",
+        "english_name": "Gavis Bettel",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
