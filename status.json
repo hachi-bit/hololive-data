@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777635619,
+  "cached_at": 1777635679,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "LvpVnqSaqM8",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-01T07:58:25.000Z",
       "start_scheduled": "2026-05-01T08:00:00.000Z",
       "start_actual": "2026-05-01T07:58:25.000Z",
-      "live_viewers": 1529,
+      "live_viewers": 1424,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-01T11:00:20.000Z",
       "start_scheduled": "2026-05-01T11:00:00.000Z",
       "start_actual": "2026-05-01T11:00:20.000Z",
-      "live_viewers": 20378,
+      "live_viewers": 20552,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-01T11:03:10.000Z",
       "start_scheduled": "2026-05-01T11:00:00.000Z",
       "start_actual": "2026-05-01T11:03:10.000Z",
-      "live_viewers": 24781,
+      "live_viewers": 25989,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-01T11:16:33.000Z",
       "start_scheduled": "2026-05-01T11:25:00.000Z",
       "start_actual": "2026-05-01T11:16:33.000Z",
-      "live_viewers": 2890,
+      "live_viewers": 2948,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
