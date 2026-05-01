@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777607059,
+  "cached_at": 1777607119,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "kcfLGvuz32E",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-01T01:03:27.000Z",
       "start_scheduled": "2026-05-01T01:00:00.000Z",
       "start_actual": "2026-05-01T01:03:27.000Z",
-      "live_viewers": 830,
+      "live_viewers": 1088,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-01T02:58:32.000Z",
       "start_scheduled": "2026-05-01T03:00:00.000Z",
       "start_actual": "2026-05-01T02:58:32.000Z",
-      "live_viewers": 5574,
+      "live_viewers": 5600,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-01T03:00:51.000Z",
       "start_scheduled": "2026-05-01T03:00:00.000Z",
       "start_actual": "2026-05-01T03:00:51.000Z",
-      "live_viewers": 4100,
+      "live_viewers": 4177,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-01T03:02:25.000Z",
       "start_scheduled": "2026-05-01T03:00:00.000Z",
       "start_actual": "2026-05-01T03:02:25.000Z",
-      "live_viewers": 3669,
+      "live_viewers": 3818,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
