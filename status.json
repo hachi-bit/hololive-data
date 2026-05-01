@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777672939,
+  "cached_at": 1777673000,
   "lives": {
-    "UCvN5h1ShZtc7nly3pezRayg": {
-      "video_id": "8KdpnCCUbGY",
-      "title": "【GAME】STREAM YES",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "OPUS",
-      "published_at": "2026-05-01T17:02:24.000Z",
-      "available_at": "2026-05-01T18:02:12.000Z",
-      "start_scheduled": "2026-05-01T18:00:00.000Z",
-      "start_actual": "2026-05-01T18:02:12.000Z",
-      "live_viewers": 4144,
-      "channel": {
-        "id": "UCvN5h1ShZtc7nly3pezRayg",
-        "name": "Cecilia Immergreen Ch. hololive-EN",
-        "english_name": "Cecilia Immergreen",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCHP4f7G2dWD4qib7BMatGAw": {
       "video_id": "cvhNkbrmDXo",
       "title": "[TOMODACHI LIFE: LIVING THE DREAM] LET'S SEE IF MY SWITCH TURNS ON!",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-01T20:50:29.000Z",
       "start_scheduled": "2026-05-01T21:00:00.000Z",
       "start_actual": "2026-05-01T20:50:29.000Z",
-      "live_viewers": 1143,
+      "live_viewers": 1196,
       "channel": {
         "id": "UCHP4f7G2dWD4qib7BMatGAw",
         "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-01T21:04:23.000Z",
       "start_scheduled": "2026-05-01T21:00:00.000Z",
       "start_actual": "2026-05-01T21:04:23.000Z",
-      "live_viewers": 5641,
+      "live_viewers": 5668,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -59,6 +39,25 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCQ0UDLQCjY0rmuxCDE38FGg": {
+      "video_id": "4bEy0ErXGac",
+      "title": "【朝活】はやおきえらああああああああい【ホロライブ/夏色まつり】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "morning",
+      "published_at": "2026-05-01T21:56:45.000Z",
+      "available_at": "2026-05-01T22:00:00.000Z",
+      "start_scheduled": "2026-05-01T22:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+        "name": "Matsuri Channel 夏色まつり",
+        "english_name": "Natsuiro Matsuri",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
