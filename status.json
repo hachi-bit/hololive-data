@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777629799,
+  "cached_at": 1777629860,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "Oyn9GG_IVP8",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-01T04:00:16.000Z",
       "start_scheduled": "2026-05-01T04:00:00.000Z",
       "start_actual": "2026-05-01T04:00:16.000Z",
-      "live_viewers": 2462,
+      "live_viewers": 2497,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-01T07:58:25.000Z",
       "start_scheduled": "2026-05-01T08:00:00.000Z",
       "start_actual": "2026-05-01T07:58:25.000Z",
-      "live_viewers": 1563,
+      "live_viewers": 1544,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-01T08:59:52.000Z",
       "start_scheduled": "2026-05-01T09:00:00.000Z",
       "start_actual": "2026-05-01T08:59:52.000Z",
-      "live_viewers": 389,
+      "live_viewers": 380,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-01T09:59:15.000Z",
       "start_scheduled": "2026-05-01T10:00:00.000Z",
       "start_actual": "2026-05-01T09:59:15.000Z",
-      "live_viewers": 353,
+      "live_viewers": 474,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -119,6 +119,146 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "EgihHV_7KqM",
+      "title": "【 3Dカラオケ 】ちはヴィヴィ初めてのカラオケ!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-04-30T22:54:22.000Z",
+      "available_at": "2026-05-01T09:59:36.000Z",
+      "start_scheduled": "2026-05-01T10:00:00.000Z",
+      "start_actual": "2026-05-01T09:59:36.000Z",
+      "live_viewers": 4303,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1uv2Oq6kNxgATlCiez59hw": {
+      "video_id": "4ZuZKRTRW6s",
+      "title": "【 みつめ 】#ねねねトワワ で協力して異変を探せ👁️【常闇トワ視点/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mitsume",
+      "published_at": "2026-05-01T09:14:25.000Z",
+      "available_at": "2026-05-01T09:59:39.000Z",
+      "start_scheduled": "2026-05-01T10:00:00.000Z",
+      "start_actual": "2026-05-01T09:59:39.000Z",
+      "live_viewers": 2402,
+      "channel": {
+        "id": "UC1uv2Oq6kNxgATlCiez59hw",
+        "name": "Towa Ch. 常闇トワ",
+        "english_name": "Tokoyami Towa",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAWSyEs_Io8MtpY3m-zqILA": {
+      "video_id": "aNNjrI5BL88",
+      "title": "【 みつめ 】いちゃらぶ💕協力ホラーゲーム💕【 桃鈴ねね / 常闇トワ / hololive 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mitsume",
+      "published_at": "2026-05-01T02:39:54.000Z",
+      "available_at": "2026-05-01T09:59:47.000Z",
+      "start_scheduled": "2026-05-01T10:00:00.000Z",
+      "start_actual": "2026-05-01T09:59:47.000Z",
+      "live_viewers": 3588,
+      "channel": {
+        "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+        "name": "Nene Ch.桃鈴ねね",
+        "english_name": "Momosuzu Nene",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "cHX5cZPtbEg",
+      "title": "セレナーデ / 鷹嶺ルイ(cover)",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Music_Cover",
+      "published_at": "2026-05-01T10:00:06.000Z",
+      "available_at": "2026-05-01T10:00:06.000Z",
+      "start_scheduled": "2026-05-01T10:00:00.000Z",
+      "start_actual": "2026-05-01T10:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKeAhJvy8zgXWbh9duVjIaQ": {
+      "video_id": "8XIe_NdNH14",
+      "title": "【雑談】5月の予定とか!【アルランディス/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-01T05:34:34.000Z",
+      "available_at": "2026-05-01T10:00:18.000Z",
+      "start_scheduled": "2026-05-01T10:00:00.000Z",
+      "start_actual": "2026-05-01T10:00:18.000Z",
+      "live_viewers": 313,
+      "channel": {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "english_name": "Arurandeisu",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCtyWhCj3AqKh2dXctLkDtng": {
+      "video_id": "nzmQz7xFHzg",
+      "title": "【holoIndie応援大使】INDIE Live Expo 2026から沢山ゲームをいただいたからDEV_ISにプレゼントだ!!【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-04-30T12:16:54.000Z",
+      "available_at": "2026-05-01T10:00:51.000Z",
+      "start_scheduled": "2026-05-01T10:00:00.000Z",
+      "start_actual": "2026-05-01T10:00:51.000Z",
+      "live_viewers": 772,
+      "channel": {
+        "id": "UCtyWhCj3AqKh2dXctLkDtng",
+        "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+        "english_name": "Ichijou Ririka",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6eWCld0KwmyHFbAqK3V-Rw": {
+      "video_id": "avnIU3SIPgI",
+      "title": "【スーパードンキーコング3】久々レトロゲーム!?完全初見クリア耐久だああああ!!!!!【博衣こより/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Donkey_Kong",
+      "published_at": "2026-05-01T07:42:37.000Z",
+      "available_at": "2026-05-01T10:01:16.000Z",
+      "start_scheduled": "2026-05-01T10:00:00.000Z",
+      "start_actual": "2026-05-01T10:01:16.000Z",
+      "live_viewers": 2088,
+      "channel": {
+        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+        "name": "Koyori ch. 博衣こより - holoX -",
+        "english_name": "Hakui Koyori",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
