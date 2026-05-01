@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777606099,
+  "cached_at": 1777606159,
   "lives": {
-    "UCDHABijvPBnJm7F-KlNME3w": {
-      "video_id": "bcCPZnvz6vA",
-      "title": "【The Elder Scrolls IV: Oblivion Remastered】i've had this horse open on my canvas for 6 months now",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Elder_Scrolls",
-      "published_at": "2026-04-30T07:59:33.000Z",
-      "available_at": "2026-04-30T21:03:10.000Z",
-      "start_scheduled": "2026-04-30T21:00:00.000Z",
-      "start_actual": "2026-04-30T21:03:10.000Z",
-      "live_viewers": 3795,
-      "channel": {
-        "id": "UCDHABijvPBnJm7F-KlNME3w",
-        "name": "Gigi Murin Ch. hololive-EN",
-        "english_name": "Gigi Murin",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "kcfLGvuz32E",
       "title": "【 APEX 】とにかくね、時間を注げって話なんです / アステル",
@@ -31,7 +11,7 @@
       "available_at": "2026-04-30T22:01:35.000Z",
       "start_scheduled": "2026-04-30T22:00:00.000Z",
       "start_actual": "2026-04-30T22:01:35.000Z",
-      "live_viewers": 675,
+      "live_viewers": 659,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -51,7 +31,7 @@
       "available_at": "2026-04-30T22:56:17.000Z",
       "start_scheduled": "2026-04-30T23:00:00.000Z",
       "start_actual": "2026-04-30T22:56:17.000Z",
-      "live_viewers": 5428,
+      "live_viewers": 6521,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -71,7 +51,7 @@
       "available_at": "2026-04-30T23:58:56.000Z",
       "start_scheduled": "2026-05-01T00:00:00.000Z",
       "start_actual": "2026-04-30T23:58:56.000Z",
-      "live_viewers": 244,
+      "live_viewers": 247,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-01T00:00:34.000Z",
       "start_scheduled": "2026-05-01T00:00:00.000Z",
       "start_actual": "2026-05-01T00:00:34.000Z",
-      "live_viewers": 463,
+      "live_viewers": 486,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-01T01:03:27.000Z",
       "start_scheduled": "2026-05-01T01:00:00.000Z",
       "start_actual": "2026-05-01T01:03:27.000Z",
-      "live_viewers": 768,
+      "live_viewers": 720,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-01T02:58:32.000Z",
       "start_scheduled": "2026-05-01T03:00:00.000Z",
       "start_actual": "2026-05-01T02:58:32.000Z",
-      "live_viewers": 4949,
+      "live_viewers": 5235,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-01T03:00:51.000Z",
       "start_scheduled": "2026-05-01T03:00:00.000Z",
       "start_actual": "2026-05-01T03:00:51.000Z",
-      "live_viewers": 3074,
+      "live_viewers": 3395,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-01T03:02:25.000Z",
       "start_scheduled": "2026-05-01T03:00:00.000Z",
       "start_actual": "2026-05-01T03:02:25.000Z",
-      "live_viewers": 3029,
+      "live_viewers": 3196,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
