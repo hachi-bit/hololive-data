@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777647739,
+  "cached_at": 1777647799,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "avnIU3SIPgI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-01T10:01:16.000Z",
       "start_scheduled": "2026-05-01T10:00:00.000Z",
       "start_actual": "2026-05-01T10:01:16.000Z",
-      "live_viewers": 10413,
+      "live_viewers": 10471,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdyqAaZDKHXg4Ahi7VENThQ": {
-      "video_id": "fFn8Sii72nM",
-      "title": "【同時視聴】機動戦士ガンダム 鉄血のオルフェンズ 一緒に観ようッ!!【白銀ノエル/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-04-30T01:20:49.000Z",
-      "available_at": "2026-05-01T12:01:24.000Z",
-      "start_scheduled": "2026-05-01T12:00:00.000Z",
-      "start_actual": "2026-05-01T12:01:24.000Z",
-      "live_viewers": 2528,
-      "channel": {
-        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-        "name": "Noel Ch. 白銀ノエル",
-        "english_name": "Shirogane Noel",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC6t3-_N8A6ME1JShZHHqOMw": {
@@ -111,7 +91,7 @@
       "available_at": "2026-05-01T13:02:14.000Z",
       "start_scheduled": "2026-05-01T13:00:00.000Z",
       "start_actual": "2026-05-01T13:02:14.000Z",
-      "live_viewers": 4307,
+      "live_viewers": 4435,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-01T13:05:52.000Z",
       "start_scheduled": "2026-05-01T13:00:00.000Z",
       "start_actual": "2026-05-01T13:05:52.000Z",
-      "live_viewers": 1252,
+      "live_viewers": 1191,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-01T13:46:26.000Z",
       "start_scheduled": "2026-05-01T13:45:00.000Z",
       "start_actual": "2026-05-01T13:46:26.000Z",
-      "live_viewers": 2204,
+      "live_viewers": 2259,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-01T14:24:51.000Z",
       "start_scheduled": "2026-05-01T14:25:00.000Z",
       "start_actual": "2026-05-01T14:24:51.000Z",
-      "live_viewers": 298,
+      "live_viewers": 301,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-01T14:37:05.000Z",
       "start_scheduled": "2026-05-01T14:35:00.000Z",
       "start_actual": "2026-05-01T14:37:05.000Z",
-      "live_viewers": 246,
+      "live_viewers": 224,
       "channel": {
         "id": "UCUtKkGKef8BYMs3h-3zQm9A",
         "name": "Suha Channel 【NIJISANJI】",
@@ -279,6 +259,25 @@
         "org": "Nijisanji",
         "suborg": "40Ex-KR First Wave",
         "photo": "https://yt3.ggpht.com/e5PU_lA5Hc9dxAlqHC5TJHabbBkfdLNiuulZj3EGagP_ZaDZH1I9JlvuP94MfjslHdJEuAiUmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCOyYb1c43VlX9rc_lT6NKQw": {
+      "video_id": "fWOEO_umpCs",
+      "title": "join GOLF IT",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Golf_It!",
+      "published_at": "2026-05-01T14:50:00.000Z",
+      "available_at": "2026-05-01T15:00:00.000Z",
+      "start_scheduled": "2026-05-01T15:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+        "name": "Ayunda Risu Ch. hololive-ID",
+        "english_name": "Ayunda Risu",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
