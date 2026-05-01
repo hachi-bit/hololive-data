@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777637059,
+  "cached_at": 1777637119,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "LvpVnqSaqM8",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-01T07:58:25.000Z",
       "start_scheduled": "2026-05-01T08:00:00.000Z",
       "start_actual": "2026-05-01T07:58:25.000Z",
-      "live_viewers": 1363,
+      "live_viewers": 1380,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCTvHWSfBZgtxE4sILOaurIQ": {
-      "video_id": "th_QVFAxYHs",
-      "title": "【PRAGMATA】Sci-fi here I come!!!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "PRAGMATA",
-      "published_at": "2026-04-28T10:51:34.000Z",
-      "available_at": "2026-05-01T09:59:15.000Z",
-      "start_scheduled": "2026-05-01T10:00:00.000Z",
-      "start_actual": "2026-05-01T09:59:15.000Z",
-      "live_viewers": 1259,
-      "channel": {
-        "id": "UCTvHWSfBZgtxE4sILOaurIQ",
-        "name": "Vestia Zeta Ch. hololive-ID",
-        "english_name": "Vestia Zeta",
-        "org": "Hololive",
-        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-        "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
@@ -71,7 +51,7 @@
       "available_at": "2026-05-01T11:00:20.000Z",
       "start_scheduled": "2026-05-01T11:00:00.000Z",
       "start_actual": "2026-05-01T11:00:20.000Z",
-      "live_viewers": 21825,
+      "live_viewers": 21229,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-01T11:16:33.000Z",
       "start_scheduled": "2026-05-01T11:25:00.000Z",
       "start_actual": "2026-05-01T11:16:33.000Z",
-      "live_viewers": 3983,
+      "live_viewers": 4181,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -121,35 +101,17 @@
         "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdyqAaZDKHXg4Ahi7VENThQ": {
-      "video_id": "fFn8Sii72nM",
-      "title": "【同時視聴】機動戦士ガンダム 鉄血のオルフェンズ 一緒に観ようッ!!【白銀ノエル/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-04-30T01:20:49.000Z",
-      "available_at": "2026-05-01T12:00:00.000Z",
-      "start_scheduled": "2026-05-01T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-        "name": "Noel Ch. 白銀ノエル",
-        "english_name": "Shirogane Noel",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
       "video_id": "3PZa0cMPSz0",
-      "title": "【 #荒咬オウガ6周年 】荒咬オウガ　6th anniversary【荒咬オウガ /ホロスターズ】",
+      "title": "【 #荒咬オウガ6周年 】荒咬オウガ 6th anniversary【荒咬オウガ /ホロスターズ】",
       "type": "stream",
       "status": "live",
       "topic_id": "Anniversary",
       "published_at": "2026-04-30T14:08:33.000Z",
-      "available_at": "2026-05-01T12:00:00.000Z",
+      "available_at": "2026-05-01T12:00:35.000Z",
       "start_scheduled": "2026-05-01T12:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-01T12:00:35.000Z",
+      "live_viewers": 877,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -157,6 +119,26 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdyqAaZDKHXg4Ahi7VENThQ": {
+      "video_id": "fFn8Sii72nM",
+      "title": "【同時視聴】機動戦士ガンダム 鉄血のオルフェンズ 一緒に観ようッ!!【白銀ノエル/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-04-30T01:20:49.000Z",
+      "available_at": "2026-05-01T12:01:24.000Z",
+      "start_scheduled": "2026-05-01T12:00:00.000Z",
+      "start_actual": "2026-05-01T12:01:24.000Z",
+      "live_viewers": 2050,
+      "channel": {
+        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+        "name": "Noel Ch. 白銀ノエル",
+        "english_name": "Shirogane Noel",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
