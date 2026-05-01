@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777640539,
+  "cached_at": 1777640599,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "avnIU3SIPgI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-01T10:01:16.000Z",
       "start_scheduled": "2026-05-01T10:00:00.000Z",
       "start_actual": "2026-05-01T10:01:16.000Z",
-      "live_viewers": 10467,
+      "live_viewers": 10285,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-01T11:16:33.000Z",
       "start_scheduled": "2026-05-01T11:25:00.000Z",
       "start_actual": "2026-05-01T11:16:33.000Z",
-      "live_viewers": 5299,
+      "live_viewers": 5686,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-01T12:00:35.000Z",
       "start_scheduled": "2026-05-01T12:00:00.000Z",
       "start_actual": "2026-05-01T12:00:35.000Z",
-      "live_viewers": 1520,
+      "live_viewers": 1547,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-01T12:01:24.000Z",
       "start_scheduled": "2026-05-01T12:00:00.000Z",
       "start_actual": "2026-05-01T12:01:24.000Z",
-      "live_viewers": 3716,
+      "live_viewers": 3697,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-01T12:30:23.000Z",
       "start_scheduled": "2026-05-01T12:30:00.000Z",
       "start_actual": "2026-05-01T12:30:23.000Z",
-      "live_viewers": 153,
+      "live_viewers": 164,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -119,6 +119,140 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "wtM_Azs1oA0",
+      "title": "【ワンワンバトル】マイクに向かって吠えろ！そして勝て！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-01T08:27:16.000Z",
+      "available_at": "2026-05-01T13:00:00.000Z",
+      "start_scheduled": "2026-05-01T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp6993wxpyDPHUpavwDFqgg": {
+      "video_id": "gKKqKGmxHoE",
+      "title": "【ぽこ あ ポケモン】新しい世界へ行きたいよ~!!【ホロライブ/ときのそら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pokemon_Pokopia",
+      "published_at": "2026-05-01T10:03:12.000Z",
+      "available_at": "2026-05-01T13:00:00.000Z",
+      "start_scheduled": "2026-05-01T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCp6993wxpyDPHUpavwDFqgg",
+        "name": "SoraCh. ときのそらチャンネル",
+        "english_name": "Tokino Sora",
+        "org": "Hololive",
+        "suborg": "0v0th Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCjLEmnpCNeisMxy134KPwWw": {
+      "video_id": "X4kWf1UetNU",
+      "title": "【PRAGMATA】hacking with diana the ai ⚠️SPOILER ALERT⚠️",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PRAGMATA",
+      "published_at": "2026-05-01T11:25:01.000Z",
+      "available_at": "2026-05-01T13:00:00.000Z",
+      "start_scheduled": "2026-05-01T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCjLEmnpCNeisMxy134KPwWw",
+        "name": "Kobo Kanaeru Ch. hololive-ID",
+        "english_name": "Kobo Kanaeru",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "xHppeNwIkS4",
+      "title": "【ドラゴンボールZ KAKAROT】ついに本編最終回!?魔人ブウにどうやって勝つの!?【ホロライブ DEV_IS 響咲リオナ】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dragon_Ball_Z:_Kakarot",
+      "published_at": "2026-05-01T06:30:15.000Z",
+      "available_at": "2026-05-01T13:00:00.000Z",
+      "start_scheduled": "2026-05-01T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvInZx9h3jC2JzsIzoOebWg": {
+      "video_id": "zxbENZyTy9s",
+      "title": "【ぷちホロの村】ホロメンのスローライフを送れるらしい【不知火フレア/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-05-01T11:23:34.000Z",
+      "available_at": "2026-05-01T13:00:00.000Z",
+      "start_scheduled": "2026-05-01T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvInZx9h3jC2JzsIzoOebWg",
+        "name": "Flare Ch. 不知火フレア",
+        "english_name": "Shiranui Flare",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvzGlP9oQwU--Y0r9id_jnA": {
+      "video_id": "UEEq3IAZSlQ",
+      "title": "【#7】ジョジョ第5部同時視聴みるしゅばあああああああああああああああああああああ!!!!：JoJo's Bizarre Adventure: Golden Wind【ホロライブ/大空スバル】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-05-01T07:17:32.000Z",
+      "available_at": "2026-05-01T13:00:00.000Z",
+      "start_scheduled": "2026-05-01T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+        "name": "Subaru Ch. 大空スバル",
+        "english_name": "Oozora Subaru",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChAnqc_AY5_I3Px5dig3X1Q": {
+      "video_id": "IoM0GUw6sgw",
+      "title": "【Memberships only】めんげんざつだん。",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-01T10:07:02.000Z",
+      "available_at": "2026-05-01T13:00:38.000Z",
+      "start_scheduled": "2026-05-01T13:00:00.000Z",
+      "start_actual": "2026-05-01T13:00:38.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
+        "name": "Korone Ch. 戌神ころね",
+        "english_name": "Inugami Korone",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
