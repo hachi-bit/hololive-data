@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777626139,
+  "cached_at": 1777626199,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "Oyn9GG_IVP8",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-01T08:55:51.000Z",
       "start_scheduled": "2026-05-01T08:50:00.000Z",
       "start_actual": "2026-05-01T08:55:51.000Z",
-      "live_viewers": 71,
+      "live_viewers": 80,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -79,6 +79,85 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCc88OV45ICgHbn3ZqLLb52w": {
+      "video_id": "GTmZP7VHDeo",
+      "title": "今日から漁師に転職しました【鬼サザエトリ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Goblin_Gnome_Horn",
+      "published_at": "2026-04-30T17:48:51.000Z",
+      "available_at": "2026-05-01T08:59:52.000Z",
+      "start_scheduled": "2026-05-01T09:00:00.000Z",
+      "start_actual": "2026-05-01T08:59:52.000Z",
+      "live_viewers": 95,
+      "channel": {
+        "id": "UCc88OV45ICgHbn3ZqLLb52w",
+        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+        "english_name": "Yatogami Fuma",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "T9FBeiJuG0k",
+      "title": "【 #ホロDTBトーナメント 】エンジョイ!ホロどうぶつタワーバトルトーナメント3rd抽選会✨【鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Animal_Tower_Battle",
+      "published_at": "2026-04-30T10:03:07.000Z",
+      "available_at": "2026-05-01T09:00:00.000Z",
+      "start_scheduled": "2026-05-01T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCCzUftO8KOVkV4wQG1vkUvg": {
+      "video_id": "OTH1icy33GM",
+      "title": "クオリティ高すぎるコスプレイヤーさん達に取材してみた!! hololive SUPER EXPO 2026【ホロライブ/宝鐘マリン】#holoEXPO2026",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-01T09:00:06.000Z",
+      "available_at": "2026-05-01T09:00:06.000Z",
+      "start_scheduled": "2026-05-01T09:00:00.000Z",
+      "start_actual": "2026-05-01T09:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+        "name": "Marine Ch. 宝鐘マリン",
+        "english_name": "Houshou Marine",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCK9V2B22uJYu3N7eR_BT9QA": {
+      "video_id": "GkIpvtOfTg0",
+      "title": "【トモコレ】#5 様々な恋のカタチ、いろんな告白のセリフ【尾丸ポルカ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-01T09:00:06.000Z",
+      "available_at": "2026-05-01T09:00:06.000Z",
+      "start_scheduled": "2026-05-01T09:00:00.000Z",
+      "start_actual": "2026-05-01T09:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+        "name": "Polka Ch. 尾丸ポルカ",
+        "english_name": "Omaru Polka",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
