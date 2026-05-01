@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777622419,
+  "cached_at": 1777622479,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "kcfLGvuz32E",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-01T04:00:16.000Z",
       "start_scheduled": "2026-05-01T04:00:00.000Z",
       "start_actual": "2026-05-01T04:00:16.000Z",
-      "live_viewers": 2457,
+      "live_viewers": 2442,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -59,6 +59,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "LvpVnqSaqM8",
+      "title": "【Tomodachi Life】Improving Residents Quality of Life【Pavolia Reine/hololiveID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-01T07:37:24.000Z",
+      "available_at": "2026-05-01T07:58:25.000Z",
+      "start_scheduled": "2026-05-01T08:00:00.000Z",
+      "start_actual": "2026-05-01T07:58:25.000Z",
+      "live_viewers": 197,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
