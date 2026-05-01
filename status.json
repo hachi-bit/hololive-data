@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777627039,
+  "cached_at": 1777627099,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "Oyn9GG_IVP8",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-01T08:00:19.000Z",
       "start_scheduled": "2026-05-01T08:00:00.000Z",
       "start_actual": "2026-05-01T08:00:19.000Z",
-      "live_viewers": 8647,
+      "live_viewers": 8607,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-01T08:55:51.000Z",
       "start_scheduled": "2026-05-01T08:50:00.000Z",
       "start_actual": "2026-05-01T08:55:51.000Z",
-      "live_viewers": 118,
+      "live_viewers": 123,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-01T08:59:52.000Z",
       "start_scheduled": "2026-05-01T09:00:00.000Z",
       "start_actual": "2026-05-01T08:59:52.000Z",
-      "live_viewers": 275,
+      "live_viewers": 297,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCK9V2B22uJYu3N7eR_BT9QA": {
-      "video_id": "GkIpvtOfTg0",
-      "title": "【トモコレ】#5 様々な恋のカタチ、いろんな告白のセリフ【尾丸ポルカ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-01T09:00:06.000Z",
-      "available_at": "2026-05-01T09:00:06.000Z",
-      "start_scheduled": "2026-05-01T09:00:00.000Z",
-      "start_actual": "2026-05-01T09:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-        "name": "Polka Ch. 尾丸ポルカ",
-        "english_name": "Omaru Polka",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCCzUftO8KOVkV4wQG1vkUvg": {
@@ -141,6 +121,26 @@
         "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCK9V2B22uJYu3N7eR_BT9QA": {
+      "video_id": "GkIpvtOfTg0",
+      "title": "【トモコレ】#5 様々な恋のカタチ、いろんな告白のセリフ【尾丸ポルカ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-01T09:00:06.000Z",
+      "available_at": "2026-05-01T09:00:06.000Z",
+      "start_scheduled": "2026-05-01T09:00:00.000Z",
+      "start_actual": "2026-05-01T09:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+        "name": "Polka Ch. 尾丸ポルカ",
+        "english_name": "Omaru Polka",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "T9FBeiJuG0k",
       "title": "【 #ホロDTBトーナメント 】エンジョイ!ホロどうぶつタワーバトルトーナメント3rd抽選会✨【鷹嶺ルイ/ホロライブ】",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-01T09:05:04.000Z",
       "start_scheduled": "2026-05-01T09:00:00.000Z",
       "start_actual": "2026-05-01T09:05:04.000Z",
-      "live_viewers": 11862,
+      "live_viewers": 12897,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
