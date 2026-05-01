@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777613959,
+  "cached_at": 1777614019,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "kcfLGvuz32E",
@@ -11,7 +11,7 @@
       "available_at": "2026-04-30T22:01:35.000Z",
       "start_scheduled": "2026-04-30T22:00:00.000Z",
       "start_actual": "2026-04-30T22:01:35.000Z",
-      "live_viewers": 687,
+      "live_viewers": 655,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9p_lqQ0FEDz327Vgf5JwqA": {
-      "video_id": "tZ9VnzM01xY",
-      "title": "【Bayonetta 2】WITCH TIME!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Bayonetta",
-      "published_at": "2026-04-30T14:54:06.000Z",
-      "available_at": "2026-04-30T22:56:17.000Z",
-      "start_scheduled": "2026-04-30T23:00:00.000Z",
-      "start_actual": "2026-04-30T22:56:17.000Z",
-      "live_viewers": 4461,
-      "channel": {
-        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-        "name": "Koseki Bijou Ch. hololive-EN",
-        "english_name": "Koseki Bijou",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC060r4zABV18vcahAWR1n7w": {
@@ -91,7 +71,7 @@
       "available_at": "2026-05-01T03:02:25.000Z",
       "start_scheduled": "2026-05-01T03:00:00.000Z",
       "start_actual": "2026-05-01T03:02:25.000Z",
-      "live_viewers": 5257,
+      "live_viewers": 5343,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-01T04:00:16.000Z",
       "start_scheduled": "2026-05-01T04:00:00.000Z",
       "start_actual": "2026-05-01T04:00:16.000Z",
-      "live_viewers": 2199,
+      "live_viewers": 2202,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
