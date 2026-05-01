@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777604419,
+  "cached_at": 1777604479,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "bcCPZnvz6vA",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-01T01:03:27.000Z",
       "start_scheduled": "2026-05-01T01:00:00.000Z",
       "start_actual": "2026-05-01T01:03:27.000Z",
-      "live_viewers": 797,
+      "live_viewers": 768,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -159,6 +159,26 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCozx5csNhCx1wsVq3SZVkBQ": {
+      "video_id": "XJc3EahRWU4",
+      "title": "【(๑╹ᆺ╹)】昼ホロ独占ビデオレターだと!?【昼ホロ/花園さやか】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "News_Show",
+      "published_at": "2026-04-30T06:23:43.000Z",
+      "available_at": "2026-05-01T02:58:32.000Z",
+      "start_scheduled": "2026-05-01T03:00:00.000Z",
+      "start_actual": "2026-05-01T02:58:32.000Z",
+      "live_viewers": 927,
+      "channel": {
+        "id": "UCozx5csNhCx1wsVq3SZVkBQ",
+        "name": "holoAN room (ホロアナ)",
+        "english_name": "holoAN room",
+        "org": "Hololive",
+        "suborg": "0hOfficial",
+        "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
