@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777723219,
+  "cached_at": 1777723279,
   "lives": {
-    "UCANDOlYTJT7N5jlRC3zfzVA": {
-      "video_id": "wxJXOCVs5G0",
-      "title": "【P5R】初見で挑む『ペルソナ5 ザ・ロイヤル』 10日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Persona",
-      "published_at": "2026-05-01T15:14:05.000Z",
-      "available_at": "2026-05-02T04:00:15.000Z",
-      "start_scheduled": "2026-05-02T04:00:00.000Z",
-      "start_actual": "2026-05-02T04:00:15.000Z",
-      "live_viewers": 2290,
-      "channel": {
-        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
-        "name": "Roberu Ch. 夕刻ロベル",
-        "english_name": "Yukoku Roberu",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "pH7eXdxGwec",
       "title": "【ポケモン不思議のダンジョン 赤の救助隊】はじめてのポケダンクリア耐久!ゲームボーイアドバンス版やるよー!!!【博衣こより/ホロライブ】",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-02T09:01:12.000Z",
       "start_scheduled": "2026-05-02T09:00:00.000Z",
       "start_actual": "2026-05-02T09:01:12.000Z",
-      "live_viewers": 12631,
+      "live_viewers": 12740,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-02T09:20:37.000Z",
       "start_scheduled": "2026-05-02T09:15:00.000Z",
       "start_actual": "2026-05-02T09:20:37.000Z",
-      "live_viewers": 583,
+      "live_viewers": 595,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-02T10:13:36.000Z",
       "start_scheduled": "2026-05-02T10:00:00.000Z",
       "start_actual": "2026-05-02T10:13:36.000Z",
-      "live_viewers": 8543,
+      "live_viewers": 8095,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-02T10:59:21.000Z",
       "start_scheduled": "2026-05-02T11:00:00.000Z",
       "start_actual": "2026-05-02T10:59:21.000Z",
-      "live_viewers": 1240,
+      "live_viewers": 1201,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-02T11:03:37.000Z",
       "start_scheduled": "2026-05-02T11:00:00.000Z",
       "start_actual": "2026-05-02T11:03:37.000Z",
-      "live_viewers": 49812,
+      "live_viewers": 49525,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-02T11:21:50.000Z",
       "start_scheduled": "2026-05-02T11:20:00.000Z",
       "start_actual": "2026-05-02T11:21:50.000Z",
-      "live_viewers": 2836,
+      "live_viewers": 2743,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
