@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777714401,
+  "cached_at": 1777714460,
   "lives": {
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
       "video_id": "HBNuE2Vx0Rs",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-02T03:01:32.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:01:32.000Z",
-      "live_viewers": 4934,
+      "live_viewers": 4828,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -61,26 +61,6 @@
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCKMWFR6lAstLa7Vbf5dH7ig": {
-      "video_id": "HPBPKx3jZVg",
-      "title": "【DARK SOULS III】#4 また火を継ぎにいくぞ!!!!!※ネタバレ禁止【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Dark_Souls",
-      "published_at": "2026-05-01T21:35:09.000Z",
-      "available_at": "2026-05-02T04:01:04.000Z",
-      "start_scheduled": "2026-05-02T04:00:00.000Z",
-      "start_actual": "2026-05-02T04:01:04.000Z",
-      "live_viewers": 5013,
-      "channel": {
-        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "english_name": "Rindo Chihaya",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCWQtYtq9EOB4-I5P-3fh8lA": {
       "video_id": "cM9H5jKzU1g",
       "title": "【 耐久歌枠 】GW企画!80万人いけるかな?!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
@@ -99,26 +79,6 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCK9V2B22uJYu3N7eR_BT9QA": {
-      "video_id": "8Z_XMK7o9iI",
-      "title": "【ウマ娘】大好きな愛バ!!ガチャダービー開催!!目指せピタリ賞!!!イベストも観たい【尾丸ポルカ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "umamusume",
-      "published_at": "2026-05-02T04:20:45.000Z",
-      "available_at": "2026-05-02T08:00:06.000Z",
-      "start_scheduled": "2026-05-02T08:00:00.000Z",
-      "start_actual": "2026-05-02T08:00:06.000Z",
-      "live_viewers": 2675,
-      "channel": {
-        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-        "name": "Polka Ch. 尾丸ポルカ",
-        "english_name": "Omaru Polka",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
@@ -151,7 +111,7 @@
       "available_at": "2026-05-02T08:08:57.000Z",
       "start_scheduled": "2026-05-02T08:10:00.000Z",
       "start_actual": "2026-05-02T08:08:57.000Z",
-      "live_viewers": 472,
+      "live_viewers": 453,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -171,7 +131,7 @@
       "available_at": "2026-05-02T08:59:46.000Z",
       "start_scheduled": "2026-05-02T09:00:00.000Z",
       "start_actual": "2026-05-02T08:59:46.000Z",
-      "live_viewers": 2887,
+      "live_viewers": 3175,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -191,7 +151,7 @@
       "available_at": "2026-05-02T09:00:33.000Z",
       "start_scheduled": "2026-05-02T09:00:00.000Z",
       "start_actual": "2026-05-02T09:00:33.000Z",
-      "live_viewers": 10706,
+      "live_viewers": 9948,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -211,7 +171,7 @@
       "available_at": "2026-05-02T09:01:12.000Z",
       "start_scheduled": "2026-05-02T09:00:00.000Z",
       "start_actual": "2026-05-02T09:01:12.000Z",
-      "live_viewers": 8881,
+      "live_viewers": 9647,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -231,7 +191,7 @@
       "available_at": "2026-05-02T09:20:37.000Z",
       "start_scheduled": "2026-05-02T09:15:00.000Z",
       "start_actual": "2026-05-02T09:20:37.000Z",
-      "live_viewers": 178,
+      "live_viewers": 190,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
