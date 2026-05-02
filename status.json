@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777701739,
+  "cached_at": 1777701799,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "14tt0toFRlQ",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-02T01:30:02.000Z",
       "start_scheduled": "2026-05-02T01:30:00.000Z",
       "start_actual": "2026-05-02T01:30:02.000Z",
-      "live_viewers": 107,
+      "live_viewers": 109,
       "channel": {
         "id": "UCKuwxopq9c3cldzSOo4ceSA",
         "name": "八神ツクモ / Yagami Tsukumo",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-02T02:00:44.000Z",
       "start_scheduled": "2026-05-02T02:00:00.000Z",
       "start_actual": "2026-05-02T02:00:44.000Z",
-      "live_viewers": 6316,
+      "live_viewers": 6190,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-02T02:10:07.000Z",
       "start_scheduled": "2026-05-02T02:00:00.000Z",
       "start_actual": "2026-05-02T02:10:07.000Z",
-      "live_viewers": 86,
+      "live_viewers": 75,
       "channel": {
         "id": "UC1Z_ZyF860JM9ZrhqswGUvw",
         "name": "Lan Philia 【Aegis-Link】",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-02T03:00:17.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:00:17.000Z",
-      "live_viewers": 14278,
+      "live_viewers": 14302,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-02T03:01:32.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:01:32.000Z",
-      "live_viewers": 5986,
+      "live_viewers": 5896,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-02T03:03:58.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:03:58.000Z",
-      "live_viewers": 6737,
+      "live_viewers": 6538,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-02T04:00:15.000Z",
       "start_scheduled": "2026-05-02T04:00:00.000Z",
       "start_actual": "2026-05-02T04:00:15.000Z",
-      "live_viewers": 2147,
+      "live_viewers": 2165,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-02T04:02:31.000Z",
       "start_scheduled": "2026-05-02T04:00:00.000Z",
       "start_actual": "2026-05-02T04:02:31.000Z",
-      "live_viewers": 18804,
+      "live_viewers": 18946,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-02T05:00:25.000Z",
       "start_scheduled": "2026-05-02T05:00:00.000Z",
       "start_actual": "2026-05-02T05:00:25.000Z",
-      "live_viewers": 3865,
+      "live_viewers": 3932,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -311,7 +311,7 @@
       "available_at": "2026-05-02T05:44:40.000Z",
       "start_scheduled": "2026-05-02T05:45:00.000Z",
       "start_actual": "2026-05-02T05:44:40.000Z",
-      "live_viewers": 738,
+      "live_viewers": 874,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -319,6 +319,25 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "Lqwv-yjzOcE",
+      "title": "【Brunch Stream】Telenovela Summary So Far【Pavolia Reine/hololiveID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-02T05:13:58.000Z",
+      "available_at": "2026-05-02T06:00:00.000Z",
+      "start_scheduled": "2026-05-02T06:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
