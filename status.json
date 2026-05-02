@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777731919,
+  "cached_at": 1777731979,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "pH7eXdxGwec",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-02T08:04:17.000Z",
       "start_scheduled": "2026-05-02T08:00:00.000Z",
       "start_actual": "2026-05-02T08:04:17.000Z",
-      "live_viewers": 6024,
+      "live_viewers": 5978,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -83,7 +83,7 @@
     },
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
       "video_id": "rBoov6XJH0A",
-      "title": "【同時視聴】[7話~12話] 機動戦士ガンダム 鉄血のオルフェンズ 一緒に観ようッ!!【白銀ノエル/ホロライブ】",
+      "title": "【同時視聴】[7話~13話] 機動戦士ガンダム 鉄血のオルフェンズ 一緒に観ようッ!!【白銀ノエル/ホロライブ】",
       "type": "stream",
       "status": "live",
       "topic_id": "watchalong",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-02T12:00:21.000Z",
       "start_scheduled": "2026-05-02T12:00:00.000Z",
       "start_actual": "2026-05-02T12:00:21.000Z",
-      "live_viewers": 2009,
+      "live_viewers": 2017,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-02T12:22:02.000Z",
       "start_scheduled": "2026-05-02T12:00:00.000Z",
       "start_actual": "2026-05-02T12:22:02.000Z",
-      "live_viewers": 53994,
+      "live_viewers": 54845,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-02T12:31:26.000Z",
       "start_scheduled": "2026-05-02T12:30:00.000Z",
       "start_actual": "2026-05-02T12:31:26.000Z",
-      "live_viewers": 15935,
+      "live_viewers": 15663,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-02T13:00:01.000Z",
       "start_scheduled": "2026-05-02T13:00:00.000Z",
       "start_actual": "2026-05-02T13:00:01.000Z",
-      "live_viewers": 914,
+      "live_viewers": 927,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-02T13:00:25.000Z",
       "start_scheduled": "2026-05-02T13:00:00.000Z",
       "start_actual": "2026-05-02T13:00:25.000Z",
-      "live_viewers": 11937,
+      "live_viewers": 11824,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
