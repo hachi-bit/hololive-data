@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777691900,
+  "cached_at": 1777691959,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "WIgPvzuNvnc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-01T22:56:51.000Z",
       "start_scheduled": "2026-05-01T23:00:00.000Z",
       "start_actual": "2026-05-01T22:56:51.000Z",
-      "live_viewers": 5008,
+      "live_viewers": 4969,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-02T00:55:17.000Z",
       "start_scheduled": "2026-05-02T01:00:00.000Z",
       "start_actual": "2026-05-02T00:55:17.000Z",
-      "live_viewers": 3445,
+      "live_viewers": 3238,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-02T01:01:25.000Z",
       "start_scheduled": "2026-05-02T01:00:00.000Z",
       "start_actual": "2026-05-02T01:01:25.000Z",
-      "live_viewers": 5151,
+      "live_viewers": 4995,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -310,7 +310,7 @@
       "available_at": "2026-05-02T03:00:17.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:00:17.000Z",
-      "live_viewers": 8402,
+      "live_viewers": 8948,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -330,7 +330,7 @@
       "available_at": "2026-05-02T03:01:32.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:01:32.000Z",
-      "live_viewers": 3181,
+      "live_viewers": 3336,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -350,7 +350,7 @@
       "available_at": "2026-05-02T03:01:37.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:01:37.000Z",
-      "live_viewers": 1824,
+      "live_viewers": 2034,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -370,7 +370,7 @@
       "available_at": "2026-05-02T03:03:58.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:03:58.000Z",
-      "live_viewers": 2722,
+      "live_viewers": 2895,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
