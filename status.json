@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777705938,
+  "cached_at": 1777706000,
   "lives": {
     "UCKuwxopq9c3cldzSOo4ceSA": {
       "video_id": "wD0dDQJkaQQ",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-02T01:30:02.000Z",
       "start_scheduled": "2026-05-02T01:30:00.000Z",
       "start_actual": "2026-05-02T01:30:02.000Z",
-      "live_viewers": 91,
+      "live_viewers": 81,
       "channel": {
         "id": "UCKuwxopq9c3cldzSOo4ceSA",
         "name": "八神ツクモ / Yagami Tsukumo",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-02T01:33:31.000Z",
       "start_scheduled": "2026-05-02T01:30:00.000Z",
       "start_actual": "2026-05-02T01:33:31.000Z",
-      "live_viewers": 570,
+      "live_viewers": 599,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-02T03:00:17.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:00:17.000Z",
-      "live_viewers": 14212,
+      "live_viewers": 14087,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -103,7 +103,7 @@
     },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "n6OhEafaWqI",
-      "title": "【 ドラゴンボールZ KAKAROT 】完全初見!DAIMA編続き!おもろい…!!!【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+      "title": "【 ドラゴンボールZ KAKAROT 】完全初見！DAIMA編続き！おもろい…！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり",
       "type": "stream",
       "status": "live",
       "topic_id": "Dragon_Ball_Z:_Kakarot",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-02T03:01:37.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:01:37.000Z",
-      "live_viewers": 3520,
+      "live_viewers": 3091,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-02T04:02:31.000Z",
       "start_scheduled": "2026-05-02T04:00:00.000Z",
       "start_actual": "2026-05-02T04:02:31.000Z",
-      "live_viewers": 21018,
+      "live_viewers": 21933,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -241,26 +241,6 @@
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
-      "video_id": "Lqwv-yjzOcE",
-      "title": "【Brunch Stream】Telenovela Summary So Far【Pavolia Reine/hololiveID】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-02T05:13:58.000Z",
-      "available_at": "2026-05-02T06:02:27.000Z",
-      "start_scheduled": "2026-05-02T06:00:00.000Z",
-      "start_actual": "2026-05-02T06:02:27.000Z",
-      "live_viewers": 594,
-      "channel": {
-        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "name": "Pavolia Reine Ch. hololive-ID",
-        "english_name": "Pavolia Reine",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCWQtYtq9EOB4-I5P-3fh8lA": {
       "video_id": "cM9H5jKzU1g",
       "title": "【 耐久歌枠 】GW企画!80万人いけるかな?!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-02T07:00:59.000Z",
       "start_scheduled": "2026-05-02T07:00:00.000Z",
       "start_actual": "2026-05-02T07:00:59.000Z",
-      "live_viewers": 4476,
+      "live_viewers": 5170,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
