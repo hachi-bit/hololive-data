@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777701859,
+  "cached_at": 1777701919,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "14tt0toFRlQ",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-02T01:07:34.000Z",
       "start_scheduled": "2026-05-02T01:00:00.000Z",
       "start_actual": "2026-05-02T01:07:34.000Z",
-      "live_viewers": 242,
+      "live_viewers": 235,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-02T02:10:07.000Z",
       "start_scheduled": "2026-05-02T02:00:00.000Z",
       "start_actual": "2026-05-02T02:10:07.000Z",
-      "live_viewers": 75,
+      "live_viewers": 74,
       "channel": {
         "id": "UC1Z_ZyF860JM9ZrhqswGUvw",
         "name": "Lan Philia 【Aegis-Link】",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-02T03:00:17.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:00:17.000Z",
-      "live_viewers": 14302,
+      "live_viewers": 14414,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-02T03:01:32.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:01:32.000Z",
-      "live_viewers": 5896,
+      "live_viewers": 5883,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-02T03:01:37.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:01:37.000Z",
-      "live_viewers": 2743,
+      "live_viewers": 2785,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-02T03:03:58.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:03:58.000Z",
-      "live_viewers": 6538,
+      "live_viewers": 6568,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-02T04:01:04.000Z",
       "start_scheduled": "2026-05-02T04:00:00.000Z",
       "start_actual": "2026-05-02T04:01:04.000Z",
-      "live_viewers": 4385,
+      "live_viewers": 4500,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -311,7 +311,7 @@
       "available_at": "2026-05-02T05:44:40.000Z",
       "start_scheduled": "2026-05-02T05:45:00.000Z",
       "start_actual": "2026-05-02T05:44:40.000Z",
-      "live_viewers": 874,
+      "live_viewers": 868,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -328,9 +328,10 @@
       "status": "live",
       "topic_id": "none",
       "published_at": "2026-05-02T05:13:58.000Z",
-      "available_at": "2026-05-02T06:00:00.000Z",
+      "available_at": "2026-05-02T06:02:27.000Z",
       "start_scheduled": "2026-05-02T06:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-02T06:02:27.000Z",
+      "live_viewers": 200,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
