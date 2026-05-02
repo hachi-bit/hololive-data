@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777738759,
+  "cached_at": 1777738820,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "pH7eXdxGwec",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-02T08:04:17.000Z",
       "start_scheduled": "2026-05-02T08:00:00.000Z",
       "start_actual": "2026-05-02T08:04:17.000Z",
-      "live_viewers": 6523,
+      "live_viewers": 6487,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvInZx9h3jC2JzsIzoOebWg": {
-      "video_id": "f8cBEAqv_w4",
-      "title": "【SOUND VOLTEX EXCEED GEAR】テスト配信も兼ねて初めてのおうちボルテで遊ぶぞ!🔰【不知火フレア/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Sound_Voltex",
-      "published_at": "2026-05-02T11:25:15.000Z",
-      "available_at": "2026-05-02T13:01:37.000Z",
-      "start_scheduled": "2026-05-02T13:00:00.000Z",
-      "start_actual": "2026-05-02T13:01:37.000Z",
-      "live_viewers": 4090,
-      "channel": {
-        "id": "UCvInZx9h3jC2JzsIzoOebWg",
-        "name": "Flare Ch. 不知火フレア",
-        "english_name": "Shiranui Flare",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC0TXe_LYZ4scaW2XMyi5_kw": {
@@ -191,7 +171,7 @@
       "available_at": "2026-05-02T15:45:24.000Z",
       "start_scheduled": "2026-05-02T15:45:00.000Z",
       "start_actual": "2026-05-02T15:45:24.000Z",
-      "live_viewers": 1597,
+      "live_viewers": 1628,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -208,10 +188,10 @@
       "status": "live",
       "topic_id": "Tomodachi_Life",
       "published_at": "2026-05-02T16:08:15.000Z",
-      "available_at": "2026-05-02T16:15:26.000Z",
+      "available_at": "2026-05-02T16:15:29.000Z",
       "start_scheduled": "2026-05-02T16:15:00.000Z",
-      "start_actual": "2026-05-02T16:15:26.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-02T16:15:29.000Z",
+      "live_viewers": 210,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
