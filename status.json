@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777685419,
+  "cached_at": 1777685479,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "-VZxLwYOa-8",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-01T21:04:23.000Z",
       "start_scheduled": "2026-05-01T21:00:00.000Z",
       "start_actual": "2026-05-01T21:04:23.000Z",
-      "live_viewers": 5073,
+      "live_viewers": 5025,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-01T22:56:51.000Z",
       "start_scheduled": "2026-05-01T23:00:00.000Z",
       "start_actual": "2026-05-01T22:56:51.000Z",
-      "live_viewers": 7311,
+      "live_viewers": 7530,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-02T00:55:17.000Z",
       "start_scheduled": "2026-05-02T01:00:00.000Z",
       "start_actual": "2026-05-02T00:55:17.000Z",
-      "live_viewers": 2023,
+      "live_viewers": 2089,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-02T01:01:24.000Z",
       "start_scheduled": "2026-05-02T01:00:00.000Z",
       "start_actual": "2026-05-02T01:01:24.000Z",
-      "live_viewers": 24748,
+      "live_viewers": 25321,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-02T01:01:25.000Z",
       "start_scheduled": "2026-05-02T01:00:00.000Z",
       "start_actual": "2026-05-02T01:01:25.000Z",
-      "live_viewers": 2247,
+      "live_viewers": 2639,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-02T01:07:34.000Z",
       "start_scheduled": "2026-05-02T01:00:00.000Z",
       "start_actual": "2026-05-02T01:07:34.000Z",
-      "live_viewers": 190,
+      "live_viewers": 214,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -139,6 +139,25 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCANDOlYTJT7N5jlRC3zfzVA": {
+      "video_id": "G4HU50oIbzI",
+      "title": "【雑談】起きたので配信まで配信する男【夕刻ロベル/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-02T01:26:36.000Z",
+      "available_at": "2026-05-02T01:26:35.000Z",
+      "start_scheduled": "2026-05-02T01:26:35.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+        "name": "Roberu Ch. 夕刻ロベル",
+        "english_name": "Yukoku Roberu",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
