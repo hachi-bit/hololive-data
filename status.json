@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777683439,
+  "cached_at": 1777683499,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "-VZxLwYOa-8",
@@ -39,6 +39,26 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_sFNM0z0MWm9A6WlKPuMMg": {
+      "video_id": "E-b2HgzQyzs",
+      "title": "The Melancholy of Nerissa Ravencroft | Creating \"Blue World\"",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-04-29T15:21:34.000Z",
+      "available_at": "2026-05-02T00:55:17.000Z",
+      "start_scheduled": "2026-05-02T01:00:00.000Z",
+      "start_actual": "2026-05-02T00:55:17.000Z",
+      "live_viewers": 645,
+      "channel": {
+        "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+        "name": "Nerissa Ravencroft Ch. hololive-EN",
+        "english_name": "Nerissa Ravencroft",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
