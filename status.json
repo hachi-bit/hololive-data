@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777691179,
+  "cached_at": 1777691239,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "WIgPvzuNvnc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-01T22:56:51.000Z",
       "start_scheduled": "2026-05-01T23:00:00.000Z",
       "start_actual": "2026-05-01T22:56:51.000Z",
-      "live_viewers": 5771,
+      "live_viewers": 5459,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-02T00:55:17.000Z",
       "start_scheduled": "2026-05-02T01:00:00.000Z",
       "start_actual": "2026-05-02T00:55:17.000Z",
-      "live_viewers": 3486,
+      "live_viewers": 3489,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-02T01:01:25.000Z",
       "start_scheduled": "2026-05-02T01:00:00.000Z",
       "start_actual": "2026-05-02T01:01:25.000Z",
-      "live_viewers": 5166,
+      "live_viewers": 5161,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-02T01:31:37.000Z",
       "start_scheduled": "2026-05-02T01:26:35.000Z",
       "start_actual": "2026-05-02T01:31:37.000Z",
-      "live_viewers": 2061,
+      "live_viewers": 2098,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -210,7 +210,7 @@
       "available_at": "2026-05-02T02:00:44.000Z",
       "start_scheduled": "2026-05-02T02:00:00.000Z",
       "start_actual": "2026-05-02T02:00:44.000Z",
-      "live_viewers": 8578,
+      "live_viewers": 8079,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -230,7 +230,7 @@
       "available_at": "2026-05-02T02:01:27.000Z",
       "start_scheduled": "2026-05-02T02:00:00.000Z",
       "start_actual": "2026-05-02T02:01:27.000Z",
-      "live_viewers": 417,
+      "live_viewers": 414,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -250,7 +250,7 @@
       "available_at": "2026-05-02T02:10:07.000Z",
       "start_scheduled": "2026-05-02T02:00:00.000Z",
       "start_actual": "2026-05-02T02:10:07.000Z",
-      "live_viewers": 66,
+      "live_viewers": 64,
       "channel": {
         "id": "UC1Z_ZyF860JM9ZrhqswGUvw",
         "name": "Lan Philia 【Aegis-Link】",
@@ -270,7 +270,7 @@
       "available_at": "2026-05-02T02:11:31.000Z",
       "start_scheduled": "2026-05-02T02:00:00.000Z",
       "start_actual": "2026-05-02T02:11:31.000Z",
-      "live_viewers": 542,
+      "live_viewers": 555,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -278,25 +278,6 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC8rcEBzJSleTkf_-agPM20g": {
-      "video_id": "7G6nDdIhWL0",
-      "title": "【Mass Effect】SPECTRE IRyS REPORTING FOR DUTY",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mass_Effect",
-      "published_at": "2026-05-01T16:09:32.000Z",
-      "available_at": "2026-05-02T03:00:00.000Z",
-      "start_scheduled": "2026-05-02T03:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC8rcEBzJSleTkf_-agPM20g",
-        "name": "IRyS Ch. hololive-EN",
-        "english_name": "IRyS",
-        "org": "Hololive",
-        "suborg": "iaEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCUKD-uaobj9jiqB-VXt71mA": {
@@ -329,7 +310,7 @@
       "available_at": "2026-05-02T03:00:17.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:00:17.000Z",
-      "live_viewers": 3583,
+      "live_viewers": 5367,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -349,7 +330,7 @@
       "available_at": "2026-05-02T03:01:32.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:01:32.000Z",
-      "live_viewers": 1158,
+      "live_viewers": 2091,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -369,7 +350,7 @@
       "available_at": "2026-05-02T03:01:37.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:01:37.000Z",
-      "live_viewers": 434,
+      "live_viewers": 1026,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -377,6 +358,26 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC8rcEBzJSleTkf_-agPM20g": {
+      "video_id": "7G6nDdIhWL0",
+      "title": "【Mass Effect】SPECTRE IRyS REPORTING FOR DUTY",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mass_Effect",
+      "published_at": "2026-05-01T16:09:32.000Z",
+      "available_at": "2026-05-02T03:03:58.000Z",
+      "start_scheduled": "2026-05-02T03:00:00.000Z",
+      "start_actual": "2026-05-02T03:03:58.000Z",
+      "live_viewers": 1389,
+      "channel": {
+        "id": "UC8rcEBzJSleTkf_-agPM20g",
+        "name": "IRyS Ch. hololive-EN",
+        "english_name": "IRyS",
+        "org": "Hololive",
+        "suborg": "iaEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
