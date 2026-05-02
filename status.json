@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777727119,
+  "cached_at": 1777727179,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "pH7eXdxGwec",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-02T09:01:12.000Z",
       "start_scheduled": "2026-05-02T09:00:00.000Z",
       "start_actual": "2026-05-02T09:01:12.000Z",
-      "live_viewers": 12896,
+      "live_viewers": 10927,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-02T09:20:37.000Z",
       "start_scheduled": "2026-05-02T09:15:00.000Z",
       "start_actual": "2026-05-02T09:20:37.000Z",
-      "live_viewers": 528,
+      "live_viewers": 518,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-02T12:00:21.000Z",
       "start_scheduled": "2026-05-02T12:00:00.000Z",
       "start_actual": "2026-05-02T12:00:21.000Z",
-      "live_viewers": 2087,
+      "live_viewers": 2038,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-02T12:22:02.000Z",
       "start_scheduled": "2026-05-02T12:00:00.000Z",
       "start_actual": "2026-05-02T12:22:02.000Z",
-      "live_viewers": 59982,
+      "live_viewers": 59151,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-02T12:31:26.000Z",
       "start_scheduled": "2026-05-02T12:30:00.000Z",
       "start_actual": "2026-05-02T12:31:26.000Z",
-      "live_viewers": 12081,
+      "live_viewers": 12349,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -179,82 +179,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCl69AEx4MdqMZH7Jtsm7Tig": {
-      "video_id": "CXVEUlp3-9M",
-      "title": "【UNARCHIVED KARAOKE】BIG CAT BIG ANNOUNCEMENT!!!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-05-01T18:36:52.000Z",
-      "available_at": "2026-05-02T13:00:00.000Z",
-      "start_scheduled": "2026-05-02T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
-        "name": "Raora Panthera Ch. hololive-EN",
-        "english_name": "Raora Panthera",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvInZx9h3jC2JzsIzoOebWg": {
-      "video_id": "f8cBEAqv_w4",
-      "title": "【SOUND VOLTEX EXCEED GEAR】テスト配信も兼ねて初めてのおうちボルテで遊ぶぞ！🔰【不知火フレア/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Sound_Voltex",
-      "published_at": "2026-05-02T11:25:15.000Z",
-      "available_at": "2026-05-02T13:00:00.000Z",
-      "start_scheduled": "2026-05-02T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCvInZx9h3jC2JzsIzoOebWg",
-        "name": "Flare Ch. 不知火フレア",
-        "english_name": "Shiranui Flare",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC0TXe_LYZ4scaW2XMyi5_kw": {
-      "video_id": "GB1NlvGm-RM",
-      "title": "【メン限】月イチみんなとまったり雑談!5月ここだけの話!【ホロライブ / AZKi】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-02T07:52:37.000Z",
-      "available_at": "2026-05-02T13:00:00.000Z",
-      "start_scheduled": "2026-05-02T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-        "name": "AZKi Channel",
-        "english_name": "AZKi",
-        "org": "Hololive",
-        "suborg": "0z0th Generation",
-        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCTvHWSfBZgtxE4sILOaurIQ": {
-      "video_id": "VmILxwQfTDE",
-      "title": "【Rebroadcast】random eepy karaoke",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-04-28T10:40:12.000Z",
-      "available_at": "2026-05-02T13:00:00.000Z",
-      "start_scheduled": "2026-05-02T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCTvHWSfBZgtxE4sILOaurIQ",
-        "name": "Vestia Zeta Ch. hololive-ID",
-        "english_name": "Vestia Zeta",
-        "org": "Hololive",
-        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-        "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCjLEmnpCNeisMxy134KPwWw": {
@@ -267,7 +191,7 @@
       "available_at": "2026-05-02T13:00:01.000Z",
       "start_scheduled": "2026-05-02T13:00:00.000Z",
       "start_actual": "2026-05-02T13:00:01.000Z",
-      "live_viewers": 221,
+      "live_viewers": 441,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -287,7 +211,7 @@
       "available_at": "2026-05-02T13:00:25.000Z",
       "start_scheduled": "2026-05-02T13:00:00.000Z",
       "start_actual": "2026-05-02T13:00:25.000Z",
-      "live_viewers": 2007,
+      "live_viewers": 5218,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -295,6 +219,86 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTvHWSfBZgtxE4sILOaurIQ": {
+      "video_id": "VmILxwQfTDE",
+      "title": "【Rebroadcast】random eepy karaoke",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-04-28T10:40:12.000Z",
+      "available_at": "2026-05-02T13:00:35.000Z",
+      "start_scheduled": "2026-05-02T13:00:00.000Z",
+      "start_actual": "2026-05-02T13:00:35.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCTvHWSfBZgtxE4sILOaurIQ",
+        "name": "Vestia Zeta Ch. hololive-ID",
+        "english_name": "Vestia Zeta",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvInZx9h3jC2JzsIzoOebWg": {
+      "video_id": "f8cBEAqv_w4",
+      "title": "【SOUND VOLTEX EXCEED GEAR】テスト配信も兼ねて初めてのおうちボルテで遊ぶぞ!🔰【不知火フレア/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Sound_Voltex",
+      "published_at": "2026-05-02T11:25:15.000Z",
+      "available_at": "2026-05-02T13:01:37.000Z",
+      "start_scheduled": "2026-05-02T13:00:00.000Z",
+      "start_actual": "2026-05-02T13:01:37.000Z",
+      "live_viewers": 1873,
+      "channel": {
+        "id": "UCvInZx9h3jC2JzsIzoOebWg",
+        "name": "Flare Ch. 不知火フレア",
+        "english_name": "Shiranui Flare",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC0TXe_LYZ4scaW2XMyi5_kw": {
+      "video_id": "GB1NlvGm-RM",
+      "title": "【メン限】月イチみんなとまったり雑談!5月ここだけの話!【ホロライブ / AZKi】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-02T07:52:37.000Z",
+      "available_at": "2026-05-02T13:01:53.000Z",
+      "start_scheduled": "2026-05-02T13:00:00.000Z",
+      "start_actual": "2026-05-02T13:01:53.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+        "name": "AZKi Channel",
+        "english_name": "AZKi",
+        "org": "Hololive",
+        "suborg": "0z0th Generation",
+        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCl69AEx4MdqMZH7Jtsm7Tig": {
+      "video_id": "CXVEUlp3-9M",
+      "title": "【UNARCHIVED KARAOKE】BIG CAT BIG ANNOUNCEMENT!!!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-01T18:36:52.000Z",
+      "available_at": "2026-05-02T13:02:27.000Z",
+      "start_scheduled": "2026-05-02T13:00:00.000Z",
+      "start_actual": "2026-05-02T13:02:27.000Z",
+      "live_viewers": 3266,
+      "channel": {
+        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
+        "name": "Raora Panthera Ch. hololive-EN",
+        "english_name": "Raora Panthera",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
