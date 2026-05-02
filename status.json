@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777755679,
+  "cached_at": 1777755744,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "OlNuxpz2m2M",
@@ -79,6 +79,44 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCK9V2B22uJYu3N7eR_BT9QA": {
+      "video_id": "QGOjIE6QaBM",
+      "title": "【OHAPOL】#198 5/3日曜日!GWのニチアサだああああああああ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "morning",
+      "published_at": "2026-05-02T20:45:26.000Z",
+      "available_at": "2026-05-02T21:00:00.000Z",
+      "start_scheduled": "2026-05-02T21:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+        "name": "Polka Ch. 尾丸ポルカ",
+        "english_name": "Omaru Polka",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCDHABijvPBnJm7F-KlNME3w": {
+      "video_id": "wdxBnET22Ds",
+      "title": "【CREATURE CREATOR】MAKIN THE GREMS #WERK",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-02T09:17:38.000Z",
+      "available_at": "2026-05-02T21:00:00.000Z",
+      "start_scheduled": "2026-05-02T21:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCDHABijvPBnJm7F-KlNME3w",
+        "name": "Gigi Murin Ch. hololive-EN",
+        "english_name": "Gigi Murin",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
