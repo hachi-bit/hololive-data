@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777687579,
+  "cached_at": 1777687639,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "-VZxLwYOa-8",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-02T01:01:24.000Z",
       "start_scheduled": "2026-05-02T01:00:00.000Z",
       "start_actual": "2026-05-02T01:01:24.000Z",
-      "live_viewers": 28737,
+      "live_viewers": 28334,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-02T01:30:02.000Z",
       "start_scheduled": "2026-05-02T01:30:00.000Z",
       "start_actual": "2026-05-02T01:30:02.000Z",
-      "live_viewers": 96,
+      "live_viewers": 99,
       "channel": {
         "id": "UCKuwxopq9c3cldzSOo4ceSA",
         "name": "八神ツクモ / Yagami Tsukumo",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-02T01:31:37.000Z",
       "start_scheduled": "2026-05-02T01:26:35.000Z",
       "start_actual": "2026-05-02T01:31:37.000Z",
-      "live_viewers": 1192,
+      "live_viewers": 1217,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-02T01:33:31.000Z",
       "start_scheduled": "2026-05-02T01:30:00.000Z",
       "start_actual": "2026-05-02T01:33:31.000Z",
-      "live_viewers": 436,
+      "live_viewers": 408,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -240,25 +240,6 @@
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCajbFh6e_R8QZdHAMbbi4rQ": {
-      "video_id": "-IL8eNXmeq0",
-      "title": "World Building 101: w/ Lan Philia and PorcelainMaid!【MAPPA IMPERIUM】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-01T21:01:10.000Z",
-      "available_at": "2026-05-02T02:00:00.000Z",
-      "start_scheduled": "2026-05-02T02:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-        "english_name": "Crimzon Ruze",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1Z_ZyF860JM9ZrhqswGUvw": {
       "video_id": "03kDrGjkdLw",
       "title": "Our imaginations combined...what can we make?【MAPPA IMPERIUM】",
@@ -278,6 +259,25 @@
         "photo": "https://yt3.ggpht.com/55vKKG6JHsnRjEgjXABpu62GKODe0uacALwOR5FVb1PEHiIN9rrUnwXGQj8OHAqxNAe2n3MrPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCajbFh6e_R8QZdHAMbbi4rQ": {
+      "video_id": "-IL8eNXmeq0",
+      "title": "World Building 101: w/ Lan Philia and PorcelainMaid!【MAPPA IMPERIUM】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-01T21:01:10.000Z",
+      "available_at": "2026-05-02T02:00:00.000Z",
+      "start_scheduled": "2026-05-02T02:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+        "english_name": "Crimzon Ruze",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
       "video_id": "p4RLkIaw-Qc",
       "title": "#1【ドラゴンクエストVII Reimagined】DQ7完全初見!ずっとプレイしてみたかった7の世界へ🔥【白銀ノエル/ホロライブ】※ネタバレあり",
@@ -288,7 +288,7 @@
       "available_at": "2026-05-02T02:00:44.000Z",
       "start_scheduled": "2026-05-02T02:00:00.000Z",
       "start_actual": "2026-05-02T02:00:44.000Z",
-      "live_viewers": 1710,
+      "live_viewers": 2328,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -308,7 +308,7 @@
       "available_at": "2026-05-02T02:01:27.000Z",
       "start_scheduled": "2026-05-02T02:00:00.000Z",
       "start_actual": "2026-05-02T02:01:27.000Z",
-      "live_viewers": 197,
+      "live_viewers": 263,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
