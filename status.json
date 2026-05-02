@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777702639,
+  "cached_at": 1777702699,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "14tt0toFRlQ",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-02T01:33:31.000Z",
       "start_scheduled": "2026-05-02T01:30:00.000Z",
       "start_actual": "2026-05-02T01:33:31.000Z",
-      "live_viewers": 542,
+      "live_viewers": 571,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC7gxU6NXjKF1LrgOddPzgTw": {
-      "video_id": "_2sGqRQKgoU",
-      "title": "IT'S TIME FOR HAKKAMAMA'S BIRTHDAY BASH, LET'S PARTY MY HAKKITO 🐦‍⬛✨【KARAOKE, ZATSU & HANDCAM】🐦‍⬛🎂🎉",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Birthday",
-      "published_at": "2026-05-01T14:31:51.000Z",
-      "available_at": "2026-05-02T02:01:27.000Z",
-      "start_scheduled": "2026-05-02T02:00:00.000Z",
-      "start_actual": "2026-05-02T02:01:27.000Z",
-      "live_viewers": 335,
-      "channel": {
-        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-        "english_name": "Banzoin Hakka",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1Z_ZyF860JM9ZrhqswGUvw": {
@@ -171,7 +151,7 @@
       "available_at": "2026-05-02T03:01:32.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:01:32.000Z",
-      "live_viewers": 5960,
+      "live_viewers": 5880,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-02T03:01:37.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:01:37.000Z",
-      "live_viewers": 2817,
+      "live_viewers": 3152,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-02T04:02:31.000Z",
       "start_scheduled": "2026-05-02T04:00:00.000Z",
       "start_actual": "2026-05-02T04:02:31.000Z",
-      "live_viewers": 19498,
+      "live_viewers": 20001,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-02T05:44:40.000Z",
       "start_scheduled": "2026-05-02T05:45:00.000Z",
       "start_actual": "2026-05-02T05:44:40.000Z",
-      "live_viewers": 1048,
+      "live_viewers": 1101,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-02T06:02:27.000Z",
       "start_scheduled": "2026-05-02T06:00:00.000Z",
       "start_actual": "2026-05-02T06:02:27.000Z",
-      "live_viewers": 375,
+      "live_viewers": 387,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
