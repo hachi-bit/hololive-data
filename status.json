@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777698139,
+  "cached_at": 1777698199,
   "lives": {
     "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
       "video_id": "fTpIkuaIgTw",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "ibEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCTVSOgYuSWmNAt-lnJPkEEw": {
-      "video_id": "fY35nwNxn_8",
-      "title": "【T4 RECORDING】RECORDING A SUPER SECRET PROJECT",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-01T04:32:44.000Z",
-      "available_at": "2026-05-02T01:03:51.000Z",
-      "start_scheduled": "2026-05-02T01:00:00.000Z",
-      "start_actual": "2026-05-02T01:03:51.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
-        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
-        "english_name": "Jurard T Rexford",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC060r4zABV18vcahAWR1n7w": {
@@ -71,7 +51,7 @@
       "available_at": "2026-05-02T01:30:02.000Z",
       "start_scheduled": "2026-05-02T01:30:00.000Z",
       "start_actual": "2026-05-02T01:30:02.000Z",
-      "live_viewers": 110,
+      "live_viewers": 111,
       "channel": {
         "id": "UCKuwxopq9c3cldzSOo4ceSA",
         "name": "八神ツクモ / Yagami Tsukumo",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-02T01:33:31.000Z",
       "start_scheduled": "2026-05-02T01:30:00.000Z",
       "start_actual": "2026-05-02T01:33:31.000Z",
-      "live_viewers": 607,
+      "live_viewers": 619,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -130,7 +110,7 @@
       "available_at": "2026-05-02T02:00:44.000Z",
       "start_scheduled": "2026-05-02T02:00:00.000Z",
       "start_actual": "2026-05-02T02:00:44.000Z",
-      "live_viewers": 6716,
+      "live_viewers": 6709,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -150,7 +130,7 @@
       "available_at": "2026-05-02T02:01:27.000Z",
       "start_scheduled": "2026-05-02T02:00:00.000Z",
       "start_actual": "2026-05-02T02:01:27.000Z",
-      "live_viewers": 408,
+      "live_viewers": 393,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -190,7 +170,7 @@
       "available_at": "2026-05-02T02:11:31.000Z",
       "start_scheduled": "2026-05-02T02:00:00.000Z",
       "start_actual": "2026-05-02T02:11:31.000Z",
-      "live_viewers": 561,
+      "live_viewers": 550,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -210,7 +190,7 @@
       "available_at": "2026-05-02T03:00:17.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:00:17.000Z",
-      "live_viewers": 13592,
+      "live_viewers": 13411,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -230,7 +210,7 @@
       "available_at": "2026-05-02T03:01:32.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:01:32.000Z",
-      "live_viewers": 5500,
+      "live_viewers": 5471,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -250,7 +230,7 @@
       "available_at": "2026-05-02T03:01:37.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:01:37.000Z",
-      "live_viewers": 3012,
+      "live_viewers": 3130,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -330,7 +310,7 @@
       "available_at": "2026-05-02T04:02:31.000Z",
       "start_scheduled": "2026-05-02T04:00:00.000Z",
       "start_actual": "2026-05-02T04:02:31.000Z",
-      "live_viewers": 17075,
+      "live_viewers": 17577,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -338,6 +318,26 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "n9ol3n-DlEU",
+      "title": "【777TOWN.net | バジリスク~甲賀忍法帖~絆】終わりじゃ天膳!!【ホロライブ DEV_IS 響咲リオナ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pachisuro",
+      "published_at": "2026-05-01T16:38:06.000Z",
+      "available_at": "2026-05-02T05:00:25.000Z",
+      "start_scheduled": "2026-05-02T05:00:00.000Z",
+      "start_actual": "2026-05-02T05:00:25.000Z",
+      "live_viewers": 586,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
