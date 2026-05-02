@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777687279,
+  "cached_at": 1777687341,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "-VZxLwYOa-8",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-01T22:56:51.000Z",
       "start_scheduled": "2026-05-01T23:00:00.000Z",
       "start_actual": "2026-05-01T22:56:51.000Z",
-      "live_viewers": 7567,
+      "live_viewers": 7570,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-02T01:01:24.000Z",
       "start_scheduled": "2026-05-02T01:00:00.000Z",
       "start_actual": "2026-05-02T01:01:24.000Z",
-      "live_viewers": 29022,
+      "live_viewers": 29009,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-02T01:01:25.000Z",
       "start_scheduled": "2026-05-02T01:00:00.000Z",
       "start_actual": "2026-05-02T01:01:25.000Z",
-      "live_viewers": 3170,
+      "live_viewers": 3333,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-02T01:07:34.000Z",
       "start_scheduled": "2026-05-02T01:00:00.000Z",
       "start_actual": "2026-05-02T01:07:34.000Z",
-      "live_viewers": 270,
+      "live_viewers": 271,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-02T01:31:37.000Z",
       "start_scheduled": "2026-05-02T01:26:35.000Z",
       "start_actual": "2026-05-02T01:31:37.000Z",
-      "live_viewers": 1107,
+      "live_viewers": 1169,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-02T01:33:31.000Z",
       "start_scheduled": "2026-05-02T01:30:00.000Z",
       "start_actual": "2026-05-02T01:33:31.000Z",
-      "live_viewers": 409,
+      "live_viewers": 419,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -219,6 +219,101 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7gxU6NXjKF1LrgOddPzgTw": {
+      "video_id": "_2sGqRQKgoU",
+      "title": "IT'S TIME FOR HAKKAMAMA'S BIRTHDAY BASH, LET'S PARTY MY HAKKITO 🐦‍⬛✨【KARAOKE, ZATSU & HANDCAM】🐦‍⬛🎂🎉",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Birthday",
+      "published_at": "2026-05-01T14:31:51.000Z",
+      "available_at": "2026-05-02T02:00:00.000Z",
+      "start_scheduled": "2026-05-02T02:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+        "english_name": "Banzoin Hakka",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCYz_5n-uDuChHtLo7My1HnQ": {
+      "video_id": "00NR7YNDHS0",
+      "title": "【Tomodachi Life: Living the Dream】 Pt.11: THERE'S A FIGHT IN MY ISLAND 【Kureiji Ollie】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-01T12:51:20.000Z",
+      "available_at": "2026-05-02T02:00:00.000Z",
+      "start_scheduled": "2026-05-02T02:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+        "name": "Kureiji Ollie Ch. hololive-ID",
+        "english_name": "Kureiji Ollie",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1Z_ZyF860JM9ZrhqswGUvw": {
+      "video_id": "03kDrGjkdLw",
+      "title": "Our imaginations combined...what can we make?【MAPPA IMPERIUM】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-02T00:59:09.000Z",
+      "available_at": "2026-05-02T02:00:00.000Z",
+      "start_scheduled": "2026-05-02T02:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1Z_ZyF860JM9ZrhqswGUvw",
+        "name": "Lan Philia 【Aegis-Link】",
+        "english_name": "Lan Philia",
+        "org": "Aegis-Link",
+        "suborg": "1a1st Generation SYN//ED",
+        "photo": "https://yt3.ggpht.com/55vKKG6JHsnRjEgjXABpu62GKODe0uacALwOR5FVb1PEHiIN9rrUnwXGQj8OHAqxNAe2n3MrPQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCajbFh6e_R8QZdHAMbbi4rQ": {
+      "video_id": "-IL8eNXmeq0",
+      "title": "World Building 101: w/ Lan Philia and PorcelainMaid!【MAPPA IMPERIUM】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-01T21:01:10.000Z",
+      "available_at": "2026-05-02T02:00:00.000Z",
+      "start_scheduled": "2026-05-02T02:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+        "english_name": "Crimzon Ruze",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdyqAaZDKHXg4Ahi7VENThQ": {
+      "video_id": "p4RLkIaw-Qc",
+      "title": "#1【ドラゴンクエストVII Reimagined】DQ7完全初見!ずっとプレイしてみたかった7の世界へ🔥【白銀ノエル/ホロライブ】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dragon_Quest",
+      "published_at": "2026-05-01T15:19:58.000Z",
+      "available_at": "2026-05-02T02:00:00.000Z",
+      "start_scheduled": "2026-05-02T02:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+        "name": "Noel Ch. 白銀ノエル",
+        "english_name": "Shirogane Noel",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
