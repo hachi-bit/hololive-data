@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777713799,
+  "cached_at": 1777713867,
   "lives": {
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
       "video_id": "HBNuE2Vx0Rs",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-02T04:01:04.000Z",
       "start_scheduled": "2026-05-02T04:00:00.000Z",
       "start_actual": "2026-05-02T04:01:04.000Z",
-      "live_viewers": 5303,
+      "live_viewers": 5108,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-02T08:00:06.000Z",
       "start_scheduled": "2026-05-02T08:00:00.000Z",
       "start_actual": "2026-05-02T08:00:06.000Z",
-      "live_viewers": 2704,
+      "live_viewers": 2569,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-02T08:08:57.000Z",
       "start_scheduled": "2026-05-02T08:10:00.000Z",
       "start_actual": "2026-05-02T08:08:57.000Z",
-      "live_viewers": 495,
+      "live_viewers": 487,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-02T08:59:46.000Z",
       "start_scheduled": "2026-05-02T09:00:00.000Z",
       "start_actual": "2026-05-02T08:59:46.000Z",
-      "live_viewers": 2465,
+      "live_viewers": 2558,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-02T09:00:33.000Z",
       "start_scheduled": "2026-05-02T09:00:00.000Z",
       "start_actual": "2026-05-02T09:00:33.000Z",
-      "live_viewers": 12888,
+      "live_viewers": 11730,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-02T09:01:12.000Z",
       "start_scheduled": "2026-05-02T09:00:00.000Z",
       "start_actual": "2026-05-02T09:01:12.000Z",
-      "live_viewers": 7718,
+      "live_viewers": 8034,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -228,9 +228,10 @@
       "status": "live",
       "topic_id": "Windrose",
       "published_at": "2026-05-02T09:07:03.000Z",
-      "available_at": "2026-05-02T09:15:00.000Z",
+      "available_at": "2026-05-02T09:20:37.000Z",
       "start_scheduled": "2026-05-02T09:15:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-02T09:20:37.000Z",
+      "live_viewers": 107,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
