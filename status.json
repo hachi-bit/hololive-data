@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777709419,
+  "cached_at": 1777709479,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "E_ELTT9EHrw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-02T03:00:17.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:00:17.000Z",
-      "live_viewers": 14684,
+      "live_viewers": 14401,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-02T03:01:32.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:01:32.000Z",
-      "live_viewers": 6000,
+      "live_viewers": 6064,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-02T04:02:31.000Z",
       "start_scheduled": "2026-05-02T04:00:00.000Z",
       "start_actual": "2026-05-02T04:02:31.000Z",
-      "live_viewers": 23269,
+      "live_viewers": 23170,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-02T08:00:06.000Z",
       "start_scheduled": "2026-05-02T08:00:00.000Z",
       "start_actual": "2026-05-02T08:00:06.000Z",
-      "live_viewers": 2620,
+      "live_viewers": 2975,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -199,26 +199,6 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "oo-GkYYPEBs",
-      "title": "【WINDROSE】次の冒険は海賊だ!【岸堂天真/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Windrose",
-      "published_at": "2026-05-02T07:18:32.000Z",
-      "available_at": "2026-05-02T08:02:27.000Z",
-      "start_scheduled": "2026-05-02T08:00:00.000Z",
-      "start_actual": "2026-05-02T08:02:27.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
@@ -231,7 +211,7 @@
       "available_at": "2026-05-02T08:04:17.000Z",
       "start_scheduled": "2026-05-02T08:00:00.000Z",
       "start_actual": "2026-05-02T08:04:17.000Z",
-      "live_viewers": 2393,
+      "live_viewers": 2770,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -239,6 +219,26 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGNI4MENvnsymYjKiZwv9eg": {
+      "video_id": "Lbh3u5OTcAo",
+      "title": "【WINDROSE】次の冒険は海賊だ！【岸堂天真/烏有/アステル/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Windrose",
+      "published_at": "2026-05-02T08:08:26.000Z",
+      "available_at": "2026-05-02T08:08:57.000Z",
+      "start_scheduled": "2026-05-02T08:10:00.000Z",
+      "start_actual": "2026-05-02T08:08:57.000Z",
+      "live_viewers": 5,
+      "channel": {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "english_name": "Kishido Temma",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
