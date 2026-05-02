@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777708459,
+  "cached_at": 1777708519,
   "lives": {
-    "UCKuwxopq9c3cldzSOo4ceSA": {
-      "video_id": "wD0dDQJkaQQ",
-      "title": "【APEX】朝活APEX部(ガチ起床)【八神ツクモ/ネオポルテ】→アステル・レダ様、xnfri様",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "apex",
-      "published_at": "2026-05-02T01:27:27.000Z",
-      "available_at": "2026-05-02T01:30:02.000Z",
-      "start_scheduled": "2026-05-02T01:30:00.000Z",
-      "start_actual": "2026-05-02T01:30:02.000Z",
-      "live_viewers": 78,
-      "channel": {
-        "id": "UCKuwxopq9c3cldzSOo4ceSA",
-        "name": "八神ツクモ / Yagami Tsukumo",
-        "english_name": "Yagami Tsukumo",
-        "org": "Neo-Porte",
-        "suborg": "0k5th Generation",
-        "photo": "https://yt3.ggpht.com/7a7QvD0AdkwTmfxFCkcUZbQ18PTsDW0P9LGWmB36pTV4peSqE6_1ouO20tvwtvqpTzqn2bOHag=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "D1jv44h1i-w",
       "title": "【 APEX 】すべてのエペンゲリオンに、ありがとう / アステル",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-02T01:33:31.000Z",
       "start_scheduled": "2026-05-02T01:30:00.000Z",
       "start_actual": "2026-05-02T01:33:31.000Z",
-      "live_viewers": 617,
+      "live_viewers": 533,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-02T02:00:44.000Z",
       "start_scheduled": "2026-05-02T02:00:00.000Z",
       "start_actual": "2026-05-02T02:00:44.000Z",
-      "live_viewers": 4093,
+      "live_viewers": 3259,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-02T03:00:17.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:00:17.000Z",
-      "live_viewers": 14824,
+      "live_viewers": 14752,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-02T04:01:04.000Z",
       "start_scheduled": "2026-05-02T04:00:00.000Z",
       "start_actual": "2026-05-02T04:01:04.000Z",
-      "live_viewers": 5109,
+      "live_viewers": 5122,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-02T05:00:25.000Z",
       "start_scheduled": "2026-05-02T05:00:00.000Z",
       "start_actual": "2026-05-02T05:00:25.000Z",
-      "live_viewers": 5855,
+      "live_viewers": 4888,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
