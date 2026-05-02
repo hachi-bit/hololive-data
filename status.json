@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777734799,
+  "cached_at": 1777734859,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "pH7eXdxGwec",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-02T10:13:36.000Z",
       "start_scheduled": "2026-05-02T10:00:00.000Z",
       "start_actual": "2026-05-02T10:13:36.000Z",
-      "live_viewers": 8341,
+      "live_viewers": 8103,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-02T12:00:21.000Z",
       "start_scheduled": "2026-05-02T12:00:00.000Z",
       "start_actual": "2026-05-02T12:00:21.000Z",
-      "live_viewers": 2155,
+      "live_viewers": 2150,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-02T12:31:26.000Z",
       "start_scheduled": "2026-05-02T12:30:00.000Z",
       "start_actual": "2026-05-02T12:31:26.000Z",
-      "live_viewers": 17036,
+      "live_viewers": 17158,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-02T13:00:01.000Z",
       "start_scheduled": "2026-05-02T13:00:00.000Z",
       "start_actual": "2026-05-02T13:00:01.000Z",
-      "live_viewers": 1015,
+      "live_viewers": 1082,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-02T14:39:08.000Z",
       "start_scheduled": "2026-05-02T14:30:00.000Z",
       "start_actual": "2026-05-02T14:39:08.000Z",
-      "live_viewers": 11781,
+      "live_viewers": 11567,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-02T14:44:59.000Z",
       "start_scheduled": "2026-05-02T14:45:00.000Z",
       "start_actual": "2026-05-02T14:44:59.000Z",
-      "live_viewers": 4708,
+      "live_viewers": 4585,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-02T14:50:53.000Z",
       "start_scheduled": "2026-05-02T14:45:00.000Z",
       "start_actual": "2026-05-02T14:50:53.000Z",
-      "live_viewers": 8378,
+      "live_viewers": 8244,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
