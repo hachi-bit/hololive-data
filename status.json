@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777761439,
+  "cached_at": 1777761499,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "nkEDIOKVD3Q",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-02T19:44:17.000Z",
       "start_scheduled": "2026-05-02T19:45:00.000Z",
       "start_actual": "2026-05-02T19:44:17.000Z",
-      "live_viewers": 9055,
+      "live_viewers": 9089,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCjLEmnpCNeisMxy134KPwWw": {
-      "video_id": "6JZfHSei4Bo",
-      "title": "【Watchalong | LCS】C9 vs DIG, C9 FOR THE WIN !!! #LCSCostream",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-05-02T18:16:03.000Z",
-      "available_at": "2026-05-02T20:01:38.000Z",
-      "start_scheduled": "2026-05-02T20:00:00.000Z",
-      "start_actual": "2026-05-02T20:01:38.000Z",
-      "live_viewers": 980,
-      "channel": {
-        "id": "UCjLEmnpCNeisMxy134KPwWw",
-        "name": "Kobo Kanaeru Ch. hololive-ID",
-        "english_name": "Kobo Kanaeru",
-        "org": "Hololive",
-        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-        "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCDHABijvPBnJm7F-KlNME3w": {
