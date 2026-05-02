@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777705279,
+  "cached_at": 1777705339,
   "lives": {
     "UCKuwxopq9c3cldzSOo4ceSA": {
       "video_id": "wD0dDQJkaQQ",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-02T02:00:44.000Z",
       "start_scheduled": "2026-05-02T02:00:00.000Z",
       "start_actual": "2026-05-02T02:00:44.000Z",
-      "live_viewers": 5784,
+      "live_viewers": 5788,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -59,46 +59,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1Z_ZyF860JM9ZrhqswGUvw": {
-      "video_id": "03kDrGjkdLw",
-      "title": "Our imaginations combined...what can we make?【MAPPA IMPERIUM】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-02T00:59:09.000Z",
-      "available_at": "2026-05-02T02:10:07.000Z",
-      "start_scheduled": "2026-05-02T02:00:00.000Z",
-      "start_actual": "2026-05-02T02:10:07.000Z",
-      "live_viewers": 76,
-      "channel": {
-        "id": "UC1Z_ZyF860JM9ZrhqswGUvw",
-        "name": "Lan Philia 【Aegis-Link】",
-        "english_name": "Lan Philia",
-        "org": "Aegis-Link",
-        "suborg": "1a1st Generation SYN//ED",
-        "photo": "https://yt3.ggpht.com/55vKKG6JHsnRjEgjXABpu62GKODe0uacALwOR5FVb1PEHiIN9rrUnwXGQj8OHAqxNAe2n3MrPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCajbFh6e_R8QZdHAMbbi4rQ": {
-      "video_id": "-IL8eNXmeq0",
-      "title": "World Building 101: w/ Lan Philia and PorcelainMaid!【MAPPA IMPERIUM】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-01T21:01:10.000Z",
-      "available_at": "2026-05-02T02:11:31.000Z",
-      "start_scheduled": "2026-05-02T02:00:00.000Z",
-      "start_actual": "2026-05-02T02:11:31.000Z",
-      "live_viewers": 592,
-      "channel": {
-        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-        "english_name": "Crimzon Ruze",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1DCedRgGHBdm81E1llLhOQ": {
@@ -151,7 +111,7 @@
       "available_at": "2026-05-02T03:01:37.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:01:37.000Z",
-      "live_viewers": 3510,
+      "live_viewers": 3532,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -171,7 +131,7 @@
       "available_at": "2026-05-02T03:03:58.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:03:58.000Z",
-      "live_viewers": 6178,
+      "live_viewers": 6054,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -231,7 +191,7 @@
       "available_at": "2026-05-02T04:02:31.000Z",
       "start_scheduled": "2026-05-02T04:00:00.000Z",
       "start_actual": "2026-05-02T04:02:31.000Z",
-      "live_viewers": 20656,
+      "live_viewers": 20539,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -251,7 +211,7 @@
       "available_at": "2026-05-02T05:00:25.000Z",
       "start_scheduled": "2026-05-02T05:00:00.000Z",
       "start_actual": "2026-05-02T05:00:25.000Z",
-      "live_viewers": 4239,
+      "live_viewers": 4242,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -271,7 +231,7 @@
       "available_at": "2026-05-02T05:44:40.000Z",
       "start_scheduled": "2026-05-02T05:45:00.000Z",
       "start_actual": "2026-05-02T05:44:40.000Z",
-      "live_viewers": 1360,
+      "live_viewers": 1356,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -299,6 +259,25 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCWQtYtq9EOB4-I5P-3fh8lA": {
+      "video_id": "cM9H5jKzU1g",
+      "title": "【 耐久歌枠 】GW企画!80万人いけるかな?!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-02T05:24:31.000Z",
+      "available_at": "2026-05-02T07:00:00.000Z",
+      "start_scheduled": "2026-05-02T07:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "english_name": "Otonose Kanade",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
