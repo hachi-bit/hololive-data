@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777710739,
+  "cached_at": 1777710800,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "E_ELTT9EHrw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-02T03:00:17.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:00:17.000Z",
-      "live_viewers": 14379,
+      "live_viewers": 14236,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -121,26 +121,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCYz_5n-uDuChHtLo7My1HnQ": {
-      "video_id": "00NR7YNDHS0",
-      "title": "【Tomodachi Life: Living the Dream】 Pt.11: THERE'S A FIGHT IN MY ISLAND 【Kureiji Ollie】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-01T12:51:20.000Z",
-      "available_at": "2026-05-02T05:44:40.000Z",
-      "start_scheduled": "2026-05-02T05:45:00.000Z",
-      "start_actual": "2026-05-02T05:44:40.000Z",
-      "live_viewers": 1475,
-      "channel": {
-        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
-        "name": "Kureiji Ollie Ch. hololive-ID",
-        "english_name": "Kureiji Ollie",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCWQtYtq9EOB4-I5P-3fh8lA": {
       "video_id": "cM9H5jKzU1g",
       "title": "【 耐久歌枠 】GW企画!80万人いけるかな?!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-02T07:00:59.000Z",
       "start_scheduled": "2026-05-02T07:00:00.000Z",
       "start_actual": "2026-05-02T07:00:59.000Z",
-      "live_viewers": 9233,
+      "live_viewers": 9275,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-02T08:04:17.000Z",
       "start_scheduled": "2026-05-02T08:00:00.000Z",
       "start_actual": "2026-05-02T08:04:17.000Z",
-      "live_viewers": 4966,
+      "live_viewers": 5045,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-02T08:08:57.000Z",
       "start_scheduled": "2026-05-02T08:10:00.000Z",
       "start_actual": "2026-05-02T08:08:57.000Z",
-      "live_viewers": 385,
+      "live_viewers": 389,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
