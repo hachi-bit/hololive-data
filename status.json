@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777685779,
+  "cached_at": 1777685839,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "-VZxLwYOa-8",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-02T01:01:24.000Z",
       "start_scheduled": "2026-05-02T01:00:00.000Z",
       "start_actual": "2026-05-02T01:01:24.000Z",
-      "live_viewers": 26112,
+      "live_viewers": 26974,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-02T01:01:25.000Z",
       "start_scheduled": "2026-05-02T01:00:00.000Z",
       "start_actual": "2026-05-02T01:01:25.000Z",
-      "live_viewers": 2949,
+      "live_viewers": 2980,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-02T01:07:34.000Z",
       "start_scheduled": "2026-05-02T01:00:00.000Z",
       "start_actual": "2026-05-02T01:07:34.000Z",
-      "live_viewers": 240,
+      "live_viewers": 233,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -141,6 +141,26 @@
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCKuwxopq9c3cldzSOo4ceSA": {
+      "video_id": "wD0dDQJkaQQ",
+      "title": "【APEX】朝活APEX部(ガチ起床)【八神ツクモ/ネオポルテ】→アステル・レダ様、xnfri様",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "apex",
+      "published_at": "2026-05-02T01:27:27.000Z",
+      "available_at": "2026-05-02T01:30:02.000Z",
+      "start_scheduled": "2026-05-02T01:30:00.000Z",
+      "start_actual": "2026-05-02T01:30:02.000Z",
+      "live_viewers": 55,
+      "channel": {
+        "id": "UCKuwxopq9c3cldzSOo4ceSA",
+        "name": "八神ツクモ / Yagami Tsukumo",
+        "english_name": "Yagami Tsukumo",
+        "org": "Neo-Porte",
+        "suborg": "0k5th Generation",
+        "photo": "https://yt3.ggpht.com/7a7QvD0AdkwTmfxFCkcUZbQ18PTsDW0P9LGWmB36pTV4peSqE6_1ouO20tvwtvqpTzqn2bOHag=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "G4HU50oIbzI",
       "title": "【雑談】起きたので配信まで配信する男【夕刻ロベル/ホロスターズ】",
@@ -148,9 +168,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-05-02T01:26:36.000Z",
-      "available_at": "2026-05-02T01:26:35.000Z",
+      "available_at": "2026-05-02T01:31:37.000Z",
       "start_scheduled": "2026-05-02T01:26:35.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-02T01:31:37.000Z",
+      "live_viewers": 469,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -167,9 +188,10 @@
       "status": "live",
       "topic_id": "apex",
       "published_at": "2026-05-02T01:25:58.000Z",
-      "available_at": "2026-05-02T01:30:00.000Z",
+      "available_at": "2026-05-02T01:33:31.000Z",
       "start_scheduled": "2026-05-02T01:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-02T01:33:31.000Z",
+      "live_viewers": 167,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -177,26 +199,6 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKuwxopq9c3cldzSOo4ceSA": {
-      "video_id": "wD0dDQJkaQQ",
-      "title": "【APEX】朝活APEX部(ガチ起床)【八神ツクモ/ネオポルテ】→アステル・レダ様、xnfri様",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "apex",
-      "published_at": "2026-05-02T01:27:27.000Z",
-      "available_at": "2026-05-02T01:30:02.000Z",
-      "start_scheduled": "2026-05-02T01:30:00.000Z",
-      "start_actual": "2026-05-02T01:30:02.000Z",
-      "live_viewers": 39,
-      "channel": {
-        "id": "UCKuwxopq9c3cldzSOo4ceSA",
-        "name": "八神ツクモ / Yagami Tsukumo",
-        "english_name": "Yagami Tsukumo",
-        "org": "Neo-Porte",
-        "suborg": "0k5th Generation",
-        "photo": "https://yt3.ggpht.com/7a7QvD0AdkwTmfxFCkcUZbQ18PTsDW0P9LGWmB36pTV4peSqE6_1ouO20tvwtvqpTzqn2bOHag=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
