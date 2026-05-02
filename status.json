@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777708279,
+  "cached_at": 1777708339,
   "lives": {
     "UCKuwxopq9c3cldzSOo4ceSA": {
       "video_id": "wD0dDQJkaQQ",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-02T03:00:17.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:00:17.000Z",
-      "live_viewers": 14843,
+      "live_viewers": 14824,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-02T03:01:32.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:01:32.000Z",
-      "live_viewers": 5865,
+      "live_viewers": 5871,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-02T03:03:58.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:03:58.000Z",
-      "live_viewers": 5783,
+      "live_viewers": 5749,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-02T04:00:15.000Z",
       "start_scheduled": "2026-05-02T04:00:00.000Z",
       "start_actual": "2026-05-02T04:00:15.000Z",
-      "live_viewers": 2142,
+      "live_viewers": 2026,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-02T04:02:31.000Z",
       "start_scheduled": "2026-05-02T04:00:00.000Z",
       "start_actual": "2026-05-02T04:02:31.000Z",
-      "live_viewers": 22703,
+      "live_viewers": 23029,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-02T07:00:59.000Z",
       "start_scheduled": "2026-05-02T07:00:00.000Z",
       "start_actual": "2026-05-02T07:00:59.000Z",
-      "live_viewers": 8430,
+      "live_viewers": 8450,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
