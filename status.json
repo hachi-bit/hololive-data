@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777700059,
+  "cached_at": 1777700119,
   "lives": {
     "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
       "video_id": "fTpIkuaIgTw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-02T01:01:25.000Z",
       "start_scheduled": "2026-05-02T01:00:00.000Z",
       "start_actual": "2026-05-02T01:01:25.000Z",
-      "live_viewers": 3974,
+      "live_viewers": 3844,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-02T02:00:44.000Z",
       "start_scheduled": "2026-05-02T02:00:00.000Z",
       "start_actual": "2026-05-02T02:00:44.000Z",
-      "live_viewers": 6450,
+      "live_viewers": 6408,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-02T03:00:17.000Z",
       "start_scheduled": "2026-05-02T03:00:00.000Z",
       "start_actual": "2026-05-02T03:00:17.000Z",
-      "live_viewers": 13827,
+      "live_viewers": 13929,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -310,7 +310,7 @@
       "available_at": "2026-05-02T04:02:31.000Z",
       "start_scheduled": "2026-05-02T04:00:00.000Z",
       "start_actual": "2026-05-02T04:02:31.000Z",
-      "live_viewers": 18362,
+      "live_viewers": 18394,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -330,7 +330,7 @@
       "available_at": "2026-05-02T05:00:25.000Z",
       "start_scheduled": "2026-05-02T05:00:00.000Z",
       "start_actual": "2026-05-02T05:00:25.000Z",
-      "live_viewers": 4114,
+      "live_viewers": 3459,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
