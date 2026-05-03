@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777842079,
+  "cached_at": 1777842138,
   "lives": {
     "UCHsx4Hqa-1ORjQTh9TYDhww": {
       "video_id": "aMbbAFeO8yA",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-03T16:31:14.000Z",
       "start_scheduled": "2026-05-03T16:30:00.000Z",
       "start_actual": "2026-05-03T16:31:14.000Z",
-      "live_viewers": 5682,
+      "live_viewers": 5303,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -19,6 +19,25 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCDHABijvPBnJm7F-KlNME3w": {
+      "video_id": "42Ydy0GlKmo",
+      "title": "【GREMBERS WATCHALONG】The Good Place S2 EP1-7",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-03T10:20:20.000Z",
+      "available_at": "2026-05-03T21:00:00.000Z",
+      "start_scheduled": "2026-05-03T21:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCDHABijvPBnJm7F-KlNME3w",
+        "name": "Gigi Murin Ch. hololive-EN",
+        "english_name": "Gigi Murin",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
