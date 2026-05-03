@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777780519,
+  "cached_at": 1777780579,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "yvWlzZBjzXw",
@@ -21,26 +21,6 @@
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdyqAaZDKHXg4Ahi7VENThQ": {
-      "video_id": "6WfPVHlY_QQ",
-      "title": "【朝活雑談】日曜10時はさんでーまっする!新しい家族のお話も!【白銀ノエル/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "morning",
-      "published_at": "2026-05-02T11:58:53.000Z",
-      "available_at": "2026-05-03T01:00:45.000Z",
-      "start_scheduled": "2026-05-03T01:00:00.000Z",
-      "start_actual": "2026-05-03T01:00:45.000Z",
-      "live_viewers": 6910,
-      "channel": {
-        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-        "name": "Noel Ch. 白銀ノエル",
-        "english_name": "Shirogane Noel",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "K5tAD9J2kU8",
       "title": "【 ARCHIVED KARAOKE】who want me? 👀👇#LMK ! 💯 | 1st Karaoke in New Japan Apartment!",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-03T01:37:56.000Z",
       "start_scheduled": "2026-05-03T01:30:00.000Z",
       "start_actual": "2026-05-03T01:37:56.000Z",
-      "live_viewers": 471,
+      "live_viewers": 448,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-03T03:00:39.000Z",
       "start_scheduled": "2026-05-03T03:00:00.000Z",
       "start_actual": "2026-05-03T03:00:39.000Z",
-      "live_viewers": 974,
+      "live_viewers": 976,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-03T03:00:41.000Z",
       "start_scheduled": "2026-05-03T03:00:00.000Z",
       "start_actual": "2026-05-03T03:00:41.000Z",
-      "live_viewers": 5367,
+      "live_viewers": 5356,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-03T03:05:23.000Z",
       "start_scheduled": "2026-05-03T03:00:00.000Z",
       "start_actual": "2026-05-03T03:05:23.000Z",
-      "live_viewers": 9011,
+      "live_viewers": 9246,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
