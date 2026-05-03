@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777792939,
+  "cached_at": 1777792999,
   "lives": {
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "SYBeW0REd80",
-      "title": "【WINDROSE】海に出れるようになったところから!Part2【岸堂天真/烏有/アステル/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Windrose",
-      "published_at": "2026-05-02T17:23:13.000Z",
-      "available_at": "2026-05-03T04:00:09.000Z",
-      "start_scheduled": "2026-05-03T04:00:00.000Z",
-      "start_actual": "2026-05-03T04:00:09.000Z",
-      "live_viewers": 487,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCvzGlP9oQwU--Y0r9id_jnA": {
       "video_id": "KOjCD4awzAA",
       "title": "【#12】LOST JUDGMENT：裁かれざる記憶【※ネタバレあり】",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-03T04:03:22.000Z",
       "start_scheduled": "2026-05-03T04:00:00.000Z",
       "start_actual": "2026-05-03T04:03:22.000Z",
-      "live_viewers": 23607,
+      "live_viewers": 24826,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-03T04:30:03.000Z",
       "start_scheduled": "2026-05-03T04:30:00.000Z",
       "start_actual": "2026-05-03T04:30:03.000Z",
-      "live_viewers": 6172,
+      "live_viewers": 6334,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-03T05:00:30.000Z",
       "start_scheduled": "2026-05-03T05:00:00.000Z",
       "start_actual": "2026-05-03T05:00:30.000Z",
-      "live_viewers": 4713,
+      "live_viewers": 4730,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-03T07:02:22.000Z",
       "start_scheduled": "2026-05-03T07:00:00.000Z",
       "start_actual": "2026-05-03T07:02:22.000Z",
-      "live_viewers": 9486,
+      "live_viewers": 9801,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
