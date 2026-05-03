@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777771999,
+  "cached_at": 1777772059,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "nkEDIOKVD3Q",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-03T01:00:45.000Z",
       "start_scheduled": "2026-05-03T01:00:00.000Z",
       "start_actual": "2026-05-03T01:00:45.000Z",
-      "live_viewers": 8951,
+      "live_viewers": 9091,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -59,6 +59,25 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC060r4zABV18vcahAWR1n7w": {
+      "video_id": "K5tAD9J2kU8",
+      "title": "【 ARCHIVED KARAOKE】who want me? 👀👇#LMK ! 💯 | 1st Karaoke in New Japan Apartment!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-04-13T03:30:27.000Z",
+      "available_at": "2026-05-03T01:30:00.000Z",
+      "start_scheduled": "2026-05-03T01:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC060r4zABV18vcahAWR1n7w",
+        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
+        "english_name": "Machina X Flayon",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
