@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777806559,
+  "cached_at": 1777806619,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "OzcvI85xOx8",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-03T09:00:10.000Z",
       "start_scheduled": "2026-05-03T09:00:00.000Z",
       "start_actual": "2026-05-03T09:00:10.000Z",
-      "live_viewers": 61879,
+      "live_viewers": 61827,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-03T11:02:31.000Z",
       "start_scheduled": "2026-05-03T11:00:00.000Z",
       "start_actual": "2026-05-03T11:02:31.000Z",
-      "live_viewers": 2934,
+      "live_viewers": 3501,
       "channel": {
         "id": "UCz89MGFBrAqwJ5xMr5weSuA",
         "name": "伊波ライ / Inami Rai【にじさんじ】",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-03T11:02:44.000Z",
       "start_scheduled": "2026-05-03T11:00:00.000Z",
       "start_actual": "2026-05-03T11:02:44.000Z",
-      "live_viewers": 1215,
+      "live_viewers": 1483,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-03T11:04:25.000Z",
       "start_scheduled": "2026-05-03T11:00:00.000Z",
       "start_actual": "2026-05-03T11:04:25.000Z",
-      "live_viewers": 173,
+      "live_viewers": 170,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-03T11:04:42.000Z",
       "start_scheduled": "2026-05-03T11:00:00.000Z",
       "start_actual": "2026-05-03T11:04:42.000Z",
-      "live_viewers": 236,
+      "live_viewers": 309,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -119,6 +119,26 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChLfthKoUV502J7gU9STArg": {
+      "video_id": "d1JIuIkgZl4",
+      "title": "【スト6】対戦会やるぞ~! w/ VanilLa 鬼ヶ谷テン 伊波ライ アルランディス【STREET FIGHTER6】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-05-03T11:04:42.000Z",
+      "available_at": "2026-05-03T11:06:12.000Z",
+      "start_scheduled": "2026-05-03T11:05:00.000Z",
+      "start_actual": "2026-05-03T11:06:12.000Z",
+      "live_viewers": 448,
+      "channel": {
+        "id": "UChLfthKoUV502J7gU9STArg",
+        "name": "渋谷ハル",
+        "english_name": "Shibuya HAL",
+        "org": "Neo-Porte",
+        "suborg": "0a0th Generation",
+        "photo": "https://yt3.ggpht.com/TdoTY1zdj6MkO4hJEgdjAs3CLqjDFQsWylCeslTVTgUbNO8Zj4METNPE3AJLAxtQZ2XSC7Sq=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
