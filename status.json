@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777795338,
+  "cached_at": 1777795399,
   "lives": {
     "UCvzGlP9oQwU--Y0r9id_jnA": {
       "video_id": "KOjCD4awzAA",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-03T04:30:03.000Z",
       "start_scheduled": "2026-05-03T04:30:00.000Z",
       "start_actual": "2026-05-03T04:30:03.000Z",
-      "live_viewers": 6343,
+      "live_viewers": 6380,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-03T05:00:38.000Z",
       "start_scheduled": "2026-05-03T05:00:00.000Z",
       "start_actual": "2026-05-03T05:00:38.000Z",
-      "live_viewers": 7856,
+      "live_viewers": 8115,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-03T05:00:59.000Z",
       "start_scheduled": "2026-05-03T05:00:00.000Z",
       "start_actual": "2026-05-03T05:00:59.000Z",
-      "live_viewers": 3716,
+      "live_viewers": 3667,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-03T07:02:22.000Z",
       "start_scheduled": "2026-05-03T07:00:00.000Z",
       "start_actual": "2026-05-03T07:02:22.000Z",
-      "live_viewers": 12758,
+      "live_viewers": 12716,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -99,6 +99,26 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAoy6rzhSf4ydcYjJw3WoVg": {
+      "video_id": "VJ4gKO6_51E",
+      "title": "【PRAGMATA】#2  Ajak Anak Jalan Jalan dan Gebukin Robot【 iofi / hololiveID 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PRAGMATA",
+      "published_at": "2026-05-03T05:43:31.000Z",
+      "available_at": "2026-05-03T08:00:25.000Z",
+      "start_scheduled": "2026-05-03T08:00:00.000Z",
+      "start_actual": "2026-05-03T08:00:25.000Z",
+      "live_viewers": 200,
+      "channel": {
+        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+        "name": "Airani Iofifteen Channel hololive-ID",
+        "english_name": "Airani Iofifteen",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
