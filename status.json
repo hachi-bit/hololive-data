@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777810879,
+  "cached_at": 1777810939,
   "lives": {
     "UCz89MGFBrAqwJ5xMr5weSuA": {
       "video_id": "ALPJ63tOrZc",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-03T11:04:25.000Z",
       "start_scheduled": "2026-05-03T11:00:00.000Z",
       "start_actual": "2026-05-03T11:04:25.000Z",
-      "live_viewers": 208,
+      "live_viewers": 216,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-03T11:32:43.000Z",
       "start_scheduled": "2026-05-03T11:30:00.000Z",
       "start_actual": "2026-05-03T11:32:43.000Z",
-      "live_viewers": 1353,
+      "live_viewers": 1334,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-03T12:00:30.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:00:30.000Z",
-      "live_viewers": 3665,
+      "live_viewers": 3776,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-03T12:01:22.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:01:22.000Z",
-      "live_viewers": 182,
+      "live_viewers": 180,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-03T12:02:28.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:02:28.000Z",
-      "live_viewers": 3234,
+      "live_viewers": 3274,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-03T12:02:30.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:02:30.000Z",
-      "live_viewers": 11008,
+      "live_viewers": 11211,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-03T12:02:31.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:02:31.000Z",
-      "live_viewers": 4061,
+      "live_viewers": 4104,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-03T12:02:34.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:02:34.000Z",
-      "live_viewers": 12532,
+      "live_viewers": 12960,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-03T12:02:35.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:02:35.000Z",
-      "live_viewers": 6681,
+      "live_viewers": 6721,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-03T12:02:58.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:02:58.000Z",
-      "live_viewers": 373,
+      "live_viewers": 387,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -311,7 +311,7 @@
       "available_at": "2026-05-03T12:03:05.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:03:05.000Z",
-      "live_viewers": 7867,
+      "live_viewers": 8507,
       "channel": {
         "id": "UC7fk0CB07ly8oSl0aqKkqFg",
         "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -331,7 +331,7 @@
       "available_at": "2026-05-03T12:03:11.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:03:11.000Z",
-      "live_viewers": 25062,
+      "live_viewers": 26209,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -351,7 +351,7 @@
       "available_at": "2026-05-03T12:03:13.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:03:13.000Z",
-      "live_viewers": 3615,
+      "live_viewers": 3634,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -371,7 +371,7 @@
       "available_at": "2026-05-03T12:03:26.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:03:26.000Z",
-      "live_viewers": 7360,
+      "live_viewers": 7456,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
