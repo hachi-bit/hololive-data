@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777802779,
+  "cached_at": 1777802839,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "OzcvI85xOx8",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-03T07:02:22.000Z",
       "start_scheduled": "2026-05-03T07:00:00.000Z",
       "start_actual": "2026-05-03T07:02:22.000Z",
-      "live_viewers": 14735,
+      "live_viewers": 14773,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-03T08:00:25.000Z",
       "start_scheduled": "2026-05-03T08:00:00.000Z",
       "start_actual": "2026-05-03T08:00:25.000Z",
-      "live_viewers": 1137,
+      "live_viewers": 1158,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-03T09:00:10.000Z",
       "start_scheduled": "2026-05-03T09:00:00.000Z",
       "start_actual": "2026-05-03T09:00:10.000Z",
-      "live_viewers": 58337,
+      "live_viewers": 61585,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -63,7 +63,7 @@
     },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
       "video_id": "D1FFEvNBCRQ",
-      "title": "革命道中 - On The Way  / 角巻わため(Cover)",
+      "title": "革命道中 - On The Way / 角巻わため(Cover)",
       "type": "stream",
       "status": "live",
       "topic_id": "Music_Cover",
