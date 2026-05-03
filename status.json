@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777806259,
+  "cached_at": 1777806319,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "OzcvI85xOx8",
@@ -41,25 +41,6 @@
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCz89MGFBrAqwJ5xMr5weSuA": {
-      "video_id": "ALPJ63tOrZc",
-      "title": "【 スト6 】対戦会とな 【 伊波ライ/にじさんじ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-05-03T10:23:59.000Z",
-      "available_at": "2026-05-03T11:00:00.000Z",
-      "start_scheduled": "2026-05-03T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCz89MGFBrAqwJ5xMr5weSuA",
-        "name": "伊波ライ / Inami Rai【にじさんじ】",
-        "english_name": "Inami Rai",
-        "org": "Nijisanji",
-        "suborg": "1sDytica",
-        "photo": "https://yt3.ggpht.com/eu_JpkZlswVvvT-d_mkQEP-SIv4Z31zM04ZOxT2scQFneMUjGGbQ6h9snLC39G8F2CcfVL9bndQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCv3EicDtxObcZZmnFcHvNnw": {
       "video_id": "f1xSgCi1y3M",
       "title": "【スト6】対戦会!!!!!!Cマノンとどこまでやれるか!!!!【鬼ヶ谷テン/ネオポルテ】",
@@ -79,25 +60,6 @@
         "photo": "https://yt3.ggpht.com/ApKOz7sH6YpKWtzBQVaZGVc9N4KHJSlT3MUEVukFphSTTnJMEl_dplx6b3EI5n1pW_heDH4aCQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCKeAhJvy8zgXWbh9duVjIaQ": {
-      "video_id": "iVbf6ZFotlQ",
-      "title": "【ストリートファイター6】今日の対戦会は濃い【アルランディス/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-05-03T08:09:36.000Z",
-      "available_at": "2026-05-03T11:00:00.000Z",
-      "start_scheduled": "2026-05-03T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
-        "name": "Aruran Ch. アルランディス",
-        "english_name": "Arurandeisu",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCc88OV45ICgHbn3ZqLLb52w": {
       "video_id": "yk_ozJK6hHw",
       "title": "気まずいマシュマロ3つで即終了 - 夜十神封魔/ホロスターズ",
@@ -115,6 +77,46 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCz89MGFBrAqwJ5xMr5weSuA": {
+      "video_id": "ALPJ63tOrZc",
+      "title": "【 スト6 】対戦会とな 【 伊波ライ/にじさんじ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-05-03T10:23:59.000Z",
+      "available_at": "2026-05-03T11:02:31.000Z",
+      "start_scheduled": "2026-05-03T11:00:00.000Z",
+      "start_actual": "2026-05-03T11:02:31.000Z",
+      "live_viewers": 1467,
+      "channel": {
+        "id": "UCz89MGFBrAqwJ5xMr5weSuA",
+        "name": "伊波ライ / Inami Rai【にじさんじ】",
+        "english_name": "Inami Rai",
+        "org": "Nijisanji",
+        "suborg": "1sDytica",
+        "photo": "https://yt3.ggpht.com/eu_JpkZlswVvvT-d_mkQEP-SIv4Z31zM04ZOxT2scQFneMUjGGbQ6h9snLC39G8F2CcfVL9bndQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKeAhJvy8zgXWbh9duVjIaQ": {
+      "video_id": "iVbf6ZFotlQ",
+      "title": "【ストリートファイター6】今日の対戦会は濃い【アルランディス/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-05-03T08:09:36.000Z",
+      "available_at": "2026-05-03T11:02:44.000Z",
+      "start_scheduled": "2026-05-03T11:00:00.000Z",
+      "start_actual": "2026-05-03T11:02:44.000Z",
+      "live_viewers": 489,
+      "channel": {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "english_name": "Arurandeisu",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
