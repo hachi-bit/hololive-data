@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777772418,
+  "cached_at": 1777772480,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "nkEDIOKVD3Q",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-02T19:44:17.000Z",
       "start_scheduled": "2026-05-02T19:45:00.000Z",
       "start_actual": "2026-05-02T19:44:17.000Z",
-      "live_viewers": 6118,
+      "live_viewers": 5898,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -61,25 +61,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "K5tAD9J2kU8",
-      "title": "【 ARCHIVED KARAOKE】who want me? 👀👇#LMK ! 💯 | 1st Karaoke in New Japan Apartment!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-04-13T03:30:27.000Z",
-      "available_at": "2026-05-03T01:30:00.000Z",
-      "start_scheduled": "2026-05-03T01:30:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC060r4zABV18vcahAWR1n7w",
-        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-        "english_name": "Machina X Flayon",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCjk2nKmHzgH5Xy-C5qYRd5A": {
       "video_id": "7ZjHPXhPdXw",
       "title": "【歌枠 KARAOKE】縦型歌雑談〜❕【水宮枢/ホロライブDEV_IS】",
@@ -90,7 +71,7 @@
       "available_at": "2026-05-03T01:35:29.000Z",
       "start_scheduled": "2026-05-03T01:35:11.000Z",
       "start_actual": "2026-05-03T01:35:29.000Z",
-      "live_viewers": 690,
+      "live_viewers": 1307,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -98,6 +79,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC060r4zABV18vcahAWR1n7w": {
+      "video_id": "K5tAD9J2kU8",
+      "title": "【 ARCHIVED KARAOKE】who want me? 👀👇#LMK ! 💯 | 1st Karaoke in New Japan Apartment!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-04-13T03:30:27.000Z",
+      "available_at": "2026-05-03T01:37:56.000Z",
+      "start_scheduled": "2026-05-03T01:30:00.000Z",
+      "start_actual": "2026-05-03T01:37:56.000Z",
+      "live_viewers": 240,
+      "channel": {
+        "id": "UC060r4zABV18vcahAWR1n7w",
+        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
+        "english_name": "Machina X Flayon",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
