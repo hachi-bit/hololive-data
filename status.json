@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777817419,
+  "cached_at": 1777817479,
   "lives": {
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
       "video_id": "iVbf6ZFotlQ",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-03T12:00:03.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:00:03.000Z",
-      "live_viewers": 2023,
+      "live_viewers": 2178,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-03T12:02:34.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:02:34.000Z",
-      "live_viewers": 20438,
+      "live_viewers": 21094,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-03T12:02:58.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:02:58.000Z",
-      "live_viewers": 555,
+      "live_viewers": 564,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -161,26 +161,6 @@
         "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "dzxODMI-G0U",
-      "title": "【メンバー限定】雑談とかスケジュール決めとか。【花咲みやび/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-03T11:10:55.000Z",
-      "available_at": "2026-05-03T13:01:37.000Z",
-      "start_scheduled": "2026-05-03T13:00:00.000Z",
-      "start_actual": "2026-05-03T13:01:37.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC0TXe_LYZ4scaW2XMyi5_kw": {
       "video_id": "YOKDYhjl_Rs",
       "title": "【BIOHAZARD RE:3】完全初見!バイオハザード RE:3 #4【ホロライブ / AZKi】",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-03T13:01:50.000Z",
       "start_scheduled": "2026-05-03T13:00:00.000Z",
       "start_actual": "2026-05-03T13:01:50.000Z",
-      "live_viewers": 14058,
+      "live_viewers": 14128,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-03T13:35:57.000Z",
       "start_scheduled": "2026-05-03T13:30:00.000Z",
       "start_actual": "2026-05-03T13:35:57.000Z",
-      "live_viewers": 4521,
+      "live_viewers": 4643,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
