@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777822879,
+  "cached_at": 1777822939,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "yS4gAAQ2l4w",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-03T12:00:30.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:00:30.000Z",
-      "live_viewers": 7698,
+      "live_viewers": 8132,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvInZx9h3jC2JzsIzoOebWg": {
-      "video_id": "TFLmkoFNVQQ",
-      "title": "【KuloNiku: Bowl Up!】熱血料理人ですよろしくお願いします【不知火フレア/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "KuloNiku",
-      "published_at": "2026-05-03T12:26:03.000Z",
-      "available_at": "2026-05-03T13:35:57.000Z",
-      "start_scheduled": "2026-05-03T13:30:00.000Z",
-      "start_actual": "2026-05-03T13:35:57.000Z",
-      "live_viewers": 6292,
-      "channel": {
-        "id": "UCvInZx9h3jC2JzsIzoOebWg",
-        "name": "Flare Ch. 不知火フレア",
-        "english_name": "Shiranui Flare",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
