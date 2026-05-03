@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777815018,
+  "cached_at": 1777815081,
   "lives": {
     "UCz89MGFBrAqwJ5xMr5weSuA": {
       "video_id": "ALPJ63tOrZc",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-03T11:02:44.000Z",
       "start_scheduled": "2026-05-03T11:00:00.000Z",
       "start_actual": "2026-05-03T11:02:44.000Z",
-      "live_viewers": 1375,
+      "live_viewers": 1209,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCv3EicDtxObcZZmnFcHvNnw": {
-      "video_id": "f1xSgCi1y3M",
-      "title": "【スト6】対戦会!!!!!!Cマノンとどこまでやれるか!!!!【鬼ヶ谷テン/ネオポルテ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-05-03T10:18:26.000Z",
-      "available_at": "2026-05-03T11:04:25.000Z",
-      "start_scheduled": "2026-05-03T11:00:00.000Z",
-      "start_actual": "2026-05-03T11:04:25.000Z",
-      "live_viewers": 166,
-      "channel": {
-        "id": "UCv3EicDtxObcZZmnFcHvNnw",
-        "name": "鬼ヶ谷 テン / Onigaya Ten",
-        "english_name": "Onigaya Ten",
-        "org": "Neo-Porte",
-        "suborg": "0m6th Generation",
-        "photo": "https://yt3.ggpht.com/ApKOz7sH6YpKWtzBQVaZGVc9N4KHJSlT3MUEVukFphSTTnJMEl_dplx6b3EI5n1pW_heDH4aCQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCc88OV45ICgHbn3ZqLLb52w": {
@@ -71,7 +51,7 @@
       "available_at": "2026-05-03T11:04:42.000Z",
       "start_scheduled": "2026-05-03T11:00:00.000Z",
       "start_actual": "2026-05-03T11:04:42.000Z",
-      "live_viewers": 466,
+      "live_viewers": 465,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -79,26 +59,6 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChLfthKoUV502J7gU9STArg": {
-      "video_id": "d1JIuIkgZl4",
-      "title": "【スト6】対戦会やるぞ~! w/ VanilLa 鬼ヶ谷テン 伊波ライ アルランディス【STREET FIGHTER6】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-05-03T11:04:42.000Z",
-      "available_at": "2026-05-03T11:06:12.000Z",
-      "start_scheduled": "2026-05-03T11:05:00.000Z",
-      "start_actual": "2026-05-03T11:06:12.000Z",
-      "live_viewers": 1020,
-      "channel": {
-        "id": "UChLfthKoUV502J7gU9STArg",
-        "name": "渋谷ハル",
-        "english_name": "Shibuya HAL",
-        "org": "Neo-Porte",
-        "suborg": "0a0th Generation",
-        "photo": "https://yt3.ggpht.com/TdoTY1zdj6MkO4hJEgdjAs3CLqjDFQsWylCeslTVTgUbNO8Zj4METNPE3AJLAxtQZ2XSC7Sq=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
@@ -191,7 +151,7 @@
       "available_at": "2026-05-03T12:02:28.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:02:28.000Z",
-      "live_viewers": 3330,
+      "live_viewers": 3175,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -211,7 +171,7 @@
       "available_at": "2026-05-03T12:02:30.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:02:30.000Z",
-      "live_viewers": 10503,
+      "live_viewers": 9930,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -231,7 +191,7 @@
       "available_at": "2026-05-03T12:02:31.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:02:31.000Z",
-      "live_viewers": 3012,
+      "live_viewers": 2984,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -291,7 +251,7 @@
       "available_at": "2026-05-03T12:02:58.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:02:58.000Z",
-      "live_viewers": 474,
+      "live_viewers": 488,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -351,7 +311,7 @@
       "available_at": "2026-05-03T12:03:13.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:03:13.000Z",
-      "live_viewers": 3675,
+      "live_viewers": 3585,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -431,7 +391,7 @@
       "available_at": "2026-05-03T13:01:50.000Z",
       "start_scheduled": "2026-05-03T13:00:00.000Z",
       "start_actual": "2026-05-03T13:01:50.000Z",
-      "live_viewers": 9374,
+      "live_viewers": 9659,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
