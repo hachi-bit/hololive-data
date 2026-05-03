@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777777399,
+  "cached_at": 1777777459,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "yvWlzZBjzXw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-03T00:16:25.000Z",
       "start_scheduled": "2026-05-03T00:15:00.000Z",
       "start_actual": "2026-05-03T00:16:25.000Z",
-      "live_viewers": 352,
+      "live_viewers": 340,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-03T01:00:45.000Z",
       "start_scheduled": "2026-05-03T01:00:00.000Z",
       "start_actual": "2026-05-03T01:00:45.000Z",
-      "live_viewers": 7895,
+      "live_viewers": 7809,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-03T01:56:31.000Z",
       "start_scheduled": "2026-05-03T02:00:00.000Z",
       "start_actual": "2026-05-03T01:56:31.000Z",
-      "live_viewers": 13473,
+      "live_viewers": 13506,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-03T02:22:32.000Z",
       "start_scheduled": "2026-05-03T02:30:00.000Z",
       "start_actual": "2026-05-03T02:22:32.000Z",
-      "live_viewers": 204,
+      "live_viewers": 206,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
@@ -119,6 +119,85 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCmbs8T6MWqUHP1tIQvSgKrg": {
+      "video_id": "BqDdHcAwAaw",
+      "title": "【No Man's Sky】We Are In Space With @holoen_raorapanthera",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "No_Man's_Sky",
+      "published_at": "2026-05-02T23:04:31.000Z",
+      "available_at": "2026-05-03T03:00:00.000Z",
+      "start_scheduled": "2026-05-03T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
+        "name": "Ouro Kronii Ch. hololive-EN",
+        "english_name": "Ouro Kronii",
+        "org": "Hololive",
+        "suborg": "ibEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "RO13k8Zd1KE",
+      "title": "【告知あり】麺屋ぼたん開店!おにかん様ご来店~!😈🥀 #ししろんのゴールデンなウィーク ②【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "announce",
+      "published_at": "2026-05-03T03:00:07.000Z",
+      "available_at": "2026-05-03T03:00:07.000Z",
+      "start_scheduled": "2026-05-03T03:00:00.000Z",
+      "start_actual": "2026-05-03T03:00:07.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTVSOgYuSWmNAt-lnJPkEEw": {
+      "video_id": "h3oCoNlI_zQ",
+      "title": "【PUBLIC BATH STREAM】LET'S GET TO KNOW EACH OTHER (Q&A)",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-01T03:50:59.000Z",
+      "available_at": "2026-05-03T03:00:39.000Z",
+      "start_scheduled": "2026-05-03T03:00:00.000Z",
+      "start_actual": "2026-05-03T03:00:39.000Z",
+      "live_viewers": 327,
+      "channel": {
+        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
+        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
+        "english_name": "Jurard T Rexford",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC8rcEBzJSleTkf_-agPM20g": {
+      "video_id": "-WHOqyb8dyo",
+      "title": "【RS50】Playing Tokyo XTreme Racer w/ a WHEEL SETUP :O   #sponsored",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tokyo_Xtreme_Racer",
+      "published_at": "2026-05-02T14:55:48.000Z",
+      "available_at": "2026-05-03T03:00:41.000Z",
+      "start_scheduled": "2026-05-03T03:00:00.000Z",
+      "start_actual": "2026-05-03T03:00:41.000Z",
+      "live_viewers": 1241,
+      "channel": {
+        "id": "UC8rcEBzJSleTkf_-agPM20g",
+        "name": "IRyS Ch. hololive-EN",
+        "english_name": "IRyS",
+        "org": "Hololive",
+        "suborg": "iaEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
