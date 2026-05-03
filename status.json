@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777808299,
+  "cached_at": 1777808359,
   "lives": {
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "OzcvI85xOx8",
-      "title": "#7【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ!生まれた意味を知るRPGやる!TALES OF THE ABYSS ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tales_of",
-      "published_at": "2026-05-02T14:30:58.000Z",
-      "available_at": "2026-05-03T07:02:22.000Z",
-      "start_scheduled": "2026-05-03T07:00:00.000Z",
-      "start_actual": "2026-05-03T07:02:22.000Z",
-      "live_viewers": 15862,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "XOovxanG7Pg",
       "title": "【 #ホロDTBトーナメント 】エンジョイ!ホロどうぶつタワーバトルトーナメント3rd✨!!!【鷹嶺ルイ/ホロライブ】",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-03T09:00:10.000Z",
       "start_scheduled": "2026-05-03T09:00:00.000Z",
       "start_actual": "2026-05-03T09:00:10.000Z",
-      "live_viewers": 63978,
+      "live_viewers": 64567,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-03T11:02:31.000Z",
       "start_scheduled": "2026-05-03T11:00:00.000Z",
       "start_actual": "2026-05-03T11:02:31.000Z",
-      "live_viewers": 4246,
+      "live_viewers": 4212,
       "channel": {
         "id": "UCz89MGFBrAqwJ5xMr5weSuA",
         "name": "伊波ライ / Inami Rai【にじさんじ】",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-03T11:04:25.000Z",
       "start_scheduled": "2026-05-03T11:00:00.000Z",
       "start_actual": "2026-05-03T11:04:25.000Z",
-      "live_viewers": 246,
+      "live_viewers": 233,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-03T11:04:42.000Z",
       "start_scheduled": "2026-05-03T11:00:00.000Z",
       "start_actual": "2026-05-03T11:04:42.000Z",
-      "live_viewers": 493,
+      "live_viewers": 532,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-03T11:32:43.000Z",
       "start_scheduled": "2026-05-03T11:30:00.000Z",
       "start_actual": "2026-05-03T11:32:43.000Z",
-      "live_viewers": 286,
+      "live_viewers": 485,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
