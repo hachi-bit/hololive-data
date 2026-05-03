@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777789039,
+  "cached_at": 1777789098,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "K5tAD9J2kU8",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-03T02:22:32.000Z",
       "start_scheduled": "2026-05-03T02:30:00.000Z",
       "start_actual": "2026-05-03T02:22:32.000Z",
-      "live_viewers": 260,
+      "live_viewers": 241,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-03T03:00:39.000Z",
       "start_scheduled": "2026-05-03T03:00:00.000Z",
       "start_actual": "2026-05-03T03:00:39.000Z",
-      "live_viewers": 803,
+      "live_viewers": 873,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "iaEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCmbs8T6MWqUHP1tIQvSgKrg": {
-      "video_id": "BqDdHcAwAaw",
-      "title": "【No Man's Sky】We Are In Space With @holoen_raorapanthera",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "No_Man's_Sky",
-      "published_at": "2026-05-02T23:04:31.000Z",
-      "available_at": "2026-05-03T03:05:23.000Z",
-      "start_scheduled": "2026-05-03T03:00:00.000Z",
-      "start_actual": "2026-05-03T03:05:23.000Z",
-      "live_viewers": 9069,
-      "channel": {
-        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
-        "name": "Ouro Kronii Ch. hololive-EN",
-        "english_name": "Ouro Kronii",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCGNI4MENvnsymYjKiZwv9eg": {
@@ -171,7 +151,7 @@
       "available_at": "2026-05-03T05:00:04.000Z",
       "start_scheduled": "2026-05-03T05:00:00.000Z",
       "start_actual": "2026-05-03T05:00:04.000Z",
-      "live_viewers": 14834,
+      "live_viewers": 15261,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-03T05:00:59.000Z",
       "start_scheduled": "2026-05-03T05:00:00.000Z",
       "start_actual": "2026-05-03T05:00:59.000Z",
-      "live_viewers": 2469,
+      "live_viewers": 2448,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-03T05:01:40.000Z",
       "start_scheduled": "2026-05-03T05:00:00.000Z",
       "start_actual": "2026-05-03T05:01:40.000Z",
-      "live_viewers": 3097,
+      "live_viewers": 3120,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
