@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777805539,
+  "cached_at": 1777805599,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "OzcvI85xOx8",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-03T07:02:22.000Z",
       "start_scheduled": "2026-05-03T07:00:00.000Z",
       "start_actual": "2026-05-03T07:02:22.000Z",
-      "live_viewers": 14775,
+      "live_viewers": 15165,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCAoy6rzhSf4ydcYjJw3WoVg": {
-      "video_id": "VJ4gKO6_51E",
-      "title": "【PRAGMATA】#2  Ajak Anak Jalan Jalan dan Gebukin Robot【 iofi / hololiveID 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "PRAGMATA",
-      "published_at": "2026-05-03T05:43:31.000Z",
-      "available_at": "2026-05-03T08:00:25.000Z",
-      "start_scheduled": "2026-05-03T08:00:00.000Z",
-      "start_actual": "2026-05-03T08:00:25.000Z",
-      "live_viewers": 1201,
-      "channel": {
-        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-        "name": "Airani Iofifteen Channel hololive-ID",
-        "english_name": "Airani Iofifteen",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
@@ -51,7 +31,7 @@
       "available_at": "2026-05-03T09:00:10.000Z",
       "start_scheduled": "2026-05-03T09:00:00.000Z",
       "start_actual": "2026-05-03T09:00:10.000Z",
-      "live_viewers": 62147,
+      "live_viewers": 63101,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
