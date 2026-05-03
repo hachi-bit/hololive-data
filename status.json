@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777772299,
+  "cached_at": 1777772359,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "nkEDIOKVD3Q",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-03T01:00:45.000Z",
       "start_scheduled": "2026-05-03T01:00:00.000Z",
       "start_actual": "2026-05-03T01:00:45.000Z",
-      "live_viewers": 9337,
+      "live_viewers": 9481,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -78,6 +78,26 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
+      "video_id": "7ZjHPXhPdXw",
+      "title": "【歌枠 KARAOKE】縦型歌雑談〜❕【水宮枢/ホロライブDEV_IS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-03T01:35:12.000Z",
+      "available_at": "2026-05-03T01:35:29.000Z",
+      "start_scheduled": "2026-05-03T01:35:11.000Z",
+      "start_actual": "2026-05-03T01:35:29.000Z",
+      "live_viewers": 690,
+      "channel": {
+        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+        "name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "english_name": "Mizumiya Su",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
