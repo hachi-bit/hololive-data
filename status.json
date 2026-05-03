@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777849158,
+  "cached_at": 1777849219,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "42Ydy0GlKmo",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-03T22:03:13.000Z",
       "start_scheduled": "2026-05-03T22:00:00.000Z",
       "start_actual": "2026-05-03T22:03:13.000Z",
-      "live_viewers": 23710,
+      "live_viewers": 23207,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -39,6 +39,26 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9p_lqQ0FEDz327Vgf5JwqA": {
+      "video_id": "P5gI0xAJ17k",
+      "title": "【PORTAL 2】BRAIN CELL STILL ALIVE",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "portal",
+      "published_at": "2026-05-03T15:16:07.000Z",
+      "available_at": "2026-05-03T22:56:20.000Z",
+      "start_scheduled": "2026-05-03T23:00:00.000Z",
+      "start_actual": "2026-05-03T22:56:20.000Z",
+      "live_viewers": 1460,
+      "channel": {
+        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+        "name": "Koseki Bijou Ch. hololive-EN",
+        "english_name": "Koseki Bijou",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
