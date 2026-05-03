@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777823898,
+  "cached_at": 1777823959,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "yS4gAAQ2l4w",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-03T12:02:34.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:02:34.000Z",
-      "live_viewers": 22616,
+      "live_viewers": 23119,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-03T12:02:58.000Z",
       "start_scheduled": "2026-05-03T12:00:00.000Z",
       "start_actual": "2026-05-03T12:02:58.000Z",
-      "live_viewers": 659,
+      "live_viewers": 655,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCYz_5n-uDuChHtLo7My1HnQ": {
-      "video_id": "DEL7A5v344g",
-      "title": "【ZOMILY - FREETALK】 LET'S CHAT BUT NOT ABOUT WORK 【Kureiji Ollie】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-03T07:17:24.000Z",
-      "available_at": "2026-05-03T13:04:19.000Z",
-      "start_scheduled": "2026-05-03T13:00:00.000Z",
-      "start_actual": "2026-05-03T13:04:19.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
-        "name": "Kureiji Ollie Ch. hololive-ID",
-        "english_name": "Kureiji Ollie",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
