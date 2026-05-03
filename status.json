@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777775058,
+  "cached_at": 1777775119,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "yvWlzZBjzXw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-03T00:16:25.000Z",
       "start_scheduled": "2026-05-03T00:15:00.000Z",
       "start_actual": "2026-05-03T00:16:25.000Z",
-      "live_viewers": 358,
+      "live_viewers": 344,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-03T01:00:45.000Z",
       "start_scheduled": "2026-05-03T01:00:00.000Z",
       "start_actual": "2026-05-03T01:00:45.000Z",
-      "live_viewers": 10262,
+      "live_viewers": 9436,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-03T01:35:29.000Z",
       "start_scheduled": "2026-05-03T01:35:11.000Z",
       "start_actual": "2026-05-03T01:35:29.000Z",
-      "live_viewers": 3970,
+      "live_viewers": 3926,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-03T01:37:56.000Z",
       "start_scheduled": "2026-05-03T01:30:00.000Z",
       "start_actual": "2026-05-03T01:37:56.000Z",
-      "live_viewers": 523,
+      "live_viewers": 518,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-03T01:56:31.000Z",
       "start_scheduled": "2026-05-03T02:00:00.000Z",
       "start_actual": "2026-05-03T01:56:31.000Z",
-      "live_viewers": 13129,
+      "live_viewers": 13398,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -99,6 +99,26 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCJv02SHZgav7Mv3V0kBOR8Q": {
+      "video_id": "XyQF9rlr0Hc",
+      "title": "【Resident Evil 3: Nemesis】It's in your blood.",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-04-18T22:36:00.000Z",
+      "available_at": "2026-05-03T02:22:32.000Z",
+      "start_scheduled": "2026-05-03T02:30:00.000Z",
+      "start_actual": "2026-05-03T02:22:32.000Z",
+      "live_viewers": 74,
+      "channel": {
+        "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
+        "name": "Goldbullet Ch. HOLOSTARS-EN",
+        "english_name": "Goldbullet",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
