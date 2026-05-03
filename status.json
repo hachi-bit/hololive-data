@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777778419,
+  "cached_at": 1777778479,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "yvWlzZBjzXw",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-03T01:00:45.000Z",
       "start_scheduled": "2026-05-03T01:00:00.000Z",
       "start_actual": "2026-05-03T01:00:45.000Z",
-      "live_viewers": 7314,
+      "live_viewers": 7213,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
-      "video_id": "7ZjHPXhPdXw",
-      "title": "【歌枠 KARAOKE】縦型歌雑談〜❕【水宮枢/ホロライブDEV_IS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-03T01:35:12.000Z",
-      "available_at": "2026-05-03T01:35:29.000Z",
-      "start_scheduled": "2026-05-03T01:35:11.000Z",
-      "start_actual": "2026-05-03T01:35:29.000Z",
-      "live_viewers": 4336,
-      "channel": {
-        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-        "name": "Su Ch. 水宮枢 - FLOW GLOW",
-        "english_name": "Mizumiya Su",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC060r4zABV18vcahAWR1n7w": {
@@ -91,7 +71,7 @@
       "available_at": "2026-05-03T02:22:32.000Z",
       "start_scheduled": "2026-05-03T02:30:00.000Z",
       "start_actual": "2026-05-03T02:22:32.000Z",
-      "live_viewers": 217,
+      "live_viewers": 215,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
@@ -99,26 +79,6 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCUKD-uaobj9jiqB-VXt71mA": {
-      "video_id": "RO13k8Zd1KE",
-      "title": "【告知あり】麺屋ぼたん開店!おにかん様ご来店~!😈🥀 #ししろんのゴールデンなウィーク ②【獅白ぼたん/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "announce",
-      "published_at": "2026-05-03T03:00:07.000Z",
-      "available_at": "2026-05-03T03:00:07.000Z",
-      "start_scheduled": "2026-05-03T03:00:00.000Z",
-      "start_actual": "2026-05-03T03:00:07.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCUKD-uaobj9jiqB-VXt71mA",
-        "name": "Botan Ch.獅白ぼたん",
-        "english_name": "Shishiro Botan",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
@@ -131,7 +91,7 @@
       "available_at": "2026-05-03T03:00:39.000Z",
       "start_scheduled": "2026-05-03T03:00:00.000Z",
       "start_actual": "2026-05-03T03:00:39.000Z",
-      "live_viewers": 748,
+      "live_viewers": 774,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -151,7 +111,7 @@
       "available_at": "2026-05-03T03:00:41.000Z",
       "start_scheduled": "2026-05-03T03:00:00.000Z",
       "start_actual": "2026-05-03T03:00:41.000Z",
-      "live_viewers": 3532,
+      "live_viewers": 3841,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -191,7 +151,7 @@
       "available_at": "2026-05-03T03:05:23.000Z",
       "start_scheduled": "2026-05-03T03:00:00.000Z",
       "start_actual": "2026-05-03T03:05:23.000Z",
-      "live_viewers": 5895,
+      "live_viewers": 6656,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
