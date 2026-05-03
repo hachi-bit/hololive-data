@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777792639,
+  "cached_at": 1777792699,
   "lives": {
     "UCGNI4MENvnsymYjKiZwv9eg": {
       "video_id": "SYBeW0REd80",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-03T04:30:03.000Z",
       "start_scheduled": "2026-05-03T04:30:00.000Z",
       "start_actual": "2026-05-03T04:30:03.000Z",
-      "live_viewers": 6102,
+      "live_viewers": 6172,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-03T05:00:38.000Z",
       "start_scheduled": "2026-05-03T05:00:00.000Z",
       "start_actual": "2026-05-03T05:00:38.000Z",
-      "live_viewers": 6957,
+      "live_viewers": 7579,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "0v0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
-      "video_id": "kbcR0VW-_Tg",
-      "title": "【 天皇賞(春) 】前半はちは・ポルと一緒に勉強しつつ予想をやっていくぞ☺【鷹嶺ルイ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Horse_racing",
-      "published_at": "2026-05-02T07:18:24.000Z",
-      "available_at": "2026-05-03T05:01:09.000Z",
-      "start_scheduled": "2026-05-03T05:00:00.000Z",
-      "start_actual": "2026-05-03T05:01:09.000Z",
-      "live_viewers": 8942,
-      "channel": {
-        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "name": "Lui ch. 鷹嶺ルイ - holoX -",
-        "english_name": "Takane Lui",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
@@ -171,7 +151,7 @@
       "available_at": "2026-05-03T07:02:22.000Z",
       "start_scheduled": "2026-05-03T07:00:00.000Z",
       "start_actual": "2026-05-03T07:02:22.000Z",
-      "live_viewers": 8813,
+      "live_viewers": 9145,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
