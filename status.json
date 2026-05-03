@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777845679,
+  "cached_at": 1777845739,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "42Ydy0GlKmo",
@@ -19,6 +19,25 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChAnqc_AY5_I3Px5dig3X1Q": {
+      "video_id": "Zlnqxdwg5Io",
+      "title": "朝のぉぁょ~!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "morning",
+      "published_at": "2026-05-03T15:04:54.000Z",
+      "available_at": "2026-05-03T22:00:00.000Z",
+      "start_scheduled": "2026-05-03T22:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
+        "name": "Korone Ch. 戌神ころね",
+        "english_name": "Inugami Korone",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
