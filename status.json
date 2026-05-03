@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777780038,
+  "cached_at": 1777780098,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "yvWlzZBjzXw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-03T00:16:25.000Z",
       "start_scheduled": "2026-05-03T00:15:00.000Z",
       "start_actual": "2026-05-03T00:16:25.000Z",
-      "live_viewers": 318,
+      "live_viewers": 289,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-03T01:00:45.000Z",
       "start_scheduled": "2026-05-03T01:00:00.000Z",
       "start_actual": "2026-05-03T01:00:45.000Z",
-      "live_viewers": 7019,
+      "live_viewers": 7010,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-03T02:22:32.000Z",
       "start_scheduled": "2026-05-03T02:30:00.000Z",
       "start_actual": "2026-05-03T02:22:32.000Z",
-      "live_viewers": 231,
+      "live_viewers": 238,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-03T03:00:39.000Z",
       "start_scheduled": "2026-05-03T03:00:00.000Z",
       "start_actual": "2026-05-03T03:00:39.000Z",
-      "live_viewers": 910,
+      "live_viewers": 940,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-03T03:00:41.000Z",
       "start_scheduled": "2026-05-03T03:00:00.000Z",
       "start_actual": "2026-05-03T03:00:41.000Z",
-      "live_viewers": 5211,
+      "live_viewers": 5367,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-03T03:05:23.000Z",
       "start_scheduled": "2026-05-03T03:00:00.000Z",
       "start_actual": "2026-05-03T03:05:23.000Z",
-      "live_viewers": 8986,
+      "live_viewers": 9011,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
