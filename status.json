@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777791320,
+  "cached_at": 1777791379,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "h3oCoNlI_zQ",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-03T04:00:09.000Z",
       "start_scheduled": "2026-05-03T04:00:00.000Z",
       "start_actual": "2026-05-03T04:00:09.000Z",
-      "live_viewers": 414,
+      "live_viewers": 421,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-03T04:03:22.000Z",
       "start_scheduled": "2026-05-03T04:00:00.000Z",
       "start_actual": "2026-05-03T04:03:22.000Z",
-      "live_viewers": 23239,
+      "live_viewers": 23375,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-03T04:30:03.000Z",
       "start_scheduled": "2026-05-03T04:30:00.000Z",
       "start_actual": "2026-05-03T04:30:03.000Z",
-      "live_viewers": 5665,
+      "live_viewers": 5648,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-03T05:00:04.000Z",
       "start_scheduled": "2026-05-03T05:00:00.000Z",
       "start_actual": "2026-05-03T05:00:04.000Z",
-      "live_viewers": 24405,
+      "live_viewers": 24430,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-03T05:00:30.000Z",
       "start_scheduled": "2026-05-03T05:00:00.000Z",
       "start_actual": "2026-05-03T05:00:30.000Z",
-      "live_viewers": 4232,
+      "live_viewers": 4365,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdyqAaZDKHXg4Ahi7VENThQ": {
-      "video_id": "Mxvqf_bYXOE",
-      "title": "【トモコレ】絶対に結ばれたい.......................................................わくわく生活あじまる!!【白銀ノエル/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-02T15:41:41.000Z",
-      "available_at": "2026-05-03T05:00:37.000Z",
-      "start_scheduled": "2026-05-03T05:00:00.000Z",
-      "start_actual": "2026-05-03T05:00:37.000Z",
-      "live_viewers": 4764,
-      "channel": {
-        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-        "name": "Noel Ch. 白銀ノエル",
-        "english_name": "Shirogane Noel",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC_vMYWcDjmfdpH6r4TTn1MQ": {
