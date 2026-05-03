@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777794379,
+  "cached_at": 1777794439,
   "lives": {
     "UCvzGlP9oQwU--Y0r9id_jnA": {
       "video_id": "KOjCD4awzAA",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-03T04:03:22.000Z",
       "start_scheduled": "2026-05-03T04:00:00.000Z",
       "start_actual": "2026-05-03T04:03:22.000Z",
-      "live_viewers": 21919,
+      "live_viewers": 21860,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCWQtYtq9EOB4-I5P-3fh8lA": {
-      "video_id": "k1FuIfIqKE0",
-      "title": "【リトルナイトメア】この小さい子で、この世界どうやって生きるの…?完全初見!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS ※ネタバレあり",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "little_nightmares",
-      "published_at": "2026-05-03T04:32:20.000Z",
-      "available_at": "2026-05-03T05:00:30.000Z",
-      "start_scheduled": "2026-05-03T05:00:00.000Z",
-      "start_actual": "2026-05-03T05:00:30.000Z",
-      "live_viewers": 4884,
-      "channel": {
-        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-        "english_name": "Otonose Kanade",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC_vMYWcDjmfdpH6r4TTn1MQ": {
@@ -91,7 +71,7 @@
       "available_at": "2026-05-03T05:00:59.000Z",
       "start_scheduled": "2026-05-03T05:00:00.000Z",
       "start_actual": "2026-05-03T05:00:59.000Z",
-      "live_viewers": 3541,
+      "live_viewers": 3615,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
