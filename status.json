@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777797139,
+  "cached_at": 1777797199,
   "lives": {
-    "UCvzGlP9oQwU--Y0r9id_jnA": {
-      "video_id": "KOjCD4awzAA",
-      "title": "【#12】LOST JUDGMENT：裁かれざる記憶【※ネタバレあり】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Judgment",
-      "published_at": "2026-05-02T02:38:46.000Z",
-      "available_at": "2026-05-03T04:03:22.000Z",
-      "start_scheduled": "2026-05-03T04:00:00.000Z",
-      "start_actual": "2026-05-03T04:03:22.000Z",
-      "live_viewers": 16840,
-      "channel": {
-        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-        "name": "Subaru Ch. 大空スバル",
-        "english_name": "Oozora Subaru",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCp6993wxpyDPHUpavwDFqgg": {
       "video_id": "v_CEA87irZQ",
       "title": "【ぽこ あ ポケモン】推しが!!きたああああああ!!!【ホロライブ/ときのそら】",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-03T05:00:59.000Z",
       "start_scheduled": "2026-05-03T05:00:00.000Z",
       "start_actual": "2026-05-03T05:00:59.000Z",
-      "live_viewers": 4099,
+      "live_viewers": 4259,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-03T07:02:22.000Z",
       "start_scheduled": "2026-05-03T07:00:00.000Z",
       "start_actual": "2026-05-03T07:02:22.000Z",
-      "live_viewers": 13522,
+      "live_viewers": 14158,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-03T08:00:25.000Z",
       "start_scheduled": "2026-05-03T08:00:00.000Z",
       "start_actual": "2026-05-03T08:00:25.000Z",
-      "live_viewers": 718,
+      "live_viewers": 812,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
