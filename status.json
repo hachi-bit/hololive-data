@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777874539,
+  "cached_at": 1777874599,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "P5gI0xAJ17k",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-04T00:00:41.000Z",
       "start_scheduled": "2026-05-04T00:00:00.000Z",
       "start_actual": "2026-05-04T00:00:41.000Z",
-      "live_viewers": 13623,
+      "live_viewers": 13599,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-04T03:19:13.000Z",
       "start_scheduled": "2026-05-04T03:00:58.000Z",
       "start_actual": "2026-05-04T03:19:13.000Z",
-      "live_viewers": 1812,
+      "live_viewers": 1822,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-04T05:40:10.000Z",
       "start_scheduled": "2026-05-04T05:50:00.000Z",
       "start_actual": "2026-05-04T05:40:10.000Z",
-      "live_viewers": 1442,
+      "live_viewers": 1301,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -119,6 +119,25 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC2hx0xVkMoHGWijwr_lA01w": {
+      "video_id": "7ZuCoKVZOBg",
+      "title": "【TOMODACHI LIFE: LIVING THE DREAM】The island only gets bigger from here!!!🌴 #4",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-04T05:24:04.000Z",
+      "available_at": "2026-05-04T06:00:00.000Z",
+      "start_scheduled": "2026-05-04T06:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC2hx0xVkMoHGWijwr_lA01w",
+        "name": "Axel Syrios Ch. HOLOSTARS-EN",
+        "english_name": "Axel Syrios",
+        "org": "Hololive",
+        "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
+        "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
