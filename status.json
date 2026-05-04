@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777892779,
+  "cached_at": 1777892839,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "Y505e4FZ9dA",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-04T00:00:41.000Z",
       "start_scheduled": "2026-05-04T00:00:00.000Z",
       "start_actual": "2026-05-04T00:00:41.000Z",
-      "live_viewers": 9175,
+      "live_viewers": 9015,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-04T10:02:27.000Z",
       "start_scheduled": "2026-05-04T10:00:00.000Z",
       "start_actual": "2026-05-04T10:02:27.000Z",
-      "live_viewers": 26580,
+      "live_viewers": 26291,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-04T10:05:06.000Z",
       "start_scheduled": "2026-05-04T10:00:00.000Z",
       "start_actual": "2026-05-04T10:05:06.000Z",
-      "live_viewers": 13264,
+      "live_viewers": 12981,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -139,25 +139,6 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "bQcYuJA4tz0",
-      "title": "【DBD】久しぶりの花岸DBD【花咲みやび/岸堂天真/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "dbd",
-      "published_at": "2026-05-04T09:30:14.000Z",
-      "available_at": "2026-05-04T11:00:00.000Z",
-      "start_scheduled": "2026-05-04T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCGNI4MENvnsymYjKiZwv9eg": {
@@ -179,6 +160,25 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UC6t3-_N8A6ME1JShZHHqOMw": {
+      "video_id": "bQcYuJA4tz0",
+      "title": "【DBD】久しぶりの花岸DBD【花咲みやび/岸堂天真/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "dbd",
+      "published_at": "2026-05-04T09:30:14.000Z",
+      "available_at": "2026-05-04T11:00:00.000Z",
+      "start_scheduled": "2026-05-04T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "english_name": "Hanasaki Miyabi",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UC-hM6YJuNYVAmUWxeIr9FeA": {
       "video_id": "Pwtq8HB1KCY",
       "title": "【#V最弱マリパ決定戦】Vマリパ最弱⁉な4人で決定戦マリパ‼🔥【ホロライブ/さくらみこ】",
@@ -189,7 +189,7 @@
       "available_at": "2026-05-04T11:01:47.000Z",
       "start_scheduled": "2026-05-04T11:00:00.000Z",
       "start_actual": "2026-05-04T11:01:47.000Z",
-      "live_viewers": 10744,
+      "live_viewers": 33397,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
