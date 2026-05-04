@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777903401,
+  "cached_at": 1777903463,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "JHO8eUBTR9M",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-04T10:02:27.000Z",
       "start_scheduled": "2026-05-04T10:00:00.000Z",
       "start_actual": "2026-05-04T10:02:27.000Z",
-      "live_viewers": 19524,
+      "live_viewers": 19258,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-04T13:00:08.000Z",
       "start_scheduled": "2026-05-04T13:00:00.000Z",
       "start_actual": "2026-05-04T13:00:08.000Z",
-      "live_viewers": 4384,
+      "live_viewers": 4349,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-04T13:15:47.000Z",
       "start_scheduled": "2026-05-04T13:00:00.000Z",
       "start_actual": "2026-05-04T13:15:47.000Z",
-      "live_viewers": 3332,
+      "live_viewers": 3523,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-04T13:31:27.000Z",
       "start_scheduled": "2026-05-04T13:30:00.000Z",
       "start_actual": "2026-05-04T13:31:27.000Z",
-      "live_viewers": 6008,
+      "live_viewers": 6149,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -241,23 +241,24 @@
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCJlcEuTs4LNMPn0xL3czRrA": {
-      "video_id": "DD7TJNdCvyU",
-      "title": "KOPIKANON NGULI w/ @KaelaKovalskia @PiaMeraleo-JKT48V  | Lethal Company",
+    "UCZLZ8Jjx_RN2CXloOmgTHVg": {
+      "video_id": "xIUO3Z8pCb0",
+      "title": "【Lethal Company】played 200 hours last year but remember nothing. now what【KOPIKANON】",
       "type": "stream",
       "status": "live",
       "topic_id": "Lethal_Company",
-      "published_at": "2026-05-04T11:01:07.000Z",
-      "available_at": "2026-05-04T14:00:00.000Z",
+      "published_at": "2026-05-04T08:36:26.000Z",
+      "available_at": "2026-05-04T14:00:21.000Z",
       "start_scheduled": "2026-05-04T14:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-04T14:00:21.000Z",
+      "live_viewers": 827,
       "channel": {
-        "id": "UCJlcEuTs4LNMPn0xL3czRrA",
-        "name": "ONShannon ",
-        "english_name": "Shannon Lynn",
-        "org": "AKA Virtual",
-        "suborg": "0gChao.5",
-        "photo": "https://yt3.ggpht.com/vofOOZs6Rby_Cx6OlTM2YvfIHFm7IfP1ZSmVmxU6_OBiBcnvsl72O5SpSj6ZGPjY5452hWzF=s800-c-k-c0x00ffffff-no-rj"
+        "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "name": "Kaela Kovalskia Ch. hololive-ID",
+        "english_name": "Kaela Kovalskia",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCIa2OxCyhjWjJke-9yYNbwA": {
@@ -267,9 +268,10 @@
       "status": "live",
       "topic_id": "Lethal_Company",
       "published_at": "2026-05-04T10:11:52.000Z",
-      "available_at": "2026-05-04T14:00:00.000Z",
+      "available_at": "2026-05-04T14:01:06.000Z",
       "start_scheduled": "2026-05-04T14:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-04T14:01:06.000Z",
+      "live_viewers": 42,
       "channel": {
         "id": "UCIa2OxCyhjWjJke-9yYNbwA",
         "name": "Pia Meraleo - JKT48V",
@@ -279,24 +281,24 @@
         "photo": "https://yt3.ggpht.com/6IOEgVvPXOJxjpnnFdnrhVwtzQ96FPTLOiDJi-MLK2bw-DxdC_ZTtivwvV425ZV_FuxFyaE_3A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCZLZ8Jjx_RN2CXloOmgTHVg": {
-      "video_id": "xIUO3Z8pCb0",
-      "title": "【Lethal Company】played 200 hours last year but remember nothing. now what【KOPIKANON】",
+    "UCJlcEuTs4LNMPn0xL3czRrA": {
+      "video_id": "DD7TJNdCvyU",
+      "title": "KOPIKANON NGULI w/ @KaelaKovalskia @PiaMeraleo-JKT48V  | Lethal Company",
       "type": "stream",
       "status": "live",
       "topic_id": "Lethal_Company",
-      "published_at": "2026-05-04T08:36:26.000Z",
-      "available_at": "2026-05-04T14:00:18.000Z",
+      "published_at": "2026-05-04T11:01:07.000Z",
+      "available_at": "2026-05-04T14:01:13.000Z",
       "start_scheduled": "2026-05-04T14:00:00.000Z",
-      "start_actual": "2026-05-04T14:00:18.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-04T14:01:13.000Z",
+      "live_viewers": 50,
       "channel": {
-        "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "name": "Kaela Kovalskia Ch. hololive-ID",
-        "english_name": "Kaela Kovalskia",
-        "org": "Hololive",
-        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-        "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
+        "id": "UCJlcEuTs4LNMPn0xL3czRrA",
+        "name": "ONShannon ",
+        "english_name": "Shannon Lynn",
+        "org": "AKA Virtual",
+        "suborg": "0gChao.5",
+        "photo": "https://yt3.ggpht.com/vofOOZs6Rby_Cx6OlTM2YvfIHFm7IfP1ZSmVmxU6_OBiBcnvsl72O5SpSj6ZGPjY5452hWzF=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
