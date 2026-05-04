@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777888999,
+  "cached_at": 1777889059,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "Y505e4FZ9dA",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-04T00:00:41.000Z",
       "start_scheduled": "2026-05-04T00:00:00.000Z",
       "start_actual": "2026-05-04T00:00:41.000Z",
-      "live_viewers": 11113,
+      "live_viewers": 11034,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-04T07:58:33.000Z",
       "start_scheduled": "2026-05-04T08:00:00.000Z",
       "start_actual": "2026-05-04T07:58:33.000Z",
-      "live_viewers": 10604,
+      "live_viewers": 9606,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCc88OV45ICgHbn3ZqLLb52w": {
-      "video_id": "bxp3IkmyV4k",
-      "title": "【※カメラあり】ホロカ新弾開封!今回こそSECを・・・!【夜十神封魔/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "unboxing",
-      "published_at": "2026-05-03T03:56:11.000Z",
-      "available_at": "2026-05-04T07:58:53.000Z",
-      "start_scheduled": "2026-05-04T08:00:00.000Z",
-      "start_actual": "2026-05-04T07:58:53.000Z",
-      "live_viewers": 353,
-      "channel": {
-        "id": "UCc88OV45ICgHbn3ZqLLb52w",
-        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-        "english_name": "Yatogami Fuma",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCQ0UDLQCjY0rmuxCDE38FGg": {
@@ -91,7 +71,7 @@
       "available_at": "2026-05-04T09:01:14.000Z",
       "start_scheduled": "2026-05-04T09:00:00.000Z",
       "start_actual": "2026-05-04T09:01:14.000Z",
-      "live_viewers": 3899,
+      "live_viewers": 3243,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-04T09:04:54.000Z",
       "start_scheduled": "2026-05-04T09:00:00.000Z",
       "start_actual": "2026-05-04T09:04:54.000Z",
-      "live_viewers": 5732,
+      "live_viewers": 5558,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-04T09:43:52.000Z",
       "start_scheduled": "2026-05-04T09:45:00.000Z",
       "start_actual": "2026-05-04T09:43:52.000Z",
-      "live_viewers": 4821,
+      "live_viewers": 5182,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -139,6 +119,44 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "8z5Jz9Zx18M",
+      "title": "【Windrose / ウィンドローズ】海賊王に俺はなる!-話題の海賊オープンワールドクラフトゲー【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Windrose",
+      "published_at": "2026-05-03T23:44:14.000Z",
+      "available_at": "2026-05-04T10:00:00.000Z",
+      "start_scheduled": "2026-05-04T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "iKLwRAIiblQ",
+      "title": "【Windrose/ウィンドローズ】話題の海賊サバイバルぼたんちゃんとやってみる!海賊王におれはなるっ!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Windrose",
+      "published_at": "2026-05-04T09:16:57.000Z",
+      "available_at": "2026-05-04T10:00:00.000Z",
+      "start_scheduled": "2026-05-04T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
