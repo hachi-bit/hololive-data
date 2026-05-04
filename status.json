@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777881739,
+  "cached_at": 1777881799,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "Y505e4FZ9dA",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-04T04:52:02.000Z",
       "start_scheduled": "2026-05-04T05:00:00.000Z",
       "start_actual": "2026-05-04T04:52:02.000Z",
-      "live_viewers": 9584,
+      "live_viewers": 9500,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
-      "video_id": "5rhZ4m9lJhU",
-      "title": "鷹嶺ルイ電撃参戦!兵庫大賞典 HUK大予想会",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-04-23T02:36:43.000Z",
-      "available_at": "2026-05-04T05:40:10.000Z",
-      "start_scheduled": "2026-05-04T05:50:00.000Z",
-      "start_actual": "2026-05-04T05:40:10.000Z",
-      "live_viewers": 1670,
-      "channel": {
-        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "name": "Lui ch. 鷹嶺ルイ - holoX -",
-        "english_name": "Takane Lui",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC2hx0xVkMoHGWijwr_lA01w": {
@@ -151,7 +131,7 @@
       "available_at": "2026-05-04T07:00:45.000Z",
       "start_scheduled": "2026-05-04T07:00:00.000Z",
       "start_actual": "2026-05-04T07:00:45.000Z",
-      "live_viewers": 217,
+      "live_viewers": 216,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -179,6 +159,46 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCa9Y57gfeY0Zro_noHRVrnw": {
+      "video_id": "KLbYXVXtn_A",
+      "title": "【 LEGO 】レゴのゲームボーイを組み立てるのら!!!Build with LEGO【姫森ルーナ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Camera_Stream",
+      "published_at": "2026-05-03T10:36:24.000Z",
+      "available_at": "2026-05-04T07:58:33.000Z",
+      "start_scheduled": "2026-05-04T08:00:00.000Z",
+      "start_actual": "2026-05-04T07:58:33.000Z",
+      "live_viewers": 1796,
+      "channel": {
+        "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+        "name": "Luna Ch. 姫森ルーナ",
+        "english_name": "Himemori Luna",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCc88OV45ICgHbn3ZqLLb52w": {
+      "video_id": "bxp3IkmyV4k",
+      "title": "【※カメラあり】ホロカ新弾開封!今回こそSECを・・・!【夜十神封魔/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "unboxing",
+      "published_at": "2026-05-03T03:56:11.000Z",
+      "available_at": "2026-05-04T07:58:53.000Z",
+      "start_scheduled": "2026-05-04T08:00:00.000Z",
+      "start_actual": "2026-05-04T07:58:53.000Z",
+      "live_viewers": 135,
+      "channel": {
+        "id": "UCc88OV45ICgHbn3ZqLLb52w",
+        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+        "english_name": "Yatogami Fuma",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
