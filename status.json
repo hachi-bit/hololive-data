@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777879039,
+  "cached_at": 1777879099,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "P5gI0xAJ17k",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-04T06:00:39.000Z",
       "start_scheduled": "2026-05-04T06:00:00.000Z",
       "start_actual": "2026-05-04T06:00:39.000Z",
-      "live_viewers": 516,
+      "live_viewers": 472,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-04T06:18:46.000Z",
       "start_scheduled": "2026-05-04T06:15:00.000Z",
       "start_actual": "2026-05-04T06:18:46.000Z",
-      "live_viewers": 4902,
+      "live_viewers": 4974,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-04T07:00:40.000Z",
       "start_scheduled": "2026-05-04T07:00:00.000Z",
       "start_actual": "2026-05-04T07:00:40.000Z",
-      "live_viewers": 2809,
+      "live_viewers": 3000,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-04T07:00:45.000Z",
       "start_scheduled": "2026-05-04T07:00:00.000Z",
       "start_actual": "2026-05-04T07:00:45.000Z",
-      "live_viewers": 137,
+      "live_viewers": 138,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -179,6 +179,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCYz_5n-uDuChHtLo7My1HnQ": {
+      "video_id": "CezTCVTk5Tc",
+      "title": "【Tomodachi Life: Living the Dream】 Pt.12: DIVORCE... 【Kureiji Ollie】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-04T07:02:38.000Z",
+      "available_at": "2026-05-04T07:15:17.000Z",
+      "start_scheduled": "2026-05-04T07:15:00.000Z",
+      "start_actual": "2026-05-04T07:15:17.000Z",
+      "live_viewers": 194,
+      "channel": {
+        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+        "name": "Kureiji Ollie Ch. hololive-ID",
+        "english_name": "Kureiji Ollie",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
