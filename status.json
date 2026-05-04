@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777882759,
+  "cached_at": 1777882819,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "Y505e4FZ9dA",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-04T00:00:41.000Z",
       "start_scheduled": "2026-05-04T00:00:00.000Z",
       "start_actual": "2026-05-04T00:00:41.000Z",
-      "live_viewers": 11923,
+      "live_viewers": 11806,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "UznZ9ub27KE",
-      "title": "【MEMBERSHIP】- Book Reading #2 | The Professor & The Housekeeper",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-03T08:38:03.000Z",
-      "available_at": "2026-05-04T02:07:34.000Z",
-      "start_scheduled": "2026-05-04T02:00:00.000Z",
-      "start_actual": "2026-05-04T02:07:34.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC060r4zABV18vcahAWR1n7w",
-        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-        "english_name": "Machina X Flayon",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1uv2Oq6kNxgATlCiez59hw": {
@@ -71,7 +51,7 @@
       "available_at": "2026-05-04T06:00:39.000Z",
       "start_scheduled": "2026-05-04T06:00:00.000Z",
       "start_actual": "2026-05-04T06:00:39.000Z",
-      "live_viewers": 513,
+      "live_viewers": 503,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-04T07:00:40.000Z",
       "start_scheduled": "2026-05-04T07:00:00.000Z",
       "start_actual": "2026-05-04T07:00:40.000Z",
-      "live_viewers": 3928,
+      "live_viewers": 3917,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-04T07:00:45.000Z",
       "start_scheduled": "2026-05-04T07:00:00.000Z",
       "start_actual": "2026-05-04T07:00:45.000Z",
-      "live_viewers": 232,
+      "live_viewers": 223,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-04T07:15:17.000Z",
       "start_scheduled": "2026-05-04T07:15:00.000Z",
       "start_actual": "2026-05-04T07:15:17.000Z",
-      "live_viewers": 2987,
+      "live_viewers": 2973,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-04T07:58:33.000Z",
       "start_scheduled": "2026-05-04T08:00:00.000Z",
       "start_actual": "2026-05-04T07:58:33.000Z",
-      "live_viewers": 4740,
+      "live_viewers": 4876,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-04T07:58:53.000Z",
       "start_scheduled": "2026-05-04T08:00:00.000Z",
       "start_actual": "2026-05-04T07:58:53.000Z",
-      "live_viewers": 291,
+      "live_viewers": 310,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
