@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777903161,
+  "cached_at": 1777903221,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "JHO8eUBTR9M",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-04T10:02:27.000Z",
       "start_scheduled": "2026-05-04T10:00:00.000Z",
       "start_actual": "2026-05-04T10:02:27.000Z",
-      "live_viewers": 19729,
+      "live_viewers": 19524,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-04T11:01:47.000Z",
       "start_scheduled": "2026-05-04T11:00:00.000Z",
       "start_actual": "2026-05-04T11:01:47.000Z",
-      "live_viewers": 38564,
+      "live_viewers": 38675,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -99,46 +99,6 @@
         "org": "Hololive",
         "suborg": "0y0th Generation",
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "bQcYuJA4tz0",
-      "title": "【DBD】久しぶりの花岸DBD【花咲みやび/岸堂天真/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "dbd",
-      "published_at": "2026-05-04T09:30:14.000Z",
-      "available_at": "2026-05-04T11:10:03.000Z",
-      "start_scheduled": "2026-05-04T11:00:00.000Z",
-      "start_actual": "2026-05-04T11:10:03.000Z",
-      "live_viewers": 337,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "3UUhKRbtmRY",
-      "title": "【Dead by Daylight】今日は花岸でDBD!!【岸堂天真/花咲みやび/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "dbd",
-      "published_at": "2026-05-04T10:55:05.000Z",
-      "available_at": "2026-05-04T11:12:25.000Z",
-      "start_scheduled": "2026-05-04T11:00:00.000Z",
-      "start_actual": "2026-05-04T11:12:25.000Z",
-      "live_viewers": 291,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9LSiN9hXI55svYEBrrK-tw": {
@@ -191,7 +151,7 @@
       "available_at": "2026-05-04T13:00:08.000Z",
       "start_scheduled": "2026-05-04T13:00:00.000Z",
       "start_actual": "2026-05-04T13:00:08.000Z",
-      "live_viewers": 4411,
+      "live_viewers": 4384,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -231,7 +191,7 @@
       "available_at": "2026-05-04T13:03:23.000Z",
       "start_scheduled": "2026-05-04T13:00:00.000Z",
       "start_actual": "2026-05-04T13:03:23.000Z",
-      "live_viewers": 45443,
+      "live_viewers": 45378,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -251,7 +211,7 @@
       "available_at": "2026-05-04T13:15:47.000Z",
       "start_scheduled": "2026-05-04T13:00:00.000Z",
       "start_actual": "2026-05-04T13:15:47.000Z",
-      "live_viewers": 3352,
+      "live_viewers": 3332,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
