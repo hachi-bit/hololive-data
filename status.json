@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777852879,
+  "cached_at": 1777852939,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "42Ydy0GlKmo",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-03T22:56:20.000Z",
       "start_scheduled": "2026-05-03T23:00:00.000Z",
       "start_actual": "2026-05-03T22:56:20.000Z",
-      "live_viewers": 6098,
+      "live_viewers": 6278,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-03T23:00:34.000Z",
       "start_scheduled": "2026-05-03T23:00:00.000Z",
       "start_actual": "2026-05-03T23:00:34.000Z",
-      "live_viewers": 46242,
+      "live_viewers": 46954,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -59,6 +59,25 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6eWCld0KwmyHFbAqK3V-Rw": {
+      "video_id": "Y505e4FZ9dA",
+      "title": "【100年桃鉄ハンデ戦】はじめての54年ハンデ戦!~54年間最弱CPU豆鬼がプレイしたデータで最強CPU3人に逆転できるのか!?~ #1 【博衣こより/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "momotaro_dentetsu",
+      "published_at": "2026-05-03T02:08:04.000Z",
+      "available_at": "2026-05-04T00:00:00.000Z",
+      "start_scheduled": "2026-05-04T00:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+        "name": "Koyori ch. 博衣こより - holoX -",
+        "english_name": "Hakui Koyori",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
