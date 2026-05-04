@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777886959,
+  "cached_at": 1777887019,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "Y505e4FZ9dA",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-04T00:00:41.000Z",
       "start_scheduled": "2026-05-04T00:00:00.000Z",
       "start_actual": "2026-05-04T00:00:41.000Z",
-      "live_viewers": 11350,
+      "live_viewers": 11248,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-04T04:52:02.000Z",
       "start_scheduled": "2026-05-04T05:00:00.000Z",
       "start_actual": "2026-05-04T04:52:02.000Z",
-      "live_viewers": 10142,
+      "live_viewers": 10173,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC2hx0xVkMoHGWijwr_lA01w": {
-      "video_id": "7ZuCoKVZOBg",
-      "title": "【TOMODACHI LIFE: LIVING THE DREAM】The island only gets bigger from here!!!🌴 #4",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-04T05:24:04.000Z",
-      "available_at": "2026-05-04T06:00:39.000Z",
-      "start_scheduled": "2026-05-04T06:00:00.000Z",
-      "start_actual": "2026-05-04T06:00:39.000Z",
-      "live_viewers": 525,
-      "channel": {
-        "id": "UC2hx0xVkMoHGWijwr_lA01w",
-        "name": "Axel Syrios Ch. HOLOSTARS-EN",
-        "english_name": "Axel Syrios",
-        "org": "Hololive",
-        "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-        "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCWQtYtq9EOB4-I5P-3fh8lA": {
@@ -151,7 +131,7 @@
       "available_at": "2026-05-04T09:01:14.000Z",
       "start_scheduled": "2026-05-04T09:00:00.000Z",
       "start_actual": "2026-05-04T09:01:14.000Z",
-      "live_viewers": 3814,
+      "live_viewers": 4124,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-04T09:04:54.000Z",
       "start_scheduled": "2026-05-04T09:00:00.000Z",
       "start_actual": "2026-05-04T09:04:54.000Z",
-      "live_viewers": 4030,
+      "live_viewers": 4330,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
