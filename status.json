@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777904301,
+  "cached_at": 1777904361,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "JHO8eUBTR9M",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-04T09:04:54.000Z",
       "start_scheduled": "2026-05-04T09:00:00.000Z",
       "start_actual": "2026-05-04T09:04:54.000Z",
-      "live_viewers": 4469,
+      "live_viewers": 4515,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-04T10:02:27.000Z",
       "start_scheduled": "2026-05-04T10:00:00.000Z",
       "start_actual": "2026-05-04T10:02:27.000Z",
-      "live_viewers": 19287,
+      "live_viewers": 19833,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -81,26 +81,6 @@
         "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC-hM6YJuNYVAmUWxeIr9FeA": {
-      "video_id": "Pwtq8HB1KCY",
-      "title": "【#V最弱マリパ決定戦】Vマリパ最弱⁉な4人で決定戦マリパ‼🔥【ホロライブ/さくらみこ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mario_Party",
-      "published_at": "2026-05-03T09:10:16.000Z",
-      "available_at": "2026-05-04T11:01:47.000Z",
-      "start_scheduled": "2026-05-04T11:00:00.000Z",
-      "start_actual": "2026-05-04T11:01:47.000Z",
-      "live_viewers": 37677,
-      "channel": {
-        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-        "name": "Miko Ch. さくらみこ",
-        "english_name": "Sakura Miko",
-        "org": "Hololive",
-        "suborg": "0y0th Generation",
-        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "F9B7VI4uFMA",
       "title": "【ARK: Survival Ascended】初見ARK!恐竜さん見てみたい✨【ホロライブ DEV_IS 響咲リオナ】",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-04T12:05:42.000Z",
       "start_scheduled": "2026-05-04T12:00:00.000Z",
       "start_actual": "2026-05-04T12:05:42.000Z",
-      "live_viewers": 5145,
+      "live_viewers": 5196,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-04T13:00:08.000Z",
       "start_scheduled": "2026-05-04T13:00:00.000Z",
       "start_actual": "2026-05-04T13:00:08.000Z",
-      "live_viewers": 4409,
+      "live_viewers": 4541,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-04T13:03:23.000Z",
       "start_scheduled": "2026-05-04T13:00:00.000Z",
       "start_actual": "2026-05-04T13:03:23.000Z",
-      "live_viewers": 45366,
+      "live_viewers": 48003,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-04T13:31:27.000Z",
       "start_scheduled": "2026-05-04T13:30:00.000Z",
       "start_actual": "2026-05-04T13:31:27.000Z",
-      "live_viewers": 5773,
+      "live_viewers": 6323,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-04T14:00:21.000Z",
       "start_scheduled": "2026-05-04T14:00:00.000Z",
       "start_actual": "2026-05-04T14:00:21.000Z",
-      "live_viewers": 1784,
+      "live_viewers": 1869,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-04T14:01:06.000Z",
       "start_scheduled": "2026-05-04T14:00:00.000Z",
       "start_actual": "2026-05-04T14:01:06.000Z",
-      "live_viewers": 103,
+      "live_viewers": 100,
       "channel": {
         "id": "UCIa2OxCyhjWjJke-9yYNbwA",
         "name": "Pia Meraleo - JKT48V",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-04T14:01:13.000Z",
       "start_scheduled": "2026-05-04T14:00:00.000Z",
       "start_actual": "2026-05-04T14:01:13.000Z",
-      "live_viewers": 150,
+      "live_viewers": 149,
       "channel": {
         "id": "UCJlcEuTs4LNMPn0xL3czRrA",
         "name": "ONShannon ",
