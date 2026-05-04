@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777931239,
+  "cached_at": 1777931299,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "SVvqOKTNk08",
@@ -28,9 +28,10 @@
       "status": "live",
       "topic_id": "Tomodachi_Life",
       "published_at": "2026-05-04T19:50:33.000Z",
-      "available_at": "2026-05-04T21:30:00.000Z",
+      "available_at": "2026-05-04T21:44:15.000Z",
       "start_scheduled": "2026-05-04T21:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-04T21:44:15.000Z",
+      "live_viewers": 2352,
       "channel": {
         "id": "UCW5uhrG1eCBYditmhL0Ykjw",
         "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
