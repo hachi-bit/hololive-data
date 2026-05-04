@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777882039,
+  "cached_at": 1777882098,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "Y505e4FZ9dA",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-04T04:52:02.000Z",
       "start_scheduled": "2026-05-04T05:00:00.000Z",
       "start_actual": "2026-05-04T04:52:02.000Z",
-      "live_viewers": 9500,
+      "live_viewers": 9569,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -81,26 +81,6 @@
         "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCp6993wxpyDPHUpavwDFqgg": {
-      "video_id": "vig2sWM7s6E",
-      "title": "【歌枠】久々に・・・歌うぞ~!!!【ホロライブ/ときのそら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-05-04T05:27:47.000Z",
-      "available_at": "2026-05-04T06:18:46.000Z",
-      "start_scheduled": "2026-05-04T06:15:00.000Z",
-      "start_actual": "2026-05-04T06:18:46.000Z",
-      "live_viewers": 4971,
-      "channel": {
-        "id": "UCp6993wxpyDPHUpavwDFqgg",
-        "name": "SoraCh. ときのそらチャンネル",
-        "english_name": "Tokino Sora",
-        "org": "Hololive",
-        "suborg": "0v0th Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCWQtYtq9EOB4-I5P-3fh8lA": {
       "video_id": "uJwnyRcry28",
       "title": "【リトルナイトメア #02 】この子を、化け物から守って見せるんだ!!完全初見!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS ※ネタバレあり",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-04T07:00:40.000Z",
       "start_scheduled": "2026-05-04T07:00:00.000Z",
       "start_actual": "2026-05-04T07:00:40.000Z",
-      "live_viewers": 3798,
+      "live_viewers": 3868,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-04T07:15:17.000Z",
       "start_scheduled": "2026-05-04T07:15:00.000Z",
       "start_actual": "2026-05-04T07:15:17.000Z",
-      "live_viewers": 2979,
+      "live_viewers": 2991,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-04T07:58:33.000Z",
       "start_scheduled": "2026-05-04T08:00:00.000Z",
       "start_actual": "2026-05-04T07:58:33.000Z",
-      "live_viewers": 2504,
+      "live_viewers": 3448,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-04T07:58:53.000Z",
       "start_scheduled": "2026-05-04T08:00:00.000Z",
       "start_actual": "2026-05-04T07:58:53.000Z",
-      "live_viewers": 165,
+      "live_viewers": 208,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
