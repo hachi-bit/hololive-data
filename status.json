@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777888219,
+  "cached_at": 1777888279,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "Y505e4FZ9dA",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-04T00:00:41.000Z",
       "start_scheduled": "2026-05-04T00:00:00.000Z",
       "start_actual": "2026-05-04T00:00:41.000Z",
-      "live_viewers": 11215,
+      "live_viewers": 11379,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "R9cdLAXxfWw",
-      "title": "【WINDROSE】今日はソロでクエストとかやる!!Part3【岸堂天真/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Windrose",
-      "published_at": "2026-05-04T06:57:41.000Z",
-      "available_at": "2026-05-04T07:00:45.000Z",
-      "start_scheduled": "2026-05-04T07:00:00.000Z",
-      "start_actual": "2026-05-04T07:00:45.000Z",
-      "live_viewers": 235,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCa9Y57gfeY0Zro_noHRVrnw": {
@@ -91,7 +71,7 @@
       "available_at": "2026-05-04T07:58:53.000Z",
       "start_scheduled": "2026-05-04T08:00:00.000Z",
       "start_actual": "2026-05-04T07:58:53.000Z",
-      "live_viewers": 385,
+      "live_viewers": 374,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-04T09:04:54.000Z",
       "start_scheduled": "2026-05-04T09:00:00.000Z",
       "start_actual": "2026-05-04T09:04:54.000Z",
-      "live_viewers": 5498,
+      "live_viewers": 5540,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-04T09:43:52.000Z",
       "start_scheduled": "2026-05-04T09:45:00.000Z",
       "start_actual": "2026-05-04T09:43:52.000Z",
-      "live_viewers": 2488,
+      "live_viewers": 3075,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
