@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777857079,
+  "cached_at": 1777857139,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "P5gI0xAJ17k",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-04T00:00:41.000Z",
       "start_scheduled": "2026-05-04T00:00:00.000Z",
       "start_actual": "2026-05-04T00:00:41.000Z",
-      "live_viewers": 20170,
+      "live_viewers": 19303,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -58,6 +58,25 @@
         "org": "Twitch Independents",
         "suborg": "geGeeXPlus",
         "photo": "https://yt3.ggpht.com/x63R9OF3x0wPSNhzVwSD1Ifk7NgLOlEiW1YZiMYnHlgKvgtqN2jPkVgdq0cHjShR0IdT_J_w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
+      "video_id": "AD5Xpdnt-Rs",
+      "title": "≪PRAGMATA≫ Triggering Parent Mode....First Playthrough!【SPOILER WARNING】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PRAGMATA",
+      "published_at": "2026-05-03T11:30:53.000Z",
+      "available_at": "2026-05-04T01:10:00.000Z",
+      "start_scheduled": "2026-05-04T01:10:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "name": "Hakos Baelz Ch. hololive-EN",
+        "english_name": "Hakos Baelz",
+        "org": "Hololive",
+        "suborg": "ibEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
