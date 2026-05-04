@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777908919,
+  "cached_at": 1777908985,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "JHO8eUBTR9M",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-04T09:04:54.000Z",
       "start_scheduled": "2026-05-04T09:00:00.000Z",
       "start_actual": "2026-05-04T09:04:54.000Z",
-      "live_viewers": 5627,
+      "live_viewers": 5597,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-04T09:43:52.000Z",
       "start_scheduled": "2026-05-04T09:45:00.000Z",
       "start_actual": "2026-05-04T09:43:52.000Z",
-      "live_viewers": 3667,
+      "live_viewers": 3595,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -61,26 +61,6 @@
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdyqAaZDKHXg4Ahi7VENThQ": {
-      "video_id": "4se_7QogWcc",
-      "title": "【同時視聴】[14話~19話] 機動戦士ガンダム 鉄血のオルフェンズ 一緒に観ようッ!!【白銀ノエル/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-05-03T14:10:06.000Z",
-      "available_at": "2026-05-04T12:31:28.000Z",
-      "start_scheduled": "2026-05-04T12:30:00.000Z",
-      "start_actual": "2026-05-04T12:31:28.000Z",
-      "live_viewers": 1891,
-      "channel": {
-        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-        "name": "Noel Ch. 白銀ノエル",
-        "english_name": "Shirogane Noel",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1iA6_NT4mtAcIII6ygrvCw": {
       "video_id": "yCVakJuei6k",
       "title": "【Supermarket Together】わしがこのスーパーをでかくする【轟はじめ/ReGLOSS】",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-04T13:00:32.000Z",
       "start_scheduled": "2026-05-04T13:00:00.000Z",
       "start_actual": "2026-05-04T13:00:32.000Z",
-      "live_viewers": 5487,
+      "live_viewers": 5418,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-04T13:15:47.000Z",
       "start_scheduled": "2026-05-04T13:00:00.000Z",
       "start_actual": "2026-05-04T13:15:47.000Z",
-      "live_viewers": 5522,
+      "live_viewers": 5622,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-04T14:01:06.000Z",
       "start_scheduled": "2026-05-04T14:00:00.000Z",
       "start_actual": "2026-05-04T14:01:06.000Z",
-      "live_viewers": 161,
+      "live_viewers": 154,
       "channel": {
         "id": "UCIa2OxCyhjWjJke-9yYNbwA",
         "name": "Pia Meraleo - JKT48V",
