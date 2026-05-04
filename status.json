@@ -1,26 +1,6 @@
 {
-  "cached_at": 1777880419,
+  "cached_at": 1777880479,
   "lives": {
-    "UC9p_lqQ0FEDz327Vgf5JwqA": {
-      "video_id": "P5gI0xAJ17k",
-      "title": "【PORTAL 2】BRAIN CELL STILL ALIVE",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "portal",
-      "published_at": "2026-05-03T15:16:07.000Z",
-      "available_at": "2026-05-03T22:56:20.000Z",
-      "start_scheduled": "2026-05-03T23:00:00.000Z",
-      "start_actual": "2026-05-03T22:56:20.000Z",
-      "live_viewers": 4368,
-      "channel": {
-        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-        "name": "Koseki Bijou Ch. hololive-EN",
-        "english_name": "Koseki Bijou",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "Y505e4FZ9dA",
       "title": "【100年桃鉄ハンデ戦】はじめての54年ハンデ戦!~54年間最弱CPU豆鬼がプレイしたデータで最強CPU3人に逆転できるのか!?~ #1 【博衣こより/ホロライブ】",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-04T00:00:41.000Z",
       "start_scheduled": "2026-05-04T00:00:00.000Z",
       "start_actual": "2026-05-04T00:00:41.000Z",
-      "live_viewers": 12257,
+      "live_viewers": 12202,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-04T07:00:40.000Z",
       "start_scheduled": "2026-05-04T07:00:00.000Z",
       "start_actual": "2026-05-04T07:00:40.000Z",
-      "live_viewers": 4059,
+      "live_viewers": 4212,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-04T07:15:17.000Z",
       "start_scheduled": "2026-05-04T07:15:00.000Z",
       "start_actual": "2026-05-04T07:15:17.000Z",
-      "live_viewers": 1083,
+      "live_viewers": 3399,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
