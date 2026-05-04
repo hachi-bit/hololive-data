@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777907599,
+  "cached_at": 1777907660,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "JHO8eUBTR9M",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-04T12:31:28.000Z",
       "start_scheduled": "2026-05-04T12:30:00.000Z",
       "start_actual": "2026-05-04T12:31:28.000Z",
-      "live_viewers": 2140,
+      "live_viewers": 2165,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-04T14:01:06.000Z",
       "start_scheduled": "2026-05-04T14:00:00.000Z",
       "start_actual": "2026-05-04T14:01:06.000Z",
-      "live_viewers": 134,
+      "live_viewers": 137,
       "channel": {
         "id": "UCIa2OxCyhjWjJke-9yYNbwA",
         "name": "Pia Meraleo - JKT48V",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-04T14:01:13.000Z",
       "start_scheduled": "2026-05-04T14:00:00.000Z",
       "start_actual": "2026-05-04T14:01:13.000Z",
-      "live_viewers": 198,
+      "live_viewers": 207,
       "channel": {
         "id": "UCJlcEuTs4LNMPn0xL3czRrA",
         "name": "ONShannon ",
@@ -199,26 +199,6 @@
         "org": "AKA Virtual",
         "suborg": "0gChao.5",
         "photo": "https://yt3.ggpht.com/vofOOZs6Rby_Cx6OlTM2YvfIHFm7IfP1ZSmVmxU6_OBiBcnvsl72O5SpSj6ZGPjY5452hWzF=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCFTLzh12_nrtzqBPsTCqenA": {
-      "video_id": "QOhx69w-X_Q",
-      "title": "『#子供に戻ったらやりたいこと 』 #アキちょこナイパレ 第34回 ~ホロライブ深夜ラジオ~",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-04-27T16:28:28.000Z",
-      "available_at": "2026-05-04T14:44:58.000Z",
-      "start_scheduled": "2026-05-04T14:40:00.000Z",
-      "start_actual": "2026-05-04T14:44:58.000Z",
-      "live_viewers": 3257,
-      "channel": {
-        "id": "UCFTLzh12_nrtzqBPsTCqenA",
-        "name": "アキロゼCh。Vtuber/ホロライブ所属",
-        "english_name": "Aki Rosenthal",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
