@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777909999,
+  "cached_at": 1777910119,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "JHO8eUBTR9M",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-04T09:04:54.000Z",
       "start_scheduled": "2026-05-04T09:00:00.000Z",
       "start_actual": "2026-05-04T09:04:54.000Z",
-      "live_viewers": 5941,
+      "live_viewers": 5904,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvInZx9h3jC2JzsIzoOebWg": {
-      "video_id": "PDScZR8VfLE",
-      "title": "【pop'n music Lively】フレアの曲とか楽曲パックの曲とか遊んでみよう!【不知火フレア/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "pop'n_music",
-      "published_at": "2026-05-04T10:57:24.000Z",
-      "available_at": "2026-05-04T13:15:47.000Z",
-      "start_scheduled": "2026-05-04T13:00:00.000Z",
-      "start_actual": "2026-05-04T13:15:47.000Z",
-      "live_viewers": 5244,
-      "channel": {
-        "id": "UCvInZx9h3jC2JzsIzoOebWg",
-        "name": "Flare Ch. 不知火フレア",
-        "english_name": "Shiranui Flare",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCjk2nKmHzgH5Xy-C5qYRd5A": {
@@ -151,7 +131,7 @@
       "available_at": "2026-05-04T14:01:13.000Z",
       "start_scheduled": "2026-05-04T14:00:00.000Z",
       "start_actual": "2026-05-04T14:01:13.000Z",
-      "live_viewers": 201,
+      "live_viewers": 197,
       "channel": {
         "id": "UCJlcEuTs4LNMPn0xL3czRrA",
         "name": "ONShannon ",
