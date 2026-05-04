@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777905620,
+  "cached_at": 1777905681,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "JHO8eUBTR9M",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-04T09:04:54.000Z",
       "start_scheduled": "2026-05-04T09:00:00.000Z",
       "start_actual": "2026-05-04T09:04:54.000Z",
-      "live_viewers": 4732,
+      "live_viewers": 5073,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-04T09:43:52.000Z",
       "start_scheduled": "2026-05-04T09:45:00.000Z",
       "start_actual": "2026-05-04T09:43:52.000Z",
-      "live_viewers": 5278,
+      "live_viewers": 5680,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-04T10:02:27.000Z",
       "start_scheduled": "2026-05-04T10:00:00.000Z",
       "start_actual": "2026-05-04T10:02:27.000Z",
-      "live_viewers": 20225,
+      "live_viewers": 20964,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-04T12:05:42.000Z",
       "start_scheduled": "2026-05-04T12:00:00.000Z",
       "start_actual": "2026-05-04T12:05:42.000Z",
-      "live_viewers": 5460,
+      "live_viewers": 5956,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -141,26 +141,6 @@
         "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCCzUftO8KOVkV4wQG1vkUvg": {
-      "video_id": "CvN02o9LAXQ",
-      "title": "【逆凸】誰でもいいから寝かしつけてよ───【ホロライブ/宝鐘マリン】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "totsu",
-      "published_at": "2026-05-04T04:41:19.000Z",
-      "available_at": "2026-05-04T13:03:23.000Z",
-      "start_scheduled": "2026-05-04T13:00:00.000Z",
-      "start_actual": "2026-05-04T13:03:23.000Z",
-      "live_viewers": 28450,
-      "channel": {
-        "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-        "name": "Marine Ch. 宝鐘マリン",
-        "english_name": "Houshou Marine",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCvInZx9h3jC2JzsIzoOebWg": {
       "video_id": "PDScZR8VfLE",
       "title": "【pop'n music Lively】フレアの曲とか楽曲パックの曲とか遊んでみよう!【不知火フレア/ホロライブ】",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-04T13:15:47.000Z",
       "start_scheduled": "2026-05-04T13:00:00.000Z",
       "start_actual": "2026-05-04T13:15:47.000Z",
-      "live_viewers": 3982,
+      "live_viewers": 4775,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-04T14:00:21.000Z",
       "start_scheduled": "2026-05-04T14:00:00.000Z",
       "start_actual": "2026-05-04T14:00:21.000Z",
-      "live_viewers": 2404,
+      "live_viewers": 2552,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-04T14:01:06.000Z",
       "start_scheduled": "2026-05-04T14:00:00.000Z",
       "start_actual": "2026-05-04T14:01:06.000Z",
-      "live_viewers": 147,
+      "live_viewers": 138,
       "channel": {
         "id": "UCIa2OxCyhjWjJke-9yYNbwA",
         "name": "Pia Meraleo - JKT48V",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-04T14:01:13.000Z",
       "start_scheduled": "2026-05-04T14:00:00.000Z",
       "start_actual": "2026-05-04T14:01:13.000Z",
-      "live_viewers": 207,
+      "live_viewers": 217,
       "channel": {
         "id": "UCJlcEuTs4LNMPn0xL3czRrA",
         "name": "ONShannon ",
