@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777906040,
+  "cached_at": 1777906101,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "JHO8eUBTR9M",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-04T09:43:52.000Z",
       "start_scheduled": "2026-05-04T09:45:00.000Z",
       "start_actual": "2026-05-04T09:43:52.000Z",
-      "live_viewers": 5737,
+      "live_viewers": 5963,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "iKLwRAIiblQ",
-      "title": "【Windrose/ウィンドローズ】話題の海賊サバイバルぼたんちゃんとやってみる!海賊王におれはなるっ!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Windrose",
-      "published_at": "2026-05-04T09:16:57.000Z",
-      "available_at": "2026-05-04T10:02:27.000Z",
-      "start_scheduled": "2026-05-04T10:00:00.000Z",
-      "start_actual": "2026-05-04T10:02:27.000Z",
-      "live_viewers": 19706,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9LSiN9hXI55svYEBrrK-tw": {
@@ -131,7 +111,7 @@
       "available_at": "2026-05-04T13:15:47.000Z",
       "start_scheduled": "2026-05-04T13:00:00.000Z",
       "start_actual": "2026-05-04T13:15:47.000Z",
-      "live_viewers": 4962,
+      "live_viewers": 5575,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-04T14:01:06.000Z",
       "start_scheduled": "2026-05-04T14:00:00.000Z",
       "start_actual": "2026-05-04T14:01:06.000Z",
-      "live_viewers": 126,
+      "live_viewers": 124,
       "channel": {
         "id": "UCIa2OxCyhjWjJke-9yYNbwA",
         "name": "Pia Meraleo - JKT48V",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-04T14:01:13.000Z",
       "start_scheduled": "2026-05-04T14:00:00.000Z",
       "start_actual": "2026-05-04T14:01:13.000Z",
-      "live_viewers": 198,
+      "live_viewers": 180,
       "channel": {
         "id": "UCJlcEuTs4LNMPn0xL3czRrA",
         "name": "ONShannon ",
@@ -228,9 +208,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-04-27T16:28:28.000Z",
-      "available_at": "2026-05-04T14:40:00.000Z",
+      "available_at": "2026-05-04T14:44:58.000Z",
       "start_scheduled": "2026-05-04T14:40:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-04T14:44:58.000Z",
+      "live_viewers": 1808,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
