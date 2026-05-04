@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777885398,
+  "cached_at": 1777885459,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "Y505e4FZ9dA",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-04T04:52:02.000Z",
       "start_scheduled": "2026-05-04T05:00:00.000Z",
       "start_actual": "2026-05-04T04:52:02.000Z",
-      "live_viewers": 11021,
+      "live_viewers": 10940,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-04T06:00:39.000Z",
       "start_scheduled": "2026-05-04T06:00:00.000Z",
       "start_actual": "2026-05-04T06:00:39.000Z",
-      "live_viewers": 525,
+      "live_viewers": 530,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -139,6 +139,45 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKMWFR6lAstLa7Vbf5dH7ig": {
+      "video_id": "JHO8eUBTR9M",
+      "title": "【ポケモン/リーフグリーン】#5 パラスと一緒に初見ポケモン!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pokemon",
+      "published_at": "2026-05-03T19:22:50.000Z",
+      "available_at": "2026-05-04T09:00:00.000Z",
+      "start_scheduled": "2026-05-04T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+        "english_name": "Rindo Chihaya",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCQ0UDLQCjY0rmuxCDE38FGg": {
+      "video_id": "_Wls4gK4xts",
+      "title": "【鳴潮2周年】2周年ってことはガチャから始めなきゃですよね!?【ホロライブ/夏色まつり】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Wuthering_Waves",
+      "published_at": "2026-05-03T15:44:11.000Z",
+      "available_at": "2026-05-04T09:01:14.000Z",
+      "start_scheduled": "2026-05-04T09:00:00.000Z",
+      "start_actual": "2026-05-04T09:01:14.000Z",
+      "live_viewers": 608,
+      "channel": {
+        "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+        "name": "Matsuri Channel 夏色まつり",
+        "english_name": "Natsuiro Matsuri",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
