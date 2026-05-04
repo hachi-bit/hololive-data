@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777892419,
+  "cached_at": 1777892480,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "Y505e4FZ9dA",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-04T07:58:33.000Z",
       "start_scheduled": "2026-05-04T08:00:00.000Z",
       "start_actual": "2026-05-04T07:58:33.000Z",
-      "live_viewers": 7585,
+      "live_viewers": 7363,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCQ0UDLQCjY0rmuxCDE38FGg": {
-      "video_id": "_Wls4gK4xts",
-      "title": "【鳴潮2周年】2周年ってことはガチャから始めなきゃですよね!?【ホロライブ/夏色まつり】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Wuthering_Waves",
-      "published_at": "2026-05-03T15:44:11.000Z",
-      "available_at": "2026-05-04T09:01:14.000Z",
-      "start_scheduled": "2026-05-04T09:00:00.000Z",
-      "start_actual": "2026-05-04T09:01:14.000Z",
-      "live_viewers": 2621,
-      "channel": {
-        "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-        "name": "Matsuri Channel 夏色まつり",
-        "english_name": "Natsuiro Matsuri",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
@@ -131,7 +111,7 @@
       "available_at": "2026-05-04T10:02:27.000Z",
       "start_scheduled": "2026-05-04T10:00:00.000Z",
       "start_actual": "2026-05-04T10:02:27.000Z",
-      "live_viewers": 26998,
+      "live_viewers": 26962,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-04T10:05:06.000Z",
       "start_scheduled": "2026-05-04T10:00:00.000Z",
       "start_actual": "2026-05-04T10:05:06.000Z",
-      "live_viewers": 13523,
+      "live_viewers": 13588,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
