@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777998141,
+  "cached_at": 1777998201,
   "lives": {
     "UCtyWhCj3AqKh2dXctLkDtng": {
       "video_id": "yOJd3m71nFU",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-05T11:00:23.000Z",
       "start_scheduled": "2026-05-05T11:00:00.000Z",
       "start_actual": "2026-05-05T11:00:23.000Z",
-      "live_viewers": 2874,
+      "live_viewers": 2888,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-05T13:02:47.000Z",
       "start_scheduled": "2026-05-05T13:00:00.000Z",
       "start_actual": "2026-05-05T13:02:47.000Z",
-      "live_viewers": 7644,
+      "live_viewers": 7417,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-05T14:00:22.000Z",
       "start_scheduled": "2026-05-05T14:00:00.000Z",
       "start_actual": "2026-05-05T14:00:22.000Z",
-      "live_viewers": 2632,
+      "live_viewers": 2646,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-05T14:17:05.000Z",
       "start_scheduled": "2026-05-05T14:15:00.000Z",
       "start_actual": "2026-05-05T14:17:05.000Z",
-      "live_viewers": 565,
+      "live_viewers": 559,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
