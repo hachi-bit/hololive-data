@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777950079,
+  "cached_at": 1777950143,
   "lives": {
     "UCW5uhrG1eCBYditmhL0Ykjw": {
       "video_id": "Y9eiIQRNwNY",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-05T01:26:13.000Z",
       "start_scheduled": "2026-05-05T01:30:00.000Z",
       "start_actual": "2026-05-05T01:26:13.000Z",
-      "live_viewers": 4988,
+      "live_viewers": 4941,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -119,6 +119,65 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "ciEOEVZSY58",
+      "title": "【 ドラゴンボールZ KAKAROT 】完全初見!DAIMA編PART2。【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dragon_Ball_Z:_Kakarot",
+      "published_at": "2026-05-04T18:40:15.000Z",
+      "available_at": "2026-05-05T03:00:00.000Z",
+      "start_scheduled": "2026-05-05T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "nmdGo_KLZeg",
+      "title": "ホロメンが全力でつくった知育菓子を見てくれ!! #ししろんのゴールデンなウィーク ④【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-05T03:00:06.000Z",
+      "available_at": "2026-05-05T03:00:06.000Z",
+      "start_scheduled": "2026-05-05T03:00:00.000Z",
+      "start_actual": "2026-05-05T03:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTVSOgYuSWmNAt-lnJPkEEw": {
+      "video_id": "UTIkb-h-eHk",
+      "title": "【TOMODACHI LIFE: LIVING THE DREAM】THEIR SUFFERING IS MY AMUSEMENT",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-04T07:25:27.000Z",
+      "available_at": "2026-05-05T03:00:10.000Z",
+      "start_scheduled": "2026-05-05T03:00:00.000Z",
+      "start_actual": "2026-05-05T03:00:10.000Z",
+      "live_viewers": 125,
+      "channel": {
+        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
+        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
+        "english_name": "Jurard T Rexford",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
