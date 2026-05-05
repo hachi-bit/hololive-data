@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777987341,
+  "cached_at": 1777987401,
   "lives": {
     "UC1uv2Oq6kNxgATlCiez59hw": {
       "video_id": "CBlvSHVoeuI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-05T07:00:50.000Z",
       "start_scheduled": "2026-05-05T07:00:00.000Z",
       "start_actual": "2026-05-05T07:00:50.000Z",
-      "live_viewers": 10562,
+      "live_viewers": 10237,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-05T11:03:03.000Z",
       "start_scheduled": "2026-05-05T11:00:00.000Z",
       "start_actual": "2026-05-05T11:03:03.000Z",
-      "live_viewers": 54451,
+      "live_viewers": 54051,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-05T12:00:30.000Z",
       "start_scheduled": "2026-05-05T12:00:00.000Z",
       "start_actual": "2026-05-05T12:00:30.000Z",
-      "live_viewers": 36117,
+      "live_viewers": 36032,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-05T12:02:28.000Z",
       "start_scheduled": "2026-05-05T12:00:00.000Z",
       "start_actual": "2026-05-05T12:02:28.000Z",
-      "live_viewers": 11092,
+      "live_viewers": 10309,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-05T12:30:00.000Z",
       "start_scheduled": "2026-05-05T12:30:00.000Z",
       "start_actual": "2026-05-05T12:30:00.000Z",
-      "live_viewers": 929,
+      "live_viewers": 972,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-05T13:00:05.000Z",
       "start_scheduled": "2026-05-05T13:00:00.000Z",
       "start_actual": "2026-05-05T13:00:05.000Z",
-      "live_viewers": 907,
+      "live_viewers": 928,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -311,7 +311,7 @@
       "available_at": "2026-05-05T13:02:47.000Z",
       "start_scheduled": "2026-05-05T13:00:00.000Z",
       "start_actual": "2026-05-05T13:02:47.000Z",
-      "live_viewers": 5355,
+      "live_viewers": 5557,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
