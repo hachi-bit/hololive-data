@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778015361,
+  "cached_at": 1778015424,
   "lives": {
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
       "video_id": "DJ1rIYR5R2s",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-05T19:59:47.000Z",
       "start_scheduled": "2026-05-05T20:00:00.000Z",
       "start_actual": "2026-05-05T19:59:47.000Z",
-      "live_viewers": 2964,
+      "live_viewers": 2999,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -28,9 +28,10 @@
       "status": "live",
       "topic_id": "13_Sentinels:_Aegis_Rim",
       "published_at": "2026-05-05T07:48:41.000Z",
-      "available_at": "2026-05-05T21:00:00.000Z",
+      "available_at": "2026-05-05T21:03:48.000Z",
       "start_scheduled": "2026-05-05T21:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-05T21:03:48.000Z",
+      "live_viewers": 2248,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
