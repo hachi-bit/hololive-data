@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777993583,
+  "cached_at": 1777993641,
   "lives": {
     "UCtyWhCj3AqKh2dXctLkDtng": {
       "video_id": "yOJd3m71nFU",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-05T13:00:05.000Z",
       "start_scheduled": "2026-05-05T13:00:00.000Z",
       "start_actual": "2026-05-05T13:00:05.000Z",
-      "live_viewers": 1582,
+      "live_viewers": 1600,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-05T14:00:22.000Z",
       "start_scheduled": "2026-05-05T14:00:00.000Z",
       "start_actual": "2026-05-05T14:00:22.000Z",
-      "live_viewers": 1986,
+      "live_viewers": 2052,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-05T14:04:06.000Z",
       "start_scheduled": "2026-05-05T14:00:00.000Z",
       "start_actual": "2026-05-05T14:04:06.000Z",
-      "live_viewers": 20967,
+      "live_viewers": 20177,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-05T14:22:52.000Z",
       "start_scheduled": "2026-05-05T14:30:00.000Z",
       "start_actual": "2026-05-05T14:22:52.000Z",
-      "live_viewers": 6148,
+      "live_viewers": 6360,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -208,9 +208,10 @@
       "status": "live",
       "topic_id": "Final_Fantasy_Online",
       "published_at": "2026-05-05T14:12:39.000Z",
-      "available_at": "2026-05-05T15:00:00.000Z",
+      "available_at": "2026-05-05T15:03:24.000Z",
       "start_scheduled": "2026-05-05T15:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-05T15:03:24.000Z",
+      "live_viewers": 2315,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
