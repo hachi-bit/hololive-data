@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777986741,
+  "cached_at": 1777986801,
   "lives": {
     "UC1uv2Oq6kNxgATlCiez59hw": {
       "video_id": "CBlvSHVoeuI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-05T07:00:50.000Z",
       "start_scheduled": "2026-05-05T07:00:00.000Z",
       "start_actual": "2026-05-05T07:00:50.000Z",
-      "live_viewers": 8803,
+      "live_viewers": 9276,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChSvpZYRPh0FvG4SJGSga3g": {
-      "video_id": "xqVgZuTz6nw",
-      "title": "【トモダチコレクション】シャバにENメンバーを増やそう！【影山シエン/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-05T05:43:42.000Z",
-      "available_at": "2026-05-05T08:01:10.000Z",
-      "start_scheduled": "2026-05-05T08:00:00.000Z",
-      "start_actual": "2026-05-05T08:01:10.000Z",
-      "live_viewers": 893,
-      "channel": {
-        "id": "UChSvpZYRPh0FvG4SJGSga3g",
-        "name": "Shien Ch.影山シエン",
-        "english_name": "Kageyama Shien",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCtyWhCj3AqKh2dXctLkDtng": {
@@ -71,7 +51,7 @@
       "available_at": "2026-05-05T11:03:03.000Z",
       "start_scheduled": "2026-05-05T11:00:00.000Z",
       "start_actual": "2026-05-05T11:03:03.000Z",
-      "live_viewers": 54907,
+      "live_viewers": 54172,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-05T11:59:36.000Z",
       "start_scheduled": "2026-05-05T12:00:00.000Z",
       "start_actual": "2026-05-05T11:59:36.000Z",
-      "live_viewers": 12183,
+      "live_viewers": 12377,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-05T12:00:28.000Z",
       "start_scheduled": "2026-05-05T12:00:00.000Z",
       "start_actual": "2026-05-05T12:00:28.000Z",
-      "live_viewers": 3246,
+      "live_viewers": 3220,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-05T12:00:30.000Z",
       "start_scheduled": "2026-05-05T12:00:00.000Z",
       "start_actual": "2026-05-05T12:00:30.000Z",
-      "live_viewers": 35393,
+      "live_viewers": 34952,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-05T12:01:59.000Z",
       "start_scheduled": "2026-05-05T12:00:00.000Z",
       "start_actual": "2026-05-05T12:01:59.000Z",
-      "live_viewers": 7602,
+      "live_viewers": 7614,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-05T12:02:28.000Z",
       "start_scheduled": "2026-05-05T12:00:00.000Z",
       "start_actual": "2026-05-05T12:02:28.000Z",
-      "live_viewers": 11430,
+      "live_viewers": 11373,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-05T12:16:11.000Z",
       "start_scheduled": "2026-05-05T12:15:00.000Z",
       "start_actual": "2026-05-05T12:16:11.000Z",
-      "live_viewers": 278,
+      "live_viewers": 344,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-05T12:30:00.000Z",
       "start_scheduled": "2026-05-05T12:30:00.000Z",
       "start_actual": "2026-05-05T12:30:00.000Z",
-      "live_viewers": 904,
+      "live_viewers": 919,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-05T13:00:05.000Z",
       "start_scheduled": "2026-05-05T13:00:00.000Z",
       "start_actual": "2026-05-05T13:00:05.000Z",
-      "live_viewers": 670,
+      "live_viewers": 756,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-05T13:02:47.000Z",
       "start_scheduled": "2026-05-05T13:00:00.000Z",
       "start_actual": "2026-05-05T13:02:47.000Z",
-      "live_viewers": 4107,
+      "live_viewers": 4649,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
