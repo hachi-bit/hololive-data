@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777985299,
+  "cached_at": 1777985361,
   "lives": {
     "UC1uv2Oq6kNxgATlCiez59hw": {
       "video_id": "CBlvSHVoeuI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-05T07:00:50.000Z",
       "start_scheduled": "2026-05-05T07:00:00.000Z",
       "start_actual": "2026-05-05T07:00:50.000Z",
-      "live_viewers": 8175,
+      "live_viewers": 8008,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-05T11:03:03.000Z",
       "start_scheduled": "2026-05-05T11:00:00.000Z",
       "start_actual": "2026-05-05T11:03:03.000Z",
-      "live_viewers": 55938,
+      "live_viewers": 55880,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-05T12:00:28.000Z",
       "start_scheduled": "2026-05-05T12:00:00.000Z",
       "start_actual": "2026-05-05T12:00:28.000Z",
-      "live_viewers": 2738,
+      "live_viewers": 2842,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-05T12:00:30.000Z",
       "start_scheduled": "2026-05-05T12:00:00.000Z",
       "start_actual": "2026-05-05T12:00:30.000Z",
-      "live_viewers": 36247,
+      "live_viewers": 35628,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-05T12:02:28.000Z",
       "start_scheduled": "2026-05-05T12:00:00.000Z",
       "start_actual": "2026-05-05T12:02:28.000Z",
-      "live_viewers": 9996,
+      "live_viewers": 9930,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-05T12:16:11.000Z",
       "start_scheduled": "2026-05-05T12:15:00.000Z",
       "start_actual": "2026-05-05T12:16:11.000Z",
-      "live_viewers": 260,
+      "live_viewers": 268,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-05T12:30:00.000Z",
       "start_scheduled": "2026-05-05T12:30:00.000Z",
       "start_actual": "2026-05-05T12:30:00.000Z",
-      "live_viewers": 747,
+      "live_viewers": 768,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
