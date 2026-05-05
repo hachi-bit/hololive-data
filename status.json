@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777939339,
+  "cached_at": 1777939399,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "SVvqOKTNk08",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-04T21:44:15.000Z",
       "start_scheduled": "2026-05-04T21:30:00.000Z",
       "start_actual": "2026-05-04T21:44:15.000Z",
-      "live_viewers": 4950,
+      "live_viewers": 5185,
       "channel": {
         "id": "UCW5uhrG1eCBYditmhL0Ykjw",
         "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -39,6 +39,25 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6eWCld0KwmyHFbAqK3V-Rw": {
+      "video_id": "W3f2-1mzGAk",
+      "title": "【 #こより100年桃鉄ハンデ戦 】はじめての54年ハンデ戦!~54年間最弱CPU豆鬼がプレイしたデータで最強CPU3人に逆転し、全物件買い占めできるのか!?~ #2 【博衣こより/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "momotaro_dentetsu",
+      "published_at": "2026-05-04T12:39:44.000Z",
+      "available_at": "2026-05-05T00:00:00.000Z",
+      "start_scheduled": "2026-05-05T00:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+        "name": "Koyori ch. 博衣こより - holoX -",
+        "english_name": "Hakui Koyori",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
