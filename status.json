@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777971798,
+  "cached_at": 1777971859,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "W3f2-1mzGAk",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-05T03:00:10.000Z",
       "start_scheduled": "2026-05-05T03:00:00.000Z",
       "start_actual": "2026-05-05T03:00:10.000Z",
-      "live_viewers": 750,
+      "live_viewers": 740,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-05T03:17:08.000Z",
       "start_scheduled": "2026-05-05T03:15:00.000Z",
       "start_actual": "2026-05-05T03:17:08.000Z",
-      "live_viewers": 384,
+      "live_viewers": 386,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-05T07:00:50.000Z",
       "start_scheduled": "2026-05-05T07:00:00.000Z",
       "start_actual": "2026-05-05T07:00:50.000Z",
-      "live_viewers": 9315,
+      "live_viewers": 9343,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-05T08:08:50.000Z",
       "start_scheduled": "2026-05-05T08:10:00.000Z",
       "start_actual": "2026-05-05T08:08:50.000Z",
-      "live_viewers": 1887,
+      "live_viewers": 1635,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -139,6 +139,46 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "ZpZormuECDc",
+      "title": "【 お知らせあり…! 】くまヴィヴィといっしょ!VRChat【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "VRChat",
+      "published_at": "2026-05-05T05:31:57.000Z",
+      "available_at": "2026-05-05T08:59:34.000Z",
+      "start_scheduled": "2026-05-05T09:00:00.000Z",
+      "start_actual": "2026-05-05T08:59:34.000Z",
+      "live_viewers": 4306,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1iA6_NT4mtAcIII6ygrvCw": {
+      "video_id": "pZ7e866zgiM",
+      "title": "元ジャズダンサーがハウスダンス習ってみた【轟はじめ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dancing",
+      "published_at": "2026-05-05T09:00:06.000Z",
+      "available_at": "2026-05-05T09:00:06.000Z",
+      "start_scheduled": "2026-05-05T09:00:00.000Z",
+      "start_actual": "2026-05-05T09:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+        "english_name": "Todoroki Hajime",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
