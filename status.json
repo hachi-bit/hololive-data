@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777975339,
+  "cached_at": 1777975399,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "W3f2-1mzGAk",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-05T07:00:50.000Z",
       "start_scheduled": "2026-05-05T07:00:00.000Z",
       "start_actual": "2026-05-05T07:00:50.000Z",
-      "live_viewers": 9783,
+      "live_viewers": 9889,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-05T08:59:34.000Z",
       "start_scheduled": "2026-05-05T09:00:00.000Z",
       "start_actual": "2026-05-05T08:59:34.000Z",
-      "live_viewers": 10707,
+      "live_viewers": 10781,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -119,6 +119,85 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCK9V2B22uJYu3N7eR_BT9QA": {
+      "video_id": "RWI1gEPHrSY",
+      "title": "【かしわ記念】競馬配信🔰積み上げた王者の意地か、新星の台頭か。【尾丸ポルカ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Horse_racing",
+      "published_at": "2026-05-04T23:33:27.000Z",
+      "available_at": "2026-05-05T09:58:58.000Z",
+      "start_scheduled": "2026-05-05T10:00:00.000Z",
+      "start_actual": "2026-05-05T09:58:58.000Z",
+      "live_viewers": 1087,
+      "channel": {
+        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+        "name": "Polka Ch. 尾丸ポルカ",
+        "english_name": "Omaru Polka",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "NKh3YjQAIUc",
+      "title": "【 かしわ記念 】地方に目覚めた女。かしわ記念で的中を目指す。【鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Horse_racing",
+      "published_at": "2026-05-05T03:18:09.000Z",
+      "available_at": "2026-05-05T10:00:00.000Z",
+      "start_scheduled": "2026-05-05T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp6993wxpyDPHUpavwDFqgg": {
+      "video_id": "Hco85QAF9FA",
+      "title": "ときのそら「Dream☆Story」(8th Anniversary Party「Starry Bl∞min'」Live at CLUB CITTA 2025.10.02)",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Original_Song",
+      "published_at": "2026-05-05T10:00:07.000Z",
+      "available_at": "2026-05-05T10:00:07.000Z",
+      "start_scheduled": "2026-05-05T10:00:00.000Z",
+      "start_actual": "2026-05-05T10:00:07.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCp6993wxpyDPHUpavwDFqgg",
+        "name": "SoraCh. ときのそらチャンネル",
+        "english_name": "Tokino Sora",
+        "org": "Hololive",
+        "suborg": "0v0th Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKeAhJvy8zgXWbh9duVjIaQ": {
+      "video_id": "aGz3HPaEHK0",
+      "title": "【 DDFF 】ディシディアの最新アプリゲーをみんなと遊ぼう!【アルランディス/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Final_fantasy",
+      "published_at": "2026-05-04T12:17:52.000Z",
+      "available_at": "2026-05-05T10:00:35.000Z",
+      "start_scheduled": "2026-05-05T10:00:00.000Z",
+      "start_actual": "2026-05-05T10:00:35.000Z",
+      "live_viewers": 196,
+      "channel": {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "english_name": "Arurandeisu",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
