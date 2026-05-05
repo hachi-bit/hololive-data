@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777972279,
+  "cached_at": 1777972339,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "W3f2-1mzGAk",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-05T00:00:37.000Z",
       "start_scheduled": "2026-05-05T00:00:00.000Z",
       "start_actual": "2026-05-05T00:00:37.000Z",
-      "live_viewers": 11724,
+      "live_viewers": 11495,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
-      "video_id": "ciEOEVZSY58",
-      "title": "【 ドラゴンボールZ KAKAROT 】完全初見!DAIMA編PART2。【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Dragon_Ball_Z:_Kakarot",
-      "published_at": "2026-05-04T18:40:15.000Z",
-      "available_at": "2026-05-05T03:00:41.000Z",
-      "start_scheduled": "2026-05-05T03:00:00.000Z",
-      "start_actual": "2026-05-05T03:00:41.000Z",
-      "live_viewers": 4122,
-      "channel": {
-        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "name": "Lui ch. 鷹嶺ルイ - holoX -",
-        "english_name": "Takane Lui",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
@@ -111,7 +91,7 @@
       "available_at": "2026-05-05T08:01:10.000Z",
       "start_scheduled": "2026-05-05T08:00:00.000Z",
       "start_actual": "2026-05-05T08:01:10.000Z",
-      "live_viewers": 595,
+      "live_viewers": 623,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-05T08:08:50.000Z",
       "start_scheduled": "2026-05-05T08:10:00.000Z",
       "start_actual": "2026-05-05T08:08:50.000Z",
-      "live_viewers": 2347,
+      "live_viewers": 1572,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-05T08:59:34.000Z",
       "start_scheduled": "2026-05-05T09:00:00.000Z",
       "start_actual": "2026-05-05T08:59:34.000Z",
-      "live_viewers": 6751,
+      "live_viewers": 7416,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
