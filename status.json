@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777986261,
+  "cached_at": 1777986321,
   "lives": {
     "UC1uv2Oq6kNxgATlCiez59hw": {
       "video_id": "CBlvSHVoeuI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-05T07:00:50.000Z",
       "start_scheduled": "2026-05-05T07:00:00.000Z",
       "start_actual": "2026-05-05T07:00:50.000Z",
-      "live_viewers": 8271,
+      "live_viewers": 8438,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-05T11:03:03.000Z",
       "start_scheduled": "2026-05-05T11:00:00.000Z",
       "start_actual": "2026-05-05T11:03:03.000Z",
-      "live_viewers": 54509,
+      "live_viewers": 54477,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-05T11:59:36.000Z",
       "start_scheduled": "2026-05-05T12:00:00.000Z",
       "start_actual": "2026-05-05T11:59:36.000Z",
-      "live_viewers": 11418,
+      "live_viewers": 12183,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-05T12:00:28.000Z",
       "start_scheduled": "2026-05-05T12:00:00.000Z",
       "start_actual": "2026-05-05T12:00:28.000Z",
-      "live_viewers": 2983,
+      "live_viewers": 3232,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-05T12:00:30.000Z",
       "start_scheduled": "2026-05-05T12:00:00.000Z",
       "start_actual": "2026-05-05T12:00:30.000Z",
-      "live_viewers": 34782,
+      "live_viewers": 35578,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-05T12:01:59.000Z",
       "start_scheduled": "2026-05-05T12:00:00.000Z",
       "start_actual": "2026-05-05T12:01:59.000Z",
-      "live_viewers": 8778,
+      "live_viewers": 7602,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-05T12:02:21.000Z",
       "start_scheduled": "2026-05-05T12:00:00.000Z",
       "start_actual": "2026-05-05T12:02:21.000Z",
-      "live_viewers": 6551,
+      "live_viewers": 7011,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-05T12:30:00.000Z",
       "start_scheduled": "2026-05-05T12:30:00.000Z",
       "start_actual": "2026-05-05T12:30:00.000Z",
-      "live_viewers": 873,
+      "live_viewers": 871,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -299,25 +299,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCqm3BQLlJfvkTsX_hvm0UmA": {
-      "video_id": "fAcT-LezxAY",
-      "title": "【歌枠】告知あり!第134回!わためぇ Night Fever!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-05-05T06:16:12.000Z",
-      "available_at": "2026-05-05T13:00:00.000Z",
-      "start_scheduled": "2026-05-05T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-        "name": "Watame Ch. 角巻わため",
-        "english_name": "Tsunomaki Watame",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCTvHWSfBZgtxE4sILOaurIQ": {
@@ -330,7 +311,7 @@
       "available_at": "2026-05-05T13:00:05.000Z",
       "start_scheduled": "2026-05-05T13:00:00.000Z",
       "start_actual": "2026-05-05T13:00:05.000Z",
-      "live_viewers": 369,
+      "live_viewers": 500,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -338,6 +319,26 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "fAcT-LezxAY",
+      "title": "【歌枠】告知あり!第134回!わためぇ Night Fever!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-05T06:16:12.000Z",
+      "available_at": "2026-05-05T13:02:47.000Z",
+      "start_scheduled": "2026-05-05T13:00:00.000Z",
+      "start_actual": "2026-05-05T13:02:47.000Z",
+      "live_viewers": 1475,
+      "channel": {
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
