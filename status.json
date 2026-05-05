@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777942880,
+  "cached_at": 1777942942,
   "lives": {
     "UCW5uhrG1eCBYditmhL0Ykjw": {
       "video_id": "Y9eiIQRNwNY",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-05T00:00:37.000Z",
       "start_scheduled": "2026-05-05T00:00:00.000Z",
       "start_actual": "2026-05-05T00:00:37.000Z",
-      "live_viewers": 10383,
+      "live_viewers": 10444,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -39,6 +39,65 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgnfPPb9JI3e9A4cXHnWbyg": {
+      "video_id": "1krRDpCE-J0",
+      "title": "Cleaning Your Ears With a Pressure Washer ASMR 【PowerWash Simulator 2】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PowerWash_Simulator",
+      "published_at": "2026-05-03T20:32:47.000Z",
+      "available_at": "2026-05-05T00:59:52.000Z",
+      "start_scheduled": "2026-05-05T01:00:00.000Z",
+      "start_actual": "2026-05-05T00:59:52.000Z",
+      "live_viewers": 971,
+      "channel": {
+        "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
+        "name": "Shiori Novella Ch. hololive-EN",
+        "english_name": "Shiori Novella",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9p_lqQ0FEDz327Vgf5JwqA": {
+      "video_id": "mKpHQPMkDSE",
+      "title": "【PowerWash Simulator 2】GET CLEAN WITH ADVENT! + ANNOUNCEMENT! #holoadvent",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PowerWash_Simulator",
+      "published_at": "2026-05-04T15:48:19.000Z",
+      "available_at": "2026-05-05T01:00:00.000Z",
+      "start_scheduled": "2026-05-05T01:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+        "name": "Koseki Bijou Ch. hololive-EN",
+        "english_name": "Koseki Bijou",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_sFNM0z0MWm9A6WlKPuMMg": {
+      "video_id": "nG8JZuZF9z8",
+      "title": "ADVENT CAR WASH! + ANNOUNCEMENT | PowerWash Simulator 2",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PowerWash_Simulator",
+      "published_at": "2026-05-04T05:03:20.000Z",
+      "available_at": "2026-05-05T01:00:05.000Z",
+      "start_scheduled": "2026-05-05T01:00:00.000Z",
+      "start_actual": "2026-05-05T01:00:05.000Z",
+      "live_viewers": 948,
+      "channel": {
+        "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+        "name": "Nerissa Ravencroft Ch. hololive-EN",
+        "english_name": "Nerissa Ravencroft",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
