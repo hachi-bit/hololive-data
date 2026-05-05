@@ -1,5 +1,5 @@
 {
-  "cached_at": 1777997122,
+  "cached_at": 1777997181,
   "lives": {
     "UCtyWhCj3AqKh2dXctLkDtng": {
       "video_id": "yOJd3m71nFU",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-05T12:30:00.000Z",
       "start_scheduled": "2026-05-05T12:30:00.000Z",
       "start_actual": "2026-05-05T12:30:00.000Z",
-      "live_viewers": 1492,
+      "live_viewers": 1522,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-05T13:02:47.000Z",
       "start_scheduled": "2026-05-05T13:00:00.000Z",
       "start_actual": "2026-05-05T13:02:47.000Z",
-      "live_viewers": 7826,
+      "live_viewers": 7701,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-05T14:01:52.000Z",
       "start_scheduled": "2026-05-05T14:00:00.000Z",
       "start_actual": "2026-05-05T14:01:52.000Z",
-      "live_viewers": 3395,
+      "live_viewers": 3381,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp-5t9SrOQwXMU7iIjQfARg": {
-      "video_id": "3a0uXjoUHWY",
-      "title": "【雑談】自由にお話しする枠!【ホロライブ/大神ミオ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-05T12:48:55.000Z",
-      "available_at": "2026-05-05T14:04:06.000Z",
-      "start_scheduled": "2026-05-05T14:00:00.000Z",
-      "start_actual": "2026-05-05T14:04:06.000Z",
-      "live_viewers": 17873,
-      "channel": {
-        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-        "name": "Mio Channel 大神ミオ",
-        "english_name": "Ookami Mio",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCZgOv3YDEs-ZnZWDYVwJdmA": {
@@ -191,7 +171,7 @@
       "available_at": "2026-05-05T15:03:24.000Z",
       "start_scheduled": "2026-05-05T15:00:00.000Z",
       "start_actual": "2026-05-05T15:03:24.000Z",
-      "live_viewers": 5093,
+      "live_viewers": 5318,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
