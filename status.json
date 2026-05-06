@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778071399,
+  "cached_at": 1778071463,
   "lives": {
-    "UCKMWFR6lAstLa7Vbf5dH7ig": {
-      "video_id": "3WyP7trUfMM",
-      "title": "【ガンプラ/カメラあり】ユニコーン!!!!!!つくっていく! 【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Gunpla",
-      "published_at": "2026-05-05T15:20:10.000Z",
-      "available_at": "2026-05-06T03:30:16.000Z",
-      "start_scheduled": "2026-05-06T03:30:00.000Z",
-      "start_actual": "2026-05-06T03:30:16.000Z",
-      "live_viewers": 6101,
-      "channel": {
-        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "english_name": "Rindo Chihaya",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCc88OV45ICgHbn3ZqLLb52w": {
       "video_id": "SZlMRB5C2hk",
       "title": "STREET FIGHTER 6|GW最終日!ALEXマスター耐久 - 夜十神封魔",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-06T10:59:39.000Z",
       "start_scheduled": "2026-05-06T11:00:00.000Z",
       "start_actual": "2026-05-06T10:59:39.000Z",
-      "live_viewers": 808,
+      "live_viewers": 761,
       "channel": {
         "id": "UCsg-YqdqQ-KFF0LNk23BY4A",
         "name": "樋口楓【にじさんじ所属】",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-06T12:01:30.000Z",
       "start_scheduled": "2026-05-06T12:00:00.000Z",
       "start_actual": "2026-05-06T12:01:30.000Z",
-      "live_viewers": 925,
+      "live_viewers": 893,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-06T12:02:33.000Z",
       "start_scheduled": "2026-05-06T12:00:00.000Z",
       "start_actual": "2026-05-06T12:02:33.000Z",
-      "live_viewers": 124116,
+      "live_viewers": 125468,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
