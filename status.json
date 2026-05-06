@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778055741,
+  "cached_at": 1778055802,
   "lives": {
-    "UCdyqAaZDKHXg4Ahi7VENThQ": {
-      "video_id": "mfV3u7ESArU",
-      "title": "#2【ドラゴンクエストVII Reimagined】DQ7完全初見!ずっとプレイしてみたかった7の世界へ🔥【白銀ノエル/ホロライブ】※ネタバレあり",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Dragon_Quest",
-      "published_at": "2026-05-05T15:25:11.000Z",
-      "available_at": "2026-05-06T02:00:12.000Z",
-      "start_scheduled": "2026-05-06T02:00:00.000Z",
-      "start_actual": "2026-05-06T02:00:12.000Z",
-      "live_viewers": 3869,
-      "channel": {
-        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-        "name": "Noel Ch. 白銀ノエル",
-        "english_name": "Shirogane Noel",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "x_1OYadpwyc",
       "title": "【 #こより100年桃鉄ハンデ戦 】初の54年ハンデ戦クリアまで!~54年間最弱CPU豆鬼がプレイしたデータで最強CPU3人相手に全物件買い占めできるのか!?~ #最終回 【博衣こより/ホロライブ】",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-06T02:00:39.000Z",
       "start_scheduled": "2026-05-06T02:00:00.000Z",
       "start_actual": "2026-05-06T02:00:39.000Z",
-      "live_viewers": 14194,
+      "live_viewers": 14318,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-06T04:03:20.000Z",
       "start_scheduled": "2026-05-06T04:00:00.000Z",
       "start_actual": "2026-05-06T04:03:20.000Z",
-      "live_viewers": 2331,
+      "live_viewers": 2319,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-06T04:58:12.000Z",
       "start_scheduled": "2026-05-06T05:00:00.000Z",
       "start_actual": "2026-05-06T04:58:12.000Z",
-      "live_viewers": 295,
+      "live_viewers": 300,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-06T07:57:57.000Z",
       "start_scheduled": "2026-05-06T08:00:00.000Z",
       "start_actual": "2026-05-06T07:57:57.000Z",
-      "live_viewers": 4907,
+      "live_viewers": 5127,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-06T08:16:53.000Z",
       "start_scheduled": "2026-05-06T08:00:00.000Z",
       "start_actual": "2026-05-06T08:16:53.000Z",
-      "live_viewers": 66,
+      "live_viewers": 90,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
