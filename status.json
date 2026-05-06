@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778033061,
+  "cached_at": 1778033121,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "ZTfupmtuPPs",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-05T22:56:19.000Z",
       "start_scheduled": "2026-05-05T23:00:00.000Z",
       "start_actual": "2026-05-05T22:56:19.000Z",
-      "live_viewers": 6815,
+      "live_viewers": 6847,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-06T01:07:15.000Z",
       "start_scheduled": "2026-05-06T01:00:00.000Z",
       "start_actual": "2026-05-06T01:07:15.000Z",
-      "live_viewers": 6516,
+      "live_viewers": 7027,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -79,25 +79,6 @@
         "org": "Hololive",
         "suborg": "ibEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvInZx9h3jC2JzsIzoOebWg": {
-      "video_id": "-FGN9SB3Ooc",
-      "title": "【ぷちホロの村】ホロメンとのスローライフを満喫【不知火フレア/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "holoVillage",
-      "published_at": "2026-05-05T19:41:32.000Z",
-      "available_at": "2026-05-06T02:00:00.000Z",
-      "start_scheduled": "2026-05-06T02:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCvInZx9h3jC2JzsIzoOebWg",
-        "name": "Flare Ch. 不知火フレア",
-        "english_name": "Shiranui Flare",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
@@ -119,6 +100,26 @@
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCdyqAaZDKHXg4Ahi7VENThQ": {
+      "video_id": "mfV3u7ESArU",
+      "title": "#2【ドラゴンクエストVII Reimagined】DQ7完全初見!ずっとプレイしてみたかった7の世界へ🔥【白銀ノエル/ホロライブ】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dragon_Quest",
+      "published_at": "2026-05-05T15:25:11.000Z",
+      "available_at": "2026-05-06T02:00:12.000Z",
+      "start_scheduled": "2026-05-06T02:00:00.000Z",
+      "start_actual": "2026-05-06T02:00:12.000Z",
+      "live_viewers": 1922,
+      "channel": {
+        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+        "name": "Noel Ch. 白銀ノエル",
+        "english_name": "Shirogane Noel",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "x_1OYadpwyc",
       "title": "【 #こより100年桃鉄ハンデ戦 】初の54年ハンデ戦クリアまで!~54年間最弱CPU豆鬼がプレイしたデータで最強CPU3人相手に全物件買い占めできるのか!?~ #最終回 【博衣こより/ホロライブ】",
@@ -126,9 +127,10 @@
       "status": "live",
       "topic_id": "momotaro_dentetsu",
       "published_at": "2026-05-05T12:06:07.000Z",
-      "available_at": "2026-05-06T02:00:00.000Z",
+      "available_at": "2026-05-06T02:00:39.000Z",
       "start_scheduled": "2026-05-06T02:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-06T02:00:39.000Z",
+      "live_viewers": 2502,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -145,9 +147,10 @@
       "status": "live",
       "topic_id": "Final_Fantasy_Online",
       "published_at": "2026-05-05T10:00:30.000Z",
-      "available_at": "2026-05-06T02:00:00.000Z",
+      "available_at": "2026-05-06T02:01:26.000Z",
       "start_scheduled": "2026-05-06T02:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-06T02:01:26.000Z",
+      "live_viewers": 190,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -157,24 +160,24 @@
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdyqAaZDKHXg4Ahi7VENThQ": {
-      "video_id": "mfV3u7ESArU",
-      "title": "#2【ドラゴンクエストVII Reimagined】DQ7完全初見!ずっとプレイしてみたかった7の世界へ🔥【白銀ノエル/ホロライブ】※ネタバレあり",
+    "UCvInZx9h3jC2JzsIzoOebWg": {
+      "video_id": "-FGN9SB3Ooc",
+      "title": "【ぷちホロの村】ホロメンとのスローライフを満喫【不知火フレア/ホロライブ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "Dragon_Quest",
-      "published_at": "2026-05-05T15:25:11.000Z",
-      "available_at": "2026-05-06T02:00:12.000Z",
+      "topic_id": "holoVillage",
+      "published_at": "2026-05-05T19:41:32.000Z",
+      "available_at": "2026-05-06T02:01:48.000Z",
       "start_scheduled": "2026-05-06T02:00:00.000Z",
-      "start_actual": "2026-05-06T02:00:12.000Z",
-      "live_viewers": 1069,
+      "start_actual": "2026-05-06T02:01:48.000Z",
+      "live_viewers": 1367,
       "channel": {
-        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-        "name": "Noel Ch. 白銀ノエル",
-        "english_name": "Shirogane Noel",
+        "id": "UCvInZx9h3jC2JzsIzoOebWg",
+        "name": "Flare Ch. 不知火フレア",
+        "english_name": "Shiranui Flare",
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
+        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
