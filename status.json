@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778059881,
+  "cached_at": 1778059941,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "3WyP7trUfMM",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-06T03:36:37.000Z",
       "start_scheduled": "2026-05-06T03:30:00.000Z",
       "start_actual": "2026-05-06T03:36:37.000Z",
-      "live_viewers": 3896,
+      "live_viewers": 3664,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -61,26 +61,6 @@
         "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCp6993wxpyDPHUpavwDFqgg": {
-      "video_id": "vek2_IZLRo4",
-      "title": "【ぽこ あ ポケモン】それぞれの街を美しくしたい！【ホロライブ/ときのそら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Pokemon_Pokopia",
-      "published_at": "2026-05-06T06:01:08.000Z",
-      "available_at": "2026-05-06T06:35:25.000Z",
-      "start_scheduled": "2026-05-06T06:30:00.000Z",
-      "start_actual": "2026-05-06T06:35:25.000Z",
-      "live_viewers": 3984,
-      "channel": {
-        "id": "UCp6993wxpyDPHUpavwDFqgg",
-        "name": "SoraCh. ときのそらチャンネル",
-        "english_name": "Tokino Sora",
-        "org": "Hololive",
-        "suborg": "0v0th Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "5_iIfZw0DNU",
       "title": "【 Windrose / ウィンドローズ 】帆を上げろ!荒れ狂うカリブ海を生き残れなのら!!!🏴‍☠️☠【姫森ルーナ/ホロライブ】",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-06T07:57:57.000Z",
       "start_scheduled": "2026-05-06T08:00:00.000Z",
       "start_actual": "2026-05-06T07:57:57.000Z",
-      "live_viewers": 7274,
+      "live_viewers": 7417,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-06T09:03:00.000Z",
       "start_scheduled": "2026-05-06T09:00:00.000Z",
       "start_actual": "2026-05-06T09:03:00.000Z",
-      "live_viewers": 5161,
+      "live_viewers": 5611,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-06T09:04:26.000Z",
       "start_scheduled": "2026-05-06T09:04:11.000Z",
       "start_actual": "2026-05-06T09:04:26.000Z",
-      "live_viewers": 3417,
+      "live_viewers": 3544,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
