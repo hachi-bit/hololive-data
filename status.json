@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778043619,
+  "cached_at": 1778043681,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "XGNUZI-dnmM",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-06T01:07:15.000Z",
       "start_scheduled": "2026-05-06T01:00:00.000Z",
       "start_actual": "2026-05-06T01:07:15.000Z",
-      "live_viewers": 8711,
+      "live_viewers": 8613,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-06T02:00:39.000Z",
       "start_scheduled": "2026-05-06T02:00:00.000Z",
       "start_actual": "2026-05-06T02:00:39.000Z",
-      "live_viewers": 9265,
+      "live_viewers": 9333,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-06T03:30:16.000Z",
       "start_scheduled": "2026-05-06T03:30:00.000Z",
       "start_actual": "2026-05-06T03:30:16.000Z",
-      "live_viewers": 8466,
+      "live_viewers": 8654,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-06T03:36:37.000Z",
       "start_scheduled": "2026-05-06T03:30:00.000Z",
       "start_actual": "2026-05-06T03:36:37.000Z",
-      "live_viewers": 3771,
+      "live_viewers": 3871,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-06T04:03:20.000Z",
       "start_scheduled": "2026-05-06T04:00:00.000Z",
       "start_actual": "2026-05-06T04:03:20.000Z",
-      "live_viewers": 1842,
+      "live_viewers": 1942,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -219,6 +219,26 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCc88OV45ICgHbn3ZqLLb52w": {
+      "video_id": "SZlMRB5C2hk",
+      "title": "STREET FIGHTER 6|GW最終日!ALEXマスター耐久 - 夜十神封魔",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-05-06T00:12:36.000Z",
+      "available_at": "2026-05-06T04:58:12.000Z",
+      "start_scheduled": "2026-05-06T05:00:00.000Z",
+      "start_actual": "2026-05-06T04:58:12.000Z",
+      "live_viewers": 62,
+      "channel": {
+        "id": "UCc88OV45ICgHbn3ZqLLb52w",
+        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+        "english_name": "Yatogami Fuma",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
