@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778039779,
+  "cached_at": 1778039840,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "XGNUZI-dnmM",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCajbFh6e_R8QZdHAMbbi4rQ": {
-      "video_id": "g_roU3QDUoo",
-      "title": "Back in the Cheki Basement...【Morning Latte】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-05T06:49:29.000Z",
-      "available_at": "2026-05-06T00:11:11.000Z",
-      "start_scheduled": "2026-05-06T00:00:00.000Z",
-      "start_actual": "2026-05-06T00:11:11.000Z",
-      "live_viewers": 462,
-      "channel": {
-        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-        "english_name": "Crimzon Ruze",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCmbs8T6MWqUHP1tIQvSgKrg": {
@@ -71,7 +51,7 @@
       "available_at": "2026-05-06T02:00:12.000Z",
       "start_scheduled": "2026-05-06T02:00:00.000Z",
       "start_actual": "2026-05-06T02:00:12.000Z",
-      "live_viewers": 7263,
+      "live_viewers": 7196,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-06T02:01:26.000Z",
       "start_scheduled": "2026-05-06T02:00:00.000Z",
       "start_actual": "2026-05-06T02:01:26.000Z",
-      "live_viewers": 528,
+      "live_viewers": 563,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-06T02:01:48.000Z",
       "start_scheduled": "2026-05-06T02:00:00.000Z",
       "start_actual": "2026-05-06T02:01:48.000Z",
-      "live_viewers": 6067,
+      "live_viewers": 6063,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-06T03:01:39.000Z",
       "start_scheduled": "2026-05-06T03:00:00.000Z",
       "start_actual": "2026-05-06T03:01:39.000Z",
-      "live_viewers": 2167,
+      "live_viewers": 2205,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-06T03:16:08.000Z",
       "start_scheduled": "2026-05-06T03:15:00.000Z",
       "start_actual": "2026-05-06T03:16:08.000Z",
-      "live_viewers": 342,
+      "live_viewers": 357,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-06T03:30:16.000Z",
       "start_scheduled": "2026-05-06T03:30:00.000Z",
       "start_actual": "2026-05-06T03:30:16.000Z",
-      "live_viewers": 5793,
+      "live_viewers": 6028,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-06T03:36:37.000Z",
       "start_scheduled": "2026-05-06T03:30:00.000Z",
       "start_actual": "2026-05-06T03:36:37.000Z",
-      "live_viewers": 2615,
+      "live_viewers": 2761,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
