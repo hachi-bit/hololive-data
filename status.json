@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778049621,
+  "cached_at": 1778049683,
   "lives": {
     "UCmbs8T6MWqUHP1tIQvSgKrg": {
       "video_id": "esjpYSrvjB4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-06T01:07:15.000Z",
       "start_scheduled": "2026-05-06T01:00:00.000Z",
       "start_actual": "2026-05-06T01:07:15.000Z",
-      "live_viewers": 4718,
+      "live_viewers": 4564,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-06T02:00:12.000Z",
       "start_scheduled": "2026-05-06T02:00:00.000Z",
       "start_actual": "2026-05-06T02:00:12.000Z",
-      "live_viewers": 7899,
+      "live_viewers": 8004,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-06T03:01:39.000Z",
       "start_scheduled": "2026-05-06T03:00:00.000Z",
       "start_actual": "2026-05-06T03:01:39.000Z",
-      "live_viewers": 2757,
+      "live_viewers": 2786,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-06T03:30:16.000Z",
       "start_scheduled": "2026-05-06T03:30:00.000Z",
       "start_actual": "2026-05-06T03:30:16.000Z",
-      "live_viewers": 9149,
+      "live_viewers": 9147,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-06T04:03:20.000Z",
       "start_scheduled": "2026-05-06T04:00:00.000Z",
       "start_actual": "2026-05-06T04:03:20.000Z",
-      "live_viewers": 2441,
+      "live_viewers": 2306,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-06T04:58:12.000Z",
       "start_scheduled": "2026-05-06T05:00:00.000Z",
       "start_actual": "2026-05-06T04:58:12.000Z",
-      "live_viewers": 275,
+      "live_viewers": 286,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -203,14 +203,15 @@
     },
     "UCp6993wxpyDPHUpavwDFqgg": {
       "video_id": "vek2_IZLRo4",
-      "title": "【ぽこ あ ポケモン】それぞれの街を美しくしたい！【ホロライブ/ときのそら】",
+      "title": "【ぽこ あ ポケモン】それぞれの街を美しくしたい!【ホロライブ/ときのそら】",
       "type": "stream",
       "status": "live",
       "topic_id": "Pokemon_Pokopia",
       "published_at": "2026-05-06T06:01:08.000Z",
-      "available_at": "2026-05-06T06:30:00.000Z",
+      "available_at": "2026-05-06T06:35:25.000Z",
       "start_scheduled": "2026-05-06T06:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-06T06:35:25.000Z",
+      "live_viewers": 1224,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
