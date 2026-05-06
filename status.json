@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778072542,
+  "cached_at": 1778072601,
   "lives": {
     "UCc88OV45ICgHbn3ZqLLb52w": {
       "video_id": "SZlMRB5C2hk",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-06T07:50:55.000Z",
       "start_scheduled": "2026-05-06T08:00:00.000Z",
       "start_actual": "2026-05-06T07:50:55.000Z",
-      "live_viewers": 2078,
+      "live_viewers": 1902,
       "channel": {
         "id": "UCiMG6VdScBabPhJ1ZtaVmbw",
         "name": "花芽なずな / Nazuna Kaga",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-06T07:57:57.000Z",
       "start_scheduled": "2026-05-06T08:00:00.000Z",
       "start_actual": "2026-05-06T07:57:57.000Z",
-      "live_viewers": 5461,
+      "live_viewers": 5349,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-06T09:03:00.000Z",
       "start_scheduled": "2026-05-06T09:00:00.000Z",
       "start_actual": "2026-05-06T09:03:00.000Z",
-      "live_viewers": 6020,
+      "live_viewers": 5972,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-06T10:20:57.000Z",
       "start_scheduled": "2026-05-06T10:45:00.000Z",
       "start_actual": "2026-05-06T10:20:57.000Z",
-      "live_viewers": 5648,
+      "live_viewers": 5687,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-06T10:59:18.000Z",
       "start_scheduled": "2026-05-06T11:00:00.000Z",
       "start_actual": "2026-05-06T10:59:18.000Z",
-      "live_viewers": 4329,
+      "live_viewers": 4320,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -311,7 +311,7 @@
       "available_at": "2026-05-06T12:03:08.000Z",
       "start_scheduled": "2026-05-06T12:00:00.000Z",
       "start_actual": "2026-05-06T12:03:08.000Z",
-      "live_viewers": 465,
+      "live_viewers": 457,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -319,6 +319,44 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC0TXe_LYZ4scaW2XMyi5_kw": {
+      "video_id": "6rCzQEWqNsc",
+      "title": "【BIOHAZARD RE:3】最終回!完全初見!バイオハザード RE:3 #5【ホロライブ / AZKi】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-05-06T07:45:06.000Z",
+      "available_at": "2026-05-06T13:00:00.000Z",
+      "start_scheduled": "2026-05-06T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+        "name": "AZKi Channel",
+        "english_name": "AZKi",
+        "org": "Hololive",
+        "suborg": "0z0th Generation",
+        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "xi6dStJO7Uk",
+      "title": "5億年ぶりの激レア雑談【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-06T09:36:02.000Z",
+      "available_at": "2026-05-06T13:00:00.000Z",
+      "start_scheduled": "2026-05-06T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
