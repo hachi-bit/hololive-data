@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778079381,
+  "cached_at": 1778079448,
   "lives": {
-    "UCiMG6VdScBabPhJ1ZtaVmbw": {
-      "video_id": "1dJFP5MI5oo",
-      "title": "【PUBG】20時からVCC!! 練習する【ぶいすぽ/花芽なずな】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "PUBG",
-      "published_at": "2026-05-06T07:49:09.000Z",
-      "available_at": "2026-05-06T07:50:55.000Z",
-      "start_scheduled": "2026-05-06T08:00:00.000Z",
-      "start_actual": "2026-05-06T07:50:55.000Z",
-      "live_viewers": 1339,
-      "channel": {
-        "id": "UCiMG6VdScBabPhJ1ZtaVmbw",
-        "name": "花芽なずな / Nazuna Kaga",
-        "english_name": "Kaga Nazuna",
-        "org": "VSpo",
-        "suborg": "0aLupinus Virtual Games",
-        "photo": "https://yt3.ggpht.com/AiM0dD6-tajxuBeozH1YberZhKAANawzH_WDwLo9zLaqlGaen_nxW6q1RQt7k79FXEeQLXPFOIM=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCFTLzh12_nrtzqBPsTCqenA": {
       "video_id": "tiH7J6GE_uc",
       "title": "【PUBG】突然の召喚果たしてどうなるのか!?w./けんきさん,小廻こまちゃん,夜よいち【ホロライブ/アキロゼ】",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-06T10:20:57.000Z",
       "start_scheduled": "2026-05-06T10:45:00.000Z",
       "start_actual": "2026-05-06T10:20:57.000Z",
-      "live_viewers": 4892,
+      "live_viewers": 5191,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -59,26 +39,6 @@
         "org": "MillionProduction",
         "suborg": "0g3rd Generation",
         "photo": "https://yt3.ggpht.com/yws5uaKyNFbLVsDSjGb8Or8WZs-pydOu9U6YEPkZLU0FMZY9GpzRSAm-Fs738-x1_YLEKYGHag=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1uv2Oq6kNxgATlCiez59hw": {
-      "video_id": "Oo1oq_tOd6A",
-      "title": "【 PUBG 】VCCぱぶじ!ドン勝目指して🔥 w/Cpt,Mondo,でろーんさん【常闇トワ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "PUBG",
-      "published_at": "2026-05-06T08:34:02.000Z",
-      "available_at": "2026-05-06T10:59:18.000Z",
-      "start_scheduled": "2026-05-06T11:00:00.000Z",
-      "start_actual": "2026-05-06T10:59:18.000Z",
-      "live_viewers": 3618,
-      "channel": {
-        "id": "UC1uv2Oq6kNxgATlCiez59hw",
-        "name": "Towa Ch. 常闇トワ",
-        "english_name": "Tokoyami Towa",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCsg-YqdqQ-KFF0LNk23BY4A": {
@@ -251,7 +211,7 @@
       "available_at": "2026-05-06T14:00:15.000Z",
       "start_scheduled": "2026-05-06T14:00:00.000Z",
       "start_actual": "2026-05-06T14:00:15.000Z",
-      "live_viewers": 4780,
+      "live_viewers": 4726,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -271,7 +231,7 @@
       "available_at": "2026-05-06T14:00:18.000Z",
       "start_scheduled": "2026-05-06T14:00:00.000Z",
       "start_actual": "2026-05-06T14:00:18.000Z",
-      "live_viewers": 20349,
+      "live_viewers": 20074,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
