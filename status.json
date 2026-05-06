@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778060423,
+  "cached_at": 1778060481,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "3WyP7trUfMM",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-06T07:57:57.000Z",
       "start_scheduled": "2026-05-06T08:00:00.000Z",
       "start_actual": "2026-05-06T07:57:57.000Z",
-      "live_viewers": 7417,
+      "live_viewers": 7538,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "5njq5NJzf_I",
-      "title": "【Dead by Daylight】ソロでキラーをやったっていい。【岸堂天真/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "dbd",
-      "published_at": "2026-05-06T08:02:05.000Z",
-      "available_at": "2026-05-06T08:16:53.000Z",
-      "start_scheduled": "2026-05-06T08:00:00.000Z",
-      "start_actual": "2026-05-06T08:16:53.000Z",
-      "live_viewers": 204,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC_vMYWcDjmfdpH6r4TTn1MQ": {
@@ -111,7 +91,7 @@
       "available_at": "2026-05-06T08:54:40.000Z",
       "start_scheduled": "2026-05-06T09:00:00.000Z",
       "start_actual": "2026-05-06T08:54:40.000Z",
-      "live_viewers": 11323,
+      "live_viewers": 11393,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-06T09:00:52.000Z",
       "start_scheduled": "2026-05-06T09:00:00.000Z",
       "start_actual": "2026-05-06T09:00:52.000Z",
-      "live_viewers": 2997,
+      "live_viewers": 3047,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-06T09:03:00.000Z",
       "start_scheduled": "2026-05-06T09:00:00.000Z",
       "start_actual": "2026-05-06T09:03:00.000Z",
-      "live_viewers": 6270,
+      "live_viewers": 6549,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-06T09:04:26.000Z",
       "start_scheduled": "2026-05-06T09:04:11.000Z",
       "start_actual": "2026-05-06T09:04:26.000Z",
-      "live_viewers": 3848,
+      "live_viewers": 3790,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
