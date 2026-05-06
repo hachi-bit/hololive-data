@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778042240,
+  "cached_at": 1778042301,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "XGNUZI-dnmM",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-06T01:07:15.000Z",
       "start_scheduled": "2026-05-06T01:00:00.000Z",
       "start_actual": "2026-05-06T01:07:15.000Z",
-      "live_viewers": 8884,
+      "live_viewers": 8666,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-06T02:00:12.000Z",
       "start_scheduled": "2026-05-06T02:00:00.000Z",
       "start_actual": "2026-05-06T02:00:12.000Z",
-      "live_viewers": 7411,
+      "live_viewers": 7406,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-06T02:00:39.000Z",
       "start_scheduled": "2026-05-06T02:00:00.000Z",
       "start_actual": "2026-05-06T02:00:39.000Z",
-      "live_viewers": 9128,
+      "live_viewers": 8931,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-06T03:01:39.000Z",
       "start_scheduled": "2026-05-06T03:00:00.000Z",
       "start_actual": "2026-05-06T03:01:39.000Z",
-      "live_viewers": 2543,
+      "live_viewers": 2581,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-06T03:36:37.000Z",
       "start_scheduled": "2026-05-06T03:30:00.000Z",
       "start_actual": "2026-05-06T03:36:37.000Z",
-      "live_viewers": 3660,
+      "live_viewers": 3759,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
