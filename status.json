@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778078363,
+  "cached_at": 1778078421,
   "lives": {
     "UCiMG6VdScBabPhJ1ZtaVmbw": {
       "video_id": "1dJFP5MI5oo",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-06T10:02:37.000Z",
       "start_scheduled": "2026-05-06T10:00:00.000Z",
       "start_actual": "2026-05-06T10:02:37.000Z",
-      "live_viewers": 1320,
+      "live_viewers": 1223,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-06T10:22:13.000Z",
       "start_scheduled": "2026-05-06T10:45:00.000Z",
       "start_actual": "2026-05-06T10:22:13.000Z",
-      "live_viewers": 929,
+      "live_viewers": 868,
       "channel": {
         "id": "UC_upTZ0otpptV5KARBsnIPg",
         "name": "小廻こま / Komawari Koma",
@@ -221,26 +221,6 @@
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "xi6dStJO7Uk",
-      "title": "5億年ぶりの激レア雑談【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-06T09:36:02.000Z",
-      "available_at": "2026-05-06T13:01:46.000Z",
-      "start_scheduled": "2026-05-06T13:00:00.000Z",
-      "start_actual": "2026-05-06T13:01:46.000Z",
-      "live_viewers": 28847,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC0TXe_LYZ4scaW2XMyi5_kw": {
       "video_id": "6rCzQEWqNsc",
       "title": "【BIOHAZARD RE:3】最終回!完全初見!バイオハザード RE:3 #5【ホロライブ / AZKi】",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-06T14:00:15.000Z",
       "start_scheduled": "2026-05-06T14:00:00.000Z",
       "start_actual": "2026-05-06T14:00:15.000Z",
-      "live_viewers": 4542,
+      "live_viewers": 4549,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -391,7 +371,7 @@
       "available_at": "2026-05-06T14:03:41.000Z",
       "start_scheduled": "2026-05-06T14:00:00.000Z",
       "start_actual": "2026-05-06T14:03:41.000Z",
-      "live_viewers": 445,
+      "live_viewers": 435,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
