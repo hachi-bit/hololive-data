@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778029819,
+  "cached_at": 1778029879,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "ZTfupmtuPPs",
@@ -68,9 +68,10 @@
       "status": "live",
       "topic_id": "residentevil",
       "published_at": "2026-05-05T10:19:46.000Z",
-      "available_at": "2026-05-06T01:00:00.000Z",
+      "available_at": "2026-05-06T01:07:15.000Z",
       "start_scheduled": "2026-05-06T01:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-06T01:07:15.000Z",
+      "live_viewers": 2113,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
