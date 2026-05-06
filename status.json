@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778079861,
+  "cached_at": 1778079922,
   "lives": {
     "UCFTLzh12_nrtzqBPsTCqenA": {
       "video_id": "tiH7J6GE_uc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-06T10:20:57.000Z",
       "start_scheduled": "2026-05-06T10:45:00.000Z",
       "start_actual": "2026-05-06T10:20:57.000Z",
-      "live_viewers": 5191,
+      "live_viewers": 5049,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-06T12:00:12.000Z",
       "start_scheduled": "2026-05-06T12:00:00.000Z",
       "start_actual": "2026-05-06T12:00:12.000Z",
-      "live_viewers": 2422,
+      "live_viewers": 2196,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-06T12:01:30.000Z",
       "start_scheduled": "2026-05-06T12:00:00.000Z",
       "start_actual": "2026-05-06T12:01:30.000Z",
-      "live_viewers": 1401,
+      "live_viewers": 1395,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-06T13:04:57.000Z",
       "start_scheduled": "2026-05-06T13:00:00.000Z",
       "start_actual": "2026-05-06T13:04:57.000Z",
-      "live_viewers": 15370,
+      "live_viewers": 15086,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-06T13:59:59.000Z",
       "start_scheduled": "2026-05-06T14:00:00.000Z",
       "start_actual": "2026-05-06T13:59:59.000Z",
-      "live_viewers": 2330,
+      "live_viewers": 2391,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-06T14:00:12.000Z",
       "start_scheduled": "2026-05-06T14:00:00.000Z",
       "start_actual": "2026-05-06T14:00:12.000Z",
-      "live_viewers": 10017,
+      "live_viewers": 9893,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-06T14:00:18.000Z",
       "start_scheduled": "2026-05-06T14:00:00.000Z",
       "start_actual": "2026-05-06T14:00:18.000Z",
-      "live_viewers": 19913,
+      "live_viewers": 20081,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-06T14:03:41.000Z",
       "start_scheduled": "2026-05-06T14:00:00.000Z",
       "start_actual": "2026-05-06T14:03:41.000Z",
-      "live_viewers": 494,
+      "live_viewers": 516,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
