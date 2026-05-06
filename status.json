@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778065581,
+  "cached_at": 1778065643,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "3WyP7trUfMM",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-06T03:30:16.000Z",
       "start_scheduled": "2026-05-06T03:30:00.000Z",
       "start_actual": "2026-05-06T03:30:16.000Z",
-      "live_viewers": 8919,
+      "live_viewers": 8543,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-06T03:36:37.000Z",
       "start_scheduled": "2026-05-06T03:30:00.000Z",
       "start_actual": "2026-05-06T03:36:37.000Z",
-      "live_viewers": 3016,
+      "live_viewers": 2948,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-06T04:58:12.000Z",
       "start_scheduled": "2026-05-06T05:00:00.000Z",
       "start_actual": "2026-05-06T04:58:12.000Z",
-      "live_viewers": 274,
+      "live_viewers": 252,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -141,26 +141,6 @@
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
-      "video_id": "6MSPjyahjcM",
-      "title": "【雑談/freetalk】縦型雑談〜❕【水宮枢/ホロライブDEV_IS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-06T09:04:11.000Z",
-      "available_at": "2026-05-06T09:04:26.000Z",
-      "start_scheduled": "2026-05-06T09:04:11.000Z",
-      "start_actual": "2026-05-06T09:04:26.000Z",
-      "live_viewers": 3622,
-      "channel": {
-        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-        "name": "Su Ch. 水宮枢 - FLOW GLOW",
-        "english_name": "Mizumiya Su",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "eLrSBJAytVo",
       "title": "【VCC PUBG】チュートリアル終えし男のVCC PUBG配信 / w.すももさん、ズズくん、なずなさん【夕刻ロベル/ホロスターズ】",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-06T10:22:13.000Z",
       "start_scheduled": "2026-05-06T10:45:00.000Z",
       "start_actual": "2026-05-06T10:22:13.000Z",
-      "live_viewers": 796,
+      "live_viewers": 847,
       "channel": {
         "id": "UC_upTZ0otpptV5KARBsnIPg",
         "name": "小廻こま / Komawari Koma",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-06T10:33:40.000Z",
       "start_scheduled": "2026-05-06T11:00:00.000Z",
       "start_actual": "2026-05-06T10:33:40.000Z",
-      "live_viewers": 814,
+      "live_viewers": 807,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-06T10:35:28.000Z",
       "start_scheduled": "2026-05-06T10:30:00.000Z",
       "start_actual": "2026-05-06T10:35:28.000Z",
-      "live_viewers": 980,
+      "live_viewers": 1006,
       "channel": {
         "id": "UCyLGcqYs7RsBb3L0SJfzGYA",
         "name": "花芽すみれ / Kaga Sumire",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-06T10:59:18.000Z",
       "start_scheduled": "2026-05-06T11:00:00.000Z",
       "start_actual": "2026-05-06T10:59:18.000Z",
-      "live_viewers": 2538,
+      "live_viewers": 2758,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-06T10:59:39.000Z",
       "start_scheduled": "2026-05-06T11:00:00.000Z",
       "start_actual": "2026-05-06T10:59:39.000Z",
-      "live_viewers": 936,
+      "live_viewers": 996,
       "channel": {
         "id": "UCsg-YqdqQ-KFF0LNk23BY4A",
         "name": "樋口楓【にじさんじ所属】",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-06T11:00:27.000Z",
       "start_scheduled": "2026-05-06T11:00:00.000Z",
       "start_actual": "2026-05-06T11:00:27.000Z",
-      "live_viewers": 25573,
+      "live_viewers": 32996,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-06T11:00:29.000Z",
       "start_scheduled": "2026-05-06T11:00:00.000Z",
       "start_actual": "2026-05-06T11:00:29.000Z",
-      "live_viewers": 15225,
+      "live_viewers": 19729,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -343,7 +323,7 @@
     },
     "UCtyWhCj3AqKh2dXctLkDtng": {
       "video_id": "5poAmvt2SeY",
-      "title": "【PRAGMATA】クリア後の世界！unknown signal編！高難易度らしい…。part4 ※ネタバレ注意【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "title": "【PRAGMATA】クリア後の世界!unknown signal編!高難易度らしい…。part4 ※ネタバレ注意【一条莉々華/hololive DEV_IS ReGLOSS】",
       "type": "stream",
       "status": "live",
       "topic_id": "PRAGMATA",
@@ -351,7 +331,7 @@
       "available_at": "2026-05-06T11:02:47.000Z",
       "start_scheduled": "2026-05-06T11:00:00.000Z",
       "start_actual": "2026-05-06T11:02:47.000Z",
-      "live_viewers": 381,
+      "live_viewers": 812,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
