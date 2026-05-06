@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778076198,
+  "cached_at": 1778076263,
   "lives": {
     "UCc88OV45ICgHbn3ZqLLb52w": {
       "video_id": "SZlMRB5C2hk",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-06T07:50:55.000Z",
       "start_scheduled": "2026-05-06T08:00:00.000Z",
       "start_actual": "2026-05-06T07:50:55.000Z",
-      "live_viewers": 1987,
+      "live_viewers": 2289,
       "channel": {
         "id": "UCiMG6VdScBabPhJ1ZtaVmbw",
         "name": "花芽なずな / Nazuna Kaga",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-06T10:20:57.000Z",
       "start_scheduled": "2026-05-06T10:45:00.000Z",
       "start_actual": "2026-05-06T10:20:57.000Z",
-      "live_viewers": 6087,
+      "live_viewers": 5593,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-06T10:59:39.000Z",
       "start_scheduled": "2026-05-06T11:00:00.000Z",
       "start_actual": "2026-05-06T10:59:39.000Z",
-      "live_viewers": 763,
+      "live_viewers": 689,
       "channel": {
         "id": "UCsg-YqdqQ-KFF0LNk23BY4A",
         "name": "樋口楓【にじさんじ所属】",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-06T13:01:46.000Z",
       "start_scheduled": "2026-05-06T13:00:00.000Z",
       "start_actual": "2026-05-06T13:01:46.000Z",
-      "live_viewers": 34422,
+      "live_viewers": 33720,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-06T13:04:57.000Z",
       "start_scheduled": "2026-05-06T13:00:00.000Z",
       "start_actual": "2026-05-06T13:04:57.000Z",
-      "live_viewers": 15894,
+      "live_viewers": 15592,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -299,6 +299,144 @@
         "org": "Hololive",
         "suborg": "0z0th Generation",
         "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "2xyaIHRQIaI",
+      "title": "【 Cursed Companions 】NGワードを言ってはいけないよ、絶対だよ【角巻わため/ホロライブ4期生】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-05-05T19:10:35.000Z",
+      "available_at": "2026-05-06T13:59:48.000Z",
+      "start_scheduled": "2026-05-06T14:00:00.000Z",
+      "start_actual": "2026-05-06T13:59:48.000Z",
+      "live_viewers": 3746,
+      "channel": {
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCQ0UDLQCjY0rmuxCDE38FGg": {
+      "video_id": "n8Mp4n7oxq0",
+      "title": "【Cursed Companions】NGワードで爆破!?異彩コラボで愛をささやけ💓【ホロライブ/夏色まつり】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-05-05T18:48:58.000Z",
+      "available_at": "2026-05-06T13:59:59.000Z",
+      "start_scheduled": "2026-05-06T14:00:00.000Z",
+      "start_actual": "2026-05-06T13:59:59.000Z",
+      "live_viewers": 981,
+      "channel": {
+        "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+        "name": "Matsuri Channel 夏色まつり",
+        "english_name": "Natsuiro Matsuri",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAoy6rzhSf4ydcYjJw3WoVg": {
+      "video_id": "JrIEYYoxGaU",
+      "title": "【PRAGMATA】#3  One More Station 【 iofi / hololiveID 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PRAGMATA",
+      "published_at": "2026-05-06T09:46:22.000Z",
+      "available_at": "2026-05-06T14:00:00.000Z",
+      "start_scheduled": "2026-05-06T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+        "name": "Airani Iofifteen Channel hololive-ID",
+        "english_name": "Airani Iofifteen",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCl69AEx4MdqMZH7Jtsm7Tig": {
+      "video_id": "w0XacOimLKo",
+      "title": "【YAPYAP】We are Professional Yappers after all!!!【JUSTICE JAM!】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "YAPYAP",
+      "published_at": "2026-05-06T02:22:45.000Z",
+      "available_at": "2026-05-06T14:00:00.000Z",
+      "start_scheduled": "2026-05-06T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
+        "name": "Raora Panthera Ch. hololive-EN",
+        "english_name": "Raora Panthera",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvaTdHTWBGv3MKj3KVqJVCw": {
+      "video_id": "ubKmGP1jC3M",
+      "title": "【 🟣言っちゃダメ 】禁句を喋ると命取り⁉️Cursed Companionで遊ぼう🤝✦【 猫又おかゆ視点/ホロライブ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-05-05T19:59:18.000Z",
+      "available_at": "2026-05-06T14:00:12.000Z",
+      "start_scheduled": "2026-05-06T14:00:00.000Z",
+      "start_actual": "2026-05-06T14:00:12.000Z",
+      "live_viewers": 3474,
+      "channel": {
+        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+        "name": "Okayu Ch. 猫又おかゆ",
+        "english_name": "Nekomata Okayu",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "5fWFKEhWZgE",
+      "title": "【Cursed Companions】NGワードで即死!?自滅だけはさけるんだっ!!【ホロライブ DEV_IS 響咲リオナ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-05-06T08:59:23.000Z",
+      "available_at": "2026-05-06T14:00:15.000Z",
+      "start_scheduled": "2026-05-06T14:00:00.000Z",
+      "start_actual": "2026-05-06T14:00:15.000Z",
+      "live_viewers": 1593,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvzGlP9oQwU--Y0r9id_jnA": {
+      "video_id": "235H0fFb8xs",
+      "title": "【Cursed Companions】NGワードを言うと仲間にダメージが入るホラゲーやるしゅばああああああああああああああああああ!!!!!!!!【ホロライブ/大空スバル】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-05-05T15:22:59.000Z",
+      "available_at": "2026-05-06T14:00:18.000Z",
+      "start_scheduled": "2026-05-06T14:00:00.000Z",
+      "start_actual": "2026-05-06T14:00:18.000Z",
+      "live_viewers": 6076,
+      "channel": {
+        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+        "name": "Subaru Ch. 大空スバル",
+        "english_name": "Oozora Subaru",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
