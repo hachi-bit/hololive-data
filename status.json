@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778108899,
+  "cached_at": 1778108960,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "35NwSydkcCk",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-06T22:45:12.000Z",
       "start_scheduled": "2026-05-06T22:45:00.000Z",
       "start_actual": "2026-05-06T22:45:12.000Z",
-      "live_viewers": 1642,
+      "live_viewers": 1764,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -19,25 +19,6 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCajbFh6e_R8QZdHAMbbi4rQ": {
-      "video_id": "g3NZkQoQvGg",
-      "title": "Let's Talk Fanfiction【Morning Latte】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-06T21:27:37.000Z",
-      "available_at": "2026-05-06T23:00:00.000Z",
-      "start_scheduled": "2026-05-06T23:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-        "english_name": "Crimzon Ruze",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
@@ -59,25 +40,6 @@
         "photo": "https://yt3.ggpht.com/yypKKZ7TwgcvvF57-AgPEMsPL1fxWSOdrP2ESj7U7Un-cqe7tRQE2t2ajaHvixyXB3_-9PrS=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCyxtGMdWlURZ30WSnEjDOQw": {
-      "video_id": "JROhPU2OYGo",
-      "title": "【🔫 Counter Strike: 2 🔫】 MY FAVORITE MAP (CACHE) IS BACK!!! ｡ﾟ(TヮT) #AlTogether",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Counter-Strike",
-      "published_at": "2026-05-06T13:05:58.000Z",
-      "available_at": "2026-05-06T23:00:00.000Z",
-      "start_scheduled": "2026-05-06T23:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCyxtGMdWlURZ30WSnEjDOQw",
-        "name": "Regis Altare Ch. HOLOSTARS-EN",
-        "english_name": "Regis Altare",
-        "org": "Hololive",
-        "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-        "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "BZNyC1bG0g8",
       "title": "ENDWALKING【FINAL FANTASY XIV w/ @RyzarBlazenfang  & @DubsteP_ch 】SPOILER ALERT",
@@ -88,7 +50,7 @@
       "available_at": "2026-05-06T23:01:02.000Z",
       "start_scheduled": "2026-05-06T23:00:00.000Z",
       "start_actual": "2026-05-06T23:01:02.000Z",
-      "live_viewers": 105,
+      "live_viewers": 138,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -96,6 +58,46 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCyxtGMdWlURZ30WSnEjDOQw": {
+      "video_id": "JROhPU2OYGo",
+      "title": "【🔫 Counter Strike: 2 🔫】 MY FAVORITE MAP (CACHE) IS BACK!!! ｡ﾟ(TヮT) #AlTogether",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Counter-Strike",
+      "published_at": "2026-05-06T13:05:58.000Z",
+      "available_at": "2026-05-06T23:03:51.000Z",
+      "start_scheduled": "2026-05-06T23:00:00.000Z",
+      "start_actual": "2026-05-06T23:03:51.000Z",
+      "live_viewers": 223,
+      "channel": {
+        "id": "UCyxtGMdWlURZ30WSnEjDOQw",
+        "name": "Regis Altare Ch. HOLOSTARS-EN",
+        "english_name": "Regis Altare",
+        "org": "Hololive",
+        "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
+        "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCajbFh6e_R8QZdHAMbbi4rQ": {
+      "video_id": "g3NZkQoQvGg",
+      "title": "Let's Talk Fanfiction【Morning Latte】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-06T21:27:37.000Z",
+      "available_at": "2026-05-06T23:05:13.000Z",
+      "start_scheduled": "2026-05-06T23:00:00.000Z",
+      "start_actual": "2026-05-06T23:05:13.000Z",
+      "live_viewers": 328,
+      "channel": {
+        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+        "english_name": "Crimzon Ruze",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
