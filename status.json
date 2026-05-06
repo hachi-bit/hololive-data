@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778063001,
+  "cached_at": 1778063061,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "3WyP7trUfMM",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-06T03:30:16.000Z",
       "start_scheduled": "2026-05-06T03:30:00.000Z",
       "start_actual": "2026-05-06T03:30:16.000Z",
-      "live_viewers": 9505,
+      "live_viewers": 9391,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-06T04:58:12.000Z",
       "start_scheduled": "2026-05-06T05:00:00.000Z",
       "start_actual": "2026-05-06T04:58:12.000Z",
-      "live_viewers": 274,
+      "live_viewers": 276,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-06T10:02:37.000Z",
       "start_scheduled": "2026-05-06T10:00:00.000Z",
       "start_actual": "2026-05-06T10:02:37.000Z",
-      "live_viewers": 1542,
+      "live_viewers": 1636,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -179,6 +179,46 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFTLzh12_nrtzqBPsTCqenA": {
+      "video_id": "tiH7J6GE_uc",
+      "title": "【PUBG】突然の召喚果たしてどうなるのか!?w./けんきさん,小廻こまちゃん,夜よいち【ホロライブ/アキロゼ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PUBG",
+      "published_at": "2026-05-06T10:06:18.000Z",
+      "available_at": "2026-05-06T10:20:57.000Z",
+      "start_scheduled": "2026-05-06T10:45:00.000Z",
+      "start_actual": "2026-05-06T10:20:57.000Z",
+      "live_viewers": 1101,
+      "channel": {
+        "id": "UCFTLzh12_nrtzqBPsTCqenA",
+        "name": "アキロゼCh。Vtuber/ホロライブ所属",
+        "english_name": "Aki Rosenthal",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_upTZ0otpptV5KARBsnIPg": {
+      "video_id": "wjOD3MEyjTQ",
+      "title": "【 PUBG┆VCC 】まずは、声出し、そして勝利【小廻こま/ミリプロ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PUBG",
+      "published_at": "2026-05-06T09:55:29.000Z",
+      "available_at": "2026-05-06T10:22:13.000Z",
+      "start_scheduled": "2026-05-06T10:45:00.000Z",
+      "start_actual": "2026-05-06T10:22:13.000Z",
+      "live_viewers": 47,
+      "channel": {
+        "id": "UC_upTZ0otpptV5KARBsnIPg",
+        "name": "小廻こま / Komawari Koma",
+        "english_name": "Komawari Koma",
+        "org": "MillionProduction",
+        "suborg": "0g3rd Generation",
+        "photo": "https://yt3.ggpht.com/yws5uaKyNFbLVsDSjGb8Or8WZs-pydOu9U6YEPkZLU0FMZY9GpzRSAm-Fs738-x1_YLEKYGHag=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
