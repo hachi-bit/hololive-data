@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778078241,
+  "cached_at": 1778078301,
   "lives": {
     "UCiMG6VdScBabPhJ1ZtaVmbw": {
       "video_id": "1dJFP5MI5oo",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-06T07:50:55.000Z",
       "start_scheduled": "2026-05-06T08:00:00.000Z",
       "start_actual": "2026-05-06T07:50:55.000Z",
-      "live_viewers": 1871,
+      "live_viewers": 1685,
       "channel": {
         "id": "UCiMG6VdScBabPhJ1ZtaVmbw",
         "name": "花芽なずな / Nazuna Kaga",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-06T10:20:57.000Z",
       "start_scheduled": "2026-05-06T10:45:00.000Z",
       "start_actual": "2026-05-06T10:20:57.000Z",
-      "live_viewers": 5190,
+      "live_viewers": 4963,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-06T10:59:18.000Z",
       "start_scheduled": "2026-05-06T11:00:00.000Z",
       "start_actual": "2026-05-06T10:59:18.000Z",
-      "live_viewers": 4277,
+      "live_viewers": 4217,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-06T10:59:39.000Z",
       "start_scheduled": "2026-05-06T11:00:00.000Z",
       "start_actual": "2026-05-06T10:59:39.000Z",
-      "live_viewers": 616,
+      "live_viewers": 634,
       "channel": {
         "id": "UCsg-YqdqQ-KFF0LNk23BY4A",
         "name": "樋口楓【にじさんじ所属】",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-06T13:04:57.000Z",
       "start_scheduled": "2026-05-06T13:00:00.000Z",
       "start_actual": "2026-05-06T13:04:57.000Z",
-      "live_viewers": 14007,
+      "live_viewers": 13853,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-06T13:59:48.000Z",
       "start_scheduled": "2026-05-06T14:00:00.000Z",
       "start_actual": "2026-05-06T13:59:48.000Z",
-      "live_viewers": 8691,
+      "live_viewers": 9043,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-06T13:59:59.000Z",
       "start_scheduled": "2026-05-06T14:00:00.000Z",
       "start_actual": "2026-05-06T13:59:59.000Z",
-      "live_viewers": 2209,
+      "live_viewers": 2166,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -311,7 +311,7 @@
       "available_at": "2026-05-06T14:00:12.000Z",
       "start_scheduled": "2026-05-06T14:00:00.000Z",
       "start_actual": "2026-05-06T14:00:12.000Z",
-      "live_viewers": 9720,
+      "live_viewers": 9812,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -351,7 +351,7 @@
       "available_at": "2026-05-06T14:00:18.000Z",
       "start_scheduled": "2026-05-06T14:00:00.000Z",
       "start_actual": "2026-05-06T14:00:18.000Z",
-      "live_viewers": 19359,
+      "live_viewers": 19276,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -371,7 +371,7 @@
       "available_at": "2026-05-06T14:00:54.000Z",
       "start_scheduled": "2026-05-06T14:00:00.000Z",
       "start_actual": "2026-05-06T14:00:54.000Z",
-      "live_viewers": 7143,
+      "live_viewers": 7114,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -391,7 +391,7 @@
       "available_at": "2026-05-06T14:03:41.000Z",
       "start_scheduled": "2026-05-06T14:00:00.000Z",
       "start_actual": "2026-05-06T14:03:41.000Z",
-      "live_viewers": 422,
+      "live_viewers": 445,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
