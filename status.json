@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778033540,
+  "cached_at": 1778033599,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "ZTfupmtuPPs",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-06T00:11:11.000Z",
       "start_scheduled": "2026-05-06T00:00:00.000Z",
       "start_actual": "2026-05-06T00:11:11.000Z",
-      "live_viewers": 649,
+      "live_viewers": 662,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -81,25 +81,6 @@
         "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
-      "video_id": "JN3HMhw5bio",
-      "title": "Wow, it's been a while【FINAL FANTASY XIV w/ @JurardTRexford & @girldm 】SPOILER ALERT",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Final_Fantasy_Online",
-      "published_at": "2026-05-05T03:10:41.000Z",
-      "available_at": "2026-05-06T02:00:00.000Z",
-      "start_scheduled": "2026-05-06T02:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-        "name": "Octavio Ch. HOLOSTARS-EN",
-        "english_name": "Octavio",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
       "video_id": "mfV3u7ESArU",
       "title": "#2【ドラゴンクエストVII Reimagined】DQ7完全初見!ずっとプレイしてみたかった7の世界へ🔥【白銀ノエル/ホロライブ】※ネタバレあり",
@@ -110,7 +91,7 @@
       "available_at": "2026-05-06T02:00:12.000Z",
       "start_scheduled": "2026-05-06T02:00:00.000Z",
       "start_actual": "2026-05-06T02:00:12.000Z",
-      "live_viewers": 2812,
+      "live_viewers": 3295,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -130,7 +111,7 @@
       "available_at": "2026-05-06T02:00:39.000Z",
       "start_scheduled": "2026-05-06T02:00:00.000Z",
       "start_actual": "2026-05-06T02:00:39.000Z",
-      "live_viewers": 3653,
+      "live_viewers": 4104,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -150,7 +131,7 @@
       "available_at": "2026-05-06T02:01:26.000Z",
       "start_scheduled": "2026-05-06T02:00:00.000Z",
       "start_actual": "2026-05-06T02:01:26.000Z",
-      "live_viewers": 283,
+      "live_viewers": 299,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -170,7 +151,7 @@
       "available_at": "2026-05-06T02:01:48.000Z",
       "start_scheduled": "2026-05-06T02:00:00.000Z",
       "start_actual": "2026-05-06T02:01:48.000Z",
-      "live_viewers": 2541,
+      "live_viewers": 2999,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -178,6 +159,26 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
+      "video_id": "JN3HMhw5bio",
+      "title": "Wow, it's been a while【FINAL FANTASY XIV w/ @JurardTRexford & @girldm 】SPOILER ALERT",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Final_Fantasy_Online",
+      "published_at": "2026-05-05T03:10:41.000Z",
+      "available_at": "2026-05-06T02:07:04.000Z",
+      "start_scheduled": "2026-05-06T02:00:00.000Z",
+      "start_actual": "2026-05-06T02:07:04.000Z",
+      "live_viewers": 128,
+      "channel": {
+        "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+        "name": "Octavio Ch. HOLOSTARS-EN",
+        "english_name": "Octavio",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
