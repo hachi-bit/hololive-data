@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778059041,
+  "cached_at": 1778059101,
   "lives": {
-    "UC6eWCld0KwmyHFbAqK3V-Rw": {
-      "video_id": "x_1OYadpwyc",
-      "title": "【 #こより100年桃鉄ハンデ戦 】初の54年ハンデ戦クリアまで!~54年間最弱CPU豆鬼がプレイしたデータで最強CPU3人相手に全物件買い占めできるのか!?~ #最終回 【博衣こより/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "momotaro_dentetsu",
-      "published_at": "2026-05-05T12:06:07.000Z",
-      "available_at": "2026-05-06T02:00:39.000Z",
-      "start_scheduled": "2026-05-06T02:00:00.000Z",
-      "start_actual": "2026-05-06T02:00:39.000Z",
-      "live_viewers": 11449,
-      "channel": {
-        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-        "name": "Koyori ch. 博衣こより - holoX -",
-        "english_name": "Hakui Koyori",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "3WyP7trUfMM",
       "title": "【ガンプラ/カメラあり】ユニコーン!!!!!!つくっていく! 【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-06T03:30:16.000Z",
       "start_scheduled": "2026-05-06T03:30:00.000Z",
       "start_actual": "2026-05-06T03:30:16.000Z",
-      "live_viewers": 8870,
+      "live_viewers": 8786,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-06T03:36:37.000Z",
       "start_scheduled": "2026-05-06T03:30:00.000Z",
       "start_actual": "2026-05-06T03:36:37.000Z",
-      "live_viewers": 4581,
+      "live_viewers": 4165,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-06T06:35:25.000Z",
       "start_scheduled": "2026-05-06T06:30:00.000Z",
       "start_actual": "2026-05-06T06:35:25.000Z",
-      "live_viewers": 4378,
+      "live_viewers": 4331,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-06T07:57:57.000Z",
       "start_scheduled": "2026-05-06T08:00:00.000Z",
       "start_actual": "2026-05-06T07:57:57.000Z",
-      "live_viewers": 7177,
+      "live_viewers": 7374,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-06T08:16:53.000Z",
       "start_scheduled": "2026-05-06T08:00:00.000Z",
       "start_actual": "2026-05-06T08:16:53.000Z",
-      "live_viewers": 195,
+      "live_viewers": 203,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-06T08:54:40.000Z",
       "start_scheduled": "2026-05-06T09:00:00.000Z",
       "start_actual": "2026-05-06T08:54:40.000Z",
-      "live_viewers": 8482,
+      "live_viewers": 9078,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-06T09:00:52.000Z",
       "start_scheduled": "2026-05-06T09:00:00.000Z",
       "start_actual": "2026-05-06T09:00:52.000Z",
-      "live_viewers": 2061,
+      "live_viewers": 2231,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-06T09:03:00.000Z",
       "start_scheduled": "2026-05-06T09:00:00.000Z",
       "start_actual": "2026-05-06T09:03:00.000Z",
-      "live_viewers": 3064,
+      "live_viewers": 3639,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-06T09:04:26.000Z",
       "start_scheduled": "2026-05-06T09:04:11.000Z",
       "start_actual": "2026-05-06T09:04:26.000Z",
-      "live_viewers": 1993,
+      "live_viewers": 2155,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -219,6 +199,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6eWCld0KwmyHFbAqK3V-Rw": {
+      "video_id": "W3Gl0bSvwTU",
+      "title": "NaN GAME / 博衣こより【フロクロ・Aiobahn +81】(Official)",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Original_Song",
+      "published_at": "2026-05-06T09:15:06.000Z",
+      "available_at": "2026-05-06T09:15:06.000Z",
+      "start_scheduled": "2026-05-06T09:15:00.000Z",
+      "start_actual": "2026-05-06T09:15:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+        "name": "Koyori ch. 博衣こより - holoX -",
+        "english_name": "Hakui Koyori",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
