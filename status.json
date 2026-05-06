@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778072721,
+  "cached_at": 1778072781,
   "lives": {
     "UCc88OV45ICgHbn3ZqLLb52w": {
       "video_id": "SZlMRB5C2hk",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-06T09:03:00.000Z",
       "start_scheduled": "2026-05-06T09:00:00.000Z",
       "start_actual": "2026-05-06T09:03:00.000Z",
-      "live_viewers": 5972,
+      "live_viewers": 4968,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-06T12:00:12.000Z",
       "start_scheduled": "2026-05-06T12:00:00.000Z",
       "start_actual": "2026-05-06T12:00:12.000Z",
-      "live_viewers": 2192,
+      "live_viewers": 2154,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-06T12:01:30.000Z",
       "start_scheduled": "2026-05-06T12:00:00.000Z",
       "start_actual": "2026-05-06T12:01:30.000Z",
-      "live_viewers": 1018,
+      "live_viewers": 1015,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-06T12:02:33.000Z",
       "start_scheduled": "2026-05-06T12:00:00.000Z",
       "start_actual": "2026-05-06T12:02:33.000Z",
-      "live_viewers": 131585,
+      "live_viewers": 125454,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -299,26 +299,6 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "RmnYCwprqrQ",
-      "title": "【みんなで空気読み。4】空 気 を 読 む【花咲みやび/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Kuuki_yomi",
-      "published_at": "2026-05-06T11:21:22.000Z",
-      "available_at": "2026-05-06T12:03:08.000Z",
-      "start_scheduled": "2026-05-06T12:00:00.000Z",
-      "start_actual": "2026-05-06T12:03:08.000Z",
-      "live_viewers": 457,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC0TXe_LYZ4scaW2XMyi5_kw": {
@@ -347,9 +327,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-05-06T09:36:02.000Z",
-      "available_at": "2026-05-06T13:00:00.000Z",
+      "available_at": "2026-05-06T13:01:46.000Z",
       "start_scheduled": "2026-05-06T13:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-06T13:01:46.000Z",
+      "live_viewers": 7990,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
