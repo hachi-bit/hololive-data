@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778049799,
+  "cached_at": 1778049859,
   "lives": {
     "UCmbs8T6MWqUHP1tIQvSgKrg": {
       "video_id": "esjpYSrvjB4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-06T01:07:15.000Z",
       "start_scheduled": "2026-05-06T01:00:00.000Z",
       "start_actual": "2026-05-06T01:07:15.000Z",
-      "live_viewers": 4564,
+      "live_viewers": 4516,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-06T02:00:12.000Z",
       "start_scheduled": "2026-05-06T02:00:00.000Z",
       "start_actual": "2026-05-06T02:00:12.000Z",
-      "live_viewers": 8004,
+      "live_viewers": 8053,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-06T02:00:39.000Z",
       "start_scheduled": "2026-05-06T02:00:00.000Z",
       "start_actual": "2026-05-06T02:00:39.000Z",
-      "live_viewers": 10914,
+      "live_viewers": 10911,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCTVSOgYuSWmNAt-lnJPkEEw": {
-      "video_id": "EtLbl6TzO1A",
-      "title": "【FINAL FANTASY 14】LETS PARTY w/@girldm and @Octavio_en ​",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Final_Fantasy_Online",
-      "published_at": "2026-05-05T10:00:30.000Z",
-      "available_at": "2026-05-06T02:01:26.000Z",
-      "start_scheduled": "2026-05-06T02:00:00.000Z",
-      "start_actual": "2026-05-06T02:01:26.000Z",
-      "live_viewers": 683,
-      "channel": {
-        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
-        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
-        "english_name": "Jurard T Rexford",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
@@ -131,7 +111,7 @@
       "available_at": "2026-05-06T03:30:16.000Z",
       "start_scheduled": "2026-05-06T03:30:00.000Z",
       "start_actual": "2026-05-06T03:30:16.000Z",
-      "live_viewers": 9147,
+      "live_viewers": 9290,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-06T03:36:37.000Z",
       "start_scheduled": "2026-05-06T03:30:00.000Z",
       "start_actual": "2026-05-06T03:36:37.000Z",
-      "live_viewers": 5293,
+      "live_viewers": 5123,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-06T04:58:12.000Z",
       "start_scheduled": "2026-05-06T05:00:00.000Z",
       "start_actual": "2026-05-06T04:58:12.000Z",
-      "live_viewers": 286,
+      "live_viewers": 267,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-06T06:35:25.000Z",
       "start_scheduled": "2026-05-06T06:30:00.000Z",
       "start_actual": "2026-05-06T06:35:25.000Z",
-      "live_viewers": 1224,
+      "live_viewers": 1430,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
