@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778118501,
+  "cached_at": 1778118561,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-06T23:01:02.000Z",
       "start_scheduled": "2026-05-06T23:00:00.000Z",
       "start_actual": "2026-05-06T23:01:02.000Z",
-      "live_viewers": 279,
+      "live_viewers": 510,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -38,26 +38,6 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCyxtGMdWlURZ30WSnEjDOQw": {
-      "video_id": "JROhPU2OYGo",
-      "title": "【🔫 Counter Strike: 2 🔫】 MY FAVORITE MAP (CACHE) IS BACK!!! ｡ﾟ(TヮT) #AlTogether",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Counter-Strike",
-      "published_at": "2026-05-06T13:05:58.000Z",
-      "available_at": "2026-05-06T23:03:51.000Z",
-      "start_scheduled": "2026-05-06T23:00:00.000Z",
-      "start_actual": "2026-05-06T23:03:51.000Z",
-      "live_viewers": 503,
-      "channel": {
-        "id": "UCyxtGMdWlURZ30WSnEjDOQw",
-        "name": "Regis Altare Ch. HOLOSTARS-EN",
-        "english_name": "Regis Altare",
-        "org": "Hololive",
-        "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-        "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
@@ -110,7 +90,7 @@
       "available_at": "2026-05-07T01:05:52.000Z",
       "start_scheduled": "2026-05-07T01:00:00.000Z",
       "start_actual": "2026-05-07T01:05:52.000Z",
-      "live_viewers": 558,
+      "live_viewers": 572,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -130,7 +110,7 @@
       "available_at": "2026-05-07T01:11:02.000Z",
       "start_scheduled": "2026-05-07T01:15:00.000Z",
       "start_actual": "2026-05-07T01:11:02.000Z",
-      "live_viewers": 3054,
+      "live_viewers": 3073,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -150,7 +130,7 @@
       "available_at": "2026-05-07T01:31:46.000Z",
       "start_scheduled": "2026-05-07T01:30:00.000Z",
       "start_actual": "2026-05-07T01:31:46.000Z",
-      "live_viewers": 120,
+      "live_viewers": 133,
       "channel": {
         "id": "UCRtugKQIPPfZmVZ6vLiOsdQ",
         "name": "PiaPiUFO",
