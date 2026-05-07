@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778159479,
+  "cached_at": 1778159541,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-07T07:08:28.000Z",
       "start_scheduled": "2026-05-07T07:15:00.000Z",
       "start_actual": "2026-05-07T07:08:28.000Z",
-      "live_viewers": 170,
+      "live_viewers": 186,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-07T10:12:00.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T10:12:00.000Z",
-      "live_viewers": 3157,
+      "live_viewers": 3044,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-07T10:27:41.000Z",
       "start_scheduled": "2026-05-07T10:30:00.000Z",
       "start_actual": "2026-05-07T10:27:41.000Z",
-      "live_viewers": 1254,
+      "live_viewers": 1204,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-07T11:00:36.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:00:36.000Z",
-      "live_viewers": 16110,
+      "live_viewers": 15466,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -210,7 +210,7 @@
       "available_at": "2026-05-07T11:00:51.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:00:51.000Z",
-      "live_viewers": 2875,
+      "live_viewers": 2831,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -290,7 +290,7 @@
       "available_at": "2026-05-07T12:00:32.000Z",
       "start_scheduled": "2026-05-07T12:00:00.000Z",
       "start_actual": "2026-05-07T12:00:32.000Z",
-      "live_viewers": 7452,
+      "live_viewers": 6427,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -330,7 +330,7 @@
       "available_at": "2026-05-07T12:59:50.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T12:59:50.000Z",
-      "live_viewers": 4148,
+      "live_viewers": 4249,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -350,7 +350,7 @@
       "available_at": "2026-05-07T12:59:52.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T12:59:52.000Z",
-      "live_viewers": 14246,
+      "live_viewers": 14944,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -358,25 +358,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCqm3BQLlJfvkTsX_hvm0UmA": {
-      "video_id": "g8ulCCpc6WU",
-      "title": "【雑談&お礼】金ビキニの次は何ビキニが来るんだろう??【角巻わため/ホロライブ4期生】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Superchat_Reading",
-      "published_at": "2026-05-06T20:12:31.000Z",
-      "available_at": "2026-05-07T13:00:00.000Z",
-      "start_scheduled": "2026-05-07T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-        "name": "Watame Ch. 角巻わため",
-        "english_name": "Tsunomaki Watame",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCFKOVgVbGmX65RxO3EtH3iw": {
@@ -389,7 +370,7 @@
       "available_at": "2026-05-07T13:00:11.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T13:00:11.000Z",
-      "live_viewers": 7153,
+      "live_viewers": 7555,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -409,7 +390,7 @@
       "available_at": "2026-05-07T13:01:11.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T13:01:11.000Z",
-      "live_viewers": 121,
+      "live_viewers": 114,
       "channel": {
         "id": "UCuGD1paDrwhDP-PJteOh-UA",
         "name": "夏河ひのり / Hinori Natsukawa",
@@ -429,7 +410,7 @@
       "available_at": "2026-05-07T13:01:24.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T13:01:24.000Z",
-      "live_viewers": 13751,
+      "live_viewers": 14386,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -449,7 +430,7 @@
       "available_at": "2026-05-07T13:01:31.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T13:01:31.000Z",
-      "live_viewers": 822,
+      "live_viewers": 908,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -469,7 +450,7 @@
       "available_at": "2026-05-07T13:02:20.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T13:02:20.000Z",
-      "live_viewers": 358,
+      "live_viewers": 374,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -489,7 +470,7 @@
       "available_at": "2026-05-07T13:03:13.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T13:03:13.000Z",
-      "live_viewers": 8083,
+      "live_viewers": 8635,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -497,6 +478,26 @@
         "org": "Hololive",
         "suborg": "0z0th Generation",
         "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "g8ulCCpc6WU",
+      "title": "【雑談&お礼】金ビキニの次は何ビキニが来るんだろう??【角巻わため/ホロライブ4期生】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Superchat_Reading",
+      "published_at": "2026-05-06T20:12:31.000Z",
+      "available_at": "2026-05-07T13:08:16.000Z",
+      "start_scheduled": "2026-05-07T13:00:00.000Z",
+      "start_actual": "2026-05-07T13:08:16.000Z",
+      "live_viewers": 1960,
+      "channel": {
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
