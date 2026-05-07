@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778158281,
+  "cached_at": 1778158341,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-07T09:57:21.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T09:57:21.000Z",
-      "live_viewers": 6877,
+      "live_viewers": 6895,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-07T10:08:42.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T10:08:42.000Z",
-      "live_viewers": 143,
+      "live_viewers": 154,
       "channel": {
         "id": "UCEoAD_2jSLoYQd2MJZxWuxQ",
         "name": "北白川かかぽ / Kakapo Kitashirakawa",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-07T10:12:00.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T10:12:00.000Z",
-      "live_viewers": 3169,
+      "live_viewers": 3219,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-07T11:00:36.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:00:36.000Z",
-      "live_viewers": 17264,
+      "live_viewers": 17561,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -218,26 +218,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCHVXbQzkl3rDfsXWo8xi2qw": {
-      "video_id": "EYYzTeBsEus",
-      "title": "はじめての4人スレスパ #にじホロスレスパ【Slay the Spire 2┃にじさんじ/アンジュ視点/葉山舞鈴/一条莉々華/ 白上フブキ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Slay_the_Spire",
-      "published_at": "2026-05-07T10:39:57.000Z",
-      "available_at": "2026-05-07T11:01:12.000Z",
-      "start_scheduled": "2026-05-07T11:00:00.000Z",
-      "start_actual": "2026-05-07T11:01:12.000Z",
-      "live_viewers": 3503,
-      "channel": {
-        "id": "UCHVXbQzkl3rDfsXWo8xi2qw",
-        "name": "アンジュ・カトリーナ - Ange Katrina -",
-        "english_name": "Ange Katrina",
-        "org": "Nijisanji",
-        "suborg": "0iSanbaka",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_liDbr1ofzknDCW8S3ChEFTci-PGATj8zCJ1pRWlomUCWo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC6t3-_N8A6ME1JShZHHqOMw": {
