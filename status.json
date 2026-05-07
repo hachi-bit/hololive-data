@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778115441,
+  "cached_at": 1778115501,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-06T23:01:02.000Z",
       "start_scheduled": "2026-05-06T23:00:00.000Z",
       "start_actual": "2026-05-06T23:01:02.000Z",
-      "live_viewers": 254,
+      "live_viewers": 269,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -78,6 +78,46 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_sFNM0z0MWm9A6WlKPuMMg": {
+      "video_id": "T5YGRl7Em4E",
+      "title": "Who should we make next?| Tomodachi Life: Living the Dream",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-07T00:25:45.000Z",
+      "available_at": "2026-05-07T00:55:10.000Z",
+      "start_scheduled": "2026-05-07T01:00:00.000Z",
+      "start_actual": "2026-05-07T00:55:10.000Z",
+      "live_viewers": 612,
+      "channel": {
+        "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+        "name": "Nerissa Ravencroft Ch. hololive-EN",
+        "english_name": "Nerissa Ravencroft",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgnfPPb9JI3e9A4cXHnWbyg": {
+      "video_id": "VbUImtn3sLs",
+      "title": "Smash or Pass: Australian Bug Edition w/ @HakosBaelz",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Smash_or_Pass",
+      "published_at": "2026-05-05T23:59:30.000Z",
+      "available_at": "2026-05-07T00:55:28.000Z",
+      "start_scheduled": "2026-05-07T01:00:00.000Z",
+      "start_actual": "2026-05-07T00:55:28.000Z",
+      "live_viewers": 1287,
+      "channel": {
+        "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
+        "name": "Shiori Novella Ch. hololive-EN",
+        "english_name": "Shiori Novella",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
