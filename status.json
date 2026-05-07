@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778167222,
+  "cached_at": 1778167281,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "ZPhv7W-S_EE",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-07T09:57:21.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T09:57:21.000Z",
-      "live_viewers": 6907,
+      "live_viewers": 6784,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCEoAD_2jSLoYQd2MJZxWuxQ": {
-      "video_id": "QnHa8vgUktI",
-      "title": "【#学術V登山隊】マダミス狂気山脈2.0 星ふる天辺【教授：北白川かかぽ視点】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "TRPG",
-      "published_at": "2026-05-03T03:12:24.000Z",
-      "available_at": "2026-05-07T10:08:42.000Z",
-      "start_scheduled": "2026-05-07T10:00:00.000Z",
-      "start_actual": "2026-05-07T10:08:42.000Z",
-      "live_viewers": 166,
-      "channel": {
-        "id": "UCEoAD_2jSLoYQd2MJZxWuxQ",
-        "name": "北白川かかぽ / Kakapo Kitashirakawa",
-        "english_name": "Kitashirakawa Kakapo",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/9WYIebqPyn3gzbEcVXx0b8MaMMwq9rJCGas9baVVJIVcROlKzLegAqYyHVjKruOwgVGHMw6b=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
@@ -131,7 +111,7 @@
       "available_at": "2026-05-07T11:00:36.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:00:36.000Z",
-      "live_viewers": 15317,
+      "live_viewers": 15070,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-07T14:01:00.000Z",
       "start_scheduled": "2026-05-07T14:00:00.000Z",
       "start_actual": "2026-05-07T14:01:00.000Z",
-      "live_viewers": 361,
+      "live_viewers": 411,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-07T14:42:13.000Z",
       "start_scheduled": "2026-05-07T14:30:00.000Z",
       "start_actual": "2026-05-07T14:42:13.000Z",
-      "live_viewers": 218,
+      "live_viewers": 223,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-07T14:45:22.000Z",
       "start_scheduled": "2026-05-07T14:45:00.000Z",
       "start_actual": "2026-05-07T14:45:22.000Z",
-      "live_viewers": 1777,
+      "live_viewers": 1861,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-07T14:59:19.000Z",
       "start_scheduled": "2026-05-07T15:00:00.000Z",
       "start_actual": "2026-05-07T14:59:19.000Z",
-      "live_viewers": 4727,
+      "live_viewers": 4792,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
