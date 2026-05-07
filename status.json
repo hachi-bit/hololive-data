@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778151860,
+  "cached_at": 1778151921,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-07T06:59:58.000Z",
       "start_scheduled": "2026-05-07T07:00:00.000Z",
       "start_actual": "2026-05-07T06:59:58.000Z",
-      "live_viewers": 936,
+      "live_viewers": 920,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-07T07:08:48.000Z",
       "start_scheduled": "2026-05-07T07:00:00.000Z",
       "start_actual": "2026-05-07T07:08:48.000Z",
-      "live_viewers": 564,
+      "live_viewers": 547,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-07T10:00:18.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T10:00:18.000Z",
-      "live_viewers": 21710,
+      "live_viewers": 21777,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-07T10:02:28.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T10:02:28.000Z",
-      "live_viewers": 35717,
+      "live_viewers": 36296,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -210,7 +210,7 @@
       "available_at": "2026-05-07T10:09:44.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T10:09:44.000Z",
-      "live_viewers": 2674,
+      "live_viewers": 2582,
       "channel": {
         "id": "UC7_MFM9b8hp5kuTSpa8WyOQ",
         "name": "栞葉るり / Shioriha Ruri【にじさんじ】",
@@ -250,7 +250,7 @@
       "available_at": "2026-05-07T10:27:41.000Z",
       "start_scheduled": "2026-05-07T10:30:00.000Z",
       "start_actual": "2026-05-07T10:27:41.000Z",
-      "live_viewers": 669,
+      "live_viewers": 688,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -258,6 +258,146 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+      "video_id": "KhNGGP94WDU",
+      "title": "【 Slay the Spire 2 】 #にじホロスレスパ 4人でテッペン目指すぞぉおおお!!! 【白上フブキ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Slay_the_Spire",
+      "published_at": "2026-05-07T04:00:01.000Z",
+      "available_at": "2026-05-07T11:00:19.000Z",
+      "start_scheduled": "2026-05-07T11:00:00.000Z",
+      "start_actual": "2026-05-07T11:00:19.000Z",
+      "live_viewers": 5143,
+      "channel": {
+        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "name": "フブキCh。白上フブキ",
+        "english_name": "Shirakami Fubuki",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCtyWhCj3AqKh2dXctLkDtng": {
+      "video_id": "6SRqM2kDdlE",
+      "title": "【Slay the Spire 2】#にじホロスレスパ✨初めましてでもクリアできる!?【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Slay_the_Spire",
+      "published_at": "2026-05-07T07:58:29.000Z",
+      "available_at": "2026-05-07T11:00:27.000Z",
+      "start_scheduled": "2026-05-07T11:00:00.000Z",
+      "start_actual": "2026-05-07T11:00:27.000Z",
+      "live_viewers": 1817,
+      "channel": {
+        "id": "UCtyWhCj3AqKh2dXctLkDtng",
+        "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+        "english_name": "Ichijou Ririka",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvaTdHTWBGv3MKj3KVqJVCw": {
+      "video_id": "41vOdMBNhiU",
+      "title": "【 DETROIT 】自分の選択が未来を変える⁉️アンドロイドと対話しよう✊#01【 猫又おかゆ/ホロライブ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Detroit:_Become_Human",
+      "published_at": "2026-05-06T19:48:06.000Z",
+      "available_at": "2026-05-07T11:00:36.000Z",
+      "start_scheduled": "2026-05-07T11:00:00.000Z",
+      "start_actual": "2026-05-07T11:00:36.000Z",
+      "live_viewers": 4787,
+      "channel": {
+        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+        "name": "Okayu Ch. 猫又おかゆ",
+        "english_name": "Nekomata Okayu",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "31VxYoKdxnY",
+      "title": "【 DREAD FLATS 凶寓 】続編!?今年一怖い最恐ホラゲー!REヴィヴィりながら頑張る・・・!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dread_Flats",
+      "published_at": "2026-05-07T05:09:21.000Z",
+      "available_at": "2026-05-07T11:00:51.000Z",
+      "start_scheduled": "2026-05-07T11:00:00.000Z",
+      "start_actual": "2026-05-07T11:00:51.000Z",
+      "live_viewers": 1934,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCHVXbQzkl3rDfsXWo8xi2qw": {
+      "video_id": "EYYzTeBsEus",
+      "title": "はじめての4人スレスパ #にじホロスレスパ【Slay the Spire 2┃にじさんじ/アンジュ視点/葉山舞鈴/一条莉々華/ 白上フブキ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Slay_the_Spire",
+      "published_at": "2026-05-07T10:39:57.000Z",
+      "available_at": "2026-05-07T11:01:12.000Z",
+      "start_scheduled": "2026-05-07T11:00:00.000Z",
+      "start_actual": "2026-05-07T11:01:12.000Z",
+      "live_viewers": 1863,
+      "channel": {
+        "id": "UCHVXbQzkl3rDfsXWo8xi2qw",
+        "name": "アンジュ・カトリーナ - Ange Katrina -",
+        "english_name": "Ange Katrina",
+        "org": "Nijisanji",
+        "suborg": "0iSanbaka",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_liDbr1ofzknDCW8S3ChEFTci-PGATj8zCJ1pRWlomUCWo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCfipDDn7wY-C-SoUChgxCQQ": {
+      "video_id": "c6lP4n1Iqx0",
+      "title": "【 Slay the Spire 2 】にじホロスレスパ会 with あんじーせんぱい、一条莉々華ちゃん、白上フブキさん( とびこめスレスパの沼 )【 にじさんじ┊︎葉山舞鈴/コラボ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Slay_the_Spire",
+      "published_at": "2026-05-07T08:29:18.000Z",
+      "available_at": "2026-05-07T11:01:41.000Z",
+      "start_scheduled": "2026-05-07T11:00:00.000Z",
+      "start_actual": "2026-05-07T11:01:41.000Z",
+      "live_viewers": 1097,
+      "channel": {
+        "id": "UCfipDDn7wY-C-SoUChgxCQQ",
+        "name": "葉山舞鈴 / Ohayama Ch.",
+        "english_name": "Hayama Marin",
+        "org": "Nijisanji",
+        "suborg": "0qMajoMarity",
+        "photo": "https://yt3.ggpht.com/56I5l_i1uam8JLFaJ7iUw4sE46aKz2qyekIFr3Vp0ynOFqXjKMJgIRyEyDIgaKXfd71A7_My9Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6t3-_N8A6ME1JShZHHqOMw": {
+      "video_id": "heiBuuPlwHg",
+      "title": "【ゴブリン・ノーム・ホーン】労働労働労働労働【花咲みやび/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Goblin_Gnome_Horn",
+      "published_at": "2026-05-07T07:25:02.000Z",
+      "available_at": "2026-05-07T11:01:49.000Z",
+      "start_scheduled": "2026-05-07T11:00:00.000Z",
+      "start_actual": "2026-05-07T11:01:49.000Z",
+      "live_viewers": 144,
+      "channel": {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "english_name": "Hanasaki Miyabi",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
