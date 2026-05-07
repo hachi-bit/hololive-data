@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778147961,
+  "cached_at": 1778148021,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-07T07:08:28.000Z",
       "start_scheduled": "2026-05-07T07:15:00.000Z",
       "start_actual": "2026-05-07T07:08:28.000Z",
-      "live_viewers": 225,
+      "live_viewers": 216,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-07T09:00:29.000Z",
       "start_scheduled": "2026-05-07T09:00:00.000Z",
       "start_actual": "2026-05-07T09:00:29.000Z",
-      "live_viewers": 1481,
+      "live_viewers": 1514,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -98,6 +98,26 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCa9Y57gfeY0Zro_noHRVrnw": {
+      "video_id": "61SWQgIRZZQ",
+      "title": "【 鳴潮 】初めての鳴潮で遊んでみるのら!!!第3章 Ver.3.0 #15【姫森ルーナ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Wuthering_Waves",
+      "published_at": "2026-05-05T11:21:56.000Z",
+      "available_at": "2026-05-07T09:57:21.000Z",
+      "start_scheduled": "2026-05-07T10:00:00.000Z",
+      "start_actual": "2026-05-07T09:57:21.000Z",
+      "live_viewers": 1110,
+      "channel": {
+        "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+        "name": "Luna Ch. 姫森ルーナ",
+        "english_name": "Himemori Luna",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
