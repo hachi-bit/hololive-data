@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778155221,
+  "cached_at": 1778155281,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-07T09:57:21.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T09:57:21.000Z",
-      "live_viewers": 7689,
+      "live_viewers": 7539,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -98,26 +98,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "N4v3_GaBbyw",
-      "title": "【初見】友達が少ないウサギが『トモダチコレクション わくわく生活』で最高の島を作る!ぺこ!【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-07T09:15:34.000Z",
-      "available_at": "2026-05-07T10:00:18.000Z",
-      "start_scheduled": "2026-05-07T10:00:00.000Z",
-      "start_actual": "2026-05-07T10:00:18.000Z",
-      "live_viewers": 24591,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCEoAD_2jSLoYQd2MJZxWuxQ": {
@@ -230,7 +210,7 @@
       "available_at": "2026-05-07T11:00:27.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:00:27.000Z",
-      "live_viewers": 2979,
+      "live_viewers": 2969,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -250,7 +230,7 @@
       "available_at": "2026-05-07T11:00:36.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:00:36.000Z",
-      "live_viewers": 15062,
+      "live_viewers": 15265,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -330,7 +310,7 @@
       "available_at": "2026-05-07T11:01:49.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:01:49.000Z",
-      "live_viewers": 396,
+      "live_viewers": 401,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
