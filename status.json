@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778162181,
+  "cached_at": 1778162242,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-07T07:08:28.000Z",
       "start_scheduled": "2026-05-07T07:15:00.000Z",
       "start_actual": "2026-05-07T07:08:28.000Z",
-      "live_viewers": 177,
+      "live_viewers": 178,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-07T09:57:21.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T09:57:21.000Z",
-      "live_viewers": 6464,
+      "live_viewers": 5908,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-07T10:08:42.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T10:08:42.000Z",
-      "live_viewers": 137,
+      "live_viewers": 136,
       "channel": {
         "id": "UCEoAD_2jSLoYQd2MJZxWuxQ",
         "name": "北白川かかぽ / Kakapo Kitashirakawa",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-07T10:12:00.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T10:12:00.000Z",
-      "live_viewers": 2774,
+      "live_viewers": 2729,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-07T11:00:36.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:00:36.000Z",
-      "live_viewers": 15114,
+      "live_viewers": 15099,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -270,7 +270,7 @@
       "available_at": "2026-05-07T12:01:07.000Z",
       "start_scheduled": "2026-05-07T12:00:00.000Z",
       "start_actual": "2026-05-07T12:01:07.000Z",
-      "live_viewers": 11808,
+      "live_viewers": 11267,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -290,7 +290,7 @@
       "available_at": "2026-05-07T12:59:50.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T12:59:50.000Z",
-      "live_viewers": 4456,
+      "live_viewers": 4448,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -310,7 +310,7 @@
       "available_at": "2026-05-07T12:59:52.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T12:59:52.000Z",
-      "live_viewers": 17302,
+      "live_viewers": 17047,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -330,7 +330,7 @@
       "available_at": "2026-05-07T13:00:11.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T13:00:11.000Z",
-      "live_viewers": 8225,
+      "live_viewers": 8093,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -350,7 +350,7 @@
       "available_at": "2026-05-07T13:01:11.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T13:01:11.000Z",
-      "live_viewers": 170,
+      "live_viewers": 159,
       "channel": {
         "id": "UCuGD1paDrwhDP-PJteOh-UA",
         "name": "夏河ひのり / Hinori Natsukawa",
@@ -370,7 +370,7 @@
       "available_at": "2026-05-07T13:01:24.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T13:01:24.000Z",
-      "live_viewers": 17035,
+      "live_viewers": 16940,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -390,7 +390,7 @@
       "available_at": "2026-05-07T13:01:31.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T13:01:31.000Z",
-      "live_viewers": 1546,
+      "live_viewers": 1425,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -430,7 +430,7 @@
       "available_at": "2026-05-07T13:03:13.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T13:03:13.000Z",
-      "live_viewers": 10505,
+      "live_viewers": 10429,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -450,7 +450,7 @@
       "available_at": "2026-05-07T13:08:16.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T13:08:16.000Z",
-      "live_viewers": 4821,
+      "live_viewers": 4916,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
