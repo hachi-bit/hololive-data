@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778155401,
+  "cached_at": 1778155461,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-07T07:08:28.000Z",
       "start_scheduled": "2026-05-07T07:15:00.000Z",
       "start_actual": "2026-05-07T07:08:28.000Z",
-      "live_viewers": 172,
+      "live_viewers": 190,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-07T09:57:21.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T09:57:21.000Z",
-      "live_viewers": 7539,
+      "live_viewers": 7958,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-07T10:09:44.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T10:09:44.000Z",
-      "live_viewers": 2477,
+      "live_viewers": 2392,
       "channel": {
         "id": "UC7_MFM9b8hp5kuTSpa8WyOQ",
         "name": "栞葉るり / Shioriha Ruri【にじさんじ】",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-07T11:00:19.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:00:19.000Z",
-      "live_viewers": 10136,
+      "live_viewers": 9980,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -230,7 +230,7 @@
       "available_at": "2026-05-07T11:00:36.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:00:36.000Z",
-      "live_viewers": 15265,
+      "live_viewers": 15784,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -250,7 +250,7 @@
       "available_at": "2026-05-07T11:00:51.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:00:51.000Z",
-      "live_viewers": 6892,
+      "live_viewers": 7744,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -270,7 +270,7 @@
       "available_at": "2026-05-07T11:01:12.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:01:12.000Z",
-      "live_viewers": 3472,
+      "live_viewers": 3510,
       "channel": {
         "id": "UCHVXbQzkl3rDfsXWo8xi2qw",
         "name": "アンジュ・カトリーナ - Ange Katrina -",
@@ -290,7 +290,7 @@
       "available_at": "2026-05-07T11:01:41.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:01:41.000Z",
-      "live_viewers": 2476,
+      "live_viewers": 2551,
       "channel": {
         "id": "UCfipDDn7wY-C-SoUChgxCQQ",
         "name": "葉山舞鈴 / Ohayama Ch.",
@@ -318,6 +318,86 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCLK0cRXu3PY7cPbdWiVYemA": {
+      "video_id": "-8n3rLjhuhc",
+      "title": "【 スト6 】すぺしゃりてフェス顔合わせ 【羽流鷲りりり|ななしいんく】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-05-05T19:35:08.000Z",
+      "available_at": "2026-05-07T12:00:01.000Z",
+      "start_scheduled": "2026-05-07T12:00:00.000Z",
+      "start_actual": "2026-05-07T12:00:01.000Z",
+      "live_viewers": 187,
+      "channel": {
+        "id": "UCLK0cRXu3PY7cPbdWiVYemA",
+        "name": "羽流鷲りりり / Ririri Channel【ななしいんく】",
+        "english_name": "Uruwashi Ririri",
+        "org": "774inc",
+        "suborg": "25Nanashiinku",
+        "photo": "https://yt3.ggpht.com/CrRdj1eqKxWtN9kbkRejxPlNhIoikEhKubDWEPK4BtcJLbvumADzuBxwI_7Oar5PT22x1XQ2Jw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCMwGHR0BTZuLsmjY_NT5Pwg": {
+      "video_id": "kZ66Ac2Bs8w",
+      "title": "【Tomodachi Life™: Living the Dream】Is This How You Make Friends",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-07T09:11:25.000Z",
+      "available_at": "2026-05-07T12:00:08.000Z",
+      "start_scheduled": "2026-05-07T12:00:00.000Z",
+      "start_actual": "2026-05-07T12:00:08.000Z",
+      "live_viewers": 1983,
+      "channel": {
+        "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "name": "Ninomae Ina'nis Ch. hololive-EN",
+        "english_name": "Ninomae Ina'nis",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKMWFR6lAstLa7Vbf5dH7ig": {
+      "video_id": "syZwNEHinxs",
+      "title": "【ポケモン/リーフグリーン】#6 パラスと一緒に初見ポケモン!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pokemon",
+      "published_at": "2026-05-04T19:21:17.000Z",
+      "available_at": "2026-05-07T12:00:32.000Z",
+      "start_scheduled": "2026-05-07T12:00:00.000Z",
+      "start_actual": "2026-05-07T12:00:32.000Z",
+      "live_viewers": 1479,
+      "channel": {
+        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+        "english_name": "Rindo Chihaya",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "N4P9Q_sFWas",
+      "title": "#6【初見】『機動戦士ガンダム Zガンダム』同時視聴!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-05-06T16:02:08.000Z",
+      "available_at": "2026-05-07T12:01:07.000Z",
+      "start_scheduled": "2026-05-07T12:00:00.000Z",
+      "start_actual": "2026-05-07T12:01:07.000Z",
+      "live_viewers": 7642,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
