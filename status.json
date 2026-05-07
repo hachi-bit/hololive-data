@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778123061,
+  "cached_at": 1778123123,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -187,9 +187,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-05-06T16:11:56.000Z",
-      "available_at": "2026-05-07T03:00:00.000Z",
+      "available_at": "2026-05-07T03:01:36.000Z",
       "start_scheduled": "2026-05-07T03:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-07T03:01:36.000Z",
+      "live_viewers": 1393,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
