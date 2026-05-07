@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778148920,
+  "cached_at": 1778148980,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-07T06:59:58.000Z",
       "start_scheduled": "2026-05-07T07:00:00.000Z",
       "start_actual": "2026-05-07T06:59:58.000Z",
-      "live_viewers": 1364,
+      "live_viewers": 1244,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-07T07:08:48.000Z",
       "start_scheduled": "2026-05-07T07:00:00.000Z",
       "start_actual": "2026-05-07T07:08:48.000Z",
-      "live_viewers": 664,
+      "live_viewers": 651,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-07T09:57:21.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T09:57:21.000Z",
-      "live_viewers": 4442,
+      "live_viewers": 4746,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-07T09:59:36.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T09:59:36.000Z",
-      "live_viewers": 6950,
+      "live_viewers": 7641,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -138,25 +138,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdXAk5MpyLD8594lm_OvtGQ": {
-      "video_id": "5EcMZiFpg1Q",
-      "title": "【#学術V登山隊】マダミス狂気山脈2.0 星ふる天辺 【記者：儒烏風亭らでん視点】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "TRPG",
-      "published_at": "2026-05-06T20:53:26.000Z",
-      "available_at": "2026-05-07T10:00:00.000Z",
-      "start_scheduled": "2026-05-07T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
-        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
-        "english_name": "Juufuutei Raden",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCK9V2B22uJYu3N7eR_BT9QA": {
@@ -189,7 +170,7 @@
       "available_at": "2026-05-07T10:00:18.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T10:00:18.000Z",
-      "live_viewers": 12685,
+      "live_viewers": 13373,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -209,7 +190,7 @@
       "available_at": "2026-05-07T10:02:28.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T10:02:28.000Z",
-      "live_viewers": 14493,
+      "live_viewers": 15788,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -229,7 +210,7 @@
       "available_at": "2026-05-07T10:08:42.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T10:08:42.000Z",
-      "live_viewers": 106,
+      "live_viewers": 134,
       "channel": {
         "id": "UCEoAD_2jSLoYQd2MJZxWuxQ",
         "name": "北白川かかぽ / Kakapo Kitashirakawa",
@@ -249,7 +230,7 @@
       "available_at": "2026-05-07T10:09:44.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T10:09:44.000Z",
-      "live_viewers": 1398,
+      "live_viewers": 1821,
       "channel": {
         "id": "UC7_MFM9b8hp5kuTSpa8WyOQ",
         "name": "栞葉るり / Shioriha Ruri【にじさんじ】",
@@ -257,6 +238,26 @@
         "org": "Nijisanji",
         "suborg": "1uMitarashi-dan",
         "photo": "https://yt3.ggpht.com/A5VkQ-3F9Ibun0t22tE6Gd9WjGWN3g5cyup2h9I7b4BxE_i9Kk0ZMf-7QRmoCIiUnHk-D_qCqg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdXAk5MpyLD8594lm_OvtGQ": {
+      "video_id": "5EcMZiFpg1Q",
+      "title": "【#学術V登山隊】マダミス狂気山脈2.0 星ふる天辺 【記者：儒烏風亭らでん視点】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "TRPG",
+      "published_at": "2026-05-06T20:53:26.000Z",
+      "available_at": "2026-05-07T10:12:00.000Z",
+      "start_scheduled": "2026-05-07T10:00:00.000Z",
+      "start_actual": "2026-05-07T10:12:00.000Z",
+      "live_viewers": 2234,
+      "channel": {
+        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+        "english_name": "Juufuutei Raden",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
