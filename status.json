@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778165301,
+  "cached_at": 1778165361,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-07T06:59:58.000Z",
       "start_scheduled": "2026-05-07T07:00:00.000Z",
       "start_actual": "2026-05-07T06:59:58.000Z",
-      "live_viewers": 1035,
+      "live_viewers": 934,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-07T07:08:28.000Z",
       "start_scheduled": "2026-05-07T07:15:00.000Z",
       "start_actual": "2026-05-07T07:08:28.000Z",
-      "live_viewers": 175,
+      "live_viewers": 164,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-07T11:00:36.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:00:36.000Z",
-      "live_viewers": 15241,
+      "live_viewers": 15656,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -210,7 +210,7 @@
       "available_at": "2026-05-07T12:00:01.000Z",
       "start_scheduled": "2026-05-07T12:00:00.000Z",
       "start_actual": "2026-05-07T12:00:01.000Z",
-      "live_viewers": 988,
+      "live_viewers": 1003,
       "channel": {
         "id": "UCLK0cRXu3PY7cPbdWiVYemA",
         "name": "羽流鷲りりり / Ririri Channel【ななしいんく】",
@@ -330,7 +330,7 @@
       "available_at": "2026-05-07T13:08:16.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T13:08:16.000Z",
-      "live_viewers": 7080,
+      "live_viewers": 7490,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -370,7 +370,7 @@
       "available_at": "2026-05-07T14:01:00.000Z",
       "start_scheduled": "2026-05-07T14:00:00.000Z",
       "start_actual": "2026-05-07T14:01:00.000Z",
-      "live_viewers": 362,
+      "live_viewers": 359,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -390,7 +390,7 @@
       "available_at": "2026-05-07T14:42:13.000Z",
       "start_scheduled": "2026-05-07T14:30:00.000Z",
       "start_actual": "2026-05-07T14:42:13.000Z",
-      "live_viewers": 160,
+      "live_viewers": 169,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -398,6 +398,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZLZ8Jjx_RN2CXloOmgTHVg": {
+      "video_id": "fv4g5Dbwqng",
+      "title": "【Retro Rewind - Video Store Simulator】selling stuff! BUY BUY BUY!!!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Retro_Rewind",
+      "published_at": "2026-05-07T13:28:19.000Z",
+      "available_at": "2026-05-07T14:45:22.000Z",
+      "start_scheduled": "2026-05-07T14:45:00.000Z",
+      "start_actual": "2026-05-07T14:45:22.000Z",
+      "live_viewers": 590,
+      "channel": {
+        "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "name": "Kaela Kovalskia Ch. hololive-ID",
+        "english_name": "Kaela Kovalskia",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
