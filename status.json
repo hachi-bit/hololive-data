@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778152339,
+  "cached_at": 1778152401,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-07T07:08:28.000Z",
       "start_scheduled": "2026-05-07T07:15:00.000Z",
       "start_actual": "2026-05-07T07:08:28.000Z",
-      "live_viewers": 214,
+      "live_viewers": 202,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-07T09:00:29.000Z",
       "start_scheduled": "2026-05-07T09:00:00.000Z",
       "start_actual": "2026-05-07T09:00:29.000Z",
-      "live_viewers": 1225,
+      "live_viewers": 939,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-07T10:00:18.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T10:00:18.000Z",
-      "live_viewers": 21792,
+      "live_viewers": 22102,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -210,7 +210,7 @@
       "available_at": "2026-05-07T10:09:44.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T10:09:44.000Z",
-      "live_viewers": 2582,
+      "live_viewers": 2524,
       "channel": {
         "id": "UC7_MFM9b8hp5kuTSpa8WyOQ",
         "name": "栞葉るり / Shioriha Ruri【にじさんじ】",
@@ -230,7 +230,7 @@
       "available_at": "2026-05-07T10:12:00.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T10:12:00.000Z",
-      "live_viewers": 3425,
+      "live_viewers": 3310,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -270,7 +270,7 @@
       "available_at": "2026-05-07T11:00:19.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:00:19.000Z",
-      "live_viewers": 7411,
+      "live_viewers": 7780,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -290,7 +290,7 @@
       "available_at": "2026-05-07T11:00:27.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:00:27.000Z",
-      "live_viewers": 2592,
+      "live_viewers": 2671,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -310,7 +310,7 @@
       "available_at": "2026-05-07T11:00:36.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:00:36.000Z",
-      "live_viewers": 7565,
+      "live_viewers": 8877,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -330,7 +330,7 @@
       "available_at": "2026-05-07T11:00:51.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:00:51.000Z",
-      "live_viewers": 3235,
+      "live_viewers": 3736,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -350,7 +350,7 @@
       "available_at": "2026-05-07T11:01:12.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:01:12.000Z",
-      "live_viewers": 2829,
+      "live_viewers": 3001,
       "channel": {
         "id": "UCHVXbQzkl3rDfsXWo8xi2qw",
         "name": "アンジュ・カトリーナ - Ange Katrina -",
@@ -370,7 +370,7 @@
       "available_at": "2026-05-07T11:01:41.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:01:41.000Z",
-      "live_viewers": 1644,
+      "live_viewers": 1840,
       "channel": {
         "id": "UCfipDDn7wY-C-SoUChgxCQQ",
         "name": "葉山舞鈴 / Ohayama Ch.",
@@ -390,7 +390,7 @@
       "available_at": "2026-05-07T11:01:49.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:01:49.000Z",
-      "live_viewers": 239,
+      "live_viewers": 263,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
