@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778126839,
+  "cached_at": 1778126899,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-07T01:05:52.000Z",
       "start_scheduled": "2026-05-07T01:00:00.000Z",
       "start_actual": "2026-05-07T01:05:52.000Z",
-      "live_viewers": 667,
+      "live_viewers": 669,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-07T02:03:29.000Z",
       "start_scheduled": "2026-05-07T02:00:00.000Z",
       "start_actual": "2026-05-07T02:03:29.000Z",
-      "live_viewers": 342,
+      "live_viewers": 350,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -158,26 +158,6 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "rb6s6xNwGxk",
-      "title": "【定期配信#30】木曜のお昼の12時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-06T16:11:56.000Z",
-      "available_at": "2026-05-07T03:01:36.000Z",
-      "start_scheduled": "2026-05-07T03:00:00.000Z",
-      "start_actual": "2026-05-07T03:01:36.000Z",
-      "live_viewers": 4461,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
