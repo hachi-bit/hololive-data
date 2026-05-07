@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778164641,
+  "cached_at": 1778164701,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-07T07:08:48.000Z",
       "start_scheduled": "2026-05-07T07:00:00.000Z",
       "start_actual": "2026-05-07T07:08:48.000Z",
-      "live_viewers": 583,
+      "live_viewers": 594,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-07T09:57:21.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T09:57:21.000Z",
-      "live_viewers": 6540,
+      "live_viewers": 6603,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-07T11:00:36.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:00:36.000Z",
-      "live_viewers": 13853,
+      "live_viewers": 14415,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -280,26 +280,6 @@
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCCzUftO8KOVkV4wQG1vkUvg": {
-      "video_id": "VH2fDVE9NMU",
-      "title": "【Cursed Companions】協力ホラゲーコラボ！？NGワードに気をつけろ──【ホロライブ/宝鐘マリン】#ホロコンパニオンズ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Cursed_Companions",
-      "published_at": "2026-05-07T05:39:00.000Z",
-      "available_at": "2026-05-07T12:59:52.000Z",
-      "start_scheduled": "2026-05-07T13:00:00.000Z",
-      "start_actual": "2026-05-07T12:59:52.000Z",
-      "live_viewers": 14568,
-      "channel": {
-        "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-        "name": "Marine Ch. 宝鐘マリン",
-        "english_name": "Houshou Marine",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCuGD1paDrwhDP-PJteOh-UA": {
       "video_id": "RbU8u3i-rgk",
       "title": "〖 #スト6 〗すぺしゃりてフェス顔合わせ✨チーム名の発表アリ.ᐟ.ᐟ♡ #すぺしゃりて #夏河ひのり",
@@ -310,7 +290,7 @@
       "available_at": "2026-05-07T13:01:11.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T13:01:11.000Z",
-      "live_viewers": 161,
+      "live_viewers": 164,
       "channel": {
         "id": "UCuGD1paDrwhDP-PJteOh-UA",
         "name": "夏河ひのり / Hinori Natsukawa",
@@ -318,26 +298,6 @@
         "org": "Specialite",
         "suborg": "0eJP 3rd Generation",
         "photo": "https://yt3.ggpht.com/WouJ6qr2IowjEcl-IxdG5J0ViwUgGfua0T77RMmy7RIIxQ6QiJtxcoCUnIz7b1OXukNP9UX-Bkg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChAnqc_AY5_I3Px5dig3X1Q": {
-      "video_id": "6S-Eku9KBIs",
-      "title": "【Cursed Companions】ころね支店はこちら~👇👉👆【#ホロコンパニオンズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Cursed_Companions",
-      "published_at": "2026-05-07T10:36:22.000Z",
-      "available_at": "2026-05-07T13:01:24.000Z",
-      "start_scheduled": "2026-05-07T13:00:00.000Z",
-      "start_actual": "2026-05-07T13:01:24.000Z",
-      "live_viewers": 15446,
-      "channel": {
-        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
-        "name": "Korone Ch. 戌神ころね",
-        "english_name": "Inugami Korone",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
@@ -390,7 +350,7 @@
       "available_at": "2026-05-07T13:08:16.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T13:08:16.000Z",
-      "live_viewers": 5508,
+      "live_viewers": 6556,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -430,7 +390,7 @@
       "available_at": "2026-05-07T14:01:00.000Z",
       "start_scheduled": "2026-05-07T14:00:00.000Z",
       "start_actual": "2026-05-07T14:01:00.000Z",
-      "live_viewers": 317,
+      "live_viewers": 329,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
