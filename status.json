@@ -1,4 +1,44 @@
 {
-  "cached_at": 1778187682,
-  "lives": {}
+  "cached_at": 1778187742,
+  "lives": {
+    "UCQ0UDLQCjY0rmuxCDE38FGg": {
+      "video_id": "PqwgUN9Br8s",
+      "title": "【朝活】金曜日のおはよう☀【ホロライブ/夏色まつり】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "morning",
+      "published_at": "2026-05-07T20:44:44.000Z",
+      "available_at": "2026-05-07T20:59:44.000Z",
+      "start_scheduled": "2026-05-07T21:00:00.000Z",
+      "start_actual": "2026-05-07T20:59:44.000Z",
+      "live_viewers": 356,
+      "channel": {
+        "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+        "name": "Matsuri Channel 夏色まつり",
+        "english_name": "Natsuiro Matsuri",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCDHABijvPBnJm7F-KlNME3w": {
+      "video_id": "6i9fOuXKRYs",
+      "title": "【ROLLERCOASTER TYCOON® 2: TRIPLE THRILL PACK】watch me do a sick kickflip on this rail",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "RollerCoaster_Tycoon",
+      "published_at": "2026-05-07T08:56:18.000Z",
+      "available_at": "2026-05-07T21:00:00.000Z",
+      "start_scheduled": "2026-05-07T21:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCDHABijvPBnJm7F-KlNME3w",
+        "name": "Gigi Murin Ch. hololive-EN",
+        "english_name": "Gigi Murin",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    }
+  }
 }
