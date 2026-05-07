@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778148140,
+  "cached_at": 1778148201,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-07T07:08:48.000Z",
       "start_scheduled": "2026-05-07T07:00:00.000Z",
       "start_actual": "2026-05-07T07:08:48.000Z",
-      "live_viewers": 646,
+      "live_viewers": 682,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-07T09:00:29.000Z",
       "start_scheduled": "2026-05-07T09:00:00.000Z",
       "start_actual": "2026-05-07T09:00:29.000Z",
-      "live_viewers": 1514,
+      "live_viewers": 1534,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-07T09:57:21.000Z",
       "start_scheduled": "2026-05-07T10:00:00.000Z",
       "start_actual": "2026-05-07T09:57:21.000Z",
-      "live_viewers": 1110,
+      "live_viewers": 1973,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -118,6 +118,142 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6eWCld0KwmyHFbAqK3V-Rw": {
+      "video_id": "AzEkVsro7z8",
+      "title": "【ワンワンバトル】声のデカさ&喉の強さでは負けません!!吠えて倒せ!!!わおーーーーん!!!【博衣こより/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Bow-wow_Battle",
+      "published_at": "2026-05-06T16:38:27.000Z",
+      "available_at": "2026-05-07T09:59:36.000Z",
+      "start_scheduled": "2026-05-07T10:00:00.000Z",
+      "start_actual": "2026-05-07T09:59:36.000Z",
+      "live_viewers": 1697,
+      "channel": {
+        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+        "name": "Koyori ch. 博衣こより - holoX -",
+        "english_name": "Hakui Koyori",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdXAk5MpyLD8594lm_OvtGQ": {
+      "video_id": "5EcMZiFpg1Q",
+      "title": "【#学術V登山隊】マダミス狂気山脈2.0 星ふる天辺 【記者：儒烏風亭らでん視点】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "TRPG",
+      "published_at": "2026-05-06T20:53:26.000Z",
+      "available_at": "2026-05-07T10:00:00.000Z",
+      "start_scheduled": "2026-05-07T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+        "english_name": "Juufuutei Raden",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7_MFM9b8hp5kuTSpa8WyOQ": {
+      "video_id": "VCz2C33uPz8",
+      "title": "【 #学術V登山隊 】マダミス狂気山脈2.0 星ふる天辺【登山家：栞葉るり 視点】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "TRPG",
+      "published_at": "2026-05-06T07:29:50.000Z",
+      "available_at": "2026-05-07T10:00:00.000Z",
+      "start_scheduled": "2026-05-07T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC7_MFM9b8hp5kuTSpa8WyOQ",
+        "name": "栞葉るり / Shioriha Ruri【にじさんじ】",
+        "english_name": "Shioriha Ruri",
+        "org": "Nijisanji",
+        "suborg": "1uMitarashi-dan",
+        "photo": "https://yt3.ggpht.com/A5VkQ-3F9Ibun0t22tE6Gd9WjGWN3g5cyup2h9I7b4BxE_i9Kk0ZMf-7QRmoCIiUnHk-D_qCqg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC-hM6YJuNYVAmUWxeIr9FeA": {
+      "video_id": "dErLp21YEew",
+      "title": "【告知! 】最終テスト!50点以上取らないと告知できないにぇえええええええ⁉【ホロライブ/さくらみこ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "announce",
+      "published_at": "2026-05-07T04:40:50.000Z",
+      "available_at": "2026-05-07T10:00:00.000Z",
+      "start_scheduled": "2026-05-07T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+        "name": "Miko Ch. さくらみこ",
+        "english_name": "Sakura Miko",
+        "org": "Hololive",
+        "suborg": "0y0th Generation",
+        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCEoAD_2jSLoYQd2MJZxWuxQ": {
+      "video_id": "QnHa8vgUktI",
+      "title": "【#学術V登山隊】マダミス狂気山脈2.0 星ふる天辺【教授：北白川かかぽ視点】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "TRPG",
+      "published_at": "2026-05-03T03:12:24.000Z",
+      "available_at": "2026-05-07T10:00:00.000Z",
+      "start_scheduled": "2026-05-07T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCEoAD_2jSLoYQd2MJZxWuxQ",
+        "name": "北白川かかぽ / Kakapo Kitashirakawa",
+        "english_name": "Kitashirakawa Kakapo",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/9WYIebqPyn3gzbEcVXx0b8MaMMwq9rJCGas9baVVJIVcROlKzLegAqYyHVjKruOwgVGHMw6b=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCK9V2B22uJYu3N7eR_BT9QA": {
+      "video_id": "Xdqxp991c3I",
+      "title": "【ポルカの伝説】あるなしクイズでやっていこう俺たち",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Quiz",
+      "published_at": "2026-05-07T10:00:06.000Z",
+      "available_at": "2026-05-07T10:00:06.000Z",
+      "start_scheduled": "2026-05-07T10:00:00.000Z",
+      "start_actual": "2026-05-07T10:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+        "name": "Polka Ch. 尾丸ポルカ",
+        "english_name": "Omaru Polka",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "N4v3_GaBbyw",
+      "title": "【初見】友達が少ないウサギが『トモダチコレクション わくわく生活』で最高の島を作る!ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-07T09:15:34.000Z",
+      "available_at": "2026-05-07T10:00:12.000Z",
+      "start_scheduled": "2026-05-07T10:00:00.000Z",
+      "start_actual": "2026-05-07T10:00:12.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
