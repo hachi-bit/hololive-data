@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778178079,
+  "cached_at": 1778178167,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "IaCg84Iak68",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-07T07:08:48.000Z",
       "start_scheduled": "2026-05-07T07:00:00.000Z",
       "start_actual": "2026-05-07T07:08:48.000Z",
-      "live_viewers": 392,
+      "live_viewers": 376,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCuGD1paDrwhDP-PJteOh-UA": {
-      "video_id": "RbU8u3i-rgk",
-      "title": "〖 #スト6 〗すぺしゃりてフェス顔合わせ✨チーム名の発表アリ.ᐟ.ᐟ♡→ソロ練 #すぺしゃりて #夏河ひのり",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-05-06T20:02:26.000Z",
-      "available_at": "2026-05-07T13:01:11.000Z",
-      "start_scheduled": "2026-05-07T13:00:00.000Z",
-      "start_actual": "2026-05-07T13:01:11.000Z",
-      "live_viewers": 132,
-      "channel": {
-        "id": "UCuGD1paDrwhDP-PJteOh-UA",
-        "name": "夏河ひのり / Hinori Natsukawa",
-        "english_name": "Natsukawa Hinori",
-        "org": "Specialite",
-        "suborg": "0eJP 3rd Generation",
-        "photo": "https://yt3.ggpht.com/WouJ6qr2IowjEcl-IxdG5J0ViwUgGfua0T77RMmy7RIIxQ6QiJtxcoCUnIz7b1OXukNP9UX-Bkg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
@@ -51,7 +31,7 @@
       "available_at": "2026-05-07T13:08:16.000Z",
       "start_scheduled": "2026-05-07T13:00:00.000Z",
       "start_actual": "2026-05-07T13:08:16.000Z",
-      "live_viewers": 7076,
+      "live_viewers": 7078,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-07T14:59:19.000Z",
       "start_scheduled": "2026-05-07T15:00:00.000Z",
       "start_actual": "2026-05-07T14:59:19.000Z",
-      "live_viewers": 8018,
+      "live_viewers": 7932,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-07T18:07:23.000Z",
       "start_scheduled": "2026-05-07T18:05:00.000Z",
       "start_actual": "2026-05-07T18:07:23.000Z",
-      "live_viewers": 2841,
+      "live_viewers": 3096,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
