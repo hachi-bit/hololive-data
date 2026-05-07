@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778130681,
+  "cached_at": 1778130741,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-07T02:01:04.000Z",
       "start_scheduled": "2026-05-07T02:00:00.000Z",
       "start_actual": "2026-05-07T02:01:04.000Z",
-      "live_viewers": 7923,
+      "live_viewers": 9486,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-07T02:03:29.000Z",
       "start_scheduled": "2026-05-07T02:00:00.000Z",
       "start_actual": "2026-05-07T02:03:29.000Z",
-      "live_viewers": 650,
+      "live_viewers": 621,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -78,6 +78,25 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCANDOlYTJT7N5jlRC3zfzVA": {
+      "video_id": "bkLWfgQzYhg",
+      "title": "【Pokémon Champions】やりましょうかい【夕刻ロベル/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pokemon",
+      "published_at": "2026-05-07T05:07:33.000Z",
+      "available_at": "2026-05-07T05:07:33.000Z",
+      "start_scheduled": "2026-05-07T05:07:33.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+        "name": "Roberu Ch. 夕刻ロベル",
+        "english_name": "Yukoku Roberu",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
