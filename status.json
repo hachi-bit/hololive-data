@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778168601,
+  "cached_at": 1778168661,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "ZPhv7W-S_EE",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-07T07:08:28.000Z",
       "start_scheduled": "2026-05-07T07:15:00.000Z",
       "start_actual": "2026-05-07T07:08:28.000Z",
-      "live_viewers": 171,
+      "live_viewers": 182,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-07T11:00:36.000Z",
       "start_scheduled": "2026-05-07T11:00:00.000Z",
       "start_actual": "2026-05-07T11:00:36.000Z",
-      "live_viewers": 14107,
+      "live_viewers": 13863,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -119,26 +119,6 @@
         "org": "Specialite",
         "suborg": "0eJP 3rd Generation",
         "photo": "https://yt3.ggpht.com/WouJ6qr2IowjEcl-IxdG5J0ViwUgGfua0T77RMmy7RIIxQ6QiJtxcoCUnIz7b1OXukNP9UX-Bkg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCAoy6rzhSf4ydcYjJw3WoVg": {
-      "video_id": "rMghIiNlw9I",
-      "title": "【PRAGMATA】Last Journey【 iofi / hololiveID 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "PRAGMATA",
-      "published_at": "2026-05-07T04:48:26.000Z",
-      "available_at": "2026-05-07T13:02:20.000Z",
-      "start_scheduled": "2026-05-07T13:00:00.000Z",
-      "start_actual": "2026-05-07T13:02:20.000Z",
-      "live_viewers": 876,
-      "channel": {
-        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-        "name": "Airani Iofifteen Channel hololive-ID",
-        "english_name": "Airani Iofifteen",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
@@ -191,7 +171,7 @@
       "available_at": "2026-05-07T14:42:13.000Z",
       "start_scheduled": "2026-05-07T14:30:00.000Z",
       "start_actual": "2026-05-07T14:42:13.000Z",
-      "live_viewers": 253,
+      "live_viewers": 250,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-07T14:45:22.000Z",
       "start_scheduled": "2026-05-07T14:45:00.000Z",
       "start_actual": "2026-05-07T14:45:22.000Z",
-      "live_viewers": 2632,
+      "live_viewers": 3153,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-07T14:59:19.000Z",
       "start_scheduled": "2026-05-07T15:00:00.000Z",
       "start_actual": "2026-05-07T14:59:19.000Z",
-      "live_viewers": 6013,
+      "live_viewers": 6135,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
