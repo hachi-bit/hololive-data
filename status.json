@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778177481,
+  "cached_at": 1778177541,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "IaCg84Iak68",
@@ -108,9 +108,10 @@
       "status": "live",
       "topic_id": "PRAGMATA",
       "published_at": "2026-05-07T10:47:02.000Z",
-      "available_at": "2026-05-07T18:05:00.000Z",
+      "available_at": "2026-05-07T18:07:23.000Z",
       "start_scheduled": "2026-05-07T18:05:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-07T18:07:23.000Z",
+      "live_viewers": 2056,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
