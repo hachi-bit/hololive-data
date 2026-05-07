@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778115802,
+  "cached_at": 1778115861,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-07T00:55:10.000Z",
       "start_scheduled": "2026-05-07T01:00:00.000Z",
       "start_actual": "2026-05-07T00:55:10.000Z",
-      "live_viewers": 1126,
+      "live_viewers": 1521,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-07T00:55:28.000Z",
       "start_scheduled": "2026-05-07T01:00:00.000Z",
       "start_actual": "2026-05-07T00:55:28.000Z",
-      "live_viewers": 4643,
+      "live_viewers": 6087,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -98,6 +98,44 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCajbFh6e_R8QZdHAMbbi4rQ": {
+      "video_id": "pjocVXl1pT0",
+      "title": "ARMIS Pokémon Teams【POKEMON CHAMPIONS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pokemon",
+      "published_at": "2026-05-06T10:02:09.000Z",
+      "available_at": "2026-05-07T01:00:00.000Z",
+      "start_scheduled": "2026-05-07T01:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+        "english_name": "Crimzon Ruze",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCmbs8T6MWqUHP1tIQvSgKrg": {
+      "video_id": "NuUBSI6RDGQ",
+      "title": "【Pragmata】We're Going Somewhere | #2",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PRAGMATA",
+      "published_at": "2026-05-06T19:32:44.000Z",
+      "available_at": "2026-05-07T01:00:00.000Z",
+      "start_scheduled": "2026-05-07T01:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
+        "name": "Ouro Kronii Ch. hololive-EN",
+        "english_name": "Ouro Kronii",
+        "org": "Hololive",
+        "suborg": "ibEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
