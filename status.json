@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778129240,
+  "cached_at": 1778129301,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-07T00:55:10.000Z",
       "start_scheduled": "2026-05-07T01:00:00.000Z",
       "start_actual": "2026-05-07T00:55:10.000Z",
-      "live_viewers": 4561,
+      "live_viewers": 4714,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -60,26 +60,6 @@
         "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCmbs8T6MWqUHP1tIQvSgKrg": {
-      "video_id": "NuUBSI6RDGQ",
-      "title": "【Pragmata】We're Going Somewhere | #2",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "PRAGMATA",
-      "published_at": "2026-05-06T19:32:44.000Z",
-      "available_at": "2026-05-07T01:11:02.000Z",
-      "start_scheduled": "2026-05-07T01:15:00.000Z",
-      "start_actual": "2026-05-07T01:11:02.000Z",
-      "live_viewers": 3370,
-      "channel": {
-        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
-        "name": "Ouro Kronii Ch. hololive-EN",
-        "english_name": "Ouro Kronii",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCRtugKQIPPfZmVZ6vLiOsdQ": {
       "video_id": "rT50yBP7C-w",
       "title": "DONT SAY THAT!!!! [🔴 Cursed Companions]",
@@ -90,7 +70,7 @@
       "available_at": "2026-05-07T01:31:46.000Z",
       "start_scheduled": "2026-05-07T01:30:00.000Z",
       "start_actual": "2026-05-07T01:31:46.000Z",
-      "live_viewers": 183,
+      "live_viewers": 193,
       "channel": {
         "id": "UCRtugKQIPPfZmVZ6vLiOsdQ",
         "name": "PiaPiUFO",
@@ -130,7 +110,7 @@
       "available_at": "2026-05-07T02:01:04.000Z",
       "start_scheduled": "2026-05-07T02:00:00.000Z",
       "start_actual": "2026-05-07T02:01:04.000Z",
-      "live_viewers": 7489,
+      "live_viewers": 7469,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -150,7 +130,7 @@
       "available_at": "2026-05-07T02:03:29.000Z",
       "start_scheduled": "2026-05-07T02:00:00.000Z",
       "start_actual": "2026-05-07T02:03:29.000Z",
-      "live_viewers": 339,
+      "live_viewers": 335,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
