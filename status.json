@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778144661,
+  "cached_at": 1778144722,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -87,9 +87,10 @@
       "status": "live",
       "topic_id": "Windrose",
       "published_at": "2026-05-07T04:35:31.000Z",
-      "available_at": "2026-05-07T09:00:00.000Z",
+      "available_at": "2026-05-07T09:00:29.000Z",
       "start_scheduled": "2026-05-07T09:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-07T09:00:29.000Z",
+      "live_viewers": 516,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
