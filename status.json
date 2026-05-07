@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778117481,
+  "cached_at": 1778117541,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-06T23:01:02.000Z",
       "start_scheduled": "2026-05-06T23:00:00.000Z",
       "start_actual": "2026-05-06T23:01:02.000Z",
-      "live_viewers": 264,
+      "live_viewers": 271,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-07T00:55:10.000Z",
       "start_scheduled": "2026-05-07T01:00:00.000Z",
       "start_actual": "2026-05-07T00:55:10.000Z",
-      "live_viewers": 2758,
+      "live_viewers": 2833,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-07T01:05:52.000Z",
       "start_scheduled": "2026-05-07T01:00:00.000Z",
       "start_actual": "2026-05-07T01:05:52.000Z",
-      "live_viewers": 534,
+      "live_viewers": 545,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-07T01:11:02.000Z",
       "start_scheduled": "2026-05-07T01:15:00.000Z",
       "start_actual": "2026-05-07T01:11:02.000Z",
-      "live_viewers": 2631,
+      "live_viewers": 2724,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -138,6 +138,25 @@
         "org": "Hololive",
         "suborg": "ibEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCRtugKQIPPfZmVZ6vLiOsdQ": {
+      "video_id": "rT50yBP7C-w",
+      "title": "DONT SAY THAT!!!! [🔴 Cursed Companions]",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-04-23T16:11:47.000Z",
+      "available_at": "2026-05-07T01:30:00.000Z",
+      "start_scheduled": "2026-05-07T01:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCRtugKQIPPfZmVZ6vLiOsdQ",
+        "name": "PiaPiUFO",
+        "english_name": "PiaPi UFO",
+        "org": "Independents",
+        "suborg": "TBThe BEASTIEZ",
+        "photo": "https://yt3.ggpht.com/KvNByjR60WUZFrSsPy4wdQ4cCCsXoUob14lJjQ719Td9BtMXD8nusjDOlAAJo2j2ODrU0h0yxns=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
