@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778144541,
+  "cached_at": 1778144601,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "mTHxNspnRCg",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-07T06:59:58.000Z",
       "start_scheduled": "2026-05-07T07:00:00.000Z",
       "start_actual": "2026-05-07T06:59:58.000Z",
-      "live_viewers": 1618,
+      "live_viewers": 1617,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -78,6 +78,25 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAoy6rzhSf4ydcYjJw3WoVg": {
+      "video_id": "LCW-ps8TDiM",
+      "title": "【Windrose】AHOY! SET SAIL TO THE HORIZON! 【 iofi / hololiveID 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Windrose",
+      "published_at": "2026-05-07T04:35:31.000Z",
+      "available_at": "2026-05-07T09:00:00.000Z",
+      "start_scheduled": "2026-05-07T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+        "name": "Airani Iofifteen Channel hololive-ID",
+        "english_name": "Airani Iofifteen",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
