@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778213241,
+  "cached_at": 1778213303,
   "lives": {
     "UCMqGG8BRAiI1lJfKOpETM_w": {
       "video_id": "mzWIQeDu2Mc",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-08T02:10:39.000Z",
       "start_scheduled": "2026-05-08T02:10:00.000Z",
       "start_actual": "2026-05-08T02:10:39.000Z",
-      "live_viewers": 5817,
+      "live_viewers": 5586,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCozx5csNhCx1wsVq3SZVkBQ": {
-      "video_id": "rGLWBqaqcS8",
-      "title": "【おねだり解禁】どんな願いも聞いちゃう・・・?わがままボイス本日発売!【昼ホロ/花園さやか】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "News_Show",
-      "published_at": "2026-05-07T16:13:32.000Z",
-      "available_at": "2026-05-08T02:59:43.000Z",
-      "start_scheduled": "2026-05-08T03:00:00.000Z",
-      "start_actual": "2026-05-08T02:59:43.000Z",
-      "live_viewers": 4520,
-      "channel": {
-        "id": "UCozx5csNhCx1wsVq3SZVkBQ",
-        "name": "holoAN room (ホロアナ)",
-        "english_name": "holoAN room",
-        "org": "Hololive",
-        "suborg": "0hOfficial",
-        "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
@@ -111,7 +91,7 @@
       "available_at": "2026-05-08T03:00:35.000Z",
       "start_scheduled": "2026-05-08T03:00:00.000Z",
       "start_actual": "2026-05-08T03:00:35.000Z",
-      "live_viewers": 450,
+      "live_viewers": 465,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
