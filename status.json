@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778205919,
+  "cached_at": 1778205979,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "_C0GvWLoQ5E",
@@ -18,25 +18,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "fk6mixFEL0I",
-      "title": "【TOMODACHI LIFE】RoonRoon Island Needs More Miis.",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-06T15:56:11.000Z",
-      "available_at": "2026-05-08T02:00:00.000Z",
-      "start_scheduled": "2026-05-08T02:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC060r4zABV18vcahAWR1n7w",
-        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-        "english_name": "Machina X Flayon",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC8rcEBzJSleTkf_-agPM20g": {
@@ -58,6 +39,25 @@
         "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UC060r4zABV18vcahAWR1n7w": {
+      "video_id": "fk6mixFEL0I",
+      "title": "【TOMODACHI LIFE】RoonRoon Island Needs More Miis.",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-06T15:56:11.000Z",
+      "available_at": "2026-05-08T02:00:00.000Z",
+      "start_scheduled": "2026-05-08T02:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC060r4zABV18vcahAWR1n7w",
+        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
+        "english_name": "Machina X Flayon",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCMqGG8BRAiI1lJfKOpETM_w": {
       "video_id": "mzWIQeDu2Mc",
       "title": "【Zatsudan】I'm back from Golden Week!",
@@ -68,7 +68,7 @@
       "available_at": "2026-05-08T02:00:05.000Z",
       "start_scheduled": "2026-05-08T02:00:00.000Z",
       "start_actual": "2026-05-08T02:00:05.000Z",
-      "live_viewers": 180,
+      "live_viewers": 271,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
