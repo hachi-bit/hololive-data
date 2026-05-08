@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778227583,
+  "cached_at": 1778227641,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "fk6mixFEL0I",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-08T05:58:06.000Z",
       "start_scheduled": "2026-05-08T05:58:00.000Z",
       "start_actual": "2026-05-08T05:58:06.000Z",
-      "live_viewers": 1702,
+      "live_viewers": 1539,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-08T06:04:04.000Z",
       "start_scheduled": "2026-05-08T06:00:00.000Z",
       "start_actual": "2026-05-08T06:04:04.000Z",
-      "live_viewers": 425,
+      "live_viewers": 406,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-08T07:02:38.000Z",
       "start_scheduled": "2026-05-08T07:00:00.000Z",
       "start_actual": "2026-05-08T07:02:38.000Z",
-      "live_viewers": 120,
+      "live_viewers": 113,
       "channel": {
         "id": "UCuGD1paDrwhDP-PJteOh-UA",
         "name": "夏河ひのり / Hinori Natsukawa",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-08T07:42:22.000Z",
       "start_scheduled": "2026-05-08T08:00:00.000Z",
       "start_actual": "2026-05-08T07:42:22.000Z",
-      "live_viewers": 444,
+      "live_viewers": 465,
       "channel": {
         "id": "UCLK0cRXu3PY7cPbdWiVYemA",
         "name": "羽流鷲りりり / Ririri Channel【ななしいんく】",
@@ -119,25 +119,6 @@
         "org": "774inc",
         "suborg": "25Nanashiinku",
         "photo": "https://yt3.ggpht.com/CrRdj1eqKxWtN9kbkRejxPlNhIoikEhKubDWEPK4BtcJLbvumADzuBxwI_7Oar5PT22x1XQ2Jw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKeAhJvy8zgXWbh9duVjIaQ": {
-      "video_id": "ymf0REsmxVw",
-      "title": "【ストリートファイター6】 #すぺしゃりてふぇす #8 チーム100万ギャルWIN!【アルランディス/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-05-07T15:38:24.000Z",
-      "available_at": "2026-05-08T08:00:00.000Z",
-      "start_scheduled": "2026-05-08T08:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
-        "name": "Aruran Ch. アルランディス",
-        "english_name": "Arurandeisu",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC2hx0xVkMoHGWijwr_lA01w": {
@@ -166,9 +147,10 @@
       "status": "live",
       "topic_id": "Overwatch",
       "published_at": "2026-05-08T07:48:28.000Z",
-      "available_at": "2026-05-08T08:00:00.000Z",
+      "available_at": "2026-05-08T08:00:45.000Z",
       "start_scheduled": "2026-05-08T08:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-08T08:00:45.000Z",
+      "live_viewers": 310,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -176,6 +158,26 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKeAhJvy8zgXWbh9duVjIaQ": {
+      "video_id": "ymf0REsmxVw",
+      "title": "【ストリートファイター6】 #すぺしゃりてふぇす #8 チーム100万ギャルWIN!【アルランディス/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-05-07T15:38:24.000Z",
+      "available_at": "2026-05-08T08:01:04.000Z",
+      "start_scheduled": "2026-05-08T08:00:00.000Z",
+      "start_actual": "2026-05-08T08:01:04.000Z",
+      "live_viewers": 446,
+      "channel": {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "english_name": "Arurandeisu",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
