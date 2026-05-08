@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778257401,
+  "cached_at": 1778257462,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "yDBzY7FtI9Y",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-08T10:00:02.000Z",
       "start_scheduled": "2026-05-08T10:00:00.000Z",
       "start_actual": "2026-05-08T10:00:02.000Z",
-      "live_viewers": 7782,
+      "live_viewers": 7887,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-08T11:10:14.000Z",
       "start_scheduled": "2026-05-08T11:10:00.000Z",
       "start_actual": "2026-05-08T11:10:14.000Z",
-      "live_viewers": 13579,
+      "live_viewers": 13656,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "TSl3McG2zHM",
-      "title": "【ARK: Survival Ascended】2回目のARK!肉食動物テイムしたい!【ホロライブ DEV_IS 響咲リオナ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "ark",
-      "published_at": "2026-05-08T06:14:47.000Z",
-      "available_at": "2026-05-08T12:20:27.000Z",
-      "start_scheduled": "2026-05-08T12:20:00.000Z",
-      "start_actual": "2026-05-08T12:20:27.000Z",
-      "live_viewers": 4110,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
