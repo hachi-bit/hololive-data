@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778252721,
+  "cached_at": 1778252781,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "yDBzY7FtI9Y",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-08T05:58:06.000Z",
       "start_scheduled": "2026-05-08T05:58:00.000Z",
       "start_actual": "2026-05-08T05:58:06.000Z",
-      "live_viewers": 783,
+      "live_viewers": 713,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-08T10:00:02.000Z",
       "start_scheduled": "2026-05-08T10:00:00.000Z",
       "start_actual": "2026-05-08T10:00:02.000Z",
-      "live_viewers": 7242,
+      "live_viewers": 7378,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-08T11:10:14.000Z",
       "start_scheduled": "2026-05-08T11:10:00.000Z",
       "start_actual": "2026-05-08T11:10:14.000Z",
-      "live_viewers": 13354,
+      "live_viewers": 13630,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-08T12:01:04.000Z",
       "start_scheduled": "2026-05-08T12:00:00.000Z",
       "start_actual": "2026-05-08T12:01:04.000Z",
-      "live_viewers": 4113,
+      "live_viewers": 4147,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-08T13:00:36.000Z",
       "start_scheduled": "2026-05-08T13:00:00.000Z",
       "start_actual": "2026-05-08T13:00:36.000Z",
-      "live_viewers": 8472,
+      "live_viewers": 8496,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-08T13:02:53.000Z",
       "start_scheduled": "2026-05-08T13:00:00.000Z",
       "start_actual": "2026-05-08T13:02:53.000Z",
-      "live_viewers": 15707,
+      "live_viewers": 14771,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -279,25 +279,6 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "R6RX9aGSPLE",
-      "title": "【 HANDCAM 】I Want a Cute Anime Girl Modelkit Or Something",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Camera_Stream",
-      "published_at": "2026-05-06T16:20:15.000Z",
-      "available_at": "2026-05-08T15:00:00.000Z",
-      "start_scheduled": "2026-05-08T15:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC060r4zABV18vcahAWR1n7w",
-        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-        "english_name": "Machina X Flayon",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
