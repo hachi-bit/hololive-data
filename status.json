@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778227401,
+  "cached_at": 1778227463,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "fk6mixFEL0I",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-08T05:00:20.000Z",
       "start_scheduled": "2026-05-08T05:00:00.000Z",
       "start_actual": "2026-05-08T05:00:20.000Z",
-      "live_viewers": 2317,
+      "live_viewers": 2347,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-08T07:42:22.000Z",
       "start_scheduled": "2026-05-08T08:00:00.000Z",
       "start_actual": "2026-05-08T07:42:22.000Z",
-      "live_viewers": 418,
+      "live_viewers": 444,
       "channel": {
         "id": "UCLK0cRXu3PY7cPbdWiVYemA",
         "name": "羽流鷲りりり / Ririri Channel【ななしいんく】",
@@ -119,6 +119,63 @@
         "org": "774inc",
         "suborg": "25Nanashiinku",
         "photo": "https://yt3.ggpht.com/CrRdj1eqKxWtN9kbkRejxPlNhIoikEhKubDWEPK4BtcJLbvumADzuBxwI_7Oar5PT22x1XQ2Jw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKeAhJvy8zgXWbh9duVjIaQ": {
+      "video_id": "ymf0REsmxVw",
+      "title": "【ストリートファイター6】 #すぺしゃりてふぇす #8 チーム100万ギャルWIN!【アルランディス/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-05-07T15:38:24.000Z",
+      "available_at": "2026-05-08T08:00:00.000Z",
+      "start_scheduled": "2026-05-08T08:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "english_name": "Arurandeisu",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC2hx0xVkMoHGWijwr_lA01w": {
+      "video_id": "3E-ZO7NBUmY",
+      "title": "【League of Legends】Day One of the Tournament begins!!!【LTK】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-05-08T08:00:26.000Z",
+      "available_at": "2026-05-08T08:00:00.000Z",
+      "start_scheduled": "2026-05-08T08:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC2hx0xVkMoHGWijwr_lA01w",
+        "name": "Axel Syrios Ch. HOLOSTARS-EN",
+        "english_name": "Axel Syrios",
+        "org": "Hololive",
+        "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
+        "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "3zen6yXWDao",
+      "title": "【Overwatch】CHILL【Pavolia Reine/hololiveID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Overwatch",
+      "published_at": "2026-05-08T07:48:28.000Z",
+      "available_at": "2026-05-08T08:00:00.000Z",
+      "start_scheduled": "2026-05-08T08:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
