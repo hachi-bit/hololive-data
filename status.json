@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778255601,
+  "cached_at": 1778255661,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "yDBzY7FtI9Y",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-08T10:00:02.000Z",
       "start_scheduled": "2026-05-08T10:00:00.000Z",
       "start_actual": "2026-05-08T10:00:02.000Z",
-      "live_viewers": 7443,
+      "live_viewers": 7278,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -101,26 +101,6 @@
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCHsx4Hqa-1ORjQTh9TYDhww": {
-      "video_id": "leouXtylPD8",
-      "title": "【HOLO EN/ID HYTALE】FINAL ADVENTURE!!! DINOS!!! #kfp #キアライブ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Hytale",
-      "published_at": "2026-05-08T05:32:31.000Z",
-      "available_at": "2026-05-08T12:01:04.000Z",
-      "start_scheduled": "2026-05-08T12:00:00.000Z",
-      "start_actual": "2026-05-08T12:01:04.000Z",
-      "live_viewers": 3715,
-      "channel": {
-        "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
-        "name": "Takanashi Kiara Ch. hololive-EN",
-        "english_name": "Takanashi Kiara",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "TSl3McG2zHM",
       "title": "【ARK: Survival Ascended】2回目のARK!肉食動物テイムしたい!【ホロライブ DEV_IS 響咲リオナ】",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-08T12:20:27.000Z",
       "start_scheduled": "2026-05-08T12:20:00.000Z",
       "start_actual": "2026-05-08T12:20:27.000Z",
-      "live_viewers": 6595,
+      "live_viewers": 6733,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-08T13:00:36.000Z",
       "start_scheduled": "2026-05-08T13:00:00.000Z",
       "start_actual": "2026-05-08T13:00:36.000Z",
-      "live_viewers": 8281,
+      "live_viewers": 8271,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
