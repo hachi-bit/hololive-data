@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778238861,
+  "cached_at": 1778238920,
   "lives": {
-    "UCANDOlYTJT7N5jlRC3zfzVA": {
-      "video_id": "OGwtG18I8wo",
-      "title": "【P5R】初見で挑む『ペルソナ5 ザ・ロイヤル』 11日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Persona",
-      "published_at": "2026-05-07T14:45:53.000Z",
-      "available_at": "2026-05-08T05:00:20.000Z",
-      "start_scheduled": "2026-05-08T05:00:00.000Z",
-      "start_actual": "2026-05-08T05:00:20.000Z",
-      "live_viewers": 2205,
-      "channel": {
-        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
-        "name": "Roberu Ch. 夕刻ロベル",
-        "english_name": "Yukoku Roberu",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "yDBzY7FtI9Y",
       "title": "【 League of Legends #LTK 】本番1日目 練習から!【白那しずく / ネオポルテ】",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-08T05:58:06.000Z",
       "start_scheduled": "2026-05-08T05:58:00.000Z",
       "start_actual": "2026-05-08T05:58:06.000Z",
-      "live_viewers": 949,
+      "live_viewers": 947,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-08T07:02:38.000Z",
       "start_scheduled": "2026-05-08T07:00:00.000Z",
       "start_actual": "2026-05-08T07:02:38.000Z",
-      "live_viewers": 110,
+      "live_viewers": 131,
       "channel": {
         "id": "UCuGD1paDrwhDP-PJteOh-UA",
         "name": "夏河ひのり / Hinori Natsukawa",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-08T08:01:04.000Z",
       "start_scheduled": "2026-05-08T08:00:00.000Z",
       "start_actual": "2026-05-08T08:01:04.000Z",
-      "live_viewers": 1280,
+      "live_viewers": 1092,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-08T08:59:16.000Z",
       "start_scheduled": "2026-05-08T09:00:00.000Z",
       "start_actual": "2026-05-08T08:59:16.000Z",
-      "live_viewers": 962,
+      "live_viewers": 984,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-08T09:00:53.000Z",
       "start_scheduled": "2026-05-08T09:00:00.000Z",
       "start_actual": "2026-05-08T09:00:53.000Z",
-      "live_viewers": 2200,
+      "live_viewers": 2208,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-08T09:01:03.000Z",
       "start_scheduled": "2026-05-08T09:00:00.000Z",
       "start_actual": "2026-05-08T09:01:03.000Z",
-      "live_viewers": 5243,
+      "live_viewers": 5441,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-08T09:01:05.000Z",
       "start_scheduled": "2026-05-08T09:00:00.000Z",
       "start_actual": "2026-05-08T09:01:05.000Z",
-      "live_viewers": 14392,
+      "live_viewers": 14464,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-08T09:01:39.000Z",
       "start_scheduled": "2026-05-08T09:00:00.000Z",
       "start_actual": "2026-05-08T09:01:39.000Z",
-      "live_viewers": 7236,
+      "live_viewers": 7367,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-08T10:59:36.000Z",
       "start_scheduled": "2026-05-08T11:00:00.000Z",
       "start_actual": "2026-05-08T10:59:36.000Z",
-      "live_viewers": 559,
+      "live_viewers": 624,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-08T10:59:51.000Z",
       "start_scheduled": "2026-05-08T11:00:00.000Z",
       "start_actual": "2026-05-08T10:59:51.000Z",
-      "live_viewers": 71,
+      "live_viewers": 23,
       "channel": {
         "id": "UCSgwEeOm7mrwPapt6PUt_5Q",
         "name": "ゾンちゅう〜ゾンビJKはゲーム配信中〜",
@@ -351,7 +331,7 @@
       "available_at": "2026-05-08T11:01:03.000Z",
       "start_scheduled": "2026-05-08T11:00:00.000Z",
       "start_actual": "2026-05-08T11:01:03.000Z",
-      "live_viewers": 261,
+      "live_viewers": 266,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -371,7 +351,7 @@
       "available_at": "2026-05-08T11:02:02.000Z",
       "start_scheduled": "2026-05-08T11:00:00.000Z",
       "start_actual": "2026-05-08T11:02:02.000Z",
-      "live_viewers": 2911,
+      "live_viewers": 3234,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -391,7 +371,7 @@
       "available_at": "2026-05-08T11:03:39.000Z",
       "start_scheduled": "2026-05-08T11:00:00.000Z",
       "start_actual": "2026-05-08T11:03:39.000Z",
-      "live_viewers": 3913,
+      "live_viewers": 4571,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -411,7 +391,7 @@
       "available_at": "2026-05-08T11:06:23.000Z",
       "start_scheduled": "2026-05-08T11:00:00.000Z",
       "start_actual": "2026-05-08T11:06:23.000Z",
-      "live_viewers": 153,
+      "live_viewers": 192,
       "channel": {
         "id": "UCez5D_dtExDJzQOAzg1k1RQ",
         "name": "折咲もしゅch-Moshu Orisaki-",
@@ -428,10 +408,10 @@
       "status": "live",
       "topic_id": "Detroit:_Become_Human",
       "published_at": "2026-05-08T11:08:52.000Z",
-      "available_at": "2026-05-08T11:10:08.000Z",
+      "available_at": "2026-05-08T11:10:14.000Z",
       "start_scheduled": "2026-05-08T11:10:00.000Z",
-      "start_actual": "2026-05-08T11:10:08.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-08T11:10:14.000Z",
+      "live_viewers": 4724,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
