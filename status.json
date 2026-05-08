@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778220441,
+  "cached_at": 1778220500,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "fk6mixFEL0I",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-08T02:08:39.000Z",
       "start_scheduled": "2026-05-08T02:00:00.000Z",
       "start_actual": "2026-05-08T02:08:39.000Z",
-      "live_viewers": 4855,
+      "live_viewers": 4741,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-08T05:00:20.000Z",
       "start_scheduled": "2026-05-08T05:00:00.000Z",
       "start_actual": "2026-05-08T05:00:20.000Z",
-      "live_viewers": 2044,
+      "live_viewers": 2072,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-08T05:58:06.000Z",
       "start_scheduled": "2026-05-08T05:58:00.000Z",
       "start_actual": "2026-05-08T05:58:06.000Z",
-      "live_viewers": 510,
+      "live_viewers": 828,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -108,9 +108,10 @@
       "status": "live",
       "topic_id": "League_of_Legends",
       "published_at": "2026-05-08T05:05:26.000Z",
-      "available_at": "2026-05-08T06:00:00.000Z",
+      "available_at": "2026-05-08T06:04:04.000Z",
       "start_scheduled": "2026-05-08T06:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-08T06:04:04.000Z",
+      "live_viewers": 170,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
