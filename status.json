@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778243901,
+  "cached_at": 1778243961,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "yDBzY7FtI9Y",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-08T06:04:04.000Z",
       "start_scheduled": "2026-05-08T06:00:00.000Z",
       "start_actual": "2026-05-08T06:04:04.000Z",
-      "live_viewers": 398,
+      "live_viewers": 405,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-08T10:00:02.000Z",
       "start_scheduled": "2026-05-08T10:00:00.000Z",
       "start_actual": "2026-05-08T10:00:02.000Z",
-      "live_viewers": 7611,
+      "live_viewers": 7643,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-08T11:01:03.000Z",
       "start_scheduled": "2026-05-08T11:00:00.000Z",
       "start_actual": "2026-05-08T11:01:03.000Z",
-      "live_viewers": 265,
+      "live_viewers": 275,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-08T11:06:23.000Z",
       "start_scheduled": "2026-05-08T11:00:00.000Z",
       "start_actual": "2026-05-08T11:06:23.000Z",
-      "live_viewers": 350,
+      "live_viewers": 341,
       "channel": {
         "id": "UCez5D_dtExDJzQOAzg1k1RQ",
         "name": "折咲もしゅch-Moshu Orisaki-",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-08T11:57:00.000Z",
       "start_scheduled": "2026-05-08T12:00:00.000Z",
       "start_actual": "2026-05-08T11:57:00.000Z",
-      "live_viewers": 3150,
+      "live_viewers": 3187,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-08T12:00:14.000Z",
       "start_scheduled": "2026-05-08T12:00:00.000Z",
       "start_actual": "2026-05-08T12:00:14.000Z",
-      "live_viewers": 25170,
+      "live_viewers": 25419,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -206,12 +206,12 @@
       "title": "【機動戦士ガンダム 0083 STARDUST MEMORY】1年戦争のその後???完全初見だ~~!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "watchalong",
       "published_at": "2026-05-08T11:40:42.000Z",
       "available_at": "2026-05-08T12:00:51.000Z",
       "start_scheduled": "2026-05-08T12:00:00.000Z",
       "start_actual": "2026-05-08T12:00:51.000Z",
-      "live_viewers": 2405,
+      "live_viewers": 2454,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-08T12:01:04.000Z",
       "start_scheduled": "2026-05-08T12:00:00.000Z",
       "start_actual": "2026-05-08T12:01:04.000Z",
-      "live_viewers": 3216,
+      "live_viewers": 3304,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-08T12:03:18.000Z",
       "start_scheduled": "2026-05-08T12:00:00.000Z",
       "start_actual": "2026-05-08T12:03:18.000Z",
-      "live_viewers": 261,
+      "live_viewers": 270,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-08T12:13:56.000Z",
       "start_scheduled": "2026-05-08T12:15:00.000Z",
       "start_actual": "2026-05-08T12:13:56.000Z",
-      "live_viewers": 1260,
+      "live_viewers": 1307,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-08T12:20:27.000Z",
       "start_scheduled": "2026-05-08T12:20:00.000Z",
       "start_actual": "2026-05-08T12:20:27.000Z",
-      "live_viewers": 4445,
+      "live_viewers": 4726,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
