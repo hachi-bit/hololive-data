@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778274201,
+  "cached_at": 1778274263,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "knLu2u_aSyo",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-08T16:59:26.000Z",
       "start_scheduled": "2026-05-08T17:00:00.000Z",
       "start_actual": "2026-05-08T16:59:26.000Z",
-      "live_viewers": 2670,
+      "live_viewers": 2642,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -19,6 +19,25 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCDHABijvPBnJm7F-KlNME3w": {
+      "video_id": "PaT4Mh9Us4o",
+      "title": "【SENRAN KAGURA: PEACH BEACH SPLASH】BIKINI TIME?!??!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Senran_Kagura",
+      "published_at": "2026-05-08T09:26:50.000Z",
+      "available_at": "2026-05-08T21:00:00.000Z",
+      "start_scheduled": "2026-05-08T21:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCDHABijvPBnJm7F-KlNME3w",
+        "name": "Gigi Murin Ch. hololive-EN",
+        "english_name": "Gigi Murin",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
