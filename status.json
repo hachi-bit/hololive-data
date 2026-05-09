@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778303299,
+  "cached_at": 1778303360,
   "lives": {
-    "UC_sFNM0z0MWm9A6WlKPuMMg": {
-      "video_id": "IIFs7qzRARs",
-      "title": "Let's go ghost hunting! | Luigi's Mansion",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Luigi's_Mansion",
-      "published_at": "2026-05-08T00:56:37.000Z",
-      "available_at": "2026-05-09T00:55:28.000Z",
-      "start_scheduled": "2026-05-09T01:00:00.000Z",
-      "start_actual": "2026-05-09T00:55:28.000Z",
-      "live_viewers": 5895,
-      "channel": {
-        "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
-        "name": "Nerissa Ravencroft Ch. hololive-EN",
-        "english_name": "Nerissa Ravencroft",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
       "video_id": "9b0jJPu0OgM",
       "title": "#3【ドラゴンクエストVII Reimagined】DQ7完全初見!ずっとプレイしてみたかった7の世界へ🔥【白銀ノエル/ホロライブ】※ネタバレあり",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-09T02:58:57.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T02:58:57.000Z",
-      "live_viewers": 404,
+      "live_viewers": 411,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-09T03:00:43.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T03:00:43.000Z",
-      "live_viewers": 14586,
+      "live_viewers": 14735,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-09T03:01:08.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T03:01:08.000Z",
-      "live_viewers": 7645,
+      "live_viewers": 9257,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-09T03:01:21.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T03:01:21.000Z",
-      "live_viewers": 7356,
+      "live_viewers": 7488,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -170,7 +150,7 @@
       "available_at": "2026-05-09T05:01:17.000Z",
       "start_scheduled": "2026-05-09T05:00:00.000Z",
       "start_actual": "2026-05-09T05:01:17.000Z",
-      "live_viewers": 90,
+      "live_viewers": 110,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
