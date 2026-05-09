@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778339181,
+  "cached_at": 1778339241,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "E64RtFKWXvg",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-09T11:01:39.000Z",
       "start_scheduled": "2026-05-09T11:00:00.000Z",
       "start_actual": "2026-05-09T11:01:39.000Z",
-      "live_viewers": 25444,
+      "live_viewers": 23951,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCHsx4Hqa-1ORjQTh9TYDhww": {
-      "video_id": "i0DOH7jISP4",
-      "title": "【TOMODACHI LIFE 2】probably the best miis i have ever made #kfp #キアライブ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-09T04:04:14.000Z",
-      "available_at": "2026-05-09T11:33:00.000Z",
-      "start_scheduled": "2026-05-09T11:15:00.000Z",
-      "start_actual": "2026-05-09T11:33:00.000Z",
-      "live_viewers": 3086,
-      "channel": {
-        "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
-        "name": "Takanashi Kiara Ch. hololive-EN",
-        "english_name": "Takanashi Kiara",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
@@ -111,7 +91,7 @@
       "available_at": "2026-05-09T12:03:50.000Z",
       "start_scheduled": "2026-05-09T12:00:00.000Z",
       "start_actual": "2026-05-09T12:03:50.000Z",
-      "live_viewers": 23072,
+      "live_viewers": 22954,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-09T13:00:31.000Z",
       "start_scheduled": "2026-05-09T13:00:00.000Z",
       "start_actual": "2026-05-09T13:00:31.000Z",
-      "live_viewers": 954,
+      "live_viewers": 778,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-09T13:02:13.000Z",
       "start_scheduled": "2026-05-09T13:00:00.000Z",
       "start_actual": "2026-05-09T13:02:13.000Z",
-      "live_viewers": 467,
+      "live_viewers": 476,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-09T14:00:19.000Z",
       "start_scheduled": "2026-05-09T14:00:00.000Z",
       "start_actual": "2026-05-09T14:00:19.000Z",
-      "live_viewers": 18678,
+      "live_viewers": 17625,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-09T14:01:26.000Z",
       "start_scheduled": "2026-05-09T14:00:00.000Z",
       "start_actual": "2026-05-09T14:01:26.000Z",
-      "live_viewers": 3762,
+      "live_viewers": 3847,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-09T14:02:19.000Z",
       "start_scheduled": "2026-05-09T14:00:00.000Z",
       "start_actual": "2026-05-09T14:02:19.000Z",
-      "live_viewers": 2390,
+      "live_viewers": 2510,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-09T14:31:12.000Z",
       "start_scheduled": "2026-05-09T14:30:00.000Z",
       "start_actual": "2026-05-09T14:31:12.000Z",
-      "live_viewers": 1468,
+      "live_viewers": 1581,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -339,26 +319,6 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
-      "video_id": "rUx-eQvm1r8",
-      "title": "羽継烏有 2026誕生日カウントダウン配信!! 【 ホロスターズ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Birthday",
-      "published_at": "2026-05-08T19:42:39.000Z",
-      "available_at": "2026-05-09T14:45:46.000Z",
-      "start_scheduled": "2026-05-09T14:45:00.000Z",
-      "start_actual": "2026-05-09T14:45:46.000Z",
-      "live_viewers": 529,
-      "channel": {
-        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
-        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
-        "english_name": "Utsugi Uyu",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCTvHWSfBZgtxE4sILOaurIQ": {
@@ -371,7 +331,7 @@
       "available_at": "2026-05-09T14:59:47.000Z",
       "start_scheduled": "2026-05-09T15:00:00.000Z",
       "start_actual": "2026-05-09T14:59:47.000Z",
-      "live_viewers": 578,
+      "live_viewers": 671,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
