@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778294299,
+  "cached_at": 1778294360,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "IIFs7qzRARs",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-09T00:55:28.000Z",
       "start_scheduled": "2026-05-09T01:00:00.000Z",
       "start_actual": "2026-05-09T00:55:28.000Z",
-      "live_viewers": 5058,
+      "live_viewers": 4980,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-09T02:02:03.000Z",
       "start_scheduled": "2026-05-09T02:00:00.000Z",
       "start_actual": "2026-05-09T02:02:03.000Z",
-      "live_viewers": 2347,
+      "live_viewers": 2570,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-09T02:02:23.000Z",
       "start_scheduled": "2026-05-09T02:00:00.000Z",
       "start_actual": "2026-05-09T02:02:23.000Z",
-      "live_viewers": 4319,
+      "live_viewers": 4407,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -108,9 +108,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-05-09T02:29:43.000Z",
-      "available_at": "2026-05-09T02:30:00.000Z",
+      "available_at": "2026-05-09T02:35:34.000Z",
       "start_scheduled": "2026-05-09T02:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-09T02:35:34.000Z",
+      "live_viewers": 347,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
