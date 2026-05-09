@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778292319,
+  "cached_at": 1778292379,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "IIFs7qzRARs",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-09T00:55:28.000Z",
       "start_scheduled": "2026-05-09T01:00:00.000Z",
       "start_actual": "2026-05-09T00:55:28.000Z",
-      "live_viewers": 4914,
+      "live_viewers": 4973,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-09T01:01:36.000Z",
       "start_scheduled": "2026-05-09T01:00:00.000Z",
       "start_actual": "2026-05-09T01:01:36.000Z",
-      "live_viewers": 4984,
+      "live_viewers": 5021,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-09T01:23:03.000Z",
       "start_scheduled": "2026-05-09T01:20:00.000Z",
       "start_actual": "2026-05-09T01:23:03.000Z",
-      "live_viewers": 28834,
+      "live_viewers": 10727,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -68,9 +68,10 @@
       "status": "live",
       "topic_id": "Outfit_Reveal",
       "published_at": "2026-05-07T14:27:44.000Z",
-      "available_at": "2026-05-09T02:00:00.000Z",
+      "available_at": "2026-05-09T02:02:03.000Z",
       "start_scheduled": "2026-05-09T02:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-09T02:02:03.000Z",
+      "live_viewers": 1077,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -87,9 +88,10 @@
       "status": "live",
       "topic_id": "Dragon_Quest",
       "published_at": "2026-05-08T16:55:50.000Z",
-      "available_at": "2026-05-09T02:00:00.000Z",
+      "available_at": "2026-05-09T02:02:23.000Z",
       "start_scheduled": "2026-05-09T02:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-09T02:02:23.000Z",
+      "live_viewers": 1288,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
