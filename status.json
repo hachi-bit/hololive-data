@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778342599,
+  "cached_at": 1778342660,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "E64RtFKWXvg",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-09T07:59:34.000Z",
       "start_scheduled": "2026-05-09T08:00:00.000Z",
       "start_actual": "2026-05-09T07:59:34.000Z",
-      "live_viewers": 5565,
+      "live_viewers": 5526,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-09T12:02:11.000Z",
       "start_scheduled": "2026-05-09T12:00:00.000Z",
       "start_actual": "2026-05-09T12:02:11.000Z",
-      "live_viewers": 327,
+      "live_viewers": 274,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-09T12:03:50.000Z",
       "start_scheduled": "2026-05-09T12:00:00.000Z",
       "start_actual": "2026-05-09T12:03:50.000Z",
-      "live_viewers": 22894,
+      "live_viewers": 22741,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-09T13:00:58.000Z",
       "start_scheduled": "2026-05-09T13:00:00.000Z",
       "start_actual": "2026-05-09T13:00:58.000Z",
-      "live_viewers": 3915,
+      "live_viewers": 3821,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-09T13:02:13.000Z",
       "start_scheduled": "2026-05-09T13:00:00.000Z",
       "start_actual": "2026-05-09T13:02:13.000Z",
-      "live_viewers": 569,
+      "live_viewers": 604,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-09T14:01:26.000Z",
       "start_scheduled": "2026-05-09T14:00:00.000Z",
       "start_actual": "2026-05-09T14:01:26.000Z",
-      "live_viewers": 4966,
+      "live_viewers": 5536,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-09T14:31:12.000Z",
       "start_scheduled": "2026-05-09T14:30:00.000Z",
       "start_actual": "2026-05-09T14:31:12.000Z",
-      "live_viewers": 2411,
+      "live_viewers": 2327,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -239,6 +239,26 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC2hx0xVkMoHGWijwr_lA01w": {
+      "video_id": "xEvSIq2QzDM",
+      "title": "【TOMODACHI LIFE: LIVING THE DREAM】Late late late night North Elysium island building :3🌴 #6",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-09T14:59:22.000Z",
+      "available_at": "2026-05-09T16:01:16.000Z",
+      "start_scheduled": "2026-05-09T16:00:00.000Z",
+      "start_actual": "2026-05-09T16:01:16.000Z",
+      "live_viewers": 89,
+      "channel": {
+        "id": "UC2hx0xVkMoHGWijwr_lA01w",
+        "name": "Axel Syrios Ch. HOLOSTARS-EN",
+        "english_name": "Axel Syrios",
+        "org": "Hololive",
+        "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
+        "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
