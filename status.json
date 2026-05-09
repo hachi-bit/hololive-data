@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778332100,
+  "cached_at": 1778332159,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "pv5HuGnx-s4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-09T03:01:08.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T03:01:08.000Z",
-      "live_viewers": 8919,
+      "live_viewers": 8745,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-09T07:59:34.000Z",
       "start_scheduled": "2026-05-09T08:00:00.000Z",
       "start_actual": "2026-05-09T07:59:34.000Z",
-      "live_viewers": 7491,
+      "live_viewers": 7318,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-09T09:02:10.000Z",
       "start_scheduled": "2026-05-09T09:00:00.000Z",
       "start_actual": "2026-05-09T09:02:10.000Z",
-      "live_viewers": 8539,
+      "live_viewers": 8425,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-09T11:01:39.000Z",
       "start_scheduled": "2026-05-09T11:00:00.000Z",
       "start_actual": "2026-05-09T11:01:39.000Z",
-      "live_viewers": 21989,
+      "live_viewers": 22332,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-09T12:02:11.000Z",
       "start_scheduled": "2026-05-09T12:00:00.000Z",
       "start_actual": "2026-05-09T12:02:11.000Z",
-      "live_viewers": 380,
+      "live_viewers": 374,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-09T12:03:50.000Z",
       "start_scheduled": "2026-05-09T12:00:00.000Z",
       "start_actual": "2026-05-09T12:03:50.000Z",
-      "live_viewers": 28824,
+      "live_viewers": 29020,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -219,26 +219,6 @@
         "org": "Hololive",
         "suborg": "0y0th Generation",
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCiA-trSZfB0i92V_-dyDqBw": {
-      "video_id": "VzL2h-QCQK4",
-      "title": "アクト /  倉持めると 轟はじめ cover⌇歌って踊ってみた",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Dancing",
-      "published_at": "2026-05-09T13:00:06.000Z",
-      "available_at": "2026-05-09T13:00:06.000Z",
-      "start_scheduled": "2026-05-09T13:00:00.000Z",
-      "start_actual": "2026-05-09T13:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCiA-trSZfB0i92V_-dyDqBw",
-        "name": "倉持めると / Kuramochi Meruto【にじさんじ】",
-        "english_name": "Kuramochi Meruto",
-        "org": "Nijisanji",
-        "suborg": "1oIdios",
-        "photo": "https://yt3.ggpht.com/TsnQIzAes9ibl0R2ZgRxxlwvtEe8w748U3JKXQDt8fjLIFJQpWiYCW10euMJp9tYNwl3kRhFiXE=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
@@ -271,7 +251,7 @@
       "available_at": "2026-05-09T13:00:31.000Z",
       "start_scheduled": "2026-05-09T13:00:00.000Z",
       "start_actual": "2026-05-09T13:00:31.000Z",
-      "live_viewers": 288,
+      "live_viewers": 397,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-09T13:00:58.000Z",
       "start_scheduled": "2026-05-09T13:00:00.000Z",
       "start_actual": "2026-05-09T13:00:58.000Z",
-      "live_viewers": 3110,
+      "live_viewers": 4169,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-09T13:01:46.000Z",
       "start_scheduled": "2026-05-09T13:00:00.000Z",
       "start_actual": "2026-05-09T13:01:46.000Z",
-      "live_viewers": 395,
+      "live_viewers": 516,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-09T13:02:13.000Z",
       "start_scheduled": "2026-05-09T13:00:00.000Z",
       "start_actual": "2026-05-09T13:02:13.000Z",
-      "live_viewers": 177,
+      "live_viewers": 234,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -351,7 +331,7 @@
       "available_at": "2026-05-09T13:02:43.000Z",
       "start_scheduled": "2026-05-09T13:00:00.000Z",
       "start_actual": "2026-05-09T13:02:43.000Z",
-      "live_viewers": 5791,
+      "live_viewers": 8303,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
