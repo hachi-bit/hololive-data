@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778313979,
+  "cached_at": 1778314041,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "YSx0hsn4Jgc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-09T02:58:57.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T02:58:57.000Z",
-      "live_viewers": 459,
+      "live_viewers": 444,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-09T03:00:43.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T03:00:43.000Z",
-      "live_viewers": 16979,
+      "live_viewers": 17266,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-09T03:01:21.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T03:01:21.000Z",
-      "live_viewers": 8616,
+      "live_viewers": 8593,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-09T07:59:34.000Z",
       "start_scheduled": "2026-05-09T08:00:00.000Z",
       "start_actual": "2026-05-09T07:59:34.000Z",
-      "live_viewers": 1710,
+      "live_viewers": 3175,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -128,9 +128,10 @@
       "status": "live",
       "topic_id": "Tomodachi_Life",
       "published_at": "2026-05-09T07:31:09.000Z",
-      "available_at": "2026-05-09T08:00:00.000Z",
+      "available_at": "2026-05-09T08:00:57.000Z",
       "start_scheduled": "2026-05-09T08:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-09T08:00:57.000Z",
+      "live_viewers": 2024,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
