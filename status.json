@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778289979,
+  "cached_at": 1778290039,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "IIFs7qzRARs",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-09T00:55:28.000Z",
       "start_scheduled": "2026-05-09T01:00:00.000Z",
       "start_actual": "2026-05-09T00:55:28.000Z",
-      "live_viewers": 4140,
+      "live_viewers": 4299,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-09T01:01:36.000Z",
       "start_scheduled": "2026-05-09T01:00:00.000Z",
       "start_actual": "2026-05-09T01:01:36.000Z",
-      "live_viewers": 4543,
+      "live_viewers": 4579,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -48,9 +48,10 @@
       "status": "live",
       "topic_id": "morning",
       "published_at": "2026-05-09T01:19:18.000Z",
-      "available_at": "2026-05-09T01:20:00.000Z",
+      "available_at": "2026-05-09T01:23:03.000Z",
       "start_scheduled": "2026-05-09T01:20:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-09T01:23:03.000Z",
+      "live_viewers": 15877,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
