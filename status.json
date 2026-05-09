@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778335521,
+  "cached_at": 1778335581,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "pv5HuGnx-s4",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-09T11:01:15.000Z",
       "start_scheduled": "2026-05-09T11:00:00.000Z",
       "start_actual": "2026-05-09T11:01:15.000Z",
-      "live_viewers": 1884,
+      "live_viewers": 1889,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-09T11:01:39.000Z",
       "start_scheduled": "2026-05-09T11:00:00.000Z",
       "start_actual": "2026-05-09T11:01:39.000Z",
-      "live_viewers": 21694,
+      "live_viewers": 21933,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-09T12:01:11.000Z",
       "start_scheduled": "2026-05-09T12:00:00.000Z",
       "start_actual": "2026-05-09T12:01:11.000Z",
-      "live_viewers": 219,
+      "live_viewers": 226,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-09T12:02:11.000Z",
       "start_scheduled": "2026-05-09T12:00:00.000Z",
       "start_actual": "2026-05-09T12:02:11.000Z",
-      "live_viewers": 322,
+      "live_viewers": 292,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-09T13:02:43.000Z",
       "start_scheduled": "2026-05-09T13:00:00.000Z",
       "start_actual": "2026-05-09T13:02:43.000Z",
-      "live_viewers": 16280,
+      "live_viewers": 15865,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -311,7 +311,7 @@
       "available_at": "2026-05-09T13:30:21.000Z",
       "start_scheduled": "2026-05-09T13:30:00.000Z",
       "start_actual": "2026-05-09T13:30:21.000Z",
-      "live_viewers": 6640,
+      "live_viewers": 6673,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -319,82 +319,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1iA6_NT4mtAcIII6ygrvCw": {
-      "video_id": "rN3rciYqmwE",
-      "title": "#2【バイオハザード RE:4】完全初見で挑むバイオ【轟はじめ/ReGLOSS】※未成年の方視聴注意",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-05-08T16:09:54.000Z",
-      "available_at": "2026-05-09T14:00:00.000Z",
-      "start_scheduled": "2026-05-09T14:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-        "english_name": "Todoroki Hajime",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCAoy6rzhSf4ydcYjJw3WoVg": {
-      "video_id": "tpum8q5MCBM",
-      "title": "【Final Sentence】IOFORIA TYPING BATTLE【 iofi / hololiveID 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-09T10:52:51.000Z",
-      "available_at": "2026-05-09T14:00:00.000Z",
-      "start_scheduled": "2026-05-09T14:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-        "name": "Airani Iofifteen Channel hololive-ID",
-        "english_name": "Airani Iofifteen",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp6993wxpyDPHUpavwDFqgg": {
-      "video_id": "khogym64I9Q",
-      "title": "【片付け日和】そらち、今のお家をきれいに飾りたい。【ホロライブ/ときのそら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Organized_Inside",
-      "published_at": "2026-05-09T13:16:09.000Z",
-      "available_at": "2026-05-09T14:00:00.000Z",
-      "start_scheduled": "2026-05-09T14:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCp6993wxpyDPHUpavwDFqgg",
-        "name": "SoraCh. ときのそらチャンネル",
-        "english_name": "Tokino Sora",
-        "org": "Hololive",
-        "suborg": "0v0th Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdXAk5MpyLD8594lm_OvtGQ": {
-      "video_id": "H13ccxbdqGw",
-      "title": "【雑談】短めです!最近のあれやこれや【儒烏風亭らでん #ReGLOSS 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-09T12:07:06.000Z",
-      "available_at": "2026-05-09T14:00:00.000Z",
-      "start_scheduled": "2026-05-09T14:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
-        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
-        "english_name": "Juufuutei Raden",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCOyYb1c43VlX9rc_lT6NKQw": {
@@ -426,7 +350,7 @@
       "available_at": "2026-05-09T14:00:19.000Z",
       "start_scheduled": "2026-05-09T14:00:00.000Z",
       "start_actual": "2026-05-09T14:00:19.000Z",
-      "live_viewers": 3264,
+      "live_viewers": 8280,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -434,6 +358,86 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAoy6rzhSf4ydcYjJw3WoVg": {
+      "video_id": "tpum8q5MCBM",
+      "title": "【Final Sentence】IOFORIA TYPING BATTLE【 iofi / hololiveID 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-09T10:52:51.000Z",
+      "available_at": "2026-05-09T14:01:09.000Z",
+      "start_scheduled": "2026-05-09T14:00:00.000Z",
+      "start_actual": "2026-05-09T14:01:09.000Z",
+      "live_viewers": 239,
+      "channel": {
+        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+        "name": "Airani Iofifteen Channel hololive-ID",
+        "english_name": "Airani Iofifteen",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1iA6_NT4mtAcIII6ygrvCw": {
+      "video_id": "rN3rciYqmwE",
+      "title": "#2【バイオハザード RE:4】完全初見で挑むバイオ【轟はじめ/ReGLOSS】※未成年の方視聴注意",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-05-08T16:09:54.000Z",
+      "available_at": "2026-05-09T14:01:26.000Z",
+      "start_scheduled": "2026-05-09T14:00:00.000Z",
+      "start_actual": "2026-05-09T14:01:26.000Z",
+      "live_viewers": 1557,
+      "channel": {
+        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+        "english_name": "Todoroki Hajime",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdXAk5MpyLD8594lm_OvtGQ": {
+      "video_id": "H13ccxbdqGw",
+      "title": "【雑談】短めです!最近のあれやこれや【儒烏風亭らでん #ReGLOSS 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-09T12:07:06.000Z",
+      "available_at": "2026-05-09T14:01:48.000Z",
+      "start_scheduled": "2026-05-09T14:00:00.000Z",
+      "start_actual": "2026-05-09T14:01:48.000Z",
+      "live_viewers": 2116,
+      "channel": {
+        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+        "english_name": "Juufuutei Raden",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp6993wxpyDPHUpavwDFqgg": {
+      "video_id": "khogym64I9Q",
+      "title": "【片付け日和】そらち、今のお家をきれいに飾りたい。【ホロライブ/ときのそら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Organized_Inside",
+      "published_at": "2026-05-09T13:16:09.000Z",
+      "available_at": "2026-05-09T14:02:19.000Z",
+      "start_scheduled": "2026-05-09T14:00:00.000Z",
+      "start_actual": "2026-05-09T14:02:19.000Z",
+      "live_viewers": 1065,
+      "channel": {
+        "id": "UCp6993wxpyDPHUpavwDFqgg",
+        "name": "SoraCh. ときのそらチャンネル",
+        "english_name": "Tokino Sora",
+        "org": "Hololive",
+        "suborg": "0v0th Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
