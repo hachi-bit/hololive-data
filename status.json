@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778303119,
+  "cached_at": 1778303179,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "IIFs7qzRARs",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-09T02:02:23.000Z",
       "start_scheduled": "2026-05-09T02:00:00.000Z",
       "start_actual": "2026-05-09T02:02:23.000Z",
-      "live_viewers": 6671,
+      "live_viewers": 6740,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-09T03:00:43.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T03:00:43.000Z",
-      "live_viewers": 14051,
+      "live_viewers": 14586,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-09T03:12:29.000Z",
       "start_scheduled": "2026-05-09T03:15:00.000Z",
       "start_actual": "2026-05-09T03:12:29.000Z",
-      "live_viewers": 792,
+      "live_viewers": 779,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -167,9 +167,10 @@
       "status": "live",
       "topic_id": "Pokemon_Pokopia",
       "published_at": "2026-05-08T09:39:06.000Z",
-      "available_at": "2026-05-09T05:00:00.000Z",
+      "available_at": "2026-05-09T05:01:17.000Z",
       "start_scheduled": "2026-05-09T05:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-09T05:01:17.000Z",
+      "live_viewers": 90,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
