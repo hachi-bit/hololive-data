@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778299579,
+  "cached_at": 1778299639,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "IIFs7qzRARs",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-09T00:55:28.000Z",
       "start_scheduled": "2026-05-09T01:00:00.000Z",
       "start_actual": "2026-05-09T00:55:28.000Z",
-      "live_viewers": 6157,
+      "live_viewers": 5980,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-09T02:58:57.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T02:58:57.000Z",
-      "live_viewers": 346,
+      "live_viewers": 383,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-09T03:00:43.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T03:00:43.000Z",
-      "live_viewers": 13888,
+      "live_viewers": 13723,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-09T03:01:08.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T03:01:08.000Z",
-      "live_viewers": 6251,
+      "live_viewers": 6331,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-09T03:01:21.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T03:01:21.000Z",
-      "live_viewers": 5874,
+      "live_viewers": 6079,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-09T03:12:29.000Z",
       "start_scheduled": "2026-05-09T03:15:00.000Z",
       "start_actual": "2026-05-09T03:12:29.000Z",
-      "live_viewers": 944,
+      "live_viewers": 935,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
