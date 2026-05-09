@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778288603,
+  "cached_at": 1778288661,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "IIFs7qzRARs",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-09T00:55:28.000Z",
       "start_scheduled": "2026-05-09T01:00:00.000Z",
       "start_actual": "2026-05-09T00:55:28.000Z",
-      "live_viewers": 1999,
+      "live_viewers": 2462,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -47,9 +47,10 @@
       "status": "live",
       "topic_id": "none",
       "published_at": "2026-05-08T13:09:14.000Z",
-      "available_at": "2026-05-09T01:00:00.000Z",
+      "available_at": "2026-05-09T01:01:36.000Z",
       "start_scheduled": "2026-05-09T01:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-09T01:01:36.000Z",
+      "live_viewers": 2127,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
