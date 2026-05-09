@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778353819,
+  "cached_at": 1778353879,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "RHRtmcWwt5I",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-09T12:02:11.000Z",
       "start_scheduled": "2026-05-09T12:00:00.000Z",
       "start_actual": "2026-05-09T12:02:11.000Z",
-      "live_viewers": 284,
+      "live_viewers": 302,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCZLZ8Jjx_RN2CXloOmgTHVg": {
-      "video_id": "sNUIOWRdAyk",
-      "title": "【Cupiclaw】not the usual claw machine",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-09T13:21:53.000Z",
-      "available_at": "2026-05-09T14:31:12.000Z",
-      "start_scheduled": "2026-05-09T14:30:00.000Z",
-      "start_actual": "2026-05-09T14:31:12.000Z",
-      "live_viewers": 2655,
-      "channel": {
-        "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "name": "Kaela Kovalskia Ch. hololive-ID",
-        "english_name": "Kaela Kovalskia",
-        "org": "Hololive",
-        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-        "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
