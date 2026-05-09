@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778324481,
+  "cached_at": 1778324543,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "YSx0hsn4Jgc",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-09T07:59:34.000Z",
       "start_scheduled": "2026-05-09T08:00:00.000Z",
       "start_actual": "2026-05-09T07:59:34.000Z",
-      "live_viewers": 9155,
+      "live_viewers": 8871,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-09T08:00:57.000Z",
       "start_scheduled": "2026-05-09T08:00:00.000Z",
       "start_actual": "2026-05-09T08:00:57.000Z",
-      "live_viewers": 6254,
+      "live_viewers": 5706,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-09T09:01:21.000Z",
       "start_scheduled": "2026-05-09T09:00:00.000Z",
       "start_actual": "2026-05-09T09:01:21.000Z",
-      "live_viewers": 2400,
+      "live_viewers": 2382,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-09T09:02:10.000Z",
       "start_scheduled": "2026-05-09T09:00:00.000Z",
       "start_actual": "2026-05-09T09:02:10.000Z",
-      "live_viewers": 10908,
+      "live_viewers": 10950,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -148,16 +148,54 @@
       "status": "live",
       "topic_id": "celebration",
       "published_at": "2026-04-30T05:59:21.000Z",
-      "available_at": "2026-05-09T10:58:08.000Z",
+      "available_at": "2026-05-09T10:58:13.000Z",
       "start_scheduled": "2026-05-09T11:00:00.000Z",
-      "start_actual": "2026-05-09T10:58:08.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-09T10:58:13.000Z",
+      "live_viewers": 4153,
       "channel": {
         "id": "UCu2n3qHuOuQIygREMnWeQWg",
         "name": "hololive DEV_IS FLOW GLOW",
         "org": "Hololive",
         "suborg": "0gOfficial",
         "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCtyWhCj3AqKh2dXctLkDtng": {
+      "video_id": "74OhTenzzao",
+      "title": "【PRAGMATA】クリア後の世界!unknown signal編!高難易度らしい…。part4 ※ネタバレ注意【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PRAGMATA",
+      "published_at": "2026-05-06T16:26:01.000Z",
+      "available_at": "2026-05-09T11:00:00.000Z",
+      "start_scheduled": "2026-05-09T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCtyWhCj3AqKh2dXctLkDtng",
+        "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+        "english_name": "Ichijou Ririka",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvaTdHTWBGv3MKj3KVqJVCw": {
+      "video_id": "N9SiV3V5iQU",
+      "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります!#09【 猫又おかゆ/ホロライブ 】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Final_fantasy",
+      "published_at": "2026-05-08T18:49:21.000Z",
+      "available_at": "2026-05-09T11:00:00.000Z",
+      "start_scheduled": "2026-05-09T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+        "name": "Okayu Ch. 猫又おかゆ",
+        "english_name": "Nekomata Okayu",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
