@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778331801,
+  "cached_at": 1778331859,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "pv5HuGnx-s4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-09T03:01:08.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T03:01:08.000Z",
-      "live_viewers": 9134,
+      "live_viewers": 8919,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-09T07:59:34.000Z",
       "start_scheduled": "2026-05-09T08:00:00.000Z",
       "start_actual": "2026-05-09T07:59:34.000Z",
-      "live_viewers": 7616,
+      "live_viewers": 7491,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-09T11:01:39.000Z",
       "start_scheduled": "2026-05-09T11:00:00.000Z",
       "start_actual": "2026-05-09T11:01:39.000Z",
-      "live_viewers": 21541,
+      "live_viewers": 21989,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -141,26 +141,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCiA-trSZfB0i92V_-dyDqBw": {
-      "video_id": "fx4Fn_HifpM",
-      "title": "【 #ばんちょとめると 】告知あり⁉ 轟はじめちゃんと仲良くなりたい…!!雑談コラボ💘【倉持めると/にじさんじ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "announce",
-      "published_at": "2026-05-07T08:01:42.000Z",
-      "available_at": "2026-05-09T12:01:00.000Z",
-      "start_scheduled": "2026-05-09T12:00:00.000Z",
-      "start_actual": "2026-05-09T12:01:00.000Z",
-      "live_viewers": 4898,
-      "channel": {
-        "id": "UCiA-trSZfB0i92V_-dyDqBw",
-        "name": "倉持めると / Kuramochi Meruto【にじさんじ】",
-        "english_name": "Kuramochi Meruto",
-        "org": "Nijisanji",
-        "suborg": "1oIdios",
-        "photo": "https://yt3.ggpht.com/TsnQIzAes9ibl0R2ZgRxxlwvtEe8w748U3JKXQDt8fjLIFJQpWiYCW10euMJp9tYNwl3kRhFiXE=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCGNI4MENvnsymYjKiZwv9eg": {
       "video_id": "7iZC5O4TCYI",
       "title": "【WINDROSE】みやびと烏有と一緒に!今日も海賊狩り!!Part6【岸堂天真/ホロスターズ】",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-09T12:01:11.000Z",
       "start_scheduled": "2026-05-09T12:00:00.000Z",
       "start_actual": "2026-05-09T12:01:11.000Z",
-      "live_viewers": 215,
+      "live_viewers": 214,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-09T12:01:40.000Z",
       "start_scheduled": "2026-05-09T12:00:00.000Z",
       "start_actual": "2026-05-09T12:01:40.000Z",
-      "live_viewers": 275,
+      "live_viewers": 260,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-09T12:02:11.000Z",
       "start_scheduled": "2026-05-09T12:00:00.000Z",
       "start_actual": "2026-05-09T12:02:11.000Z",
-      "live_viewers": 401,
+      "live_viewers": 380,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -239,6 +219,143 @@
         "org": "Hololive",
         "suborg": "0y0th Generation",
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC0TXe_LYZ4scaW2XMyi5_kw": {
+      "video_id": "T08uC1Mx5BY",
+      "title": "【歌枠】うたう!!!!!!!!!!!Singing Stream【ホロライブ / AZKi】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-09T10:07:29.000Z",
+      "available_at": "2026-05-09T13:00:00.000Z",
+      "start_scheduled": "2026-05-09T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+        "name": "AZKi Channel",
+        "english_name": "AZKi",
+        "org": "Hololive",
+        "suborg": "0z0th Generation",
+        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "6VwAeywYdOw",
+      "title": "#14【Ace Attorney Investigations 2】POSSIBLE FINALE STREAM (SPOILERS!)【Pavolia Reine/holoID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Ace_Attorney",
+      "published_at": "2026-05-09T08:41:38.000Z",
+      "available_at": "2026-05-09T13:00:00.000Z",
+      "start_scheduled": "2026-05-09T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChSvpZYRPh0FvG4SJGSga3g": {
+      "video_id": "QiQhGJaySAc",
+      "title": "【ワンワンバトル】ワン♡ワン♡バトル♡ASMR【影山シエン/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Bow-wow_Battle",
+      "published_at": "2026-05-09T09:43:46.000Z",
+      "available_at": "2026-05-09T13:00:00.000Z",
+      "start_scheduled": "2026-05-09T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UChSvpZYRPh0FvG4SJGSga3g",
+        "name": "Shien Ch.影山シエン",
+        "english_name": "Kageyama Shien",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCiA-trSZfB0i92V_-dyDqBw": {
+      "video_id": "VzL2h-QCQK4",
+      "title": "アクト /  倉持めると 轟はじめ cover⌇歌って踊ってみた",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dancing",
+      "published_at": "2026-05-09T13:00:06.000Z",
+      "available_at": "2026-05-09T13:00:06.000Z",
+      "start_scheduled": "2026-05-09T13:00:00.000Z",
+      "start_actual": "2026-05-09T13:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCiA-trSZfB0i92V_-dyDqBw",
+        "name": "倉持めると / Kuramochi Meruto【にじさんじ】",
+        "english_name": "Kuramochi Meruto",
+        "org": "Nijisanji",
+        "suborg": "1oIdios",
+        "photo": "https://yt3.ggpht.com/TsnQIzAes9ibl0R2ZgRxxlwvtEe8w748U3JKXQDt8fjLIFJQpWiYCW10euMJp9tYNwl3kRhFiXE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
+      "video_id": "LtYLHAzKi8Q",
+      "title": "【メンバー限定】ASMRしっとり雑談【荒咬オウガ /ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-09T10:02:30.000Z",
+      "available_at": "2026-05-09T13:00:14.000Z",
+      "start_scheduled": "2026-05-09T13:00:00.000Z",
+      "start_actual": "2026-05-09T13:00:14.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "name": "Oga Ch.荒咬オウガ",
+        "english_name": "Aragami Oga",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCYz_5n-uDuChHtLo7My1HnQ": {
+      "video_id": "Y_xoSllD40k",
+      "title": "【Tomodachi Life: Living the Dream】 Pt.13: FORCING MIIs INTO RELATIONSHIPS 【Kureiji Ollie】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-09T11:54:44.000Z",
+      "available_at": "2026-05-09T13:00:31.000Z",
+      "start_scheduled": "2026-05-09T13:00:00.000Z",
+      "start_actual": "2026-05-09T13:00:31.000Z",
+      "live_viewers": 192,
+      "channel": {
+        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+        "name": "Kureiji Ollie Ch. hololive-ID",
+        "english_name": "Kureiji Ollie",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "fXcxf5bQ-B4",
+      "title": "【 悪意 Dread Neighbor 】トラウマ級ホラーゲーム凶寓チームの最新作!!今度こそクリアする・・・!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dread_Flats",
+      "published_at": "2026-05-09T02:39:41.000Z",
+      "available_at": "2026-05-09T13:00:58.000Z",
+      "start_scheduled": "2026-05-09T13:00:00.000Z",
+      "start_actual": "2026-05-09T13:00:58.000Z",
+      "live_viewers": 1873,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
