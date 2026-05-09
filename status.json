@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778337199,
+  "cached_at": 1778337262,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "pv5HuGnx-s4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-09T03:01:08.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T03:01:08.000Z",
-      "live_viewers": 8357,
+      "live_viewers": 8001,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-09T07:59:34.000Z",
       "start_scheduled": "2026-05-09T08:00:00.000Z",
       "start_actual": "2026-05-09T07:59:34.000Z",
-      "live_viewers": 5859,
+      "live_viewers": 5759,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-09T12:01:40.000Z",
       "start_scheduled": "2026-05-09T12:00:00.000Z",
       "start_actual": "2026-05-09T12:01:40.000Z",
-      "live_viewers": 275,
+      "live_viewers": 269,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-09T12:02:11.000Z",
       "start_scheduled": "2026-05-09T12:00:00.000Z",
       "start_actual": "2026-05-09T12:02:11.000Z",
-      "live_viewers": 300,
+      "live_viewers": 308,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-09T12:03:50.000Z",
       "start_scheduled": "2026-05-09T12:00:00.000Z",
       "start_actual": "2026-05-09T12:03:50.000Z",
-      "live_viewers": 24747,
+      "live_viewers": 24290,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -179,26 +179,6 @@
         "org": "Hololive",
         "suborg": "0y0th Generation",
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "LtYLHAzKi8Q",
-      "title": "【メンバー限定】ASMRしっとり雑談【荒咬オウガ /ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-09T10:02:30.000Z",
-      "available_at": "2026-05-09T13:00:14.000Z",
-      "start_scheduled": "2026-05-09T13:00:00.000Z",
-      "start_actual": "2026-05-09T13:00:14.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "name": "Oga Ch.荒咬オウガ",
-        "english_name": "Aragami Oga",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCYz_5n-uDuChHtLo7My1HnQ": {
@@ -211,7 +191,7 @@
       "available_at": "2026-05-09T13:00:31.000Z",
       "start_scheduled": "2026-05-09T13:00:00.000Z",
       "start_actual": "2026-05-09T13:00:31.000Z",
-      "live_viewers": 890,
+      "live_viewers": 915,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-09T13:00:58.000Z",
       "start_scheduled": "2026-05-09T13:00:00.000Z",
       "start_actual": "2026-05-09T13:00:58.000Z",
-      "live_viewers": 7016,
+      "live_viewers": 7070,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-09T13:02:43.000Z",
       "start_scheduled": "2026-05-09T13:00:00.000Z",
       "start_actual": "2026-05-09T13:02:43.000Z",
-      "live_viewers": 795,
+      "live_viewers": 7934,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-09T13:30:21.000Z",
       "start_scheduled": "2026-05-09T13:30:00.000Z",
       "start_actual": "2026-05-09T13:30:21.000Z",
-      "live_viewers": 8796,
+      "live_viewers": 8581,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-09T14:00:19.000Z",
       "start_scheduled": "2026-05-09T14:00:00.000Z",
       "start_actual": "2026-05-09T14:00:19.000Z",
-      "live_viewers": 17835,
+      "live_viewers": 17161,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -351,7 +331,7 @@
       "available_at": "2026-05-09T14:01:26.000Z",
       "start_scheduled": "2026-05-09T14:00:00.000Z",
       "start_actual": "2026-05-09T14:01:26.000Z",
-      "live_viewers": 3125,
+      "live_viewers": 3258,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -371,7 +351,7 @@
       "available_at": "2026-05-09T14:01:48.000Z",
       "start_scheduled": "2026-05-09T14:00:00.000Z",
       "start_actual": "2026-05-09T14:01:48.000Z",
-      "live_viewers": 4388,
+      "live_viewers": 4450,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -391,7 +371,7 @@
       "available_at": "2026-05-09T14:02:19.000Z",
       "start_scheduled": "2026-05-09T14:00:00.000Z",
       "start_actual": "2026-05-09T14:02:19.000Z",
-      "live_viewers": 1982,
+      "live_viewers": 1970,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -419,6 +399,26 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZLZ8Jjx_RN2CXloOmgTHVg": {
+      "video_id": "sNUIOWRdAyk",
+      "title": "【Cupiclaw】not the usual claw machine",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-09T13:21:53.000Z",
+      "available_at": "2026-05-09T14:31:12.000Z",
+      "start_scheduled": "2026-05-09T14:30:00.000Z",
+      "start_actual": "2026-05-09T14:31:12.000Z",
+      "live_viewers": 397,
+      "channel": {
+        "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "name": "Kaela Kovalskia Ch. hololive-ID",
+        "english_name": "Kaela Kovalskia",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
