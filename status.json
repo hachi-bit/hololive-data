@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778297179,
+  "cached_at": 1778297238,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "IIFs7qzRARs",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-09T00:55:28.000Z",
       "start_scheduled": "2026-05-09T01:00:00.000Z",
       "start_actual": "2026-05-09T00:55:28.000Z",
-      "live_viewers": 6118,
+      "live_viewers": 6090,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-09T02:35:34.000Z",
       "start_scheduled": "2026-05-09T02:30:00.000Z",
       "start_actual": "2026-05-09T02:35:34.000Z",
-      "live_viewers": 1493,
+      "live_viewers": 1505,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-09T02:58:57.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T02:58:57.000Z",
-      "live_viewers": 251,
+      "live_viewers": 255,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-09T03:00:43.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T03:00:43.000Z",
-      "live_viewers": 9300,
+      "live_viewers": 9823,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-09T03:01:08.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T03:01:08.000Z",
-      "live_viewers": 4696,
+      "live_viewers": 4939,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-09T03:01:21.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T03:01:21.000Z",
-      "live_viewers": 4129,
+      "live_viewers": 4741,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-09T03:12:29.000Z",
       "start_scheduled": "2026-05-09T03:15:00.000Z",
       "start_actual": "2026-05-09T03:12:29.000Z",
-      "live_viewers": 917,
+      "live_viewers": 923,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
