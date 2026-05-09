@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778300420,
+  "cached_at": 1778300483,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "IIFs7qzRARs",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-09T00:55:28.000Z",
       "start_scheduled": "2026-05-09T01:00:00.000Z",
       "start_actual": "2026-05-09T00:55:28.000Z",
-      "live_viewers": 5892,
+      "live_viewers": 5899,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-09T02:02:23.000Z",
       "start_scheduled": "2026-05-09T02:00:00.000Z",
       "start_actual": "2026-05-09T02:02:23.000Z",
-      "live_viewers": 6258,
+      "live_viewers": 6442,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCANDOlYTJT7N5jlRC3zfzVA": {
-      "video_id": "w2p9tBcd55s",
-      "title": "【雑談】ちょい雑談する男【夕刻ロベル/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-09T02:29:43.000Z",
-      "available_at": "2026-05-09T02:35:34.000Z",
-      "start_scheduled": "2026-05-09T02:30:00.000Z",
-      "start_actual": "2026-05-09T02:35:34.000Z",
-      "live_viewers": 1724,
-      "channel": {
-        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
-        "name": "Roberu Ch. 夕刻ロベル",
-        "english_name": "Yukoku Roberu",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
@@ -91,7 +71,7 @@
       "available_at": "2026-05-09T03:00:43.000Z",
       "start_scheduled": "2026-05-09T03:00:00.000Z",
       "start_actual": "2026-05-09T03:00:43.000Z",
-      "live_viewers": 13623,
+      "live_viewers": 13953,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
