@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778339419,
+  "cached_at": 1778339483,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "E64RtFKWXvg",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-09T11:01:39.000Z",
       "start_scheduled": "2026-05-09T11:00:00.000Z",
       "start_actual": "2026-05-09T11:01:39.000Z",
-      "live_viewers": 23951,
+      "live_viewers": 21852,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -101,26 +101,6 @@
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCYz_5n-uDuChHtLo7My1HnQ": {
-      "video_id": "Y_xoSllD40k",
-      "title": "【Tomodachi Life: Living the Dream】 Pt.13: FORCING MIIs INTO RELATIONSHIPS 【Kureiji Ollie】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-09T11:54:44.000Z",
-      "available_at": "2026-05-09T13:00:31.000Z",
-      "start_scheduled": "2026-05-09T13:00:00.000Z",
-      "start_actual": "2026-05-09T13:00:31.000Z",
-      "live_viewers": 812,
-      "channel": {
-        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
-        "name": "Kureiji Ollie Ch. hololive-ID",
-        "english_name": "Kureiji Ollie",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "fXcxf5bQ-B4",
       "title": "【 悪意 Dread Neighbor 】トラウマ級ホラーゲーム凶寓チームの最新作!!今度こそクリアする・・・!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-09T13:00:58.000Z",
       "start_scheduled": "2026-05-09T13:00:00.000Z",
       "start_actual": "2026-05-09T13:00:58.000Z",
-      "live_viewers": 7204,
+      "live_viewers": 8323,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-09T14:59:47.000Z",
       "start_scheduled": "2026-05-09T15:00:00.000Z",
       "start_actual": "2026-05-09T14:59:47.000Z",
-      "live_viewers": 763,
+      "live_viewers": 856,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
