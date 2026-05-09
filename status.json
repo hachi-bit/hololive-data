@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778347521,
+  "cached_at": 1778347579,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "E64RtFKWXvg",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-09T07:59:34.000Z",
       "start_scheduled": "2026-05-09T08:00:00.000Z",
       "start_actual": "2026-05-09T07:59:34.000Z",
-      "live_viewers": 6478,
+      "live_viewers": 5407,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-09T12:02:11.000Z",
       "start_scheduled": "2026-05-09T12:00:00.000Z",
       "start_actual": "2026-05-09T12:02:11.000Z",
-      "live_viewers": 262,
+      "live_viewers": 290,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
-      "video_id": "6VwAeywYdOw",
-      "title": "#14【Ace Attorney Investigations 2】POSSIBLE FINALE STREAM (SPOILERS!)【Pavolia Reine/holoID】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Ace_Attorney",
-      "published_at": "2026-05-09T08:41:38.000Z",
-      "available_at": "2026-05-09T13:02:13.000Z",
-      "start_scheduled": "2026-05-09T13:00:00.000Z",
-      "start_actual": "2026-05-09T13:02:13.000Z",
-      "live_viewers": 727,
-      "channel": {
-        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "name": "Pavolia Reine Ch. hololive-ID",
-        "english_name": "Pavolia Reine",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
@@ -91,7 +71,7 @@
       "available_at": "2026-05-09T16:01:16.000Z",
       "start_scheduled": "2026-05-09T16:00:00.000Z",
       "start_actual": "2026-05-09T16:01:16.000Z",
-      "live_viewers": 443,
+      "live_viewers": 458,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
