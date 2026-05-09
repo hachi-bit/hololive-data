@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778360541,
+  "cached_at": 1778360599,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "RHRtmcWwt5I",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-09T19:56:00.000Z",
       "start_scheduled": "2026-05-09T20:00:00.000Z",
       "start_actual": "2026-05-09T19:56:00.000Z",
-      "live_viewers": 2961,
+      "live_viewers": 2998,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -46,7 +46,7 @@
       "title": "【GAME】I'M HOME! A STREAM!",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "Pikuniku",
       "published_at": "2026-05-09T16:27:19.000Z",
       "available_at": "2026-05-09T20:02:44.000Z",
       "start_scheduled": "2026-05-09T20:00:00.000Z",
@@ -59,6 +59,25 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCDHABijvPBnJm7F-KlNME3w": {
+      "video_id": "oElWN45HHPw",
+      "title": "【UNARCHIVED KARAOKE】gigijam and gremjam",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-09T07:10:35.000Z",
+      "available_at": "2026-05-09T21:00:00.000Z",
+      "start_scheduled": "2026-05-09T21:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCDHABijvPBnJm7F-KlNME3w",
+        "name": "Gigi Murin Ch. hololive-EN",
+        "english_name": "Gigi Murin",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
