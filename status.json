@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778343979,
+  "cached_at": 1778344041,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "E64RtFKWXvg",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-09T07:59:34.000Z",
       "start_scheduled": "2026-05-09T08:00:00.000Z",
       "start_actual": "2026-05-09T07:59:34.000Z",
-      "live_viewers": 5386,
+      "live_viewers": 5488,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -23,7 +23,7 @@
     },
     "UCtyWhCj3AqKh2dXctLkDtng": {
       "video_id": "74OhTenzzao",
-      "title": "【PRAGMATA】クリア後の世界!unknown signal編!高難易度らしい…。part4 ※ネタバレ注意【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "title": "【PRAGMATA】クリア後の世界！unknown signal編！高難易度らしい…。part4 ※ネタバレ注意【一条莉々華/hololive DEV_IS ReGLOSS】",
       "type": "stream",
       "status": "live",
       "topic_id": "PRAGMATA",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-09T12:03:50.000Z",
       "start_scheduled": "2026-05-09T12:00:00.000Z",
       "start_actual": "2026-05-09T12:03:50.000Z",
-      "live_viewers": 21308,
+      "live_viewers": 21040,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-09T13:30:21.000Z",
       "start_scheduled": "2026-05-09T13:30:00.000Z",
       "start_actual": "2026-05-09T13:30:21.000Z",
-      "live_viewers": 3373,
+      "live_viewers": 3323,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -181,26 +181,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCOyYb1c43VlX9rc_lT6NKQw": {
-      "video_id": "ju9O453CiGQ",
-      "title": "I am not back LOL",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-09T13:24:11.000Z",
-      "available_at": "2026-05-09T14:02:49.000Z",
-      "start_scheduled": "2026-05-09T14:00:00.000Z",
-      "start_actual": "2026-05-09T14:02:49.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-        "name": "Ayunda Risu Ch. hololive-ID",
-        "english_name": "Ayunda Risu",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
       "video_id": "sNUIOWRdAyk",
       "title": "【Cupiclaw】not the usual claw machine",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-09T14:59:47.000Z",
       "start_scheduled": "2026-05-09T15:00:00.000Z",
       "start_actual": "2026-05-09T14:59:47.000Z",
-      "live_viewers": 1625,
+      "live_viewers": 1628,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-09T16:01:16.000Z",
       "start_scheduled": "2026-05-09T16:00:00.000Z",
       "start_actual": "2026-05-09T16:01:16.000Z",
-      "live_viewers": 293,
+      "live_viewers": 301,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
