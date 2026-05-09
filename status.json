@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778293579,
+  "cached_at": 1778293640,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "IIFs7qzRARs",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-09T00:55:28.000Z",
       "start_scheduled": "2026-05-09T01:00:00.000Z",
       "start_actual": "2026-05-09T00:55:28.000Z",
-      "live_viewers": 4856,
+      "live_viewers": 4955,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-09T01:23:03.000Z",
       "start_scheduled": "2026-05-09T01:20:00.000Z",
       "start_actual": "2026-05-09T01:23:03.000Z",
-      "live_viewers": 28032,
+      "live_viewers": 27960,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-09T02:02:03.000Z",
       "start_scheduled": "2026-05-09T02:00:00.000Z",
       "start_actual": "2026-05-09T02:02:03.000Z",
-      "live_viewers": 2079,
+      "live_viewers": 2110,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-09T02:02:23.000Z",
       "start_scheduled": "2026-05-09T02:00:00.000Z",
       "start_actual": "2026-05-09T02:02:23.000Z",
-      "live_viewers": 3527,
+      "live_viewers": 3797,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
