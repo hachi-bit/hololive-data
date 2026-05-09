@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778369239,
+  "cached_at": 1778369299,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "oElWN45HHPw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-09T21:03:11.000Z",
       "start_scheduled": "2026-05-09T21:00:00.000Z",
       "start_actual": "2026-05-09T21:03:11.000Z",
-      "live_viewers": 9457,
+      "live_viewers": 9430,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -28,9 +28,10 @@
       "status": "live",
       "topic_id": "Tomodachi_Life",
       "published_at": "2026-05-09T23:11:31.000Z",
-      "available_at": "2026-05-09T23:15:00.000Z",
+      "available_at": "2026-05-09T23:24:41.000Z",
       "start_scheduled": "2026-05-09T23:15:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-09T23:24:41.000Z",
+      "live_viewers": 953,
       "channel": {
         "id": "UCW5uhrG1eCBYditmhL0Ykjw",
         "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
