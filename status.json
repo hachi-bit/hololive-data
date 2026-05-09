@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778368639,
+  "cached_at": 1778368699,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "oElWN45HHPw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-09T21:03:11.000Z",
       "start_scheduled": "2026-05-09T21:00:00.000Z",
       "start_actual": "2026-05-09T21:03:11.000Z",
-      "live_viewers": 9583,
+      "live_viewers": 9549,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -19,6 +19,25 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCW5uhrG1eCBYditmhL0Ykjw": {
+      "video_id": "LTPi3UtR7pw",
+      "title": "【 TOMODACHI LIFE】Big M'lord Island ~! 💄",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-09T23:11:31.000Z",
+      "available_at": "2026-05-09T23:15:00.000Z",
+      "start_scheduled": "2026-05-09T23:15:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+        "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+        "english_name": "Elizabeth Rose Bloodflame",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
