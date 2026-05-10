@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778425399,
+  "cached_at": 1778425459,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "qs9B7VK4SQc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-10T07:57:38.000Z",
       "start_scheduled": "2026-05-10T08:00:00.000Z",
       "start_actual": "2026-05-10T07:57:38.000Z",
-      "live_viewers": 4216,
+      "live_viewers": 3888,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-10T12:02:08.000Z",
       "start_scheduled": "2026-05-10T12:00:00.000Z",
       "start_actual": "2026-05-10T12:02:08.000Z",
-      "live_viewers": 4581,
+      "live_viewers": 4687,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-10T12:05:39.000Z",
       "start_scheduled": "2026-05-10T12:05:00.000Z",
       "start_actual": "2026-05-10T12:05:39.000Z",
-      "live_viewers": 1651,
+      "live_viewers": 1619,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-10T14:00:19.000Z",
       "start_scheduled": "2026-05-10T14:00:00.000Z",
       "start_actual": "2026-05-10T14:00:19.000Z",
-      "live_viewers": 21320,
+      "live_viewers": 21260,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-10T14:00:22.000Z",
       "start_scheduled": "2026-05-10T14:00:00.000Z",
       "start_actual": "2026-05-10T14:00:22.000Z",
-      "live_viewers": 3769,
+      "live_viewers": 3713,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -311,7 +311,7 @@
       "available_at": "2026-05-10T14:01:09.000Z",
       "start_scheduled": "2026-05-10T14:00:00.000Z",
       "start_actual": "2026-05-10T14:01:09.000Z",
-      "live_viewers": 11062,
+      "live_viewers": 11093,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -351,7 +351,7 @@
       "available_at": "2026-05-10T14:32:28.000Z",
       "start_scheduled": "2026-05-10T14:30:00.000Z",
       "start_actual": "2026-05-10T14:32:28.000Z",
-      "live_viewers": 155,
+      "live_viewers": 162,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
