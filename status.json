@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778407399,
+  "cached_at": 1778407459,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "JMpLRmjey-I",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-10T04:03:24.000Z",
       "start_scheduled": "2026-05-10T04:00:00.000Z",
       "start_actual": "2026-05-10T04:03:24.000Z",
-      "live_viewers": 33914,
+      "live_viewers": 34034,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -139,6 +139,65 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCK9V2B22uJYu3N7eR_BT9QA": {
+      "video_id": "adpU1DXlJLQ",
+      "title": "【初見GOD】今日は何の日?ゴッドの日じゃ!!!!!!!!!!!!!!!!初打ち【尾丸ポルカ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pachisuro",
+      "published_at": "2026-05-10T02:15:17.000Z",
+      "available_at": "2026-05-10T10:00:00.000Z",
+      "start_scheduled": "2026-05-10T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+        "name": "Polka Ch. 尾丸ポルカ",
+        "english_name": "Omaru Polka",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6eWCld0KwmyHFbAqK3V-Rw": {
+      "video_id": "fuQvDeeO7wo",
+      "title": "【お知らせ】初めての長期休暇をいただきます!直前凸待ち&雑談!【博衣こより/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "totsu",
+      "published_at": "2026-05-09T15:07:53.000Z",
+      "available_at": "2026-05-10T10:00:14.000Z",
+      "start_scheduled": "2026-05-10T10:00:00.000Z",
+      "start_actual": "2026-05-10T10:00:14.000Z",
+      "live_viewers": 5414,
+      "channel": {
+        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+        "name": "Koyori ch. 博衣こより - holoX -",
+        "english_name": "Hakui Koyori",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChAnqc_AY5_I3Px5dig3X1Q": {
+      "video_id": "R4h7J7kEFbY",
+      "title": "【ド★初見】はじめての『トモダチコレクション わくわく生活』あそぶ!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-04-25T16:57:29.000Z",
+      "available_at": "2026-05-10T10:00:33.000Z",
+      "start_scheduled": "2026-05-10T10:00:00.000Z",
+      "start_actual": "2026-05-10T10:00:33.000Z",
+      "live_viewers": 6215,
+      "channel": {
+        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
+        "name": "Korone Ch. 戌神ころね",
+        "english_name": "Inugami Korone",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
