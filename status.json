@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778393059,
+  "cached_at": 1778393119,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "FwOSms0UuMc",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-10T03:00:20.000Z",
       "start_scheduled": "2026-05-10T03:00:00.000Z",
       "start_actual": "2026-05-10T03:00:20.000Z",
-      "live_viewers": 18045,
+      "live_viewers": 18219,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-10T03:00:21.000Z",
       "start_scheduled": "2026-05-10T03:00:00.000Z",
       "start_actual": "2026-05-10T03:00:21.000Z",
-      "live_viewers": 764,
+      "live_viewers": 774,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-10T05:30:43.000Z",
       "start_scheduled": "2026-05-10T05:30:00.000Z",
       "start_actual": "2026-05-10T05:30:43.000Z",
-      "live_viewers": 6303,
+      "live_viewers": 6540,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -168,9 +168,10 @@
       "status": "live",
       "topic_id": "R.E.P.O.",
       "published_at": "2026-05-10T05:12:32.000Z",
-      "available_at": "2026-05-10T06:00:00.000Z",
+      "available_at": "2026-05-10T06:00:47.000Z",
       "start_scheduled": "2026-05-10T06:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-10T06:00:47.000Z",
+      "live_viewers": 4858,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
