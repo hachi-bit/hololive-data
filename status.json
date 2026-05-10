@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778401895,
+  "cached_at": 1778401939,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "FwOSms0UuMc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-10T01:23:02.000Z",
       "start_scheduled": "2026-05-10T01:00:00.000Z",
       "start_actual": "2026-05-10T01:23:02.000Z",
-      "live_viewers": 306,
+      "live_viewers": 294,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-10T04:03:24.000Z",
       "start_scheduled": "2026-05-10T04:00:00.000Z",
       "start_actual": "2026-05-10T04:03:24.000Z",
-      "live_viewers": 34301,
+      "live_viewers": 34129,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "v4dE50Rlb_I",
-      "title": "【R.E.P.O.】ソロREPOでコスメティックガチャする配信。 【ホロライブ/白上フブキ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-05-10T05:12:32.000Z",
-      "available_at": "2026-05-10T06:00:47.000Z",
-      "start_scheduled": "2026-05-10T06:00:00.000Z",
-      "start_actual": "2026-05-10T06:00:47.000Z",
-      "live_viewers": 13687,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "フブキCh。白上フブキ",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCa9Y57gfeY0Zro_noHRVrnw": {
@@ -151,7 +131,7 @@
       "available_at": "2026-05-10T07:57:38.000Z",
       "start_scheduled": "2026-05-10T08:00:00.000Z",
       "start_actual": "2026-05-10T07:57:38.000Z",
-      "live_viewers": 4360,
+      "live_viewers": 4851,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-10T08:12:39.000Z",
       "start_scheduled": "2026-05-10T08:00:00.000Z",
       "start_actual": "2026-05-10T08:12:39.000Z",
-      "live_viewers": 434,
+      "live_viewers": 435,
       "channel": {
         "id": "UCsNIVzD4AJ2FPLi9rY7I05Q",
         "name": "Ryzar Blazenfang【FIRST STAGE PRODUCTION EN】",
