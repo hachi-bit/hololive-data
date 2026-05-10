@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778399959,
+  "cached_at": 1778400020,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "FwOSms0UuMc",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-10T03:00:20.000Z",
       "start_scheduled": "2026-05-10T03:00:00.000Z",
       "start_actual": "2026-05-10T03:00:20.000Z",
-      "live_viewers": 19021,
+      "live_viewers": 18506,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-10T03:00:21.000Z",
       "start_scheduled": "2026-05-10T03:00:00.000Z",
       "start_actual": "2026-05-10T03:00:21.000Z",
-      "live_viewers": 667,
+      "live_viewers": 642,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-10T03:29:40.000Z",
       "start_scheduled": "2026-05-10T03:30:00.000Z",
       "start_actual": "2026-05-10T03:29:40.000Z",
-      "live_viewers": 2736,
+      "live_viewers": 2773,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-10T04:02:08.000Z",
       "start_scheduled": "2026-05-10T04:00:00.000Z",
       "start_actual": "2026-05-10T04:02:08.000Z",
-      "live_viewers": 225,
+      "live_viewers": 226,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-10T06:00:47.000Z",
       "start_scheduled": "2026-05-10T06:00:00.000Z",
       "start_actual": "2026-05-10T06:00:47.000Z",
-      "live_viewers": 15206,
+      "live_viewers": 15214,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -159,6 +159,26 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCa9Y57gfeY0Zro_noHRVrnw": {
+      "video_id": "qs9B7VK4SQc",
+      "title": "【 バイオハザードRE:4 】初見!ぺこちゃんに貰ったゲームで遊ぶのら!!!BIOHAZARD RE:4 #2 最終回予定【姫森ルーナ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-05-09T17:28:00.000Z",
+      "available_at": "2026-05-10T07:57:38.000Z",
+      "start_scheduled": "2026-05-10T08:00:00.000Z",
+      "start_actual": "2026-05-10T07:57:38.000Z",
+      "live_viewers": 408,
+      "channel": {
+        "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+        "name": "Luna Ch. 姫森ルーナ",
+        "english_name": "Himemori Luna",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
