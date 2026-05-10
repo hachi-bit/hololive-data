@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778376739,
+  "cached_at": 1778376798,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "gGOIYVlXpPI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-10T00:12:09.000Z",
       "start_scheduled": "2026-05-10T00:15:00.000Z",
       "start_actual": "2026-05-10T00:12:09.000Z",
-      "live_viewers": 536,
+      "live_viewers": 551,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-10T01:00:02.000Z",
       "start_scheduled": "2026-05-10T01:00:00.000Z",
       "start_actual": "2026-05-10T01:00:02.000Z",
-      "live_viewers": 51525,
+      "live_viewers": 51813,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-10T01:01:28.000Z",
       "start_scheduled": "2026-05-10T01:00:00.000Z",
       "start_actual": "2026-05-10T01:01:28.000Z",
-      "live_viewers": 9342,
+      "live_viewers": 9608,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-10T01:23:02.000Z",
       "start_scheduled": "2026-05-10T01:00:00.000Z",
       "start_actual": "2026-05-10T01:23:02.000Z",
-      "live_viewers": 188,
+      "live_viewers": 221,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -79,6 +79,25 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "JMpLRmjey-I",
+      "title": "【LoL】限界を知れ。 / アステル",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-05-10T01:20:51.000Z",
+      "available_at": "2026-05-10T01:30:00.000Z",
+      "start_scheduled": "2026-05-10T01:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
