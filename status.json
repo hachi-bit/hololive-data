@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778374999,
+  "cached_at": 1778375058,
   "lives": {
-    "UCDHABijvPBnJm7F-KlNME3w": {
-      "video_id": "oElWN45HHPw",
-      "title": "【UNARCHIVED KARAOKE】gigijam and gremjam",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-05-09T07:10:35.000Z",
-      "available_at": "2026-05-09T21:03:11.000Z",
-      "start_scheduled": "2026-05-09T21:00:00.000Z",
-      "start_actual": "2026-05-09T21:03:11.000Z",
-      "live_viewers": 8894,
-      "channel": {
-        "id": "UCDHABijvPBnJm7F-KlNME3w",
-        "name": "Gigi Murin Ch. hololive-EN",
-        "english_name": "Gigi Murin",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCQ0UDLQCjY0rmuxCDE38FGg": {
       "video_id": "v2guaA92jGw",
       "title": "【ニチアサ】日曜日の朝に早起きできるのえらいっ!!【ホロライブ/夏色まつり】",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-10T00:12:09.000Z",
       "start_scheduled": "2026-05-10T00:15:00.000Z",
       "start_actual": "2026-05-10T00:12:09.000Z",
-      "live_viewers": 486,
+      "live_viewers": 501,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -59,6 +39,64 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdyqAaZDKHXg4Ahi7VENThQ": {
+      "video_id": "LIwx6lGRLRs",
+      "title": "【朝活雑談】日曜10時はさんでーまっする!一緒にお喋りしよ~!【白銀ノエル/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "morning",
+      "published_at": "2026-05-09T11:41:10.000Z",
+      "available_at": "2026-05-10T01:00:00.000Z",
+      "start_scheduled": "2026-05-10T01:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+        "name": "Noel Ch. 白銀ノエル",
+        "english_name": "Shirogane Noel",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC060r4zABV18vcahAWR1n7w": {
+      "video_id": "FwOSms0UuMc",
+      "title": "Praying Satsuki Gets In |【MELTY BLOOD: TYPE LUMINA】Handcam",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Melty_Blood",
+      "published_at": "2026-05-06T16:15:00.000Z",
+      "available_at": "2026-05-10T01:00:00.000Z",
+      "start_scheduled": "2026-05-10T01:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC060r4zABV18vcahAWR1n7w",
+        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
+        "english_name": "Machina X Flayon",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCl69AEx4MdqMZH7Jtsm7Tig": {
+      "video_id": "w37yVSXhV_c",
+      "title": "【3D LIVE CONCERT】Raora Panthera First Birthday Live Concert! #RaoraBday2026",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Birthday",
+      "published_at": "2026-05-02T14:51:36.000Z",
+      "available_at": "2026-05-10T01:00:02.000Z",
+      "start_scheduled": "2026-05-10T01:00:00.000Z",
+      "start_actual": "2026-05-10T01:00:02.000Z",
+      "live_viewers": 18408,
+      "channel": {
+        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
+        "name": "Raora Panthera Ch. hololive-EN",
+        "english_name": "Raora Panthera",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
