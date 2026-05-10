@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778403739,
+  "cached_at": 1778403799,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "JMpLRmjey-I",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-10T04:03:24.000Z",
       "start_scheduled": "2026-05-10T04:00:00.000Z",
       "start_actual": "2026-05-10T04:03:24.000Z",
-      "live_viewers": 32237,
+      "live_viewers": 31881,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-10T07:57:38.000Z",
       "start_scheduled": "2026-05-10T08:00:00.000Z",
       "start_actual": "2026-05-10T07:57:38.000Z",
-      "live_viewers": 7037,
+      "live_viewers": 7320,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -119,6 +119,44 @@
         "org": "FIRST STAGE PRODUCTION",
         "suborg": "3bEN Ravanis",
         "photo": "https://yt3.ggpht.com/Dt0zSMEC-iVhIQ4MpTe-FBRUl7_wInXMtC3TklZ2rW3Sver_c8AGenK4h7QSElitTXYePqWZ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "11-8iq6CdT8",
+      "title": "【 スーパーマリオワールド 】最終回!?完全初見!初めてのマリオワールドに挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Super_Mario",
+      "published_at": "2026-05-10T03:34:59.000Z",
+      "available_at": "2026-05-10T09:00:00.000Z",
+      "start_scheduled": "2026-05-10T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "P_dZPmuqRVA",
+      "title": "【デッドライジング3】#02 ゾンビ無双みたび!巨大都市から72時間以内に脱出せよ⚠️ネタバレ注意-Dead Rising 3【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dead_Rising",
+      "published_at": "2026-05-09T14:34:00.000Z",
+      "available_at": "2026-05-10T09:00:00.000Z",
+      "start_scheduled": "2026-05-10T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
