@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778403858,
+  "cached_at": 1778403919,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "JMpLRmjey-I",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-10T03:29:40.000Z",
       "start_scheduled": "2026-05-10T03:30:00.000Z",
       "start_actual": "2026-05-10T03:29:40.000Z",
-      "live_viewers": 2551,
+      "live_viewers": 2567,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-10T04:03:24.000Z",
       "start_scheduled": "2026-05-10T04:00:00.000Z",
       "start_actual": "2026-05-10T04:03:24.000Z",
-      "live_viewers": 31881,
+      "live_viewers": 31857,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-10T08:12:39.000Z",
       "start_scheduled": "2026-05-10T08:00:00.000Z",
       "start_actual": "2026-05-10T08:12:39.000Z",
-      "live_viewers": 512,
+      "live_viewers": 534,
       "channel": {
         "id": "UCsNIVzD4AJ2FPLi9rY7I05Q",
         "name": "Ryzar Blazenfang【FIRST STAGE PRODUCTION EN】",
@@ -147,9 +147,10 @@
       "status": "live",
       "topic_id": "Dead_Rising",
       "published_at": "2026-05-09T14:34:00.000Z",
-      "available_at": "2026-05-10T09:00:00.000Z",
+      "available_at": "2026-05-10T09:02:29.000Z",
       "start_scheduled": "2026-05-10T09:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-10T09:02:29.000Z",
+      "live_viewers": 1212,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
