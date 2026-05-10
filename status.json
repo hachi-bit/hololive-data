@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778435119,
+  "cached_at": 1778435179,
   "lives": {
     "UCQ0UDLQCjY0rmuxCDE38FGg": {
       "video_id": "xACiaNiqF2Q",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-10T14:00:22.000Z",
       "start_scheduled": "2026-05-10T14:00:00.000Z",
       "start_actual": "2026-05-10T14:00:22.000Z",
-      "live_viewers": 250,
+      "live_viewers": 256,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -19,46 +19,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "nTQwozaDnMs",
-      "title": "【WINDROSE】みやびと烏有と一緒に!クリアしてしまってもいいんだろ? Part7【岸堂天真/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Windrose",
-      "published_at": "2026-05-10T14:15:09.000Z",
-      "available_at": "2026-05-10T14:32:28.000Z",
-      "start_scheduled": "2026-05-10T14:30:00.000Z",
-      "start_actual": "2026-05-10T14:32:28.000Z",
-      "live_viewers": 220,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "C-Qr4HSE8PE",
-      "title": "#3【Windrose】沼 攻 略 【花咲みやび/羽継烏有/岸堂天真/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Windrose",
-      "published_at": "2026-05-10T12:23:13.000Z",
-      "available_at": "2026-05-10T14:32:29.000Z",
-      "start_scheduled": "2026-05-10T14:30:00.000Z",
-      "start_actual": "2026-05-10T14:32:29.000Z",
-      "live_viewers": 327,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
