@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778400619,
+  "cached_at": 1778400679,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "FwOSms0UuMc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-10T01:23:02.000Z",
       "start_scheduled": "2026-05-10T01:00:00.000Z",
       "start_actual": "2026-05-10T01:23:02.000Z",
-      "live_viewers": 306,
+      "live_viewers": 312,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-10T01:36:29.000Z",
       "start_scheduled": "2026-05-10T01:30:00.000Z",
       "start_actual": "2026-05-10T01:36:29.000Z",
-      "live_viewers": 447,
+      "live_viewers": 458,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-10T03:00:20.000Z",
       "start_scheduled": "2026-05-10T03:00:00.000Z",
       "start_actual": "2026-05-10T03:00:20.000Z",
-      "live_viewers": 18663,
+      "live_viewers": 18593,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-10T03:29:40.000Z",
       "start_scheduled": "2026-05-10T03:30:00.000Z",
       "start_actual": "2026-05-10T03:29:40.000Z",
-      "live_viewers": 2745,
+      "live_viewers": 2699,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCc88OV45ICgHbn3ZqLLb52w": {
-      "video_id": "OoE7ulrrSMA",
-      "title": "⚡ゲリラAPEX⚡|おらふくん × えおえおさん × 夜十神封魔",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "apex",
-      "published_at": "2026-05-10T03:54:20.000Z",
-      "available_at": "2026-05-10T04:02:08.000Z",
-      "start_scheduled": "2026-05-10T04:00:00.000Z",
-      "start_actual": "2026-05-10T04:02:08.000Z",
-      "live_viewers": 226,
-      "channel": {
-        "id": "UCc88OV45ICgHbn3ZqLLb52w",
-        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-        "english_name": "Yatogami Fuma",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvzGlP9oQwU--Y0r9id_jnA": {
@@ -151,7 +131,7 @@
       "available_at": "2026-05-10T06:00:47.000Z",
       "start_scheduled": "2026-05-10T06:00:00.000Z",
       "start_actual": "2026-05-10T06:00:47.000Z",
-      "live_viewers": 15112,
+      "live_viewers": 15362,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-10T07:57:38.000Z",
       "start_scheduled": "2026-05-10T08:00:00.000Z",
       "start_actual": "2026-05-10T07:57:38.000Z",
-      "live_viewers": 2361,
+      "live_viewers": 2701,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
