@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778414719,
+  "cached_at": 1778414779,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "qs9B7VK4SQc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-10T07:57:38.000Z",
       "start_scheduled": "2026-05-10T08:00:00.000Z",
       "start_actual": "2026-05-10T07:57:38.000Z",
-      "live_viewers": 5298,
+      "live_viewers": 5172,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-10T09:02:29.000Z",
       "start_scheduled": "2026-05-10T09:00:00.000Z",
       "start_actual": "2026-05-10T09:02:29.000Z",
-      "live_viewers": 6746,
+      "live_viewers": 6759,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-10T10:00:14.000Z",
       "start_scheduled": "2026-05-10T10:00:00.000Z",
       "start_actual": "2026-05-10T10:00:14.000Z",
-      "live_viewers": 6253,
+      "live_viewers": 6192,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-10T11:00:33.000Z",
       "start_scheduled": "2026-05-10T11:00:00.000Z",
       "start_actual": "2026-05-10T11:00:33.000Z",
-      "live_viewers": 17963,
+      "live_viewers": 18462,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-10T11:00:58.000Z",
       "start_scheduled": "2026-05-10T11:00:00.000Z",
       "start_actual": "2026-05-10T11:00:58.000Z",
-      "live_viewers": 18954,
+      "live_viewers": 17752,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-10T11:02:29.000Z",
       "start_scheduled": "2026-05-10T11:00:00.000Z",
       "start_actual": "2026-05-10T11:02:29.000Z",
-      "live_viewers": 3565,
+      "live_viewers": 3560,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -261,23 +261,24 @@
         "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC1iA6_NT4mtAcIII6ygrvCw": {
-      "video_id": "Nw_40KfmZhs",
-      "title": "#3【バイオハザード RE:4】完全初見で挑むバイオ【轟はじめ/ReGLOSS】※未成年の方視聴注意",
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "ebXPe1mo4tg",
+      "title": "【コラボ】ぺこマリが酔います♡【ホロライブ/兎田ぺこら/宝鐘マリン】",
       "type": "stream",
       "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-05-09T17:01:16.000Z",
-      "available_at": "2026-05-10T12:00:00.000Z",
+      "topic_id": "none",
+      "published_at": "2026-05-10T00:19:23.000Z",
+      "available_at": "2026-05-10T12:00:40.000Z",
       "start_scheduled": "2026-05-10T12:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-10T12:00:40.000Z",
+      "live_viewers": 32881,
       "channel": {
-        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-        "english_name": "Todoroki Hajime",
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
         "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
@@ -287,9 +288,10 @@
       "status": "live",
       "topic_id": "singing",
       "published_at": "2026-05-10T11:46:01.000Z",
-      "available_at": "2026-05-10T12:00:00.000Z",
+      "available_at": "2026-05-10T12:00:41.000Z",
       "start_scheduled": "2026-05-10T12:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-10T12:00:41.000Z",
+      "live_viewers": 2016,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -299,24 +301,24 @@
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "ebXPe1mo4tg",
-      "title": "【コラボ】ぺこマリが酔います♡【ホロライブ/兎田ぺこら/宝鐘マリン】",
+    "UC1iA6_NT4mtAcIII6ygrvCw": {
+      "video_id": "Nw_40KfmZhs",
+      "title": "#3【バイオハザード RE:4】完全初見で挑むバイオ【轟はじめ/ReGLOSS】※未成年の方視聴注意",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-10T00:19:23.000Z",
-      "available_at": "2026-05-10T12:00:07.000Z",
+      "topic_id": "residentevil",
+      "published_at": "2026-05-09T17:01:16.000Z",
+      "available_at": "2026-05-10T12:02:08.000Z",
       "start_scheduled": "2026-05-10T12:00:00.000Z",
-      "start_actual": "2026-05-10T12:00:07.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-10T12:02:08.000Z",
+      "live_viewers": 1349,
       "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
+        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+        "english_name": "Todoroki Hajime",
         "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
