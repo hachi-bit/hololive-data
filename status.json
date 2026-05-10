@@ -1,46 +1,6 @@
 {
-  "cached_at": 1778434820,
+  "cached_at": 1778434879,
   "lives": {
-    "UCvInZx9h3jC2JzsIzoOebWg": {
-      "video_id": "TRGzcHpOX8M",
-      "title": "【R.E.P.O.】コスメティック探し妖怪です!Repoさせてください【不知火フレア/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-05-10T09:44:24.000Z",
-      "available_at": "2026-05-10T14:00:17.000Z",
-      "start_scheduled": "2026-05-10T14:00:00.000Z",
-      "start_actual": "2026-05-10T14:00:17.000Z",
-      "live_viewers": 5319,
-      "channel": {
-        "id": "UCvInZx9h3jC2JzsIzoOebWg",
-        "name": "Flare Ch. 不知火フレア",
-        "english_name": "Shiranui Flare",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChAnqc_AY5_I3Px5dig3X1Q": {
-      "video_id": "L72BjD9koe0",
-      "title": "【R.E.P.O.】ころね支店【#突発ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-05-10T05:17:50.000Z",
-      "available_at": "2026-05-10T14:00:19.000Z",
-      "start_scheduled": "2026-05-10T14:00:00.000Z",
-      "start_actual": "2026-05-10T14:00:19.000Z",
-      "live_viewers": 15352,
-      "channel": {
-        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
-        "name": "Korone Ch. 戌神ころね",
-        "english_name": "Inugami Korone",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCQ0UDLQCjY0rmuxCDE38FGg": {
       "video_id": "xACiaNiqF2Q",
       "title": "【R.E.P.O.】可愛い服探しするらしいです!!#ホロREPO【ホロライブ/夏色まつり】",
@@ -51,7 +11,7 @@
       "available_at": "2026-05-10T14:00:22.000Z",
       "start_scheduled": "2026-05-10T14:00:00.000Z",
       "start_actual": "2026-05-10T14:00:22.000Z",
-      "live_viewers": 3120,
+      "live_viewers": 250,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -59,46 +19,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "U4JPIg9oNyo",
-      "title": "【 R.E.P.O. 】先輩についていく…!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-05-10T08:48:34.000Z",
-      "available_at": "2026-05-10T14:00:49.000Z",
-      "start_scheduled": "2026-05-10T14:00:00.000Z",
-      "start_actual": "2026-05-10T14:00:49.000Z",
-      "live_viewers": 10623,
-      "channel": {
-        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "english_name": "Kikirara Vivi",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCqm3BQLlJfvkTsX_hvm0UmA": {
-      "video_id": "fzLjFXgHZNk",
-      "title": "【 R.E.P.O. 】アプデが来た!コスメティックというものがあるらしい!【角巻わため/ホロライブ4期生】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-05-09T19:27:30.000Z",
-      "available_at": "2026-05-10T14:01:09.000Z",
-      "start_scheduled": "2026-05-10T14:00:00.000Z",
-      "start_actual": "2026-05-10T14:01:09.000Z",
-      "live_viewers": 10979,
-      "channel": {
-        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-        "name": "Watame Ch. 角巻わため",
-        "english_name": "Tsunomaki Watame",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCGNI4MENvnsymYjKiZwv9eg": {
@@ -111,7 +31,7 @@
       "available_at": "2026-05-10T14:32:28.000Z",
       "start_scheduled": "2026-05-10T14:30:00.000Z",
       "start_actual": "2026-05-10T14:32:28.000Z",
-      "live_viewers": 210,
+      "live_viewers": 220,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
