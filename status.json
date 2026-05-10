@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778378659,
+  "cached_at": 1778378719,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "gGOIYVlXpPI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-10T00:12:09.000Z",
       "start_scheduled": "2026-05-10T00:15:00.000Z",
       "start_actual": "2026-05-10T00:12:09.000Z",
-      "live_viewers": 555,
+      "live_viewers": 530,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-10T01:00:02.000Z",
       "start_scheduled": "2026-05-10T01:00:00.000Z",
       "start_actual": "2026-05-10T01:00:02.000Z",
-      "live_viewers": 51736,
+      "live_viewers": 51263,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-10T01:01:28.000Z",
       "start_scheduled": "2026-05-10T01:00:00.000Z",
       "start_actual": "2026-05-10T01:01:28.000Z",
-      "live_viewers": 10171,
+      "live_viewers": 10210,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-10T01:23:02.000Z",
       "start_scheduled": "2026-05-10T01:00:00.000Z",
       "start_actual": "2026-05-10T01:23:02.000Z",
-      "live_viewers": 298,
+      "live_viewers": 315,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-10T01:36:29.000Z",
       "start_scheduled": "2026-05-10T01:30:00.000Z",
       "start_actual": "2026-05-10T01:36:29.000Z",
-      "live_viewers": 325,
+      "live_viewers": 365,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -99,25 +99,6 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC6eWCld0KwmyHFbAqK3V-Rw": {
-      "video_id": "W2l1ErCEpIs",
-      "title": "【太ももうさぎの大撃腿】超かぐや姫!に出てきた、かぐやが23時間43分耐久したゲームをやってみる!【博衣こより/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "endurance",
-      "published_at": "2026-05-09T15:20:00.000Z",
-      "available_at": "2026-05-10T02:00:00.000Z",
-      "start_scheduled": "2026-05-10T02:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-        "name": "Koyori ch. 博衣こより - holoX -",
-        "english_name": "Hakui Koyori",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
@@ -137,6 +118,26 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6eWCld0KwmyHFbAqK3V-Rw": {
+      "video_id": "W2l1ErCEpIs",
+      "title": "【太ももうさぎの大撃腿】超かぐや姫!に出てきた、かぐやが23時間43分耐久したゲームをやってみる!【博衣こより/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "endurance",
+      "published_at": "2026-05-09T15:20:00.000Z",
+      "available_at": "2026-05-10T02:02:09.000Z",
+      "start_scheduled": "2026-05-10T02:00:00.000Z",
+      "start_actual": "2026-05-10T02:02:09.000Z",
+      "live_viewers": 1569,
+      "channel": {
+        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+        "name": "Koyori ch. 博衣こより - holoX -",
+        "english_name": "Hakui Koyori",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
