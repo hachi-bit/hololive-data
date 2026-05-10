@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778376319,
+  "cached_at": 1778376379,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "gGOIYVlXpPI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-10T00:12:09.000Z",
       "start_scheduled": "2026-05-10T00:15:00.000Z",
       "start_actual": "2026-05-10T00:12:09.000Z",
-      "live_viewers": 521,
+      "live_viewers": 536,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -19,25 +19,6 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "FwOSms0UuMc",
-      "title": "Praying Satsuki Gets In |【MELTY BLOOD: TYPE LUMINA】Handcam",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Melty_Blood",
-      "published_at": "2026-05-06T16:15:00.000Z",
-      "available_at": "2026-05-10T01:00:00.000Z",
-      "start_scheduled": "2026-05-10T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC060r4zABV18vcahAWR1n7w",
-        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-        "english_name": "Machina X Flayon",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCl69AEx4MdqMZH7Jtsm7Tig": {
@@ -50,7 +31,7 @@
       "available_at": "2026-05-10T01:00:02.000Z",
       "start_scheduled": "2026-05-10T01:00:00.000Z",
       "start_actual": "2026-05-10T01:00:02.000Z",
-      "live_viewers": 50783,
+      "live_viewers": 51320,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -70,7 +51,7 @@
       "available_at": "2026-05-10T01:01:28.000Z",
       "start_scheduled": "2026-05-10T01:00:00.000Z",
       "start_actual": "2026-05-10T01:01:28.000Z",
-      "live_viewers": 8639,
+      "live_viewers": 9059,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -78,6 +59,26 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC060r4zABV18vcahAWR1n7w": {
+      "video_id": "FwOSms0UuMc",
+      "title": "Praying Satsuki Gets In |【MELTY BLOOD: TYPE LUMINA】Handcam",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Melty_Blood",
+      "published_at": "2026-05-06T16:15:00.000Z",
+      "available_at": "2026-05-10T01:23:02.000Z",
+      "start_scheduled": "2026-05-10T01:00:00.000Z",
+      "start_actual": "2026-05-10T01:23:02.000Z",
+      "live_viewers": 151,
+      "channel": {
+        "id": "UC060r4zABV18vcahAWR1n7w",
+        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
+        "english_name": "Machina X Flayon",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
