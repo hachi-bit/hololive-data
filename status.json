@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778383879,
+  "cached_at": 1778383939,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "gGOIYVlXpPI",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-10T01:23:02.000Z",
       "start_scheduled": "2026-05-10T01:00:00.000Z",
       "start_actual": "2026-05-10T01:23:02.000Z",
-      "live_viewers": 363,
+      "live_viewers": 385,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-10T03:00:20.000Z",
       "start_scheduled": "2026-05-10T03:00:00.000Z",
       "start_actual": "2026-05-10T03:00:20.000Z",
-      "live_viewers": 12239,
+      "live_viewers": 12462,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-10T03:00:21.000Z",
       "start_scheduled": "2026-05-10T03:00:00.000Z",
       "start_actual": "2026-05-10T03:00:21.000Z",
-      "live_viewers": 415,
+      "live_viewers": 456,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -159,6 +159,26 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "dKZc1Cm174g",
+      "title": "【Tomodachi Life】Love is in the Air (not necessarily mutual)【Pavolia Reine/hololiveID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-10T03:14:46.000Z",
+      "available_at": "2026-05-10T03:29:40.000Z",
+      "start_scheduled": "2026-05-10T03:30:00.000Z",
+      "start_actual": "2026-05-10T03:29:40.000Z",
+      "live_viewers": 118,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
