@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778425999,
+  "cached_at": 1778426061,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "qs9B7VK4SQc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-10T07:57:38.000Z",
       "start_scheduled": "2026-05-10T08:00:00.000Z",
       "start_actual": "2026-05-10T07:57:38.000Z",
-      "live_viewers": 3221,
+      "live_viewers": 3082,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-10T12:05:39.000Z",
       "start_scheduled": "2026-05-10T12:05:00.000Z",
       "start_actual": "2026-05-10T12:05:39.000Z",
-      "live_viewers": 1659,
+      "live_viewers": 1636,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-10T13:30:47.000Z",
       "start_scheduled": "2026-05-10T13:30:00.000Z",
       "start_actual": "2026-05-10T13:30:47.000Z",
-      "live_viewers": 5746,
+      "live_viewers": 4212,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -159,26 +159,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC0TXe_LYZ4scaW2XMyi5_kw": {
-      "video_id": "7tcXwfa_izM",
-      "title": "【メン限】あー、あー、テストテスト歌枠です【ホロライブ / AZKi】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-10T12:56:34.000Z",
-      "available_at": "2026-05-10T13:31:15.000Z",
-      "start_scheduled": "2026-05-10T13:30:00.000Z",
-      "start_actual": "2026-05-10T13:31:15.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-        "name": "AZKi Channel",
-        "english_name": "AZKi",
-        "org": "Hololive",
-        "suborg": "0z0th Generation",
-        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvInZx9h3jC2JzsIzoOebWg": {
@@ -191,7 +171,7 @@
       "available_at": "2026-05-10T14:00:17.000Z",
       "start_scheduled": "2026-05-10T14:00:00.000Z",
       "start_actual": "2026-05-10T14:00:17.000Z",
-      "live_viewers": 6646,
+      "live_viewers": 6995,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-10T14:00:19.000Z",
       "start_scheduled": "2026-05-10T14:00:00.000Z",
       "start_actual": "2026-05-10T14:00:19.000Z",
-      "live_viewers": 21912,
+      "live_viewers": 21729,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-10T14:00:22.000Z",
       "start_scheduled": "2026-05-10T14:00:00.000Z",
       "start_actual": "2026-05-10T14:00:22.000Z",
-      "live_viewers": 3713,
+      "live_viewers": 3945,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-10T14:01:09.000Z",
       "start_scheduled": "2026-05-10T14:00:00.000Z",
       "start_actual": "2026-05-10T14:01:09.000Z",
-      "live_viewers": 11093,
+      "live_viewers": 12019,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-10T14:32:28.000Z",
       "start_scheduled": "2026-05-10T14:30:00.000Z",
       "start_actual": "2026-05-10T14:32:28.000Z",
-      "live_viewers": 177,
+      "live_viewers": 188,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-10T14:32:29.000Z",
       "start_scheduled": "2026-05-10T14:30:00.000Z",
       "start_actual": "2026-05-10T14:32:29.000Z",
-      "live_viewers": 279,
+      "live_viewers": 286,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
