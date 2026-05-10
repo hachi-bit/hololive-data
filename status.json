@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778408960,
+  "cached_at": 1778409019,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "kTEWH8wSvs8",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-10T07:57:38.000Z",
       "start_scheduled": "2026-05-10T08:00:00.000Z",
       "start_actual": "2026-05-10T07:57:38.000Z",
-      "live_viewers": 7060,
+      "live_viewers": 6945,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCsNIVzD4AJ2FPLi9rY7I05Q": {
-      "video_id": "zn3ZwGK1GXY",
-      "title": "【KARAOKE】 PRE-BIRTHDAY JAM SESSION!! w/ @BanzoinHakka & @JosuijiShinri 🥳🎤 - Ryzar Blazenfang【FSP EN】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Birthday",
-      "published_at": "2026-05-09T11:09:51.000Z",
-      "available_at": "2026-05-10T08:12:39.000Z",
-      "start_scheduled": "2026-05-10T08:00:00.000Z",
-      "start_actual": "2026-05-10T08:12:39.000Z",
-      "live_viewers": 574,
-      "channel": {
-        "id": "UCsNIVzD4AJ2FPLi9rY7I05Q",
-        "name": "Ryzar Blazenfang【FIRST STAGE PRODUCTION EN】",
-        "english_name": "Ryzar Blazenfang",
-        "org": "FIRST STAGE PRODUCTION",
-        "suborg": "3bEN Ravanis",
-        "photo": "https://yt3.ggpht.com/Dt0zSMEC-iVhIQ4MpTe-FBRUl7_wInXMtC3TklZ2rW3Sver_c8AGenK4h7QSElitTXYePqWZ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCUKD-uaobj9jiqB-VXt71mA": {
@@ -91,7 +71,7 @@
       "available_at": "2026-05-10T09:02:29.000Z",
       "start_scheduled": "2026-05-10T09:00:00.000Z",
       "start_actual": "2026-05-10T09:02:29.000Z",
-      "live_viewers": 7806,
+      "live_viewers": 7879,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-10T10:00:33.000Z",
       "start_scheduled": "2026-05-10T10:00:00.000Z",
       "start_actual": "2026-05-10T10:00:33.000Z",
-      "live_viewers": 16460,
+      "live_viewers": 16723,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-10T10:02:55.000Z",
       "start_scheduled": "2026-05-10T10:00:00.000Z",
       "start_actual": "2026-05-10T10:02:55.000Z",
-      "live_viewers": 7712,
+      "live_viewers": 7928,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
