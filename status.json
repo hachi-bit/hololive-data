@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778375120,
+  "cached_at": 1778375179,
   "lives": {
-    "UCQ0UDLQCjY0rmuxCDE38FGg": {
-      "video_id": "v2guaA92jGw",
-      "title": "【ニチアサ】日曜日の朝に早起きできるのえらいっ!!【ホロライブ/夏色まつり】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "morning",
-      "published_at": "2026-05-09T23:49:05.000Z",
-      "available_at": "2026-05-09T23:59:42.000Z",
-      "start_scheduled": "2026-05-10T00:00:00.000Z",
-      "start_actual": "2026-05-09T23:59:42.000Z",
-      "live_viewers": 7591,
-      "channel": {
-        "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-        "name": "Matsuri Channel 夏色まつり",
-        "english_name": "Natsuiro Matsuri",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "gGOIYVlXpPI",
       "title": "【 Needy Streamer Overload 】U EITHER DIE FOR KANGEL OR YOU LIVE LONG ENOUGH TO LITERALLY BECOME HER.",
@@ -39,25 +19,6 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdyqAaZDKHXg4Ahi7VENThQ": {
-      "video_id": "LIwx6lGRLRs",
-      "title": "【朝活雑談】日曜10時はさんでーまっする!一緒にお喋りしよ~!【白銀ノエル/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "morning",
-      "published_at": "2026-05-09T11:41:10.000Z",
-      "available_at": "2026-05-10T01:00:00.000Z",
-      "start_scheduled": "2026-05-10T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-        "name": "Noel Ch. 白銀ノエル",
-        "english_name": "Shirogane Noel",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC060r4zABV18vcahAWR1n7w": {
@@ -89,7 +50,7 @@
       "available_at": "2026-05-10T01:00:02.000Z",
       "start_scheduled": "2026-05-10T01:00:00.000Z",
       "start_actual": "2026-05-10T01:00:02.000Z",
-      "live_viewers": 18408,
+      "live_viewers": 27542,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -97,6 +58,26 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdyqAaZDKHXg4Ahi7VENThQ": {
+      "video_id": "LIwx6lGRLRs",
+      "title": "【朝活雑談】日曜10時はさんでーまっする!一緒にお喋りしよ~!【白銀ノエル/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "morning",
+      "published_at": "2026-05-09T11:41:10.000Z",
+      "available_at": "2026-05-10T01:01:28.000Z",
+      "start_scheduled": "2026-05-10T01:00:00.000Z",
+      "start_actual": "2026-05-10T01:01:28.000Z",
+      "live_viewers": 4574,
+      "channel": {
+        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+        "name": "Noel Ch. 白銀ノエル",
+        "english_name": "Shirogane Noel",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
