@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778452879,
+  "cached_at": 1778452939,
   "lives": {
     "UCvN5h1ShZtc7nly3pezRayg": {
       "video_id": "5hpfGO12fu8",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-10T20:09:15.000Z",
       "start_scheduled": "2026-05-10T20:05:00.000Z",
       "start_actual": "2026-05-10T20:09:15.000Z",
-      "live_viewers": 14155,
+      "live_viewers": 14107,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-10T22:07:33.000Z",
       "start_scheduled": "2026-05-10T22:00:00.000Z",
       "start_actual": "2026-05-10T22:07:33.000Z",
-      "live_viewers": 692,
+      "live_viewers": 679,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -39,25 +39,6 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCW5uhrG1eCBYditmhL0Ykjw": {
-      "video_id": "vGKcRSrLTuk",
-      "title": "【 TOMODACHI LIFE】Big Miilord Island Episode 3 ~! 💄",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-10T22:19:05.000Z",
-      "available_at": "2026-05-10T22:30:00.000Z",
-      "start_scheduled": "2026-05-10T22:30:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-        "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-        "english_name": "Elizabeth Rose Bloodflame",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCp-5t9SrOQwXMU7iIjQfARg": {
@@ -70,7 +51,7 @@
       "available_at": "2026-05-10T22:30:38.000Z",
       "start_scheduled": "2026-05-10T22:30:00.000Z",
       "start_actual": "2026-05-10T22:30:38.000Z",
-      "live_viewers": 10365,
+      "live_viewers": 12877,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -78,6 +59,26 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCW5uhrG1eCBYditmhL0Ykjw": {
+      "video_id": "vGKcRSrLTuk",
+      "title": "【 TOMODACHI LIFE】Big Miilord Island Episode 3 ~! 💄",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-10T22:19:05.000Z",
+      "available_at": "2026-05-10T22:39:32.000Z",
+      "start_scheduled": "2026-05-10T22:30:00.000Z",
+      "start_actual": "2026-05-10T22:39:32.000Z",
+      "live_viewers": 747,
+      "channel": {
+        "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+        "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+        "english_name": "Elizabeth Rose Bloodflame",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
