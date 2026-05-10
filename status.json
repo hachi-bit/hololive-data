@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778416879,
+  "cached_at": 1778416939,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "qs9B7VK4SQc",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-10T10:02:55.000Z",
       "start_scheduled": "2026-05-10T10:00:00.000Z",
       "start_actual": "2026-05-10T10:02:55.000Z",
-      "live_viewers": 8003,
+      "live_viewers": 7641,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-10T11:00:29.000Z",
       "start_scheduled": "2026-05-10T11:00:00.000Z",
       "start_actual": "2026-05-10T11:00:29.000Z",
-      "live_viewers": 8559,
+      "live_viewers": 8797,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-10T11:00:33.000Z",
       "start_scheduled": "2026-05-10T11:00:00.000Z",
       "start_actual": "2026-05-10T11:00:33.000Z",
-      "live_viewers": 19969,
+      "live_viewers": 20085,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -139,26 +139,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCqm3BQLlJfvkTsX_hvm0UmA": {
-      "video_id": "USYp3Q3JR_E",
-      "title": "【 #角巻わため新衣装2026 】めちゃくちゃ可愛い衣装をお披露目!NEW OUTFIT🐏✨【角巻わため/ホロライブ4期生】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Outfit_Reveal",
-      "published_at": "2026-05-08T05:22:47.000Z",
-      "available_at": "2026-05-10T11:00:58.000Z",
-      "start_scheduled": "2026-05-10T11:00:00.000Z",
-      "start_actual": "2026-05-10T11:00:58.000Z",
-      "live_viewers": 14480,
-      "channel": {
-        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-        "name": "Watame Ch. 角巻わため",
-        "english_name": "Tsunomaki Watame",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCWQtYtq9EOB4-I5P-3fh8lA": {
@@ -191,7 +171,7 @@
       "available_at": "2026-05-10T12:00:40.000Z",
       "start_scheduled": "2026-05-10T12:00:00.000Z",
       "start_actual": "2026-05-10T12:00:40.000Z",
-      "live_viewers": 80955,
+      "live_viewers": 82354,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-10T12:00:41.000Z",
       "start_scheduled": "2026-05-10T12:00:00.000Z",
       "start_actual": "2026-05-10T12:00:41.000Z",
-      "live_viewers": 4467,
+      "live_viewers": 4622,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-10T12:02:08.000Z",
       "start_scheduled": "2026-05-10T12:00:00.000Z",
       "start_actual": "2026-05-10T12:02:08.000Z",
-      "live_viewers": 3544,
+      "live_viewers": 3546,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-10T12:05:39.000Z",
       "start_scheduled": "2026-05-10T12:05:00.000Z",
       "start_actual": "2026-05-10T12:05:39.000Z",
-      "live_viewers": 911,
+      "live_viewers": 976,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
