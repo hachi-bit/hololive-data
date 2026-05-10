@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778388799,
+  "cached_at": 1778388859,
   "lives": {
-    "UCdyqAaZDKHXg4Ahi7VENThQ": {
-      "video_id": "LIwx6lGRLRs",
-      "title": "【朝活雑談】日曜10時はさんでーまっする!一緒にお喋りしよ~!【白銀ノエル/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "morning",
-      "published_at": "2026-05-09T11:41:10.000Z",
-      "available_at": "2026-05-10T01:01:28.000Z",
-      "start_scheduled": "2026-05-10T01:00:00.000Z",
-      "start_actual": "2026-05-10T01:01:28.000Z",
-      "live_viewers": 5248,
-      "channel": {
-        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-        "name": "Noel Ch. 白銀ノエル",
-        "english_name": "Shirogane Noel",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "FwOSms0UuMc",
       "title": "Praying Satsuki Gets In |【MELTY BLOOD: TYPE LUMINA】Handcam",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-10T04:02:08.000Z",
       "start_scheduled": "2026-05-10T04:00:00.000Z",
       "start_actual": "2026-05-10T04:02:08.000Z",
-      "live_viewers": 161,
+      "live_viewers": 166,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-10T04:03:24.000Z",
       "start_scheduled": "2026-05-10T04:00:00.000Z",
       "start_actual": "2026-05-10T04:03:24.000Z",
-      "live_viewers": 21859,
+      "live_viewers": 22110,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-10T04:04:28.000Z",
       "start_scheduled": "2026-05-10T04:00:00.000Z",
       "start_actual": "2026-05-10T04:04:28.000Z",
-      "live_viewers": 5037,
+      "live_viewers": 5278,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
