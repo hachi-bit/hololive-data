@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778416579,
+  "cached_at": 1778416639,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "qs9B7VK4SQc",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-10T10:02:55.000Z",
       "start_scheduled": "2026-05-10T10:00:00.000Z",
       "start_actual": "2026-05-10T10:02:55.000Z",
-      "live_viewers": 8194,
+      "live_viewers": 8003,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-10T11:00:33.000Z",
       "start_scheduled": "2026-05-10T11:00:00.000Z",
       "start_actual": "2026-05-10T11:00:33.000Z",
-      "live_viewers": 19827,
+      "live_viewers": 19969,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -181,26 +181,6 @@
         "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
-      "video_id": "hh1Pe6Q62_E",
-      "title": "羽継烏有 2026誕生日配信!! 【 ホロスターズ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Birthday",
-      "published_at": "2026-05-08T18:05:58.000Z",
-      "available_at": "2026-05-10T11:03:41.000Z",
-      "start_scheduled": "2026-05-10T11:00:00.000Z",
-      "start_actual": "2026-05-10T11:03:41.000Z",
-      "live_viewers": 1223,
-      "channel": {
-        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
-        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
-        "english_name": "Utsugi Uyu",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "ebXPe1mo4tg",
       "title": "【コラボ】ぺこマリが酔います♡【ホロライブ/兎田ぺこら/宝鐘マリン】",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-10T12:00:40.000Z",
       "start_scheduled": "2026-05-10T12:00:00.000Z",
       "start_actual": "2026-05-10T12:00:40.000Z",
-      "live_viewers": 80035,
+      "live_viewers": 80400,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-10T12:00:41.000Z",
       "start_scheduled": "2026-05-10T12:00:00.000Z",
       "start_actual": "2026-05-10T12:00:41.000Z",
-      "live_viewers": 4447,
+      "live_viewers": 4467,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-10T12:02:08.000Z",
       "start_scheduled": "2026-05-10T12:00:00.000Z",
       "start_actual": "2026-05-10T12:02:08.000Z",
-      "live_viewers": 3276,
+      "live_viewers": 3346,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-10T12:05:39.000Z",
       "start_scheduled": "2026-05-10T12:05:00.000Z",
       "start_actual": "2026-05-10T12:05:39.000Z",
-      "live_viewers": 857,
+      "live_viewers": 911,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
