@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778516901,
+  "cached_at": 1778516961,
   "lives": {
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "p55b4lDeTyI",
-      "title": "【LoL】土下座する人生なんてないわけ / アステル",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-05-11T09:13:38.000Z",
-      "available_at": "2026-05-11T09:25:18.000Z",
-      "start_scheduled": "2026-05-11T09:30:00.000Z",
-      "start_actual": "2026-05-11T09:25:18.000Z",
-      "live_viewers": 378,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "Lhm0EgSqmOw",
       "title": "【 バイオハザード レクイエム | 初見 #2 】ビビリ幽霊Vの新作バイオ! ※ネタバレ注意【 水無世燐央 l UPROAR!! 】",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-11T13:59:59.000Z",
       "start_scheduled": "2026-05-11T14:00:00.000Z",
       "start_actual": "2026-05-11T13:59:59.000Z",
-      "live_viewers": 4830,
+      "live_viewers": 4665,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-11T14:00:06.000Z",
       "start_scheduled": "2026-05-11T14:00:00.000Z",
       "start_actual": "2026-05-11T14:00:06.000Z",
-      "live_viewers": 7558,
+      "live_viewers": 7518,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-11T14:12:10.000Z",
       "start_scheduled": "2026-05-11T14:30:00.000Z",
       "start_actual": "2026-05-11T14:12:10.000Z",
-      "live_viewers": 8925,
+      "live_viewers": 8731,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-11T14:30:31.000Z",
       "start_scheduled": "2026-05-11T14:30:00.000Z",
       "start_actual": "2026-05-11T14:30:31.000Z",
-      "live_viewers": 843,
+      "live_viewers": 846,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
