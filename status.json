@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778518281,
+  "cached_at": 1778518341,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "Lhm0EgSqmOw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-11T10:59:21.000Z",
       "start_scheduled": "2026-05-11T11:00:00.000Z",
       "start_actual": "2026-05-11T10:59:21.000Z",
-      "live_viewers": 245,
+      "live_viewers": 241,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-11T13:32:35.000Z",
       "start_scheduled": "2026-05-11T13:30:00.000Z",
       "start_actual": "2026-05-11T13:32:35.000Z",
-      "live_viewers": 3426,
+      "live_viewers": 3345,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-11T13:59:56.000Z",
       "start_scheduled": "2026-05-11T14:00:00.000Z",
       "start_actual": "2026-05-11T13:59:56.000Z",
-      "live_viewers": 10354,
+      "live_viewers": 10210,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-11T13:59:59.000Z",
       "start_scheduled": "2026-05-11T14:00:00.000Z",
       "start_actual": "2026-05-11T13:59:59.000Z",
-      "live_viewers": 4380,
+      "live_viewers": 4437,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-11T14:00:05.000Z",
       "start_scheduled": "2026-05-11T14:00:00.000Z",
       "start_actual": "2026-05-11T14:00:05.000Z",
-      "live_viewers": 15402,
+      "live_viewers": 15231,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-11T14:38:43.000Z",
       "start_scheduled": "2026-05-11T14:30:00.000Z",
       "start_actual": "2026-05-11T14:38:43.000Z",
-      "live_viewers": 202,
+      "live_viewers": 213,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-11T14:39:05.000Z",
       "start_scheduled": "2026-05-11T14:45:00.000Z",
       "start_actual": "2026-05-11T14:39:05.000Z",
-      "live_viewers": 258,
+      "live_viewers": 270,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -239,26 +239,6 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1suqwovbL1kzsoaZgFZLKg": {
-      "video_id": "NPM0LkoeU1U",
-      "title": "【メン限】悪魔のゲリラASMR【ホロライブ/癒月ちょこ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-10T23:40:52.000Z",
-      "available_at": "2026-05-11T16:06:28.000Z",
-      "start_scheduled": "2026-05-11T16:00:00.000Z",
-      "start_actual": "2026-05-11T16:06:28.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC1suqwovbL1kzsoaZgFZLKg",
-        "name": "Choco Ch. 癒月ちょこ",
-        "english_name": "Yuzuki Choco",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
