@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778534119,
+  "cached_at": 1778534181,
   "lives": {
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
       "video_id": "6jYMp8NOaM0",
@@ -19,6 +19,26 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCQ0UDLQCjY0rmuxCDE38FGg": {
+      "video_id": "43Gj3-UjQa4",
+      "title": "【朝活】5月病に打ち勝つ朝!!!【ホロライブ/夏色まつり】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "morning",
+      "published_at": "2026-05-11T21:09:11.000Z",
+      "available_at": "2026-05-11T21:14:14.000Z",
+      "start_scheduled": "2026-05-11T21:15:00.000Z",
+      "start_actual": "2026-05-11T21:14:14.000Z",
+      "live_viewers": 162,
+      "channel": {
+        "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+        "name": "Matsuri Channel 夏色まつり",
+        "english_name": "Natsuiro Matsuri",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
