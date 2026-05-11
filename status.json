@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778490079,
+  "cached_at": 1778490139,
   "lives": {
     "UCmbs8T6MWqUHP1tIQvSgKrg": {
       "video_id": "67twAQzmlBg",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-11T04:00:39.000Z",
       "start_scheduled": "2026-05-11T04:00:00.000Z",
       "start_actual": "2026-05-11T04:00:39.000Z",
-      "live_viewers": 2695,
+      "live_viewers": 2668,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -98,6 +98,45 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "VOCdk1ej9gs",
+      "title": "【 3D KARAOKE / 歌枠 】べーちゃんと一緒にカラオケするぞ~‼【Hakos Baelz/鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-11T00:48:56.000Z",
+      "available_at": "2026-05-11T08:59:42.000Z",
+      "start_scheduled": "2026-05-11T09:00:00.000Z",
+      "start_actual": "2026-05-11T08:59:42.000Z",
+      "live_viewers": 904,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "9mRwBLqQRsA",
+      "title": "【ぷちホロの村 - 剣とお店と田舎暮らし】伝説の農婦のクワを求めて…!!!!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-05-11T07:56:48.000Z",
+      "available_at": "2026-05-11T09:00:00.000Z",
+      "start_scheduled": "2026-05-11T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
