@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778511981,
+  "cached_at": 1778512041,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "p55b4lDeTyI",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-11T09:58:17.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T09:58:17.000Z",
-      "live_viewers": 5224,
+      "live_viewers": 3752,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-11T11:02:59.000Z",
       "start_scheduled": "2026-05-11T11:00:00.000Z",
       "start_actual": "2026-05-11T11:02:59.000Z",
-      "live_viewers": 1394,
+      "live_viewers": 1524,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-11T13:00:39.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:00:39.000Z",
-      "live_viewers": 205,
+      "live_viewers": 212,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -121,26 +121,6 @@
         "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
-      "video_id": "dnvpookg3cs",
-      "title": "≪JP CHATTING≫ 久々の日本語配信！！！ホロJPです！！！！",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Japanese_Only",
-      "published_at": "2026-05-11T02:11:59.000Z",
-      "available_at": "2026-05-11T13:01:19.000Z",
-      "start_scheduled": "2026-05-11T13:00:00.000Z",
-      "start_actual": "2026-05-11T13:01:19.000Z",
-      "live_viewers": 6085,
-      "channel": {
-        "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "name": "Hakos Baelz Ch. hololive-EN",
-        "english_name": "Hakos Baelz",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCAoy6rzhSf4ydcYjJw3WoVg": {
       "video_id": "QUQdBG1Rx3Q",
       "title": "【Senin Produktif】メイドの日です!【iofi / ホロライブID】",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-11T13:03:38.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:03:38.000Z",
-      "live_viewers": 794,
+      "live_viewers": 815,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-11T14:00:05.000Z",
       "start_scheduled": "2026-05-11T14:00:00.000Z",
       "start_actual": "2026-05-11T14:00:05.000Z",
-      "live_viewers": 20137,
+      "live_viewers": 19945,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-11T14:12:10.000Z",
       "start_scheduled": "2026-05-11T14:30:00.000Z",
       "start_actual": "2026-05-11T14:12:10.000Z",
-      "live_viewers": 8083,
+      "live_viewers": 8242,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -351,7 +331,7 @@
       "available_at": "2026-05-11T14:30:31.000Z",
       "start_scheduled": "2026-05-11T14:30:00.000Z",
       "start_actual": "2026-05-11T14:30:31.000Z",
-      "live_viewers": 489,
+      "live_viewers": 531,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -371,7 +351,7 @@
       "available_at": "2026-05-11T14:38:43.000Z",
       "start_scheduled": "2026-05-11T14:30:00.000Z",
       "start_actual": "2026-05-11T14:38:43.000Z",
-      "live_viewers": 178,
+      "live_viewers": 182,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -391,7 +371,7 @@
       "available_at": "2026-05-11T14:39:05.000Z",
       "start_scheduled": "2026-05-11T14:45:00.000Z",
       "start_actual": "2026-05-11T14:39:05.000Z",
-      "live_viewers": 225,
+      "live_viewers": 233,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -411,7 +391,7 @@
       "available_at": "2026-05-11T14:45:09.000Z",
       "start_scheduled": "2026-05-11T14:40:00.000Z",
       "start_actual": "2026-05-11T14:45:09.000Z",
-      "live_viewers": 2473,
+      "live_viewers": 2615,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
