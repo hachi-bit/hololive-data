@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778482219,
+  "cached_at": 1778482279,
   "lives": {
     "UCmbs8T6MWqUHP1tIQvSgKrg": {
       "video_id": "67twAQzmlBg",
@@ -48,9 +48,10 @@
       "status": "live",
       "topic_id": "none",
       "published_at": "2026-05-11T06:41:14.000Z",
-      "available_at": "2026-05-11T06:40:00.000Z",
+      "available_at": "2026-05-11T06:48:04.000Z",
       "start_scheduled": "2026-05-11T06:40:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-11T06:48:04.000Z",
+      "live_viewers": 943,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
