@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778501781,
+  "cached_at": 1778501841,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "9mRwBLqQRsA",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-11T09:25:18.000Z",
       "start_scheduled": "2026-05-11T09:30:00.000Z",
       "start_actual": "2026-05-11T09:25:18.000Z",
-      "live_viewers": 351,
+      "live_viewers": 369,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-11T09:58:17.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T09:58:17.000Z",
-      "live_viewers": 6176,
+      "live_viewers": 6069,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-11T10:00:57.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T10:00:57.000Z",
-      "live_viewers": 2010,
+      "live_viewers": 2049,
       "channel": {
         "id": "UC7_MFM9b8hp5kuTSpa8WyOQ",
         "name": "栞葉るり / Shioriha Ruri【にじさんじ】",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-11T10:01:40.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T10:01:40.000Z",
-      "live_viewers": 188,
+      "live_viewers": 203,
       "channel": {
         "id": "UCEoAD_2jSLoYQd2MJZxWuxQ",
         "name": "北白川かかぽ / Kakapo Kitashirakawa",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-11T11:00:29.000Z",
       "start_scheduled": "2026-05-11T11:00:00.000Z",
       "start_actual": "2026-05-11T11:00:29.000Z",
-      "live_viewers": 22943,
+      "live_viewers": 22940,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -239,6 +239,26 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAHQGIKolfBfoeXXMY79SBA": {
+      "video_id": "Pejf8p7VvBo",
+      "title": "【 League of Legends #LTK 】20時からBOT 2v2練習 &  21時からDDnext3戦スクリム【白那しずく / ネオポルテ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-05-11T10:28:26.000Z",
+      "available_at": "2026-05-11T11:02:59.000Z",
+      "start_scheduled": "2026-05-11T11:00:00.000Z",
+      "start_actual": "2026-05-11T11:02:59.000Z",
+      "live_viewers": 982,
+      "channel": {
+        "id": "UCAHQGIKolfBfoeXXMY79SBA",
+        "name": "白那しずく",
+        "english_name": "Shirona Shizuku",
+        "org": "Neo-Porte",
+        "suborg": "0k5th Generation",
+        "photo": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9LSiN9hXI55svYEBrrK-tw": {
@@ -250,7 +270,7 @@
       "published_at": "2026-03-31T23:20:41.000Z",
       "available_at": "2026-05-11T11:31:11.000Z",
       "start_actual": "2026-05-11T11:31:11.000Z",
-      "live_viewers": 6326,
+      "live_viewers": 6522,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -258,6 +278,25 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp-5t9SrOQwXMU7iIjQfARg": {
+      "video_id": "pQDceiet9Bc",
+      "title": "【歌枠】うたうみぉーー-------ん!【 ホロライブ / 大神ミオ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-11T12:09:02.000Z",
+      "available_at": "2026-05-11T12:15:00.000Z",
+      "start_scheduled": "2026-05-11T12:15:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+        "name": "Mio Channel 大神ミオ",
+        "english_name": "Ookami Mio",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
