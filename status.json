@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778504899,
+  "cached_at": 1778504962,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "p55b4lDeTyI",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-11T09:58:17.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T09:58:17.000Z",
-      "live_viewers": 6306,
+      "live_viewers": 6371,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-11T10:34:09.000Z",
       "start_scheduled": "2026-05-11T12:00:00.000Z",
       "start_actual": "2026-05-11T10:34:09.000Z",
-      "live_viewers": 215,
+      "live_viewers": 206,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -279,25 +279,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
-      "video_id": "njC1uy_hCBo",
-      "title": "【司書のお仕事：魔導図書館を片付けろ!】はい、片付けます【 #奏手イヅル 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Librarian:_Tidy_Up_the_Arcane_Library!",
-      "published_at": "2026-05-11T12:16:00.000Z",
-      "available_at": "2026-05-11T13:00:00.000Z",
-      "start_scheduled": "2026-05-11T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "name": "Izuru Ch. 奏手イヅル",
-        "english_name": "Kanade Izuru",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
       "video_id": "NuUr5GbWYhw",
       "title": "【 Slay the Spire 2】サイレントでクリアしたい #4【荒咬オウガ /ホロスターズ】",
@@ -308,7 +289,7 @@
       "available_at": "2026-05-11T13:00:39.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:00:39.000Z",
-      "live_viewers": 98,
+      "live_viewers": 116,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -328,7 +309,7 @@
       "available_at": "2026-05-11T13:00:51.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:00:51.000Z",
-      "live_viewers": 3718,
+      "live_viewers": 4088,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -348,7 +329,7 @@
       "available_at": "2026-05-11T13:01:18.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:01:18.000Z",
-      "live_viewers": 18800,
+      "live_viewers": 26099,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -368,7 +349,7 @@
       "available_at": "2026-05-11T13:01:19.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:01:19.000Z",
-      "live_viewers": 3624,
+      "live_viewers": 4249,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -388,7 +369,7 @@
       "available_at": "2026-05-11T13:03:38.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:03:38.000Z",
-      "live_viewers": 372,
+      "live_viewers": 416,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -396,6 +377,26 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
+      "video_id": "njC1uy_hCBo",
+      "title": "【司書のお仕事：魔導図書館を片付けろ!】はい、片付けます【 #奏手イヅル 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Librarian:_Tidy_Up_the_Arcane_Library!",
+      "published_at": "2026-05-11T12:16:00.000Z",
+      "available_at": "2026-05-11T13:04:35.000Z",
+      "start_scheduled": "2026-05-11T13:00:00.000Z",
+      "start_actual": "2026-05-11T13:04:35.000Z",
+      "live_viewers": 256,
+      "channel": {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "english_name": "Kanade Izuru",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
