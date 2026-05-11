@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778509282,
+  "cached_at": 1778509341,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "p55b4lDeTyI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-11T09:25:18.000Z",
       "start_scheduled": "2026-05-11T09:30:00.000Z",
       "start_actual": "2026-05-11T09:25:18.000Z",
-      "live_viewers": 451,
+      "live_viewers": 459,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-11T09:58:17.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T09:58:17.000Z",
-      "live_viewers": 6942,
+      "live_viewers": 6993,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCEoAD_2jSLoYQd2MJZxWuxQ": {
-      "video_id": "Lv-VkXMOVdE",
-      "title": "【#学術V登山隊】マダミス狂気山脈3.0 薄明三角点【調査員：北白川かかぽ視点】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "TRPG",
-      "published_at": "2026-05-10T15:10:14.000Z",
-      "available_at": "2026-05-11T10:01:40.000Z",
-      "start_scheduled": "2026-05-11T10:00:00.000Z",
-      "start_actual": "2026-05-11T10:01:40.000Z",
-      "live_viewers": 290,
-      "channel": {
-        "id": "UCEoAD_2jSLoYQd2MJZxWuxQ",
-        "name": "北白川かかぽ / Kakapo Kitashirakawa",
-        "english_name": "Kitashirakawa Kakapo",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/9WYIebqPyn3gzbEcVXx0b8MaMMwq9rJCGas9baVVJIVcROlKzLegAqYyHVjKruOwgVGHMw6b=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
@@ -91,7 +71,7 @@
       "available_at": "2026-05-11T11:02:59.000Z",
       "start_scheduled": "2026-05-11T11:00:00.000Z",
       "start_actual": "2026-05-11T11:02:59.000Z",
-      "live_viewers": 1137,
+      "live_viewers": 1198,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-11T13:03:38.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:03:38.000Z",
-      "live_viewers": 966,
+      "live_viewers": 953,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-11T13:31:39.000Z",
       "start_scheduled": "2026-05-11T13:30:00.000Z",
       "start_actual": "2026-05-11T13:31:39.000Z",
-      "live_viewers": 1730,
+      "live_viewers": 1751,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-11T13:32:35.000Z",
       "start_scheduled": "2026-05-11T13:30:00.000Z",
       "start_actual": "2026-05-11T13:32:35.000Z",
-      "live_viewers": 9520,
+      "live_viewers": 10177,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-11T13:59:56.000Z",
       "start_scheduled": "2026-05-11T14:00:00.000Z",
       "start_actual": "2026-05-11T13:59:56.000Z",
-      "live_viewers": 12069,
+      "live_viewers": 12134,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-11T13:59:59.000Z",
       "start_scheduled": "2026-05-11T14:00:00.000Z",
       "start_actual": "2026-05-11T13:59:59.000Z",
-      "live_viewers": 5049,
+      "live_viewers": 5323,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-11T14:00:05.000Z",
       "start_scheduled": "2026-05-11T14:00:00.000Z",
       "start_actual": "2026-05-11T14:00:05.000Z",
-      "live_viewers": 18961,
+      "live_viewers": 19714,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-11T14:00:06.000Z",
       "start_scheduled": "2026-05-11T14:00:00.000Z",
       "start_actual": "2026-05-11T14:00:06.000Z",
-      "live_viewers": 7391,
+      "live_viewers": 7591,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -351,7 +331,7 @@
       "available_at": "2026-05-11T14:03:39.000Z",
       "start_scheduled": "2026-05-11T14:00:00.000Z",
       "start_actual": "2026-05-11T14:03:39.000Z",
-      "live_viewers": 2732,
+      "live_viewers": 2952,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -371,7 +351,7 @@
       "available_at": "2026-05-11T14:12:10.000Z",
       "start_scheduled": "2026-05-11T14:30:00.000Z",
       "start_actual": "2026-05-11T14:12:10.000Z",
-      "live_viewers": 4055,
+      "live_viewers": 4729,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
