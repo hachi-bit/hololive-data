@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778499623,
+  "cached_at": 1778499681,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "9mRwBLqQRsA",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-11T09:00:49.000Z",
       "start_scheduled": "2026-05-11T09:00:00.000Z",
       "start_actual": "2026-05-11T09:00:49.000Z",
-      "live_viewers": 4280,
+      "live_viewers": 4302,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -141,26 +141,6 @@
         "photo": "https://yt3.ggpht.com/A5VkQ-3F9Ibun0t22tE6Gd9WjGWN3g5cyup2h9I7b4BxE_i9Kk0ZMf-7QRmoCIiUnHk-D_qCqg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCAWSyEs_Io8MtpY3m-zqILA": {
-      "video_id": "YJx4-z9ZtN4",
-      "title": "【 #桃鈴ねね新衣装 】サムネが清楚すぎるませーーー!お披露目ませー!【 桃鈴ねね / hololive 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Outfit_Reveal",
-      "published_at": "2026-05-11T03:49:34.000Z",
-      "available_at": "2026-05-11T10:01:14.000Z",
-      "start_scheduled": "2026-05-11T10:00:00.000Z",
-      "start_actual": "2026-05-11T10:01:14.000Z",
-      "live_viewers": 6729,
-      "channel": {
-        "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-        "name": "Nene Ch.桃鈴ねね",
-        "english_name": "Momosuzu Nene",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCEoAD_2jSLoYQd2MJZxWuxQ": {
       "video_id": "Lv-VkXMOVdE",
       "title": "【#学術V登山隊】マダミス狂気山脈3.0 薄明三角点【調査員：北白川かかぽ視点】",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-11T10:04:47.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T10:04:47.000Z",
-      "live_viewers": 24743,
+      "live_viewers": 25379,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-11T10:34:09.000Z",
       "start_scheduled": "2026-05-11T12:00:00.000Z",
       "start_actual": "2026-05-11T10:34:09.000Z",
-      "live_viewers": 166,
+      "live_viewers": 180,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-11T10:59:59.000Z",
       "start_scheduled": "2026-05-11T11:00:00.000Z",
       "start_actual": "2026-05-11T10:59:59.000Z",
-      "live_viewers": 7639,
+      "live_viewers": 7685,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-11T11:00:29.000Z",
       "start_scheduled": "2026-05-11T11:00:00.000Z",
       "start_actual": "2026-05-11T11:00:29.000Z",
-      "live_viewers": 21923,
+      "live_viewers": 22701,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-11T11:00:57.000Z",
       "start_scheduled": "2026-05-11T11:00:00.000Z",
       "start_actual": "2026-05-11T11:00:57.000Z",
-      "live_viewers": 5992,
+      "live_viewers": 6071,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
