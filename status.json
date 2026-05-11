@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778459118,
+  "cached_at": 1778459180,
   "lives": {
     "UCW5uhrG1eCBYditmhL0Ykjw": {
       "video_id": "vGKcRSrLTuk",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-10T23:59:58.000Z",
       "start_scheduled": "2026-05-11T00:00:00.000Z",
       "start_actual": "2026-05-10T23:59:58.000Z",
-      "live_viewers": 271,
+      "live_viewers": 288,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -48,9 +48,10 @@
       "status": "live",
       "topic_id": "none",
       "published_at": "2026-05-10T15:28:13.000Z",
-      "available_at": "2026-05-11T00:15:00.000Z",
+      "available_at": "2026-05-11T00:21:43.000Z",
       "start_scheduled": "2026-05-11T00:15:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-11T00:21:43.000Z",
+      "live_viewers": 230,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
