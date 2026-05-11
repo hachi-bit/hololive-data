@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778506317,
+  "cached_at": 1778506342,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "p55b4lDeTyI",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKeAhJvy8zgXWbh9duVjIaQ": {
-      "video_id": "F9hSASA70Kk",
-      "title": "【雑談】暇【アルランディス/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-11T07:29:53.000Z",
-      "available_at": "2026-05-11T09:54:52.000Z",
-      "start_scheduled": "2026-05-11T10:00:00.000Z",
-      "start_actual": "2026-05-11T09:54:52.000Z",
-      "live_viewers": 851,
-      "channel": {
-        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
-        "name": "Aruran Ch. アルランディス",
-        "english_name": "Arurandeisu",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCa9Y57gfeY0Zro_noHRVrnw": {
@@ -151,7 +131,7 @@
       "available_at": "2026-05-11T10:59:21.000Z",
       "start_scheduled": "2026-05-11T11:00:00.000Z",
       "start_actual": "2026-05-11T10:59:21.000Z",
-      "live_viewers": 250,
+      "live_viewers": 264,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-11T13:01:19.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:01:19.000Z",
-      "live_viewers": 7293,
+      "live_viewers": 7751,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-11T13:04:35.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:04:35.000Z",
-      "live_viewers": 408,
+      "live_viewers": 406,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -339,6 +319,44 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZLZ8Jjx_RN2CXloOmgTHVg": {
+      "video_id": "PRQ4gKGg-yY",
+      "title": "【Cupiclaw】gotta get those rings for MORRIS!!!! 💍",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-10T17:35:53.000Z",
+      "available_at": "2026-05-11T13:30:00.000Z",
+      "start_scheduled": "2026-05-11T13:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "name": "Kaela Kovalskia Ch. hololive-ID",
+        "english_name": "Kaela Kovalskia",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
+      "video_id": "x2K2cF8erjI",
+      "title": "【BLEACH Rebirth of Souls】完全初見 どんな話なんだ…!#12【水宮枢/ホロライブDEV_IS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "BLEACH",
+      "published_at": "2026-05-10T17:12:44.000Z",
+      "available_at": "2026-05-11T13:30:00.000Z",
+      "start_scheduled": "2026-05-11T13:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+        "name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "english_name": "Mizumiya Su",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
