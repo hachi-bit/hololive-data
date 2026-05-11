@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778501601,
+  "cached_at": 1778501661,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "9mRwBLqQRsA",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-11T09:00:49.000Z",
       "start_scheduled": "2026-05-11T09:00:00.000Z",
       "start_actual": "2026-05-11T09:00:49.000Z",
-      "live_viewers": 4289,
+      "live_viewers": 4563,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-11T09:54:52.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T09:54:52.000Z",
-      "live_viewers": 1049,
+      "live_viewers": 1025,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-11T09:58:17.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T09:58:17.000Z",
-      "live_viewers": 6051,
+      "live_viewers": 6176,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-11T10:00:47.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T10:00:47.000Z",
-      "live_viewers": 2724,
+      "live_viewers": 2827,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-11T10:00:57.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T10:00:57.000Z",
-      "live_viewers": 1982,
+      "live_viewers": 2010,
       "channel": {
         "id": "UC7_MFM9b8hp5kuTSpa8WyOQ",
         "name": "栞葉るり / Shioriha Ruri【にじさんじ】",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-11T10:04:47.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T10:04:47.000Z",
-      "live_viewers": 25784,
+      "live_viewers": 26165,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-11T10:34:09.000Z",
       "start_scheduled": "2026-05-11T12:00:00.000Z",
       "start_actual": "2026-05-11T10:34:09.000Z",
-      "live_viewers": 174,
+      "live_viewers": 188,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-11T10:59:21.000Z",
       "start_scheduled": "2026-05-11T11:00:00.000Z",
       "start_actual": "2026-05-11T10:59:21.000Z",
-      "live_viewers": 252,
+      "live_viewers": 235,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -219,26 +219,6 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1suqwovbL1kzsoaZgFZLKg": {
-      "video_id": "NigsJ967r0U",
-      "title": "【お披露目】お家3Dお披露目📣配信復活します! 【ホロライブ/癒月ちょこ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "3D_Stream",
-      "published_at": "2026-05-10T23:39:25.000Z",
-      "available_at": "2026-05-11T10:59:59.000Z",
-      "start_scheduled": "2026-05-11T11:00:00.000Z",
-      "start_actual": "2026-05-11T10:59:59.000Z",
-      "live_viewers": 6827,
-      "channel": {
-        "id": "UC1suqwovbL1kzsoaZgFZLKg",
-        "name": "Choco Ch. 癒月ちょこ",
-        "english_name": "Yuzuki Choco",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1DCedRgGHBdm81E1llLhOQ": {
@@ -251,7 +231,7 @@
       "available_at": "2026-05-11T11:00:29.000Z",
       "start_scheduled": "2026-05-11T11:00:00.000Z",
       "start_actual": "2026-05-11T11:00:29.000Z",
-      "live_viewers": 22531,
+      "live_viewers": 22943,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -270,7 +250,7 @@
       "published_at": "2026-03-31T23:20:41.000Z",
       "available_at": "2026-05-11T11:31:11.000Z",
       "start_actual": "2026-05-11T11:31:11.000Z",
-      "live_viewers": 5716,
+      "live_viewers": 6326,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
