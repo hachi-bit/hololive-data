@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778511802,
+  "cached_at": 1778511861,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "p55b4lDeTyI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-11T09:25:18.000Z",
       "start_scheduled": "2026-05-11T09:30:00.000Z",
       "start_actual": "2026-05-11T09:25:18.000Z",
-      "live_viewers": 488,
+      "live_viewers": 496,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -123,7 +123,7 @@
     },
     "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
       "video_id": "dnvpookg3cs",
-      "title": "≪JP CHATTING≫ 久々の日本語配信!!!ホロJPです!!!!",
+      "title": "≪JP CHATTING≫ 久々の日本語配信！！！ホロJPです！！！！",
       "type": "stream",
       "status": "live",
       "topic_id": "Japanese_Only",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-11T13:59:56.000Z",
       "start_scheduled": "2026-05-11T14:00:00.000Z",
       "start_actual": "2026-05-11T13:59:56.000Z",
-      "live_viewers": 13096,
+      "live_viewers": 12844,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-11T13:59:59.000Z",
       "start_scheduled": "2026-05-11T14:00:00.000Z",
       "start_actual": "2026-05-11T13:59:59.000Z",
-      "live_viewers": 5399,
+      "live_viewers": 5201,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -311,7 +311,7 @@
       "available_at": "2026-05-11T14:03:39.000Z",
       "start_scheduled": "2026-05-11T14:00:00.000Z",
       "start_actual": "2026-05-11T14:03:39.000Z",
-      "live_viewers": 3592,
+      "live_viewers": 3654,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -411,7 +411,7 @@
       "available_at": "2026-05-11T14:45:09.000Z",
       "start_scheduled": "2026-05-11T14:40:00.000Z",
       "start_actual": "2026-05-11T14:45:09.000Z",
-      "live_viewers": 2352,
+      "live_viewers": 2473,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
