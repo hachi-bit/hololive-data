@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778508080,
+  "cached_at": 1778508143,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "p55b4lDeTyI",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-11T10:00:47.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T10:00:47.000Z",
-      "live_viewers": 2711,
+      "live_viewers": 2622,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-11T10:00:57.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T10:00:57.000Z",
-      "live_viewers": 1860,
+      "live_viewers": 1817,
       "channel": {
         "id": "UC7_MFM9b8hp5kuTSpa8WyOQ",
         "name": "栞葉るり / Shioriha Ruri【にじさんじ】",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-11T10:34:09.000Z",
       "start_scheduled": "2026-05-11T12:00:00.000Z",
       "start_actual": "2026-05-11T10:34:09.000Z",
-      "live_viewers": 182,
+      "live_viewers": 149,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-11T10:59:21.000Z",
       "start_scheduled": "2026-05-11T11:00:00.000Z",
       "start_actual": "2026-05-11T10:59:21.000Z",
-      "live_viewers": 259,
+      "live_viewers": 252,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-11T13:00:39.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:00:39.000Z",
-      "live_viewers": 194,
+      "live_viewers": 172,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-11T13:00:51.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:00:51.000Z",
-      "live_viewers": 6225,
+      "live_viewers": 6231,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-11T13:03:38.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:03:38.000Z",
-      "live_viewers": 913,
+      "live_viewers": 962,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -311,7 +311,7 @@
       "available_at": "2026-05-11T13:31:39.000Z",
       "start_scheduled": "2026-05-11T13:30:00.000Z",
       "start_actual": "2026-05-11T13:31:39.000Z",
-      "live_viewers": 1578,
+      "live_viewers": 1647,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -331,7 +331,7 @@
       "available_at": "2026-05-11T13:32:35.000Z",
       "start_scheduled": "2026-05-11T13:30:00.000Z",
       "start_actual": "2026-05-11T13:32:35.000Z",
-      "live_viewers": 7299,
+      "live_viewers": 8299,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -339,6 +339,105 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+      "video_id": "8P1HkvKaI9U",
+      "title": "【R.E.P.O.】静かなるREPO チルってこー!! #ホロREPO 【ホロライブ/白上フブキ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-05-11T12:37:26.000Z",
+      "available_at": "2026-05-11T13:59:56.000Z",
+      "start_scheduled": "2026-05-11T14:00:00.000Z",
+      "start_actual": "2026-05-11T13:59:56.000Z",
+      "live_viewers": 1850,
+      "channel": {
+        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "name": "フブキCh。白上フブキ",
+        "english_name": "Shirakami Fubuki",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvInZx9h3jC2JzsIzoOebWg": {
+      "video_id": "WidILsQvDww",
+      "title": "【R.E.P.O.】今日のRepoはどこですか!?ここですか?!【不知火フレア/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-05-11T12:01:15.000Z",
+      "available_at": "2026-05-11T13:59:59.000Z",
+      "start_scheduled": "2026-05-11T14:00:00.000Z",
+      "start_actual": "2026-05-11T13:59:59.000Z",
+      "live_viewers": 1144,
+      "channel": {
+        "id": "UCvInZx9h3jC2JzsIzoOebWg",
+        "name": "Flare Ch. 不知火フレア",
+        "english_name": "Shiranui Flare",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCl69AEx4MdqMZH7Jtsm7Tig": {
+      "video_id": "cSHjgCKvGNs",
+      "title": "【BIRTHDAY STREAM】After Party & Bday Celebration!!! #RaoraBday2026",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Birthday",
+      "published_at": "2026-05-10T03:12:09.000Z",
+      "available_at": "2026-05-11T14:00:00.000Z",
+      "start_scheduled": "2026-05-11T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
+        "name": "Raora Panthera Ch. hololive-EN",
+        "english_name": "Raora Panthera",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChAnqc_AY5_I3Px5dig3X1Q": {
+      "video_id": "rG-LsHPgiRU",
+      "title": "【#ホロREPO】ころね支店【二夜連続放送】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-05-11T13:10:58.000Z",
+      "available_at": "2026-05-11T14:00:05.000Z",
+      "start_scheduled": "2026-05-11T14:00:00.000Z",
+      "start_actual": "2026-05-11T14:00:05.000Z",
+      "live_viewers": 4248,
+      "channel": {
+        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
+        "name": "Korone Ch. 戌神ころね",
+        "english_name": "Inugami Korone",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "eRl_c5jkWJs",
+      "title": "【 R.E.P.O. 】静かに…!先輩についていく!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-05-11T13:20:33.000Z",
+      "available_at": "2026-05-11T14:00:06.000Z",
+      "start_scheduled": "2026-05-11T14:00:00.000Z",
+      "start_actual": "2026-05-11T14:00:06.000Z",
+      "live_viewers": 1773,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
