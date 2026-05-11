@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778498901,
+  "cached_at": 1778498960,
   "lives": {
-    "UC1uv2Oq6kNxgATlCiez59hw": {
-      "video_id": "HA6UdDAKN_E",
-      "title": "【 ぷちホロの村 】#4 サムネはあとでにする村【常闇トワ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-11T06:41:14.000Z",
-      "available_at": "2026-05-11T06:48:04.000Z",
-      "start_scheduled": "2026-05-11T06:40:00.000Z",
-      "start_actual": "2026-05-11T06:48:04.000Z",
-      "live_viewers": 3306,
-      "channel": {
-        "id": "UC1uv2Oq6kNxgATlCiez59hw",
-        "name": "Towa Ch. 常闇トワ",
-        "english_name": "Tokoyami Towa",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "9mRwBLqQRsA",
       "title": "【ぷちホロの村 - 剣とお店と田舎暮らし】伝説の農婦のクワを求めて…!!!!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-11T09:00:49.000Z",
       "start_scheduled": "2026-05-11T09:00:00.000Z",
       "start_actual": "2026-05-11T09:00:49.000Z",
-      "live_viewers": 4161,
+      "live_viewers": 4280,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-11T09:25:18.000Z",
       "start_scheduled": "2026-05-11T09:30:00.000Z",
       "start_actual": "2026-05-11T09:25:18.000Z",
-      "live_viewers": 262,
+      "live_viewers": 264,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-11T09:54:52.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T09:54:52.000Z",
-      "live_viewers": 1080,
+      "live_viewers": 1058,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-11T09:58:17.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T09:58:17.000Z",
-      "live_viewers": 6389,
+      "live_viewers": 6353,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-11T10:34:09.000Z",
       "start_scheduled": "2026-05-11T12:00:00.000Z",
       "start_actual": "2026-05-11T10:34:09.000Z",
-      "live_viewers": 148,
+      "live_viewers": 163,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-11T10:59:21.000Z",
       "start_scheduled": "2026-05-11T11:00:00.000Z",
       "start_actual": "2026-05-11T10:59:21.000Z",
-      "live_viewers": 172,
+      "live_viewers": 183,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-11T10:59:59.000Z",
       "start_scheduled": "2026-05-11T11:00:00.000Z",
       "start_actual": "2026-05-11T10:59:59.000Z",
-      "live_viewers": 7917,
+      "live_viewers": 7846,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-11T11:00:29.000Z",
       "start_scheduled": "2026-05-11T11:00:00.000Z",
       "start_actual": "2026-05-11T11:00:29.000Z",
-      "live_viewers": 20784,
+      "live_viewers": 21219,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-11T11:00:57.000Z",
       "start_scheduled": "2026-05-11T11:00:00.000Z",
       "start_actual": "2026-05-11T11:00:57.000Z",
-      "live_viewers": 5551,
+      "live_viewers": 5756,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
