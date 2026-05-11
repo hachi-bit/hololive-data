@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778510781,
+  "cached_at": 1778510839,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "p55b4lDeTyI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-11T09:25:18.000Z",
       "start_scheduled": "2026-05-11T09:30:00.000Z",
       "start_actual": "2026-05-11T09:25:18.000Z",
-      "live_viewers": 450,
+      "live_viewers": 451,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-11T09:58:17.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T09:58:17.000Z",
-      "live_viewers": 7060,
+      "live_viewers": 7244,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-11T10:59:21.000Z",
       "start_scheduled": "2026-05-11T11:00:00.000Z",
       "start_actual": "2026-05-11T10:59:21.000Z",
-      "live_viewers": 258,
+      "live_viewers": 276,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -81,26 +81,6 @@
         "photo": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdyqAaZDKHXg4Ahi7VENThQ": {
-      "video_id": "uMKirXmm2cU",
-      "title": "【メンバー限定/ASMR】いちゃいちゃ...いちゃしよ💗【白銀ノエル/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-09T11:44:52.000Z",
-      "available_at": "2026-05-11T13:00:36.000Z",
-      "start_scheduled": "2026-05-11T13:00:00.000Z",
-      "start_actual": "2026-05-11T13:00:36.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-        "name": "Noel Ch. 白銀ノエル",
-        "english_name": "Shirogane Noel",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
       "video_id": "NuUr5GbWYhw",
       "title": "【 Slay the Spire 2】サイレントでクリアしたい #4【荒咬オウガ /ホロスターズ】",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-11T13:00:39.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:00:39.000Z",
-      "live_viewers": 204,
+      "live_viewers": 205,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-11T13:01:19.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:01:19.000Z",
-      "live_viewers": 7317,
+      "live_viewers": 6680,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-11T13:03:38.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:03:38.000Z",
-      "live_viewers": 910,
+      "live_viewers": 872,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-11T13:32:35.000Z",
       "start_scheduled": "2026-05-11T13:30:00.000Z",
       "start_actual": "2026-05-11T13:32:35.000Z",
-      "live_viewers": 10312,
+      "live_viewers": 10362,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-11T13:59:56.000Z",
       "start_scheduled": "2026-05-11T14:00:00.000Z",
       "start_actual": "2026-05-11T13:59:56.000Z",
-      "live_viewers": 12912,
+      "live_viewers": 12919,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-11T14:00:05.000Z",
       "start_scheduled": "2026-05-11T14:00:00.000Z",
       "start_actual": "2026-05-11T14:00:05.000Z",
-      "live_viewers": 20235,
+      "live_viewers": 20444,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-11T14:00:06.000Z",
       "start_scheduled": "2026-05-11T14:00:00.000Z",
       "start_actual": "2026-05-11T14:00:06.000Z",
-      "live_viewers": 8142,
+      "live_viewers": 8070,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -351,7 +331,7 @@
       "available_at": "2026-05-11T14:12:10.000Z",
       "start_scheduled": "2026-05-11T14:30:00.000Z",
       "start_actual": "2026-05-11T14:12:10.000Z",
-      "live_viewers": 7467,
+      "live_viewers": 7677,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -371,7 +351,7 @@
       "available_at": "2026-05-11T14:30:31.000Z",
       "start_scheduled": "2026-05-11T14:30:00.000Z",
       "start_actual": "2026-05-11T14:30:31.000Z",
-      "live_viewers": 384,
+      "live_viewers": 422,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -391,7 +371,7 @@
       "available_at": "2026-05-11T14:38:43.000Z",
       "start_scheduled": "2026-05-11T14:30:00.000Z",
       "start_actual": "2026-05-11T14:38:43.000Z",
-      "live_viewers": 115,
+      "live_viewers": 127,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -411,7 +391,7 @@
       "available_at": "2026-05-11T14:39:05.000Z",
       "start_scheduled": "2026-05-11T14:45:00.000Z",
       "start_actual": "2026-05-11T14:39:05.000Z",
-      "live_viewers": 108,
+      "live_viewers": 152,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
