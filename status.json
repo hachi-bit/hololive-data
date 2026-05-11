@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778506762,
+  "cached_at": 1778506823,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "p55b4lDeTyI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-11T09:25:18.000Z",
       "start_scheduled": "2026-05-11T09:30:00.000Z",
       "start_actual": "2026-05-11T09:25:18.000Z",
-      "live_viewers": 429,
+      "live_viewers": 472,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-11T10:00:47.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T10:00:47.000Z",
-      "live_viewers": 2928,
+      "live_viewers": 2777,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-11T10:01:40.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T10:01:40.000Z",
-      "live_viewers": 182,
+      "live_viewers": 185,
       "channel": {
         "id": "UCEoAD_2jSLoYQd2MJZxWuxQ",
         "name": "北白川かかぽ / Kakapo Kitashirakawa",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-11T10:34:09.000Z",
       "start_scheduled": "2026-05-11T12:00:00.000Z",
       "start_actual": "2026-05-11T10:34:09.000Z",
-      "live_viewers": 216,
+      "live_viewers": 228,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-11T11:02:59.000Z",
       "start_scheduled": "2026-05-11T11:00:00.000Z",
       "start_actual": "2026-05-11T11:02:59.000Z",
-      "live_viewers": 1151,
+      "live_viewers": 1181,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -159,26 +159,6 @@
         "org": "Neo-Porte",
         "suborg": "0k5th Generation",
         "photo": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp-5t9SrOQwXMU7iIjQfARg": {
-      "video_id": "pQDceiet9Bc",
-      "title": "【歌枠】うたうみぉーー-------ん!【 ホロライブ / 大神ミオ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-05-11T12:09:02.000Z",
-      "available_at": "2026-05-11T12:16:51.000Z",
-      "start_scheduled": "2026-05-11T12:15:00.000Z",
-      "start_actual": "2026-05-11T12:16:51.000Z",
-      "live_viewers": 13994,
-      "channel": {
-        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-        "name": "Mio Channel 大神ミオ",
-        "english_name": "Ookami Mio",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
@@ -231,7 +211,7 @@
       "available_at": "2026-05-11T13:00:51.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:00:51.000Z",
-      "live_viewers": 6386,
+      "live_viewers": 6329,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-11T13:01:19.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:01:19.000Z",
-      "live_viewers": 7711,
+      "live_viewers": 8258,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-11T13:03:38.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:03:38.000Z",
-      "live_viewers": 864,
+      "live_viewers": 841,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-11T13:04:35.000Z",
       "start_scheduled": "2026-05-11T13:00:00.000Z",
       "start_actual": "2026-05-11T13:04:35.000Z",
-      "live_viewers": 431,
+      "live_viewers": 453,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-11T13:31:39.000Z",
       "start_scheduled": "2026-05-11T13:30:00.000Z",
       "start_actual": "2026-05-11T13:31:39.000Z",
-      "live_viewers": 778,
+      "live_viewers": 976,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -351,7 +331,7 @@
       "available_at": "2026-05-11T13:32:35.000Z",
       "start_scheduled": "2026-05-11T13:30:00.000Z",
       "start_actual": "2026-05-11T13:32:35.000Z",
-      "live_viewers": 3063,
+      "live_viewers": 4403,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
