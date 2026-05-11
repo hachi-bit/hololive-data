@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778472141,
+  "cached_at": 1778472201,
   "lives": {
-    "UC7gxU6NXjKF1LrgOddPzgTw": {
-      "video_id": "uH_Qz48nt_U",
-      "title": "IT'S TIME FOR THE GREAT HAKKITO GIVEAWAY 🐦‍⬛✨ IT'S TIME TO ‼️SPIN‼️ THAT ‼️WHEEL‼️",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-10T15:28:13.000Z",
-      "available_at": "2026-05-11T00:21:43.000Z",
-      "start_scheduled": "2026-05-11T00:15:00.000Z",
-      "start_actual": "2026-05-11T00:21:43.000Z",
-      "live_viewers": 1083,
-      "channel": {
-        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-        "english_name": "Banzoin Hakka",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCmbs8T6MWqUHP1tIQvSgKrg": {
       "video_id": "67twAQzmlBg",
       "title": "【Members Only】 Leaf It Alone",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-11T02:58:37.000Z",
       "start_scheduled": "2026-05-11T03:00:00.000Z",
       "start_actual": "2026-05-11T02:58:37.000Z",
-      "live_viewers": 4689,
+      "live_viewers": 4246,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
@@ -79,6 +59,26 @@
         "org": "Hololive",
         "suborg": "0hOfficial",
         "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCANDOlYTJT7N5jlRC3zfzVA": {
+      "video_id": "FHqcnUr0Icg",
+      "title": "【P5R】初見で挑む『ペルソナ5 ザ・ロイヤル』 12日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Persona",
+      "published_at": "2026-05-10T10:47:48.000Z",
+      "available_at": "2026-05-11T04:00:10.000Z",
+      "start_scheduled": "2026-05-11T04:00:00.000Z",
+      "start_actual": "2026-05-11T04:00:10.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+        "name": "Roberu Ch. 夕刻ロベル",
+        "english_name": "Yukoku Roberu",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
