@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778490500,
+  "cached_at": 1778490559,
   "lives": {
     "UCmbs8T6MWqUHP1tIQvSgKrg": {
       "video_id": "67twAQzmlBg",
@@ -61,25 +61,6 @@
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCENwRMx5Yh42zWpzURebzTw": {
-      "video_id": "dBzPcy1DqzU",
-      "title": "【雑談】本当にいろいろあったから話そうぜ~~~~~^^【ラプラス・ダークネス/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-10T15:54:51.000Z",
-      "available_at": "2026-05-11T08:00:00.000Z",
-      "start_scheduled": "2026-05-11T08:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCENwRMx5Yh42zWpzURebzTw",
-        "name": "Laplus ch. ラプラス・ダークネス - holoX -",
-        "english_name": "La+ Darknesss",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "eCsndzM6I_s",
       "title": "【T3 MEMBERSHIP】UNARCHIVED SINGING PRACTICE (Not a Karaoke)",
@@ -110,7 +91,7 @@
       "available_at": "2026-05-11T08:59:42.000Z",
       "start_scheduled": "2026-05-11T09:00:00.000Z",
       "start_actual": "2026-05-11T08:59:42.000Z",
-      "live_viewers": 4059,
+      "live_viewers": 5363,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -130,7 +111,7 @@
       "available_at": "2026-05-11T09:00:49.000Z",
       "start_scheduled": "2026-05-11T09:00:00.000Z",
       "start_actual": "2026-05-11T09:00:49.000Z",
-      "live_viewers": 1622,
+      "live_viewers": 2224,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -138,6 +119,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCENwRMx5Yh42zWpzURebzTw": {
+      "video_id": "dBzPcy1DqzU",
+      "title": "【雑談】本当にいろいろあったから話そうぜ~~~~~^^【ラプラス・ダークネス/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-10T15:54:51.000Z",
+      "available_at": "2026-05-11T09:06:11.000Z",
+      "start_scheduled": "2026-05-11T08:00:00.000Z",
+      "start_actual": "2026-05-11T09:06:11.000Z",
+      "live_viewers": 4677,
+      "channel": {
+        "id": "UCENwRMx5Yh42zWpzURebzTw",
+        "name": "Laplus ch. ラプラス・ダークネス - holoX -",
+        "english_name": "La+ Darknesss",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
