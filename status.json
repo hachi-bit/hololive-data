@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778493440,
+  "cached_at": 1778493501,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "FHqcnUr0Icg",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-11T04:00:39.000Z",
       "start_scheduled": "2026-05-11T04:00:00.000Z",
       "start_actual": "2026-05-11T04:00:39.000Z",
-      "live_viewers": 2614,
+      "live_viewers": 2631,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-11T06:48:04.000Z",
       "start_scheduled": "2026-05-11T06:40:00.000Z",
       "start_actual": "2026-05-11T06:48:04.000Z",
-      "live_viewers": 7035,
+      "live_viewers": 6989,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCTVSOgYuSWmNAt-lnJPkEEw": {
-      "video_id": "eCsndzM6I_s",
-      "title": "【T3 MEMBERSHIP】UNARCHIVED SINGING PRACTICE (Not a Karaoke)",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-06T10:24:12.000Z",
-      "available_at": "2026-05-11T08:02:53.000Z",
-      "start_scheduled": "2026-05-11T08:00:00.000Z",
-      "start_actual": "2026-05-11T08:02:53.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
-        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
-        "english_name": "Jurard T Rexford",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
@@ -91,7 +71,7 @@
       "available_at": "2026-05-11T09:00:49.000Z",
       "start_scheduled": "2026-05-11T09:00:00.000Z",
       "start_actual": "2026-05-11T09:00:49.000Z",
-      "live_viewers": 4708,
+      "live_viewers": 4816,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-11T09:06:11.000Z",
       "start_scheduled": "2026-05-11T08:00:00.000Z",
       "start_actual": "2026-05-11T09:06:11.000Z",
-      "live_viewers": 15979,
+      "live_viewers": 16036,
       "channel": {
         "id": "UCENwRMx5Yh42zWpzURebzTw",
         "name": "Laplus ch. ラプラス・ダークネス - holoX -",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-11T09:25:18.000Z",
       "start_scheduled": "2026-05-11T09:30:00.000Z",
       "start_actual": "2026-05-11T09:25:18.000Z",
-      "live_viewers": 271,
+      "live_viewers": 283,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -139,6 +119,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKeAhJvy8zgXWbh9duVjIaQ": {
+      "video_id": "F9hSASA70Kk",
+      "title": "【雑談】暇【アルランディス/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-11T07:29:53.000Z",
+      "available_at": "2026-05-11T09:54:52.000Z",
+      "start_scheduled": "2026-05-11T10:00:00.000Z",
+      "start_actual": "2026-05-11T09:54:52.000Z",
+      "live_viewers": 187,
+      "channel": {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "english_name": "Arurandeisu",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
