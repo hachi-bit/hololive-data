@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778491821,
+  "cached_at": 1778491882,
   "lives": {
-    "UCmbs8T6MWqUHP1tIQvSgKrg": {
-      "video_id": "67twAQzmlBg",
-      "title": "【Members Only】 Leaf It Alone",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-10T23:39:47.000Z",
-      "available_at": "2026-05-11T01:03:59.000Z",
-      "start_scheduled": "2026-05-11T01:00:00.000Z",
-      "start_actual": "2026-05-11T01:03:59.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
-        "name": "Ouro Kronii Ch. hololive-EN",
-        "english_name": "Ouro Kronii",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "FHqcnUr0Icg",
       "title": "【P5R】初見で挑む『ペルソナ5 ザ・ロイヤル』 12日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-11T08:59:42.000Z",
       "start_scheduled": "2026-05-11T09:00:00.000Z",
       "start_actual": "2026-05-11T08:59:42.000Z",
-      "live_viewers": 7382,
+      "live_viewers": 7576,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-11T09:00:49.000Z",
       "start_scheduled": "2026-05-11T09:00:00.000Z",
       "start_actual": "2026-05-11T09:00:49.000Z",
-      "live_viewers": 3654,
+      "live_viewers": 3831,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-11T09:06:11.000Z",
       "start_scheduled": "2026-05-11T08:00:00.000Z",
       "start_actual": "2026-05-11T09:06:11.000Z",
-      "live_viewers": 16351,
+      "live_viewers": 15883,
       "channel": {
         "id": "UCENwRMx5Yh42zWpzURebzTw",
         "name": "Laplus ch. ラプラス・ダークネス - holoX -",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-11T09:25:18.000Z",
       "start_scheduled": "2026-05-11T09:30:00.000Z",
       "start_actual": "2026-05-11T09:25:18.000Z",
-      "live_viewers": 42,
+      "live_viewers": 128,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
