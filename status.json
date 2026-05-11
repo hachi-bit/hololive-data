@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778497159,
+  "cached_at": 1778497222,
   "lives": {
     "UC1uv2Oq6kNxgATlCiez59hw": {
       "video_id": "HA6UdDAKN_E",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-11T09:54:52.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T09:54:52.000Z",
-      "live_viewers": 992,
+      "live_viewers": 1000,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-11T09:59:31.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T09:59:31.000Z",
-      "live_viewers": 919,
+      "live_viewers": 921,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvaTdHTWBGv3MKj3KVqJVCw": {
-      "video_id": "r3ipXG7UU5M",
-      "title": "【 💥ワンワンバトル 】ゲマズの猫代表として─────【 猫又おかゆ/ホロライブ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Bow-wow_Battle",
-      "published_at": "2026-05-10T16:47:43.000Z",
-      "available_at": "2026-05-11T10:00:38.000Z",
-      "start_scheduled": "2026-05-11T10:00:00.000Z",
-      "start_actual": "2026-05-11T10:00:38.000Z",
-      "live_viewers": 6589,
-      "channel": {
-        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-        "name": "Okayu Ch. 猫又おかゆ",
-        "english_name": "Nekomata Okayu",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdXAk5MpyLD8594lm_OvtGQ": {
@@ -151,7 +131,7 @@
       "available_at": "2026-05-11T10:00:47.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T10:00:47.000Z",
-      "live_viewers": 2569,
+      "live_viewers": 2600,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-11T10:04:47.000Z",
       "start_scheduled": "2026-05-11T10:00:00.000Z",
       "start_actual": "2026-05-11T10:04:47.000Z",
-      "live_viewers": 20301,
+      "live_viewers": 20947,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-11T10:34:09.000Z",
       "start_scheduled": "2026-05-11T12:00:00.000Z",
       "start_actual": "2026-05-11T10:34:09.000Z",
-      "live_viewers": 126,
+      "live_viewers": 137,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
