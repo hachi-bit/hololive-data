@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778491641,
+  "cached_at": 1778491701,
   "lives": {
     "UCmbs8T6MWqUHP1tIQvSgKrg": {
       "video_id": "67twAQzmlBg",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-11T04:00:39.000Z",
       "start_scheduled": "2026-05-11T04:00:00.000Z",
       "start_actual": "2026-05-11T04:00:39.000Z",
-      "live_viewers": 2636,
+      "live_viewers": 2629,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-11T06:48:04.000Z",
       "start_scheduled": "2026-05-11T06:40:00.000Z",
       "start_actual": "2026-05-11T06:48:04.000Z",
-      "live_viewers": 7176,
+      "live_viewers": 7033,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-11T09:00:49.000Z",
       "start_scheduled": "2026-05-11T09:00:00.000Z",
       "start_actual": "2026-05-11T09:00:49.000Z",
-      "live_viewers": 3550,
+      "live_viewers": 3654,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-11T09:06:11.000Z",
       "start_scheduled": "2026-05-11T08:00:00.000Z",
       "start_actual": "2026-05-11T09:06:11.000Z",
-      "live_viewers": 15275,
+      "live_viewers": 16351,
       "channel": {
         "id": "UCENwRMx5Yh42zWpzURebzTw",
         "name": "Laplus ch. ラプラス・ダークネス - holoX -",
@@ -139,6 +139,26 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "p55b4lDeTyI",
+      "title": "【LoL】土下座する人生なんてないわけ / アステル",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-05-11T09:13:38.000Z",
+      "available_at": "2026-05-11T09:25:18.000Z",
+      "start_scheduled": "2026-05-11T09:30:00.000Z",
+      "start_actual": "2026-05-11T09:25:18.000Z",
+      "live_viewers": 42,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
