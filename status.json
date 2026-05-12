@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778573359,
+  "cached_at": 1778573421,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "pl0xXJxcLCI",
@@ -68,9 +68,10 @@
       "status": "live",
       "topic_id": "League_of_Legends",
       "published_at": "2026-05-12T07:19:04.000Z",
-      "available_at": "2026-05-12T08:00:00.000Z",
+      "available_at": "2026-05-12T08:06:31.000Z",
       "start_scheduled": "2026-05-12T08:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-12T08:06:31.000Z",
+      "live_viewers": 62,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
