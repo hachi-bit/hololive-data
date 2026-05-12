@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778597601,
+  "cached_at": 1778597661,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "_5jU9xVTK-8",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-12T12:02:46.000Z",
       "start_scheduled": "2026-05-12T12:00:00.000Z",
       "start_actual": "2026-05-12T12:02:46.000Z",
-      "live_viewers": 21524,
+      "live_viewers": 21126,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-12T12:30:13.000Z",
       "start_scheduled": "2026-05-12T12:30:00.000Z",
       "start_actual": "2026-05-12T12:30:13.000Z",
-      "live_viewers": 4770,
+      "live_viewers": 5066,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-12T13:00:03.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:00:03.000Z",
-      "live_viewers": 636,
+      "live_viewers": 670,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-12T13:00:14.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:00:14.000Z",
-      "live_viewers": 3008,
+      "live_viewers": 2881,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -139,26 +139,6 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCWQtYtq9EOB4-I5P-3fh8lA": {
-      "video_id": "q3z7UNiPYXc",
-      "title": "【Stray】迷子の猫になりました【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Stray",
-      "published_at": "2026-05-12T11:45:51.000Z",
-      "available_at": "2026-05-12T13:00:49.000Z",
-      "start_scheduled": "2026-05-12T13:00:00.000Z",
-      "start_actual": "2026-05-12T13:00:49.000Z",
-      "live_viewers": 3509,
-      "channel": {
-        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-        "english_name": "Otonose Kanade",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC0TXe_LYZ4scaW2XMyi5_kw": {
@@ -251,7 +231,7 @@
       "available_at": "2026-05-12T14:00:02.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T14:00:02.000Z",
-      "live_viewers": 12192,
+      "live_viewers": 12343,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-12T14:00:03.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T14:00:03.000Z",
-      "live_viewers": 2094,
+      "live_viewers": 2166,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-12T14:00:09.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T14:00:09.000Z",
-      "live_viewers": 19770,
+      "live_viewers": 20141,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
