@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778558481,
+  "cached_at": 1778558544,
   "lives": {
     "UCmbs8T6MWqUHP1tIQvSgKrg": {
       "video_id": "2cDMOEDUdIg",
@@ -39,6 +39,26 @@
         "org": "Hololive",
         "suborg": "iaEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCL_qhgtOy0dy1Agp8vkySQg": {
+      "video_id": "E7bP1EFoHh4",
+      "title": "hello real quick",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-12T03:40:00.000Z",
+      "available_at": "2026-05-12T03:59:58.000Z",
+      "start_scheduled": "2026-05-12T04:00:00.000Z",
+      "start_actual": "2026-05-12T03:59:58.000Z",
+      "live_viewers": 2198,
+      "channel": {
+        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+        "name": "Mori Calliope Ch. hololive-EN",
+        "english_name": "Mori Calliope",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
