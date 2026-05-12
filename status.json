@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778598621,
+  "cached_at": 1778598681,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "_5jU9xVTK-8",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-12T12:02:46.000Z",
       "start_scheduled": "2026-05-12T12:00:00.000Z",
       "start_actual": "2026-05-12T12:02:46.000Z",
-      "live_viewers": 20796,
+      "live_viewers": 20166,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-12T13:00:14.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:00:14.000Z",
-      "live_viewers": 2636,
+      "live_viewers": 2620,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -139,26 +139,6 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC0TXe_LYZ4scaW2XMyi5_kw": {
-      "video_id": "3ri2_FG67uY",
-      "title": "【GeoGuessr】1分ジオゲッサー!京王電鉄の駅をゲス!【ホロライブ / AZKi】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "GeoGuessr",
-      "published_at": "2026-05-12T09:32:12.000Z",
-      "available_at": "2026-05-12T13:01:38.000Z",
-      "start_scheduled": "2026-05-12T13:00:00.000Z",
-      "start_actual": "2026-05-12T13:01:38.000Z",
-      "live_viewers": 5248,
-      "channel": {
-        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-        "name": "AZKi Channel",
-        "english_name": "AZKi",
-        "org": "Hololive",
-        "suborg": "0z0th Generation",
-        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCmiYJycZXBGc4s_zjIRUHhQ": {
@@ -191,7 +171,7 @@
       "available_at": "2026-05-12T13:07:07.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:07:07.000Z",
-      "live_viewers": 5316,
+      "live_viewers": 5267,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-12T14:00:02.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T14:00:02.000Z",
-      "live_viewers": 12398,
+      "live_viewers": 12618,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-12T14:00:03.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T14:00:03.000Z",
-      "live_viewers": 2272,
+      "live_viewers": 2234,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-12T14:00:07.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T14:00:07.000Z",
-      "live_viewers": 8198,
+      "live_viewers": 8255,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-12T14:00:09.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T14:00:09.000Z",
-      "live_viewers": 19986,
+      "live_viewers": 20323,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
