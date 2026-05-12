@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778580019,
+  "cached_at": 1778580081,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "pl0xXJxcLCI",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-12T09:02:29.000Z",
       "start_scheduled": "2026-05-12T09:00:00.000Z",
       "start_actual": "2026-05-12T09:02:29.000Z",
-      "live_viewers": 7740,
+      "live_viewers": 8056,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-12T09:03:53.000Z",
       "start_scheduled": "2026-05-12T09:00:00.000Z",
       "start_actual": "2026-05-12T09:03:53.000Z",
-      "live_viewers": 4848,
+      "live_viewers": 4909,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -139,6 +139,26 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCa9Y57gfeY0Zro_noHRVrnw": {
+      "video_id": "I7Vqz_jLzX4",
+      "title": "【 Dread Flats (悪意) | ホラゲ 】こりは怖くてダメかもしれない…👻安アパートに引っ越したら何か視線を感じるのら!!!【姫森ルーナ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dread_Flats",
+      "published_at": "2026-05-11T15:49:39.000Z",
+      "available_at": "2026-05-12T09:58:18.000Z",
+      "start_scheduled": "2026-05-12T10:00:00.000Z",
+      "start_actual": "2026-05-12T09:58:18.000Z",
+      "live_viewers": 1042,
+      "channel": {
+        "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+        "name": "Luna Ch. 姫森ルーナ",
+        "english_name": "Himemori Luna",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
