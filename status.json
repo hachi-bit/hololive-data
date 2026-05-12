@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778582061,
+  "cached_at": 1778582122,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "pl0xXJxcLCI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-12T06:26:28.000Z",
       "start_scheduled": "2026-05-12T06:30:00.000Z",
       "start_actual": "2026-05-12T06:26:28.000Z",
-      "live_viewers": 2550,
+      "live_viewers": 2602,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-12T08:06:31.000Z",
       "start_scheduled": "2026-05-12T08:00:00.000Z",
       "start_actual": "2026-05-12T08:06:31.000Z",
-      "live_viewers": 182,
+      "live_viewers": 177,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1uv2Oq6kNxgATlCiez59hw": {
-      "video_id": "0O0iQ8_hKBo",
-      "title": "【 オーバーウォッチ 】 非常に嬉しいです。 #ししトワ【 常闇トワ/ホロライブ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Overwatch",
-      "published_at": "2026-05-12T01:58:40.000Z",
-      "available_at": "2026-05-12T09:03:53.000Z",
-      "start_scheduled": "2026-05-12T09:00:00.000Z",
-      "start_actual": "2026-05-12T09:03:53.000Z",
-      "live_viewers": 4929,
-      "channel": {
-        "id": "UC1uv2Oq6kNxgATlCiez59hw",
-        "name": "Towa Ch. 常闇トワ",
-        "english_name": "Tokoyami Towa",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCa9Y57gfeY0Zro_noHRVrnw": {
@@ -151,7 +131,7 @@
       "available_at": "2026-05-12T10:00:54.000Z",
       "start_scheduled": "2026-05-12T10:00:00.000Z",
       "start_actual": "2026-05-12T10:00:54.000Z",
-      "live_viewers": 5584,
+      "live_viewers": 5236,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
