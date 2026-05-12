@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778609361,
+  "cached_at": 1778609421,
   "lives": {
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
       "video_id": "eRWxBJEWejs",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-12T15:20:27.000Z",
       "start_scheduled": "2026-05-12T15:00:00.000Z",
       "start_actual": "2026-05-12T15:20:27.000Z",
-      "live_viewers": 214,
+      "live_viewers": 223,
       "channel": {
         "id": "UCez5D_dtExDJzQOAzg1k1RQ",
         "name": "折咲もしゅch-Moshu Orisaki-",
@@ -39,6 +39,26 @@
         "org": "Independents",
         "suborg": "reREJECT",
         "photo": "https://yt3.ggpht.com/Go2Zwoy_FnXEEYwxhVaEvJ7yIii0bc5415GAS7tpWkX-MGVvbvYfp5a6svtSC4isPBvopLbnPA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "Zvwhk0iENMU",
+      "title": "【Tomodachi Life】pink bubbles please manifest【Pavolia Reine/hololiveID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-12T18:02:07.000Z",
+      "available_at": "2026-05-12T18:08:20.000Z",
+      "start_scheduled": "2026-05-12T18:15:00.000Z",
+      "start_actual": "2026-05-12T18:08:20.000Z",
+      "live_viewers": 62,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
