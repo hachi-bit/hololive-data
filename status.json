@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778619681,
+  "cached_at": 1778619739,
   "lives": {
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
       "video_id": "eRWxBJEWejs",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-12T15:18:10.000Z",
       "start_scheduled": "2026-05-12T15:00:00.000Z",
       "start_actual": "2026-05-12T15:18:10.000Z",
-      "live_viewers": 775,
+      "live_viewers": 773,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-12T18:08:20.000Z",
       "start_scheduled": "2026-05-12T18:15:00.000Z",
       "start_actual": "2026-05-12T18:08:20.000Z",
-      "live_viewers": 1717,
+      "live_viewers": 1716,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -79,6 +79,25 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCHP4f7G2dWD4qib7BMatGAw": {
+      "video_id": "neUtqgKEKoA",
+      "title": "I won.",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "celebration",
+      "published_at": "2026-05-11T05:24:00.000Z",
+      "available_at": "2026-05-12T21:00:00.000Z",
+      "start_scheduled": "2026-05-12T21:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCHP4f7G2dWD4qib7BMatGAw",
+        "name": "Gavis Bettel Ch. HOLOSTARS-EN",
+        "english_name": "Gavis Bettel",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
