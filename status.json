@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778591121,
+  "cached_at": 1778591181,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "bA6xLh-M7So",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-12T09:58:18.000Z",
       "start_scheduled": "2026-05-12T10:00:00.000Z",
       "start_actual": "2026-05-12T09:58:18.000Z",
-      "live_viewers": 7570,
+      "live_viewers": 7268,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-12T11:00:49.000Z",
       "start_scheduled": "2026-05-12T11:00:00.000Z",
       "start_actual": "2026-05-12T11:00:49.000Z",
-      "live_viewers": 201,
+      "live_viewers": 184,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-12T12:02:18.000Z",
       "start_scheduled": "2026-05-12T12:00:00.000Z",
       "start_actual": "2026-05-12T12:02:18.000Z",
-      "live_viewers": 1685,
+      "live_viewers": 1647,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-12T12:02:46.000Z",
       "start_scheduled": "2026-05-12T12:00:00.000Z",
       "start_actual": "2026-05-12T12:02:46.000Z",
-      "live_viewers": 24583,
+      "live_viewers": 24085,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-12T12:03:08.000Z",
       "start_scheduled": "2026-05-12T12:00:00.000Z",
       "start_actual": "2026-05-12T12:03:08.000Z",
-      "live_viewers": 37209,
+      "live_viewers": 37587,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-12T12:30:13.000Z",
       "start_scheduled": "2026-05-12T12:30:00.000Z",
       "start_actual": "2026-05-12T12:30:13.000Z",
-      "live_viewers": 4610,
+      "live_viewers": 4635,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -199,82 +199,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC0TXe_LYZ4scaW2XMyi5_kw": {
-      "video_id": "3ri2_FG67uY",
-      "title": "【GeoGuessr】1分ジオゲッサー！京王電鉄の駅をゲス！【ホロライブ / AZKi】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "GeoGuessr",
-      "published_at": "2026-05-12T09:32:12.000Z",
-      "available_at": "2026-05-12T13:00:00.000Z",
-      "start_scheduled": "2026-05-12T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-        "name": "AZKi Channel",
-        "english_name": "AZKi",
-        "org": "Hololive",
-        "suborg": "0z0th Generation",
-        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCIG9rDtgR45VCZmYnd-4DUw": {
-      "video_id": "mkaxh--MkpA",
-      "title": "【アンレールド】トワとデート♡【ラトナ・プティ/にじさんじ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Unrailed",
-      "published_at": "2026-05-12T12:22:59.000Z",
-      "available_at": "2026-05-12T13:00:00.000Z",
-      "start_scheduled": "2026-05-12T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCIG9rDtgR45VCZmYnd-4DUw",
-        "name": "ラトナ・プティ -Ratna Petit -にじさんじ所属",
-        "english_name": "Ratna Petit",
-        "org": "Nijisanji",
-        "suborg": "0wPosanke",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mX9S_nkRRv8Mk7hqcb_S4c4awLoeI0mIbZRQWMoO3ox9I=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCmiYJycZXBGc4s_zjIRUHhQ": {
-      "video_id": "tIbows766GA",
-      "title": "【R.E.P.O.】レポに魅せられた者達、 邂 逅 【春雨麗女/尾丸ポルカ #あおぎり高校 #ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-05-11T09:30:56.000Z",
-      "available_at": "2026-05-12T13:00:00.000Z",
-      "start_scheduled": "2026-05-12T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCmiYJycZXBGc4s_zjIRUHhQ",
-        "name": "うらめちゃんねる /あおぎり高校",
-        "english_name": "Harusame Urame",
-        "org": "Aogiri Highschool",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/eVVpvDOtLvpQmKxHL27warv6kkrho5sz--bsuiS8VpaISdS4aTCCSRkk5WzgOUF0dDtMJD31v7I=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCWQtYtq9EOB4-I5P-3fh8lA": {
-      "video_id": "q3z7UNiPYXc",
-      "title": "【Stray】迷子の猫になりました【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Stray",
-      "published_at": "2026-05-12T11:45:51.000Z",
-      "available_at": "2026-05-12T13:00:00.000Z",
-      "start_scheduled": "2026-05-12T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-        "english_name": "Otonose Kanade",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCl69AEx4MdqMZH7Jtsm7Tig": {
@@ -296,6 +220,25 @@
         "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCIG9rDtgR45VCZmYnd-4DUw": {
+      "video_id": "mkaxh--MkpA",
+      "title": "【アンレールド】トワとデート♡【ラトナ・プティ/にじさんじ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Unrailed",
+      "published_at": "2026-05-12T12:22:59.000Z",
+      "available_at": "2026-05-12T13:00:00.000Z",
+      "start_scheduled": "2026-05-12T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCIG9rDtgR45VCZmYnd-4DUw",
+        "name": "ラトナ・プティ -Ratna Petit -にじさんじ所属",
+        "english_name": "Ratna Petit",
+        "org": "Nijisanji",
+        "suborg": "0wPosanke",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mX9S_nkRRv8Mk7hqcb_S4c4awLoeI0mIbZRQWMoO3ox9I=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCYz_5n-uDuChHtLo7My1HnQ": {
       "video_id": "C9daauv4WVA",
       "title": "【KuloNiku: Bowl Up!】 WOULD YOU LIKE A BOWL OF BAKSO?? 【Kureiji Ollie】",
@@ -306,7 +249,7 @@
       "available_at": "2026-05-12T13:00:03.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:00:03.000Z",
-      "live_viewers": 184,
+      "live_viewers": 323,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -346,7 +289,7 @@
       "available_at": "2026-05-12T13:00:12.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:00:12.000Z",
-      "live_viewers": 814,
+      "live_viewers": 1802,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -366,7 +309,7 @@
       "available_at": "2026-05-12T13:00:14.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:00:14.000Z",
-      "live_viewers": 1651,
+      "live_viewers": 4180,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -386,7 +329,7 @@
       "available_at": "2026-05-12T13:00:29.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:00:29.000Z",
-      "live_viewers": 1825,
+      "live_viewers": 5223,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -394,6 +337,66 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCWQtYtq9EOB4-I5P-3fh8lA": {
+      "video_id": "q3z7UNiPYXc",
+      "title": "【Stray】迷子の猫になりました【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Stray",
+      "published_at": "2026-05-12T11:45:51.000Z",
+      "available_at": "2026-05-12T13:00:49.000Z",
+      "start_scheduled": "2026-05-12T13:00:00.000Z",
+      "start_actual": "2026-05-12T13:00:49.000Z",
+      "live_viewers": 2364,
+      "channel": {
+        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "english_name": "Otonose Kanade",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC0TXe_LYZ4scaW2XMyi5_kw": {
+      "video_id": "3ri2_FG67uY",
+      "title": "【GeoGuessr】1分ジオゲッサー!京王電鉄の駅をゲス!【ホロライブ / AZKi】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "GeoGuessr",
+      "published_at": "2026-05-12T09:32:12.000Z",
+      "available_at": "2026-05-12T13:01:38.000Z",
+      "start_scheduled": "2026-05-12T13:00:00.000Z",
+      "start_actual": "2026-05-12T13:01:38.000Z",
+      "live_viewers": 5109,
+      "channel": {
+        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+        "name": "AZKi Channel",
+        "english_name": "AZKi",
+        "org": "Hololive",
+        "suborg": "0z0th Generation",
+        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCmiYJycZXBGc4s_zjIRUHhQ": {
+      "video_id": "tIbows766GA",
+      "title": "【R.E.P.O.】レポに魅せられた者達、 邂 逅 【春雨麗女/尾丸ポルカ #あおぎり高校 #ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-05-11T09:30:56.000Z",
+      "available_at": "2026-05-12T13:01:58.000Z",
+      "start_scheduled": "2026-05-12T13:00:00.000Z",
+      "start_actual": "2026-05-12T13:01:58.000Z",
+      "live_viewers": 853,
+      "channel": {
+        "id": "UCmiYJycZXBGc4s_zjIRUHhQ",
+        "name": "うらめちゃんねる /あおぎり高校",
+        "english_name": "Harusame Urame",
+        "org": "Aogiri Highschool",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/eVVpvDOtLvpQmKxHL27warv6kkrho5sz--bsuiS8VpaISdS4aTCCSRkk5WzgOUF0dDtMJD31v7I=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
