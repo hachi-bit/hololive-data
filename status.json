@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778602399,
+  "cached_at": 1778602461,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "_5jU9xVTK-8",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-12T13:00:14.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:00:14.000Z",
-      "live_viewers": 2325,
+      "live_viewers": 2273,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-12T13:01:58.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:01:58.000Z",
-      "live_viewers": 699,
+      "live_viewers": 718,
       "channel": {
         "id": "UCmiYJycZXBGc4s_zjIRUHhQ",
         "name": "うらめちゃんねる /あおぎり高校",
@@ -99,26 +99,6 @@
         "org": "Aogiri Highschool",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/eVVpvDOtLvpQmKxHL27warv6kkrho5sz--bsuiS8VpaISdS4aTCCSRkk5WzgOUF0dDtMJD31v7I=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCl69AEx4MdqMZH7Jtsm7Tig": {
-      "video_id": "wsWQ3NBokRM",
-      "title": "【DRAWING】Golden Week more like Golden Month hehehe~",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "drawing",
-      "published_at": "2026-05-12T01:47:47.000Z",
-      "available_at": "2026-05-12T13:07:07.000Z",
-      "start_scheduled": "2026-05-12T13:00:00.000Z",
-      "start_actual": "2026-05-12T13:07:07.000Z",
-      "live_viewers": 5058,
-      "channel": {
-        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
-        "name": "Raora Panthera Ch. hololive-EN",
-        "english_name": "Raora Panthera",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvInZx9h3jC2JzsIzoOebWg": {
@@ -151,7 +131,7 @@
       "available_at": "2026-05-12T14:00:02.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T14:00:02.000Z",
-      "live_viewers": 12872,
+      "live_viewers": 12760,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-12T14:00:03.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T14:00:03.000Z",
-      "live_viewers": 2195,
+      "live_viewers": 2328,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-12T14:00:09.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T14:00:09.000Z",
-      "live_viewers": 19701,
+      "live_viewers": 19588,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
