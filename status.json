@@ -1,46 +1,6 @@
 {
-  "cached_at": 1778620699,
+  "cached_at": 1778620759,
   "lives": {
-    "UCKeAhJvy8zgXWbh9duVjIaQ": {
-      "video_id": "eRWxBJEWejs",
-      "title": "【人喰ノ檻 - KLETKA】あの日からまだ閉じ込められている5人【アルランディス/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "KLETKA",
-      "published_at": "2026-05-12T07:07:28.000Z",
-      "available_at": "2026-05-12T15:18:10.000Z",
-      "start_scheduled": "2026-05-12T15:00:00.000Z",
-      "start_actual": "2026-05-12T15:18:10.000Z",
-      "live_viewers": 795,
-      "channel": {
-        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
-        "name": "Aruran Ch. アルランディス",
-        "english_name": "Arurandeisu",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCez5D_dtExDJzQOAzg1k1RQ": {
-      "video_id": "N37rZRX2O7c",
-      "title": "【 # 人喰ノ檻 - KLETKA】リベンジ 人喰いエレベーターvsオワ軍【#折咲もしゅ #MOSHULIVE #REJECT】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "KLETKA",
-      "published_at": "2026-05-10T16:31:47.000Z",
-      "available_at": "2026-05-12T15:20:27.000Z",
-      "start_scheduled": "2026-05-12T15:00:00.000Z",
-      "start_actual": "2026-05-12T15:20:27.000Z",
-      "live_viewers": 221,
-      "channel": {
-        "id": "UCez5D_dtExDJzQOAzg1k1RQ",
-        "name": "折咲もしゅch-Moshu Orisaki-",
-        "english_name": "Orisaki Moshu",
-        "org": "Independents",
-        "suborg": "reREJECT",
-        "photo": "https://yt3.ggpht.com/Go2Zwoy_FnXEEYwxhVaEvJ7yIii0bc5415GAS7tpWkX-MGVvbvYfp5a6svtSC4isPBvopLbnPA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "Zvwhk0iENMU",
       "title": "【Tomodachi Life】pink bubbles please manifest【Pavolia Reine/hololiveID】",
