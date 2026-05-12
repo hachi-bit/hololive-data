@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778606661,
+  "cached_at": 1778606721,
   "lives": {
     "UCK9V2B22uJYu3N7eR_BT9QA": {
       "video_id": "XsCyd89vTwc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-12T13:00:14.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:00:14.000Z",
-      "live_viewers": 2023,
+      "live_viewers": 2209,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -81,26 +81,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCQ0UDLQCjY0rmuxCDE38FGg": {
-      "video_id": "mH6IHONFkoo",
-      "title": "【R.E.P.O.】赤がほしい!赤が!!!!!#ホロREPO【ホロライブ/夏色まつり】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-05-12T08:44:45.000Z",
-      "available_at": "2026-05-12T14:00:03.000Z",
-      "start_scheduled": "2026-05-12T14:00:00.000Z",
-      "start_actual": "2026-05-12T14:00:03.000Z",
-      "live_viewers": 2157,
-      "channel": {
-        "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-        "name": "Matsuri Channel 夏色まつり",
-        "english_name": "Natsuiro Matsuri",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "MFmVVza7J3c",
       "title": "【 R.E.P.O. 】#ホロREPO 静かに先輩についていく…RE!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-12T14:00:07.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T14:00:07.000Z",
-      "live_viewers": 9049,
+      "live_viewers": 7971,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-12T15:18:10.000Z",
       "start_scheduled": "2026-05-12T15:00:00.000Z",
       "start_actual": "2026-05-12T15:18:10.000Z",
-      "live_viewers": 776,
+      "live_viewers": 813,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
