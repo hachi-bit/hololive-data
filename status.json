@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778582239,
+  "cached_at": 1778582301,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "pl0xXJxcLCI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-12T06:26:28.000Z",
       "start_scheduled": "2026-05-12T06:30:00.000Z",
       "start_actual": "2026-05-12T06:26:28.000Z",
-      "live_viewers": 2602,
+      "live_viewers": 2542,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-12T09:03:29.000Z",
       "start_scheduled": "2026-05-12T09:00:00.000Z",
       "start_actual": "2026-05-12T09:03:29.000Z",
-      "live_viewers": 9139,
+      "live_viewers": 9218,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-12T09:58:18.000Z",
       "start_scheduled": "2026-05-12T10:00:00.000Z",
       "start_actual": "2026-05-12T09:58:18.000Z",
-      "live_viewers": 7877,
+      "live_viewers": 8481,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-12T10:00:54.000Z",
       "start_scheduled": "2026-05-12T10:00:00.000Z",
       "start_actual": "2026-05-12T10:00:54.000Z",
-      "live_viewers": 5236,
+      "live_viewers": 5176,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
