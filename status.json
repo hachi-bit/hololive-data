@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778594541,
+  "cached_at": 1778594601,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "bA6xLh-M7So",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-12T07:04:31.000Z",
       "start_scheduled": "2026-05-12T07:00:00.000Z",
       "start_actual": "2026-05-12T07:04:31.000Z",
-      "live_viewers": 545,
+      "live_viewers": 518,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-12T08:06:31.000Z",
       "start_scheduled": "2026-05-12T08:00:00.000Z",
       "start_actual": "2026-05-12T08:06:31.000Z",
-      "live_viewers": 306,
+      "live_viewers": 249,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-12T12:02:18.000Z",
       "start_scheduled": "2026-05-12T12:00:00.000Z",
       "start_actual": "2026-05-12T12:02:18.000Z",
-      "live_viewers": 1348,
+      "live_viewers": 1323,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-12T13:00:29.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:00:29.000Z",
-      "live_viewers": 13067,
+      "live_viewers": 13076,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-12T13:00:49.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:00:49.000Z",
-      "live_viewers": 4097,
+      "live_viewers": 4027,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -331,7 +331,7 @@
       "available_at": "2026-05-12T13:07:08.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:07:08.000Z",
-      "live_viewers": 1035,
+      "live_viewers": 1042,
       "channel": {
         "id": "UCIG9rDtgR45VCZmYnd-4DUw",
         "name": "ラトナ・プティ -Ratna Petit -にじさんじ所属",
@@ -339,6 +339,106 @@
         "org": "Nijisanji",
         "suborg": "0wPosanke",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mX9S_nkRRv8Mk7hqcb_S4c4awLoeI0mIbZRQWMoO3ox9I=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvInZx9h3jC2JzsIzoOebWg": {
+      "video_id": "GGQgFY3Yhaw",
+      "title": "【R.E.P.O.】今日のRepo会です!赤コスメはどこですか!?【不知火フレア/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-05-12T09:25:55.000Z",
+      "available_at": "2026-05-12T13:59:59.000Z",
+      "start_scheduled": "2026-05-12T14:00:00.000Z",
+      "start_actual": "2026-05-12T13:59:59.000Z",
+      "live_viewers": 1449,
+      "channel": {
+        "id": "UCvInZx9h3jC2JzsIzoOebWg",
+        "name": "Flare Ch. 不知火フレア",
+        "english_name": "Shiranui Flare",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+      "video_id": "JMMUEzBOo3Y",
+      "title": "【R.E.P.O.】第二回静かなるREPO #ホロREPO 【ホロライブ/白上フブキ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-05-12T11:25:08.000Z",
+      "available_at": "2026-05-12T14:00:02.000Z",
+      "start_scheduled": "2026-05-12T14:00:00.000Z",
+      "start_actual": "2026-05-12T14:00:02.000Z",
+      "live_viewers": 3332,
+      "channel": {
+        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "name": "フブキCh。白上フブキ",
+        "english_name": "Shirakami Fubuki",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCQ0UDLQCjY0rmuxCDE38FGg": {
+      "video_id": "mH6IHONFkoo",
+      "title": "【R.E.P.O.】赤がほしい!赤が!!!!!#ホロREPO【ホロライブ/夏色まつり】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-05-12T08:44:45.000Z",
+      "available_at": "2026-05-12T14:00:03.000Z",
+      "start_scheduled": "2026-05-12T14:00:00.000Z",
+      "start_actual": "2026-05-12T14:00:03.000Z",
+      "live_viewers": 573,
+      "channel": {
+        "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+        "name": "Matsuri Channel 夏色まつり",
+        "english_name": "Natsuiro Matsuri",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "MFmVVza7J3c",
+      "title": "【 R.E.P.O. 】#ホロREPO 静かに先輩についていく…RE!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-05-12T13:25:20.000Z",
+      "available_at": "2026-05-12T14:00:07.000Z",
+      "start_scheduled": "2026-05-12T14:00:00.000Z",
+      "start_actual": "2026-05-12T14:00:07.000Z",
+      "live_viewers": 1726,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChAnqc_AY5_I3Px5dig3X1Q": {
+      "video_id": "qei-JemNbKs",
+      "title": "【#ホロREPO】ころね支店【三夜連続放送】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-05-12T12:42:16.000Z",
+      "available_at": "2026-05-12T14:00:09.000Z",
+      "start_scheduled": "2026-05-12T14:00:00.000Z",
+      "start_actual": "2026-05-12T14:00:09.000Z",
+      "live_viewers": 5285,
+      "channel": {
+        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
+        "name": "Korone Ch. 戌神ころね",
+        "english_name": "Inugami Korone",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
