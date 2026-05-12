@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778598141,
+  "cached_at": 1778598201,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "_5jU9xVTK-8",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-12T12:00:10.000Z",
       "start_scheduled": "2026-05-12T12:00:00.000Z",
       "start_actual": "2026-05-12T12:00:10.000Z",
-      "live_viewers": 4963,
+      "live_viewers": 4893,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-12T13:00:03.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:00:03.000Z",
-      "live_viewers": 672,
+      "live_viewers": 691,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-12T13:00:14.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:00:14.000Z",
-      "live_viewers": 2770,
+      "live_viewers": 2587,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-12T14:00:02.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T14:00:02.000Z",
-      "live_viewers": 12527,
+      "live_viewers": 12398,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-12T14:00:07.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T14:00:07.000Z",
-      "live_viewers": 8191,
+      "live_viewers": 8198,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-12T14:00:09.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T14:00:09.000Z",
-      "live_viewers": 20034,
+      "live_viewers": 20084,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -299,6 +299,25 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKeAhJvy8zgXWbh9duVjIaQ": {
+      "video_id": "eRWxBJEWejs",
+      "title": "【人喰ノ檻 - KLETKA】あの日からまだ閉じ込められている5人【アルランディス/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "KLETKA",
+      "published_at": "2026-05-12T07:07:28.000Z",
+      "available_at": "2026-05-12T15:00:00.000Z",
+      "start_scheduled": "2026-05-12T15:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "english_name": "Arurandeisu",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
