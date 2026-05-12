@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778591301,
+  "cached_at": 1778591361,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "bA6xLh-M7So",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-12T08:06:31.000Z",
       "start_scheduled": "2026-05-12T08:00:00.000Z",
       "start_actual": "2026-05-12T08:06:31.000Z",
-      "live_viewers": 239,
+      "live_viewers": 255,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-12T12:00:10.000Z",
       "start_scheduled": "2026-05-12T12:00:00.000Z",
       "start_actual": "2026-05-12T12:00:10.000Z",
-      "live_viewers": 6177,
+      "live_viewers": 5858,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-12T12:02:18.000Z",
       "start_scheduled": "2026-05-12T12:00:00.000Z",
       "start_actual": "2026-05-12T12:02:18.000Z",
-      "live_viewers": 1647,
+      "live_viewers": 1602,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-12T12:02:46.000Z",
       "start_scheduled": "2026-05-12T12:00:00.000Z",
       "start_actual": "2026-05-12T12:02:46.000Z",
-      "live_viewers": 24085,
+      "live_viewers": 24645,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-12T12:03:08.000Z",
       "start_scheduled": "2026-05-12T12:00:00.000Z",
       "start_actual": "2026-05-12T12:03:08.000Z",
-      "live_viewers": 37587,
+      "live_viewers": 30923,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-12T12:30:13.000Z",
       "start_scheduled": "2026-05-12T12:30:00.000Z",
       "start_actual": "2026-05-12T12:30:13.000Z",
-      "live_viewers": 4635,
+      "live_viewers": 4655,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -249,7 +249,7 @@
       "available_at": "2026-05-12T13:00:03.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:00:03.000Z",
-      "live_viewers": 323,
+      "live_viewers": 426,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -257,26 +257,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCHsx4Hqa-1ORjQTh9TYDhww": {
-      "video_id": "ulXBf4FPfXQ",
-      "title": "Signs - Takanashi Kiara (Dance Shot Version)",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Dancing",
-      "published_at": "2026-05-12T13:00:07.000Z",
-      "available_at": "2026-05-12T13:00:07.000Z",
-      "start_scheduled": "2026-05-12T13:00:00.000Z",
-      "start_actual": "2026-05-12T13:00:07.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
-        "name": "Takanashi Kiara Ch. hololive-EN",
-        "english_name": "Takanashi Kiara",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1iA6_NT4mtAcIII6ygrvCw": {
@@ -289,7 +269,7 @@
       "available_at": "2026-05-12T13:00:12.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:00:12.000Z",
-      "live_viewers": 1802,
+      "live_viewers": 2280,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -309,7 +289,7 @@
       "available_at": "2026-05-12T13:00:14.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:00:14.000Z",
-      "live_viewers": 4180,
+      "live_viewers": 5114,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -329,7 +309,7 @@
       "available_at": "2026-05-12T13:00:29.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:00:29.000Z",
-      "live_viewers": 5223,
+      "live_viewers": 7066,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -349,7 +329,7 @@
       "available_at": "2026-05-12T13:00:49.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:00:49.000Z",
-      "live_viewers": 2364,
+      "live_viewers": 2954,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -369,7 +349,7 @@
       "available_at": "2026-05-12T13:01:38.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:01:38.000Z",
-      "live_viewers": 5109,
+      "live_viewers": 7081,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -389,7 +369,7 @@
       "available_at": "2026-05-12T13:01:58.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:01:58.000Z",
-      "live_viewers": 853,
+      "live_viewers": 1114,
       "channel": {
         "id": "UCmiYJycZXBGc4s_zjIRUHhQ",
         "name": "うらめちゃんねる /あおぎり高校",
