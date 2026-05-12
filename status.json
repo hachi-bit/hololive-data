@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778569641,
+  "cached_at": 1778569701,
   "lives": {
     "UC8rcEBzJSleTkf_-agPM20g": {
       "video_id": "ST6XRBrva6A",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-12T06:26:28.000Z",
       "start_scheduled": "2026-05-12T06:30:00.000Z",
       "start_actual": "2026-05-12T06:26:28.000Z",
-      "live_viewers": 2780,
+      "live_viewers": 2720,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -48,9 +48,10 @@
       "status": "live",
       "topic_id": "League_of_Legends",
       "published_at": "2026-05-12T06:30:26.000Z",
-      "available_at": "2026-05-12T07:00:00.000Z",
+      "available_at": "2026-05-12T07:04:20.000Z",
       "start_scheduled": "2026-05-12T07:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-12T07:04:20.000Z",
+      "live_viewers": 415,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -67,9 +68,10 @@
       "status": "live",
       "topic_id": "League_of_Legends",
       "published_at": "2026-05-12T06:55:26.000Z",
-      "available_at": "2026-05-12T07:00:00.000Z",
+      "available_at": "2026-05-12T07:04:31.000Z",
       "start_scheduled": "2026-05-12T07:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-12T07:04:31.000Z",
+      "live_viewers": 121,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
