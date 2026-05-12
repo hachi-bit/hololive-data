@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778597421,
+  "cached_at": 1778597482,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "_5jU9xVTK-8",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-12T12:00:10.000Z",
       "start_scheduled": "2026-05-12T12:00:00.000Z",
       "start_actual": "2026-05-12T12:00:10.000Z",
-      "live_viewers": 5000,
+      "live_viewers": 4968,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-12T12:02:46.000Z",
       "start_scheduled": "2026-05-12T12:00:00.000Z",
       "start_actual": "2026-05-12T12:02:46.000Z",
-      "live_viewers": 21112,
+      "live_viewers": 21524,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-12T13:01:58.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:01:58.000Z",
-      "live_viewers": 874,
+      "live_viewers": 719,
       "channel": {
         "id": "UCmiYJycZXBGc4s_zjIRUHhQ",
         "name": "うらめちゃんねる /あおぎり高校",
@@ -221,26 +221,6 @@
         "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCIG9rDtgR45VCZmYnd-4DUw": {
-      "video_id": "mkaxh--MkpA",
-      "title": "【アンレールド】トワとデート♡【ラトナ・プティ/にじさんじ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Unrailed",
-      "published_at": "2026-05-12T12:22:59.000Z",
-      "available_at": "2026-05-12T13:07:08.000Z",
-      "start_scheduled": "2026-05-12T13:00:00.000Z",
-      "start_actual": "2026-05-12T13:07:08.000Z",
-      "live_viewers": 895,
-      "channel": {
-        "id": "UCIG9rDtgR45VCZmYnd-4DUw",
-        "name": "ラトナ・プティ -Ratna Petit -にじさんじ所属",
-        "english_name": "Ratna Petit",
-        "org": "Nijisanji",
-        "suborg": "0wPosanke",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mX9S_nkRRv8Mk7hqcb_S4c4awLoeI0mIbZRQWMoO3ox9I=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCvInZx9h3jC2JzsIzoOebWg": {
       "video_id": "GGQgFY3Yhaw",
       "title": "【R.E.P.O.】今日のRepo会です!赤コスメはどこですか!?【不知火フレア/ホロライブ】",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-12T13:59:59.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T13:59:59.000Z",
-      "live_viewers": 4387,
+      "live_viewers": 4389,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-12T14:00:07.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T14:00:07.000Z",
-      "live_viewers": 7786,
+      "live_viewers": 8078,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-12T14:00:09.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T14:00:09.000Z",
-      "live_viewers": 19557,
+      "live_viewers": 19770,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
