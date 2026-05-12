@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778623399,
+  "cached_at": 1778623460,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "Zvwhk0iENMU",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-12T21:21:16.000Z",
       "start_scheduled": "2026-05-12T21:00:00.000Z",
       "start_actual": "2026-05-12T21:21:16.000Z",
-      "live_viewers": 1455,
+      "live_viewers": 1419,
       "channel": {
         "id": "UCHP4f7G2dWD4qib7BMatGAw",
         "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -59,6 +59,26 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCQ0UDLQCjY0rmuxCDE38FGg": {
+      "video_id": "0bjc21MHzDk",
+      "title": "【朝活】今日もあなたの朝のおともに☀【ホロライブ/夏色まつり】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "morning",
+      "published_at": "2026-05-12T21:54:47.000Z",
+      "available_at": "2026-05-12T22:00:22.000Z",
+      "start_scheduled": "2026-05-12T22:00:00.000Z",
+      "start_actual": "2026-05-12T22:00:22.000Z",
+      "live_viewers": 1121,
+      "channel": {
+        "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+        "name": "Matsuri Channel 夏色まつり",
+        "english_name": "Natsuiro Matsuri",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
