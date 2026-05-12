@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778616739,
+  "cached_at": 1778616801,
   "lives": {
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
       "video_id": "eRWxBJEWejs",
@@ -68,9 +68,10 @@
       "status": "live",
       "topic_id": "Dying_Light",
       "published_at": "2026-05-12T00:32:55.000Z",
-      "available_at": "2026-05-12T20:00:00.000Z",
+      "available_at": "2026-05-12T20:09:51.000Z",
       "start_scheduled": "2026-05-12T20:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-12T20:09:51.000Z",
+      "live_viewers": 1051,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
