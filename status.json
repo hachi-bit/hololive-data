@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778548040,
+  "cached_at": 1778548099,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "XHoD-W_Vw6w",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-11T22:56:31.000Z",
       "start_scheduled": "2026-05-11T23:00:00.000Z",
       "start_actual": "2026-05-11T22:56:31.000Z",
-      "live_viewers": 10012,
+      "live_viewers": 10097,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -40,25 +40,6 @@
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCmbs8T6MWqUHP1tIQvSgKrg": {
-      "video_id": "2cDMOEDUdIg",
-      "title": "【Lil Gator Game】Wandering Time",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Lil_Gator_Game",
-      "published_at": "2026-05-12T00:01:50.000Z",
-      "available_at": "2026-05-12T01:00:00.000Z",
-      "start_scheduled": "2026-05-12T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
-        "name": "Ouro Kronii Ch. hololive-EN",
-        "english_name": "Ouro Kronii",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCMqGG8BRAiI1lJfKOpETM_w": {
       "video_id": "utlLeye3zNU",
       "title": "【Zatsudan】BanJo Golden Week Chat! What did we get up to?!",
@@ -69,7 +50,7 @@
       "available_at": "2026-05-12T01:01:57.000Z",
       "start_scheduled": "2026-05-12T01:00:00.000Z",
       "start_actual": "2026-05-12T01:01:57.000Z",
-      "live_viewers": 262,
+      "live_viewers": 357,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -77,6 +58,26 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCmbs8T6MWqUHP1tIQvSgKrg": {
+      "video_id": "2cDMOEDUdIg",
+      "title": "【Lil Gator Game】Wandering Time",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Lil_Gator_Game",
+      "published_at": "2026-05-12T00:01:50.000Z",
+      "available_at": "2026-05-12T01:04:29.000Z",
+      "start_scheduled": "2026-05-12T01:00:00.000Z",
+      "start_actual": "2026-05-12T01:04:29.000Z",
+      "live_viewers": 2283,
+      "channel": {
+        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
+        "name": "Ouro Kronii Ch. hololive-EN",
+        "english_name": "Ouro Kronii",
+        "org": "Hololive",
+        "suborg": "ibEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
