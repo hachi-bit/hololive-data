@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778627541,
+  "cached_at": 1778627601,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "Zvwhk0iENMU",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-12T18:08:20.000Z",
       "start_scheduled": "2026-05-12T18:15:00.000Z",
       "start_actual": "2026-05-12T18:08:20.000Z",
-      "live_viewers": 3238,
+      "live_viewers": 2907,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-12T22:44:53.000Z",
       "start_scheduled": "2026-05-12T22:40:00.000Z",
       "start_actual": "2026-05-12T22:44:53.000Z",
-      "live_viewers": 745,
+      "live_viewers": 733,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-12T23:00:19.000Z",
       "start_scheduled": "2026-05-12T23:00:00.000Z",
       "start_actual": "2026-05-12T23:00:19.000Z",
-      "live_viewers": 206,
+      "live_viewers": 208,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -128,9 +128,10 @@
       "status": "live",
       "topic_id": "Cursed_Companions",
       "published_at": "2026-05-12T22:37:05.000Z",
-      "available_at": "2026-05-12T23:05:00.000Z",
+      "available_at": "2026-05-12T23:09:26.000Z",
       "start_scheduled": "2026-05-12T23:05:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-12T23:09:26.000Z",
+      "live_viewers": 3953,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
