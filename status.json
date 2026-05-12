@@ -1,46 +1,6 @@
 {
-  "cached_at": 1778606961,
+  "cached_at": 1778607021,
   "lives": {
-    "UCK9V2B22uJYu3N7eR_BT9QA": {
-      "video_id": "XsCyd89vTwc",
-      "title": "【R.E.P.O.】REPOでつながるWA!!!!春雨麗女ことめーちゃんと!!!!【尾丸ポルカ視点/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-05-12T11:20:12.000Z",
-      "available_at": "2026-05-12T13:00:14.000Z",
-      "start_scheduled": "2026-05-12T13:00:00.000Z",
-      "start_actual": "2026-05-12T13:00:14.000Z",
-      "live_viewers": 2209,
-      "channel": {
-        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-        "name": "Polka Ch. 尾丸ポルカ",
-        "english_name": "Omaru Polka",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCmiYJycZXBGc4s_zjIRUHhQ": {
-      "video_id": "tIbows766GA",
-      "title": "【R.E.P.O.】レポに魅せられた者達、 邂 逅 【春雨麗女/尾丸ポルカ #あおぎり高校 #ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-05-11T09:30:56.000Z",
-      "available_at": "2026-05-12T13:01:58.000Z",
-      "start_scheduled": "2026-05-12T13:00:00.000Z",
-      "start_actual": "2026-05-12T13:01:58.000Z",
-      "live_viewers": 641,
-      "channel": {
-        "id": "UCmiYJycZXBGc4s_zjIRUHhQ",
-        "name": "うらめちゃんねる /あおぎり高校",
-        "english_name": "Harusame Urame",
-        "org": "Aogiri Highschool",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/eVVpvDOtLvpQmKxHL27warv6kkrho5sz--bsuiS8VpaISdS4aTCCSRkk5WzgOUF0dDtMJD31v7I=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "MFmVVza7J3c",
       "title": "【 R.E.P.O. 】#ホロREPO 静かに先輩についていく…RE!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
@@ -51,7 +11,7 @@
       "available_at": "2026-05-12T14:00:07.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T14:00:07.000Z",
-      "live_viewers": 7968,
+      "live_viewers": 8505,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -71,7 +31,7 @@
       "available_at": "2026-05-12T15:18:10.000Z",
       "start_scheduled": "2026-05-12T15:00:00.000Z",
       "start_actual": "2026-05-12T15:18:10.000Z",
-      "live_viewers": 820,
+      "live_viewers": 848,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
