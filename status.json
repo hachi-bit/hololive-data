@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778606301,
+  "cached_at": 1778606361,
   "lives": {
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "gEVHOSMu-Xs",
-      "title": "【ARK: Survival Ascended】アルファ・ラプトル絶対にたおす!!!!【ホロライブ DEV_IS 響咲リオナ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "ark",
-      "published_at": "2026-05-12T08:59:38.000Z",
-      "available_at": "2026-05-12T12:30:13.000Z",
-      "start_scheduled": "2026-05-12T12:30:00.000Z",
-      "start_actual": "2026-05-12T12:30:13.000Z",
-      "live_viewers": 3295,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCK9V2B22uJYu3N7eR_BT9QA": {
       "video_id": "XsCyd89vTwc",
       "title": "【R.E.P.O.】REPOでつながるWA!!!!春雨麗女ことめーちゃんと!!!!【尾丸ポルカ視点/ホロライブ】",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-12T13:00:14.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:00:14.000Z",
-      "live_viewers": 2011,
+      "live_viewers": 2023,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-12T13:01:58.000Z",
       "start_scheduled": "2026-05-12T13:00:00.000Z",
       "start_actual": "2026-05-12T13:01:58.000Z",
-      "live_viewers": 655,
+      "live_viewers": 641,
       "channel": {
         "id": "UCmiYJycZXBGc4s_zjIRUHhQ",
         "name": "うらめちゃんねる /あおぎり高校",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-12T13:59:59.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T13:59:59.000Z",
-      "live_viewers": 4259,
+      "live_viewers": 4221,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-12T14:00:02.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T14:00:02.000Z",
-      "live_viewers": 11299,
+      "live_viewers": 11304,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-12T14:00:09.000Z",
       "start_scheduled": "2026-05-12T14:00:00.000Z",
       "start_actual": "2026-05-12T14:00:09.000Z",
-      "live_viewers": 16941,
+      "live_viewers": 16784,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-12T15:18:10.000Z",
       "start_scheduled": "2026-05-12T15:00:00.000Z",
       "start_actual": "2026-05-12T15:18:10.000Z",
-      "live_viewers": 768,
+      "live_viewers": 776,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
