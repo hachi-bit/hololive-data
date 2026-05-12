@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778580319,
+  "cached_at": 1778580382,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "pl0xXJxcLCI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-12T06:26:28.000Z",
       "start_scheduled": "2026-05-12T06:30:00.000Z",
       "start_actual": "2026-05-12T06:26:28.000Z",
-      "live_viewers": 2842,
+      "live_viewers": 2748,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-12T07:04:20.000Z",
       "start_scheduled": "2026-05-12T07:00:00.000Z",
       "start_actual": "2026-05-12T07:04:20.000Z",
-      "live_viewers": 1108,
+      "live_viewers": 1168,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-12T09:02:29.000Z",
       "start_scheduled": "2026-05-12T09:00:00.000Z",
       "start_actual": "2026-05-12T09:02:29.000Z",
-      "live_viewers": 7972,
+      "live_viewers": 7988,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-12T09:03:29.000Z",
       "start_scheduled": "2026-05-12T09:00:00.000Z",
       "start_actual": "2026-05-12T09:03:29.000Z",
-      "live_viewers": 7970,
+      "live_viewers": 8069,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-12T09:03:53.000Z",
       "start_scheduled": "2026-05-12T09:00:00.000Z",
       "start_actual": "2026-05-12T09:03:53.000Z",
-      "live_viewers": 4909,
+      "live_viewers": 4842,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-12T09:58:18.000Z",
       "start_scheduled": "2026-05-12T10:00:00.000Z",
       "start_actual": "2026-05-12T09:58:18.000Z",
-      "live_viewers": 2110,
+      "live_viewers": 3362,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -168,9 +168,10 @@
       "status": "live",
       "topic_id": "Bow-wow_Battle",
       "published_at": "2026-05-12T05:35:44.000Z",
-      "available_at": "2026-05-12T10:00:00.000Z",
+      "available_at": "2026-05-12T10:00:54.000Z",
       "start_scheduled": "2026-05-12T10:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-12T10:00:54.000Z",
+      "live_viewers": 3177,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
