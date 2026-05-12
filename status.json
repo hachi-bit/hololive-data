@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778626881,
+  "cached_at": 1778626942,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "Zvwhk0iENMU",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-12T22:44:53.000Z",
       "start_scheduled": "2026-05-12T22:40:00.000Z",
       "start_actual": "2026-05-12T22:44:53.000Z",
-      "live_viewers": 537,
+      "live_viewers": 574,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -119,6 +119,45 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCmbs8T6MWqUHP1tIQvSgKrg": {
+      "video_id": "PicXnS2P0iQ",
+      "title": "【Cursed Companions】No Cursing",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-05-12T22:37:05.000Z",
+      "available_at": "2026-05-12T23:00:00.000Z",
+      "start_scheduled": "2026-05-12T23:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
+        "name": "Ouro Kronii Ch. hololive-EN",
+        "english_name": "Ouro Kronii",
+        "org": "Hololive",
+        "suborg": "ibEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6t3-_N8A6ME1JShZHHqOMw": {
+      "video_id": "gF_rUP46FcE",
+      "title": "【雑談】ダイエット始めました【花咲みやび/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-12T21:48:49.000Z",
+      "available_at": "2026-05-12T23:00:19.000Z",
+      "start_scheduled": "2026-05-12T23:00:00.000Z",
+      "start_actual": "2026-05-12T23:00:19.000Z",
+      "live_viewers": 60,
+      "channel": {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "english_name": "Hanasaki Miyabi",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
