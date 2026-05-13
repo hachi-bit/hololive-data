@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778670139,
+  "cached_at": 1778670199,
   "lives": {
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "beuCoWPM-J8",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-13T10:45:35.000Z",
       "start_scheduled": "2026-05-13T10:40:00.000Z",
       "start_actual": "2026-05-13T10:45:35.000Z",
-      "live_viewers": 291,
+      "live_viewers": 302,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -88,9 +88,9 @@
       "status": "live",
       "topic_id": "membersonly",
       "published_at": "2026-05-13T05:07:50.000Z",
-      "available_at": "2026-05-13T10:58:11.000Z",
+      "available_at": "2026-05-13T10:58:14.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
-      "start_actual": "2026-05-13T10:58:11.000Z",
+      "start_actual": "2026-05-13T10:58:14.000Z",
       "live_viewers": 0,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-13T10:59:07.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
       "start_actual": "2026-05-13T10:59:07.000Z",
-      "live_viewers": 1683,
+      "live_viewers": 3768,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -119,6 +119,85 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFKOVgVbGmX65RxO3EtH3iw": {
+      "video_id": "3VJ8vx-dcTs",
+      "title": "【#3D】リアル対決に描き下ろしも!チョコザップコラボの魅力全部大公開!【 雪花ラミィ /ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "drawing",
+      "published_at": "2026-05-13T03:23:37.000Z",
+      "available_at": "2026-05-13T10:59:59.000Z",
+      "start_scheduled": "2026-05-13T11:00:00.000Z",
+      "start_actual": "2026-05-13T10:59:59.000Z",
+      "live_viewers": 3341,
+      "channel": {
+        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+        "name": "Lamy Ch. 雪花ラミィ",
+        "english_name": "Yukihana Lamy",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdfMHxjcCc2HSd9qFvfJgjg": {
+      "video_id": "z6ZfgszTZUI",
+      "title": "【 FINAL FANTASY IX | FF9 初見 #6 】“いつか帰るところ\"を知るための旅へ【 水無世燐央 | UPROAR!! 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Final_fantasy",
+      "published_at": "2026-05-12T17:09:31.000Z",
+      "available_at": "2026-05-13T11:00:00.000Z",
+      "start_scheduled": "2026-05-13T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+        "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+        "english_name": "Minase Rio",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "Oi1096ImdYg",
+      "title": "【BLEACH Rebirth of Souls】ブリーチの物語を追体験できるゲームやるぺこおおおおおおおおおおおおおおおおおおおお!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "BLEACH",
+      "published_at": "2026-05-13T09:09:04.000Z",
+      "available_at": "2026-05-13T11:00:09.000Z",
+      "start_scheduled": "2026-05-13T11:00:00.000Z",
+      "start_actual": "2026-05-13T11:00:09.000Z",
+      "live_viewers": 4319,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChAnqc_AY5_I3Px5dig3X1Q": {
+      "video_id": "SfqxDnTyuhQ",
+      "title": "リスナーだらけの『トモダチコレクション わくわく生活』あそぶ!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-13T08:53:34.000Z",
+      "available_at": "2026-05-13T11:00:12.000Z",
+      "start_scheduled": "2026-05-13T11:00:00.000Z",
+      "start_actual": "2026-05-13T11:00:12.000Z",
+      "live_viewers": 2941,
+      "channel": {
+        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
+        "name": "Korone Ch. 戌神ころね",
+        "english_name": "Inugami Korone",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
