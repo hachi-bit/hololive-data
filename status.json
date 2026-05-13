@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778670319,
+  "cached_at": 1778670379,
   "lives": {
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "beuCoWPM-J8",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-13T10:45:35.000Z",
       "start_scheduled": "2026-05-13T10:40:00.000Z",
       "start_actual": "2026-05-13T10:45:35.000Z",
-      "live_viewers": 302,
+      "live_viewers": 303,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-13T10:59:07.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
       "start_actual": "2026-05-13T10:59:07.000Z",
-      "live_viewers": 3768,
+      "live_viewers": 6206,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-13T10:59:59.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
       "start_actual": "2026-05-13T10:59:59.000Z",
-      "live_viewers": 3341,
+      "live_viewers": 6332,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -139,25 +139,6 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdfMHxjcCc2HSd9qFvfJgjg": {
-      "video_id": "z6ZfgszTZUI",
-      "title": "【 FINAL FANTASY IX | FF9 初見 #6 】“いつか帰るところ\"を知るための旅へ【 水無世燐央 | UPROAR!! 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Final_fantasy",
-      "published_at": "2026-05-12T17:09:31.000Z",
-      "available_at": "2026-05-13T11:00:00.000Z",
-      "start_scheduled": "2026-05-13T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-        "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-        "english_name": "Minase Rio",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1DCedRgGHBdm81E1llLhOQ": {
@@ -170,7 +151,7 @@
       "available_at": "2026-05-13T11:00:09.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
       "start_actual": "2026-05-13T11:00:09.000Z",
-      "live_viewers": 4319,
+      "live_viewers": 9803,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -190,7 +171,7 @@
       "available_at": "2026-05-13T11:00:12.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
       "start_actual": "2026-05-13T11:00:12.000Z",
-      "live_viewers": 2941,
+      "live_viewers": 6658,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -198,6 +179,26 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdfMHxjcCc2HSd9qFvfJgjg": {
+      "video_id": "z6ZfgszTZUI",
+      "title": "【 FINAL FANTASY IX | FF9 初見 #6 】“いつか帰るところ\"を知るための旅へ【 水無世燐央 | UPROAR!! 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Final_fantasy",
+      "published_at": "2026-05-12T17:09:31.000Z",
+      "available_at": "2026-05-13T11:01:53.000Z",
+      "start_scheduled": "2026-05-13T11:00:00.000Z",
+      "start_actual": "2026-05-13T11:01:53.000Z",
+      "live_viewers": 81,
+      "channel": {
+        "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+        "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+        "english_name": "Minase Rio",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
