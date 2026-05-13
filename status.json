@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778673679,
+  "cached_at": 1778673740,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "p10HUmvmrfc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-13T09:03:31.000Z",
       "start_scheduled": "2026-05-13T09:00:00.000Z",
       "start_actual": "2026-05-13T09:03:31.000Z",
-      "live_viewers": 7258,
+      "live_viewers": 7084,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -81,26 +81,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCFKOVgVbGmX65RxO3EtH3iw": {
-      "video_id": "3VJ8vx-dcTs",
-      "title": "【#3D】リアル対決に描き下ろしも！チョコザップコラボの魅力全部大公開！【 雪花ラミィ /ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "drawing",
-      "published_at": "2026-05-13T03:23:37.000Z",
-      "available_at": "2026-05-13T10:59:59.000Z",
-      "start_scheduled": "2026-05-13T11:00:00.000Z",
-      "start_actual": "2026-05-13T10:59:59.000Z",
-      "live_viewers": 11294,
-      "channel": {
-        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
-        "name": "Lamy Ch. 雪花ラミィ",
-        "english_name": "Yukihana Lamy",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "Oi1096ImdYg",
       "title": "【BLEACH Rebirth of Souls】ブリーチの物語を追体験できるゲームやるぺこおおおおおおおおおおおおおおおおおおおお!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-13T11:00:09.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
       "start_actual": "2026-05-13T11:00:09.000Z",
-      "live_viewers": 19895,
+      "live_viewers": 20374,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-13T11:00:12.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
       "start_actual": "2026-05-13T11:00:12.000Z",
-      "live_viewers": 13286,
+      "live_viewers": 13845,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-13T11:01:53.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
       "start_actual": "2026-05-13T11:01:53.000Z",
-      "live_viewers": 177,
+      "live_viewers": 182,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-13T11:51:12.000Z",
       "start_scheduled": "2026-05-13T11:50:00.000Z",
       "start_actual": "2026-05-13T11:51:12.000Z",
-      "live_viewers": 704,
+      "live_viewers": 764,
       "channel": {
         "id": "UCIG9rDtgR45VCZmYnd-4DUw",
         "name": "ラトナ・プティ -Ratna Petit -にじさんじ所属",
