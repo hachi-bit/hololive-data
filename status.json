@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778666538,
+  "cached_at": 1778666599,
   "lives": {
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "beuCoWPM-J8",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-13T09:00:38.000Z",
       "start_scheduled": "2026-05-13T09:00:00.000Z",
       "start_actual": "2026-05-13T09:00:38.000Z",
-      "live_viewers": 8611,
+      "live_viewers": 8616,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -39,6 +39,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC0TXe_LYZ4scaW2XMyi5_kw": {
+      "video_id": "ngE079hXZTM",
+      "title": "【クロノ・トリガー】完全初見!時を超える名作RPG、はじめます―― #1【ホロライブ / AZKi】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Chrono_Trigger",
+      "published_at": "2026-05-13T05:59:26.000Z",
+      "available_at": "2026-05-13T10:00:37.000Z",
+      "start_scheduled": "2026-05-13T10:00:00.000Z",
+      "start_actual": "2026-05-13T10:00:37.000Z",
+      "live_viewers": 2646,
+      "channel": {
+        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+        "name": "AZKi Channel",
+        "english_name": "AZKi",
+        "org": "Hololive",
+        "suborg": "0z0th Generation",
+        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
