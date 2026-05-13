@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778705839,
+  "cached_at": 1778705899,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "FwZbvj8uQqk",
@@ -19,6 +19,26 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgnfPPb9JI3e9A4cXHnWbyg": {
+      "video_id": "lYlAvyb0bt8",
+      "title": "Speedrunning Popping Your Playtime 【Poppy Playtime】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Poppy_Playtime",
+      "published_at": "2026-05-13T00:44:13.000Z",
+      "available_at": "2026-05-13T20:55:30.000Z",
+      "start_scheduled": "2026-05-13T21:00:00.000Z",
+      "start_actual": "2026-05-13T20:55:30.000Z",
+      "live_viewers": 767,
+      "channel": {
+        "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
+        "name": "Shiori Novella Ch. hololive-EN",
+        "english_name": "Shiori Novella",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
