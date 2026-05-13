@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778672958,
+  "cached_at": 1778673019,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "p10HUmvmrfc",
@@ -41,26 +41,6 @@
         "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "wddxHXk6aS0",
-      "title": "【歌枠】なんと!歌枠だ!【岸堂天真/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-05-13T10:40:08.000Z",
-      "available_at": "2026-05-13T10:45:35.000Z",
-      "start_scheduled": "2026-05-13T10:40:00.000Z",
-      "start_actual": "2026-05-13T10:45:35.000Z",
-      "live_viewers": 423,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "3bHx7HGghN8",
       "title": "酒!飲まずにはいられないッ!なのら!!!🥃(・o・🍬)【姫森ルーナ/ホロライブ】",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-13T10:59:07.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
       "start_actual": "2026-05-13T10:59:07.000Z",
-      "live_viewers": 11983,
+      "live_viewers": 12037,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-13T11:00:09.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
       "start_actual": "2026-05-13T11:00:09.000Z",
-      "live_viewers": 19817,
+      "live_viewers": 19816,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-13T11:00:12.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
       "start_actual": "2026-05-13T11:00:12.000Z",
-      "live_viewers": 12871,
+      "live_viewers": 12886,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-13T11:01:53.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
       "start_actual": "2026-05-13T11:01:53.000Z",
-      "live_viewers": 145,
+      "live_viewers": 168,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
