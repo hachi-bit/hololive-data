@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778632339,
+  "cached_at": 1778632403,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "wKqqf0Saxlk",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-12T23:58:53.000Z",
       "start_scheduled": "2026-05-13T00:00:00.000Z",
       "start_actual": "2026-05-12T23:58:53.000Z",
-      "live_viewers": 601,
+      "live_viewers": 638,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -99,6 +99,26 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCMwGHR0BTZuLsmjY_NT5Pwg": {
+      "video_id": "we8TkYC7__0",
+      "title": "【CHAT】Chill Chatting......Eepy....",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-12T23:52:15.000Z",
+      "available_at": "2026-05-13T00:30:24.000Z",
+      "start_scheduled": "2026-05-13T00:30:00.000Z",
+      "start_actual": "2026-05-13T00:30:24.000Z",
+      "live_viewers": 980,
+      "channel": {
+        "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "name": "Ninomae Ina'nis Ch. hololive-EN",
+        "english_name": "Ninomae Ina'nis",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
