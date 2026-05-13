@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778679199,
+  "cached_at": 1778679259,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "p10HUmvmrfc",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-13T11:00:09.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
       "start_actual": "2026-05-13T11:00:09.000Z",
-      "live_viewers": 20425,
+      "live_viewers": 20988,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-13T11:00:12.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
       "start_actual": "2026-05-13T11:00:12.000Z",
-      "live_viewers": 12541,
+      "live_viewers": 13906,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-13T11:01:53.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
       "start_actual": "2026-05-13T11:01:53.000Z",
-      "live_viewers": 215,
+      "live_viewers": 214,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -219,6 +219,25 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp6993wxpyDPHUpavwDFqgg": {
+      "video_id": "JLbytOTKztE",
+      "title": "【ぽこ あ ポケモン】進捗!わずかです!!【ホロライブ/ときのそら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pokemon_Pokopia",
+      "published_at": "2026-05-13T12:38:35.000Z",
+      "available_at": "2026-05-13T13:30:00.000Z",
+      "start_scheduled": "2026-05-13T13:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCp6993wxpyDPHUpavwDFqgg",
+        "name": "SoraCh. ときのそらチャンネル",
+        "english_name": "Tokino Sora",
+        "org": "Hololive",
+        "suborg": "0v0th Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
