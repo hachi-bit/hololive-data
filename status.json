@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778681120,
+  "cached_at": 1778681179,
   "lives": {
     "UC0TXe_LYZ4scaW2XMyi5_kw": {
       "video_id": "ngE079hXZTM",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-13T11:00:09.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
       "start_actual": "2026-05-13T11:00:09.000Z",
-      "live_viewers": 20705,
+      "live_viewers": 20103,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-13T13:31:37.000Z",
       "start_scheduled": "2026-05-13T13:30:00.000Z",
       "start_actual": "2026-05-13T13:31:37.000Z",
-      "live_viewers": 2977,
+      "live_viewers": 2743,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-13T13:59:41.000Z",
       "start_scheduled": "2026-05-13T14:00:00.000Z",
       "start_actual": "2026-05-13T13:59:41.000Z",
-      "live_viewers": 1681,
+      "live_viewers": 2895,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-13T13:59:42.000Z",
       "start_scheduled": "2026-05-13T14:00:00.000Z",
       "start_actual": "2026-05-13T13:59:42.000Z",
-      "live_viewers": 5594,
+      "live_viewers": 9111,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-13T13:59:44.000Z",
       "start_scheduled": "2026-05-13T14:00:00.000Z",
       "start_actual": "2026-05-13T13:59:44.000Z",
-      "live_viewers": 3776,
+      "live_viewers": 6151,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-13T13:59:46.000Z",
       "start_scheduled": "2026-05-13T14:00:00.000Z",
       "start_actual": "2026-05-13T13:59:46.000Z",
-      "live_viewers": 9303,
+      "live_viewers": 15223,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -259,44 +259,6 @@
         "org": "Hololive",
         "suborg": "0y0th Generation",
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
-      "video_id": "FwZbvj8uQqk",
-      "title": "【Tomodachi Life】THE YEARNERS MUST BE STOPPED....【Pavolia Reine/hololiveID】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-13T13:07:51.000Z",
-      "available_at": "2026-05-13T14:00:00.000Z",
-      "start_scheduled": "2026-05-13T14:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "name": "Pavolia Reine Ch. hololive-ID",
-        "english_name": "Pavolia Reine",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
-      "video_id": "h91ewvCiX34",
-      "title": "【 MOTHER 】完全初見!不朽の名作『MOTHERシリーズ』遂に始めます。【鷹嶺ルイ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "EarthBound",
-      "published_at": "2026-05-12T17:36:53.000Z",
-      "available_at": "2026-05-13T14:00:00.000Z",
-      "start_scheduled": "2026-05-13T14:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "name": "Lui ch. 鷹嶺ルイ - holoX -",
-        "english_name": "Takane Lui",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9LSiN9hXI55svYEBrrK-tw": {
@@ -309,7 +271,7 @@
       "available_at": "2026-05-13T14:00:13.000Z",
       "start_scheduled": "2026-05-13T14:00:00.000Z",
       "start_actual": "2026-05-13T14:00:13.000Z",
-      "live_viewers": 1146,
+      "live_viewers": 1862,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -317,6 +279,46 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "h91ewvCiX34",
+      "title": "【 MOTHER 】完全初見!不朽の名作『MOTHERシリーズ』遂に始めます。【鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "EarthBound",
+      "published_at": "2026-05-12T17:36:53.000Z",
+      "available_at": "2026-05-13T14:00:54.000Z",
+      "start_scheduled": "2026-05-13T14:00:00.000Z",
+      "start_actual": "2026-05-13T14:00:54.000Z",
+      "live_viewers": 1745,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "FwZbvj8uQqk",
+      "title": "【Tomodachi Life】THE YEARNERS MUST BE STOPPED....【Pavolia Reine/hololiveID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-13T13:07:51.000Z",
+      "available_at": "2026-05-13T14:01:07.000Z",
+      "start_scheduled": "2026-05-13T14:00:00.000Z",
+      "start_actual": "2026-05-13T14:01:07.000Z",
+      "live_viewers": 467,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
