@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778648483,
+  "cached_at": 1778648542,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "S6mP1MZ2A1I",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-12T23:58:53.000Z",
       "start_scheduled": "2026-05-13T00:00:00.000Z",
       "start_actual": "2026-05-12T23:58:53.000Z",
-      "live_viewers": 581,
+      "live_viewers": 555,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "WqeXW1-zLn4",
-      "title": "No Reuniclus Yet...So Dragonite Time【POKEMON UNITE】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Pokemon_Unite",
-      "published_at": "2026-05-11T03:08:58.000Z",
-      "available_at": "2026-05-13T01:21:09.000Z",
-      "start_scheduled": "2026-05-13T01:00:00.000Z",
-      "start_actual": "2026-05-13T01:21:09.000Z",
-      "live_viewers": 253,
-      "channel": {
-        "id": "UC060r4zABV18vcahAWR1n7w",
-        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-        "english_name": "Machina X Flayon",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCMqGG8BRAiI1lJfKOpETM_w": {
