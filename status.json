@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778652199,
+  "cached_at": 1778652259,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "S6mP1MZ2A1I",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-12T23:58:53.000Z",
       "start_scheduled": "2026-05-13T00:00:00.000Z",
       "start_actual": "2026-05-12T23:58:53.000Z",
-      "live_viewers": 1175,
+      "live_viewers": 1226,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -59,6 +59,26 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCQ0UDLQCjY0rmuxCDE38FGg": {
+      "video_id": "jOxACBS-uOo",
+      "title": "【歌枠】おやつの時間におうたもどうぞ🍪【ホロライブ/夏色まつり】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-13T05:11:29.000Z",
+      "available_at": "2026-05-13T06:00:26.000Z",
+      "start_scheduled": "2026-05-13T06:00:00.000Z",
+      "start_actual": "2026-05-13T06:00:26.000Z",
+      "live_viewers": 1266,
+      "channel": {
+        "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+        "name": "Matsuri Channel 夏色まつり",
+        "english_name": "Natsuiro Matsuri",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
