@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778641159,
+  "cached_at": 1778641220,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "wKqqf0Saxlk",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-12T23:58:53.000Z",
       "start_scheduled": "2026-05-13T00:00:00.000Z",
       "start_actual": "2026-05-12T23:58:53.000Z",
-      "live_viewers": 710,
+      "live_viewers": 724,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-13T02:01:35.000Z",
       "start_scheduled": "2026-05-13T02:00:00.000Z",
       "start_actual": "2026-05-13T02:01:35.000Z",
-      "live_viewers": 468,
+      "live_viewers": 485,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-13T02:38:52.000Z",
       "start_scheduled": "2026-05-13T02:30:00.000Z",
       "start_actual": "2026-05-13T02:38:52.000Z",
-      "live_viewers": 1290,
+      "live_viewers": 1373,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -119,6 +119,26 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCozx5csNhCx1wsVq3SZVkBQ": {
+      "video_id": "8G9hYulqc0o",
+      "title": "【バブ】マリン船長とこぼが赤ちゃんに!?ホロベイビーズ新作がヤバい【昼ホロ/井月みちる】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "News_Show",
+      "published_at": "2026-05-12T17:32:52.000Z",
+      "available_at": "2026-05-13T02:58:12.000Z",
+      "start_scheduled": "2026-05-13T03:00:00.000Z",
+      "start_actual": "2026-05-13T02:58:12.000Z",
+      "live_viewers": 911,
+      "channel": {
+        "id": "UCozx5csNhCx1wsVq3SZVkBQ",
+        "name": "holoAN room (ホロアナ)",
+        "english_name": "holoAN room",
+        "org": "Hololive",
+        "suborg": "0hOfficial",
+        "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
