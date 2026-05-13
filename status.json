@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778637559,
+  "cached_at": 1778637620,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "wKqqf0Saxlk",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-12T22:44:53.000Z",
       "start_scheduled": "2026-05-12T22:40:00.000Z",
       "start_actual": "2026-05-12T22:44:53.000Z",
-      "live_viewers": 1181,
+      "live_viewers": 1201,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-12T23:58:53.000Z",
       "start_scheduled": "2026-05-13T00:00:00.000Z",
       "start_actual": "2026-05-12T23:58:53.000Z",
-      "live_viewers": 850,
+      "live_viewers": 840,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-13T00:30:24.000Z",
       "start_scheduled": "2026-05-13T00:30:00.000Z",
       "start_actual": "2026-05-13T00:30:24.000Z",
-      "live_viewers": 7734,
+      "live_viewers": 7915,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-13T01:21:09.000Z",
       "start_scheduled": "2026-05-13T01:00:00.000Z",
       "start_actual": "2026-05-13T01:21:09.000Z",
-      "live_viewers": 266,
+      "live_viewers": 268,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
