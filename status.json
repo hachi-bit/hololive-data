@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778645239,
+  "cached_at": 1778645301,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "S6mP1MZ2A1I",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-13T02:00:38.000Z",
       "start_scheduled": "2026-05-13T02:00:00.000Z",
       "start_actual": "2026-05-13T02:00:38.000Z",
-      "live_viewers": 664,
+      "live_viewers": 698,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCozx5csNhCx1wsVq3SZVkBQ": {
-      "video_id": "8G9hYulqc0o",
-      "title": "【バブ】マリン船長とこぼが赤ちゃんに！？ホロベイビーズ新作がヤバい【昼ホロ/井月みちる】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "News_Show",
-      "published_at": "2026-05-12T17:32:52.000Z",
-      "available_at": "2026-05-13T02:58:12.000Z",
-      "start_scheduled": "2026-05-13T03:00:00.000Z",
-      "start_actual": "2026-05-13T02:58:12.000Z",
-      "live_viewers": 4627,
-      "channel": {
-        "id": "UCozx5csNhCx1wsVq3SZVkBQ",
-        "name": "holoAN room (ホロアナ)",
-        "english_name": "holoAN room",
-        "org": "Hololive",
-        "suborg": "0hOfficial",
-        "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
