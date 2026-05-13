@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778683279,
+  "cached_at": 1778683341,
   "lives": {
     "UC0TXe_LYZ4scaW2XMyi5_kw": {
       "video_id": "ngE079hXZTM",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-13T10:00:37.000Z",
       "start_scheduled": "2026-05-13T10:00:00.000Z",
       "start_actual": "2026-05-13T10:00:37.000Z",
-      "live_viewers": 11896,
+      "live_viewers": 11897,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -61,26 +61,6 @@
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UChAnqc_AY5_I3Px5dig3X1Q": {
-      "video_id": "SfqxDnTyuhQ",
-      "title": "リスナーだらけの『トモダチコレクション わくわく生活』あそぶ!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-13T08:53:34.000Z",
-      "available_at": "2026-05-13T11:00:12.000Z",
-      "start_scheduled": "2026-05-13T11:00:00.000Z",
-      "start_actual": "2026-05-13T11:00:12.000Z",
-      "live_viewers": 9817,
-      "channel": {
-        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
-        "name": "Korone Ch. 戌神ころね",
-        "english_name": "Inugami Korone",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "z6ZfgszTZUI",
       "title": "【 FINAL FANTASY IX | FF9 初見 #6 】“いつか帰るところ\"を知るための旅へ【 水無世燐央 | UPROAR!! 】",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-13T11:01:53.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
       "start_actual": "2026-05-13T11:01:53.000Z",
-      "live_viewers": 235,
+      "live_viewers": 234,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-13T13:59:42.000Z",
       "start_scheduled": "2026-05-13T14:00:00.000Z",
       "start_actual": "2026-05-13T13:59:42.000Z",
-      "live_viewers": 15012,
+      "live_viewers": 15330,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-13T14:00:13.000Z",
       "start_scheduled": "2026-05-13T14:00:00.000Z",
       "start_actual": "2026-05-13T14:00:13.000Z",
-      "live_viewers": 3566,
+      "live_viewers": 3589,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-13T14:00:54.000Z",
       "start_scheduled": "2026-05-13T14:00:00.000Z",
       "start_actual": "2026-05-13T14:00:54.000Z",
-      "live_viewers": 3379,
+      "live_viewers": 3514,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-13T14:20:39.000Z",
       "start_scheduled": "2026-05-13T14:21:00.000Z",
       "start_actual": "2026-05-13T14:20:39.000Z",
-      "live_viewers": 1354,
+      "live_viewers": 1375,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
