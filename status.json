@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778684900,
+  "cached_at": 1778684960,
   "lives": {
     "UC0TXe_LYZ4scaW2XMyi5_kw": {
       "video_id": "ngE079hXZTM",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-13T10:00:37.000Z",
       "start_scheduled": "2026-05-13T10:00:00.000Z",
       "start_actual": "2026-05-13T10:00:37.000Z",
-      "live_viewers": 11375,
+      "live_viewers": 11227,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-13T12:00:37.000Z",
       "start_scheduled": "2026-05-13T12:00:00.000Z",
       "start_actual": "2026-05-13T12:00:37.000Z",
-      "live_viewers": 3855,
+      "live_viewers": 3888,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1iA6_NT4mtAcIII6ygrvCw": {
-      "video_id": "SXffGGg_u_I",
-      "title": "【メンバー限定】最近のおはなし∼！！【轟はじめ/ReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-13T04:04:21.000Z",
-      "available_at": "2026-05-13T13:00:09.000Z",
-      "start_scheduled": "2026-05-13T13:00:00.000Z",
-      "start_actual": "2026-05-13T13:00:09.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-        "english_name": "Todoroki Hajime",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCp6993wxpyDPHUpavwDFqgg": {
@@ -131,7 +111,7 @@
       "available_at": "2026-05-13T13:59:41.000Z",
       "start_scheduled": "2026-05-13T14:00:00.000Z",
       "start_actual": "2026-05-13T13:59:41.000Z",
-      "live_viewers": 5161,
+      "live_viewers": 5391,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-13T13:59:42.000Z",
       "start_scheduled": "2026-05-13T14:00:00.000Z",
       "start_actual": "2026-05-13T13:59:42.000Z",
-      "live_viewers": 16010,
+      "live_viewers": 16308,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-13T13:59:46.000Z",
       "start_scheduled": "2026-05-13T14:00:00.000Z",
       "start_actual": "2026-05-13T13:59:46.000Z",
-      "live_viewers": 23787,
+      "live_viewers": 23924,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-13T14:00:54.000Z",
       "start_scheduled": "2026-05-13T14:00:00.000Z",
       "start_actual": "2026-05-13T14:00:54.000Z",
-      "live_viewers": 3548,
+      "live_viewers": 3646,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-13T14:01:07.000Z",
       "start_scheduled": "2026-05-13T14:00:00.000Z",
       "start_actual": "2026-05-13T14:01:07.000Z",
-      "live_viewers": 1231,
+      "live_viewers": 1260,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-13T14:20:39.000Z",
       "start_scheduled": "2026-05-13T14:21:00.000Z",
       "start_actual": "2026-05-13T14:20:39.000Z",
-      "live_viewers": 1741,
+      "live_viewers": 1768,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
