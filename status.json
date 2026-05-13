@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778674699,
+  "cached_at": 1778674759,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "p10HUmvmrfc",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-13T11:00:09.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
       "start_actual": "2026-05-13T11:00:09.000Z",
-      "live_viewers": 19589,
+      "live_viewers": 19687,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-13T11:00:12.000Z",
       "start_scheduled": "2026-05-13T11:00:00.000Z",
       "start_actual": "2026-05-13T11:00:12.000Z",
-      "live_viewers": 12990,
+      "live_viewers": 13236,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-13T11:51:12.000Z",
       "start_scheduled": "2026-05-13T11:50:00.000Z",
       "start_actual": "2026-05-13T11:51:12.000Z",
-      "live_viewers": 1499,
+      "live_viewers": 1572,
       "channel": {
         "id": "UCIG9rDtgR45VCZmYnd-4DUw",
         "name": "ラトナ・プティ -Ratna Petit -にじさんじ所属",
@@ -139,25 +139,6 @@
         "org": "Nijisanji",
         "suborg": "0wPosanke",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mX9S_nkRRv8Mk7hqcb_S4c4awLoeI0mIbZRQWMoO3ox9I=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvaTdHTWBGv3MKj3KVqJVCw": {
-      "video_id": "rv2kf4jRbb4",
-      "title": "【 💜月一企画メン限 】お久ぶりの❕お悩み相談室🍙✦【 猫又おかゆ/ホロライブ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-07T21:20:45.000Z",
-      "available_at": "2026-05-13T12:00:00.000Z",
-      "start_scheduled": "2026-05-13T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-        "name": "Okayu Ch. 猫又おかゆ",
-        "english_name": "Nekomata Okayu",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCTvHWSfBZgtxE4sILOaurIQ": {
@@ -170,7 +151,7 @@
       "available_at": "2026-05-13T12:00:14.000Z",
       "start_scheduled": "2026-05-13T12:00:00.000Z",
       "start_actual": "2026-05-13T12:00:14.000Z",
-      "live_viewers": 1316,
+      "live_viewers": 1433,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -190,7 +171,7 @@
       "available_at": "2026-05-13T12:00:37.000Z",
       "start_scheduled": "2026-05-13T12:00:00.000Z",
       "start_actual": "2026-05-13T12:00:37.000Z",
-      "live_viewers": 2493,
+      "live_viewers": 2716,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -198,6 +179,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvaTdHTWBGv3MKj3KVqJVCw": {
+      "video_id": "rv2kf4jRbb4",
+      "title": "【 💜月一企画メン限 】お久ぶりの❕お悩み相談室🍙✦【 猫又おかゆ/ホロライブ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-07T21:20:45.000Z",
+      "available_at": "2026-05-13T12:02:30.000Z",
+      "start_scheduled": "2026-05-13T12:00:00.000Z",
+      "start_actual": "2026-05-13T12:02:30.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+        "name": "Okayu Ch. 猫又おかゆ",
+        "english_name": "Nekomata Okayu",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvzGlP9oQwU--Y0r9id_jnA": {
@@ -210,7 +211,7 @@
       "available_at": "2026-05-13T12:03:03.000Z",
       "start_scheduled": "2026-05-13T12:00:00.000Z",
       "start_actual": "2026-05-13T12:03:03.000Z",
-      "live_viewers": 30075,
+      "live_viewers": 30976,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
