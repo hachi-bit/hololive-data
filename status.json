@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778774059,
+  "cached_at": 1778774119,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "i09xOxKEWKA",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-14T12:00:21.000Z",
       "start_scheduled": "2026-05-14T12:00:00.000Z",
       "start_actual": "2026-05-14T12:00:21.000Z",
-      "live_viewers": 6004,
+      "live_viewers": 5162,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-14T12:59:24.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T12:59:24.000Z",
-      "live_viewers": 11297,
+      "live_viewers": 11219,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-14T14:05:14.000Z",
       "start_scheduled": "2026-05-14T14:00:00.000Z",
       "start_actual": "2026-05-14T14:05:14.000Z",
-      "live_viewers": 107,
+      "live_viewers": 97,
       "channel": {
         "id": "UCJlcEuTs4LNMPn0xL3czRrA",
         "name": "ONShannon ",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-14T14:06:22.000Z",
       "start_scheduled": "2026-05-14T14:00:00.000Z",
       "start_actual": "2026-05-14T14:06:22.000Z",
-      "live_viewers": 6420,
+      "live_viewers": 6475,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-14T14:06:25.000Z",
       "start_scheduled": "2026-05-14T14:00:00.000Z",
       "start_actual": "2026-05-14T14:06:25.000Z",
-      "live_viewers": 14607,
+      "live_viewers": 14542,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -261,26 +261,6 @@
         "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCp6993wxpyDPHUpavwDFqgg": {
-      "video_id": "_Z_XAxbsYx4",
-      "title": "【誕生日カウントダウン】15日はお知らせがいっぱいです。【ホロライブ/ときのそら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Birthday",
-      "published_at": "2026-05-14T09:41:17.000Z",
-      "available_at": "2026-05-14T14:30:56.000Z",
-      "start_scheduled": "2026-05-14T14:30:00.000Z",
-      "start_actual": "2026-05-14T14:30:56.000Z",
-      "live_viewers": 3891,
-      "channel": {
-        "id": "UCp6993wxpyDPHUpavwDFqgg",
-        "name": "SoraCh. ときのそらチャンネル",
-        "english_name": "Tokino Sora",
-        "org": "Hololive",
-        "suborg": "0v0th Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "uKIUbr2yqP8",
       "title": "【Tomodachi Life】If You Laugh You Go To Southeast Asia【Pavolia Reine/hololiveID】",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-14T14:32:12.000Z",
       "start_scheduled": "2026-05-14T14:30:00.000Z",
       "start_actual": "2026-05-14T14:32:12.000Z",
-      "live_viewers": 1179,
+      "live_viewers": 1188,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
