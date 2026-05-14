@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778767280,
+  "cached_at": 1778767341,
   "lives": {
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "RIEqLwMhFyM",
-      "title": "【歌枠 / karaoke】最近ちょっと歌ってなかったんでね / アステル",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-05-14T11:03:37.000Z",
-      "available_at": "2026-05-14T11:44:25.000Z",
-      "start_scheduled": "2026-05-14T11:30:00.000Z",
-      "start_actual": "2026-05-14T11:44:25.000Z",
-      "live_viewers": 734,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "i09xOxKEWKA",
       "title": "【 FINAL FANTASY IX | FF9 初見 #7 】“いつか帰るところ\"を知るための旅へ【 水無世燐央 | UPROAR!! 】",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-14T12:00:24.000Z",
       "start_scheduled": "2026-05-14T12:00:00.000Z",
       "start_actual": "2026-05-14T12:00:24.000Z",
-      "live_viewers": 10001,
+      "live_viewers": 9567,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-14T13:00:06.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T13:00:06.000Z",
-      "live_viewers": 1302,
+      "live_viewers": 1262,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-14T13:00:19.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T13:00:19.000Z",
-      "live_viewers": 14068,
+      "live_viewers": 13944,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-14T13:11:12.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T13:11:12.000Z",
-      "live_viewers": 6114,
+      "live_viewers": 5366,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-14T13:15:28.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T13:15:28.000Z",
-      "live_viewers": 11925,
+      "live_viewers": 11894,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-14T13:31:21.000Z",
       "start_scheduled": "2026-05-14T13:30:00.000Z",
       "start_actual": "2026-05-14T13:31:21.000Z",
-      "live_viewers": 5489,
+      "live_viewers": 5717,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -299,6 +279,158 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdyqAaZDKHXg4Ahi7VENThQ": {
+      "video_id": "zNUybqEHpQY",
+      "title": "【R.E.P.O.】久々のしらけんうれぢい!!!初めてのアプデを遊んでみる~~~!!!【白銀ノエル/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-05-14T06:15:18.000Z",
+      "available_at": "2026-05-14T14:00:00.000Z",
+      "start_scheduled": "2026-05-14T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+        "name": "Noel Ch. 白銀ノエル",
+        "english_name": "Shirogane Noel",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCIa2OxCyhjWjJke-9yYNbwA": {
+      "video_id": "1VPczPeyxe8",
+      "title": "【CURSED COMPANIONS】KOPIKANONNNN HEHEHEHE",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-05-14T12:02:41.000Z",
+      "available_at": "2026-05-14T14:00:00.000Z",
+      "start_scheduled": "2026-05-14T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCIa2OxCyhjWjJke-9yYNbwA",
+        "name": "Pia Meraleo - JKT48V",
+        "english_name": "Pia Meraleo",
+        "org": "Independents",
+        "suborg": "jkJKT48V",
+        "photo": "https://yt3.ggpht.com/6IOEgVvPXOJxjpnnFdnrhVwtzQ96FPTLOiDJi-MLK2bw-DxdC_ZTtivwvV425ZV_FuxFyaE_3A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC5CwaMl1eIgY8h02uZw7u8A": {
+      "video_id": "3etiI2ce098",
+      "title": "【R.E.P.O】#不知火建設 出勤!みんなでれぽ【星街すいせい / #ほしまちすたじお】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-05-14T08:50:34.000Z",
+      "available_at": "2026-05-14T14:00:00.000Z",
+      "start_scheduled": "2026-05-14T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC5CwaMl1eIgY8h02uZw7u8A",
+        "name": "Suisei Channel",
+        "english_name": "Hoshimachi Suisei",
+        "org": "Hololive",
+        "suborg": "0x0th Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCJlcEuTs4LNMPn0xL3czRrA": {
+      "video_id": "AQra5k8ryjQ",
+      "title": "Kopikanon!!!! @PiaMeraleo-JKT48V @KaelaKovalskia | Cursed Companion",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-05-14T10:30:37.000Z",
+      "available_at": "2026-05-14T14:00:00.000Z",
+      "start_scheduled": "2026-05-14T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCJlcEuTs4LNMPn0xL3czRrA",
+        "name": "ONShannon ",
+        "english_name": "Shannon Lynn",
+        "org": "AKA Virtual",
+        "suborg": "0gChao.5",
+        "photo": "https://yt3.ggpht.com/vofOOZs6Rby_Cx6OlTM2YvfIHFm7IfP1ZSmVmxU6_OBiBcnvsl72O5SpSj6ZGPjY5452hWzF=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCK9V2B22uJYu3N7eR_BT9QA": {
+      "video_id": "bNjs2FHGXKw",
+      "title": "【R.E.P.O.】久々しらけん💓アプデ後のレポで遊びまくる!!!【尾丸ポルカ視点/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-05-13T23:42:26.000Z",
+      "available_at": "2026-05-14T14:00:00.000Z",
+      "start_scheduled": "2026-05-14T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+        "name": "Polka Ch. 尾丸ポルカ",
+        "english_name": "Omaru Polka",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZLZ8Jjx_RN2CXloOmgTHVg": {
+      "video_id": "ewUMsOTWYks",
+      "title": "【Cursed Companions】they dont know what they're into 😏【KOPIKANON】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-05-14T11:37:06.000Z",
+      "available_at": "2026-05-14T14:00:00.000Z",
+      "start_scheduled": "2026-05-14T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "name": "Kaela Kovalskia Ch. hololive-ID",
+        "english_name": "Kaela Kovalskia",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "hBjxjJVicIM",
+      "title": "【 MOTHER 】完全初見!『MOTHERシリーズ』今夜もやります!【鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "EarthBound",
+      "published_at": "2026-05-12T17:41:18.000Z",
+      "available_at": "2026-05-14T14:00:00.000Z",
+      "start_scheduled": "2026-05-14T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvInZx9h3jC2JzsIzoOebWg": {
+      "video_id": "ZhygyDVmpzc",
+      "title": "【R.E.P.O.】久々の #不知火建設 でコスメティック探し!【不知火フレア/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-05-14T11:26:22.000Z",
+      "available_at": "2026-05-14T14:00:00.000Z",
+      "start_scheduled": "2026-05-14T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvInZx9h3jC2JzsIzoOebWg",
+        "name": "Flare Ch. 不知火フレア",
+        "english_name": "Shiranui Flare",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
