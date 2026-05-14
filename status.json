@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778764821,
+  "cached_at": 1778764879,
   "lives": {
-    "UCWQtYtq9EOB4-I5P-3fh8lA": {
-      "video_id": "1QWNR8KbPXI",
-      "title": "【Stray】この猫ちゃんへ外の世界へ脱出できるんだろうか?!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Stray",
-      "published_at": "2026-05-14T10:15:31.000Z",
-      "available_at": "2026-05-14T11:00:17.000Z",
-      "start_scheduled": "2026-05-14T11:00:00.000Z",
-      "start_actual": "2026-05-14T11:00:17.000Z",
-      "live_viewers": 3646,
-      "channel": {
-        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-        "english_name": "Otonose Kanade",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "RIEqLwMhFyM",
       "title": "【歌枠 / karaoke】最近ちょっと歌ってなかったんでね / アステル",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-14T11:44:25.000Z",
       "start_scheduled": "2026-05-14T11:30:00.000Z",
       "start_actual": "2026-05-14T11:44:25.000Z",
-      "live_viewers": 701,
+      "live_viewers": 725,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-14T12:00:21.000Z",
       "start_scheduled": "2026-05-14T12:00:00.000Z",
       "start_actual": "2026-05-14T12:00:21.000Z",
-      "live_viewers": 5666,
+      "live_viewers": 5626,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-14T12:59:24.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T12:59:24.000Z",
-      "live_viewers": 13151,
+      "live_viewers": 13657,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-14T13:00:06.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T13:00:06.000Z",
-      "live_viewers": 992,
+      "live_viewers": 991,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-14T13:00:09.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T13:00:09.000Z",
-      "live_viewers": 205,
+      "live_viewers": 207,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-14T13:00:19.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T13:00:19.000Z",
-      "live_viewers": 12391,
+      "live_viewers": 12643,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-14T13:00:21.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T13:00:21.000Z",
-      "live_viewers": 4502,
+      "live_viewers": 4635,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-14T13:11:12.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T13:11:12.000Z",
-      "live_viewers": 3518,
+      "live_viewers": 3647,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-14T13:15:28.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T13:15:28.000Z",
-      "live_viewers": 11633,
+      "live_viewers": 12042,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
