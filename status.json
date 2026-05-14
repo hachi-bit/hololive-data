@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778764699,
+  "cached_at": 1778764759,
   "lives": {
     "UCWQtYtq9EOB4-I5P-3fh8lA": {
       "video_id": "1QWNR8KbPXI",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-14T11:46:05.000Z",
       "start_scheduled": "2026-05-14T11:00:00.000Z",
       "start_actual": "2026-05-14T11:46:05.000Z",
-      "live_viewers": 179,
+      "live_viewers": 173,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-14T12:00:21.000Z",
       "start_scheduled": "2026-05-14T12:00:00.000Z",
       "start_actual": "2026-05-14T12:00:21.000Z",
-      "live_viewers": 5473,
+      "live_viewers": 5666,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-14T12:00:24.000Z",
       "start_scheduled": "2026-05-14T12:00:00.000Z",
       "start_actual": "2026-05-14T12:00:24.000Z",
-      "live_viewers": 10089,
+      "live_viewers": 10375,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-14T12:02:25.000Z",
       "start_scheduled": "2026-05-14T12:00:00.000Z",
       "start_actual": "2026-05-14T12:02:25.000Z",
-      "live_viewers": 22309,
+      "live_viewers": 22563,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-14T12:33:51.000Z",
       "start_scheduled": "2026-05-14T12:30:00.000Z",
       "start_actual": "2026-05-14T12:33:51.000Z",
-      "live_viewers": 134,
+      "live_viewers": 141,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-14T12:59:24.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T12:59:24.000Z",
-      "live_viewers": 12403,
+      "live_viewers": 13151,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -159,25 +159,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "vgsfT7GUFNs",
-      "title": "#7【初見】『機動戦士ガンダム Zガンダム』同時視聴!!ぺこ!【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-05-12T22:09:41.000Z",
-      "available_at": "2026-05-14T13:00:00.000Z",
-      "start_scheduled": "2026-05-14T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCCzUftO8KOVkV4wQG1vkUvg": {
@@ -210,7 +191,7 @@
       "available_at": "2026-05-14T13:00:06.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T13:00:06.000Z",
-      "live_viewers": 880,
+      "live_viewers": 992,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -230,7 +211,7 @@
       "available_at": "2026-05-14T13:00:09.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T13:00:09.000Z",
-      "live_viewers": 188,
+      "live_viewers": 205,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -250,7 +231,7 @@
       "available_at": "2026-05-14T13:00:19.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T13:00:19.000Z",
-      "live_viewers": 11308,
+      "live_viewers": 12391,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -270,7 +251,7 @@
       "available_at": "2026-05-14T13:00:21.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T13:00:21.000Z",
-      "live_viewers": 4143,
+      "live_viewers": 4502,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -290,7 +271,7 @@
       "available_at": "2026-05-14T13:11:12.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T13:11:12.000Z",
-      "live_viewers": 2617,
+      "live_viewers": 3518,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -298,6 +279,26 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "vgsfT7GUFNs",
+      "title": "#7【初見】『機動戦士ガンダム Zガンダム』同時視聴!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-05-12T22:09:41.000Z",
+      "available_at": "2026-05-14T13:15:28.000Z",
+      "start_scheduled": "2026-05-14T13:00:00.000Z",
+      "start_actual": "2026-05-14T13:15:28.000Z",
+      "live_viewers": 11633,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
