@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778785821,
+  "cached_at": 1778785879,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "uKIUbr2yqP8",
@@ -22,15 +22,16 @@
       }
     },
     "UCvN5h1ShZtc7nly3pezRayg": {
-      "video_id": "Lj83MOPP0sc",
-      "title": "【Marvel’s Spider-Man】HELLO WAKE UP RIGHT NOW!!!",
+      "video_id": "MV5n4u-Em3U",
+      "title": "【Marvel's Spider-Man】HELLO WAKE UP RIGHT NOW!!!",
       "type": "stream",
       "status": "live",
       "topic_id": "Spider-Man",
-      "published_at": "2026-05-14T06:07:53.000Z",
-      "available_at": "2026-05-14T19:05:00.000Z",
-      "start_scheduled": "2026-05-14T19:05:00.000Z",
-      "live_viewers": 0,
+      "published_at": "2026-05-14T19:07:52.000Z",
+      "available_at": "2026-05-14T19:08:57.000Z",
+      "start_scheduled": "2026-05-14T19:10:00.000Z",
+      "start_actual": "2026-05-14T19:08:57.000Z",
+      "live_viewers": 839,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
