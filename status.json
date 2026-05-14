@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778800579,
+  "cached_at": 1778800639,
   "lives": {
     "UC6t3-_N8A6ME1JShZHHqOMw": {
       "video_id": "v3NcZQmf_mM",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-14T22:57:36.000Z",
       "start_scheduled": "2026-05-14T23:00:00.000Z",
       "start_actual": "2026-05-14T22:57:36.000Z",
-      "live_viewers": 3917,
+      "live_viewers": 4192,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -48,9 +48,10 @@
       "status": "live",
       "topic_id": "none",
       "published_at": "2026-05-14T07:57:25.000Z",
-      "available_at": "2026-05-14T23:00:00.000Z",
+      "available_at": "2026-05-14T23:11:24.000Z",
       "start_scheduled": "2026-05-14T23:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-14T23:11:24.000Z",
+      "live_viewers": 368,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
