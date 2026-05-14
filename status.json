@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778799559,
+  "cached_at": 1778799619,
   "lives": {
     "UC6t3-_N8A6ME1JShZHHqOMw": {
       "video_id": "v3NcZQmf_mM",
@@ -19,6 +19,26 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9p_lqQ0FEDz327Vgf5JwqA": {
+      "video_id": "Li7dZitL1c0",
+      "title": "【Tomodachi Life: Living the Dream】BABIES AND RAGE",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-14T12:37:13.000Z",
+      "available_at": "2026-05-14T22:57:36.000Z",
+      "start_scheduled": "2026-05-14T23:00:00.000Z",
+      "start_actual": "2026-05-14T22:57:36.000Z",
+      "live_viewers": 1103,
+      "channel": {
+        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+        "name": "Koseki Bijou Ch. hololive-EN",
+        "english_name": "Koseki Bijou",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
