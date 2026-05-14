@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778756239,
+  "cached_at": 1778756299,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "OoYPsXmStX4",
@@ -79,6 +79,26 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAWSyEs_Io8MtpY3m-zqILA": {
+      "video_id": "YrarGSWsXjQ",
+      "title": "【超重大告知】1人VS3人!?試練を超えてレベルアップ!ねぽらぼゲーム対決!【 桃鈴ねね / hololive 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "announce",
+      "published_at": "2026-05-12T13:52:26.000Z",
+      "available_at": "2026-05-14T10:55:11.000Z",
+      "start_scheduled": "2026-05-14T11:00:00.000Z",
+      "start_actual": "2026-05-14T10:55:11.000Z",
+      "live_viewers": 5397,
+      "channel": {
+        "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+        "name": "Nene Ch.桃鈴ねね",
+        "english_name": "Momosuzu Nene",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
