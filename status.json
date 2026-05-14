@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778770699,
+  "cached_at": 1778770759,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "i09xOxKEWKA",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-14T11:46:05.000Z",
       "start_scheduled": "2026-05-14T11:00:00.000Z",
       "start_actual": "2026-05-14T11:46:05.000Z",
-      "live_viewers": 198,
+      "live_viewers": 132,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-14T12:02:25.000Z",
       "start_scheduled": "2026-05-14T12:00:00.000Z",
       "start_actual": "2026-05-14T12:02:25.000Z",
-      "live_viewers": 19335,
+      "live_viewers": 19326,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-14T12:33:51.000Z",
       "start_scheduled": "2026-05-14T12:30:00.000Z",
       "start_actual": "2026-05-14T12:33:51.000Z",
-      "live_viewers": 153,
+      "live_viewers": 166,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-14T12:59:24.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T12:59:24.000Z",
-      "live_viewers": 12805,
+      "live_viewers": 12500,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -159,26 +159,6 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdXAk5MpyLD8594lm_OvtGQ": {
-      "video_id": "mGyRoV9hWv8",
-      "title": "【丸わかりクイズ偉人伝】世界の画家ーゆるっと学べる美術芸術雑学教養学習ゲームー挑戦!!【儒烏風亭らでん #ReGLOSS 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Quiz",
-      "published_at": "2026-05-14T11:56:33.000Z",
-      "available_at": "2026-05-14T13:00:21.000Z",
-      "start_scheduled": "2026-05-14T13:00:00.000Z",
-      "start_actual": "2026-05-14T13:00:21.000Z",
-      "live_viewers": 4275,
-      "channel": {
-        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
-        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
-        "english_name": "Juufuutei Raden",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1uv2Oq6kNxgATlCiez59hw": {
@@ -251,7 +231,7 @@
       "available_at": "2026-05-14T14:01:22.000Z",
       "start_scheduled": "2026-05-14T14:00:00.000Z",
       "start_actual": "2026-05-14T14:01:22.000Z",
-      "live_viewers": 98,
+      "live_viewers": 95,
       "channel": {
         "id": "UCIa2OxCyhjWjJke-9yYNbwA",
         "name": "Pia Meraleo - JKT48V",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-14T14:01:37.000Z",
       "start_scheduled": "2026-05-14T14:00:00.000Z",
       "start_actual": "2026-05-14T14:01:37.000Z",
-      "live_viewers": 6730,
+      "live_viewers": 7055,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-14T14:05:14.000Z",
       "start_scheduled": "2026-05-14T14:00:00.000Z",
       "start_actual": "2026-05-14T14:05:14.000Z",
-      "live_viewers": 110,
+      "live_viewers": 118,
       "channel": {
         "id": "UCJlcEuTs4LNMPn0xL3czRrA",
         "name": "ONShannon ",
@@ -351,7 +331,7 @@
       "available_at": "2026-05-14T14:06:22.000Z",
       "start_scheduled": "2026-05-14T14:00:00.000Z",
       "start_actual": "2026-05-14T14:06:22.000Z",
-      "live_viewers": 5801,
+      "live_viewers": 6040,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -371,7 +351,7 @@
       "available_at": "2026-05-14T14:06:25.000Z",
       "start_scheduled": "2026-05-14T14:00:00.000Z",
       "start_actual": "2026-05-14T14:06:25.000Z",
-      "live_viewers": 13928,
+      "live_viewers": 13849,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -411,7 +391,7 @@
       "available_at": "2026-05-14T14:30:56.000Z",
       "start_scheduled": "2026-05-14T14:30:00.000Z",
       "start_actual": "2026-05-14T14:30:56.000Z",
-      "live_viewers": 3567,
+      "live_viewers": 3801,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -431,7 +411,7 @@
       "available_at": "2026-05-14T14:32:12.000Z",
       "start_scheduled": "2026-05-14T14:30:00.000Z",
       "start_actual": "2026-05-14T14:32:12.000Z",
-      "live_viewers": 656,
+      "live_viewers": 718,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
