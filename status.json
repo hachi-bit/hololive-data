@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778747539,
+  "cached_at": 1778747599,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "h0bmtYmlw14",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-14T03:00:30.000Z",
       "start_scheduled": "2026-05-14T03:00:00.000Z",
       "start_actual": "2026-05-14T03:00:30.000Z",
-      "live_viewers": 897,
+      "live_viewers": 914,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-14T08:17:18.000Z",
       "start_scheduled": "2026-05-14T08:15:00.000Z",
       "start_actual": "2026-05-14T08:17:18.000Z",
-      "live_viewers": 584,
+      "live_viewers": 671,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -59,6 +59,25 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1uv2Oq6kNxgATlCiez59hw": {
+      "video_id": "FKATOc9ipF0",
+      "title": "【 カミとミコ 】#1 | 謎解き×アドベンチャーゲーム✨️ ※ネタバレあり‼️【 常闇トワ/ホロライブ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-14T07:28:00.000Z",
+      "available_at": "2026-05-14T08:30:00.000Z",
+      "start_scheduled": "2026-05-14T08:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1uv2Oq6kNxgATlCiez59hw",
+        "name": "Towa Ch. 常闇トワ",
+        "english_name": "Tokoyami Towa",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
