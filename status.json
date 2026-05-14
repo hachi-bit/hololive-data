@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778749580,
+  "cached_at": 1778749641,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "h0bmtYmlw14",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-14T00:03:41.000Z",
       "start_scheduled": "2026-05-14T00:00:00.000Z",
       "start_actual": "2026-05-14T00:03:41.000Z",
-      "live_viewers": 740,
+      "live_viewers": 615,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-14T08:59:42.000Z",
       "start_scheduled": "2026-05-14T09:00:00.000Z",
       "start_actual": "2026-05-14T08:59:42.000Z",
-      "live_viewers": 2692,
+      "live_viewers": 3481,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1CfXB_kRs3C-zaeTG3oGyg": {
-      "video_id": "PyRSjT6okec",
-      "title": "【激カワ】新衣装お披露目だああああああい!!!【ホロライブ/赤井はあと】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Outfit_Reveal",
-      "published_at": "2026-05-14T09:00:07.000Z",
-      "available_at": "2026-05-14T09:00:07.000Z",
-      "start_scheduled": "2026-05-14T09:00:00.000Z",
-      "start_actual": "2026-05-14T09:00:07.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-        "name": "HAACHAMA Ch 赤井はあと",
-        "english_name": "Akai Haato",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/jxI6FmNKDpYKXB0puyLhB5gq4JgWFvRT9Rr2C_d3hFT1q0SSOHh3QIUfvSxfTHupTXFnleqI=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
@@ -131,7 +111,7 @@
       "available_at": "2026-05-14T09:00:53.000Z",
       "start_scheduled": "2026-05-14T09:00:00.000Z",
       "start_actual": "2026-05-14T09:00:53.000Z",
-      "live_viewers": 2476,
+      "live_viewers": 3360,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
