@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778760319,
+  "cached_at": 1778760379,
   "lives": {
     "UCWQtYtq9EOB4-I5P-3fh8lA": {
       "video_id": "1QWNR8KbPXI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-14T11:00:17.000Z",
       "start_scheduled": "2026-05-14T11:00:00.000Z",
       "start_actual": "2026-05-14T11:00:17.000Z",
-      "live_viewers": 4426,
+      "live_viewers": 4865,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-14T11:01:19.000Z",
       "start_scheduled": "2026-05-14T11:00:00.000Z",
       "start_actual": "2026-05-14T11:01:19.000Z",
-      "live_viewers": 3859,
+      "live_viewers": 4127,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-14T11:44:25.000Z",
       "start_scheduled": "2026-05-14T11:30:00.000Z",
       "start_actual": "2026-05-14T11:44:25.000Z",
-      "live_viewers": 641,
+      "live_viewers": 642,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-14T11:46:05.000Z",
       "start_scheduled": "2026-05-14T11:00:00.000Z",
       "start_actual": "2026-05-14T11:46:05.000Z",
-      "live_viewers": 149,
+      "live_viewers": 146,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -81,44 +81,6 @@
         "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "_TkXiRkaT08",
-      "title": "初めての福岡行ってみた!ぺこ!【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-14T03:25:25.000Z",
-      "available_at": "2026-05-14T12:00:00.000Z",
-      "start_scheduled": "2026-05-14T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvzGlP9oQwU--Y0r9id_jnA": {
-      "video_id": "awmpgK53YKY",
-      "title": "【#生スバル】トモダチから…そして伝説へ…：トモコレ【ホロライブ/大空スバル】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-14T08:18:01.000Z",
-      "available_at": "2026-05-14T12:00:00.000Z",
-      "start_scheduled": "2026-05-14T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-        "name": "Subaru Ch. 大空スバル",
-        "english_name": "Oozora Subaru",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "sGIxTUH3qho",
       "title": "【ポケモン/リーフグリーン】#8 パラスと一緒に初見ポケモン!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
@@ -126,10 +88,10 @@
       "status": "live",
       "topic_id": "Pokemon",
       "published_at": "2026-05-12T16:30:07.000Z",
-      "available_at": "2026-05-14T12:00:17.000Z",
+      "available_at": "2026-05-14T12:00:21.000Z",
       "start_scheduled": "2026-05-14T12:00:00.000Z",
-      "start_actual": "2026-05-14T12:00:17.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-14T12:00:21.000Z",
+      "live_viewers": 2422,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -146,10 +108,10 @@
       "status": "live",
       "topic_id": "Dread_Flats",
       "published_at": "2026-05-13T14:29:38.000Z",
-      "available_at": "2026-05-14T12:00:19.000Z",
+      "available_at": "2026-05-14T12:00:24.000Z",
       "start_scheduled": "2026-05-14T12:00:00.000Z",
-      "start_actual": "2026-05-14T12:00:19.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-14T12:00:24.000Z",
+      "live_viewers": 6065,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -157,6 +119,46 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "_TkXiRkaT08",
+      "title": "初めての福岡行ってみた!ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-14T03:25:25.000Z",
+      "available_at": "2026-05-14T12:01:42.000Z",
+      "start_scheduled": "2026-05-14T12:00:00.000Z",
+      "start_actual": "2026-05-14T12:01:42.000Z",
+      "live_viewers": 18353,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvzGlP9oQwU--Y0r9id_jnA": {
+      "video_id": "awmpgK53YKY",
+      "title": "【#生スバル】トモダチから…そして伝説へ…：トモコレ【ホロライブ/大空スバル】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-14T08:18:01.000Z",
+      "available_at": "2026-05-14T12:02:25.000Z",
+      "start_scheduled": "2026-05-14T12:00:00.000Z",
+      "start_actual": "2026-05-14T12:02:25.000Z",
+      "live_viewers": 9115,
+      "channel": {
+        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+        "name": "Subaru Ch. 大空スバル",
+        "english_name": "Oozora Subaru",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
