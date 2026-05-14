@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778724138,
+  "cached_at": 1778724199,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "0wu1lnq1JBQ",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-13T21:07:07.000Z",
       "start_scheduled": "2026-05-13T21:00:00.000Z",
       "start_actual": "2026-05-13T21:07:07.000Z",
-      "live_viewers": 4943,
+      "live_viewers": 5014,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -59,6 +59,25 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCMqGG8BRAiI1lJfKOpETM_w": {
+      "video_id": "VcwfaahJnzk",
+      "title": "【Resident Evil Requiem】2 - In which Shinri gets thirsty for blood  (Spoiler warning!)",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-05-13T16:10:51.000Z",
+      "available_at": "2026-05-14T02:00:00.000Z",
+      "start_scheduled": "2026-05-14T02:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCMqGG8BRAiI1lJfKOpETM_w",
+        "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
+        "english_name": "Josuiji Shinri",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
