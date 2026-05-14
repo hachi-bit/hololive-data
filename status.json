@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778779939,
+  "cached_at": 1778779999,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "i09xOxKEWKA",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-14T14:01:38.000Z",
       "start_scheduled": "2026-05-14T14:00:00.000Z",
       "start_actual": "2026-05-14T14:01:38.000Z",
-      "live_viewers": 5556,
+      "live_viewers": 5509,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1suqwovbL1kzsoaZgFZLKg": {
-      "video_id": "MzKo6Nx-72o",
-      "title": "【Freetalk】寝る前のゲリラ雑談のお時間です📣 【ホロライブ/癒月ちょこ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-14T15:38:20.000Z",
-      "available_at": "2026-05-14T16:01:51.000Z",
-      "start_scheduled": "2026-05-14T16:00:00.000Z",
-      "start_actual": "2026-05-14T16:01:51.000Z",
-      "live_viewers": 3661,
-      "channel": {
-        "id": "UC1suqwovbL1kzsoaZgFZLKg",
-        "name": "Choco Ch. 癒月ちょこ",
-        "english_name": "Yuzuki Choco",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
