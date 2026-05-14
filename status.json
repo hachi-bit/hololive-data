@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778763620,
+  "cached_at": 1778763681,
   "lives": {
     "UCWQtYtq9EOB4-I5P-3fh8lA": {
       "video_id": "1QWNR8KbPXI",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-14T11:44:25.000Z",
       "start_scheduled": "2026-05-14T11:30:00.000Z",
       "start_actual": "2026-05-14T11:44:25.000Z",
-      "live_viewers": 730,
+      "live_viewers": 727,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-14T12:00:21.000Z",
       "start_scheduled": "2026-05-14T12:00:00.000Z",
       "start_actual": "2026-05-14T12:00:21.000Z",
-      "live_viewers": 5439,
+      "live_viewers": 5528,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-14T12:01:42.000Z",
       "start_scheduled": "2026-05-14T12:00:00.000Z",
       "start_actual": "2026-05-14T12:01:42.000Z",
-      "live_viewers": 41820,
+      "live_viewers": 41598,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-14T12:33:51.000Z",
       "start_scheduled": "2026-05-14T12:30:00.000Z",
       "start_actual": "2026-05-14T12:33:51.000Z",
-      "live_viewers": 141,
+      "live_viewers": 151,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -179,6 +179,26 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+      "video_id": "eeOoUUxCvaI",
+      "title": "【R.E.P.O.】　今日はぼっちざREPO 【ホロライブ/白上フブキ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-05-14T08:13:45.000Z",
+      "available_at": "2026-05-14T12:59:19.000Z",
+      "start_scheduled": "2026-05-14T13:00:00.000Z",
+      "start_actual": "2026-05-14T12:59:19.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "name": "フブキCh。白上フブキ",
+        "english_name": "Shirakami Fubuki",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
