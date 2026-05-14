@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778775079,
+  "cached_at": 1778775139,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "i09xOxKEWKA",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "eeOoUUxCvaI",
-      "title": "【R.E.P.O.】　今日はぼっちざREPO 【ホロライブ/白上フブキ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-05-14T08:13:45.000Z",
-      "available_at": "2026-05-14T12:59:24.000Z",
-      "start_scheduled": "2026-05-14T13:00:00.000Z",
-      "start_actual": "2026-05-14T12:59:24.000Z",
-      "live_viewers": 10530,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "フブキCh。白上フブキ",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCP0BspO_AMEe3aQqqpo89Dg": {
@@ -71,7 +51,7 @@
       "available_at": "2026-05-14T13:11:12.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T13:11:12.000Z",
-      "live_viewers": 4105,
+      "live_viewers": 4028,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-14T14:01:28.000Z",
       "start_scheduled": "2026-05-14T14:00:00.000Z",
       "start_actual": "2026-05-14T14:01:28.000Z",
-      "live_viewers": 1593,
+      "live_viewers": 1639,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-14T14:01:37.000Z",
       "start_scheduled": "2026-05-14T14:00:00.000Z",
       "start_actual": "2026-05-14T14:01:37.000Z",
-      "live_viewers": 7027,
+      "live_viewers": 7236,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-14T14:01:38.000Z",
       "start_scheduled": "2026-05-14T14:00:00.000Z",
       "start_actual": "2026-05-14T14:01:38.000Z",
-      "live_viewers": 3540,
+      "live_viewers": 3768,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-14T14:06:25.000Z",
       "start_scheduled": "2026-05-14T14:00:00.000Z",
       "start_actual": "2026-05-14T14:06:25.000Z",
-      "live_viewers": 14269,
+      "live_viewers": 14426,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-14T14:07:20.000Z",
       "start_scheduled": "2026-05-14T14:00:00.000Z",
       "start_actual": "2026-05-14T14:07:20.000Z",
-      "live_viewers": 5483,
+      "live_viewers": 5610,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-14T14:32:12.000Z",
       "start_scheduled": "2026-05-14T14:30:00.000Z",
       "start_actual": "2026-05-14T14:32:12.000Z",
-      "live_viewers": 1306,
+      "live_viewers": 1376,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-14T16:01:51.000Z",
       "start_scheduled": "2026-05-14T16:00:00.000Z",
       "start_actual": "2026-05-14T16:01:51.000Z",
-      "live_viewers": 1187,
+      "live_viewers": 1684,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
