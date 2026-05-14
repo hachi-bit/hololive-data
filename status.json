@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778747840,
+  "cached_at": 1778747899,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "h0bmtYmlw14",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-14T08:17:18.000Z",
       "start_scheduled": "2026-05-14T08:15:00.000Z",
       "start_actual": "2026-05-14T08:17:18.000Z",
-      "live_viewers": 769,
+      "live_viewers": 836,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -63,14 +63,15 @@
     },
     "UC1uv2Oq6kNxgATlCiez59hw": {
       "video_id": "FKATOc9ipF0",
-      "title": "【 カミとミコ 】#１ | 謎解き×アドベンチャーゲーム✨️　※ネタバレあり‼️【 常闇トワ/ホロライブ 】",
+      "title": "【 カミとミコ 】#1 | 謎解き×アドベンチャーゲーム✨️ ※ネタバレあり‼️【 常闇トワ/ホロライブ 】",
       "type": "stream",
       "status": "live",
       "topic_id": "none",
       "published_at": "2026-05-14T07:28:00.000Z",
-      "available_at": "2026-05-14T08:30:00.000Z",
+      "available_at": "2026-05-14T08:33:27.000Z",
       "start_scheduled": "2026-05-14T08:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-14T08:33:27.000Z",
+      "live_viewers": 2112,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
