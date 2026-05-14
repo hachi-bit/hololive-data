@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778763919,
+  "cached_at": 1778763979,
   "lives": {
     "UCWQtYtq9EOB4-I5P-3fh8lA": {
       "video_id": "1QWNR8KbPXI",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-14T11:46:05.000Z",
       "start_scheduled": "2026-05-14T11:00:00.000Z",
       "start_actual": "2026-05-14T11:46:05.000Z",
-      "live_viewers": 176,
+      "live_viewers": 172,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-14T12:00:21.000Z",
       "start_scheduled": "2026-05-14T12:00:00.000Z",
       "start_actual": "2026-05-14T12:00:21.000Z",
-      "live_viewers": 5528,
+      "live_viewers": 5402,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-14T12:00:24.000Z",
       "start_scheduled": "2026-05-14T12:00:00.000Z",
       "start_actual": "2026-05-14T12:00:24.000Z",
-      "live_viewers": 10779,
+      "live_viewers": 10486,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-14T12:02:25.000Z",
       "start_scheduled": "2026-05-14T12:00:00.000Z",
       "start_actual": "2026-05-14T12:02:25.000Z",
-      "live_viewers": 23156,
+      "live_viewers": 22230,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-14T12:33:51.000Z",
       "start_scheduled": "2026-05-14T12:30:00.000Z",
       "start_actual": "2026-05-14T12:33:51.000Z",
-      "live_viewers": 144,
+      "live_viewers": 147,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-14T12:59:24.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T12:59:24.000Z",
-      "live_viewers": 5325,
+      "live_viewers": 8022,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -249,7 +249,7 @@
       "available_at": "2026-05-14T13:00:06.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T13:00:06.000Z",
-      "live_viewers": 247,
+      "live_viewers": 430,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -269,7 +269,7 @@
       "available_at": "2026-05-14T13:00:09.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T13:00:09.000Z",
-      "live_viewers": 82,
+      "live_viewers": 134,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -277,26 +277,6 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdXAk5MpyLD8594lm_OvtGQ": {
-      "video_id": "mGyRoV9hWv8",
-      "title": "【丸わかりクイズ偉人伝】世界の画家ーゆるっと学べる美術芸術雑学教養学習ゲームー挑戦!!【儒烏風亭らでん #ReGLOSS 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Quiz",
-      "published_at": "2026-05-14T11:56:33.000Z",
-      "available_at": "2026-05-14T13:00:18.000Z",
-      "start_scheduled": "2026-05-14T13:00:00.000Z",
-      "start_actual": "2026-05-14T13:00:18.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
-        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
-        "english_name": "Juufuutei Raden",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChAnqc_AY5_I3Px5dig3X1Q": {
@@ -309,7 +289,7 @@
       "available_at": "2026-05-14T13:00:19.000Z",
       "start_scheduled": "2026-05-14T13:00:00.000Z",
       "start_actual": "2026-05-14T13:00:19.000Z",
-      "live_viewers": 2980,
+      "live_viewers": 6848,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -317,6 +297,26 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdXAk5MpyLD8594lm_OvtGQ": {
+      "video_id": "mGyRoV9hWv8",
+      "title": "【丸わかりクイズ偉人伝】世界の画家ーゆるっと学べる美術芸術雑学教養学習ゲームー挑戦!!【儒烏風亭らでん #ReGLOSS 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Quiz",
+      "published_at": "2026-05-14T11:56:33.000Z",
+      "available_at": "2026-05-14T13:00:21.000Z",
+      "start_scheduled": "2026-05-14T13:00:00.000Z",
+      "start_actual": "2026-05-14T13:00:21.000Z",
+      "live_viewers": 2151,
+      "channel": {
+        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+        "english_name": "Juufuutei Raden",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
