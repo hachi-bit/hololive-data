@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778749460,
+  "cached_at": 1778749519,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "h0bmtYmlw14",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-14T08:17:18.000Z",
       "start_scheduled": "2026-05-14T08:15:00.000Z",
       "start_actual": "2026-05-14T08:17:18.000Z",
-      "live_viewers": 1139,
+      "live_viewers": 1150,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-14T08:33:27.000Z",
       "start_scheduled": "2026-05-14T08:30:00.000Z",
       "start_actual": "2026-05-14T08:33:27.000Z",
-      "live_viewers": 4410,
+      "live_viewers": 4216,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-14T08:59:42.000Z",
       "start_scheduled": "2026-05-14T09:00:00.000Z",
       "start_actual": "2026-05-14T08:59:42.000Z",
-      "live_viewers": 703,
+      "live_viewers": 2692,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -99,25 +99,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
-      "video_id": "tojEGz-odMc",
-      "title": "【 3D KARAOKE / 歌枠 】まつりちゃんと一緒にカラオケするぞ~‼【夏色まつり/鷹嶺ルイ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "3D_Stream",
-      "published_at": "2026-05-12T18:17:21.000Z",
-      "available_at": "2026-05-14T09:00:00.000Z",
-      "start_scheduled": "2026-05-14T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "name": "Lui ch. 鷹嶺ルイ - holoX -",
-        "english_name": "Takane Lui",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1CfXB_kRs3C-zaeTG3oGyg": {
@@ -138,6 +119,26 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/jxI6FmNKDpYKXB0puyLhB5gq4JgWFvRT9Rr2C_d3hFT1q0SSOHh3QIUfvSxfTHupTXFnleqI=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "tojEGz-odMc",
+      "title": "【 3D KARAOKE / 歌枠 】まつりちゃんと一緒にカラオケするぞ~‼【夏色まつり/鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "3D_Stream",
+      "published_at": "2026-05-12T18:17:21.000Z",
+      "available_at": "2026-05-14T09:00:53.000Z",
+      "start_scheduled": "2026-05-14T09:00:00.000Z",
+      "start_actual": "2026-05-14T09:00:53.000Z",
+      "live_viewers": 2476,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
