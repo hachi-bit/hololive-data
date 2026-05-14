@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778787439,
+  "cached_at": 1778787499,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "uKIUbr2yqP8",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-14T14:32:12.000Z",
       "start_scheduled": "2026-05-14T14:30:00.000Z",
       "start_actual": "2026-05-14T14:32:12.000Z",
-      "live_viewers": 2115,
+      "live_viewers": 2085,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-14T19:08:57.000Z",
       "start_scheduled": "2026-05-14T19:10:00.000Z",
       "start_actual": "2026-05-14T19:08:57.000Z",
-      "live_viewers": 5004,
+      "live_viewers": 4973,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -46,11 +46,12 @@
       "title": "how loud can gigi murin bark",
       "type": "stream",
       "status": "live",
-      "topic_id": "Bow-wow_Battle",
+      "topic_id": "none",
       "published_at": "2026-05-14T09:59:00.000Z",
-      "available_at": "2026-05-14T19:30:00.000Z",
+      "available_at": "2026-05-14T19:32:53.000Z",
       "start_scheduled": "2026-05-14T19:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-14T19:32:53.000Z",
+      "live_viewers": 2513,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
