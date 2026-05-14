@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778762119,
+  "cached_at": 1778762179,
   "lives": {
     "UCWQtYtq9EOB4-I5P-3fh8lA": {
       "video_id": "1QWNR8KbPXI",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-14T11:44:25.000Z",
       "start_scheduled": "2026-05-14T11:30:00.000Z",
       "start_actual": "2026-05-14T11:44:25.000Z",
-      "live_viewers": 691,
+      "live_viewers": 675,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-14T12:00:21.000Z",
       "start_scheduled": "2026-05-14T12:00:00.000Z",
       "start_actual": "2026-05-14T12:00:21.000Z",
-      "live_viewers": 4707,
+      "live_viewers": 4742,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-14T12:00:24.000Z",
       "start_scheduled": "2026-05-14T12:00:00.000Z",
       "start_actual": "2026-05-14T12:00:24.000Z",
-      "live_viewers": 10742,
+      "live_viewers": 10791,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-14T12:01:42.000Z",
       "start_scheduled": "2026-05-14T12:00:00.000Z",
       "start_actual": "2026-05-14T12:01:42.000Z",
-      "live_viewers": 39940,
+      "live_viewers": 40804,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-14T12:02:25.000Z",
       "start_scheduled": "2026-05-14T12:00:00.000Z",
       "start_actual": "2026-05-14T12:02:25.000Z",
-      "live_viewers": 20154,
+      "live_viewers": 20180,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -168,9 +168,10 @@
       "status": "live",
       "topic_id": "PRAGMATA",
       "published_at": "2026-05-14T11:57:33.000Z",
-      "available_at": "2026-05-14T12:30:00.000Z",
+      "available_at": "2026-05-14T12:33:51.000Z",
       "start_scheduled": "2026-05-14T12:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-14T12:33:51.000Z",
+      "live_viewers": 69,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
