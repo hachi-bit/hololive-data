@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778758339,
+  "cached_at": 1778758399,
   "lives": {
-    "UC1uv2Oq6kNxgATlCiez59hw": {
-      "video_id": "FKATOc9ipF0",
-      "title": "【 カミとミコ 】#1 | 謎解き×アドベンチャーゲーム✨️ ※ネタバレあり‼️【 常闇トワ/ホロライブ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-14T07:28:00.000Z",
-      "available_at": "2026-05-14T08:33:27.000Z",
-      "start_scheduled": "2026-05-14T08:30:00.000Z",
-      "start_actual": "2026-05-14T08:33:27.000Z",
-      "live_viewers": 4479,
-      "channel": {
-        "id": "UC1uv2Oq6kNxgATlCiez59hw",
-        "name": "Towa Ch. 常闇トワ",
-        "english_name": "Tokoyami Towa",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "JWumNf03kqc",
       "title": "【ワンワンバトル】リスナーVSヴィヴィ【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-14T08:59:42.000Z",
       "start_scheduled": "2026-05-14T09:00:00.000Z",
       "start_actual": "2026-05-14T08:59:42.000Z",
-      "live_viewers": 3357,
+      "live_viewers": 2965,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -110,7 +90,7 @@
       "available_at": "2026-05-14T11:00:17.000Z",
       "start_scheduled": "2026-05-14T11:00:00.000Z",
       "start_actual": "2026-05-14T11:00:17.000Z",
-      "live_viewers": 2975,
+      "live_viewers": 3035,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -130,7 +110,7 @@
       "available_at": "2026-05-14T11:01:19.000Z",
       "start_scheduled": "2026-05-14T11:00:00.000Z",
       "start_actual": "2026-05-14T11:01:19.000Z",
-      "live_viewers": 2903,
+      "live_viewers": 2959,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -138,6 +118,25 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "RIEqLwMhFyM",
+      "title": "【歌枠 / karaoke】最近ちょっと歌ってなかったんでね / アステル",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-14T11:03:37.000Z",
+      "available_at": "2026-05-14T11:30:00.000Z",
+      "start_scheduled": "2026-05-14T11:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
