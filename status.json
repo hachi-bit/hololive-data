@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778727799,
+  "cached_at": 1778727859,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "h0bmtYmlw14",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-14T02:01:51.000Z",
       "start_scheduled": "2026-05-14T02:00:00.000Z",
       "start_actual": "2026-05-14T02:01:51.000Z",
-      "live_viewers": 595,
+      "live_viewers": 596,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -59,25 +59,6 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCTVSOgYuSWmNAt-lnJPkEEw": {
-      "video_id": "Yi78SfJ6Ixc",
-      "title": "【TOMODACHI LIFE: LIVING THE DREAM】WILL THEY CHEAT IN GAY ISLAND?",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-13T08:08:48.000Z",
-      "available_at": "2026-05-14T03:00:00.000Z",
-      "start_scheduled": "2026-05-14T03:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
-        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
-        "english_name": "Jurard T Rexford",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9LSiN9hXI55svYEBrrK-tw": {
@@ -90,7 +71,7 @@
       "available_at": "2026-05-14T03:00:13.000Z",
       "start_scheduled": "2026-05-14T03:00:00.000Z",
       "start_actual": "2026-05-14T03:00:13.000Z",
-      "live_viewers": 871,
+      "live_viewers": 1491,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -98,6 +79,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTVSOgYuSWmNAt-lnJPkEEw": {
+      "video_id": "Yi78SfJ6Ixc",
+      "title": "【TOMODACHI LIFE: LIVING THE DREAM】WILL THEY CHEAT IN GAY ISLAND?",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-13T08:08:48.000Z",
+      "available_at": "2026-05-14T03:00:30.000Z",
+      "start_scheduled": "2026-05-14T03:00:00.000Z",
+      "start_actual": "2026-05-14T03:00:30.000Z",
+      "live_viewers": 145,
+      "channel": {
+        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
+        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
+        "english_name": "Jurard T Rexford",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
