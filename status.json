@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778759420,
+  "cached_at": 1778759480,
   "lives": {
     "UCAWSyEs_Io8MtpY3m-zqILA": {
       "video_id": "YrarGSWsXjQ",
@@ -21,25 +21,6 @@
         "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdfMHxjcCc2HSd9qFvfJgjg": {
-      "video_id": "i09xOxKEWKA",
-      "title": "【 FINAL FANTASY IX | FF9 初見 #7 】“いつか帰るところ\"を知るための旅へ【 水無世燐央 | UPROAR!! 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Final_fantasy",
-      "published_at": "2026-05-14T08:50:50.000Z",
-      "available_at": "2026-05-14T11:00:00.000Z",
-      "start_scheduled": "2026-05-14T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-        "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-        "english_name": "Minase Rio",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCWQtYtq9EOB4-I5P-3fh8lA": {
       "video_id": "1QWNR8KbPXI",
       "title": "【Stray】この猫ちゃんへ外の世界へ脱出できるんだろうか?!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
@@ -50,7 +31,7 @@
       "available_at": "2026-05-14T11:00:17.000Z",
       "start_scheduled": "2026-05-14T11:00:00.000Z",
       "start_actual": "2026-05-14T11:00:17.000Z",
-      "live_viewers": 3695,
+      "live_viewers": 3846,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -90,7 +71,7 @@
       "available_at": "2026-05-14T11:44:25.000Z",
       "start_scheduled": "2026-05-14T11:30:00.000Z",
       "start_actual": "2026-05-14T11:44:25.000Z",
-      "live_viewers": 323,
+      "live_viewers": 452,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -98,6 +79,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdfMHxjcCc2HSd9qFvfJgjg": {
+      "video_id": "i09xOxKEWKA",
+      "title": "【 FINAL FANTASY IX | FF9 初見 #7 】“いつか帰るところ\"を知るための旅へ【 水無世燐央 | UPROAR!! 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Final_fantasy",
+      "published_at": "2026-05-14T08:50:50.000Z",
+      "available_at": "2026-05-14T11:46:05.000Z",
+      "start_scheduled": "2026-05-14T11:00:00.000Z",
+      "start_actual": "2026-05-14T11:46:05.000Z",
+      "live_viewers": 108,
+      "channel": {
+        "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+        "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+        "english_name": "Minase Rio",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
