@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778746879,
+  "cached_at": 1778746939,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "h0bmtYmlw14",
@@ -48,9 +48,10 @@
       "status": "live",
       "topic_id": "Tomodachi_Life",
       "published_at": "2026-05-14T08:14:25.000Z",
-      "available_at": "2026-05-14T08:15:00.000Z",
+      "available_at": "2026-05-14T08:17:18.000Z",
       "start_scheduled": "2026-05-14T08:15:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-14T08:17:18.000Z",
+      "live_viewers": 248,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
