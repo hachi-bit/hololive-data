@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778880319,
+  "cached_at": 1778880379,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "t2NR-6jKF6o",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-15T21:02:09.000Z",
       "start_scheduled": "2026-05-15T21:00:00.000Z",
       "start_actual": "2026-05-15T21:02:09.000Z",
-      "live_viewers": 2194,
+      "live_viewers": 2259,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-15T21:07:55.000Z",
       "start_scheduled": "2026-05-15T21:00:00.000Z",
       "start_actual": "2026-05-15T21:07:55.000Z",
-      "live_viewers": 707,
+      "live_viewers": 739,
       "channel": {
         "id": "UCHP4f7G2dWD4qib7BMatGAw",
         "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -128,9 +128,10 @@
       "status": "live",
       "topic_id": "Pokemon_Pokopia",
       "published_at": "2026-05-15T21:12:31.000Z",
-      "available_at": "2026-05-15T21:15:00.000Z",
+      "available_at": "2026-05-15T21:20:21.000Z",
       "start_scheduled": "2026-05-15T21:15:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-15T21:20:21.000Z",
+      "live_viewers": 41,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
