@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778814559,
+  "cached_at": 1778814619,
   "lives": {
     "UC6t3-_N8A6ME1JShZHHqOMw": {
       "video_id": "v3NcZQmf_mM",
@@ -102,16 +102,15 @@
       }
     },
     "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "N6A1rTQZxmA",
-      "title": "Red Mecha Pilot Types Faster Than EveryWAN!!!【FINAL SENTENCE】",
+      "video_id": "zIsU1KKf1jE",
+      "title": "1 Sip Every Match Loss...? Drinking Game?!【STREET FIGHTER 6】",
       "type": "stream",
       "status": "live",
-      "topic_id": "Final_Sentence",
-      "published_at": "2026-05-14T16:59:05.000Z",
-      "available_at": "2026-05-15T01:20:12.000Z",
-      "start_scheduled": "2026-05-15T01:00:00.000Z",
-      "start_actual": "2026-05-15T01:20:12.000Z",
-      "live_viewers": 394,
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-05-14T16:12:52.000Z",
+      "available_at": "2026-05-15T03:00:00.000Z",
+      "start_scheduled": "2026-05-15T03:00:00.000Z",
+      "live_viewers": 0,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -171,7 +170,7 @@
       "available_at": "2026-05-15T01:33:18.000Z",
       "start_scheduled": "2026-05-15T01:30:00.000Z",
       "start_actual": "2026-05-15T01:33:18.000Z",
-      "live_viewers": 5267,
+      "live_viewers": 6496,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -179,6 +178,46 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCozx5csNhCx1wsVq3SZVkBQ": {
+      "video_id": "duWD4pBJync",
+      "title": "【祝】ねねち単独公演決定!ガーデンシアター開催!【昼ホロ/花園さやか】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "News_Show",
+      "published_at": "2026-05-14T17:20:39.000Z",
+      "available_at": "2026-05-15T02:59:42.000Z",
+      "start_scheduled": "2026-05-15T03:00:00.000Z",
+      "start_actual": "2026-05-15T02:59:42.000Z",
+      "live_viewers": 2520,
+      "channel": {
+        "id": "UCozx5csNhCx1wsVq3SZVkBQ",
+        "name": "holoAN room (ホロアナ)",
+        "english_name": "holoAN room",
+        "org": "Hololive",
+        "suborg": "0hOfficial",
+        "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFKOVgVbGmX65RxO3EtH3iw": {
+      "video_id": "qaZeqWJvWIg",
+      "title": "【昼雑談】筋肉痛で太ももが終わってます【雪花ラミィ /ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-15T02:03:11.000Z",
+      "available_at": "2026-05-15T03:00:31.000Z",
+      "start_scheduled": "2026-05-15T03:00:00.000Z",
+      "start_actual": "2026-05-15T03:00:31.000Z",
+      "live_viewers": 6448,
+      "channel": {
+        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+        "name": "Lamy Ch. 雪花ラミィ",
+        "english_name": "Yukihana Lamy",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
