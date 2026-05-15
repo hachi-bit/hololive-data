@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778867599,
+  "cached_at": 1778867659,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "4nhrwreQtZg",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "8fmz9hgasEk",
-      "title": "【R.E.P.O.】 #バカタレサーカス REPOですよぉおおおおおおお!!!!! 【ホロライブ/白上フブキ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-05-15T07:16:19.000Z",
-      "available_at": "2026-05-15T12:03:36.000Z",
-      "start_scheduled": "2026-05-15T12:00:00.000Z",
-      "start_actual": "2026-05-15T12:03:36.000Z",
-      "live_viewers": 14500,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "フブキCh。白上フブキ",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
@@ -63,7 +43,7 @@
     },
     "UCvInZx9h3jC2JzsIzoOebWg": {
       "video_id": "5tZ7ykPTr0M",
-      "title": "【R.E.P.O.】#バカタレサーカス レポ妖怪たちのおと~りだ~【不知火フレア/ホロライブ】",
+      "title": "【R.E.P.O.】#バカタレサーカス レポ妖怪たちのおと～りだ～【不知火フレア/ホロライブ】",
       "type": "stream",
       "status": "live",
       "topic_id": "R.E.P.O.",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-15T17:02:50.000Z",
       "start_scheduled": "2026-05-15T17:00:00.000Z",
       "start_actual": "2026-05-15T17:02:50.000Z",
-      "live_viewers": 675,
+      "live_viewers": 686,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
