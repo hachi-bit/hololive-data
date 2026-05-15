@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778839279,
+  "cached_at": 1778839339,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "zIsU1KKf1jE",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-15T03:51:36.000Z",
       "start_scheduled": "2026-05-15T03:00:00.000Z",
       "start_actual": "2026-05-15T03:51:36.000Z",
-      "live_viewers": 446,
+      "live_viewers": 409,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-15T08:12:30.000Z",
       "start_scheduled": "2026-05-15T09:00:00.000Z",
       "start_actual": "2026-05-15T08:12:30.000Z",
-      "live_viewers": 648,
+      "live_viewers": 667,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-15T08:49:45.000Z",
       "start_scheduled": "2026-05-15T09:00:00.000Z",
       "start_actual": "2026-05-15T08:49:45.000Z",
-      "live_viewers": 884,
+      "live_viewers": 912,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-15T09:05:57.000Z",
       "start_scheduled": "2026-05-15T09:00:00.000Z",
       "start_actual": "2026-05-15T09:05:57.000Z",
-      "live_viewers": 10270,
+      "live_viewers": 10041,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-15T09:09:34.000Z",
       "start_scheduled": "2026-05-15T08:15:00.000Z",
       "start_actual": "2026-05-15T09:09:34.000Z",
-      "live_viewers": 711,
+      "live_viewers": 742,
       "channel": {
         "id": "UCQLyq7TDKHlmp2Ufd5Z2qMw",
         "name": "Syusetu kohaku/秋雪こはく",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-15T09:10:36.000Z",
       "start_scheduled": "2026-05-15T09:00:00.000Z",
       "start_actual": "2026-05-15T09:10:36.000Z",
-      "live_viewers": 528,
+      "live_viewers": 454,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -239,6 +239,82 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCQ0UDLQCjY0rmuxCDE38FGg": {
+      "video_id": "qCAm2kVEtyA",
+      "title": "【三ツ星ファーム】美味しいものがあるところに夏色まつりあり!【ホロライブ/夏色まつり】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Review",
+      "published_at": "2026-05-14T14:27:17.000Z",
+      "available_at": "2026-05-15T10:00:00.000Z",
+      "start_scheduled": "2026-05-15T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+        "name": "Matsuri Channel 夏色まつり",
+        "english_name": "Natsuiro Matsuri",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC5CwaMl1eIgY8h02uZw7u8A": {
+      "video_id": "mXR4JjljIvU",
+      "title": "【BIOHAZARD requiem】※ネタバレあり‼久しぶりにバイオしてゆく‼💥【星街すいせい / #ほしまちすたじお】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-05-15T07:08:46.000Z",
+      "available_at": "2026-05-15T10:00:00.000Z",
+      "start_scheduled": "2026-05-15T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC5CwaMl1eIgY8h02uZw7u8A",
+        "name": "Suisei Channel",
+        "english_name": "Hoshimachi Suisei",
+        "org": "Hololive",
+        "suborg": "0x0th Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp-5t9SrOQwXMU7iIjQfARg": {
+      "video_id": "lzxobXFQicU",
+      "title": "【 MOTHER2 】超名作MOTHER2を完全初見プレイ!【ホロライブ/大神ミオ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "EarthBound",
+      "published_at": "2026-05-14T13:18:32.000Z",
+      "available_at": "2026-05-15T10:00:00.000Z",
+      "start_scheduled": "2026-05-15T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+        "name": "Mio Channel 大神ミオ",
+        "english_name": "Ookami Mio",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9mf_ZVpouoILRY9NUIaK-w": {
+      "video_id": "dh_m9jJrGc0",
+      "title": "【弾き語り歌枠】19時の歌【律可/ホロスターズ】#りつすた",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-15T05:29:07.000Z",
+      "available_at": "2026-05-15T10:00:00.000Z",
+      "start_scheduled": "2026-05-15T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+        "name": "Rikka ch.律可",
+        "english_name": "Rikka",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
