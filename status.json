@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778836159,
+  "cached_at": 1778836219,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "zIsU1KKf1jE",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-15T08:13:13.000Z",
       "start_scheduled": "2026-05-15T08:00:00.000Z",
       "start_actual": "2026-05-15T08:13:13.000Z",
-      "live_viewers": 1327,
+      "live_viewers": 1192,
       "channel": {
         "id": "UCyLGcqYs7RsBb3L0SJfzGYA",
         "name": "花芽すみれ / Kaga Sumire",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-15T08:29:59.000Z",
       "start_scheduled": "2026-05-15T08:30:00.000Z",
       "start_actual": "2026-05-15T08:29:59.000Z",
-      "live_viewers": 758,
+      "live_viewers": 731,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-15T08:31:54.000Z",
       "start_scheduled": "2026-05-15T08:30:00.000Z",
       "start_actual": "2026-05-15T08:31:54.000Z",
-      "live_viewers": 937,
+      "live_viewers": 925,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-15T08:49:45.000Z",
       "start_scheduled": "2026-05-15T09:00:00.000Z",
       "start_actual": "2026-05-15T08:49:45.000Z",
-      "live_viewers": 626,
+      "live_viewers": 693,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -138,25 +138,6 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCFTLzh12_nrtzqBPsTCqenA": {
-      "video_id": "h9IZZlHFNkI",
-      "title": "【APEX】SCARZ CUP 新レジェ「アクセル」&つよつよ2人と二人三脚ペックスできるのか!w.たいださん/こはーく【ホロライブ/アキロゼ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "apex",
-      "published_at": "2026-05-14T16:02:03.000Z",
-      "available_at": "2026-05-15T09:00:00.000Z",
-      "start_scheduled": "2026-05-15T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCFTLzh12_nrtzqBPsTCqenA",
-        "name": "アキロゼCh。Vtuber/ホロライブ所属",
-        "english_name": "Aki Rosenthal",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
@@ -178,6 +159,25 @@
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCFTLzh12_nrtzqBPsTCqenA": {
+      "video_id": "h9IZZlHFNkI",
+      "title": "【APEX】SCARZ CUP 新レジェ「アクセル」&つよつよ2人と二人三脚ペックスできるのか!w.たいださん/こはーく【ホロライブ/アキロゼ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "apex",
+      "published_at": "2026-05-14T16:02:03.000Z",
+      "available_at": "2026-05-15T09:00:00.000Z",
+      "start_scheduled": "2026-05-15T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCFTLzh12_nrtzqBPsTCqenA",
+        "name": "アキロゼCh。Vtuber/ホロライブ所属",
+        "english_name": "Aki Rosenthal",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UC1uv2Oq6kNxgATlCiez59hw": {
       "video_id": "UlppAJ-grrY",
       "title": "【 Apex Legends 】SCARZCUP Vol5 Team YukaF【常闇トワ / ホロライブ】",
@@ -188,7 +188,7 @@
       "available_at": "2026-05-15T09:03:26.000Z",
       "start_scheduled": "2026-05-15T09:00:00.000Z",
       "start_actual": "2026-05-15T09:03:26.000Z",
-      "live_viewers": 2052,
+      "live_viewers": 2439,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -208,7 +208,7 @@
       "available_at": "2026-05-15T09:03:37.000Z",
       "start_scheduled": "2026-05-15T09:00:00.000Z",
       "start_actual": "2026-05-15T09:03:37.000Z",
-      "live_viewers": 2080,
+      "live_viewers": 2701,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -228,7 +228,7 @@
       "available_at": "2026-05-15T09:05:57.000Z",
       "start_scheduled": "2026-05-15T09:00:00.000Z",
       "start_actual": "2026-05-15T09:05:57.000Z",
-      "live_viewers": 2556,
+      "live_viewers": 3790,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
