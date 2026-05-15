@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778808259,
+  "cached_at": 1778808319,
   "lives": {
     "UC6t3-_N8A6ME1JShZHHqOMw": {
       "video_id": "v3NcZQmf_mM",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-14T22:57:36.000Z",
       "start_scheduled": "2026-05-14T23:00:00.000Z",
       "start_actual": "2026-05-14T22:57:36.000Z",
-      "live_viewers": 9270,
+      "live_viewers": 10208,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-15T00:02:18.000Z",
       "start_scheduled": "2026-05-15T00:00:00.000Z",
       "start_actual": "2026-05-15T00:02:18.000Z",
-      "live_viewers": 1010,
+      "live_viewers": 1041,
       "channel": {
         "id": "UCHP4f7G2dWD4qib7BMatGAw",
         "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-15T00:57:25.000Z",
       "start_scheduled": "2026-05-15T01:00:00.000Z",
       "start_actual": "2026-05-15T00:57:25.000Z",
-      "live_viewers": 3875,
+      "live_viewers": 4084,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -79,25 +79,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC7gxU6NXjKF1LrgOddPzgTw": {
-      "video_id": "vC9PHCLm0fo",
-      "title": "【FINAL SENTENCE】I'VE WORKED AT A CALL CENTER ⌨️ I'VE PLAYED THESE GAMES BEFORE 🗣️‼️ W/ Stars EN 🌟",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Final_Sentence",
-      "published_at": "2026-05-14T16:52:59.000Z",
-      "available_at": "2026-05-15T01:00:00.000Z",
-      "start_scheduled": "2026-05-15T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-        "english_name": "Banzoin Hakka",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCyxtGMdWlURZ30WSnEjDOQw": {
@@ -110,7 +91,7 @@
       "available_at": "2026-05-15T01:04:56.000Z",
       "start_scheduled": "2026-05-15T01:00:00.000Z",
       "start_actual": "2026-05-15T01:04:56.000Z",
-      "live_viewers": 342,
+      "live_viewers": 327,
       "channel": {
         "id": "UCyxtGMdWlURZ30WSnEjDOQw",
         "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -130,7 +111,7 @@
       "available_at": "2026-05-15T01:16:20.000Z",
       "start_scheduled": "2026-05-15T01:00:00.000Z",
       "start_actual": "2026-05-15T01:16:20.000Z",
-      "live_viewers": 143,
+      "live_viewers": 141,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -150,7 +131,7 @@
       "available_at": "2026-05-15T01:16:30.000Z",
       "start_scheduled": "2026-05-15T01:00:00.000Z",
       "start_actual": "2026-05-15T01:16:30.000Z",
-      "live_viewers": 598,
+      "live_viewers": 621,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -170,7 +151,7 @@
       "available_at": "2026-05-15T01:19:47.000Z",
       "start_scheduled": "2026-05-15T01:00:00.000Z",
       "start_actual": "2026-05-15T01:19:47.000Z",
-      "live_viewers": 102,
+      "live_viewers": 118,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -209,7 +190,7 @@
       "available_at": "2026-05-15T01:20:12.000Z",
       "start_scheduled": "2026-05-15T01:00:00.000Z",
       "start_actual": "2026-05-15T01:20:12.000Z",
-      "live_viewers": 157,
+      "live_viewers": 181,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -217,6 +198,26 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7gxU6NXjKF1LrgOddPzgTw": {
+      "video_id": "vC9PHCLm0fo",
+      "title": "【FINAL SENTENCE】I'VE WORKED AT A CALL CENTER ⌨️ I'VE PLAYED THESE GAMES BEFORE 🗣️‼️ W/ Stars EN 🌟",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Final_Sentence",
+      "published_at": "2026-05-14T16:52:59.000Z",
+      "available_at": "2026-05-15T01:21:58.000Z",
+      "start_scheduled": "2026-05-15T01:00:00.000Z",
+      "start_actual": "2026-05-15T01:21:58.000Z",
+      "live_viewers": 167,
+      "channel": {
+        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+        "english_name": "Banzoin Hakka",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
