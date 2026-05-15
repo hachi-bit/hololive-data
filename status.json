@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778861719,
+  "cached_at": 1778861780,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "4nhrwreQtZg",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-15T12:03:36.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:36.000Z",
-      "live_viewers": 16169,
+      "live_viewers": 16312,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-15T12:03:41.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:41.000Z",
-      "live_viewers": 11327,
+      "live_viewers": 11372,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-15T12:03:56.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:56.000Z",
-      "live_viewers": 4627,
+      "live_viewers": 4696,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-15T13:00:13.000Z",
       "start_scheduled": "2026-05-15T13:00:00.000Z",
       "start_actual": "2026-05-15T13:00:13.000Z",
-      "live_viewers": 12154,
+      "live_viewers": 12179,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-15T13:00:14.000Z",
       "start_scheduled": "2026-05-15T13:00:00.000Z",
       "start_actual": "2026-05-15T13:00:14.000Z",
-      "live_viewers": 5215,
+      "live_viewers": 5127,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-15T14:03:43.000Z",
       "start_scheduled": "2026-05-15T14:00:00.000Z",
       "start_actual": "2026-05-15T14:03:43.000Z",
-      "live_viewers": 6604,
+      "live_viewers": 6698,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -219,26 +219,6 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "baG23npeVuA",
-      "title": "【 鬼サザエトリ 】サザエって美味しい?♡【ホロライブ DEV_IS 響咲リオナ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Goblin_Gnome_Horn",
-      "published_at": "2026-05-14T17:56:33.000Z",
-      "available_at": "2026-05-15T14:30:41.000Z",
-      "start_scheduled": "2026-05-15T14:30:00.000Z",
-      "start_actual": "2026-05-15T14:30:41.000Z",
-      "live_viewers": 2448,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCOyYb1c43VlX9rc_lT6NKQw": {
