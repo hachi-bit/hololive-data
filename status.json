@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778844739,
+  "cached_at": 1778844799,
   "lives": {
-    "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "zIsU1KKf1jE",
-      "title": "1 Sip Every Match Loss...? Drinking Game?!【STREET FIGHTER 6】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-05-14T16:12:52.000Z",
-      "available_at": "2026-05-15T03:51:36.000Z",
-      "start_scheduled": "2026-05-15T03:00:00.000Z",
-      "start_actual": "2026-05-15T03:51:36.000Z",
-      "live_viewers": 393,
-      "channel": {
-        "id": "UC060r4zABV18vcahAWR1n7w",
-        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-        "english_name": "Machina X Flayon",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
       "video_id": "tBOLZHP17Tk",
       "title": "【 APEX 】SCARZ CUP Apex Legends vol.5 に出場します!!【アルランディス/ホロスターズ】",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-15T08:12:30.000Z",
       "start_scheduled": "2026-05-15T09:00:00.000Z",
       "start_actual": "2026-05-15T08:12:30.000Z",
-      "live_viewers": 559,
+      "live_viewers": 677,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-15T08:31:54.000Z",
       "start_scheduled": "2026-05-15T08:30:00.000Z",
       "start_actual": "2026-05-15T08:31:54.000Z",
-      "live_viewers": 1235,
+      "live_viewers": 1256,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-15T08:49:45.000Z",
       "start_scheduled": "2026-05-15T09:00:00.000Z",
       "start_actual": "2026-05-15T08:49:45.000Z",
-      "live_viewers": 790,
+      "live_viewers": 815,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-15T09:09:34.000Z",
       "start_scheduled": "2026-05-15T08:15:00.000Z",
       "start_actual": "2026-05-15T09:09:34.000Z",
-      "live_viewers": 824,
+      "live_viewers": 984,
       "channel": {
         "id": "UCQLyq7TDKHlmp2Ufd5Z2qMw",
         "name": "Syusetu kohaku/秋雪こはく",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-15T09:10:36.000Z",
       "start_scheduled": "2026-05-15T09:00:00.000Z",
       "start_actual": "2026-05-15T09:10:36.000Z",
-      "live_viewers": 475,
+      "live_viewers": 543,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-15T10:00:29.000Z",
       "start_scheduled": "2026-05-15T10:00:00.000Z",
       "start_actual": "2026-05-15T10:00:29.000Z",
-      "live_viewers": 20052,
+      "live_viewers": 19429,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-15T10:00:41.000Z",
       "start_scheduled": "2026-05-15T10:00:00.000Z",
       "start_actual": "2026-05-15T10:00:41.000Z",
-      "live_viewers": 12033,
+      "live_viewers": 12395,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
