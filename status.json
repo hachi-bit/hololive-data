@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778848039,
+  "cached_at": 1778848100,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "6b-e4BDTr4g",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-15T10:00:29.000Z",
       "start_scheduled": "2026-05-15T10:00:00.000Z",
       "start_actual": "2026-05-15T10:00:29.000Z",
-      "live_viewers": 14211,
+      "live_viewers": 14122,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "0x0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp-5t9SrOQwXMU7iIjQfARg": {
-      "video_id": "lzxobXFQicU",
-      "title": "【 MOTHER2 】超名作MOTHER2を完全初見プレイ!【ホロライブ/大神ミオ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "EarthBound",
-      "published_at": "2026-05-14T13:18:32.000Z",
-      "available_at": "2026-05-15T10:00:41.000Z",
-      "start_scheduled": "2026-05-15T10:00:00.000Z",
-      "start_actual": "2026-05-15T10:00:41.000Z",
-      "live_viewers": 9673,
-      "channel": {
-        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-        "name": "Mio Channel 大神ミオ",
-        "english_name": "Ookami Mio",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
@@ -131,7 +111,7 @@
       "available_at": "2026-05-15T11:50:34.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T11:50:34.000Z",
-      "live_viewers": 85,
+      "live_viewers": 84,
       "channel": {
         "id": "UC_vDF8pbCIR8gaAxXAAH7Og",
         "name": "DubsteP",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-15T12:01:30.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:01:30.000Z",
-      "live_viewers": 346,
+      "live_viewers": 316,
       "channel": {
         "id": "UCLSbJjbegkALewYKxfG__rA",
         "name": "Key Oriesa Ch.",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-15T12:01:44.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:01:44.000Z",
-      "live_viewers": 127,
+      "live_viewers": 126,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-15T12:01:45.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:01:45.000Z",
-      "live_viewers": 890,
+      "live_viewers": 896,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -199,26 +179,6 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC-hM6YJuNYVAmUWxeIr9FeA": {
-      "video_id": "fG95gpLfvB0",
-      "title": "【 タイマン企画 】みこに勝たないと出られない部屋にぇ!ゲスト：鷹嶺ルイ🥀【ホロライブ/さくらみこ/鷹嶺ルイ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "clubhouse51",
-      "published_at": "2026-05-15T08:29:57.000Z",
-      "available_at": "2026-05-15T12:01:55.000Z",
-      "start_scheduled": "2026-05-15T12:00:00.000Z",
-      "start_actual": "2026-05-15T12:01:55.000Z",
-      "live_viewers": 43510,
-      "channel": {
-        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-        "name": "Miko Ch. さくらみこ",
-        "english_name": "Sakura Miko",
-        "org": "Hololive",
-        "suborg": "0y0th Generation",
-        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCz_9zqgFPUYQBhDiZBFc00w": {
@@ -231,7 +191,7 @@
       "available_at": "2026-05-15T12:01:55.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:01:55.000Z",
-      "live_viewers": 4118,
+      "live_viewers": 4048,
       "channel": {
         "id": "UCz_9zqgFPUYQBhDiZBFc00w",
         "name": "Mikazuki Arion【EOS】",
@@ -239,6 +199,26 @@
         "org": "Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/om5r_6L00d4O4UCk03UpG6EBLY4qOR_FLyj3C5UsWNPJmz1jHKEF2rTRMFaSsWXnivPOiykY7g=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC-hM6YJuNYVAmUWxeIr9FeA": {
+      "video_id": "fG95gpLfvB0",
+      "title": "【 タイマン企画 】みこに勝たないと出られない部屋にぇ!ゲスト：鷹嶺ルイ🥀【ホロライブ/さくらみこ/鷹嶺ルイ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "clubhouse51",
+      "published_at": "2026-05-15T08:29:57.000Z",
+      "available_at": "2026-05-15T12:01:55.000Z",
+      "start_scheduled": "2026-05-15T12:00:00.000Z",
+      "start_actual": "2026-05-15T12:01:55.000Z",
+      "live_viewers": 43731,
+      "channel": {
+        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+        "name": "Miko Ch. さくらみこ",
+        "english_name": "Sakura Miko",
+        "org": "Hololive",
+        "suborg": "0y0th Generation",
+        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1DCedRgGHBdm81E1llLhOQ": {
@@ -251,7 +231,7 @@
       "available_at": "2026-05-15T12:02:10.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:02:10.000Z",
-      "live_viewers": 14273,
+      "live_viewers": 14748,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-15T12:02:20.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:02:20.000Z",
-      "live_viewers": 632,
+      "live_viewers": 624,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-15T12:02:24.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:02:24.000Z",
-      "live_viewers": 858,
+      "live_viewers": 871,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-15T12:02:32.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:02:32.000Z",
-      "live_viewers": 16257,
+      "live_viewers": 16593,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -351,7 +331,7 @@
       "available_at": "2026-05-15T12:02:56.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:02:56.000Z",
-      "live_viewers": 8527,
+      "live_viewers": 8842,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -391,7 +371,7 @@
       "available_at": "2026-05-15T12:03:36.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:36.000Z",
-      "live_viewers": 11080,
+      "live_viewers": 11731,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -411,7 +391,7 @@
       "available_at": "2026-05-15T12:03:41.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:41.000Z",
-      "live_viewers": 6239,
+      "live_viewers": 6434,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -431,7 +411,7 @@
       "available_at": "2026-05-15T12:03:53.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:53.000Z",
-      "live_viewers": 148,
+      "live_viewers": 140,
       "channel": {
         "id": "UC7Xglp1fske9zmRe7Oj8YyA",
         "name": "Riko Solari【VSPO! EN】",
@@ -451,7 +431,7 @@
       "available_at": "2026-05-15T12:03:56.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:56.000Z",
-      "live_viewers": 3118,
+      "live_viewers": 3221,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -471,7 +451,7 @@
       "available_at": "2026-05-15T12:04:06.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:04:06.000Z",
-      "live_viewers": 2777,
+      "live_viewers": 3011,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -491,7 +471,7 @@
       "available_at": "2026-05-15T12:04:47.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:04:47.000Z",
-      "live_viewers": 332,
+      "live_viewers": 339,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -518,6 +498,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1uv2Oq6kNxgATlCiez59hw": {
+      "video_id": "9T-dMr3jmG4",
+      "title": "【 STREET FIGHTER 6 】すかーずかっぷにじかい!!【常闇トワ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-05-15T12:24:10.000Z",
+      "available_at": "2026-05-15T12:25:27.000Z",
+      "start_scheduled": "2026-05-15T12:25:00.000Z",
+      "start_actual": "2026-05-15T12:25:27.000Z",
+      "live_viewers": 598,
+      "channel": {
+        "id": "UC1uv2Oq6kNxgATlCiez59hw",
+        "name": "Towa Ch. 常闇トワ",
+        "english_name": "Tokoyami Towa",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
