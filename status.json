@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778858719,
+  "cached_at": 1778858781,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "4nhrwreQtZg",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-15T12:03:56.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:56.000Z",
-      "live_viewers": 4465,
+      "live_viewers": 4705,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -241,29 +241,9 @@
         "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCV5ZZlLjk5MKGg3L0n0vbzw": {
-      "video_id": "h-0zMTu8M08",
-      "title": "【マイクラ】Doz二次会 w/赤髪のとも 夜乃くろむ ズズ アキロゼ 鬱先生 のばまん えおえお【にじさんじ/鷹宮リオン】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-14T16:16:09.000Z",
-      "available_at": "2026-05-15T13:07:42.000Z",
-      "start_scheduled": "2026-05-15T13:00:00.000Z",
-      "start_actual": "2026-05-15T13:07:42.000Z",
-      "live_viewers": 657,
-      "channel": {
-        "id": "UCV5ZZlLjk5MKGg3L0n0vbzw",
-        "name": "鷹宮リオン / Rion Takamiya",
-        "english_name": "Takamiya Rion",
-        "org": "Nijisanji",
-        "suborg": "08Ex-SEEDs",
-        "photo": "https://yt3.ggpht.com/ZHg5_1Cm-evUtbOQOnOHfR6qJBW7CKKww2FwLh19_B-dOHqkKYdoVBHgdr-R6b6fVTl2AD04ug=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCX4WL24YEOUYd7qDsFSLDOw": {
       "video_id": "NLJpu5Y1fws",
-      "title": "〖 Minecraft 〗DoZ二次会!おらこそモンクなウォンナ。の巻〖 ぶいすぽっ! / 夜乃くろむ 〗",
+      "title": "〖 Minecraft 〗DoZ二次会！おらこそモンクなウォンナ。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
       "type": "stream",
       "status": "live",
       "topic_id": "minecraft",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-15T13:09:52.000Z",
       "start_scheduled": "2026-05-15T13:10:00.000Z",
       "start_actual": "2026-05-15T13:09:52.000Z",
-      "live_viewers": 2379,
+      "live_viewers": 1695,
       "channel": {
         "id": "UCX4WL24YEOUYd7qDsFSLDOw",
         "name": "夜乃くろむ / Yano Kuromu",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-15T14:03:43.000Z",
       "start_scheduled": "2026-05-15T14:00:00.000Z",
       "start_actual": "2026-05-15T14:03:43.000Z",
-      "live_viewers": 7695,
+      "live_viewers": 7368,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-15T14:30:41.000Z",
       "start_scheduled": "2026-05-15T14:30:00.000Z",
       "start_actual": "2026-05-15T14:30:41.000Z",
-      "live_viewers": 3370,
+      "live_viewers": 3365,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
