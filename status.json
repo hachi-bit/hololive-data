@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778841139,
+  "cached_at": 1778841199,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "zIsU1KKf1jE",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-15T09:03:26.000Z",
       "start_scheduled": "2026-05-15T09:00:00.000Z",
       "start_actual": "2026-05-15T09:03:26.000Z",
-      "live_viewers": 6169,
+      "live_viewers": 6161,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-15T09:10:36.000Z",
       "start_scheduled": "2026-05-15T09:00:00.000Z",
       "start_actual": "2026-05-15T09:10:36.000Z",
-      "live_viewers": 511,
+      "live_viewers": 451,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-15T10:00:29.000Z",
       "start_scheduled": "2026-05-15T10:00:00.000Z",
       "start_actual": "2026-05-15T10:00:29.000Z",
-      "live_viewers": 16994,
+      "live_viewers": 18316,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-15T10:00:41.000Z",
       "start_scheduled": "2026-05-15T10:00:00.000Z",
       "start_actual": "2026-05-15T10:00:41.000Z",
-      "live_viewers": 9928,
+      "live_viewers": 10292,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-15T10:00:44.000Z",
       "start_scheduled": "2026-05-15T10:00:00.000Z",
       "start_actual": "2026-05-15T10:00:44.000Z",
-      "live_viewers": 421,
+      "live_viewers": 433,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
