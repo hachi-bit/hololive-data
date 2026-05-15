@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778889202,
+  "cached_at": 1778889259,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "t2NR-6jKF6o",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-15T19:17:25.000Z",
       "start_scheduled": "2026-05-15T19:20:00.000Z",
       "start_actual": "2026-05-15T19:17:25.000Z",
-      "live_viewers": 1657,
+      "live_viewers": 1703,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
-      "video_id": "MFzWWYwbx00",
-      "title": "ゼロから始める\"\" ぽこ あ ポケモン \"\" 生活 ~第六話【 ホロスターズ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Pokemon_Pokopia",
-      "published_at": "2026-05-15T21:12:31.000Z",
-      "available_at": "2026-05-15T21:20:21.000Z",
-      "start_scheduled": "2026-05-15T21:15:00.000Z",
-      "start_actual": "2026-05-15T21:20:21.000Z",
-      "live_viewers": 192,
-      "channel": {
-        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
-        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
-        "english_name": "Utsugi Uyu",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
