@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778811020,
+  "cached_at": 1778811080,
   "lives": {
     "UC6t3-_N8A6ME1JShZHHqOMw": {
       "video_id": "v3NcZQmf_mM",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCHP4f7G2dWD4qib7BMatGAw": {
-      "video_id": "ZIE_ddWxgvY",
-      "title": "THE AMAZING DIGITAL CIRCUS WATCH ALONG EP 1 - ?",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-05-14T21:39:06.000Z",
-      "available_at": "2026-05-15T00:02:18.000Z",
-      "start_scheduled": "2026-05-15T00:00:00.000Z",
-      "start_actual": "2026-05-15T00:02:18.000Z",
-      "live_viewers": 961,
-      "channel": {
-        "id": "UCHP4f7G2dWD4qib7BMatGAw",
-        "name": "Gavis Bettel Ch. HOLOSTARS-EN",
-        "english_name": "Gavis Bettel",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
@@ -111,7 +91,7 @@
       "available_at": "2026-05-15T01:16:20.000Z",
       "start_scheduled": "2026-05-15T01:00:00.000Z",
       "start_actual": "2026-05-15T01:16:20.000Z",
-      "live_viewers": 171,
+      "live_viewers": 189,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-15T01:16:30.000Z",
       "start_scheduled": "2026-05-15T01:00:00.000Z",
       "start_actual": "2026-05-15T01:16:30.000Z",
-      "live_viewers": 702,
+      "live_viewers": 708,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-15T01:20:12.000Z",
       "start_scheduled": "2026-05-15T01:00:00.000Z",
       "start_actual": "2026-05-15T01:20:12.000Z",
-      "live_viewers": 264,
+      "live_viewers": 618,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-15T01:21:58.000Z",
       "start_scheduled": "2026-05-15T01:00:00.000Z",
       "start_actual": "2026-05-15T01:21:58.000Z",
-      "live_viewers": 230,
+      "live_viewers": 242,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-15T01:24:28.000Z",
       "start_scheduled": "2026-05-15T01:20:00.000Z",
       "start_actual": "2026-05-15T01:24:28.000Z",
-      "live_viewers": 312,
+      "live_viewers": 333,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-15T01:33:18.000Z",
       "start_scheduled": "2026-05-15T01:30:00.000Z",
       "start_actual": "2026-05-15T01:33:18.000Z",
-      "live_viewers": 3214,
+      "live_viewers": 3217,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
