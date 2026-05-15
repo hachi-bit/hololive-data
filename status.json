@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778841619,
+  "cached_at": 1778841679,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "zIsU1KKf1jE",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-15T03:51:36.000Z",
       "start_scheduled": "2026-05-15T03:00:00.000Z",
       "start_actual": "2026-05-15T03:51:36.000Z",
-      "live_viewers": 382,
+      "live_viewers": 384,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-15T08:13:13.000Z",
       "start_scheduled": "2026-05-15T08:00:00.000Z",
       "start_actual": "2026-05-15T08:13:13.000Z",
-      "live_viewers": 1114,
+      "live_viewers": 1112,
       "channel": {
         "id": "UCyLGcqYs7RsBb3L0SJfzGYA",
         "name": "花芽すみれ / Kaga Sumire",
@@ -59,26 +59,6 @@
         "org": "VSpo",
         "suborg": "0aLupinus Virtual Games",
         "photo": "https://yt3.ggpht.com/62gVOJZDVb-9pPCbljnoRlwqEuvcGk0pNl32GNi_GA_KQS3N7X6-B660Pk3crHh3zi1XSzHMNQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCOyYb1c43VlX9rc_lT6NKQw": {
-      "video_id": "_VXrexJz5xE",
-      "title": "(trying new setting) C-C-C-CAL KESTIS",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Star_Wars",
-      "published_at": "2026-05-15T08:17:44.000Z",
-      "available_at": "2026-05-15T08:29:59.000Z",
-      "start_scheduled": "2026-05-15T08:30:00.000Z",
-      "start_actual": "2026-05-15T08:29:59.000Z",
-      "live_viewers": 811,
-      "channel": {
-        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-        "name": "Ayunda Risu Ch. hololive-ID",
-        "english_name": "Ayunda Risu",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
@@ -91,7 +71,7 @@
       "available_at": "2026-05-15T08:31:54.000Z",
       "start_scheduled": "2026-05-15T08:30:00.000Z",
       "start_actual": "2026-05-15T08:31:54.000Z",
-      "live_viewers": 1155,
+      "live_viewers": 1194,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-15T09:03:37.000Z",
       "start_scheduled": "2026-05-15T09:00:00.000Z",
       "start_actual": "2026-05-15T09:03:37.000Z",
-      "live_viewers": 4715,
+      "live_viewers": 4745,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-15T10:00:29.000Z",
       "start_scheduled": "2026-05-15T10:00:00.000Z",
       "start_actual": "2026-05-15T10:00:29.000Z",
-      "live_viewers": 18989,
+      "live_viewers": 19011,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-15T10:00:41.000Z",
       "start_scheduled": "2026-05-15T10:00:00.000Z",
       "start_actual": "2026-05-15T10:00:41.000Z",
-      "live_viewers": 10337,
+      "live_viewers": 11030,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-15T10:00:44.000Z",
       "start_scheduled": "2026-05-15T10:00:00.000Z",
       "start_actual": "2026-05-15T10:00:44.000Z",
-      "live_viewers": 445,
+      "live_viewers": 447,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
