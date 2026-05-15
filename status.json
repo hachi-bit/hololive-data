@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778873119,
+  "cached_at": 1778873180,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "4nhrwreQtZg",
@@ -48,8 +48,9 @@
       "status": "live",
       "topic_id": "membersonly",
       "published_at": "2026-05-15T07:06:37.000Z",
-      "available_at": "2026-05-15T19:05:00.000Z",
+      "available_at": "2026-05-15T19:09:30.000Z",
       "start_scheduled": "2026-05-15T19:05:00.000Z",
+      "start_actual": "2026-05-15T19:09:30.000Z",
       "live_viewers": 0,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -70,7 +71,7 @@
       "available_at": "2026-05-15T19:17:25.000Z",
       "start_scheduled": "2026-05-15T19:20:00.000Z",
       "start_actual": "2026-05-15T19:17:25.000Z",
-      "live_viewers": 311,
+      "live_viewers": 401,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
