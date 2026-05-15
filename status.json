@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778879479,
+  "cached_at": 1778879541,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "t2NR-6jKF6o",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-15T19:55:28.000Z",
       "start_scheduled": "2026-05-15T20:00:00.000Z",
       "start_actual": "2026-05-15T19:55:28.000Z",
-      "live_viewers": 3692,
+      "live_viewers": 3686,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -79,25 +79,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCHP4f7G2dWD4qib7BMatGAw": {
-      "video_id": "dFI4UXhXZa0",
-      "title": "[Monster Prom 4: Monster Con] CLOWN TO CLOWN COMMUNICATION... unless?",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Monster_Prom",
-      "published_at": "2026-05-15T19:27:10.000Z",
-      "available_at": "2026-05-15T21:00:00.000Z",
-      "start_scheduled": "2026-05-15T21:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCHP4f7G2dWD4qib7BMatGAw",
-        "name": "Gavis Bettel Ch. HOLOSTARS-EN",
-        "english_name": "Gavis Bettel",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCDHABijvPBnJm7F-KlNME3w": {
@@ -110,7 +91,7 @@
       "available_at": "2026-05-15T21:02:09.000Z",
       "start_scheduled": "2026-05-15T21:00:00.000Z",
       "start_actual": "2026-05-15T21:02:09.000Z",
-      "live_viewers": 1404,
+      "live_viewers": 1707,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -118,6 +99,26 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCHP4f7G2dWD4qib7BMatGAw": {
+      "video_id": "dFI4UXhXZa0",
+      "title": "[Monster Prom 4: Monster Con] CLOWN TO CLOWN COMMUNICATION... unless?",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Monster_Prom",
+      "published_at": "2026-05-15T19:27:10.000Z",
+      "available_at": "2026-05-15T21:07:55.000Z",
+      "start_scheduled": "2026-05-15T21:00:00.000Z",
+      "start_actual": "2026-05-15T21:07:55.000Z",
+      "live_viewers": 447,
+      "channel": {
+        "id": "UCHP4f7G2dWD4qib7BMatGAw",
+        "name": "Gavis Bettel Ch. HOLOSTARS-EN",
+        "english_name": "Gavis Bettel",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
