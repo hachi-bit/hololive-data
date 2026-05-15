@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778833039,
+  "cached_at": 1778833099,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "zIsU1KKf1jE",
@@ -19,25 +19,6 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCyLGcqYs7RsBb3L0SJfzGYA": {
-      "video_id": "xdcrBaMDed8",
-      "title": "【APEX】❤️‍🔥SCARZCUP 弾当たるかなぁ【ぶいすぽっ!/花芽すみれ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "apex",
-      "published_at": "2026-05-14T20:52:47.000Z",
-      "available_at": "2026-05-15T08:00:00.000Z",
-      "start_scheduled": "2026-05-15T08:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCyLGcqYs7RsBb3L0SJfzGYA",
-        "name": "花芽すみれ / Kaga Sumire",
-        "english_name": "Kaga Sumire",
-        "org": "VSpo",
-        "suborg": "0aLupinus Virtual Games",
-        "photo": "https://yt3.ggpht.com/62gVOJZDVb-9pPCbljnoRlwqEuvcGk0pNl32GNi_GA_KQS3N7X6-B660Pk3crHh3zi1XSzHMNQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCFTLzh12_nrtzqBPsTCqenA": {
@@ -69,7 +50,7 @@
       "available_at": "2026-05-15T08:12:30.000Z",
       "start_scheduled": "2026-05-15T09:00:00.000Z",
       "start_actual": "2026-05-15T08:12:30.000Z",
-      "live_viewers": 89,
+      "live_viewers": 234,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -77,6 +58,45 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCyLGcqYs7RsBb3L0SJfzGYA": {
+      "video_id": "xdcrBaMDed8",
+      "title": "【APEX】❤️‍🔥SCARZCUP 弾当たるかなぁ【ぶいすぽっ!/花芽すみれ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "apex",
+      "published_at": "2026-05-14T20:52:47.000Z",
+      "available_at": "2026-05-15T08:13:13.000Z",
+      "start_scheduled": "2026-05-15T08:00:00.000Z",
+      "start_actual": "2026-05-15T08:13:13.000Z",
+      "live_viewers": 682,
+      "channel": {
+        "id": "UCyLGcqYs7RsBb3L0SJfzGYA",
+        "name": "花芽すみれ / Kaga Sumire",
+        "english_name": "Kaga Sumire",
+        "org": "VSpo",
+        "suborg": "0aLupinus Virtual Games",
+        "photo": "https://yt3.ggpht.com/62gVOJZDVb-9pPCbljnoRlwqEuvcGk0pNl32GNi_GA_KQS3N7X6-B660Pk3crHh3zi1XSzHMNQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCQLyq7TDKHlmp2Ufd5Z2qMw": {
+      "video_id": "IGefwlbPmL4",
+      "title": "【apex】SCARZ CUP とりあえず弾を当てるのを頑張ってみようw/アキちゃん Taidaさん【REJECT/秋雪こはく】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "apex",
+      "published_at": "2026-05-15T08:00:02.000Z",
+      "available_at": "2026-05-15T08:15:00.000Z",
+      "start_scheduled": "2026-05-15T08:15:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCQLyq7TDKHlmp2Ufd5Z2qMw",
+        "name": "Syusetu kohaku/秋雪こはく",
+        "english_name": "Syusetsu Kohaku",
+        "org": "Independents",
+        "suborg": "reREJECT",
+        "photo": "https://yt3.ggpht.com/zFnBdsyZ0_5ghbaSxNg2o8aAjEdUjHQBuwjNbub5spl1yWcxhKCnOCskizO-P9pbu5AL7NtTWOo=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
