@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778855839,
+  "cached_at": 1778855899,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "4aiWKl8Sg8c",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-15T12:02:10.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:02:10.000Z",
-      "live_viewers": 18366,
+      "live_viewers": 18049,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-15T12:02:32.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:02:32.000Z",
-      "live_viewers": 19138,
+      "live_viewers": 18851,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-15T12:02:56.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:02:56.000Z",
-      "live_viewers": 10423,
+      "live_viewers": 10344,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-15T12:04:06.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:04:06.000Z",
-      "live_viewers": 3728,
+      "live_viewers": 3594,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-15T12:25:27.000Z",
       "start_scheduled": "2026-05-15T12:25:00.000Z",
       "start_actual": "2026-05-15T12:25:27.000Z",
-      "live_viewers": 4379,
+      "live_viewers": 3969,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -371,7 +371,7 @@
       "available_at": "2026-05-15T13:04:52.000Z",
       "start_scheduled": "2026-05-15T13:00:00.000Z",
       "start_actual": "2026-05-15T13:04:52.000Z",
-      "live_viewers": 4853,
+      "live_viewers": 4641,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -391,7 +391,7 @@
       "available_at": "2026-05-15T13:07:42.000Z",
       "start_scheduled": "2026-05-15T13:00:00.000Z",
       "start_actual": "2026-05-15T13:07:42.000Z",
-      "live_viewers": 643,
+      "live_viewers": 657,
       "channel": {
         "id": "UCV5ZZlLjk5MKGg3L0n0vbzw",
         "name": "鷹宮リオン / Rion Takamiya",
@@ -431,7 +431,7 @@
       "available_at": "2026-05-15T14:00:48.000Z",
       "start_scheduled": "2026-05-15T14:00:00.000Z",
       "start_actual": "2026-05-15T14:00:48.000Z",
-      "live_viewers": 1826,
+      "live_viewers": 1776,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -451,7 +451,7 @@
       "available_at": "2026-05-15T14:03:43.000Z",
       "start_scheduled": "2026-05-15T14:00:00.000Z",
       "start_actual": "2026-05-15T14:03:43.000Z",
-      "live_viewers": 3834,
+      "live_viewers": 3988,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -471,7 +471,7 @@
       "available_at": "2026-05-15T14:30:41.000Z",
       "start_scheduled": "2026-05-15T14:30:00.000Z",
       "start_actual": "2026-05-15T14:30:41.000Z",
-      "live_viewers": 1628,
+      "live_viewers": 1993,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
