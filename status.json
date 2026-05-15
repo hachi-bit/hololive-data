@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778864659,
+  "cached_at": 1778864719,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "4nhrwreQtZg",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-15T12:03:36.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:36.000Z",
-      "live_viewers": 15169,
+      "live_viewers": 15073,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-15T16:29:53.000Z",
       "start_scheduled": "2026-05-15T16:30:00.000Z",
       "start_actual": "2026-05-15T16:29:53.000Z",
-      "live_viewers": 2873,
+      "live_viewers": 2878,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
@@ -228,9 +228,10 @@
       "status": "live",
       "topic_id": "Subnautica",
       "published_at": "2026-05-15T05:41:28.000Z",
-      "available_at": "2026-05-15T17:00:00.000Z",
+      "available_at": "2026-05-15T17:02:50.000Z",
       "start_scheduled": "2026-05-15T17:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-15T17:02:50.000Z",
+      "live_viewers": 131,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
