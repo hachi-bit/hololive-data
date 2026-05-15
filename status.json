@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778845999,
+  "cached_at": 1778846059,
   "lives": {
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
       "video_id": "tBOLZHP17Tk",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-15T09:03:26.000Z",
       "start_scheduled": "2026-05-15T09:00:00.000Z",
       "start_actual": "2026-05-15T09:03:26.000Z",
-      "live_viewers": 6292,
+      "live_viewers": 6930,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-15T09:10:36.000Z",
       "start_scheduled": "2026-05-15T09:00:00.000Z",
       "start_actual": "2026-05-15T09:10:36.000Z",
-      "live_viewers": 472,
+      "live_viewers": 541,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-15T10:00:29.000Z",
       "start_scheduled": "2026-05-15T10:00:00.000Z",
       "start_actual": "2026-05-15T10:00:29.000Z",
-      "live_viewers": 18195,
+      "live_viewers": 18408,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-15T10:00:41.000Z",
       "start_scheduled": "2026-05-15T10:00:00.000Z",
       "start_actual": "2026-05-15T10:00:41.000Z",
-      "live_viewers": 12299,
+      "live_viewers": 12118,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -219,6 +219,26 @@
         "org": "Hololive",
         "suborg": "0v0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_vDF8pbCIR8gaAxXAAH7Og": {
+      "video_id": "4aiWKl8Sg8c",
+      "title": "【MIMESIS】 Trust is key 【DubsteP】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "MIMESIS",
+      "published_at": "2026-05-14T12:48:57.000Z",
+      "available_at": "2026-05-15T11:50:34.000Z",
+      "start_scheduled": "2026-05-15T12:00:00.000Z",
+      "start_actual": "2026-05-15T11:50:34.000Z",
+      "live_viewers": 31,
+      "channel": {
+        "id": "UC_vDF8pbCIR8gaAxXAAH7Og",
+        "name": "DubsteP",
+        "english_name": "DubsteP",
+        "org": "Twitch Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/yypKKZ7TwgcvvF57-AgPEMsPL1fxWSOdrP2ESj7U7Un-cqe7tRQE2t2ajaHvixyXB3_-9PrS=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
