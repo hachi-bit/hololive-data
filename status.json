@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778850199,
+  "cached_at": 1778850259,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "6b-e4BDTr4g",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-15T08:31:54.000Z",
       "start_scheduled": "2026-05-15T08:30:00.000Z",
       "start_actual": "2026-05-15T08:31:54.000Z",
-      "live_viewers": 1235,
+      "live_viewers": 1215,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-15T10:00:29.000Z",
       "start_scheduled": "2026-05-15T10:00:00.000Z",
       "start_actual": "2026-05-15T10:00:29.000Z",
-      "live_viewers": 12815,
+      "live_viewers": 12648,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-15T12:01:30.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:01:30.000Z",
-      "live_viewers": 299,
+      "live_viewers": 242,
       "channel": {
         "id": "UCLSbJjbegkALewYKxfG__rA",
         "name": "Key Oriesa Ch.",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-15T12:01:44.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:01:44.000Z",
-      "live_viewers": 147,
+      "live_viewers": 143,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-15T12:01:45.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:01:45.000Z",
-      "live_viewers": 971,
+      "live_viewers": 950,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC-hM6YJuNYVAmUWxeIr9FeA": {
-      "video_id": "fG95gpLfvB0",
-      "title": "【 タイマン企画 】みこに勝たないと出られない部屋にぇ!ゲスト：鷹嶺ルイ🥀【ホロライブ/さくらみこ/鷹嶺ルイ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "clubhouse51",
-      "published_at": "2026-05-15T08:29:57.000Z",
-      "available_at": "2026-05-15T12:01:55.000Z",
-      "start_scheduled": "2026-05-15T12:00:00.000Z",
-      "start_actual": "2026-05-15T12:01:55.000Z",
-      "live_viewers": 47520,
-      "channel": {
-        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-        "name": "Miko Ch. さくらみこ",
-        "english_name": "Sakura Miko",
-        "org": "Hololive",
-        "suborg": "0y0th Generation",
-        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCz_9zqgFPUYQBhDiZBFc00w": {
@@ -161,6 +141,26 @@
         "photo": "https://yt3.ggpht.com/om5r_6L00d4O4UCk03UpG6EBLY4qOR_FLyj3C5UsWNPJmz1jHKEF2rTRMFaSsWXnivPOiykY7g=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UC-hM6YJuNYVAmUWxeIr9FeA": {
+      "video_id": "fG95gpLfvB0",
+      "title": "【 タイマン企画 】みこに勝たないと出られない部屋にぇ!ゲスト：鷹嶺ルイ🥀【ホロライブ/さくらみこ/鷹嶺ルイ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "clubhouse51",
+      "published_at": "2026-05-15T08:29:57.000Z",
+      "available_at": "2026-05-15T12:01:55.000Z",
+      "start_scheduled": "2026-05-15T12:00:00.000Z",
+      "start_actual": "2026-05-15T12:01:55.000Z",
+      "live_viewers": 48057,
+      "channel": {
+        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+        "name": "Miko Ch. さくらみこ",
+        "english_name": "Sakura Miko",
+        "org": "Hololive",
+        "suborg": "0y0th Generation",
+        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "dMShwXbbZls",
       "title": "【BLEACH Rebirth of Souls】尸魂界編!ブリーチの物語を追体験できるゲームやるぺこおおおおおおおおおおおおおおおおおおおお!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-15T12:02:10.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:02:10.000Z",
-      "live_viewers": 17775,
+      "live_viewers": 17750,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-15T12:02:56.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:02:56.000Z",
-      "live_viewers": 10340,
+      "live_viewers": 10610,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-15T12:03:33.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:33.000Z",
-      "live_viewers": 1242,
+      "live_viewers": 1302,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -331,7 +331,7 @@
       "available_at": "2026-05-15T12:03:41.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:41.000Z",
-      "live_viewers": 7580,
+      "live_viewers": 7802,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -391,7 +391,7 @@
       "available_at": "2026-05-15T12:04:06.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:04:06.000Z",
-      "live_viewers": 3260,
+      "live_viewers": 3313,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -411,7 +411,7 @@
       "available_at": "2026-05-15T12:04:47.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:04:47.000Z",
-      "live_viewers": 388,
+      "live_viewers": 424,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -451,7 +451,7 @@
       "available_at": "2026-05-15T12:25:27.000Z",
       "start_scheduled": "2026-05-15T12:25:00.000Z",
       "start_actual": "2026-05-15T12:25:27.000Z",
-      "live_viewers": 6046,
+      "live_viewers": 6296,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -471,7 +471,7 @@
       "available_at": "2026-05-15T12:32:25.000Z",
       "start_scheduled": "2026-05-15T12:30:00.000Z",
       "start_actual": "2026-05-15T12:32:25.000Z",
-      "live_viewers": 270,
+      "live_viewers": 283,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -479,6 +479,142 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCX4WL24YEOUYd7qDsFSLDOw": {
+      "video_id": "no9w_Mx2ndA",
+      "title": "〖 Minecraft 〗DoZ二次会!おらこそモンクなウォンナ。の巻〖 ぶいすぽっ! / 夜乃くろむ 〗",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-14T08:45:09.000Z",
+      "available_at": "2026-05-15T13:00:00.000Z",
+      "start_scheduled": "2026-05-15T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCX4WL24YEOUYd7qDsFSLDOw",
+        "name": "夜乃くろむ / Yano Kuromu",
+        "english_name": "Yano Kuromu",
+        "org": "VSpo",
+        "suborg": "0gHinemosu",
+        "photo": "https://yt3.ggpht.com/1akMwH-5NFyiA_cSCHjkOi-h0ZygMVcxMdRHYmCgBtjfha__trYziilH92BCAYgYZQBGOWynsg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChSvpZYRPh0FvG4SJGSga3g": {
+      "video_id": "YASdILGft_c",
+      "title": "【トモダチコレクション】続・シャバにENメンバーを増やそう!【影山シエン/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-15T11:26:23.000Z",
+      "available_at": "2026-05-15T13:00:00.000Z",
+      "start_scheduled": "2026-05-15T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UChSvpZYRPh0FvG4SJGSga3g",
+        "name": "Shien Ch.影山シエン",
+        "english_name": "Kageyama Shien",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFTLzh12_nrtzqBPsTCqenA": {
+      "video_id": "mFdgDLkaQjk",
+      "title": "【Minecraft 】赤髪のともプレゼンツ!DoZメンマイクラミニゲームで遊ぶ会!【ホロライブ/アキロゼ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-14T16:22:49.000Z",
+      "available_at": "2026-05-15T13:00:00.000Z",
+      "start_scheduled": "2026-05-15T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCFTLzh12_nrtzqBPsTCqenA",
+        "name": "アキロゼCh。Vtuber/ホロライブ所属",
+        "english_name": "Aki Rosenthal",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCV5ZZlLjk5MKGg3L0n0vbzw": {
+      "video_id": "h-0zMTu8M08",
+      "title": "【マイクラ】Doz二次会 w/赤髪のとも 夜乃くろむ ズズ アキロゼ 鬱先生 のばまん えおえお【にじさんじ/鷹宮リオン】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-14T16:16:09.000Z",
+      "available_at": "2026-05-15T13:00:00.000Z",
+      "start_scheduled": "2026-05-15T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCV5ZZlLjk5MKGg3L0n0vbzw",
+        "name": "鷹宮リオン / Rion Takamiya",
+        "english_name": "Takamiya Rion",
+        "org": "Nijisanji",
+        "suborg": "08Ex-SEEDs",
+        "photo": "https://yt3.ggpht.com/ZHg5_1Cm-evUtbOQOnOHfR6qJBW7CKKww2FwLh19_B-dOHqkKYdoVBHgdr-R6b6fVTl2AD04ug=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC0TXe_LYZ4scaW2XMyi5_kw": {
+      "video_id": "ZlaE59NgPpg",
+      "title": "【クロノ・トリガー】完全初見!時を超える名作RPG、はじめます―― #2【ホロライブ / AZKi】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Chrono_Trigger",
+      "published_at": "2026-05-15T06:51:25.000Z",
+      "available_at": "2026-05-15T13:00:13.000Z",
+      "start_scheduled": "2026-05-15T13:00:00.000Z",
+      "start_actual": "2026-05-15T13:00:13.000Z",
+      "live_viewers": 2851,
+      "channel": {
+        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+        "name": "AZKi Channel",
+        "english_name": "AZKi",
+        "org": "Hololive",
+        "suborg": "0z0th Generation",
+        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1iA6_NT4mtAcIII6ygrvCw": {
+      "video_id": "gjbj0gANTcs",
+      "title": "#5【バイオハザード RE:4】完全初見で挑むバイオ【轟はじめ/ReGLOSS】※未成年の方視聴注意",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-05-14T12:52:25.000Z",
+      "available_at": "2026-05-15T13:00:14.000Z",
+      "start_scheduled": "2026-05-15T13:00:00.000Z",
+      "start_actual": "2026-05-15T13:00:14.000Z",
+      "live_viewers": 984,
+      "channel": {
+        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+        "english_name": "Todoroki Hajime",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdXAk5MpyLD8594lm_OvtGQ": {
+      "video_id": "s1atiQ6yU6k",
+      "title": "【同時視聴】ジョジョの奇妙な冒険ストーンオーシャン(6部)同時視聴の会ッ!!⑬【儒烏風亭らでん #ReGLOSS 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-05-15T05:14:47.000Z",
+      "available_at": "2026-05-15T13:01:07.000Z",
+      "start_scheduled": "2026-05-15T13:00:00.000Z",
+      "start_actual": "2026-05-15T13:01:07.000Z",
+      "live_viewers": 431,
+      "channel": {
+        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+        "english_name": "Juufuutei Raden",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
