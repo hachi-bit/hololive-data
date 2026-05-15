@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778858419,
+  "cached_at": 1778858480,
   "lives": {
-    "UC_vDF8pbCIR8gaAxXAAH7Og": {
-      "video_id": "4aiWKl8Sg8c",
-      "title": "【MIMESIS】 Trust is key 【DubsteP】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "MIMESIS",
-      "published_at": "2026-05-14T12:48:57.000Z",
-      "available_at": "2026-05-15T11:50:34.000Z",
-      "start_scheduled": "2026-05-15T12:00:00.000Z",
-      "start_actual": "2026-05-15T11:50:34.000Z",
-      "live_viewers": 60,
-      "channel": {
-        "id": "UC_vDF8pbCIR8gaAxXAAH7Og",
-        "name": "DubsteP",
-        "english_name": "DubsteP",
-        "org": "Twitch Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/yypKKZ7TwgcvvF57-AgPEMsPL1fxWSOdrP2ESj7U7Un-cqe7tRQE2t2ajaHvixyXB3_-9PrS=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "4nhrwreQtZg",
       "title": "【 Pokémon LEGENDS Z-A | #4 】ミアレシティに幽霊参戦!【 水無世燐央 | UPROAR!! 】",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-15T12:01:44.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:01:44.000Z",
-      "live_viewers": 169,
+      "live_viewers": 176,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-15T12:02:32.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:02:32.000Z",
-      "live_viewers": 15070,
+      "live_viewers": 14254,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-15T13:00:13.000Z",
       "start_scheduled": "2026-05-15T13:00:00.000Z",
       "start_actual": "2026-05-15T13:00:13.000Z",
-      "live_viewers": 11492,
+      "live_viewers": 11732,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-15T13:03:02.000Z",
       "start_scheduled": "2026-05-15T13:00:00.000Z",
       "start_actual": "2026-05-15T13:03:02.000Z",
-      "live_viewers": 569,
+      "live_viewers": 632,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-15T13:04:52.000Z",
       "start_scheduled": "2026-05-15T13:00:00.000Z",
       "start_actual": "2026-05-15T13:04:52.000Z",
-      "live_viewers": 4808,
+      "live_viewers": 4710,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -351,7 +331,7 @@
       "available_at": "2026-05-15T14:30:41.000Z",
       "start_scheduled": "2026-05-15T14:30:00.000Z",
       "start_actual": "2026-05-15T14:30:41.000Z",
-      "live_viewers": 3330,
+      "live_viewers": 3370,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
