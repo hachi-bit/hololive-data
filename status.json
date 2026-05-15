@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778858899,
+  "cached_at": 1778858959,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "4nhrwreQtZg",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-15T12:03:36.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:36.000Z",
-      "live_viewers": 16798,
+      "live_viewers": 17085,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-15T12:03:41.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:41.000Z",
-      "live_viewers": 11028,
+      "live_viewers": 11225,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-15T12:03:56.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:56.000Z",
-      "live_viewers": 4705,
+      "live_viewers": 4687,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-15T12:04:06.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:04:06.000Z",
-      "live_viewers": 3657,
+      "live_viewers": 3703,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-15T12:25:27.000Z",
       "start_scheduled": "2026-05-15T12:25:00.000Z",
       "start_actual": "2026-05-15T12:25:27.000Z",
-      "live_viewers": 3377,
+      "live_viewers": 3316,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -219,46 +219,6 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCFTLzh12_nrtzqBPsTCqenA": {
-      "video_id": "mFdgDLkaQjk",
-      "title": "【Minecraft 】赤髪のともプレゼンツ!DoZメンマイクラミニゲームで遊ぶ会!【ホロライブ/アキロゼ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-14T16:22:49.000Z",
-      "available_at": "2026-05-15T13:04:52.000Z",
-      "start_scheduled": "2026-05-15T13:00:00.000Z",
-      "start_actual": "2026-05-15T13:04:52.000Z",
-      "live_viewers": 4710,
-      "channel": {
-        "id": "UCFTLzh12_nrtzqBPsTCqenA",
-        "name": "アキロゼCh。Vtuber/ホロライブ所属",
-        "english_name": "Aki Rosenthal",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCX4WL24YEOUYd7qDsFSLDOw": {
-      "video_id": "NLJpu5Y1fws",
-      "title": "〖 Minecraft 〗DoZ二次会！おらこそモンクなウォンナ。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-15T13:09:01.000Z",
-      "available_at": "2026-05-15T13:09:52.000Z",
-      "start_scheduled": "2026-05-15T13:10:00.000Z",
-      "start_actual": "2026-05-15T13:09:52.000Z",
-      "live_viewers": 1695,
-      "channel": {
-        "id": "UCX4WL24YEOUYd7qDsFSLDOw",
-        "name": "夜乃くろむ / Yano Kuromu",
-        "english_name": "Yano Kuromu",
-        "org": "VSpo",
-        "suborg": "0gHinemosu",
-        "photo": "https://yt3.ggpht.com/1akMwH-5NFyiA_cSCHjkOi-h0ZygMVcxMdRHYmCgBtjfha__trYziilH92BCAYgYZQBGOWynsg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCYz_5n-uDuChHtLo7My1HnQ": {
