@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778862739,
+  "cached_at": 1778862801,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "4nhrwreQtZg",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-15T12:03:41.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:41.000Z",
-      "live_viewers": 11431,
+      "live_viewers": 11275,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-15T12:04:06.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:04:06.000Z",
-      "live_viewers": 3698,
+      "live_viewers": 3679,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-15T14:03:43.000Z",
       "start_scheduled": "2026-05-15T14:00:00.000Z",
       "start_actual": "2026-05-15T14:03:43.000Z",
-      "live_viewers": 6696,
+      "live_viewers": 6653,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -219,6 +219,26 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1suqwovbL1kzsoaZgFZLKg": {
+      "video_id": "ooiqTTEnNek",
+      "title": "【Freetalk】深夜にまったり悪魔のゲリラ雑談📣 【ホロライブ/癒月ちょこ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-15T16:17:46.000Z",
+      "available_at": "2026-05-15T16:29:53.000Z",
+      "start_scheduled": "2026-05-15T16:30:00.000Z",
+      "start_actual": "2026-05-15T16:29:53.000Z",
+      "live_viewers": 659,
+      "channel": {
+        "id": "UC1suqwovbL1kzsoaZgFZLKg",
+        "name": "Choco Ch. 癒月ちょこ",
+        "english_name": "Yuzuki Choco",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
