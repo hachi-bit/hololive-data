@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778822119,
+  "cached_at": 1778822179,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "BiMKVSZgXRw",
@@ -19,46 +19,6 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCajbFh6e_R8QZdHAMbbi4rQ": {
-      "video_id": "ythcB39YUEc",
-      "title": "Getting the Last Word in Final Sentence with THE BOYS【STARSEN COLLAB】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Final_Sentence",
-      "published_at": "2026-05-14T08:01:58.000Z",
-      "available_at": "2026-05-15T01:16:30.000Z",
-      "start_scheduled": "2026-05-15T01:00:00.000Z",
-      "start_actual": "2026-05-15T01:16:30.000Z",
-      "live_viewers": 640,
-      "channel": {
-        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-        "english_name": "Crimzon Ruze",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "zIsU1KKf1jE",
-      "title": "1 Sip Every Match Loss...? Drinking Game?!【STREET FIGHTER 6】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-05-14T16:12:52.000Z",
-      "available_at": "2026-05-15T03:51:36.000Z",
-      "start_scheduled": "2026-05-15T03:00:00.000Z",
-      "start_actual": "2026-05-15T03:51:36.000Z",
-      "live_viewers": 620,
-      "channel": {
-        "id": "UC060r4zABV18vcahAWR1n7w",
-        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-        "english_name": "Machina X Flayon",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC7gxU6NXjKF1LrgOddPzgTw": {
@@ -91,7 +51,7 @@
       "available_at": "2026-05-15T01:33:18.000Z",
       "start_scheduled": "2026-05-15T01:30:00.000Z",
       "start_actual": "2026-05-15T01:33:18.000Z",
-      "live_viewers": 5623,
+      "live_viewers": 4862,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -99,6 +59,26 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC060r4zABV18vcahAWR1n7w": {
+      "video_id": "zIsU1KKf1jE",
+      "title": "1 Sip Every Match Loss...? Drinking Game?!【STREET FIGHTER 6】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-05-14T16:12:52.000Z",
+      "available_at": "2026-05-15T03:51:36.000Z",
+      "start_scheduled": "2026-05-15T03:00:00.000Z",
+      "start_actual": "2026-05-15T03:51:36.000Z",
+      "live_viewers": 620,
+      "channel": {
+        "id": "UC060r4zABV18vcahAWR1n7w",
+        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
+        "english_name": "Machina X Flayon",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
