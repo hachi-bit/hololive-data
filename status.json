@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778808438,
+  "cached_at": 1778808499,
   "lives": {
     "UC6t3-_N8A6ME1JShZHHqOMw": {
       "video_id": "v3NcZQmf_mM",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-15T00:57:25.000Z",
       "start_scheduled": "2026-05-15T01:00:00.000Z",
       "start_actual": "2026-05-15T00:57:25.000Z",
-      "live_viewers": 4084,
+      "live_viewers": 4183,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-15T01:04:56.000Z",
       "start_scheduled": "2026-05-15T01:00:00.000Z",
       "start_actual": "2026-05-15T01:04:56.000Z",
-      "live_viewers": 327,
+      "live_viewers": 320,
       "channel": {
         "id": "UCyxtGMdWlURZ30WSnEjDOQw",
         "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-15T01:16:20.000Z",
       "start_scheduled": "2026-05-15T01:00:00.000Z",
       "start_actual": "2026-05-15T01:16:20.000Z",
-      "live_viewers": 141,
+      "live_viewers": 159,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-15T01:16:30.000Z",
       "start_scheduled": "2026-05-15T01:00:00.000Z",
       "start_actual": "2026-05-15T01:16:30.000Z",
-      "live_viewers": 621,
+      "live_viewers": 613,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-15T01:19:47.000Z",
       "start_scheduled": "2026-05-15T01:00:00.000Z",
       "start_actual": "2026-05-15T01:19:47.000Z",
-      "live_viewers": 118,
+      "live_viewers": 143,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -159,25 +159,6 @@
         "org": "Hololive",
         "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
         "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCMqGG8BRAiI1lJfKOpETM_w": {
-      "video_id": "dZQgRtfhwvs",
-      "title": "【Final Sentence】i wasn't gonna have a pov but the boys were taking so long so i made one",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-15T01:20:11.000Z",
-      "available_at": "2026-05-15T01:20:00.000Z",
-      "start_scheduled": "2026-05-15T01:20:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCMqGG8BRAiI1lJfKOpETM_w",
-        "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
-        "english_name": "Josuiji Shinri",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC060r4zABV18vcahAWR1n7w": {
@@ -190,7 +171,7 @@
       "available_at": "2026-05-15T01:20:12.000Z",
       "start_scheduled": "2026-05-15T01:00:00.000Z",
       "start_actual": "2026-05-15T01:20:12.000Z",
-      "live_viewers": 181,
+      "live_viewers": 198,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -210,7 +191,7 @@
       "available_at": "2026-05-15T01:21:58.000Z",
       "start_scheduled": "2026-05-15T01:00:00.000Z",
       "start_actual": "2026-05-15T01:21:58.000Z",
-      "live_viewers": 167,
+      "live_viewers": 219,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -218,6 +199,26 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCMqGG8BRAiI1lJfKOpETM_w": {
+      "video_id": "dZQgRtfhwvs",
+      "title": "【Final Sentence】i wasn't gonna have a pov but the boys were taking so long so i made one",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-15T01:20:11.000Z",
+      "available_at": "2026-05-15T01:24:28.000Z",
+      "start_scheduled": "2026-05-15T01:20:00.000Z",
+      "start_actual": "2026-05-15T01:24:28.000Z",
+      "live_viewers": 110,
+      "channel": {
+        "id": "UCMqGG8BRAiI1lJfKOpETM_w",
+        "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
+        "english_name": "Josuiji Shinri",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
