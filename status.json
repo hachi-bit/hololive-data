@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778855539,
+  "cached_at": 1778855599,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "4aiWKl8Sg8c",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-15T12:02:10.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:02:10.000Z",
-      "live_viewers": 18691,
+      "live_viewers": 18598,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -59,46 +59,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCAoy6rzhSf4ydcYjJw3WoVg": {
-      "video_id": "iiCzxfAM5Ho",
-      "title": "【Windrose】AHOY! SET SAIL MATES!【 iofi / hololiveID 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Windrose",
-      "published_at": "2026-05-15T04:26:14.000Z",
-      "available_at": "2026-05-15T12:02:20.000Z",
-      "start_scheduled": "2026-05-15T12:00:00.000Z",
-      "start_actual": "2026-05-15T12:02:20.000Z",
-      "live_viewers": 561,
-      "channel": {
-        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-        "name": "Airani Iofifteen Channel hololive-ID",
-        "english_name": "Airani Iofifteen",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCOyYb1c43VlX9rc_lT6NKQw": {
-      "video_id": "HENUEnWiKbk",
-      "title": "#AREA15 ANGIN MAWAR",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Windrose",
-      "published_at": "2026-05-15T05:23:55.000Z",
-      "available_at": "2026-05-15T12:02:24.000Z",
-      "start_scheduled": "2026-05-15T12:00:00.000Z",
-      "start_actual": "2026-05-15T12:02:24.000Z",
-      "live_viewers": 926,
-      "channel": {
-        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-        "name": "Ayunda Risu Ch. hololive-ID",
-        "english_name": "Ayunda Risu",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvzGlP9oQwU--Y0r9id_jnA": {
@@ -131,7 +91,7 @@
       "available_at": "2026-05-15T12:02:56.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:02:56.000Z",
-      "live_viewers": 10482,
+      "live_viewers": 10423,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -139,26 +99,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCP0BspO_AMEe3aQqqpo89Dg": {
-      "video_id": "9G8euvNvvB4",
-      "title": "【Windrose】YO HO HO SAIL UP ! AREA15!【hololive | moona】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Windrose",
-      "published_at": "2026-05-13T02:17:26.000Z",
-      "available_at": "2026-05-15T12:03:33.000Z",
-      "start_scheduled": "2026-05-15T12:00:00.000Z",
-      "start_actual": "2026-05-15T12:03:33.000Z",
-      "live_viewers": 1242,
-      "channel": {
-        "id": "UCP0BspO_AMEe3aQqqpo89Dg",
-        "name": "Moona Hoshinova hololive-ID",
-        "english_name": "Moona Hoshinova",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
@@ -211,7 +151,7 @@
       "available_at": "2026-05-15T12:03:53.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:53.000Z",
-      "live_viewers": 176,
+      "live_viewers": 165,
       "channel": {
         "id": "UC7Xglp1fske9zmRe7Oj8YyA",
         "name": "Riko Solari【VSPO! EN】",
@@ -411,7 +351,7 @@
       "available_at": "2026-05-15T13:03:02.000Z",
       "start_scheduled": "2026-05-15T13:00:00.000Z",
       "start_actual": "2026-05-15T13:03:02.000Z",
-      "live_viewers": 598,
+      "live_viewers": 607,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -491,7 +431,7 @@
       "available_at": "2026-05-15T14:00:48.000Z",
       "start_scheduled": "2026-05-15T14:00:00.000Z",
       "start_actual": "2026-05-15T14:00:48.000Z",
-      "live_viewers": 1402,
+      "live_viewers": 1826,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -519,6 +459,26 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "baG23npeVuA",
+      "title": "【 鬼サザエトリ 】サザエって美味しい?♡【ホロライブ DEV_IS 響咲リオナ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Goblin_Gnome_Horn",
+      "published_at": "2026-05-14T17:56:33.000Z",
+      "available_at": "2026-05-15T14:30:41.000Z",
+      "start_scheduled": "2026-05-15T14:30:00.000Z",
+      "start_actual": "2026-05-15T14:30:41.000Z",
+      "live_viewers": 505,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
