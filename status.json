@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778843419,
+  "cached_at": 1778843479,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "zIsU1KKf1jE",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-15T08:31:54.000Z",
       "start_scheduled": "2026-05-15T08:30:00.000Z",
       "start_actual": "2026-05-15T08:31:54.000Z",
-      "live_viewers": 1273,
+      "live_viewers": 1332,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-15T09:03:26.000Z",
       "start_scheduled": "2026-05-15T09:00:00.000Z",
       "start_actual": "2026-05-15T09:03:26.000Z",
-      "live_viewers": 7188,
+      "live_viewers": 7000,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-15T09:09:48.000Z",
       "start_scheduled": "2026-05-15T09:00:00.000Z",
       "start_actual": "2026-05-15T09:09:48.000Z",
-      "live_viewers": 3729,
+      "live_viewers": 3724,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-15T10:00:41.000Z",
       "start_scheduled": "2026-05-15T10:00:00.000Z",
       "start_actual": "2026-05-15T10:00:41.000Z",
-      "live_viewers": 11688,
+      "live_viewers": 11677,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -219,26 +219,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9mf_ZVpouoILRY9NUIaK-w": {
-      "video_id": "dh_m9jJrGc0",
-      "title": "【弾き語り歌枠】19時の歌【律可/ホロスターズ】#りつすた",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-05-15T05:29:07.000Z",
-      "available_at": "2026-05-15T10:00:44.000Z",
-      "start_scheduled": "2026-05-15T10:00:00.000Z",
-      "start_actual": "2026-05-15T10:00:44.000Z",
-      "live_viewers": 441,
-      "channel": {
-        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-        "name": "Rikka ch.律可",
-        "english_name": "Rikka",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCp6993wxpyDPHUpavwDFqgg": {
@@ -251,7 +231,7 @@
       "available_at": "2026-05-15T10:57:26.000Z",
       "start_scheduled": "2026-05-15T11:00:00.000Z",
       "start_actual": "2026-05-15T10:57:26.000Z",
-      "live_viewers": 23998,
+      "live_viewers": 26298,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
