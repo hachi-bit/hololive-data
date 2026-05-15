@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778875159,
+  "cached_at": 1778875219,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "t2NR-6jKF6o",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-15T17:02:50.000Z",
       "start_scheduled": "2026-05-15T17:00:00.000Z",
       "start_actual": "2026-05-15T17:02:50.000Z",
-      "live_viewers": 812,
+      "live_viewers": 928,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-15T19:17:25.000Z",
       "start_scheduled": "2026-05-15T19:20:00.000Z",
       "start_actual": "2026-05-15T19:17:25.000Z",
-      "live_viewers": 1027,
+      "live_viewers": 1043,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -59,6 +59,26 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgnfPPb9JI3e9A4cXHnWbyg": {
+      "video_id": "veVa9IFKJrY",
+      "title": "Game Where You Feed Forest Creatures During Witching Hour 【Creature Kitchen】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Creature_Kitchen",
+      "published_at": "2026-05-15T03:30:38.000Z",
+      "available_at": "2026-05-15T19:55:28.000Z",
+      "start_scheduled": "2026-05-15T20:00:00.000Z",
+      "start_actual": "2026-05-15T19:55:28.000Z",
+      "live_viewers": 959,
+      "channel": {
+        "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
+        "name": "Shiori Novella Ch. hololive-EN",
+        "english_name": "Shiori Novella",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
