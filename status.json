@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778817679,
+  "cached_at": 1778817739,
   "lives": {
     "UC6t3-_N8A6ME1JShZHHqOMw": {
       "video_id": "v3NcZQmf_mM",
@@ -108,9 +108,10 @@
       "status": "live",
       "topic_id": "Street_Fighter",
       "published_at": "2026-05-14T16:12:52.000Z",
-      "available_at": "2026-05-15T03:00:00.000Z",
+      "available_at": "2026-05-15T03:51:36.000Z",
       "start_scheduled": "2026-05-15T03:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-15T03:51:36.000Z",
+      "live_viewers": 620,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
