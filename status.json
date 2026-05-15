@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778866579,
+  "cached_at": 1778866639,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "4nhrwreQtZg",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-15T12:01:44.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:01:44.000Z",
-      "live_viewers": 203,
+      "live_viewers": 216,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-15T12:03:36.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:36.000Z",
-      "live_viewers": 14620,
+      "live_viewers": 14640,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-15T13:00:13.000Z",
       "start_scheduled": "2026-05-15T13:00:00.000Z",
       "start_actual": "2026-05-15T13:00:13.000Z",
-      "live_viewers": 10715,
+      "live_viewers": 10442,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "0z0th Generation",
         "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChSvpZYRPh0FvG4SJGSga3g": {
-      "video_id": "YASdILGft_c",
-      "title": "【トモダチコレクション】続・シャバにENメンバーを増やそう!【影山シエン/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-15T11:26:23.000Z",
-      "available_at": "2026-05-15T13:03:02.000Z",
-      "start_scheduled": "2026-05-15T13:00:00.000Z",
-      "start_actual": "2026-05-15T13:03:02.000Z",
-      "live_viewers": 677,
-      "channel": {
-        "id": "UChSvpZYRPh0FvG4SJGSga3g",
-        "name": "Shien Ch.影山シエン",
-        "english_name": "Kageyama Shien",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
@@ -131,7 +111,7 @@
       "available_at": "2026-05-15T17:02:50.000Z",
       "start_scheduled": "2026-05-15T17:00:00.000Z",
       "start_actual": "2026-05-15T17:02:50.000Z",
-      "live_viewers": 551,
+      "live_viewers": 604,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
