@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778864959,
+  "cached_at": 1778865019,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "4nhrwreQtZg",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-15T12:01:44.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:01:44.000Z",
-      "live_viewers": 217,
+      "live_viewers": 212,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-15T12:03:36.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:36.000Z",
-      "live_viewers": 15073,
+      "live_viewers": 15048,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-15T12:03:41.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:41.000Z",
-      "live_viewers": 10661,
+      "live_viewers": 10632,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-15T13:03:02.000Z",
       "start_scheduled": "2026-05-15T13:00:00.000Z",
       "start_actual": "2026-05-15T13:03:02.000Z",
-      "live_viewers": 662,
+      "live_viewers": 676,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -159,26 +159,6 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCYz_5n-uDuChHtLo7My1HnQ": {
-      "video_id": "Is0s_nhhaqQ",
-      "title": "【UNARCHIVED KARAOKE】 ZOMBIE NOISES THE STREAM  【Kureiji Ollie】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-05-15T12:08:22.000Z",
-      "available_at": "2026-05-15T14:00:48.000Z",
-      "start_scheduled": "2026-05-15T14:00:00.000Z",
-      "start_actual": "2026-05-15T14:00:48.000Z",
-      "live_viewers": 2139,
-      "channel": {
-        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
-        "name": "Kureiji Ollie Ch. hololive-ID",
-        "english_name": "Kureiji Ollie",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1suqwovbL1kzsoaZgFZLKg": {
@@ -191,7 +171,7 @@
       "available_at": "2026-05-15T16:29:53.000Z",
       "start_scheduled": "2026-05-15T16:30:00.000Z",
       "start_actual": "2026-05-15T16:29:53.000Z",
-      "live_viewers": 2878,
+      "live_viewers": 3020,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-15T17:02:50.000Z",
       "start_scheduled": "2026-05-15T17:00:00.000Z",
       "start_actual": "2026-05-15T17:02:50.000Z",
-      "live_viewers": 238,
+      "live_viewers": 302,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
