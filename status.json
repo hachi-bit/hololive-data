@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778855299,
+  "cached_at": 1778855359,
   "lives": {
     "UC_vDF8pbCIR8gaAxXAAH7Og": {
       "video_id": "4aiWKl8Sg8c",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-15T12:01:44.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:01:44.000Z",
-      "live_viewers": 147,
+      "live_viewers": 156,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCtyWhCj3AqKh2dXctLkDtng": {
-      "video_id": "ToasHXcxGsU",
-      "title": "【スパチャ読み】お礼枠!!です!!!!【一条莉々華/hololive DEV_IS ReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Superchat_Reading",
-      "published_at": "2026-05-15T08:59:58.000Z",
-      "available_at": "2026-05-15T12:01:45.000Z",
-      "start_scheduled": "2026-05-15T12:00:00.000Z",
-      "start_actual": "2026-05-15T12:01:45.000Z",
-      "live_viewers": 35,
-      "channel": {
-        "id": "UCtyWhCj3AqKh2dXctLkDtng",
-        "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-        "english_name": "Ichijou Ririka",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1DCedRgGHBdm81E1llLhOQ": {
@@ -71,7 +51,7 @@
       "available_at": "2026-05-15T12:02:10.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:02:10.000Z",
-      "live_viewers": 18289,
+      "live_viewers": 18584,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-15T12:02:20.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:02:20.000Z",
-      "live_viewers": 750,
+      "live_viewers": 760,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-15T12:02:32.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:02:32.000Z",
-      "live_viewers": 19280,
+      "live_viewers": 19138,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-15T12:02:56.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:02:56.000Z",
-      "live_viewers": 10577,
+      "live_viewers": 10458,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-15T12:03:33.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:33.000Z",
-      "live_viewers": 1279,
+      "live_viewers": 1275,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-15T12:03:36.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:36.000Z",
-      "live_viewers": 16908,
+      "live_viewers": 16881,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-15T12:03:41.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:41.000Z",
-      "live_viewers": 10350,
+      "live_viewers": 10385,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-15T12:03:56.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:03:56.000Z",
-      "live_viewers": 4430,
+      "live_viewers": 4509,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-15T12:04:47.000Z",
       "start_scheduled": "2026-05-15T12:00:00.000Z",
       "start_actual": "2026-05-15T12:04:47.000Z",
-      "live_viewers": 468,
+      "live_viewers": 483,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -371,7 +351,7 @@
       "available_at": "2026-05-15T13:00:13.000Z",
       "start_scheduled": "2026-05-15T13:00:00.000Z",
       "start_actual": "2026-05-15T13:00:13.000Z",
-      "live_viewers": 9902,
+      "live_viewers": 10184,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -391,7 +371,7 @@
       "available_at": "2026-05-15T13:00:14.000Z",
       "start_scheduled": "2026-05-15T13:00:00.000Z",
       "start_actual": "2026-05-15T13:00:14.000Z",
-      "live_viewers": 4612,
+      "live_viewers": 4412,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -411,7 +391,7 @@
       "available_at": "2026-05-15T13:01:07.000Z",
       "start_scheduled": "2026-05-15T13:00:00.000Z",
       "start_actual": "2026-05-15T13:01:07.000Z",
-      "live_viewers": 737,
+      "live_viewers": 722,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -431,7 +411,7 @@
       "available_at": "2026-05-15T13:03:02.000Z",
       "start_scheduled": "2026-05-15T13:00:00.000Z",
       "start_actual": "2026-05-15T13:03:02.000Z",
-      "live_viewers": 539,
+      "live_viewers": 577,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -471,7 +451,7 @@
       "available_at": "2026-05-15T13:07:42.000Z",
       "start_scheduled": "2026-05-15T13:00:00.000Z",
       "start_actual": "2026-05-15T13:07:42.000Z",
-      "live_viewers": 608,
+      "live_viewers": 643,
       "channel": {
         "id": "UCV5ZZlLjk5MKGg3L0n0vbzw",
         "name": "鷹宮リオン / Rion Takamiya",
@@ -491,7 +471,7 @@
       "available_at": "2026-05-15T13:09:52.000Z",
       "start_scheduled": "2026-05-15T13:10:00.000Z",
       "start_actual": "2026-05-15T13:09:52.000Z",
-      "live_viewers": 2496,
+      "live_viewers": 2528,
       "channel": {
         "id": "UCX4WL24YEOUYd7qDsFSLDOw",
         "name": "夜乃くろむ / Yano Kuromu",
@@ -511,7 +491,7 @@
       "available_at": "2026-05-15T14:00:48.000Z",
       "start_scheduled": "2026-05-15T14:00:00.000Z",
       "start_actual": "2026-05-15T14:00:48.000Z",
-      "live_viewers": 1358,
+      "live_viewers": 1402,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -531,7 +511,7 @@
       "available_at": "2026-05-15T14:03:43.000Z",
       "start_scheduled": "2026-05-15T14:00:00.000Z",
       "start_actual": "2026-05-15T14:03:43.000Z",
-      "live_viewers": 3457,
+      "live_viewers": 3519,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
