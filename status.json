@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778832199,
+  "cached_at": 1778832259,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "zIsU1KKf1jE",
@@ -19,6 +19,44 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFTLzh12_nrtzqBPsTCqenA": {
+      "video_id": "h9IZZlHFNkI",
+      "title": "【APEX】SCARZ CUP 新レジェ「アクセル」&つよつよ2人と二人三脚ペックスできるのか!w.たいださん/こはーく【ホロライブ/アキロゼ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "apex",
+      "published_at": "2026-05-14T16:02:03.000Z",
+      "available_at": "2026-05-15T08:00:00.000Z",
+      "start_scheduled": "2026-05-15T08:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCFTLzh12_nrtzqBPsTCqenA",
+        "name": "アキロゼCh。Vtuber/ホロライブ所属",
+        "english_name": "Aki Rosenthal",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCyLGcqYs7RsBb3L0SJfzGYA": {
+      "video_id": "xdcrBaMDed8",
+      "title": "【APEX】❤️‍🔥SCARZCUP 弾当たるかなぁ【ぶいすぽっ!/花芽すみれ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "apex",
+      "published_at": "2026-05-14T20:52:47.000Z",
+      "available_at": "2026-05-15T08:00:00.000Z",
+      "start_scheduled": "2026-05-15T08:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCyLGcqYs7RsBb3L0SJfzGYA",
+        "name": "花芽すみれ / Kaga Sumire",
+        "english_name": "Kaga Sumire",
+        "org": "VSpo",
+        "suborg": "0aLupinus Virtual Games",
+        "photo": "https://yt3.ggpht.com/62gVOJZDVb-9pPCbljnoRlwqEuvcGk0pNl32GNi_GA_KQS3N7X6-B660Pk3crHh3zi1XSzHMNQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
