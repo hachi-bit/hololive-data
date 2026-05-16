@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778932459,
+  "cached_at": 1778932519,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "jZftID08VYg",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-16T07:57:27.000Z",
       "start_scheduled": "2026-05-16T08:00:00.000Z",
       "start_actual": "2026-05-16T07:57:27.000Z",
-      "live_viewers": 13136,
+      "live_viewers": 13147,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-16T10:02:18.000Z",
       "start_scheduled": "2026-05-16T10:00:00.000Z",
       "start_actual": "2026-05-16T10:02:18.000Z",
-      "live_viewers": 19837,
+      "live_viewers": 20328,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-16T11:00:25.000Z",
       "start_scheduled": "2026-05-16T11:00:00.000Z",
       "start_actual": "2026-05-16T11:00:25.000Z",
-      "live_viewers": 1547,
+      "live_viewers": 1617,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -159,26 +159,6 @@
         "org": "Neo-Porte",
         "suborg": "0k5th Generation",
         "photo": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC7-N7MvN5muVIHqyQx9LFbA": {
-      "video_id": "B7UIpmvwo90",
-      "title": "【#漢義リーグ/雀魂】俺主催のリーグ戦開幕！出場する16人のVtuberを発表するッ！！【歌衣メイカ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mahjong",
-      "published_at": "2026-05-15T06:45:26.000Z",
-      "available_at": "2026-05-16T11:01:39.000Z",
-      "start_scheduled": "2026-05-16T11:00:00.000Z",
-      "start_actual": "2026-05-16T11:01:39.000Z",
-      "live_viewers": 5318,
-      "channel": {
-        "id": "UC7-N7MvN5muVIHqyQx9LFbA",
-        "name": "メイカちゃんねる",
-        "english_name": "Utai Meika",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mq4PLSnpYy83ZUfXHKZVIVXsU8VnFE5xpzLcVXrmImnAg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdXAk5MpyLD8594lm_OvtGQ": {
@@ -211,7 +191,7 @@
       "available_at": "2026-05-16T11:06:43.000Z",
       "start_scheduled": "2026-05-16T11:05:00.000Z",
       "start_actual": "2026-05-16T11:06:43.000Z",
-      "live_viewers": 476,
+      "live_viewers": 506,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-16T11:07:16.000Z",
       "start_scheduled": "2026-05-16T11:05:00.000Z",
       "start_actual": "2026-05-16T11:07:16.000Z",
-      "live_viewers": 3867,
+      "live_viewers": 3866,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-16T11:20:09.000Z",
       "start_scheduled": "2026-05-16T11:20:00.000Z",
       "start_actual": "2026-05-16T11:20:09.000Z",
-      "live_viewers": 3067,
+      "live_viewers": 3140,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
