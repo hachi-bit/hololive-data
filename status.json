@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778936659,
+  "cached_at": 1778936721,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "jZftID08VYg",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-16T07:57:27.000Z",
       "start_scheduled": "2026-05-16T08:00:00.000Z",
       "start_actual": "2026-05-16T07:57:27.000Z",
-      "live_viewers": 13485,
+      "live_viewers": 13472,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-16T10:01:31.000Z",
       "start_scheduled": "2026-05-16T10:00:00.000Z",
       "start_actual": "2026-05-16T10:01:31.000Z",
-      "live_viewers": 8216,
+      "live_viewers": 8124,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-16T11:00:25.000Z",
       "start_scheduled": "2026-05-16T11:00:00.000Z",
       "start_actual": "2026-05-16T11:00:25.000Z",
-      "live_viewers": 1559,
+      "live_viewers": 1565,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-16T11:07:16.000Z",
       "start_scheduled": "2026-05-16T11:05:00.000Z",
       "start_actual": "2026-05-16T11:07:16.000Z",
-      "live_viewers": 3928,
+      "live_viewers": 3926,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-16T12:00:35.000Z",
       "start_scheduled": "2026-05-16T12:00:00.000Z",
       "start_actual": "2026-05-16T12:00:35.000Z",
-      "live_viewers": 35740,
+      "live_viewers": 34978,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-16T12:33:53.000Z",
       "start_scheduled": "2026-05-16T12:30:00.000Z",
       "start_actual": "2026-05-16T12:33:53.000Z",
-      "live_viewers": 2476,
+      "live_viewers": 2535,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -259,44 +259,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1uv2Oq6kNxgATlCiez59hw": {
-      "video_id": "yJC-cGyshOg",
-      "title": "【 歌枠 】ホロライブという自覚を持ちながら歌います。【常闇トワ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-05-16T09:44:10.000Z",
-      "available_at": "2026-05-16T13:00:00.000Z",
-      "start_scheduled": "2026-05-16T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC1uv2Oq6kNxgATlCiez59hw",
-        "name": "Towa Ch. 常闇トワ",
-        "english_name": "Tokoyami Towa",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9mf_ZVpouoILRY9NUIaK-w": {
-      "video_id": "2Eh3Eijq1GM",
-      "title": "【弾き語り歌枠】22時の歌【律可/ホロスターズ】#りつすた",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-05-16T11:07:54.000Z",
-      "available_at": "2026-05-16T13:00:00.000Z",
-      "start_scheduled": "2026-05-16T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-        "name": "Rikka ch.律可",
-        "english_name": "Rikka",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
@@ -318,42 +280,23 @@
         "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "-5h46aQ0MXQ",
-      "title": "【ドラゴンボールZ KAKAROT】「TRUNKS 希望の戦士」DLCやっていくよ！【ホロライブ DEV_IS 響咲リオナ】※ネタバレあり",
+    "UC9mf_ZVpouoILRY9NUIaK-w": {
+      "video_id": "2Eh3Eijq1GM",
+      "title": "【弾き語り歌枠】22時の歌【律可/ホロスターズ】#りつすた",
       "type": "stream",
       "status": "live",
-      "topic_id": "Dragon_Ball_Z:_Kakarot",
-      "published_at": "2026-05-14T17:58:15.000Z",
+      "topic_id": "singing",
+      "published_at": "2026-05-16T11:07:54.000Z",
       "available_at": "2026-05-16T13:00:00.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "live_viewers": 0,
       "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
+        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+        "name": "Rikka ch.律可",
+        "english_name": "Rikka",
         "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
-      "video_id": "7KyVV80sUvM",
-      "title": "【Overwatch】Low Cortisol Gaming with Ina!【Pavolia Reine/hololiveID】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Overwatch",
-      "published_at": "2026-05-16T10:01:39.000Z",
-      "available_at": "2026-05-16T13:00:00.000Z",
-      "start_scheduled": "2026-05-16T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "name": "Pavolia Reine Ch. hololive-ID",
-        "english_name": "Pavolia Reine",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvInZx9h3jC2JzsIzoOebWg": {
@@ -375,6 +318,66 @@
         "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "-5h46aQ0MXQ",
+      "title": "【ドラゴンボールZ KAKAROT】「TRUNKS 希望の戦士」DLCやっていくよ!【ホロライブ DEV_IS 響咲リオナ】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dragon_Ball_Z:_Kakarot",
+      "published_at": "2026-05-14T17:58:15.000Z",
+      "available_at": "2026-05-16T13:00:33.000Z",
+      "start_scheduled": "2026-05-16T13:00:00.000Z",
+      "start_actual": "2026-05-16T13:00:33.000Z",
+      "live_viewers": 1198,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "7KyVV80sUvM",
+      "title": "【Overwatch】Low Cortisol Gaming with Ina!【Pavolia Reine/hololiveID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Overwatch",
+      "published_at": "2026-05-16T10:01:39.000Z",
+      "available_at": "2026-05-16T13:00:34.000Z",
+      "start_scheduled": "2026-05-16T13:00:00.000Z",
+      "start_actual": "2026-05-16T13:00:34.000Z",
+      "live_viewers": 417,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1uv2Oq6kNxgATlCiez59hw": {
+      "video_id": "yJC-cGyshOg",
+      "title": "【 歌枠 】ホロライブという自覚を持ちながら歌います。【常闇トワ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-16T09:44:10.000Z",
+      "available_at": "2026-05-16T13:00:56.000Z",
+      "start_scheduled": "2026-05-16T13:00:00.000Z",
+      "start_actual": "2026-05-16T13:00:56.000Z",
+      "live_viewers": 4744,
+      "channel": {
+        "id": "UC1uv2Oq6kNxgATlCiez59hw",
+        "name": "Towa Ch. 常闇トワ",
+        "english_name": "Tokoyami Towa",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCMwGHR0BTZuLsmjY_NT5Pwg": {
       "video_id": "kskR9wmSqJ0",
       "title": "【Overwatch】We're Over the Watch.... with @PavoliaReine",
@@ -382,9 +385,10 @@
       "status": "live",
       "topic_id": "Overwatch",
       "published_at": "2026-05-16T11:38:40.000Z",
-      "available_at": "2026-05-16T13:00:00.000Z",
+      "available_at": "2026-05-16T13:00:57.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-16T13:00:57.000Z",
+      "live_viewers": 1688,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -401,9 +405,10 @@
       "status": "live",
       "topic_id": "Chrono_Trigger",
       "published_at": "2026-05-16T07:38:23.000Z",
-      "available_at": "2026-05-16T13:00:00.000Z",
+      "available_at": "2026-05-16T13:01:08.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-16T13:01:08.000Z",
+      "live_viewers": 3205,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
