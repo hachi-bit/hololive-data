@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778973439,
+  "cached_at": 1778973500,
   "lives": {
-    "UCgnfPPb9JI3e9A4cXHnWbyg": {
-      "video_id": "8Q2A02tRvhM",
-      "title": "👁️‍🗨️Indie Game Showcase: Inkwell Edition👁️‍🗨️",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Review",
-      "published_at": "2026-05-15T03:10:31.000Z",
-      "available_at": "2026-05-16T20:55:27.000Z",
-      "start_scheduled": "2026-05-16T21:00:00.000Z",
-      "start_actual": "2026-05-16T20:55:27.000Z",
-      "live_viewers": 4449,
-      "channel": {
-        "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
-        "name": "Shiori Novella Ch. hololive-EN",
-        "english_name": "Shiori Novella",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCHP4f7G2dWD4qib7BMatGAw": {
       "video_id": "rGsM7CObnKU",
       "title": "[HORSEY GAME] GO MY ABOMINATIONS! CLAIM VICTORY!",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-16T21:03:18.000Z",
       "start_scheduled": "2026-05-16T21:00:00.000Z",
       "start_actual": "2026-05-16T21:03:18.000Z",
-      "live_viewers": 815,
+      "live_viewers": 2449,
       "channel": {
         "id": "UCHP4f7G2dWD4qib7BMatGAw",
         "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-16T22:31:00.000Z",
       "start_scheduled": "2026-05-16T22:30:00.000Z",
       "start_actual": "2026-05-16T22:31:00.000Z",
-      "live_viewers": 7636,
+      "live_viewers": 7709,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-16T23:00:26.000Z",
       "start_scheduled": "2026-05-16T23:00:00.000Z",
       "start_actual": "2026-05-16T23:00:26.000Z",
-      "live_viewers": 5765,
+      "live_viewers": 5980,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
