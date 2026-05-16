@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778935879,
+  "cached_at": 1778935942,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "jZftID08VYg",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-16T07:57:27.000Z",
       "start_scheduled": "2026-05-16T08:00:00.000Z",
       "start_actual": "2026-05-16T07:57:27.000Z",
-      "live_viewers": 13606,
+      "live_viewers": 14169,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-16T10:01:31.000Z",
       "start_scheduled": "2026-05-16T10:00:00.000Z",
       "start_actual": "2026-05-16T10:01:31.000Z",
-      "live_viewers": 8112,
+      "live_viewers": 8153,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-16T10:56:47.000Z",
       "start_scheduled": "2026-05-16T11:00:00.000Z",
       "start_actual": "2026-05-16T10:56:47.000Z",
-      "live_viewers": 4117,
+      "live_viewers": 4312,
       "channel": {
         "id": "UC2xXx1m1jeL0W84_0jTg-Yw",
         "name": "銀城サイネ / Ginjo Saine",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-16T11:00:08.000Z",
       "start_scheduled": "2026-05-16T11:00:00.000Z",
       "start_actual": "2026-05-16T11:00:08.000Z",
-      "live_viewers": 24185,
+      "live_viewers": 24073,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -101,26 +101,6 @@
         "photo": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdXAk5MpyLD8594lm_OvtGQ": {
-      "video_id": "hKbEdwKNzm8",
-      "title": "【 #らでさんぽ 】ジオ菓子編!ジオパークにクイズにお菓子作りまで!?大地の魅力に迫ります!!【儒烏風亭らでん #ReGLOSS 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Quiz",
-      "published_at": "2026-05-16T04:47:32.000Z",
-      "available_at": "2026-05-16T11:01:45.000Z",
-      "start_scheduled": "2026-05-16T11:00:00.000Z",
-      "start_actual": "2026-05-16T11:01:45.000Z",
-      "live_viewers": 4333,
-      "channel": {
-        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
-        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
-        "english_name": "Juufuutei Raden",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "gDmN_I9HFUY",
       "title": "【LoL】LTK DDnext 代打が来た!! 練習  / アステル",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-16T11:06:43.000Z",
       "start_scheduled": "2026-05-16T11:05:00.000Z",
       "start_actual": "2026-05-16T11:06:43.000Z",
-      "live_viewers": 454,
+      "live_viewers": 470,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-16T11:07:16.000Z",
       "start_scheduled": "2026-05-16T11:05:00.000Z",
       "start_actual": "2026-05-16T11:07:16.000Z",
-      "live_viewers": 3946,
+      "live_viewers": 3943,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-16T12:00:35.000Z",
       "start_scheduled": "2026-05-16T12:00:00.000Z",
       "start_actual": "2026-05-16T12:00:35.000Z",
-      "live_viewers": 37785,
+      "live_viewers": 37677,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-16T12:01:28.000Z",
       "start_scheduled": "2026-05-16T12:00:00.000Z",
       "start_actual": "2026-05-16T12:01:28.000Z",
-      "live_viewers": 4250,
+      "live_viewers": 4486,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-16T12:33:53.000Z",
       "start_scheduled": "2026-05-16T12:30:00.000Z",
       "start_actual": "2026-05-16T12:33:53.000Z",
-      "live_viewers": 2252,
+      "live_viewers": 2330,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
