@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778972898,
+  "cached_at": 1778972959,
   "lives": {
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
       "video_id": "8Q2A02tRvhM",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-16T20:55:27.000Z",
       "start_scheduled": "2026-05-16T21:00:00.000Z",
       "start_actual": "2026-05-16T20:55:27.000Z",
-      "live_viewers": 4353,
+      "live_viewers": 4422,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-16T21:03:18.000Z",
       "start_scheduled": "2026-05-16T21:00:00.000Z",
       "start_actual": "2026-05-16T21:03:18.000Z",
-      "live_viewers": 810,
+      "live_viewers": 815,
       "channel": {
         "id": "UCHP4f7G2dWD4qib7BMatGAw",
         "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-16T22:31:00.000Z",
       "start_scheduled": "2026-05-16T22:30:00.000Z",
       "start_actual": "2026-05-16T22:31:00.000Z",
-      "live_viewers": 7395,
+      "live_viewers": 7455,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-16T23:00:26.000Z",
       "start_scheduled": "2026-05-16T23:00:00.000Z",
       "start_actual": "2026-05-16T23:00:26.000Z",
-      "live_viewers": 2945,
+      "live_viewers": 4476,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
