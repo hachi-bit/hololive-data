@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778904503,
+  "cached_at": 1778904559,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "t2NR-6jKF6o",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-16T01:07:37.000Z",
       "start_scheduled": "2026-05-16T01:00:00.000Z",
       "start_actual": "2026-05-16T01:07:37.000Z",
-      "live_viewers": 308,
+      "live_viewers": 315,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-16T02:00:30.000Z",
       "start_scheduled": "2026-05-16T02:00:00.000Z",
       "start_actual": "2026-05-16T02:00:30.000Z",
-      "live_viewers": 481,
+      "live_viewers": 895,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-16T02:01:02.000Z",
       "start_scheduled": "2026-05-16T02:00:00.000Z",
       "start_actual": "2026-05-16T02:01:02.000Z",
-      "live_viewers": 12109,
+      "live_viewers": 10093,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-16T02:01:54.000Z",
       "start_scheduled": "2026-05-16T02:00:00.000Z",
       "start_actual": "2026-05-16T02:01:54.000Z",
-      "live_viewers": 6600,
+      "live_viewers": 6547,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-16T02:02:24.000Z",
       "start_scheduled": "2026-05-16T02:00:00.000Z",
       "start_actual": "2026-05-16T02:02:24.000Z",
-      "live_viewers": 7750,
+      "live_viewers": 8791,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -141,6 +141,25 @@
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UC2hx0xVkMoHGWijwr_lA01w": {
+      "video_id": "2POMqj2Lb38",
+      "title": "【KARAOKE STREAM】Trying to sing some new songs today!!!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-15T22:19:49.000Z",
+      "available_at": "2026-05-16T04:00:00.000Z",
+      "start_scheduled": "2026-05-16T04:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC2hx0xVkMoHGWijwr_lA01w",
+        "name": "Axel Syrios Ch. HOLOSTARS-EN",
+        "english_name": "Axel Syrios",
+        "org": "Hololive",
+        "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
+        "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "m133hGtho4g",
       "title": "#10【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ!生まれた意味を知るRPGやる!TALES OF THE ABYSS ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
@@ -151,7 +170,7 @@
       "available_at": "2026-05-16T04:00:26.000Z",
       "start_scheduled": "2026-05-16T04:00:00.000Z",
       "start_actual": "2026-05-16T04:00:26.000Z",
-      "live_viewers": 6395,
+      "live_viewers": 7965,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -159,6 +178,26 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp-5t9SrOQwXMU7iIjQfARg": {
+      "video_id": "JgTgFRuKVHY",
+      "title": "【 MOTHER2 】超名作MOTHER2を完全初見プレイ!【#02】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "EarthBound",
+      "published_at": "2026-05-15T12:45:31.000Z",
+      "available_at": "2026-05-16T04:01:13.000Z",
+      "start_scheduled": "2026-05-16T04:00:00.000Z",
+      "start_actual": "2026-05-16T04:01:13.000Z",
+      "live_viewers": 3803,
+      "channel": {
+        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+        "name": "Mio Channel 大神ミオ",
+        "english_name": "Ookami Mio",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvzGlP9oQwU--Y0r9id_jnA": {
@@ -171,7 +210,7 @@
       "available_at": "2026-05-16T04:02:19.000Z",
       "start_scheduled": "2026-05-16T04:00:00.000Z",
       "start_actual": "2026-05-16T04:02:19.000Z",
-      "live_viewers": 5911,
+      "live_viewers": 8600,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
