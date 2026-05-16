@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778940079,
+  "cached_at": 1778940140,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "jZftID08VYg",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-16T10:56:47.000Z",
       "start_scheduled": "2026-05-16T11:00:00.000Z",
       "start_actual": "2026-05-16T10:56:47.000Z",
-      "live_viewers": 2656,
+      "live_viewers": 2580,
       "channel": {
         "id": "UC2xXx1m1jeL0W84_0jTg-Yw",
         "name": "銀城サイネ / Ginjo Saine",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-16T11:07:16.000Z",
       "start_scheduled": "2026-05-16T11:05:00.000Z",
       "start_actual": "2026-05-16T11:07:16.000Z",
-      "live_viewers": 3784,
+      "live_viewers": 3773,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-16T11:59:23.000Z",
       "start_scheduled": "2026-05-16T12:00:00.000Z",
       "start_actual": "2026-05-16T11:59:23.000Z",
-      "live_viewers": 144,
+      "live_viewers": 155,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-16T12:01:05.000Z",
       "start_scheduled": "2026-05-16T12:00:00.000Z",
       "start_actual": "2026-05-16T12:01:05.000Z",
-      "live_viewers": 13708,
+      "live_viewers": 13017,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-16T13:00:34.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "start_actual": "2026-05-16T13:00:34.000Z",
-      "live_viewers": 850,
+      "live_viewers": 875,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -351,7 +351,7 @@
       "available_at": "2026-05-16T13:02:59.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "start_actual": "2026-05-16T13:02:59.000Z",
-      "live_viewers": 529,
+      "live_viewers": 551,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -391,7 +391,7 @@
       "available_at": "2026-05-16T13:06:12.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "start_actual": "2026-05-16T13:06:12.000Z",
-      "live_viewers": 5740,
+      "live_viewers": 5792,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -419,6 +419,25 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "eZWzAHhDJy4",
+      "title": "【 ウマ娘 プリティーダービー 】アーモンドアイを初めて育成するぜ!!!#2【鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "umamusume",
+      "published_at": "2026-05-15T19:23:47.000Z",
+      "available_at": "2026-05-16T14:00:00.000Z",
+      "start_scheduled": "2026-05-16T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
