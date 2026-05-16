@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778952619,
+  "cached_at": 1778952679,
   "lives": {
-    "UCvaTdHTWBGv3MKj3KVqJVCw": {
-      "video_id": "QcdtjrU7jrc",
-      "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります!#11【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Final_fantasy",
-      "published_at": "2026-05-14T18:13:44.000Z",
-      "available_at": "2026-05-16T11:00:08.000Z",
-      "start_scheduled": "2026-05-16T11:00:00.000Z",
-      "start_actual": "2026-05-16T11:00:08.000Z",
-      "live_viewers": 15219,
-      "channel": {
-        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-        "name": "Okayu Ch. 猫又おかゆ",
-        "english_name": "Nekomata Okayu",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "gDmN_I9HFUY",
       "title": "【LoL】LTK DDnext 代打が来た!! 練習  / アステル",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-16T13:01:08.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "start_actual": "2026-05-16T13:01:08.000Z",
-      "live_viewers": 10826,
+      "live_viewers": 11158,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-16T13:06:12.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "start_actual": "2026-05-16T13:06:12.000Z",
-      "live_viewers": 6520,
+      "live_viewers": 6698,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-16T14:32:07.000Z",
       "start_scheduled": "2026-05-16T14:30:00.000Z",
       "start_actual": "2026-05-16T14:32:07.000Z",
-      "live_viewers": 308,
+      "live_viewers": 307,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-16T14:32:09.000Z",
       "start_scheduled": "2026-05-16T14:30:00.000Z",
       "start_actual": "2026-05-16T14:32:09.000Z",
-      "live_viewers": 210,
+      "live_viewers": 205,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -139,26 +119,6 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp6993wxpyDPHUpavwDFqgg": {
-      "video_id": "D_LdpgIiRLE",
-      "title": "【#ときのそらお披露目誕生日2026】お疲れ様会!!そしておしゃべり!【ホロライブ/ときのそら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Birthday",
-      "published_at": "2026-05-16T14:19:22.000Z",
-      "available_at": "2026-05-16T14:49:28.000Z",
-      "start_scheduled": "2026-05-16T14:45:00.000Z",
-      "start_actual": "2026-05-16T14:49:28.000Z",
-      "live_viewers": 2830,
-      "channel": {
-        "id": "UCp6993wxpyDPHUpavwDFqgg",
-        "name": "SoraCh. ときのそらチャンネル",
-        "english_name": "Tokino Sora",
-        "org": "Hololive",
-        "suborg": "0v0th Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCTvHWSfBZgtxE4sILOaurIQ": {
@@ -171,7 +131,7 @@
       "available_at": "2026-05-16T15:00:50.000Z",
       "start_scheduled": "2026-05-16T15:00:00.000Z",
       "start_actual": "2026-05-16T15:00:50.000Z",
-      "live_viewers": 2333,
+      "live_viewers": 2249,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
