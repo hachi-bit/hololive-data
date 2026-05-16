@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778940379,
+  "cached_at": 1778940440,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "jZftID08VYg",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-16T10:56:47.000Z",
       "start_scheduled": "2026-05-16T11:00:00.000Z",
       "start_actual": "2026-05-16T10:56:47.000Z",
-      "live_viewers": 2571,
+      "live_viewers": 2568,
       "channel": {
         "id": "UC2xXx1m1jeL0W84_0jTg-Yw",
         "name": "銀城サイネ / Ginjo Saine",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-16T11:06:43.000Z",
       "start_scheduled": "2026-05-16T11:05:00.000Z",
       "start_actual": "2026-05-16T11:06:43.000Z",
-      "live_viewers": 407,
+      "live_viewers": 416,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-16T12:00:35.000Z",
       "start_scheduled": "2026-05-16T12:00:00.000Z",
       "start_actual": "2026-05-16T12:00:35.000Z",
-      "live_viewers": 32669,
+      "live_viewers": 33153,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-16T13:00:33.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "start_actual": "2026-05-16T13:00:33.000Z",
-      "live_viewers": 3226,
+      "live_viewers": 3452,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-16T13:00:34.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "start_actual": "2026-05-16T13:00:34.000Z",
-      "live_viewers": 875,
+      "live_viewers": 836,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -351,7 +351,7 @@
       "available_at": "2026-05-16T13:02:59.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "start_actual": "2026-05-16T13:02:59.000Z",
-      "live_viewers": 551,
+      "live_viewers": 540,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -391,7 +391,7 @@
       "available_at": "2026-05-16T13:06:12.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "start_actual": "2026-05-16T13:06:12.000Z",
-      "live_viewers": 5792,
+      "live_viewers": 5924,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -428,9 +428,10 @@
       "status": "live",
       "topic_id": "umamusume",
       "published_at": "2026-05-15T19:23:47.000Z",
-      "available_at": "2026-05-16T14:00:00.000Z",
+      "available_at": "2026-05-16T14:05:10.000Z",
       "start_scheduled": "2026-05-16T14:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-16T14:05:10.000Z",
+      "live_viewers": 627,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
