@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778946559,
+  "cached_at": 1778946618,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "jZftID08VYg",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-16T07:57:27.000Z",
       "start_scheduled": "2026-05-16T08:00:00.000Z",
       "start_actual": "2026-05-16T07:57:27.000Z",
-      "live_viewers": 12295,
+      "live_viewers": 11958,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-16T11:00:08.000Z",
       "start_scheduled": "2026-05-16T11:00:00.000Z",
       "start_actual": "2026-05-16T11:00:08.000Z",
-      "live_viewers": 21685,
+      "live_viewers": 22229,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCAHQGIKolfBfoeXXMY79SBA": {
-      "video_id": "6soAskf9rWQ",
-      "title": "【 League of Legends #LTK 】本日は3戦スクリム 【白那しずく / ネオポルテ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-05-16T10:08:08.000Z",
-      "available_at": "2026-05-16T11:00:25.000Z",
-      "start_scheduled": "2026-05-16T11:00:00.000Z",
-      "start_actual": "2026-05-16T11:00:25.000Z",
-      "live_viewers": 986,
-      "channel": {
-        "id": "UCAHQGIKolfBfoeXXMY79SBA",
-        "name": "白那しずく",
-        "english_name": "Shirona Shizuku",
-        "org": "Neo-Porte",
-        "suborg": "0k5th Generation",
-        "photo": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
@@ -111,7 +91,7 @@
       "available_at": "2026-05-16T12:33:53.000Z",
       "start_scheduled": "2026-05-16T12:30:00.000Z",
       "start_actual": "2026-05-16T12:33:53.000Z",
-      "live_viewers": 3042,
+      "live_viewers": 2918,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-16T13:01:08.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "start_actual": "2026-05-16T13:01:08.000Z",
-      "live_viewers": 11494,
+      "live_viewers": 11306,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-16T14:32:09.000Z",
       "start_scheduled": "2026-05-16T14:30:00.000Z",
       "start_actual": "2026-05-16T14:32:09.000Z",
-      "live_viewers": 223,
+      "live_viewers": 228,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-16T15:00:50.000Z",
       "start_scheduled": "2026-05-16T15:00:00.000Z",
       "start_actual": "2026-05-16T15:00:50.000Z",
-      "live_viewers": 1350,
+      "live_viewers": 1370,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
