@@ -1,66 +1,6 @@
 {
-  "cached_at": 1778914939,
+  "cached_at": 1778914999,
   "lives": {
-    "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "5bT_NbBPLAs",
-      "title": "Welcome to CRAYON ISLAND【TOMODACHI LIFE】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-11T03:03:02.000Z",
-      "available_at": "2026-05-16T01:07:37.000Z",
-      "start_scheduled": "2026-05-16T01:00:00.000Z",
-      "start_actual": "2026-05-16T01:07:37.000Z",
-      "live_viewers": 307,
-      "channel": {
-        "id": "UC060r4zABV18vcahAWR1n7w",
-        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-        "english_name": "Machina X Flayon",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCMqGG8BRAiI1lJfKOpETM_w": {
-      "video_id": "7o1Kw69m5Ak",
-      "title": "【Resident Evil Requiem】3 - Welcome back, City of Raccoons (Spoiler warning!)",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-05-15T15:10:10.000Z",
-      "available_at": "2026-05-16T02:00:30.000Z",
-      "start_scheduled": "2026-05-16T02:00:00.000Z",
-      "start_actual": "2026-05-16T02:00:30.000Z",
-      "live_viewers": 642,
-      "channel": {
-        "id": "UCMqGG8BRAiI1lJfKOpETM_w",
-        "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
-        "english_name": "Josuiji Shinri",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCL_qhgtOy0dy1Agp8vkySQg": {
-      "video_id": "3-2TkjzFzss",
-      "title": "back to streaming! talking a lot #calliolive",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-15T09:45:22.000Z",
-      "available_at": "2026-05-16T02:01:02.000Z",
-      "start_scheduled": "2026-05-16T02:00:00.000Z",
-      "start_actual": "2026-05-16T02:01:02.000Z",
-      "live_viewers": 6964,
-      "channel": {
-        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-        "name": "Mori Calliope Ch. hololive-EN",
-        "english_name": "Mori Calliope",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "LNCd1fRKOKc",
       "title": "【 Detroit: Become Human 】完全初見!最終回!運命を選択し、自分の未来を紡げ。【鷹嶺ルイ/ホロライブ】",
@@ -71,7 +11,7 @@
       "available_at": "2026-05-16T02:01:54.000Z",
       "start_scheduled": "2026-05-16T02:00:00.000Z",
       "start_actual": "2026-05-16T02:01:54.000Z",
-      "live_viewers": 6068,
+      "live_viewers": 6254,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -91,7 +31,7 @@
       "available_at": "2026-05-16T02:02:24.000Z",
       "start_scheduled": "2026-05-16T02:00:00.000Z",
       "start_actual": "2026-05-16T02:02:24.000Z",
-      "live_viewers": 6154,
+      "live_viewers": 5929,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -131,7 +71,7 @@
       "available_at": "2026-05-16T04:00:26.000Z",
       "start_scheduled": "2026-05-16T04:00:00.000Z",
       "start_actual": "2026-05-16T04:00:26.000Z",
-      "live_viewers": 14533,
+      "live_viewers": 14092,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +91,7 @@
       "available_at": "2026-05-16T04:01:13.000Z",
       "start_scheduled": "2026-05-16T04:00:00.000Z",
       "start_actual": "2026-05-16T04:01:13.000Z",
-      "live_viewers": 9827,
+      "live_viewers": 9681,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -171,7 +111,7 @@
       "available_at": "2026-05-16T04:02:19.000Z",
       "start_scheduled": "2026-05-16T04:00:00.000Z",
       "start_actual": "2026-05-16T04:02:19.000Z",
-      "live_viewers": 18181,
+      "live_viewers": 18053,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -191,7 +131,7 @@
       "available_at": "2026-05-16T04:23:42.000Z",
       "start_scheduled": "2026-05-16T04:00:00.000Z",
       "start_actual": "2026-05-16T04:23:42.000Z",
-      "live_viewers": 475,
+      "live_viewers": 755,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -201,24 +141,43 @@
         "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCmbs8T6MWqUHP1tIQvSgKrg": {
-      "video_id": "c1f07KReoKY",
-      "title": "【gogh: Focus with Your Avatar】Working, Maybe Record",
+    "UCWQtYtq9EOB4-I5P-3fh8lA": {
+      "video_id": "E6IAxR489_k",
+      "title": "【Stray #03】この猫ちゃんへ外の世界へ脱出できるんだろうか?!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
       "type": "stream",
       "status": "live",
-      "topic_id": "gogh",
-      "published_at": "2026-05-16T04:28:42.000Z",
-      "available_at": "2026-05-16T04:45:33.000Z",
-      "start_scheduled": "2026-05-16T04:45:00.000Z",
-      "start_actual": "2026-05-16T04:45:33.000Z",
-      "live_viewers": 5691,
+      "topic_id": "Stray",
+      "published_at": "2026-05-16T04:52:43.000Z",
+      "available_at": "2026-05-16T06:02:18.000Z",
+      "start_scheduled": "2026-05-16T06:00:00.000Z",
+      "start_actual": "2026-05-16T06:02:18.000Z",
+      "live_viewers": 2770,
       "channel": {
-        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
-        "name": "Ouro Kronii Ch. hololive-EN",
-        "english_name": "Ouro Kronii",
+        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "english_name": "Otonose Kanade",
         "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCc88OV45ICgHbn3ZqLLb52w": {
+      "video_id": "FRDRzr1ZA5c",
+      "title": "夜勤清掃｜短期の高収入のバイト見つけました！ - 夜十神封魔",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "The_Night_Cleaner",
+      "published_at": "2026-05-16T04:54:06.000Z",
+      "available_at": "2026-05-16T07:00:00.000Z",
+      "start_scheduled": "2026-05-16T07:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCc88OV45ICgHbn3ZqLLb52w",
+        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+        "english_name": "Yatogami Fuma",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
