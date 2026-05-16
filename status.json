@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778944579,
+  "cached_at": 1778944639,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "jZftID08VYg",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-16T07:57:27.000Z",
       "start_scheduled": "2026-05-16T08:00:00.000Z",
       "start_actual": "2026-05-16T07:57:27.000Z",
-      "live_viewers": 17761,
+      "live_viewers": 17352,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-16T10:56:47.000Z",
       "start_scheduled": "2026-05-16T11:00:00.000Z",
       "start_actual": "2026-05-16T10:56:47.000Z",
-      "live_viewers": 2434,
+      "live_viewers": 2389,
       "channel": {
         "id": "UC2xXx1m1jeL0W84_0jTg-Yw",
         "name": "銀城サイネ / Ginjo Saine",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-16T11:06:43.000Z",
       "start_scheduled": "2026-05-16T11:05:00.000Z",
       "start_actual": "2026-05-16T11:06:43.000Z",
-      "live_viewers": 460,
+      "live_viewers": 429,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCHsx4Hqa-1ORjQTh9TYDhww": {
-      "video_id": "qorw5Q-yC7Y",
-      "title": "【Holo Vs Robo】hololive tower defense~! #kfp #キアライブ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Holo_vs_Robo",
-      "published_at": "2026-05-15T14:14:29.000Z",
-      "available_at": "2026-05-16T11:07:16.000Z",
-      "start_scheduled": "2026-05-16T11:05:00.000Z",
-      "start_actual": "2026-05-16T11:07:16.000Z",
-      "live_viewers": 2504,
-      "channel": {
-        "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
-        "name": "Takanashi Kiara Ch. hololive-EN",
-        "english_name": "Takanashi Kiara",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1iA6_NT4mtAcIII6ygrvCw": {
@@ -131,7 +111,7 @@
       "available_at": "2026-05-16T12:01:28.000Z",
       "start_scheduled": "2026-05-16T12:00:00.000Z",
       "start_actual": "2026-05-16T12:01:28.000Z",
-      "live_viewers": 5607,
+      "live_viewers": 5658,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-16T12:33:53.000Z",
       "start_scheduled": "2026-05-16T12:30:00.000Z",
       "start_actual": "2026-05-16T12:33:53.000Z",
-      "live_viewers": 2862,
+      "live_viewers": 2897,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-16T13:00:34.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "start_actual": "2026-05-16T13:00:34.000Z",
-      "live_viewers": 996,
+      "live_viewers": 1048,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-16T14:32:07.000Z",
       "start_scheduled": "2026-05-16T14:30:00.000Z",
       "start_actual": "2026-05-16T14:32:07.000Z",
-      "live_viewers": 312,
+      "live_viewers": 329,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -371,7 +351,7 @@
       "available_at": "2026-05-16T14:49:28.000Z",
       "start_scheduled": "2026-05-16T14:45:00.000Z",
       "start_actual": "2026-05-16T14:49:28.000Z",
-      "live_viewers": 2465,
+      "live_viewers": 2507,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -391,7 +371,7 @@
       "available_at": "2026-05-16T15:00:50.000Z",
       "start_scheduled": "2026-05-16T15:00:00.000Z",
       "start_actual": "2026-05-16T15:00:50.000Z",
-      "live_viewers": 789,
+      "live_viewers": 841,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
