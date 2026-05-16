@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778937021,
+  "cached_at": 1778937079,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "jZftID08VYg",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-16T07:57:27.000Z",
       "start_scheduled": "2026-05-16T08:00:00.000Z",
       "start_actual": "2026-05-16T07:57:27.000Z",
-      "live_viewers": 13472,
+      "live_viewers": 13674,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-16T10:56:47.000Z",
       "start_scheduled": "2026-05-16T11:00:00.000Z",
       "start_actual": "2026-05-16T10:56:47.000Z",
-      "live_viewers": 4320,
+      "live_viewers": 3888,
       "channel": {
         "id": "UC2xXx1m1jeL0W84_0jTg-Yw",
         "name": "銀城サイネ / Ginjo Saine",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-16T11:07:16.000Z",
       "start_scheduled": "2026-05-16T11:05:00.000Z",
       "start_actual": "2026-05-16T11:07:16.000Z",
-      "live_viewers": 3926,
+      "live_viewers": 3787,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-16T12:00:35.000Z",
       "start_scheduled": "2026-05-16T12:00:00.000Z",
       "start_actual": "2026-05-16T12:00:35.000Z",
-      "live_viewers": 34724,
+      "live_viewers": 34627,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -261,25 +261,6 @@
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCqm3BQLlJfvkTsX_hvm0UmA": {
-      "video_id": "3MrxDLj2fOw",
-      "title": "【雑談＆お礼】新衣装だったりガンダムだったり嬉しいね！【角巻わため/ホロライブ４期生】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Superchat_Reading",
-      "published_at": "2026-05-15T21:49:40.000Z",
-      "available_at": "2026-05-16T13:00:00.000Z",
-      "start_scheduled": "2026-05-16T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-        "name": "Watame Ch. 角巻わため",
-        "english_name": "Tsunomaki Watame",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "-5h46aQ0MXQ",
       "title": "【ドラゴンボールZ KAKAROT】「TRUNKS 希望の戦士」DLCやっていくよ!【ホロライブ DEV_IS 響咲リオナ】※ネタバレあり",
@@ -290,7 +271,7 @@
       "available_at": "2026-05-16T13:00:33.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "start_actual": "2026-05-16T13:00:33.000Z",
-      "live_viewers": 1731,
+      "live_viewers": 1972,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -310,7 +291,7 @@
       "available_at": "2026-05-16T13:00:34.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "start_actual": "2026-05-16T13:00:34.000Z",
-      "live_viewers": 509,
+      "live_viewers": 575,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -330,7 +311,7 @@
       "available_at": "2026-05-16T13:00:56.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "start_actual": "2026-05-16T13:00:56.000Z",
-      "live_viewers": 7864,
+      "live_viewers": 9218,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -350,7 +331,7 @@
       "available_at": "2026-05-16T13:00:57.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "start_actual": "2026-05-16T13:00:57.000Z",
-      "live_viewers": 2456,
+      "live_viewers": 2814,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -370,7 +351,7 @@
       "available_at": "2026-05-16T13:01:08.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "start_actual": "2026-05-16T13:01:08.000Z",
-      "live_viewers": 4396,
+      "live_viewers": 5161,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -390,7 +371,7 @@
       "available_at": "2026-05-16T13:02:59.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "start_actual": "2026-05-16T13:02:59.000Z",
-      "live_viewers": 289,
+      "live_viewers": 343,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -418,6 +399,26 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "3MrxDLj2fOw",
+      "title": "【雑談&お礼】新衣装だったりガンダムだったり嬉しいね!【角巻わため/ホロライブ4期生】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Superchat_Reading",
+      "published_at": "2026-05-15T21:49:40.000Z",
+      "available_at": "2026-05-16T13:06:12.000Z",
+      "start_scheduled": "2026-05-16T13:00:00.000Z",
+      "start_actual": "2026-05-16T13:06:12.000Z",
+      "live_viewers": 2727,
+      "channel": {
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
