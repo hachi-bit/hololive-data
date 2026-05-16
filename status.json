@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778918419,
+  "cached_at": 1778918479,
   "lives": {
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "LNCd1fRKOKc",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-16T02:02:24.000Z",
       "start_scheduled": "2026-05-16T02:00:00.000Z",
       "start_actual": "2026-05-16T02:02:24.000Z",
-      "live_viewers": 3575,
+      "live_viewers": 3405,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-16T04:00:26.000Z",
       "start_scheduled": "2026-05-16T04:00:00.000Z",
       "start_actual": "2026-05-16T04:00:26.000Z",
-      "live_viewers": 15190,
+      "live_viewers": 14716,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-16T04:02:19.000Z",
       "start_scheduled": "2026-05-16T04:00:00.000Z",
       "start_actual": "2026-05-16T04:02:19.000Z",
-      "live_viewers": 18576,
+      "live_viewers": 19484,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-16T06:02:18.000Z",
       "start_scheduled": "2026-05-16T06:00:00.000Z",
       "start_actual": "2026-05-16T06:02:18.000Z",
-      "live_viewers": 3546,
+      "live_viewers": 3629,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-16T07:01:21.000Z",
       "start_scheduled": "2026-05-16T07:00:00.000Z",
       "start_actual": "2026-05-16T07:01:21.000Z",
-      "live_viewers": 642,
+      "live_viewers": 641,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -159,6 +159,26 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCa9Y57gfeY0Zro_noHRVrnw": {
+      "video_id": "jZftID08VYg",
+      "title": "【 鳴潮 】初めての鳴潮で遊んでみるのら!!!第3章 Ver.3.1 #17【姫森ルーナ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Wuthering_Waves",
+      "published_at": "2026-05-14T15:20:03.000Z",
+      "available_at": "2026-05-16T07:57:27.000Z",
+      "start_scheduled": "2026-05-16T08:00:00.000Z",
+      "start_actual": "2026-05-16T07:57:27.000Z",
+      "live_viewers": 1663,
+      "channel": {
+        "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+        "name": "Luna Ch. 姫森ルーナ",
+        "english_name": "Himemori Luna",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
