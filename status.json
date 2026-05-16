@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778931140,
+  "cached_at": 1778931199,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "jZftID08VYg",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-16T08:50:12.000Z",
       "start_scheduled": "2026-05-16T09:00:00.000Z",
       "start_actual": "2026-05-16T08:50:12.000Z",
-      "live_viewers": 2074,
+      "live_viewers": 2096,
       "channel": {
         "id": "UCmms2EE02mK4zdECwrHBpaA",
         "name": "hololive OFFICIAL CARD GAME【公式】",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-16T10:56:47.000Z",
       "start_scheduled": "2026-05-16T11:00:00.000Z",
       "start_actual": "2026-05-16T10:56:47.000Z",
-      "live_viewers": 4388,
+      "live_viewers": 4257,
       "channel": {
         "id": "UC2xXx1m1jeL0W84_0jTg-Yw",
         "name": "銀城サイネ / Ginjo Saine",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-16T11:00:08.000Z",
       "start_scheduled": "2026-05-16T11:00:00.000Z",
       "start_actual": "2026-05-16T11:00:08.000Z",
-      "live_viewers": 14664,
+      "live_viewers": 15361,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-16T11:00:21.000Z",
       "start_scheduled": "2026-05-16T11:00:00.000Z",
       "start_actual": "2026-05-16T11:00:21.000Z",
-      "live_viewers": 7362,
+      "live_viewers": 7661,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-16T11:00:25.000Z",
       "start_scheduled": "2026-05-16T11:00:00.000Z",
       "start_actual": "2026-05-16T11:00:25.000Z",
-      "live_viewers": 1460,
+      "live_viewers": 1434,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-16T11:01:39.000Z",
       "start_scheduled": "2026-05-16T11:00:00.000Z",
       "start_actual": "2026-05-16T11:01:39.000Z",
-      "live_viewers": 8047,
+      "live_viewers": 7813,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-16T11:01:45.000Z",
       "start_scheduled": "2026-05-16T11:00:00.000Z",
       "start_actual": "2026-05-16T11:01:45.000Z",
-      "live_viewers": 4258,
+      "live_viewers": 4601,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-16T11:06:43.000Z",
       "start_scheduled": "2026-05-16T11:05:00.000Z",
       "start_actual": "2026-05-16T11:06:43.000Z",
-      "live_viewers": 368,
+      "live_viewers": 383,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-16T11:07:16.000Z",
       "start_scheduled": "2026-05-16T11:05:00.000Z",
       "start_actual": "2026-05-16T11:07:16.000Z",
-      "live_viewers": 3348,
+      "live_viewers": 3406,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-16T11:20:09.000Z",
       "start_scheduled": "2026-05-16T11:20:00.000Z",
       "start_actual": "2026-05-16T11:20:09.000Z",
-      "live_viewers": 1970,
+      "live_viewers": 2252,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -299,6 +299,25 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChLfthKoUV502J7gU9STArg": {
+      "video_id": "OZN5aieKADI",
+      "title": "【オーバーウォッチ2】大会前日最終練習OWPARKﾁﾑ練 w/ ANS ふらんしすこ とおこ あゆたろう",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-16T10:37:10.000Z",
+      "available_at": "2026-05-16T11:30:00.000Z",
+      "start_scheduled": "2026-05-16T11:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UChLfthKoUV502J7gU9STArg",
+        "name": "渋谷ハル",
+        "english_name": "Shibuya HAL",
+        "org": "Neo-Porte",
+        "suborg": "0a0th Generation",
+        "photo": "https://yt3.ggpht.com/TdoTY1zdj6MkO4hJEgdjAs3CLqjDFQsWylCeslTVTgUbNO8Zj4METNPE3AJLAxtQZ2XSC7Sq=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
