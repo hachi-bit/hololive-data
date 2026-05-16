@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778924479,
+  "cached_at": 1778924539,
   "lives": {
     "UCvzGlP9oQwU--Y0r9id_jnA": {
       "video_id": "AMhfFlxvq0E",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-16T04:02:19.000Z",
       "start_scheduled": "2026-05-16T04:00:00.000Z",
       "start_actual": "2026-05-16T04:02:19.000Z",
-      "live_viewers": 13359,
+      "live_viewers": 12864,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -46,12 +46,12 @@
       "title": "WGP25-26 福岡会場 決勝ラウンドの様子を配信!【#ホロカ 】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "watchalong",
       "published_at": "2026-05-12T09:48:18.000Z",
       "available_at": "2026-05-16T08:50:12.000Z",
       "start_scheduled": "2026-05-16T09:00:00.000Z",
       "start_actual": "2026-05-16T08:50:12.000Z",
-      "live_viewers": 2030,
+      "live_viewers": 2194,
       "channel": {
         "id": "UCmms2EE02mK4zdECwrHBpaA",
         "name": "hololive OFFICIAL CARD GAME【公式】",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-16T08:59:21.000Z",
       "start_scheduled": "2026-05-16T09:00:00.000Z",
       "start_actual": "2026-05-16T08:59:21.000Z",
-      "live_viewers": 30640,
+      "live_viewers": 28141,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
