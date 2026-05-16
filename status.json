@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778972539,
+  "cached_at": 1778972599,
   "lives": {
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
       "video_id": "8Q2A02tRvhM",
@@ -59,6 +59,26 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdyqAaZDKHXg4Ahi7VENThQ": {
+      "video_id": "0uhIv_HP5Dc",
+      "title": "【朝活雑談】今日は10時じゃなくて8時だよ~!!!!早起きチャレンジだ~!!!【白銀ノエル/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "morning",
+      "published_at": "2026-05-16T13:08:22.000Z",
+      "available_at": "2026-05-16T23:00:26.000Z",
+      "start_scheduled": "2026-05-16T23:00:00.000Z",
+      "start_actual": "2026-05-16T23:00:26.000Z",
+      "live_viewers": 1409,
+      "channel": {
+        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+        "name": "Noel Ch. 白銀ノエル",
+        "english_name": "Shirogane Noel",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
