@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778955739,
+  "cached_at": 1778955799,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "gDmN_I9HFUY",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-16T13:06:12.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "start_actual": "2026-05-16T13:06:12.000Z",
-      "live_viewers": 6638,
+      "live_viewers": 6839,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -59,46 +59,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "FDM70803vI8",
-      "title": "#1【Dying Light: The Beast】ゾンビが蔓延する世界でホロスタは生き残ります。 【花咲みやび/岸堂天真/羽継烏有/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Dying_Light",
-      "published_at": "2026-05-16T00:18:41.000Z",
-      "available_at": "2026-05-16T14:32:07.000Z",
-      "start_scheduled": "2026-05-16T14:30:00.000Z",
-      "start_actual": "2026-05-16T14:32:07.000Z",
-      "live_viewers": 313,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "hUbStOYMcL8",
-      "title": "【DYING LIGHT THE BEAST】ゾンビにドロップキックできる神ゲー【岸堂天真/花咲みやび/羽継烏有/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Dying_Light",
-      "published_at": "2026-05-16T14:21:54.000Z",
-      "available_at": "2026-05-16T14:32:09.000Z",
-      "start_scheduled": "2026-05-16T14:30:00.000Z",
-      "start_actual": "2026-05-16T14:32:09.000Z",
-      "live_viewers": 205,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
