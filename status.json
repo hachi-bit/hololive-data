@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778925919,
+  "cached_at": 1778925979,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "jZftID08VYg",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-16T07:57:27.000Z",
       "start_scheduled": "2026-05-16T08:00:00.000Z",
       "start_actual": "2026-05-16T07:57:27.000Z",
-      "live_viewers": 10081,
+      "live_viewers": 10406,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-16T08:50:12.000Z",
       "start_scheduled": "2026-05-16T09:00:00.000Z",
       "start_actual": "2026-05-16T08:50:12.000Z",
-      "live_viewers": 2280,
+      "live_viewers": 2570,
       "channel": {
         "id": "UCmms2EE02mK4zdECwrHBpaA",
         "name": "hololive OFFICIAL CARD GAME【公式】",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-16T09:59:17.000Z",
       "start_scheduled": "2026-05-16T10:00:00.000Z",
       "start_actual": "2026-05-16T09:59:17.000Z",
-      "live_viewers": 2368,
+      "live_viewers": 3830,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -59,63 +59,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKMWFR6lAstLa7Vbf5dH7ig": {
-      "video_id": "Obc7RuIbfxk",
-      "title": "【Forza Horizon 6】日本が舞台!!!!!!ドライブしようぜ!!※ネタバレ注意【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Forza",
-      "published_at": "2026-05-15T18:46:03.000Z",
-      "available_at": "2026-05-16T10:00:00.000Z",
-      "start_scheduled": "2026-05-16T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "english_name": "Rindo Chihaya",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
-      "video_id": "4QRrdts900E",
-      "title": "【 同時視聴/Watchalong 】『ドラゴンボールZ 神と神』視聴会。【白上フブキ/鷹嶺ルイ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-05-14T20:07:35.000Z",
-      "available_at": "2026-05-16T10:00:00.000Z",
-      "start_scheduled": "2026-05-16T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "name": "Lui ch. 鷹嶺ルイ - holoX -",
-        "english_name": "Takane Lui",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCUKD-uaobj9jiqB-VXt71mA": {
-      "video_id": "BALz7bCc01U",
-      "title": "【デッドライジング3】#03 ゾンビ無双みたび！巨大都市から72時間以内に脱出せよ⚠️ネタバレ注意－Dead Rising 3【獅白ぼたん/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Dead_Rising",
-      "published_at": "2026-05-15T18:13:22.000Z",
-      "available_at": "2026-05-16T10:00:00.000Z",
-      "start_scheduled": "2026-05-16T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCUKD-uaobj9jiqB-VXt71mA",
-        "name": "Botan Ch.獅白ぼたん",
-        "english_name": "Shishiro Botan",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCJjjeqEYMSzdsKt6vJ78WVw": {
@@ -136,6 +79,66 @@
         "org": "Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/Uj8fUIQZcvYO1Vg4o8QBxNV7cKKyYmpdcLYGFFRfoIcI38meZFHtUrsWcaS7jSkk876r8lcUoQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "4QRrdts900E",
+      "title": "【 同時視聴/Watchalong 】『ドラゴンボールZ 神と神』視聴会。【白上フブキ/鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-05-14T20:07:35.000Z",
+      "available_at": "2026-05-16T10:01:10.000Z",
+      "start_scheduled": "2026-05-16T10:00:00.000Z",
+      "start_actual": "2026-05-16T10:01:10.000Z",
+      "live_viewers": 3713,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "BALz7bCc01U",
+      "title": "【デッドライジング3】#03 ゾンビ無双みたび!巨大都市から72時間以内に脱出せよ⚠️ネタバレ注意-Dead Rising 3【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dead_Rising",
+      "published_at": "2026-05-15T18:13:22.000Z",
+      "available_at": "2026-05-16T10:01:31.000Z",
+      "start_scheduled": "2026-05-16T10:00:00.000Z",
+      "start_actual": "2026-05-16T10:01:31.000Z",
+      "live_viewers": 2425,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKMWFR6lAstLa7Vbf5dH7ig": {
+      "video_id": "Obc7RuIbfxk",
+      "title": "【Forza Horizon 6】日本が舞台!!!!!!ドライブしようぜ!!※ネタバレ注意【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-05-15T18:46:03.000Z",
+      "available_at": "2026-05-16T10:02:18.000Z",
+      "start_scheduled": "2026-05-16T10:00:00.000Z",
+      "start_actual": "2026-05-16T10:02:18.000Z",
+      "live_viewers": 5578,
+      "channel": {
+        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+        "english_name": "Rindo Chihaya",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
