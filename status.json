@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778919859,
+  "cached_at": 1778919920,
   "lives": {
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "LNCd1fRKOKc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-16T02:01:54.000Z",
       "start_scheduled": "2026-05-16T02:00:00.000Z",
       "start_actual": "2026-05-16T02:01:54.000Z",
-      "live_viewers": 6450,
+      "live_viewers": 6320,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCTVSOgYuSWmNAt-lnJPkEEw": {
-      "video_id": "dU0Sh4w5M6A",
-      "title": "【T2 WATCHALONG】DIGITAL CIRCUS",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-15T15:29:59.000Z",
-      "available_at": "2026-05-16T03:02:23.000Z",
-      "start_scheduled": "2026-05-16T03:00:00.000Z",
-      "start_actual": "2026-05-16T03:02:23.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
-        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
-        "english_name": "Jurard T Rexford",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1DCedRgGHBdm81E1llLhOQ": {
@@ -111,7 +91,7 @@
       "available_at": "2026-05-16T07:57:27.000Z",
       "start_scheduled": "2026-05-16T08:00:00.000Z",
       "start_actual": "2026-05-16T07:57:27.000Z",
-      "live_viewers": 6128,
+      "live_viewers": 6198,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
