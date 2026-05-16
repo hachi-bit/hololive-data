@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778935519,
+  "cached_at": 1778935593,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "jZftID08VYg",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-16T07:57:27.000Z",
       "start_scheduled": "2026-05-16T08:00:00.000Z",
       "start_actual": "2026-05-16T07:57:27.000Z",
-      "live_viewers": 11547,
+      "live_viewers": 13606,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-16T10:01:31.000Z",
       "start_scheduled": "2026-05-16T10:00:00.000Z",
       "start_actual": "2026-05-16T10:01:31.000Z",
-      "live_viewers": 7833,
+      "live_viewers": 7965,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -81,26 +81,6 @@
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC_vMYWcDjmfdpH6r4TTn1MQ": {
-      "video_id": "7TfDGHm4QvA",
-      "title": "【トモダチコレクション】島人観察DAY___【風真いろは/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-16T10:11:56.000Z",
-      "available_at": "2026-05-16T11:00:21.000Z",
-      "start_scheduled": "2026-05-16T11:00:00.000Z",
-      "start_actual": "2026-05-16T11:00:21.000Z",
-      "live_viewers": 8156,
-      "channel": {
-        "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "name": "Iroha ch. 風真いろは - holoX -",
-        "english_name": "Kazama Iroha",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "6soAskf9rWQ",
       "title": "【 League of Legends #LTK 】本日は3戦スクリム 【白那しずく / ネオポルテ】",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-16T11:01:45.000Z",
       "start_scheduled": "2026-05-16T11:00:00.000Z",
       "start_actual": "2026-05-16T11:01:45.000Z",
-      "live_viewers": 4852,
+      "live_viewers": 4333,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-16T11:59:23.000Z",
       "start_scheduled": "2026-05-16T12:00:00.000Z",
       "start_actual": "2026-05-16T11:59:23.000Z",
-      "live_viewers": 142,
+      "live_viewers": 143,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-16T12:00:35.000Z",
       "start_scheduled": "2026-05-16T12:00:00.000Z",
       "start_actual": "2026-05-16T12:00:35.000Z",
-      "live_viewers": 37826,
+      "live_viewers": 37984,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-16T12:01:28.000Z",
       "start_scheduled": "2026-05-16T12:00:00.000Z",
       "start_actual": "2026-05-16T12:01:28.000Z",
-      "live_viewers": 4004,
+      "live_viewers": 4250,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-16T12:33:53.000Z",
       "start_scheduled": "2026-05-16T12:30:00.000Z",
       "start_actual": "2026-05-16T12:33:53.000Z",
-      "live_viewers": 2146,
+      "live_viewers": 2191,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
