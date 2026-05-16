@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778926039,
+  "cached_at": 1778926099,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "jZftID08VYg",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-16T09:59:17.000Z",
       "start_scheduled": "2026-05-16T10:00:00.000Z",
       "start_actual": "2026-05-16T09:59:17.000Z",
-      "live_viewers": 3830,
+      "live_viewers": 4378,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCJjjeqEYMSzdsKt6vJ78WVw": {
-      "video_id": "BHAc9LOPvWE",
-      "title": "MINISKIRT - Cover by Pan & @KureijiOllie",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Music_Cover",
-      "published_at": "2026-05-16T10:00:06.000Z",
-      "available_at": "2026-05-16T10:00:06.000Z",
-      "start_scheduled": "2026-05-16T10:00:00.000Z",
-      "start_actual": "2026-05-16T10:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCJjjeqEYMSzdsKt6vJ78WVw",
-        "name": "Pan VTuber パン",
-        "english_name": "Pan",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/Uj8fUIQZcvYO1Vg4o8QBxNV7cKKyYmpdcLYGFFRfoIcI38meZFHtUrsWcaS7jSkk876r8lcUoQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
@@ -91,7 +71,7 @@
       "available_at": "2026-05-16T10:01:10.000Z",
       "start_scheduled": "2026-05-16T10:00:00.000Z",
       "start_actual": "2026-05-16T10:01:10.000Z",
-      "live_viewers": 3713,
+      "live_viewers": 4446,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-16T10:01:31.000Z",
       "start_scheduled": "2026-05-16T10:00:00.000Z",
       "start_actual": "2026-05-16T10:01:31.000Z",
-      "live_viewers": 2425,
+      "live_viewers": 3054,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-16T10:02:18.000Z",
       "start_scheduled": "2026-05-16T10:00:00.000Z",
       "start_actual": "2026-05-16T10:02:18.000Z",
-      "live_viewers": 5578,
+      "live_viewers": 7783,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
