@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778943679,
+  "cached_at": 1778943740,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "jZftID08VYg",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-16T10:56:47.000Z",
       "start_scheduled": "2026-05-16T11:00:00.000Z",
       "start_actual": "2026-05-16T10:56:47.000Z",
-      "live_viewers": 2771,
+      "live_viewers": 2655,
       "channel": {
         "id": "UC2xXx1m1jeL0W84_0jTg-Yw",
         "name": "銀城サイネ / Ginjo Saine",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-16T13:06:12.000Z",
       "start_scheduled": "2026-05-16T13:00:00.000Z",
       "start_actual": "2026-05-16T13:06:12.000Z",
-      "live_viewers": 7633,
+      "live_viewers": 7569,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -331,7 +331,7 @@
       "available_at": "2026-05-16T14:32:07.000Z",
       "start_scheduled": "2026-05-16T14:30:00.000Z",
       "start_actual": "2026-05-16T14:32:07.000Z",
-      "live_viewers": 305,
+      "live_viewers": 304,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -351,7 +351,7 @@
       "available_at": "2026-05-16T14:32:09.000Z",
       "start_scheduled": "2026-05-16T14:30:00.000Z",
       "start_actual": "2026-05-16T14:32:09.000Z",
-      "live_viewers": 199,
+      "live_viewers": 198,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -371,7 +371,7 @@
       "available_at": "2026-05-16T14:49:28.000Z",
       "start_scheduled": "2026-05-16T14:45:00.000Z",
       "start_actual": "2026-05-16T14:49:28.000Z",
-      "live_viewers": 2111,
+      "live_viewers": 2158,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -379,6 +379,25 @@
         "org": "Hololive",
         "suborg": "0v0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTvHWSfBZgtxE4sILOaurIQ": {
+      "video_id": "ww3bIbS126E",
+      "title": "Isekat 🐱 dont worry... i will save you all... part 2",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-16T11:56:27.000Z",
+      "available_at": "2026-05-16T15:00:00.000Z",
+      "start_scheduled": "2026-05-16T15:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCTvHWSfBZgtxE4sILOaurIQ",
+        "name": "Vestia Zeta Ch. hololive-ID",
+        "english_name": "Vestia Zeta",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
