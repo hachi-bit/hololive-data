@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778922079,
+  "cached_at": 1778922139,
   "lives": {
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "LNCd1fRKOKc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-16T02:01:54.000Z",
       "start_scheduled": "2026-05-16T02:00:00.000Z",
       "start_actual": "2026-05-16T02:01:54.000Z",
-      "live_viewers": 4616,
+      "live_viewers": 4326,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-16T04:00:26.000Z",
       "start_scheduled": "2026-05-16T04:00:00.000Z",
       "start_actual": "2026-05-16T04:00:26.000Z",
-      "live_viewers": 16206,
+      "live_viewers": 16332,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-16T07:57:27.000Z",
       "start_scheduled": "2026-05-16T08:00:00.000Z",
       "start_actual": "2026-05-16T07:57:27.000Z",
-      "live_viewers": 7908,
+      "live_viewers": 8095,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-16T08:50:12.000Z",
       "start_scheduled": "2026-05-16T09:00:00.000Z",
       "start_actual": "2026-05-16T08:50:12.000Z",
-      "live_viewers": 520,
+      "live_viewers": 621,
       "channel": {
         "id": "UCmms2EE02mK4zdECwrHBpaA",
         "name": "hololive OFFICIAL CARD GAME【公式】",
@@ -119,6 +119,26 @@
         "org": "Hololive",
         "suborg": "w_Misc",
         "photo": "https://yt3.ggpht.com/auWUDx657AsLAGf8xx-NDUgiWGd9DOxM9qTYI_nMCZktK7OOdz_CT0xYSLKONO2H8IzlUkaEig=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCuI_opAVX6qbxZY-a-AxFuQ": {
+      "video_id": "Wb1gzuw9wws",
+      "title": "虎金妃笑虎、復帰いたします!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-14T04:33:05.000Z",
+      "available_at": "2026-05-16T08:59:21.000Z",
+      "start_scheduled": "2026-05-16T09:00:00.000Z",
+      "start_actual": "2026-05-16T08:59:21.000Z",
+      "live_viewers": 8409,
+      "channel": {
+        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+        "english_name": "Koganei Niko",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
