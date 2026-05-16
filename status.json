@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778896879,
+  "cached_at": 1778896940,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "t2NR-6jKF6o",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-15T19:17:25.000Z",
       "start_scheduled": "2026-05-15T19:20:00.000Z",
       "start_actual": "2026-05-15T19:17:25.000Z",
-      "live_viewers": 1454,
+      "live_viewers": 1452,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-15T21:02:09.000Z",
       "start_scheduled": "2026-05-15T21:00:00.000Z",
       "start_actual": "2026-05-15T21:02:09.000Z",
-      "live_viewers": 3624,
+      "live_viewers": 3652,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-16T00:55:11.000Z",
       "start_scheduled": "2026-05-16T01:00:00.000Z",
       "start_actual": "2026-05-16T00:55:11.000Z",
-      "live_viewers": 3669,
+      "live_viewers": 3810,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-16T01:05:06.000Z",
       "start_scheduled": "2026-05-16T01:00:00.000Z",
       "start_actual": "2026-05-16T01:05:06.000Z",
-      "live_viewers": 28623,
+      "live_viewers": 28620,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-16T01:07:37.000Z",
       "start_scheduled": "2026-05-16T01:00:00.000Z",
       "start_actual": "2026-05-16T01:07:37.000Z",
-      "live_viewers": 280,
+      "live_viewers": 297,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -119,6 +119,82 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCMqGG8BRAiI1lJfKOpETM_w": {
+      "video_id": "7o1Kw69m5Ak",
+      "title": "【Resident Evil Requiem】3 - Welcome back, City of Raccoons  (Spoiler warning!)",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-05-15T15:10:10.000Z",
+      "available_at": "2026-05-16T02:00:00.000Z",
+      "start_scheduled": "2026-05-16T02:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCMqGG8BRAiI1lJfKOpETM_w",
+        "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
+        "english_name": "Josuiji Shinri",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdyqAaZDKHXg4Ahi7VENThQ": {
+      "video_id": "kpiN94c8On8",
+      "title": "#4【ドラゴンクエストVII Reimagined】DQ7完全初見!ずっとプレイしてみたかった7の世界へ🔥【白銀ノエル/ホロライブ】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dragon_Quest",
+      "published_at": "2026-05-15T16:01:00.000Z",
+      "available_at": "2026-05-16T02:00:00.000Z",
+      "start_scheduled": "2026-05-16T02:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+        "name": "Noel Ch. 白銀ノエル",
+        "english_name": "Shirogane Noel",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "LNCd1fRKOKc",
+      "title": "【 Detroit: Become Human 】完全初見!最終回!運命を選択し、自分の未来を紡げ。【鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Detroit:_Become_Human",
+      "published_at": "2026-05-14T19:57:30.000Z",
+      "available_at": "2026-05-16T02:00:00.000Z",
+      "start_scheduled": "2026-05-16T02:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCL_qhgtOy0dy1Agp8vkySQg": {
+      "video_id": "3-2TkjzFzss",
+      "title": "back to streaming! talking a lot #calliolive",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-15T09:45:22.000Z",
+      "available_at": "2026-05-16T02:00:00.000Z",
+      "start_scheduled": "2026-05-16T02:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+        "name": "Mori Calliope Ch. hololive-EN",
+        "english_name": "Mori Calliope",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
