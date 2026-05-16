@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778932819,
+  "cached_at": 1778932879,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "jZftID08VYg",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-16T07:57:27.000Z",
       "start_scheduled": "2026-05-16T08:00:00.000Z",
       "start_actual": "2026-05-16T07:57:27.000Z",
-      "live_viewers": 13147,
+      "live_viewers": 13264,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-16T09:59:17.000Z",
       "start_scheduled": "2026-05-16T10:00:00.000Z",
       "start_actual": "2026-05-16T09:59:17.000Z",
-      "live_viewers": 7000,
+      "live_viewers": 4374,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-16T10:01:31.000Z",
       "start_scheduled": "2026-05-16T10:00:00.000Z",
       "start_actual": "2026-05-16T10:01:31.000Z",
-      "live_viewers": 8056,
+      "live_viewers": 7896,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-16T10:02:18.000Z",
       "start_scheduled": "2026-05-16T10:00:00.000Z",
       "start_actual": "2026-05-16T10:02:18.000Z",
-      "live_viewers": 20468,
+      "live_viewers": 20393,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-16T11:00:21.000Z",
       "start_scheduled": "2026-05-16T11:00:00.000Z",
       "start_actual": "2026-05-16T11:00:21.000Z",
-      "live_viewers": 9162,
+      "live_viewers": 9309,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-16T11:00:25.000Z",
       "start_scheduled": "2026-05-16T11:00:00.000Z",
       "start_actual": "2026-05-16T11:00:25.000Z",
-      "live_viewers": 1617,
+      "live_viewers": 1598,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-16T11:06:43.000Z",
       "start_scheduled": "2026-05-16T11:05:00.000Z",
       "start_actual": "2026-05-16T11:06:43.000Z",
-      "live_viewers": 506,
+      "live_viewers": 514,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-16T11:07:16.000Z",
       "start_scheduled": "2026-05-16T11:05:00.000Z",
       "start_actual": "2026-05-16T11:07:16.000Z",
-      "live_viewers": 3866,
+      "live_viewers": 3921,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-16T11:20:09.000Z",
       "start_scheduled": "2026-05-16T11:20:00.000Z",
       "start_actual": "2026-05-16T11:20:09.000Z",
-      "live_viewers": 3140,
+      "live_viewers": 3240,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -239,6 +239,26 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
+      "video_id": "5eoSJlvvuCM",
+      "title": "【ASMR SUPERCHAT VOICE REQUESTS/TWITCH REDEEMS】Okaerinasai Gochujang-sama",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "asmr",
+      "published_at": "2026-05-15T22:10:35.000Z",
+      "available_at": "2026-05-16T11:59:23.000Z",
+      "start_scheduled": "2026-05-16T12:00:00.000Z",
+      "start_actual": "2026-05-16T11:59:23.000Z",
+      "live_viewers": 56,
+      "channel": {
+        "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+        "name": "Octavio Ch. HOLOSTARS-EN",
+        "english_name": "Octavio",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
