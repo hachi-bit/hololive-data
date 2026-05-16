@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778912479,
+  "cached_at": 1778912539,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5bT_NbBPLAs",
@@ -198,6 +198,26 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCmbs8T6MWqUHP1tIQvSgKrg": {
+      "video_id": "c1f07KReoKY",
+      "title": "【gogh: Focus with Your Avatar】Working, Maybe Record",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "gogh",
+      "published_at": "2026-05-16T04:28:42.000Z",
+      "available_at": "2026-05-16T04:45:33.000Z",
+      "start_scheduled": "2026-05-16T04:45:00.000Z",
+      "start_actual": "2026-05-16T04:45:33.000Z",
+      "live_viewers": 5691,
+      "channel": {
+        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
+        "name": "Ouro Kronii Ch. hololive-EN",
+        "english_name": "Ouro Kronii",
+        "org": "Hololive",
+        "suborg": "ibEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
