@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779015079,
+  "cached_at": 1779015139,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "hj_U3UdQjnY",
@@ -120,26 +120,6 @@
         "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCWQtYtq9EOB4-I5P-3fh8lA": {
-      "video_id": "qKoxvYdtHuE",
-      "title": "【ワンワンバトル】犬になれ!!!!ほえろ!!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Bow-wow_Battle",
-      "published_at": "2026-05-17T07:09:36.000Z",
-      "available_at": "2026-05-17T10:01:11.000Z",
-      "start_scheduled": "2026-05-17T10:00:00.000Z",
-      "start_actual": "2026-05-17T10:01:11.000Z",
-      "live_viewers": 9183,
-      "channel": {
-        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-        "english_name": "Otonose Kanade",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "uv7dMY8dU9E",
       "title": "【歌枠】歌ってもいいですか?♡【ホロライブ DEV_IS 響咲リオナ】",
@@ -158,6 +138,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCWQtYtq9EOB4-I5P-3fh8lA": {
+      "video_id": "qKoxvYdtHuE",
+      "title": "【ワンワンバトル】犬になれ!!!!ほえろ!!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Bow-wow_Battle",
+      "published_at": "2026-05-17T07:09:36.000Z",
+      "available_at": "2026-05-17T10:01:11.000Z",
+      "start_scheduled": "2026-05-17T10:00:00.000Z",
+      "start_actual": "2026-05-17T10:01:11.000Z",
+      "live_viewers": 9403,
+      "channel": {
+        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "english_name": "Otonose Kanade",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
