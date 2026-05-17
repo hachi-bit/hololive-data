@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779023059,
+  "cached_at": 1779023120,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "hj_U3UdQjnY",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-17T08:04:07.000Z",
       "start_scheduled": "2026-05-17T08:00:00.000Z",
       "start_actual": "2026-05-17T08:04:07.000Z",
-      "live_viewers": 5007,
+      "live_viewers": 3838,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-17T11:00:10.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T11:00:10.000Z",
-      "live_viewers": 21711,
+      "live_viewers": 21289,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-17T12:01:22.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:01:22.000Z",
-      "live_viewers": 4717,
+      "live_viewers": 4636,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -230,7 +230,7 @@
       "available_at": "2026-05-17T12:07:51.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:07:51.000Z",
-      "live_viewers": 5184,
+      "live_viewers": 5285,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -250,7 +250,7 @@
       "available_at": "2026-05-17T12:07:54.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:07:54.000Z",
-      "live_viewers": 15992,
+      "live_viewers": 16732,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -300,25 +300,6 @@
         "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC-hM6YJuNYVAmUWxeIr9FeA": {
-      "video_id": "Wtn9Lwhxoxc",
-      "title": "【悪意】誰かに見られてる?間違いなく今年一怖いと噂のホラーゲームらしい――。【ホロライブ/さくらみこ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-17T11:23:36.000Z",
-      "available_at": "2026-05-17T13:00:00.000Z",
-      "start_scheduled": "2026-05-17T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-        "name": "Miko Ch. さくらみこ",
-        "english_name": "Sakura Miko",
-        "org": "Hololive",
-        "suborg": "0y0th Generation",
-        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCYz_5n-uDuChHtLo7My1HnQ": {
       "video_id": "XTtRc-QGj6I",
       "title": "【ZOMILY - FREETALK】 I AM ONCE AGAIN TALKING TOO MUCH 【Kureiji Ollie】",
@@ -338,23 +319,24 @@
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "TYOCg-3BUio",
-      "title": "【雑談】深夜雑談【荒咬オウガ /ホロスターズ】",
+    "UC_vMYWcDjmfdpH6r4TTn1MQ": {
+      "video_id": "4qVDs8OL8DQ",
+      "title": "【トモダチコレクション】ホロメン恋愛大三角形観測会👀【風真いろは/ホロライブ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-17T10:53:00.000Z",
-      "available_at": "2026-05-17T13:00:00.000Z",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-17T11:43:49.000Z",
+      "available_at": "2026-05-17T13:00:30.000Z",
       "start_scheduled": "2026-05-17T13:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-17T13:00:30.000Z",
+      "live_viewers": 2921,
       "channel": {
-        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "name": "Oga Ch.荒咬オウガ",
-        "english_name": "Aragami Oga",
+        "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "name": "Iroha ch. 風真いろは - holoX -",
+        "english_name": "Kazama Iroha",
         "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC0TXe_LYZ4scaW2XMyi5_kw": {
@@ -364,9 +346,10 @@
       "status": "live",
       "topic_id": "Chrono_Trigger",
       "published_at": "2026-05-17T09:10:30.000Z",
-      "available_at": "2026-05-17T13:00:00.000Z",
+      "available_at": "2026-05-17T13:00:33.000Z",
       "start_scheduled": "2026-05-17T13:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-17T13:00:33.000Z",
+      "live_viewers": 3472,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -376,23 +359,44 @@
         "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC_vMYWcDjmfdpH6r4TTn1MQ": {
-      "video_id": "4qVDs8OL8DQ",
-      "title": "【トモダチコレクション】ホロメン恋愛大三角形観測会👀【風真いろは/ホロライブ】",
+    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
+      "video_id": "TYOCg-3BUio",
+      "title": "【雑談】深夜雑談【荒咬オウガ /ホロスターズ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-17T11:43:49.000Z",
-      "available_at": "2026-05-17T13:00:00.000Z",
+      "topic_id": "talk",
+      "published_at": "2026-05-17T10:53:00.000Z",
+      "available_at": "2026-05-17T13:01:47.000Z",
       "start_scheduled": "2026-05-17T13:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-17T13:01:47.000Z",
+      "live_viewers": 127,
       "channel": {
-        "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "name": "Iroha ch. 風真いろは - holoX -",
-        "english_name": "Kazama Iroha",
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "name": "Oga Ch.荒咬オウガ",
+        "english_name": "Aragami Oga",
         "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC-hM6YJuNYVAmUWxeIr9FeA": {
+      "video_id": "Wtn9Lwhxoxc",
+      "title": "【悪意】誰かに見られてる?間違いなく今年一怖いと噂のホラーゲームらしい――。【ホロライブ/さくらみこ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-17T11:23:36.000Z",
+      "available_at": "2026-05-17T13:02:46.000Z",
+      "start_scheduled": "2026-05-17T13:00:00.000Z",
+      "start_actual": "2026-05-17T13:02:46.000Z",
+      "live_viewers": 4483,
+      "channel": {
+        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+        "name": "Miko Ch. さくらみこ",
+        "english_name": "Sakura Miko",
+        "org": "Hololive",
+        "suborg": "0y0th Generation",
+        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
