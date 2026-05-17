@@ -1,26 +1,6 @@
 {
-  "cached_at": 1778979858,
+  "cached_at": 1778979919,
   "lives": {
-    "UCdyqAaZDKHXg4Ahi7VENThQ": {
-      "video_id": "0uhIv_HP5Dc",
-      "title": "【朝活雑談】今日は10時じゃなくて8時だよ~!!!!早起きチャレンジだ~!!!【白銀ノエル/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "morning",
-      "published_at": "2026-05-16T13:08:22.000Z",
-      "available_at": "2026-05-16T23:00:26.000Z",
-      "start_scheduled": "2026-05-16T23:00:00.000Z",
-      "start_actual": "2026-05-16T23:00:26.000Z",
-      "live_viewers": 10773,
-      "channel": {
-        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-        "name": "Noel Ch. 白銀ノエル",
-        "english_name": "Shirogane Noel",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "TgZ3RDeBF74",
       "title": "Mr Needles vs Flayon Funger【FEAR AND HUNGER 2: TERMINA】",
@@ -67,9 +47,10 @@
       "status": "live",
       "topic_id": "3D_Stream",
       "published_at": "2026-05-10T23:17:11.000Z",
-      "available_at": "2026-05-17T01:00:00.000Z",
+      "available_at": "2026-05-17T01:01:02.000Z",
       "start_scheduled": "2026-05-17T01:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-17T01:01:02.000Z",
+      "live_viewers": 21864,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
