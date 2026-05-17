@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779004939,
+  "cached_at": 1779004999,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "hj_U3UdQjnY",
@@ -38,6 +38,64 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChSvpZYRPh0FvG4SJGSga3g": {
+      "video_id": "FQGHPDbU7eA",
+      "title": "【ストリートファイター6】ナーフ食らっても豪鬼【影山シエン/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-05-17T07:00:25.000Z",
+      "available_at": "2026-05-17T08:00:00.000Z",
+      "start_scheduled": "2026-05-17T08:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UChSvpZYRPh0FvG4SJGSga3g",
+        "name": "Shien Ch.影山シエン",
+        "english_name": "Kageyama Shien",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCa9Y57gfeY0Zro_noHRVrnw": {
+      "video_id": "K4XIlujOUAw",
+      "title": "【 棋士・藤井聡太の将棋トレーニング 】イチから学ぶ将棋の世界なのら!!!【姫森ルーナ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Shogi",
+      "published_at": "2026-05-14T15:43:05.000Z",
+      "available_at": "2026-05-17T08:00:00.000Z",
+      "start_scheduled": "2026-05-17T08:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+        "name": "Luna Ch. 姫森ルーナ",
+        "english_name": "Himemori Luna",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp-5t9SrOQwXMU7iIjQfARg": {
+      "video_id": "y4eVbDJYL7Y",
+      "title": "【 MOTHER2 】超名作MOTHER2を完全初見プレイ!【#03】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "EarthBound",
+      "published_at": "2026-05-17T03:06:32.000Z",
+      "available_at": "2026-05-17T08:00:39.000Z",
+      "start_scheduled": "2026-05-17T08:00:00.000Z",
+      "start_actual": "2026-05-17T08:00:39.000Z",
+      "live_viewers": 1764,
+      "channel": {
+        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+        "name": "Mio Channel 大神ミオ",
+        "english_name": "Ookami Mio",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
