@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779029119,
+  "cached_at": 1779029179,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "hj_U3UdQjnY",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-17T11:00:10.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T11:00:10.000Z",
-      "live_viewers": 18636,
+      "live_viewers": 19098,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-17T11:00:16.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T11:00:16.000Z",
-      "live_viewers": 493,
+      "live_viewers": 509,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-17T11:01:11.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T11:01:11.000Z",
-      "live_viewers": 2869,
+      "live_viewers": 2915,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-17T12:00:22.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:00:22.000Z",
-      "live_viewers": 404,
+      "live_viewers": 339,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-17T12:01:55.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:01:55.000Z",
-      "live_viewers": 4278,
+      "live_viewers": 4351,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-17T12:04:21.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:04:21.000Z",
-      "live_viewers": 4573,
+      "live_viewers": 4388,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-17T12:07:51.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:07:51.000Z",
-      "live_viewers": 4554,
+      "live_viewers": 4421,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-17T12:08:04.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:08:04.000Z",
-      "live_viewers": 3970,
+      "live_viewers": 4042,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -210,7 +210,7 @@
       "available_at": "2026-05-17T12:08:05.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:08:05.000Z",
-      "live_viewers": 11053,
+      "live_viewers": 11435,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -280,26 +280,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC-hM6YJuNYVAmUWxeIr9FeA": {
-      "video_id": "Wtn9Lwhxoxc",
-      "title": "【悪意】誰かに見られてる?間違いなく今年一怖いと噂のホラーゲームらしい――。【ホロライブ/さくらみこ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-17T11:23:36.000Z",
-      "available_at": "2026-05-17T13:02:46.000Z",
-      "start_scheduled": "2026-05-17T13:00:00.000Z",
-      "start_actual": "2026-05-17T13:02:46.000Z",
-      "live_viewers": 22862,
-      "channel": {
-        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-        "name": "Miko Ch. さくらみこ",
-        "english_name": "Sakura Miko",
-        "org": "Hololive",
-        "suborg": "0y0th Generation",
-        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCYz_5n-uDuChHtLo7My1HnQ": {
       "video_id": "XTtRc-QGj6I",
       "title": "【ZOMILY - FREETALK】 I AM ONCE AGAIN TALKING TOO MUCH 【Kureiji Ollie】",
@@ -330,7 +310,7 @@
       "available_at": "2026-05-17T13:32:05.000Z",
       "start_scheduled": "2026-05-17T13:30:00.000Z",
       "start_actual": "2026-05-17T13:32:05.000Z",
-      "live_viewers": 5373,
+      "live_viewers": 5479,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -390,7 +370,7 @@
       "available_at": "2026-05-17T14:31:12.000Z",
       "start_scheduled": "2026-05-17T14:30:00.000Z",
       "start_actual": "2026-05-17T14:31:12.000Z",
-      "live_viewers": 63,
+      "live_viewers": 88,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
