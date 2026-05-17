@@ -1,46 +1,6 @@
 {
-  "cached_at": 1779047899,
+  "cached_at": 1779047959,
   "lives": {
-    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
-      "video_id": "_FARoV2q6Bw",
-      "title": "ゼロから始める\"\" ぽこ あ ポケモン \"\" 生活 ~第七話【 ホロスターズ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Pokemon_Pokopia",
-      "published_at": "2026-05-17T14:27:23.000Z",
-      "available_at": "2026-05-17T14:31:12.000Z",
-      "start_scheduled": "2026-05-17T14:30:00.000Z",
-      "start_actual": "2026-05-17T14:31:12.000Z",
-      "live_viewers": 337,
-      "channel": {
-        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
-        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
-        "english_name": "Utsugi Uyu",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdfMHxjcCc2HSd9qFvfJgjg": {
-      "video_id": "8oikOuwmYWw",
-      "title": "【 メン限 】綿棒ぶちまけ男【 水無世燐央 l UPROAR!! 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-17T16:38:34.000Z",
-      "available_at": "2026-05-17T16:42:28.000Z",
-      "start_scheduled": "2026-05-17T16:40:00.000Z",
-      "start_actual": "2026-05-17T16:42:28.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-        "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-        "english_name": "Minase Rio",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCW5uhrG1eCBYditmhL0Ykjw": {
       "video_id": "eK3LA4iFmR0",
       "title": "【MEMBERSHIP】Back To The Future 3 Movie Watch-A-Long ~! 💄",
@@ -71,7 +31,7 @@
       "available_at": "2026-05-17T19:15:36.000Z",
       "start_scheduled": "2026-05-17T19:05:00.000Z",
       "start_actual": "2026-05-17T19:15:36.000Z",
-      "live_viewers": 7128,
+      "live_viewers": 7225,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
