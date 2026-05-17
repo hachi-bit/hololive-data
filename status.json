@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778999179,
+  "cached_at": 1778999239,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "TgZ3RDeBF74",
@@ -79,6 +79,46 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCK9V2B22uJYu3N7eR_BT9QA": {
+      "video_id": "4lB4BblFP-U",
+      "title": "【ヴィクトリアマイル】競馬配信🔰咲き誇れ、最速のヒロインたち。【尾丸ポルカ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Horse_racing",
+      "published_at": "2026-05-17T00:53:34.000Z",
+      "available_at": "2026-05-17T05:30:16.000Z",
+      "start_scheduled": "2026-05-17T05:30:00.000Z",
+      "start_actual": "2026-05-17T05:30:16.000Z",
+      "live_viewers": 5402,
+      "channel": {
+        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+        "name": "Polka Ch. 尾丸ポルカ",
+        "english_name": "Omaru Polka",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "XpPas9hfcqg",
+      "title": "【 ヴィクトリアマイル 】最強女王を決める重賞レース‼宝塚記念の投票もしよう!【鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Horse_racing",
+      "published_at": "2026-05-15T19:28:01.000Z",
+      "available_at": "2026-05-17T05:34:43.000Z",
+      "start_scheduled": "2026-05-17T05:30:00.000Z",
+      "start_actual": "2026-05-17T05:34:43.000Z",
+      "live_viewers": 11966,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
