@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779017299,
+  "cached_at": 1779017359,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "hj_U3UdQjnY",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-17T08:04:31.000Z",
       "start_scheduled": "2026-05-17T08:00:00.000Z",
       "start_actual": "2026-05-17T08:04:31.000Z",
-      "live_viewers": 288,
+      "live_viewers": 281,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -105,7 +105,7 @@
       "title": "【 #らでん新衣装お披露目3Dライブ 】歌って踊ってミラクル重大発表祭り!【儒烏風亭らでん #ReGLOSS 】",
       "type": "stream",
       "status": "live",
-      "topic_id": "Outfit_Reveal",
+      "topic_id": "3D_Stream",
       "published_at": "2026-05-14T12:48:33.000Z",
       "available_at": "2026-05-17T10:55:17.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-17T11:00:10.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T11:00:10.000Z",
-      "live_viewers": 21068,
+      "live_viewers": 21329,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-17T11:00:16.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T11:00:16.000Z",
-      "live_viewers": 357,
+      "live_viewers": 353,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-17T11:00:53.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T11:00:53.000Z",
-      "live_viewers": 338,
+      "live_viewers": 355,
       "channel": {
         "id": "UCJjjeqEYMSzdsKt6vJ78WVw",
         "name": "Pan VTuber パン",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-17T11:01:11.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T11:01:11.000Z",
-      "live_viewers": 3045,
+      "live_viewers": 3117,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -210,7 +210,7 @@
       "available_at": "2026-05-17T11:01:22.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T11:01:22.000Z",
-      "live_viewers": 2246,
+      "live_viewers": 2238,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -230,7 +230,7 @@
       "available_at": "2026-05-17T11:01:52.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T11:01:52.000Z",
-      "live_viewers": 3077,
+      "live_viewers": 3152,
       "channel": {
         "id": "UCekc8SI533NI675r9aCBRcQ",
         "name": "眠雲ツクリ / NemukumoTsukuri",
