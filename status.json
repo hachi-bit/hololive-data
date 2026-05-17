@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778982439,
+  "cached_at": 1778982500,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "TgZ3RDeBF74",
@@ -48,9 +48,10 @@
       "status": "live",
       "topic_id": "3D_Stream",
       "published_at": "2026-05-10T23:17:57.000Z",
-      "available_at": "2026-05-17T01:43:00.000Z",
+      "available_at": "2026-05-17T01:44:11.000Z",
       "start_scheduled": "2026-05-17T01:43:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-17T01:44:11.000Z",
+      "live_viewers": 28623,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
