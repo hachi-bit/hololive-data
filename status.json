@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779057138,
+  "cached_at": 1779057201,
   "lives": {
     "UCHP4f7G2dWD4qib7BMatGAw": {
       "video_id": "ls06LP8HVD4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-17T21:59:35.000Z",
       "start_scheduled": "2026-05-17T22:00:00.000Z",
       "start_actual": "2026-05-17T21:59:35.000Z",
-      "live_viewers": 2180,
+      "live_viewers": 1939,
       "channel": {
         "id": "UCHP4f7G2dWD4qib7BMatGAw",
         "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -19,6 +19,26 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp-5t9SrOQwXMU7iIjQfARg": {
+      "video_id": "mOQB3s9cAss",
+      "title": "【#朝ミオ 】月曜日だよ~!!!おはみぉーん!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "News_Show",
+      "published_at": "2026-05-17T12:08:47.000Z",
+      "available_at": "2026-05-17T22:30:09.000Z",
+      "start_scheduled": "2026-05-17T22:30:00.000Z",
+      "start_actual": "2026-05-17T22:30:09.000Z",
+      "live_viewers": 5206,
+      "channel": {
+        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+        "name": "Mio Channel 大神ミオ",
+        "english_name": "Ookami Mio",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
