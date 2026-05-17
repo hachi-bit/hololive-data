@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779011838,
+  "cached_at": 1779011899,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "hj_U3UdQjnY",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-17T08:00:39.000Z",
       "start_scheduled": "2026-05-17T08:00:00.000Z",
       "start_actual": "2026-05-17T08:00:39.000Z",
-      "live_viewers": 12817,
+      "live_viewers": 12535,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-17T08:04:07.000Z",
       "start_scheduled": "2026-05-17T08:00:00.000Z",
       "start_actual": "2026-05-17T08:04:07.000Z",
-      "live_viewers": 6603,
+      "live_viewers": 6619,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-17T08:04:31.000Z",
       "start_scheduled": "2026-05-17T08:00:00.000Z",
       "start_actual": "2026-05-17T08:04:31.000Z",
-      "live_viewers": 355,
+      "live_viewers": 327,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -98,26 +98,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCK9V2B22uJYu3N7eR_BT9QA": {
-      "video_id": "t6VGJ3jcVRg",
-      "title": "【トモコレ】#6 ついにプロポーズ!?今日もうちの島は大混乱【尾丸ポルカ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-17T09:00:06.000Z",
-      "available_at": "2026-05-17T09:00:06.000Z",
-      "start_scheduled": "2026-05-17T09:00:00.000Z",
-      "start_actual": "2026-05-17T09:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-        "name": "Polka Ch. 尾丸ポルカ",
-        "english_name": "Omaru Polka",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCuI_opAVX6qbxZY-a-AxFuQ": {
