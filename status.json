@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779013578,
+  "cached_at": 1779013639,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "hj_U3UdQjnY",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-17T08:00:39.000Z",
       "start_scheduled": "2026-05-17T08:00:00.000Z",
       "start_actual": "2026-05-17T08:00:39.000Z",
-      "live_viewers": 12502,
+      "live_viewers": 12640,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-17T08:04:07.000Z",
       "start_scheduled": "2026-05-17T08:00:00.000Z",
       "start_actual": "2026-05-17T08:04:07.000Z",
-      "live_viewers": 1410,
+      "live_viewers": 5858,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-17T10:00:14.000Z",
       "start_scheduled": "2026-05-17T10:00:00.000Z",
       "start_actual": "2026-05-17T10:00:14.000Z",
-      "live_viewers": 13800,
+      "live_viewers": 14210,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -138,26 +138,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCWQtYtq9EOB4-I5P-3fh8lA": {
-      "video_id": "qKoxvYdtHuE",
-      "title": "【ワンワンバトル】犬になれ!!!!ほえろ!!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Bow-wow_Battle",
-      "published_at": "2026-05-17T07:09:36.000Z",
-      "available_at": "2026-05-17T10:01:11.000Z",
-      "start_scheduled": "2026-05-17T10:00:00.000Z",
-      "start_actual": "2026-05-17T10:01:11.000Z",
-      "live_viewers": 7893,
-      "channel": {
-        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-        "english_name": "Otonose Kanade",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9LSiN9hXI55svYEBrrK-tw": {
@@ -170,7 +150,7 @@
       "available_at": "2026-05-17T10:01:11.000Z",
       "start_scheduled": "2026-05-17T10:00:00.000Z",
       "start_actual": "2026-05-17T10:01:11.000Z",
-      "live_viewers": 4457,
+      "live_viewers": 4696,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -178,6 +158,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCWQtYtq9EOB4-I5P-3fh8lA": {
+      "video_id": "qKoxvYdtHuE",
+      "title": "【ワンワンバトル】犬になれ!!!!ほえろ!!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Bow-wow_Battle",
+      "published_at": "2026-05-17T07:09:36.000Z",
+      "available_at": "2026-05-17T10:01:11.000Z",
+      "start_scheduled": "2026-05-17T10:00:00.000Z",
+      "start_actual": "2026-05-17T10:01:11.000Z",
+      "live_viewers": 7939,
+      "channel": {
+        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "english_name": "Otonose Kanade",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
