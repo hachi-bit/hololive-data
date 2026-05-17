@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778977098,
+  "cached_at": 1778977159,
   "lives": {
     "UCK9V2B22uJYu3N7eR_BT9QA": {
       "video_id": "t5y3I4KaA_I",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-16T22:31:00.000Z",
       "start_scheduled": "2026-05-16T22:30:00.000Z",
       "start_actual": "2026-05-16T22:31:00.000Z",
-      "live_viewers": 7781,
+      "live_viewers": 7942,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-16T23:00:26.000Z",
       "start_scheduled": "2026-05-16T23:00:00.000Z",
       "start_actual": "2026-05-16T23:00:26.000Z",
-      "live_viewers": 10035,
+      "live_viewers": 10277,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -62,10 +62,10 @@
     },
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "cpWH1U0OCf0",
-      "title": "【TENGU TALK】LET'S HANG OUT AND LISTEN TO SOME VISUAL KEI TOGETHER MY HAKKITO ᨳ𐔌՞҂ ˕ ֊՞𐦯ᜊ",
+      "title": "【T2 MENSHI】LET'S HANG OUT AND LISTEN TO SOME VISUAL KEI TOGETHER MY HAKKITO ᨳ𐔌՞҂ ˕ ֊՞𐦯ᜊ",
       "type": "stream",
       "status": "live",
-      "topic_id": "talk",
+      "topic_id": "membersonly",
       "published_at": "2026-05-16T16:41:37.000Z",
       "available_at": "2026-05-17T00:15:00.000Z",
       "start_scheduled": "2026-05-17T00:15:00.000Z",
