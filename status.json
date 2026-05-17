@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779018919,
+  "cached_at": 1779018979,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "hj_U3UdQjnY",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-17T08:04:07.000Z",
       "start_scheduled": "2026-05-17T08:00:00.000Z",
       "start_actual": "2026-05-17T08:04:07.000Z",
-      "live_viewers": 5670,
+      "live_viewers": 5661,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -38,26 +38,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChSvpZYRPh0FvG4SJGSga3g": {
-      "video_id": "FQGHPDbU7eA",
-      "title": "【ストリートファイター6】ナーフ食らっても豪鬼【影山シエン/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-05-17T07:00:25.000Z",
-      "available_at": "2026-05-17T08:04:31.000Z",
-      "start_scheduled": "2026-05-17T08:00:00.000Z",
-      "start_actual": "2026-05-17T08:04:31.000Z",
-      "live_viewers": 273,
-      "channel": {
-        "id": "UChSvpZYRPh0FvG4SJGSga3g",
-        "name": "Shien Ch.影山シエン",
-        "english_name": "Kageyama Shien",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCUKD-uaobj9jiqB-VXt71mA": {
@@ -90,7 +70,7 @@
       "available_at": "2026-05-17T10:55:17.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T10:55:17.000Z",
-      "live_viewers": 62098,
+      "live_viewers": 62548,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -110,7 +90,7 @@
       "available_at": "2026-05-17T11:00:10.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T11:00:10.000Z",
-      "live_viewers": 22463,
+      "live_viewers": 22116,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -150,7 +130,7 @@
       "available_at": "2026-05-17T11:00:53.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T11:00:53.000Z",
-      "live_viewers": 454,
+      "live_viewers": 451,
       "channel": {
         "id": "UCJjjeqEYMSzdsKt6vJ78WVw",
         "name": "Pan VTuber パン",
@@ -170,7 +150,7 @@
       "available_at": "2026-05-17T11:01:11.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T11:01:11.000Z",
-      "live_viewers": 3494,
+      "live_viewers": 3625,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
