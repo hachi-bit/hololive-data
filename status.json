@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779003319,
+  "cached_at": 1779003379,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "hj_U3UdQjnY",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-17T03:00:49.000Z",
       "start_scheduled": "2026-05-17T03:00:00.000Z",
       "start_actual": "2026-05-17T03:00:49.000Z",
-      "live_viewers": 21443,
+      "live_viewers": 21528,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -38,26 +38,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCK9V2B22uJYu3N7eR_BT9QA": {
-      "video_id": "4lB4BblFP-U",
-      "title": "【ヴィクトリアマイル】競馬配信🔰咲き誇れ、最速のヒロインたち。【尾丸ポルカ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Horse_racing",
-      "published_at": "2026-05-17T00:53:34.000Z",
-      "available_at": "2026-05-17T05:30:16.000Z",
-      "start_scheduled": "2026-05-17T05:30:00.000Z",
-      "start_actual": "2026-05-17T05:30:16.000Z",
-      "live_viewers": 3870,
-      "channel": {
-        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-        "name": "Polka Ch. 尾丸ポルカ",
-        "english_name": "Omaru Polka",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
@@ -70,7 +50,7 @@
       "available_at": "2026-05-17T05:34:43.000Z",
       "start_scheduled": "2026-05-17T05:30:00.000Z",
       "start_actual": "2026-05-17T05:34:43.000Z",
-      "live_viewers": 6015,
+      "live_viewers": 5291,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
