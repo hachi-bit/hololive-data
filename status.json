@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779022279,
+  "cached_at": 1779022339,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "hj_U3UdQjnY",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-17T08:04:07.000Z",
       "start_scheduled": "2026-05-17T08:00:00.000Z",
       "start_actual": "2026-05-17T08:04:07.000Z",
-      "live_viewers": 5024,
+      "live_viewers": 5092,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-17T11:00:10.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T11:00:10.000Z",
-      "live_viewers": 22164,
+      "live_viewers": 22089,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-17T11:00:16.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T11:00:16.000Z",
-      "live_viewers": 426,
+      "live_viewers": 423,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -120,26 +120,6 @@
         "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC7-N7MvN5muVIHqyQx9LFbA": {
-      "video_id": "ilLmVKvZQks",
-      "title": "【#漢気ラジオ】しゃべりだしたら止まらない！関西弁おしゃべりよお兄さん！【歌衣メイカ/夕刻ロベル】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-17T10:05:16.000Z",
-      "available_at": "2026-05-17T11:01:22.000Z",
-      "start_scheduled": "2026-05-17T11:00:00.000Z",
-      "start_actual": "2026-05-17T11:01:22.000Z",
-      "live_viewers": 2792,
-      "channel": {
-        "id": "UC7-N7MvN5muVIHqyQx9LFbA",
-        "name": "メイカちゃんねる",
-        "english_name": "Utai Meika",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mq4PLSnpYy83ZUfXHKZVIVXsU8VnFE5xpzLcVXrmImnAg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCekc8SI533NI675r9aCBRcQ": {
       "video_id": "nm-qn78miwU",
       "title": "〖 歌凸待ち 〗豪華ゲストと一緒にお歌が歌いたい!!!〖 眠雲ツクリ/ミリプロ 〗",
@@ -150,7 +130,7 @@
       "available_at": "2026-05-17T11:01:52.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T11:01:52.000Z",
-      "live_viewers": 3925,
+      "live_viewers": 3732,
       "channel": {
         "id": "UCekc8SI533NI675r9aCBRcQ",
         "name": "眠雲ツクリ / NemukumoTsukuri",
@@ -170,7 +150,7 @@
       "available_at": "2026-05-17T12:00:22.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:00:22.000Z",
-      "live_viewers": 437,
+      "live_viewers": 460,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -230,7 +210,7 @@
       "available_at": "2026-05-17T12:04:21.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:04:21.000Z",
-      "live_viewers": 6461,
+      "live_viewers": 6263,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -250,7 +230,7 @@
       "available_at": "2026-05-17T12:07:51.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:07:51.000Z",
-      "live_viewers": 5084,
+      "live_viewers": 5096,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -290,7 +270,7 @@
       "available_at": "2026-05-17T12:08:04.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:08:04.000Z",
-      "live_viewers": 4598,
+      "live_viewers": 4627,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
