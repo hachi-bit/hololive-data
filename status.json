@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779008478,
+  "cached_at": 1779008539,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "hj_U3UdQjnY",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-17T08:04:07.000Z",
       "start_scheduled": "2026-05-17T08:00:00.000Z",
       "start_actual": "2026-05-17T08:04:07.000Z",
-      "live_viewers": 7612,
+      "live_viewers": 7592,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-17T08:56:08.000Z",
       "start_scheduled": "2026-05-17T09:00:00.000Z",
       "start_actual": "2026-05-17T08:56:08.000Z",
-      "live_viewers": 934,
+      "live_viewers": 2142,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -98,6 +98,64 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCuI_opAVX6qbxZY-a-AxFuQ": {
+      "video_id": "nZGf6VzYPFM",
+      "title": "【願望Tier(？)づくり】ホロメンにバブりたいバブ？バブられたいバブ？ ニコたんはバブね、、、、 【二刀流の虎金妃笑虎】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Ranking",
+      "published_at": "2026-05-16T13:43:45.000Z",
+      "available_at": "2026-05-17T09:00:00.000Z",
+      "start_scheduled": "2026-05-17T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+        "english_name": "Koganei Niko",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "rsAPjv6jRBY",
+      "title": "【デッドライジング3】#04 ゾンビ無双みたび!巨大都市から72時間以内に脱出せよ⚠️ネタバレ注意-Dead Rising 3【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dead_Rising",
+      "published_at": "2026-05-16T18:23:43.000Z",
+      "available_at": "2026-05-17T09:00:00.000Z",
+      "start_scheduled": "2026-05-17T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCK9V2B22uJYu3N7eR_BT9QA": {
+      "video_id": "t6VGJ3jcVRg",
+      "title": "【トモコレ】#6 ついにプロポーズ!?今日もうちの島は大混乱【尾丸ポルカ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-17T09:00:06.000Z",
+      "available_at": "2026-05-17T09:00:06.000Z",
+      "start_scheduled": "2026-05-17T09:00:00.000Z",
+      "start_actual": "2026-05-17T09:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+        "name": "Polka Ch. 尾丸ポルカ",
+        "english_name": "Omaru Polka",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
