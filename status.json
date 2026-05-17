@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779015679,
+  "cached_at": 1779015739,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "hj_U3UdQjnY",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-17T08:04:07.000Z",
       "start_scheduled": "2026-05-17T08:00:00.000Z",
       "start_actual": "2026-05-17T08:04:07.000Z",
-      "live_viewers": 6376,
+      "live_viewers": 6576,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-17T08:56:08.000Z",
       "start_scheduled": "2026-05-17T09:00:00.000Z",
       "start_actual": "2026-05-17T08:56:08.000Z",
-      "live_viewers": 4667,
+      "live_viewers": 4255,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-17T09:00:58.000Z",
       "start_scheduled": "2026-05-17T09:00:00.000Z",
       "start_actual": "2026-05-17T09:00:58.000Z",
-      "live_viewers": 8898,
+      "live_viewers": 8792,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -118,26 +118,6 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "uv7dMY8dU9E",
-      "title": "【歌枠】歌ってもいいですか?♡【ホロライブ DEV_IS 響咲リオナ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-05-16T17:22:26.000Z",
-      "available_at": "2026-05-17T10:01:11.000Z",
-      "start_scheduled": "2026-05-17T10:00:00.000Z",
-      "start_actual": "2026-05-17T10:01:11.000Z",
-      "live_viewers": 6263,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdXAk5MpyLD8594lm_OvtGQ": {
@@ -150,7 +130,7 @@
       "available_at": "2026-05-17T10:55:17.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T10:55:17.000Z",
-      "live_viewers": 14849,
+      "live_viewers": 25905,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -158,6 +138,142 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7-N7MvN5muVIHqyQx9LFbA": {
+      "video_id": "ilLmVKvZQks",
+      "title": "【#漢気ラジオ】しゃべりだしたら止まらない!関西弁おしゃべりよお兄さん!【歌衣メイカ/夕刻ロベル】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-17T10:05:16.000Z",
+      "available_at": "2026-05-17T11:00:00.000Z",
+      "start_scheduled": "2026-05-17T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC7-N7MvN5muVIHqyQx9LFbA",
+        "name": "メイカちゃんねる",
+        "english_name": "Utai Meika",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mq4PLSnpYy83ZUfXHKZVIVXsU8VnFE5xpzLcVXrmImnAg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCJjjeqEYMSzdsKt6vJ78WVw": {
+      "video_id": "_eNPvAktdQE",
+      "title": "【AFTERPARTY】 🥖 WE SANG TOGETHER!!! 🧟‍♀️ #panlive",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-16T10:34:59.000Z",
+      "available_at": "2026-05-17T11:00:00.000Z",
+      "start_scheduled": "2026-05-17T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCJjjeqEYMSzdsKt6vJ78WVw",
+        "name": "Pan VTuber パン",
+        "english_name": "Pan",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/Uj8fUIQZcvYO1Vg4o8QBxNV7cKKyYmpdcLYGFFRfoIcI38meZFHtUrsWcaS7jSkk876r8lcUoQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCekc8SI533NI675r9aCBRcQ": {
+      "video_id": "nm-qn78miwU",
+      "title": "〖 歌凸待ち 〗豪華ゲストと一緒にお歌が歌いたい!!!〖 眠雲ツクリ/ミリプロ 〗",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "totsu",
+      "published_at": "2026-05-13T11:56:29.000Z",
+      "available_at": "2026-05-17T11:00:00.000Z",
+      "start_scheduled": "2026-05-17T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCekc8SI533NI675r9aCBRcQ",
+        "name": "眠雲ツクリ / NemukumoTsukuri",
+        "english_name": "Nemukumo Tsukuri",
+        "org": "MillionProduction",
+        "suborg": "1bUNI",
+        "photo": "https://yt3.ggpht.com/BdDiFgWqsdy-xopINofLF3pfT79R9BAB8LPV3zrPCW3ZsFLiWD6EEete_QUEPClzmvND8RRfWg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCHsx4Hqa-1ORjQTh9TYDhww": {
+      "video_id": "sBaUYZwdxIw",
+      "title": "【MTG ARENA】german mode activate #kfp #キアライブ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Magic:_The_Gathering_Arena",
+      "published_at": "2026-05-16T17:03:30.000Z",
+      "available_at": "2026-05-17T11:00:00.000Z",
+      "start_scheduled": "2026-05-17T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+        "name": "Takanashi Kiara Ch. hololive-EN",
+        "english_name": "Takanashi Kiara",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1uv2Oq6kNxgATlCiez59hw": {
+      "video_id": "c5qJc8ArTUo",
+      "title": "CH4NGE / ORIO ｰ 常闇トワ×天音かなた ｰ(cover)",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Music_Cover",
+      "published_at": "2026-05-17T11:00:06.000Z",
+      "available_at": "2026-05-17T11:00:06.000Z",
+      "start_scheduled": "2026-05-17T11:00:00.000Z",
+      "start_actual": "2026-05-17T11:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1uv2Oq6kNxgATlCiez59hw",
+        "name": "Towa Ch. 常闇トワ",
+        "english_name": "Tokoyami Towa",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvaTdHTWBGv3MKj3KVqJVCw": {
+      "video_id": "74i1tXcUrSQ",
+      "title": "【 🟢FF7クライシスコア 】完全初見で遊ぶぞｵｵｵｵｵ #01【 猫又おかゆ/ホロライブ 】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Final_fantasy",
+      "published_at": "2026-05-16T17:32:37.000Z",
+      "available_at": "2026-05-17T11:00:10.000Z",
+      "start_scheduled": "2026-05-17T11:00:00.000Z",
+      "start_actual": "2026-05-17T11:00:10.000Z",
+      "live_viewers": 4503,
+      "channel": {
+        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+        "name": "Okayu Ch. 猫又おかゆ",
+        "english_name": "Nekomata Okayu",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTVSOgYuSWmNAt-lnJPkEEw": {
+      "video_id": "wyxGCY5aNr8",
+      "title": "【MARVEL RIVALS】THEY PUT ME IN THE GAME",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Marvel_Rivals",
+      "published_at": "2026-05-16T14:42:22.000Z",
+      "available_at": "2026-05-17T11:00:12.000Z",
+      "start_scheduled": "2026-05-17T11:00:00.000Z",
+      "start_actual": "2026-05-17T11:00:12.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
+        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
+        "english_name": "Jurard T Rexford",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
