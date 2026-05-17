@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778976979,
+  "cached_at": 1778977038,
   "lives": {
     "UCK9V2B22uJYu3N7eR_BT9QA": {
       "video_id": "t5y3I4KaA_I",
@@ -58,6 +58,25 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7gxU6NXjKF1LrgOddPzgTw": {
+      "video_id": "cpWH1U0OCf0",
+      "title": "【TENGU TALK】LET'S HANG OUT AND LISTEN TO SOME VISUAL KEI TOGETHER MY HAKKITO ᨳ𐔌՞҂ ˕ ֊՞𐦯ᜊ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-16T16:41:37.000Z",
+      "available_at": "2026-05-17T00:15:00.000Z",
+      "start_scheduled": "2026-05-17T00:15:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+        "english_name": "Banzoin Hakka",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
