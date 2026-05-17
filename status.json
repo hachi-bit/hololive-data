@@ -1,5 +1,5 @@
 {
-  "cached_at": 1778976199,
+  "cached_at": 1778976259,
   "lives": {
     "UCK9V2B22uJYu3N7eR_BT9QA": {
       "video_id": "t5y3I4KaA_I",
@@ -39,6 +39,25 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC060r4zABV18vcahAWR1n7w": {
+      "video_id": "hj_U3UdQjnY",
+      "title": "Recording Process + Mic Help?!【MEMBERSHIP】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-14T16:21:17.000Z",
+      "available_at": "2026-05-17T00:00:00.000Z",
+      "start_scheduled": "2026-05-17T00:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC060r4zABV18vcahAWR1n7w",
+        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
+        "english_name": "Machina X Flayon",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
