@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779059360,
+  "cached_at": 1779059422,
   "lives": {
-    "UCHP4f7G2dWD4qib7BMatGAw": {
-      "video_id": "ls06LP8HVD4",
-      "title": "GAVIS BETTEL BIRTHDAY 2026",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Birthday",
-      "published_at": "2026-05-17T16:53:54.000Z",
-      "available_at": "2026-05-17T21:59:35.000Z",
-      "start_scheduled": "2026-05-17T22:00:00.000Z",
-      "start_actual": "2026-05-17T21:59:35.000Z",
-      "live_viewers": 2112,
-      "channel": {
-        "id": "UCHP4f7G2dWD4qib7BMatGAw",
-        "name": "Gavis Bettel Ch. HOLOSTARS-EN",
-        "english_name": "Gavis Bettel",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "mOQB3s9cAss",
       "title": "【#朝ミオ 】月曜日だよ~!!!おはみぉーん!",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-17T22:30:09.000Z",
       "start_scheduled": "2026-05-17T22:30:00.000Z",
       "start_actual": "2026-05-17T22:30:09.000Z",
-      "live_viewers": 16454,
+      "live_viewers": 16679,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
