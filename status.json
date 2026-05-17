@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779015379,
+  "cached_at": 1779015439,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "hj_U3UdQjnY",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-17T08:00:39.000Z",
       "start_scheduled": "2026-05-17T08:00:00.000Z",
       "start_actual": "2026-05-17T08:00:39.000Z",
-      "live_viewers": 13159,
+      "live_viewers": 13797,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-17T08:04:07.000Z",
       "start_scheduled": "2026-05-17T08:00:00.000Z",
       "start_actual": "2026-05-17T08:04:07.000Z",
-      "live_viewers": 6610,
+      "live_viewers": 6376,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-17T08:04:31.000Z",
       "start_scheduled": "2026-05-17T08:00:00.000Z",
       "start_actual": "2026-05-17T08:04:31.000Z",
-      "live_viewers": 310,
+      "live_viewers": 313,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-17T10:01:11.000Z",
       "start_scheduled": "2026-05-17T10:00:00.000Z",
       "start_actual": "2026-05-17T10:01:11.000Z",
-      "live_viewers": 6128,
+      "live_viewers": 6263,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -140,24 +140,24 @@
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCWQtYtq9EOB4-I5P-3fh8lA": {
-      "video_id": "qKoxvYdtHuE",
-      "title": "【ワンワンバトル】犬になれ!!!!ほえろ!!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "UCdXAk5MpyLD8594lm_OvtGQ": {
+      "video_id": "1juU26jChug",
+      "title": "【 #らでん新衣装お披露目3Dライブ 】歌って踊ってミラクル重大発表祭り！【儒烏風亭らでん #ReGLOSS 】",
       "type": "stream",
       "status": "live",
-      "topic_id": "Bow-wow_Battle",
-      "published_at": "2026-05-17T07:09:36.000Z",
-      "available_at": "2026-05-17T10:01:11.000Z",
-      "start_scheduled": "2026-05-17T10:00:00.000Z",
-      "start_actual": "2026-05-17T10:01:11.000Z",
-      "live_viewers": 9067,
+      "topic_id": "Outfit_Reveal",
+      "published_at": "2026-05-14T12:48:33.000Z",
+      "available_at": "2026-05-17T10:55:17.000Z",
+      "start_scheduled": "2026-05-17T11:00:00.000Z",
+      "start_actual": "2026-05-17T10:55:17.000Z",
+      "live_viewers": 10938,
       "channel": {
-        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-        "english_name": "Otonose Kanade",
+        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+        "english_name": "Juufuutei Raden",
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
+        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
