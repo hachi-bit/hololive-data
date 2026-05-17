@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779031399,
+  "cached_at": 1779031459,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "hj_U3UdQjnY",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-17T11:00:10.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T11:00:10.000Z",
-      "live_viewers": 17331,
+      "live_viewers": 17465,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-17T11:00:16.000Z",
       "start_scheduled": "2026-05-17T11:00:00.000Z",
       "start_actual": "2026-05-17T11:00:16.000Z",
-      "live_viewers": 528,
+      "live_viewers": 527,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -85,12 +85,12 @@
       "title": "【 STREET FIGHTER 6 】さはーらさんにいろいろ見てもらう‼️【常闇トワ/ホロライブ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "Street_Fighter",
       "published_at": "2026-05-17T08:52:09.000Z",
       "available_at": "2026-05-17T12:04:21.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:04:21.000Z",
-      "live_viewers": 4353,
+      "live_viewers": 4261,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-17T12:07:51.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:07:51.000Z",
-      "live_viewers": 4783,
+      "live_viewers": 4677,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-17T12:07:54.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:07:54.000Z",
-      "live_viewers": 16658,
+      "live_viewers": 16448,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-17T12:08:04.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:08:04.000Z",
-      "live_viewers": 4079,
+      "live_viewers": 4011,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-17T13:00:33.000Z",
       "start_scheduled": "2026-05-17T13:00:00.000Z",
       "start_actual": "2026-05-17T13:00:33.000Z",
-      "live_viewers": 10696,
+      "live_viewers": 10503,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -230,7 +230,7 @@
       "available_at": "2026-05-17T13:32:05.000Z",
       "start_scheduled": "2026-05-17T13:30:00.000Z",
       "start_actual": "2026-05-17T13:32:05.000Z",
-      "live_viewers": 6890,
+      "live_viewers": 6702,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -270,7 +270,7 @@
       "available_at": "2026-05-17T14:31:12.000Z",
       "start_scheduled": "2026-05-17T14:30:00.000Z",
       "start_actual": "2026-05-17T14:31:12.000Z",
-      "live_viewers": 260,
+      "live_viewers": 230,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
