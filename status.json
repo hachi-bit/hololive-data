@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779014179,
+  "cached_at": 1779014239,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "hj_U3UdQjnY",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-17T08:04:31.000Z",
       "start_scheduled": "2026-05-17T08:00:00.000Z",
       "start_actual": "2026-05-17T08:04:31.000Z",
-      "live_viewers": 303,
+      "live_viewers": 315,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -120,26 +120,6 @@
         "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UChAnqc_AY5_I3Px5dig3X1Q": {
-      "video_id": "Q4GPCNbXTm8",
-      "title": "【#ホロライブスターウォーズ部】ついに来た!最新映画『マンダロリアン・アンド・グローグー』全力トーク!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Star_Wars",
-      "published_at": "2026-05-16T06:05:23.000Z",
-      "available_at": "2026-05-17T10:00:14.000Z",
-      "start_scheduled": "2026-05-17T10:00:00.000Z",
-      "start_actual": "2026-05-17T10:00:14.000Z",
-      "live_viewers": 14581,
-      "channel": {
-        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
-        "name": "Korone Ch. 戌神ころね",
-        "english_name": "Inugami Korone",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCWQtYtq9EOB4-I5P-3fh8lA": {
       "video_id": "qKoxvYdtHuE",
       "title": "【ワンワンバトル】犬になれ!!!!ほえろ!!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
@@ -150,7 +130,7 @@
       "available_at": "2026-05-17T10:01:11.000Z",
       "start_scheduled": "2026-05-17T10:00:00.000Z",
       "start_actual": "2026-05-17T10:01:11.000Z",
-      "live_viewers": 8653,
+      "live_viewers": 8500,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -170,7 +150,7 @@
       "available_at": "2026-05-17T10:01:11.000Z",
       "start_scheduled": "2026-05-17T10:00:00.000Z",
       "start_actual": "2026-05-17T10:01:11.000Z",
-      "live_viewers": 5840,
+      "live_viewers": 4491,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
