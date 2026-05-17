@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779012079,
+  "cached_at": 1779012139,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "hj_U3UdQjnY",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-17T08:04:07.000Z",
       "start_scheduled": "2026-05-17T08:00:00.000Z",
       "start_actual": "2026-05-17T08:04:07.000Z",
-      "live_viewers": 6619,
+      "live_viewers": 6362,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-17T08:56:08.000Z",
       "start_scheduled": "2026-05-17T09:00:00.000Z",
       "start_actual": "2026-05-17T08:56:08.000Z",
-      "live_viewers": 7786,
+      "live_viewers": 7854,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-17T09:00:39.000Z",
       "start_scheduled": "2026-05-17T09:00:00.000Z",
       "start_actual": "2026-05-17T09:00:39.000Z",
-      "live_viewers": 20381,
+      "live_viewers": 20520,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -138,6 +138,64 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCWQtYtq9EOB4-I5P-3fh8lA": {
+      "video_id": "qKoxvYdtHuE",
+      "title": "【ワンワンバトル】犬になれ!!!!ほえろ!!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Bow-wow_Battle",
+      "published_at": "2026-05-17T07:09:36.000Z",
+      "available_at": "2026-05-17T10:00:00.000Z",
+      "start_scheduled": "2026-05-17T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "english_name": "Otonose Kanade",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "uv7dMY8dU9E",
+      "title": "【歌枠】歌ってもいいですか?♡【ホロライブ DEV_IS 響咲リオナ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-16T17:22:26.000Z",
+      "available_at": "2026-05-17T10:00:00.000Z",
+      "start_scheduled": "2026-05-17T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChAnqc_AY5_I3Px5dig3X1Q": {
+      "video_id": "Q4GPCNbXTm8",
+      "title": "【#ホロライブスターウォーズ部】ついに来た!最新映画『マンダロリアン・アンド・グローグー』全力トーク!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Star_Wars",
+      "published_at": "2026-05-16T06:05:23.000Z",
+      "available_at": "2026-05-17T10:00:14.000Z",
+      "start_scheduled": "2026-05-17T10:00:00.000Z",
+      "start_actual": "2026-05-17T10:00:14.000Z",
+      "live_viewers": 3380,
+      "channel": {
+        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
+        "name": "Korone Ch. 戌神ころね",
+        "english_name": "Inugami Korone",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
