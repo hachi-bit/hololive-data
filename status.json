@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779033439,
+  "cached_at": 1779033499,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "hj_U3UdQjnY",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-17T12:07:54.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:07:54.000Z",
-      "live_viewers": 16518,
+      "live_viewers": 16601,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-17T12:08:05.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:08:05.000Z",
-      "live_viewers": 11645,
+      "live_viewers": 11660,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -218,26 +218,6 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1suqwovbL1kzsoaZgFZLKg": {
-      "video_id": "qqbPGQ3GzXw",
-      "title": "【メン限】悪魔のゲリラASMR【ホロライブ/癒月ちょこ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-17T13:40:50.000Z",
-      "available_at": "2026-05-17T15:22:57.000Z",
-      "start_scheduled": "2026-05-17T15:15:00.000Z",
-      "start_actual": "2026-05-17T15:22:57.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC1suqwovbL1kzsoaZgFZLKg",
-        "name": "Choco Ch. 癒月ちょこ",
-        "english_name": "Yuzuki Choco",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
