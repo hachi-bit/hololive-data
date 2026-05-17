@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779023539,
+  "cached_at": 1779023599,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "hj_U3UdQjnY",
@@ -22,7 +22,7 @@
     },
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "K4XIlujOUAw",
-      "title": "【 棋士・藤井聡太の将棋トレーニング 】イチから学ぶ将棋の世界なのら!!!【姫森ルーナ/ホロライブ】",
+      "title": "【 棋士・藤井聡太の将棋トレーニング 】イチから学ぶ将棋の世界なのら！！！【姫森ルーナ/ホロライブ】",
       "type": "stream",
       "status": "live",
       "topic_id": "Shogi",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-17T12:00:22.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:00:22.000Z",
-      "live_viewers": 405,
+      "live_viewers": 425,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-17T12:01:22.000Z",
       "start_scheduled": "2026-05-17T12:00:00.000Z",
       "start_actual": "2026-05-17T12:01:22.000Z",
-      "live_viewers": 4636,
+      "live_viewers": 4644,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -300,25 +300,6 @@
         "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCYz_5n-uDuChHtLo7My1HnQ": {
-      "video_id": "XTtRc-QGj6I",
-      "title": "【ZOMILY - FREETALK】 I AM ONCE AGAIN TALKING TOO MUCH 【Kureiji Ollie】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-07T14:14:55.000Z",
-      "available_at": "2026-05-17T13:00:00.000Z",
-      "start_scheduled": "2026-05-17T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
-        "name": "Kureiji Ollie Ch. hololive-ID",
-        "english_name": "Kureiji Ollie",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC_vMYWcDjmfdpH6r4TTn1MQ": {
       "video_id": "4qVDs8OL8DQ",
       "title": "【トモダチコレクション】ホロメン恋愛大三角形観測会👀【風真いろは/ホロライブ】",
@@ -329,7 +310,7 @@
       "available_at": "2026-05-17T13:00:30.000Z",
       "start_scheduled": "2026-05-17T13:00:00.000Z",
       "start_actual": "2026-05-17T13:00:30.000Z",
-      "live_viewers": 4215,
+      "live_viewers": 4666,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -349,7 +330,7 @@
       "available_at": "2026-05-17T13:00:33.000Z",
       "start_scheduled": "2026-05-17T13:00:00.000Z",
       "start_actual": "2026-05-17T13:00:33.000Z",
-      "live_viewers": 5140,
+      "live_viewers": 5761,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -369,7 +350,7 @@
       "available_at": "2026-05-17T13:01:47.000Z",
       "start_scheduled": "2026-05-17T13:00:00.000Z",
       "start_actual": "2026-05-17T13:01:47.000Z",
-      "live_viewers": 183,
+      "live_viewers": 204,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -389,7 +370,7 @@
       "available_at": "2026-05-17T13:02:46.000Z",
       "start_scheduled": "2026-05-17T13:00:00.000Z",
       "start_actual": "2026-05-17T13:02:46.000Z",
-      "live_viewers": 15547,
+      "live_viewers": 17381,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -397,6 +378,26 @@
         "org": "Hololive",
         "suborg": "0y0th Generation",
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCYz_5n-uDuChHtLo7My1HnQ": {
+      "video_id": "XTtRc-QGj6I",
+      "title": "【ZOMILY - FREETALK】 I AM ONCE AGAIN TALKING TOO MUCH 【Kureiji Ollie】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-07T14:14:55.000Z",
+      "available_at": "2026-05-17T13:07:57.000Z",
+      "start_scheduled": "2026-05-17T13:00:00.000Z",
+      "start_actual": "2026-05-17T13:07:57.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+        "name": "Kureiji Ollie Ch. hololive-ID",
+        "english_name": "Kureiji Ollie",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
