@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779073279,
+  "cached_at": 1779073339,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "Q8PQ-0f6-Iw",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-18T02:06:44.000Z",
       "start_scheduled": "2026-05-18T02:00:00.000Z",
       "start_actual": "2026-05-18T02:06:44.000Z",
-      "live_viewers": 435,
+      "live_viewers": 458,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -79,6 +79,64 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCozx5csNhCx1wsVq3SZVkBQ": {
+      "video_id": "7r_WkSK8sTQ",
+      "title": "【確定ガチャ】選んで買える7thフェス衣装ブロマイドが登場!?【昼ホロ/風白ゆき】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "News_Show",
+      "published_at": "2026-05-18T01:55:05.000Z",
+      "available_at": "2026-05-18T02:58:33.000Z",
+      "start_scheduled": "2026-05-18T03:00:00.000Z",
+      "start_actual": "2026-05-18T02:58:33.000Z",
+      "live_viewers": 1052,
+      "channel": {
+        "id": "UCozx5csNhCx1wsVq3SZVkBQ",
+        "name": "holoAN room (ホロアナ)",
+        "english_name": "holoAN room",
+        "org": "Hololive",
+        "suborg": "0hOfficial",
+        "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFKOVgVbGmX65RxO3EtH3iw": {
+      "video_id": "w55NZqdvBF4",
+      "title": "【昼雑談】朝は体調がいいのだよ【雪花ラミィ /ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-18T02:50:14.000Z",
+      "available_at": "2026-05-18T03:00:00.000Z",
+      "start_scheduled": "2026-05-18T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+        "name": "Lamy Ch. 雪花ラミィ",
+        "english_name": "Yukihana Lamy",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTVSOgYuSWmNAt-lnJPkEEw": {
+      "video_id": "l607P8gscac",
+      "title": "【TOMODACHI LIFE: LIVING THE DREAM】MY OWN DIGITAL CIRCUS + ADDING SORAWRITY-SONAS",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-16T09:19:33.000Z",
+      "available_at": "2026-05-18T03:00:00.000Z",
+      "start_scheduled": "2026-05-18T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
+        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
+        "english_name": "Jurard T Rexford",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
