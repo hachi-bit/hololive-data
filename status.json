@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779125839,
+  "cached_at": 1779125899,
   "lives": {
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
       "video_id": "UQe4KzSqtKo",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-18T13:00:36.000Z",
       "start_scheduled": "2026-05-18T13:00:00.000Z",
       "start_actual": "2026-05-18T13:00:36.000Z",
-      "live_viewers": 9186,
+      "live_viewers": 9056,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-18T14:06:04.000Z",
       "start_scheduled": "2026-05-18T14:00:00.000Z",
       "start_actual": "2026-05-18T14:06:04.000Z",
-      "live_viewers": 8536,
+      "live_viewers": 8483,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "izCaJcCdwYw",
-      "title": "【DYING LIGHT THE BEAST】人口の99%がゾンビ化した世界を生きる Part2【岸堂天真/花咲みやび/羽継烏有/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Dying_Light",
-      "published_at": "2026-05-18T14:29:13.000Z",
-      "available_at": "2026-05-18T14:32:13.000Z",
-      "start_scheduled": "2026-05-18T14:30:00.000Z",
-      "start_actual": "2026-05-18T14:32:13.000Z",
-      "live_viewers": 192,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
