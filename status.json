@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779113059,
+  "cached_at": 1779113120,
   "lives": {
     "UC2hx0xVkMoHGWijwr_lA01w": {
       "video_id": "jrIiQMQmtTY",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-18T13:03:00.000Z",
       "start_scheduled": "2026-05-18T13:00:00.000Z",
       "start_actual": "2026-05-18T13:03:00.000Z",
-      "live_viewers": 1591,
+      "live_viewers": 1650,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-18T13:30:08.000Z",
       "start_scheduled": "2026-05-18T13:30:00.000Z",
       "start_actual": "2026-05-18T13:30:08.000Z",
-      "live_viewers": 372,
+      "live_viewers": 378,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-18T13:30:30.000Z",
       "start_scheduled": "2026-05-18T13:30:00.000Z",
       "start_actual": "2026-05-18T13:30:30.000Z",
-      "live_viewers": 8565,
+      "live_viewers": 9229,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-18T13:30:36.000Z",
       "start_scheduled": "2026-05-18T13:30:00.000Z",
       "start_actual": "2026-05-18T13:30:36.000Z",
-      "live_viewers": 1121,
+      "live_viewers": 1202,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -311,7 +311,7 @@
       "available_at": "2026-05-18T13:32:05.000Z",
       "start_scheduled": "2026-05-18T13:30:00.000Z",
       "start_actual": "2026-05-18T13:32:05.000Z",
-      "live_viewers": 665,
+      "live_viewers": 685,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -351,7 +351,7 @@
       "available_at": "2026-05-18T13:35:54.000Z",
       "start_scheduled": "2026-05-18T13:30:00.000Z",
       "start_actual": "2026-05-18T13:35:54.000Z",
-      "live_viewers": 782,
+      "live_viewers": 809,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -380,35 +380,17 @@
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
-      "video_id": "vOJMd0y11vU",
-      "title": "【 MOTHER 】完全初見!いざ!!サンタクロース駅へ…🎄【鷹嶺ルイ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "EarthBound",
-      "published_at": "2026-05-17T09:47:56.000Z",
-      "available_at": "2026-05-18T14:00:00.000Z",
-      "start_scheduled": "2026-05-18T14:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "name": "Lui ch. 鷹嶺ルイ - holoX -",
-        "english_name": "Takane Lui",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "fmE9RA5zC5U",
-      "title": "【R.E.P.O.】最近めっちゃ流行っとるねぇ！？~ 俺はREPOをやる。@無限募集SP ~ ぺこ！【ホロライブ/兎田ぺこら】",
+      "title": "【R.E.P.O.】最近めっちゃ流行っとるねぇ!?~ 俺はREPOをやる。@無限募集SP ~ ぺこ!【ホロライブ/兎田ぺこら】",
       "type": "stream",
       "status": "live",
       "topic_id": "R.E.P.O.",
       "published_at": "2026-05-18T11:42:37.000Z",
-      "available_at": "2026-05-18T14:00:00.000Z",
+      "available_at": "2026-05-18T14:00:40.000Z",
       "start_scheduled": "2026-05-18T14:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-18T14:00:40.000Z",
+      "live_viewers": 14159,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -416,6 +398,26 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "vOJMd0y11vU",
+      "title": "【 MOTHER 】完全初見!いざ!!サンタクロース駅へ…🎄【鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "EarthBound",
+      "published_at": "2026-05-17T09:47:56.000Z",
+      "available_at": "2026-05-18T14:01:49.000Z",
+      "start_scheduled": "2026-05-18T14:00:00.000Z",
+      "start_actual": "2026-05-18T14:01:49.000Z",
+      "live_viewers": 376,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
