@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779091999,
+  "cached_at": 1779092060,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "l607P8gscac",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-18T07:06:16.000Z",
       "start_scheduled": "2026-05-18T07:00:00.000Z",
       "start_actual": "2026-05-18T07:06:16.000Z",
-      "live_viewers": 317,
+      "live_viewers": 325,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -99,6 +99,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC2hx0xVkMoHGWijwr_lA01w": {
+      "video_id": "jrIiQMQmtTY",
+      "title": "【League of Legends】GAME 3 - Our Third official game!! #LRWIN【LTK】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-18T08:02:35.000Z",
+      "available_at": "2026-05-18T08:10:59.000Z",
+      "start_scheduled": "2026-05-18T09:15:00.000Z",
+      "start_actual": "2026-05-18T08:10:59.000Z",
+      "live_viewers": 38,
+      "channel": {
+        "id": "UC2hx0xVkMoHGWijwr_lA01w",
+        "name": "Axel Syrios Ch. HOLOSTARS-EN",
+        "english_name": "Axel Syrios",
+        "org": "Hololive",
+        "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
+        "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
