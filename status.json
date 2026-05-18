@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779111139,
+  "cached_at": 1779111201,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "l607P8gscac",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-18T06:45:54.000Z",
       "start_scheduled": "2026-05-18T07:00:00.000Z",
       "start_actual": "2026-05-18T06:45:54.000Z",
-      "live_viewers": 1644,
+      "live_viewers": 1484,
       "channel": {
         "id": "UC2xXx1m1jeL0W84_0jTg-Yw",
         "name": "銀城サイネ / Ginjo Saine",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-18T08:59:17.000Z",
       "start_scheduled": "2026-05-18T09:00:00.000Z",
       "start_actual": "2026-05-18T08:59:17.000Z",
-      "live_viewers": 8503,
+      "live_viewers": 8231,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-18T11:00:49.000Z",
       "start_scheduled": "2026-05-18T11:00:00.000Z",
       "start_actual": "2026-05-18T11:00:49.000Z",
-      "live_viewers": 4973,
+      "live_viewers": 4934,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-18T13:00:17.000Z",
       "start_scheduled": "2026-05-18T13:00:00.000Z",
       "start_actual": "2026-05-18T13:00:17.000Z",
-      "live_viewers": 3180,
+      "live_viewers": 3181,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-18T13:00:36.000Z",
       "start_scheduled": "2026-05-18T13:00:00.000Z",
       "start_actual": "2026-05-18T13:00:36.000Z",
-      "live_viewers": 6445,
+      "live_viewers": 6460,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-18T13:01:39.000Z",
       "start_scheduled": "2026-05-18T13:00:00.000Z",
       "start_actual": "2026-05-18T13:01:39.000Z",
-      "live_viewers": 3930,
+      "live_viewers": 4084,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -311,7 +311,7 @@
       "available_at": "2026-05-18T13:01:49.000Z",
       "start_scheduled": "2026-05-18T13:00:00.000Z",
       "start_actual": "2026-05-18T13:01:49.000Z",
-      "live_viewers": 9964,
+      "live_viewers": 10085,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -351,7 +351,7 @@
       "available_at": "2026-05-18T13:03:00.000Z",
       "start_scheduled": "2026-05-18T13:00:00.000Z",
       "start_actual": "2026-05-18T13:03:00.000Z",
-      "live_viewers": 1206,
+      "live_viewers": 1228,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -359,6 +359,142 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC727SQYUvx5pDDGQpTICNWg": {
+      "video_id": "ckJMgnQ80pU",
+      "title": "【Cursed Companions】I'M NOT CURSED.【hololive ID 2nd Generation | Anya Melfissa】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-05-18T10:23:04.000Z",
+      "available_at": "2026-05-18T13:30:00.000Z",
+      "start_scheduled": "2026-05-18T13:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC727SQYUvx5pDDGQpTICNWg",
+        "name": "Anya Melfissa Ch. hololive-ID",
+        "english_name": "Anya Melfissa",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZLZ8Jjx_RN2CXloOmgTHVg": {
+      "video_id": "wHrW3gtFDBc",
+      "title": "【Cursed Companions】help me【hololiveID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-05-16T10:33:35.000Z",
+      "available_at": "2026-05-18T13:30:00.000Z",
+      "start_scheduled": "2026-05-18T13:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "name": "Kaela Kovalskia Ch. hololive-ID",
+        "english_name": "Kaela Kovalskia",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "svPaeGGM4BQ",
+      "title": "【Cursed Companions】How to Uncurse Myself【Pavolia Reine/hololiveID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-05-18T07:03:07.000Z",
+      "available_at": "2026-05-18T13:30:00.000Z",
+      "start_scheduled": "2026-05-18T13:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCOyYb1c43VlX9rc_lT6NKQw": {
+      "video_id": "VjX6hro5gQM",
+      "title": "#holoid KAWAN TERKUTUK",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-05-18T06:36:35.000Z",
+      "available_at": "2026-05-18T13:30:00.000Z",
+      "start_scheduled": "2026-05-18T13:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+        "name": "Ayunda Risu Ch. hololive-ID",
+        "english_name": "Ayunda Risu",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
+      "video_id": "EPYuCTXKv3g",
+      "title": "【脱力】一切無理しない枠【荒咬オウガ /ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-18T12:07:20.000Z",
+      "available_at": "2026-05-18T13:30:08.000Z",
+      "start_scheduled": "2026-05-18T13:30:00.000Z",
+      "start_actual": "2026-05-18T13:30:08.000Z",
+      "live_viewers": 126,
+      "channel": {
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "name": "Oga Ch.荒咬オウガ",
+        "english_name": "Aragami Oga",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
+      "video_id": "h1XtDTmf38o",
+      "title": "【BLEACH Rebirth of Souls】完全初見 どんな話なんだ…!#13【水宮枢/ホロライブDEV_IS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "BLEACH",
+      "published_at": "2026-05-16T16:21:44.000Z",
+      "available_at": "2026-05-18T13:30:30.000Z",
+      "start_scheduled": "2026-05-18T13:30:00.000Z",
+      "start_actual": "2026-05-18T13:30:30.000Z",
+      "live_viewers": 1080,
+      "channel": {
+        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+        "name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "english_name": "Mizumiya Su",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTvHWSfBZgtxE4sILOaurIQ": {
+      "video_id": "SJJsMa0PZUM",
+      "title": "【Cursed Companions】-⩊- hungry for blood~",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-05-17T15:47:27.000Z",
+      "available_at": "2026-05-18T13:30:36.000Z",
+      "start_scheduled": "2026-05-18T13:30:00.000Z",
+      "start_actual": "2026-05-18T13:30:36.000Z",
+      "live_viewers": 306,
+      "channel": {
+        "id": "UCTvHWSfBZgtxE4sILOaurIQ",
+        "name": "Vestia Zeta Ch. hololive-ID",
+        "english_name": "Vestia Zeta",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
