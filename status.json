@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779120080,
+  "cached_at": 1779120139,
   "lives": {
     "UC1iA6_NT4mtAcIII6ygrvCw": {
       "video_id": "5_7Ps8nrmqk",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-18T13:30:30.000Z",
       "start_scheduled": "2026-05-18T13:30:00.000Z",
       "start_actual": "2026-05-18T13:30:30.000Z",
-      "live_viewers": 8814,
+      "live_viewers": 7799,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-18T14:00:40.000Z",
       "start_scheduled": "2026-05-18T14:00:00.000Z",
       "start_actual": "2026-05-18T14:00:40.000Z",
-      "live_viewers": 25622,
+      "live_viewers": 25530,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-18T14:06:04.000Z",
       "start_scheduled": "2026-05-18T14:00:00.000Z",
       "start_actual": "2026-05-18T14:06:04.000Z",
-      "live_viewers": 9265,
+      "live_viewers": 9092,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -199,6 +199,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "mkBujXf1Hhc",
+      "title": "【Tomodachi Life】WE BACK TO THE SCHEDULE【Pavolia Reine/hololiveID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-18T13:25:52.000Z",
+      "available_at": "2026-05-18T15:59:29.000Z",
+      "start_scheduled": "2026-05-18T16:00:00.000Z",
+      "start_actual": "2026-05-18T15:59:29.000Z",
+      "live_viewers": 535,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
