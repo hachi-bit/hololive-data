@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779086899,
+  "cached_at": 1779086959,
   "lives": {
     "UCMqGG8BRAiI1lJfKOpETM_w": {
       "video_id": "YfD1_7WDXLU",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-18T04:00:21.000Z",
       "start_scheduled": "2026-05-18T04:00:00.000Z",
       "start_actual": "2026-05-18T04:00:21.000Z",
-      "live_viewers": 2384,
+      "live_viewers": 2491,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -59,6 +59,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC2xXx1m1jeL0W84_0jTg-Yw": {
+      "video_id": "UPQ07kk-P_I",
+      "title": "【#LTK 】ここで登場ピンチヒッター / DD NEXT代打【ぶいすぽっ! #銀城サイネ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-05-18T05:24:50.000Z",
+      "available_at": "2026-05-18T06:45:54.000Z",
+      "start_scheduled": "2026-05-18T07:00:00.000Z",
+      "start_actual": "2026-05-18T06:45:54.000Z",
+      "live_viewers": 394,
+      "channel": {
+        "id": "UC2xXx1m1jeL0W84_0jTg-Yw",
+        "name": "銀城サイネ / Ginjo Saine",
+        "english_name": "Ginjo Saine",
+        "org": "VSpo",
+        "suborg": "SSSolo",
+        "photo": "https://yt3.ggpht.com/1GsQmWJZ_ABGy-QkyuVM59_5F-iOPMMk5r5dR8bBVwRWjfY2u_Y-vuQptYrnezEvcDiTqXU7=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
