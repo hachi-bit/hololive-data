@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779124939,
+  "cached_at": 1779124999,
   "lives": {
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
       "video_id": "UQe4KzSqtKo",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-18T13:00:36.000Z",
       "start_scheduled": "2026-05-18T13:00:00.000Z",
       "start_actual": "2026-05-18T13:00:36.000Z",
-      "live_viewers": 9191,
+      "live_viewers": 9130,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
-      "video_id": "h1XtDTmf38o",
-      "title": "【BLEACH Rebirth of Souls】完全初見 どんな話なんだ…!#13【水宮枢/ホロライブDEV_IS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "BLEACH",
-      "published_at": "2026-05-16T16:21:44.000Z",
-      "available_at": "2026-05-18T13:30:30.000Z",
-      "start_scheduled": "2026-05-18T13:30:00.000Z",
-      "start_actual": "2026-05-18T13:30:30.000Z",
-      "live_viewers": 3229,
-      "channel": {
-        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-        "name": "Su Ch. 水宮枢 - FLOW GLOW",
-        "english_name": "Mizumiya Su",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1DCedRgGHBdm81E1llLhOQ": {
@@ -91,7 +71,7 @@
       "available_at": "2026-05-18T14:01:49.000Z",
       "start_scheduled": "2026-05-18T14:00:00.000Z",
       "start_actual": "2026-05-18T14:01:49.000Z",
-      "live_viewers": 3020,
+      "live_viewers": 3057,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-18T14:06:04.000Z",
       "start_scheduled": "2026-05-18T14:00:00.000Z",
       "start_actual": "2026-05-18T14:06:04.000Z",
-      "live_viewers": 8954,
+      "live_viewers": 8994,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-18T14:31:54.000Z",
       "start_scheduled": "2026-05-18T14:30:00.000Z",
       "start_actual": "2026-05-18T14:31:54.000Z",
-      "live_viewers": 280,
+      "live_viewers": 269,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
