@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779120559,
+  "cached_at": 1779120619,
   "lives": {
     "UC1iA6_NT4mtAcIII6ygrvCw": {
       "video_id": "5_7Ps8nrmqk",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-18T13:01:39.000Z",
       "start_scheduled": "2026-05-18T13:00:00.000Z",
       "start_actual": "2026-05-18T13:01:39.000Z",
-      "live_viewers": 6757,
+      "live_viewers": 6601,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvInZx9h3jC2JzsIzoOebWg": {
-      "video_id": "mf1oVanYMIc",
-      "title": "【Super Chat】いつもありがとう!お礼&ゆる雑談【不知火フレア/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Superchat_Reading",
-      "published_at": "2026-05-18T10:42:48.000Z",
-      "available_at": "2026-05-18T13:03:00.000Z",
-      "start_scheduled": "2026-05-18T13:00:00.000Z",
-      "start_actual": "2026-05-18T13:03:00.000Z",
-      "live_viewers": 1559,
-      "channel": {
-        "id": "UCvInZx9h3jC2JzsIzoOebWg",
-        "name": "Flare Ch. 不知火フレア",
-        "english_name": "Shiranui Flare",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCjk2nKmHzgH5Xy-C5qYRd5A": {
@@ -111,7 +91,7 @@
       "available_at": "2026-05-18T14:00:40.000Z",
       "start_scheduled": "2026-05-18T14:00:00.000Z",
       "start_actual": "2026-05-18T14:00:40.000Z",
-      "live_viewers": 25659,
+      "live_viewers": 26248,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-18T14:01:49.000Z",
       "start_scheduled": "2026-05-18T14:00:00.000Z",
       "start_actual": "2026-05-18T14:01:49.000Z",
-      "live_viewers": 2915,
+      "live_viewers": 3009,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-18T14:06:04.000Z",
       "start_scheduled": "2026-05-18T14:00:00.000Z",
       "start_actual": "2026-05-18T14:06:04.000Z",
-      "live_viewers": 9274,
+      "live_viewers": 9326,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-18T14:32:13.000Z",
       "start_scheduled": "2026-05-18T14:30:00.000Z",
       "start_actual": "2026-05-18T14:32:13.000Z",
-      "live_viewers": 192,
+      "live_viewers": 190,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-18T15:59:29.000Z",
       "start_scheduled": "2026-05-18T16:00:00.000Z",
       "start_actual": "2026-05-18T15:59:29.000Z",
-      "live_viewers": 705,
+      "live_viewers": 855,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
