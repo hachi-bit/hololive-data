@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779095119,
+  "cached_at": 1779095180,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "l607P8gscac",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-18T04:00:21.000Z",
       "start_scheduled": "2026-05-18T04:00:00.000Z",
       "start_actual": "2026-05-18T04:00:21.000Z",
-      "live_viewers": 2665,
+      "live_viewers": 2592,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -106,12 +106,12 @@
       "title": "【League of Legends】GAME 3 - Our Third official game!! #LRWIN【LTK】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "League_of_Legends",
       "published_at": "2026-05-18T08:02:35.000Z",
       "available_at": "2026-05-18T08:10:59.000Z",
       "start_scheduled": "2026-05-18T09:15:00.000Z",
       "start_actual": "2026-05-18T08:10:59.000Z",
-      "live_viewers": 167,
+      "live_viewers": 161,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-18T08:59:17.000Z",
       "start_scheduled": "2026-05-18T09:00:00.000Z",
       "start_actual": "2026-05-18T08:59:17.000Z",
-      "live_viewers": 2944,
+      "live_viewers": 5401,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -139,25 +139,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "6g_9FPUbp64",
-      "title": "【 スーパーマリオワールド 】完全初見！スペシャルコースに挑戦！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Super_Mario",
-      "published_at": "2026-05-18T02:50:53.000Z",
-      "available_at": "2026-05-18T09:00:00.000Z",
-      "start_scheduled": "2026-05-18T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "english_name": "Kikirara Vivi",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCK9V2B22uJYu3N7eR_BT9QA": {
@@ -178,6 +159,26 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "6g_9FPUbp64",
+      "title": "【 スーパーマリオワールド 】完全初見!スペシャルコースに挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Super_Mario",
+      "published_at": "2026-05-18T02:50:53.000Z",
+      "available_at": "2026-05-18T09:01:22.000Z",
+      "start_scheduled": "2026-05-18T09:00:00.000Z",
+      "start_actual": "2026-05-18T09:01:22.000Z",
+      "live_viewers": 2103,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
