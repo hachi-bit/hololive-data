@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779073399,
+  "cached_at": 1779073460,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "Q8PQ-0f6-Iw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-18T01:00:29.000Z",
       "start_scheduled": "2026-05-18T01:00:00.000Z",
       "start_actual": "2026-05-18T01:00:29.000Z",
-      "live_viewers": 8711,
+      "live_viewers": 8568,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-18T02:02:06.000Z",
       "start_scheduled": "2026-05-18T02:00:00.000Z",
       "start_actual": "2026-05-18T02:02:06.000Z",
-      "live_viewers": 515,
+      "live_viewers": 538,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-18T02:28:55.000Z",
       "start_scheduled": "2026-05-18T02:30:00.000Z",
       "start_actual": "2026-05-18T02:28:55.000Z",
-      "live_viewers": 1141,
+      "live_viewers": 1137,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-18T02:58:33.000Z",
       "start_scheduled": "2026-05-18T03:00:00.000Z",
       "start_actual": "2026-05-18T02:58:33.000Z",
-      "live_viewers": 1052,
+      "live_viewers": 1757,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
@@ -101,25 +101,6 @@
         "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCFKOVgVbGmX65RxO3EtH3iw": {
-      "video_id": "w55NZqdvBF4",
-      "title": "【昼雑談】朝は体調がいいのだよ【雪花ラミィ /ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-18T02:50:14.000Z",
-      "available_at": "2026-05-18T03:00:00.000Z",
-      "start_scheduled": "2026-05-18T03:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
-        "name": "Lamy Ch. 雪花ラミィ",
-        "english_name": "Yukihana Lamy",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "l607P8gscac",
       "title": "【TOMODACHI LIFE: LIVING THE DREAM】MY OWN DIGITAL CIRCUS + ADDING SORAWRITY-SONAS",
@@ -127,9 +108,10 @@
       "status": "live",
       "topic_id": "Tomodachi_Life",
       "published_at": "2026-05-16T09:19:33.000Z",
-      "available_at": "2026-05-18T03:00:00.000Z",
+      "available_at": "2026-05-18T03:00:30.000Z",
       "start_scheduled": "2026-05-18T03:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-18T03:00:30.000Z",
+      "live_viewers": 125,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -137,6 +119,26 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFKOVgVbGmX65RxO3EtH3iw": {
+      "video_id": "w55NZqdvBF4",
+      "title": "【昼雑談】朝は体調がいいのだよ【雪花ラミィ /ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-18T02:50:14.000Z",
+      "available_at": "2026-05-18T03:00:35.000Z",
+      "start_scheduled": "2026-05-18T03:00:00.000Z",
+      "start_actual": "2026-05-18T03:00:35.000Z",
+      "live_viewers": 2285,
+      "channel": {
+        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+        "name": "Lamy Ch. 雪花ラミィ",
+        "english_name": "Yukihana Lamy",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
