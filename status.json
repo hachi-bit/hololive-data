@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779103579,
+  "cached_at": 1779103639,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "l607P8gscac",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-18T07:06:16.000Z",
       "start_scheduled": "2026-05-18T07:00:00.000Z",
       "start_actual": "2026-05-18T07:06:16.000Z",
-      "live_viewers": 382,
+      "live_viewers": 410,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-18T08:59:17.000Z",
       "start_scheduled": "2026-05-18T09:00:00.000Z",
       "start_actual": "2026-05-18T08:59:17.000Z",
-      "live_viewers": 12107,
+      "live_viewers": 12542,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-18T11:00:49.000Z",
       "start_scheduled": "2026-05-18T11:00:00.000Z",
       "start_actual": "2026-05-18T11:00:49.000Z",
-      "live_viewers": 6057,
+      "live_viewers": 6234,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-18T11:01:14.000Z",
       "start_scheduled": "2026-05-18T11:00:00.000Z",
       "start_actual": "2026-05-18T11:01:14.000Z",
-      "live_viewers": 9856,
+      "live_viewers": 10251,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -203,7 +203,7 @@
     },
     "UCJFZiqLMntJufDCHc6bQixg": {
       "video_id": "lWo6MbYYEBQ",
-      "title": "【DXプラン限定】公式番組 #ホロさし 生アフタートーク！【ルイこぼ】",
+      "title": "【DXプラン限定】公式番組 #ホロさし 生アフタートーク!【ルイこぼ】",
       "type": "stream",
       "status": "live",
       "topic_id": "membersonly",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-18T11:10:11.000Z",
       "start_scheduled": "2026-05-18T11:10:00.000Z",
       "start_actual": "2026-05-18T11:10:11.000Z",
-      "live_viewers": 2700,
+      "live_viewers": 0,
       "channel": {
         "id": "UCJFZiqLMntJufDCHc6bQixg",
         "name": "hololive ホロライブ - VTuber Group",
