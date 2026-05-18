@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779119300,
+  "cached_at": 1779119361,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "q60ejXSd794",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-18T12:03:15.000Z",
       "start_scheduled": "2026-05-18T12:00:00.000Z",
       "start_actual": "2026-05-18T12:03:15.000Z",
-      "live_viewers": 11485,
+      "live_viewers": 9767,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-18T13:00:36.000Z",
       "start_scheduled": "2026-05-18T13:00:00.000Z",
       "start_actual": "2026-05-18T13:00:36.000Z",
-      "live_viewers": 9054,
+      "live_viewers": 9003,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-18T13:01:39.000Z",
       "start_scheduled": "2026-05-18T13:00:00.000Z",
       "start_actual": "2026-05-18T13:01:39.000Z",
-      "live_viewers": 6503,
+      "live_viewers": 6628,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-18T13:30:30.000Z",
       "start_scheduled": "2026-05-18T13:30:00.000Z",
       "start_actual": "2026-05-18T13:30:30.000Z",
-      "live_viewers": 8279,
+      "live_viewers": 8847,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCTvHWSfBZgtxE4sILOaurIQ": {
-      "video_id": "SJJsMa0PZUM",
-      "title": "【Cursed Companions】-⩊- hungry for blood~",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Cursed_Companions",
-      "published_at": "2026-05-17T15:47:27.000Z",
-      "available_at": "2026-05-18T13:30:36.000Z",
-      "start_scheduled": "2026-05-18T13:30:00.000Z",
-      "start_actual": "2026-05-18T13:30:36.000Z",
-      "live_viewers": 1023,
-      "channel": {
-        "id": "UCTvHWSfBZgtxE4sILOaurIQ",
-        "name": "Vestia Zeta Ch. hololive-ID",
-        "english_name": "Vestia Zeta",
-        "org": "Hololive",
-        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-        "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
@@ -151,7 +131,7 @@
       "available_at": "2026-05-18T13:31:59.000Z",
       "start_scheduled": "2026-05-18T13:30:00.000Z",
       "start_actual": "2026-05-18T13:31:59.000Z",
-      "live_viewers": 2201,
+      "live_viewers": 1641,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -179,26 +159,6 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC727SQYUvx5pDDGQpTICNWg": {
-      "video_id": "ckJMgnQ80pU",
-      "title": "【Cursed Companions】I'M NOT CURSED.【hololive ID 2nd Generation | Anya Melfissa】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Cursed_Companions",
-      "published_at": "2026-05-18T10:23:04.000Z",
-      "available_at": "2026-05-18T13:35:54.000Z",
-      "start_scheduled": "2026-05-18T13:30:00.000Z",
-      "start_actual": "2026-05-18T13:35:54.000Z",
-      "live_viewers": 757,
-      "channel": {
-        "id": "UC727SQYUvx5pDDGQpTICNWg",
-        "name": "Anya Melfissa Ch. hololive-ID",
-        "english_name": "Anya Melfissa",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1DCedRgGHBdm81E1llLhOQ": {
@@ -231,7 +191,7 @@
       "available_at": "2026-05-18T14:01:49.000Z",
       "start_scheduled": "2026-05-18T14:00:00.000Z",
       "start_actual": "2026-05-18T14:01:49.000Z",
-      "live_viewers": 2811,
+      "live_viewers": 2844,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -251,7 +211,7 @@
       "available_at": "2026-05-18T14:06:04.000Z",
       "start_scheduled": "2026-05-18T14:00:00.000Z",
       "start_actual": "2026-05-18T14:06:04.000Z",
-      "live_viewers": 9369,
+      "live_viewers": 9383,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
