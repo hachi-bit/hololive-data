@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779077059,
+  "cached_at": 1779077120,
   "lives": {
-    "UCL_qhgtOy0dy1Agp8vkySQg": {
-      "video_id": "Q8PQ-0f6-Iw",
-      "title": "【PaRappa the Rapper】i gotta believe!! #calliolive",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "PaRappa_the_Rapper",
-      "published_at": "2026-05-16T06:10:08.000Z",
-      "available_at": "2026-05-18T01:00:29.000Z",
-      "start_scheduled": "2026-05-18T01:00:00.000Z",
-      "start_actual": "2026-05-18T01:00:29.000Z",
-      "live_viewers": 5377,
-      "channel": {
-        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-        "name": "Mori Calliope Ch. hololive-EN",
-        "english_name": "Mori Calliope",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "5iyg7eIQwnM",
       "title": "【HANDCAM】MOE MOE HAK-KYUUUUUUUN~ ‧₊˚ ⋅* ‧₊ WELCOME TO HAKKITO MAID CAFE -`♡´-",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-18T02:02:06.000Z",
       "start_scheduled": "2026-05-18T02:00:00.000Z",
       "start_actual": "2026-05-18T02:02:06.000Z",
-      "live_viewers": 462,
+      "live_viewers": 457,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-18T02:06:44.000Z",
       "start_scheduled": "2026-05-18T02:00:00.000Z",
       "start_actual": "2026-05-18T02:06:44.000Z",
-      "live_viewers": 513,
+      "live_viewers": 534,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -81,26 +61,6 @@
         "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCozx5csNhCx1wsVq3SZVkBQ": {
-      "video_id": "7r_WkSK8sTQ",
-      "title": "【確定ガチャ】選んで買える7thフェス衣装ブロマイドが登場!?【昼ホロ/風白ゆき】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "News_Show",
-      "published_at": "2026-05-18T01:55:05.000Z",
-      "available_at": "2026-05-18T02:58:33.000Z",
-      "start_scheduled": "2026-05-18T03:00:00.000Z",
-      "start_actual": "2026-05-18T02:58:33.000Z",
-      "live_viewers": 3308,
-      "channel": {
-        "id": "UCozx5csNhCx1wsVq3SZVkBQ",
-        "name": "holoAN room (ホロアナ)",
-        "english_name": "holoAN room",
-        "org": "Hololive",
-        "suborg": "0hOfficial",
-        "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "l607P8gscac",
       "title": "【TOMODACHI LIFE: LIVING THE DREAM】MY OWN DIGITAL CIRCUS + ADDING SORAWRITY-SONAS",
@@ -111,7 +71,7 @@
       "available_at": "2026-05-18T03:00:30.000Z",
       "start_scheduled": "2026-05-18T03:00:00.000Z",
       "start_actual": "2026-05-18T03:00:30.000Z",
-      "live_viewers": 473,
+      "live_viewers": 502,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -151,7 +111,7 @@
       "available_at": "2026-05-18T04:00:21.000Z",
       "start_scheduled": "2026-05-18T04:00:00.000Z",
       "start_actual": "2026-05-18T04:00:21.000Z",
-      "live_viewers": 484,
+      "live_viewers": 779,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
