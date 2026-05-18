@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779119480,
+  "cached_at": 1779119539,
   "lives": {
-    "UCKMWFR6lAstLa7Vbf5dH7ig": {
-      "video_id": "q60ejXSd794",
-      "title": "【Forza Horizon 6】日本が舞台!!!!!!ドライブしようぜ!!※ネタバレ注意【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Forza",
-      "published_at": "2026-05-17T18:50:37.000Z",
-      "available_at": "2026-05-18T12:03:15.000Z",
-      "start_scheduled": "2026-05-18T12:00:00.000Z",
-      "start_actual": "2026-05-18T12:03:15.000Z",
-      "live_viewers": 9767,
-      "channel": {
-        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "english_name": "Rindo Chihaya",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1iA6_NT4mtAcIII6ygrvCw": {
       "video_id": "5_7Ps8nrmqk",
       "title": "【バイオハザード RE:4】DLCのエイダさん編初見プレイ!【轟はじめ/ReGLOSS】※ネタバレあり注意",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-18T13:00:17.000Z",
       "start_scheduled": "2026-05-18T13:00:00.000Z",
       "start_actual": "2026-05-18T13:00:17.000Z",
-      "live_viewers": 3874,
+      "live_viewers": 3821,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -121,46 +101,6 @@
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCZLZ8Jjx_RN2CXloOmgTHVg": {
-      "video_id": "wHrW3gtFDBc",
-      "title": "【Cursed Companions】help me【hololiveID】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Cursed_Companions",
-      "published_at": "2026-05-16T10:33:35.000Z",
-      "available_at": "2026-05-18T13:31:59.000Z",
-      "start_scheduled": "2026-05-18T13:30:00.000Z",
-      "start_actual": "2026-05-18T13:31:59.000Z",
-      "live_viewers": 1641,
-      "channel": {
-        "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "name": "Kaela Kovalskia Ch. hololive-ID",
-        "english_name": "Kaela Kovalskia",
-        "org": "Hololive",
-        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-        "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCOyYb1c43VlX9rc_lT6NKQw": {
-      "video_id": "VjX6hro5gQM",
-      "title": "#holoid KAWAN TERKUTUK",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Cursed_Companions",
-      "published_at": "2026-05-18T06:36:35.000Z",
-      "available_at": "2026-05-18T13:33:45.000Z",
-      "start_scheduled": "2026-05-18T13:30:00.000Z",
-      "start_actual": "2026-05-18T13:33:45.000Z",
-      "live_viewers": 744,
-      "channel": {
-        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-        "name": "Ayunda Risu Ch. hololive-ID",
-        "english_name": "Ayunda Risu",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "fmE9RA5zC5U",
       "title": "【R.E.P.O.】最近めっちゃ流行っとるねぇ!?~ 俺はREPOをやる。@無限募集SP ~ ぺこ!【ホロライブ/兎田ぺこら】",
@@ -171,7 +111,7 @@
       "available_at": "2026-05-18T14:00:40.000Z",
       "start_scheduled": "2026-05-18T14:00:00.000Z",
       "start_actual": "2026-05-18T14:00:40.000Z",
-      "live_viewers": 27470,
+      "live_viewers": 26542,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -211,7 +151,7 @@
       "available_at": "2026-05-18T14:06:04.000Z",
       "start_scheduled": "2026-05-18T14:00:00.000Z",
       "start_actual": "2026-05-18T14:06:04.000Z",
-      "live_viewers": 9383,
+      "live_viewers": 9354,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -231,7 +171,7 @@
       "available_at": "2026-05-18T14:31:54.000Z",
       "start_scheduled": "2026-05-18T14:30:00.000Z",
       "start_actual": "2026-05-18T14:31:54.000Z",
-      "live_viewers": 261,
+      "live_viewers": 274,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
