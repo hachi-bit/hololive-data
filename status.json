@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779116959,
+  "cached_at": 1779117020,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "q60ejXSd794",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-18T13:00:34.000Z",
       "start_scheduled": "2026-05-18T13:00:00.000Z",
       "start_actual": "2026-05-18T13:00:34.000Z",
-      "live_viewers": 1739,
+      "live_viewers": 1777,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-18T13:00:36.000Z",
       "start_scheduled": "2026-05-18T13:00:00.000Z",
       "start_actual": "2026-05-18T13:00:36.000Z",
-      "live_viewers": 8959,
+      "live_viewers": 9089,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-18T13:01:39.000Z",
       "start_scheduled": "2026-05-18T13:00:00.000Z",
       "start_actual": "2026-05-18T13:01:39.000Z",
-      "live_viewers": 5984,
+      "live_viewers": 6420,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-18T13:03:00.000Z",
       "start_scheduled": "2026-05-18T13:00:00.000Z",
       "start_actual": "2026-05-18T13:03:00.000Z",
-      "live_viewers": 1466,
+      "live_viewers": 1494,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-18T14:00:40.000Z",
       "start_scheduled": "2026-05-18T14:00:00.000Z",
       "start_actual": "2026-05-18T14:00:40.000Z",
-      "live_viewers": 30758,
+      "live_viewers": 30885,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -331,7 +331,7 @@
       "available_at": "2026-05-18T14:32:13.000Z",
       "start_scheduled": "2026-05-18T14:30:00.000Z",
       "start_actual": "2026-05-18T14:32:13.000Z",
-      "live_viewers": 163,
+      "live_viewers": 170,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -339,26 +339,6 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCFTLzh12_nrtzqBPsTCqenA": {
-      "video_id": "UMQVsrCAQCY",
-      "title": "3Dすぺしゃる回!今日のテーマ『 #なんか好きなポーズ 』  #アキちょこナイパレ 第36回 ~ホロライブ深夜ラジオ~",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "3D_Stream",
-      "published_at": "2026-05-11T15:12:39.000Z",
-      "available_at": "2026-05-18T14:38:46.000Z",
-      "start_scheduled": "2026-05-18T14:30:00.000Z",
-      "start_actual": "2026-05-18T14:38:46.000Z",
-      "live_viewers": 5224,
-      "channel": {
-        "id": "UCFTLzh12_nrtzqBPsTCqenA",
-        "name": "アキロゼCh。Vtuber/ホロライブ所属",
-        "english_name": "Aki Rosenthal",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
