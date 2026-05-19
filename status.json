@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779170719,
+  "cached_at": 1779170780,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "a1m7Gsw7UFA",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-19T05:30:16.000Z",
       "start_scheduled": "2026-05-19T05:30:00.000Z",
       "start_actual": "2026-05-19T05:30:16.000Z",
-      "live_viewers": 2065,
+      "live_viewers": 2071,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -128,9 +128,10 @@
       "status": "live",
       "topic_id": "Tomodachi_Life",
       "published_at": "2026-05-19T04:17:57.000Z",
-      "available_at": "2026-05-19T06:00:00.000Z",
+      "available_at": "2026-05-19T06:02:22.000Z",
       "start_scheduled": "2026-05-19T06:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-19T06:02:22.000Z",
+      "live_viewers": 351,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
