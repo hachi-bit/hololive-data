@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779159859,
+  "cached_at": 1779159919,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "a1m7Gsw7UFA",
@@ -41,26 +41,6 @@
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCotXwY6s8pWmuWd_snKYjhg": {
-      "video_id": "9B7puBiWqEQ",
-      "title": "【New Info】Looking back at \"All for One\" together!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "announce",
-      "published_at": "2026-05-13T08:06:22.000Z",
-      "available_at": "2026-05-19T01:47:08.000Z",
-      "start_scheduled": "2026-05-19T01:50:00.000Z",
-      "start_actual": "2026-05-19T01:47:08.000Z",
-      "live_viewers": 8658,
-      "channel": {
-        "id": "UCotXwY6s8pWmuWd_snKYjhg",
-        "name": "hololive English",
-        "english_name": "",
-        "org": "Hololive",
-        "suborg": "0dOfficial",
-        "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCYz_5n-uDuChHtLo7My1HnQ": {
       "video_id": "HF3tzZ13zu8",
       "title": "【FREETALK】 YAPS?? CHATS?? YEAH, ALL THAT JAZZ!! 【Kureiji Ollie】",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-19T02:01:05.000Z",
       "start_scheduled": "2026-05-19T02:00:00.000Z",
       "start_actual": "2026-05-19T02:01:05.000Z",
-      "live_viewers": 1154,
+      "live_viewers": 1547,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -99,6 +79,26 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6t3-_N8A6ME1JShZHHqOMw": {
+      "video_id": "veXkk1HvD6M",
+      "title": "#3【パラノマサイト FILE38 伊勢人魚物語】実際に人魚がいるなら可愛い子で頼む。【花咲みやび/ホロスターズ】【ネタバレあり】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Paranormasight",
+      "published_at": "2026-05-17T23:46:40.000Z",
+      "available_at": "2026-05-19T03:01:39.000Z",
+      "start_scheduled": "2026-05-19T03:00:00.000Z",
+      "start_actual": "2026-05-19T03:01:39.000Z",
+      "live_viewers": 79,
+      "channel": {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "english_name": "Hanasaki Miyabi",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
