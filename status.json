@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779195922,
+  "cached_at": 1779195979,
   "lives": {
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "Z7Aq9bVk9Vc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-19T09:02:43.000Z",
       "start_scheduled": "2026-05-19T09:00:00.000Z",
       "start_actual": "2026-05-19T09:02:43.000Z",
-      "live_viewers": 1788,
+      "live_viewers": 1781,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-19T09:58:36.000Z",
       "start_scheduled": "2026-05-19T10:00:00.000Z",
       "start_actual": "2026-05-19T09:58:36.000Z",
-      "live_viewers": 3247,
+      "live_viewers": 3223,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-19T11:00:05.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:05.000Z",
-      "live_viewers": 7929,
+      "live_viewers": 7837,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-19T11:00:06.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:06.000Z",
-      "live_viewers": 31164,
+      "live_viewers": 31250,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-19T11:00:27.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:27.000Z",
-      "live_viewers": 7192,
+      "live_viewers": 7346,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-19T12:02:01.000Z",
       "start_scheduled": "2026-05-19T12:00:00.000Z",
       "start_actual": "2026-05-19T12:02:01.000Z",
-      "live_viewers": 57285,
+      "live_viewers": 54521,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-19T12:06:09.000Z",
       "start_scheduled": "2026-05-19T12:00:00.000Z",
       "start_actual": "2026-05-19T12:06:09.000Z",
-      "live_viewers": 86,
+      "live_viewers": 78,
       "channel": {
         "id": "UCez5D_dtExDJzQOAzg1k1RQ",
         "name": "折咲もしゅch-Moshu Orisaki-",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-19T12:30:29.000Z",
       "start_scheduled": "2026-05-19T12:30:00.000Z",
       "start_actual": "2026-05-19T12:30:29.000Z",
-      "live_viewers": 977,
+      "live_viewers": 941,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-19T12:35:35.000Z",
       "start_scheduled": "2026-05-19T12:30:00.000Z",
       "start_actual": "2026-05-19T12:35:35.000Z",
-      "live_viewers": 406,
+      "live_viewers": 408,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-19T12:59:41.000Z",
       "start_scheduled": "2026-05-19T13:00:00.000Z",
       "start_actual": "2026-05-19T12:59:41.000Z",
-      "live_viewers": 4291,
+      "live_viewers": 5618,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -299,44 +299,6 @@
         "org": "Hololive",
         "suborg": "0w0th Generation",
         "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC-hM6YJuNYVAmUWxeIr9FeA": {
-      "video_id": "n1AjPHS9Ep0",
-      "title": "【メンバー限定 】サイン書きしないとやばぃ････ざつだん!【ホロライブ/さくらみこ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-19T06:56:49.000Z",
-      "available_at": "2026-05-19T13:00:00.000Z",
-      "start_scheduled": "2026-05-19T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-        "name": "Miko Ch. さくらみこ",
-        "english_name": "Sakura Miko",
-        "org": "Hololive",
-        "suborg": "0y0th Generation",
-        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCqm3BQLlJfvkTsX_hvm0UmA": {
-      "video_id": "aU3SOPOCIvw",
-      "title": "【 トモダチコレクション わくわく生活 】新しい仲間(フブちゃん)参戦!今日はういちゃん作る!!【角巻わため/ホロライブ4期生】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-18T23:23:09.000Z",
-      "available_at": "2026-05-19T13:00:00.000Z",
-      "start_scheduled": "2026-05-19T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-        "name": "Watame Ch. 角巻わため",
-        "english_name": "Tsunomaki Watame",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCL_qhgtOy0dy1Agp8vkySQg": {
@@ -358,6 +320,44 @@
         "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UC-hM6YJuNYVAmUWxeIr9FeA": {
+      "video_id": "n1AjPHS9Ep0",
+      "title": "【メンバー限定 】サイン書きしないとやばぃ････ざつだん！【ホロライブ/さくらみこ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-19T06:56:49.000Z",
+      "available_at": "2026-05-19T13:00:00.000Z",
+      "start_scheduled": "2026-05-19T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+        "name": "Miko Ch. さくらみこ",
+        "english_name": "Sakura Miko",
+        "org": "Hololive",
+        "suborg": "0y0th Generation",
+        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "aU3SOPOCIvw",
+      "title": "【 トモダチコレクション わくわく生活 】新しい仲間（フブちゃん）参戦！今日はういちゃん作る！！【角巻わため/ホロライブ４期生】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-18T23:23:09.000Z",
+      "available_at": "2026-05-19T13:00:00.000Z",
+      "start_scheduled": "2026-05-19T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UC1iA6_NT4mtAcIII6ygrvCw": {
       "video_id": "jSOt8vk26Nw",
       "title": "【バイオハザード RE:4】DLCのエイダさん編初見プレイ!【轟はじめ/ReGLOSS】※ネタバレあり注意",
@@ -368,7 +368,7 @@
       "available_at": "2026-05-19T13:00:14.000Z",
       "start_scheduled": "2026-05-19T13:00:00.000Z",
       "start_actual": "2026-05-19T13:00:14.000Z",
-      "live_viewers": 1000,
+      "live_viewers": 1382,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -388,7 +388,7 @@
       "available_at": "2026-05-19T13:00:56.000Z",
       "start_scheduled": "2026-05-19T13:00:00.000Z",
       "start_actual": "2026-05-19T13:00:56.000Z",
-      "live_viewers": 2148,
+      "live_viewers": 4038,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -408,7 +408,7 @@
       "available_at": "2026-05-19T13:01:00.000Z",
       "start_scheduled": "2026-05-19T13:00:00.000Z",
       "start_actual": "2026-05-19T13:01:00.000Z",
-      "live_viewers": 2258,
+      "live_viewers": 3949,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -428,7 +428,7 @@
       "available_at": "2026-05-19T13:01:32.000Z",
       "start_scheduled": "2026-05-19T13:00:00.000Z",
       "start_actual": "2026-05-19T13:01:32.000Z",
-      "live_viewers": 1007,
+      "live_viewers": 2862,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
