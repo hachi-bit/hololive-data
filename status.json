@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779192739,
+  "cached_at": 1779192799,
   "lives": {
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "Z7Aq9bVk9Vc",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-19T09:58:36.000Z",
       "start_scheduled": "2026-05-19T10:00:00.000Z",
       "start_actual": "2026-05-19T09:58:36.000Z",
-      "live_viewers": 3431,
+      "live_viewers": 3307,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-19T10:30:15.000Z",
       "start_scheduled": "2026-05-19T10:30:00.000Z",
       "start_actual": "2026-05-19T10:30:15.000Z",
-      "live_viewers": 8701,
+      "live_viewers": 8370,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-19T10:59:59.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T10:59:59.000Z",
-      "live_viewers": 4886,
+      "live_viewers": 5150,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-19T11:00:05.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:05.000Z",
-      "live_viewers": 8073,
+      "live_viewers": 8080,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-19T11:00:06.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:06.000Z",
-      "live_viewers": 32525,
+      "live_viewers": 32299,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -181,26 +181,6 @@
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
-      "video_id": "nOcCd0Tr3i8",
-      "title": "【いえのあじ】ホラーが苦手な約束守るいい子です✋【水宮枢/ホロライブDEV_IS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "A_taste_of_home",
-      "published_at": "2026-05-18T18:18:13.000Z",
-      "available_at": "2026-05-19T11:00:31.000Z",
-      "start_scheduled": "2026-05-19T11:00:00.000Z",
-      "start_actual": "2026-05-19T11:00:31.000Z",
-      "live_viewers": 2474,
-      "channel": {
-        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-        "name": "Su Ch. 水宮枢 - FLOW GLOW",
-        "english_name": "Mizumiya Su",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCc88OV45ICgHbn3ZqLLb52w": {
       "video_id": "vKGTWiOyOvs",
       "title": "APEX|フルパで遊べるドン - 夜十神封魔 × 折咲もしゅ × 鴉紋ゆうく",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-19T12:00:32.000Z",
       "start_scheduled": "2026-05-19T12:00:00.000Z",
       "start_actual": "2026-05-19T12:00:32.000Z",
-      "live_viewers": 158,
+      "live_viewers": 163,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-19T12:02:01.000Z",
       "start_scheduled": "2026-05-19T12:00:00.000Z",
       "start_actual": "2026-05-19T12:02:01.000Z",
-      "live_viewers": 44419,
+      "live_viewers": 48855,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-19T12:06:09.000Z",
       "start_scheduled": "2026-05-19T12:00:00.000Z",
       "start_actual": "2026-05-19T12:06:09.000Z",
-      "live_viewers": 48,
+      "live_viewers": 43,
       "channel": {
         "id": "UCez5D_dtExDJzQOAzg1k1RQ",
         "name": "折咲もしゅch-Moshu Orisaki-",
