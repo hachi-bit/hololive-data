@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779186679,
+  "cached_at": 1779186739,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "Wv_3JLCqSm4",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-19T09:07:45.000Z",
       "start_scheduled": "2026-05-19T09:00:00.000Z",
       "start_actual": "2026-05-19T09:07:45.000Z",
-      "live_viewers": 7343,
+      "live_viewers": 6172,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-19T09:58:36.000Z",
       "start_scheduled": "2026-05-19T10:00:00.000Z",
       "start_actual": "2026-05-19T09:58:36.000Z",
-      "live_viewers": 3453,
+      "live_viewers": 3581,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-19T09:59:38.000Z",
       "start_scheduled": "2026-05-19T10:00:00.000Z",
       "start_actual": "2026-05-19T09:59:38.000Z",
-      "live_viewers": 12801,
+      "live_viewers": 13276,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-19T09:59:52.000Z",
       "start_scheduled": "2026-05-19T10:00:00.000Z",
       "start_actual": "2026-05-19T09:59:52.000Z",
-      "live_viewers": 2160,
+      "live_viewers": 2198,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -139,6 +139,26 @@
         "org": "Hololive",
         "suborg": "0v0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp-5t9SrOQwXMU7iIjQfARg": {
+      "video_id": "4RDKTv3ah7w",
+      "title": "【 MOTHER2 】超名作MOTHER2を完全初見プレイ!【#04】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "EarthBound",
+      "published_at": "2026-05-19T04:45:54.000Z",
+      "available_at": "2026-05-19T10:30:15.000Z",
+      "start_scheduled": "2026-05-19T10:30:00.000Z",
+      "start_actual": "2026-05-19T10:30:15.000Z",
+      "live_viewers": 2124,
+      "channel": {
+        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+        "name": "Mio Channel 大神ミオ",
+        "english_name": "Ookami Mio",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
