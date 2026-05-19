@@ -1,12 +1,12 @@
 {
-  "cached_at": 1779228561,
+  "cached_at": 1779228656,
   "lives": {
     "UCHP4f7G2dWD4qib7BMatGAw": {
       "video_id": "s7Lns1DP2Cc",
       "title": "[WEEK IN REVIEW] WHERE IS PHANTOM?",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "talk",
       "published_at": "2026-05-19T17:01:16.000Z",
       "available_at": "2026-05-19T21:00:00.000Z",
       "start_scheduled": "2026-05-19T21:00:00.000Z",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-19T21:46:31.000Z",
       "start_scheduled": "2026-05-19T21:45:00.000Z",
       "start_actual": "2026-05-19T21:46:31.000Z",
-      "live_viewers": 131,
+      "live_viewers": 125,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
