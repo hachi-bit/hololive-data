@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779166279,
+  "cached_at": 1779166340,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "a1m7Gsw7UFA",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-19T00:19:42.000Z",
       "start_scheduled": "2026-05-19T00:15:00.000Z",
       "start_actual": "2026-05-19T00:19:42.000Z",
-      "live_viewers": 763,
+      "live_viewers": 725,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCYz_5n-uDuChHtLo7My1HnQ": {
-      "video_id": "HF3tzZ13zu8",
-      "title": "【FREETALK】 YAPS?? CHATS?? YEAH, ALL THAT JAZZ!! 【Kureiji Ollie】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-19T01:14:46.000Z",
-      "available_at": "2026-05-19T02:01:05.000Z",
-      "start_scheduled": "2026-05-19T02:00:00.000Z",
-      "start_actual": "2026-05-19T02:01:05.000Z",
-      "live_viewers": 1542,
-      "channel": {
-        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
-        "name": "Kureiji Ollie Ch. hololive-ID",
-        "english_name": "Kureiji Ollie",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCMqGG8BRAiI1lJfKOpETM_w": {
@@ -131,7 +111,7 @@
       "available_at": "2026-05-19T04:32:47.000Z",
       "start_scheduled": "2026-05-19T04:30:00.000Z",
       "start_actual": "2026-05-19T04:32:47.000Z",
-      "live_viewers": 990,
+      "live_viewers": 1842,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
