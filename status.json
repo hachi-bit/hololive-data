@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779203659,
+  "cached_at": 1779203719,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "XgrymfHfctw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-19T09:58:36.000Z",
       "start_scheduled": "2026-05-19T10:00:00.000Z",
       "start_actual": "2026-05-19T09:58:36.000Z",
-      "live_viewers": 2986,
+      "live_viewers": 3007,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp-5t9SrOQwXMU7iIjQfARg": {
-      "video_id": "4RDKTv3ah7w",
-      "title": "【 MOTHER2 】超名作MOTHER2を完全初見プレイ!【#04】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "EarthBound",
-      "published_at": "2026-05-19T04:45:54.000Z",
-      "available_at": "2026-05-19T10:30:15.000Z",
-      "start_scheduled": "2026-05-19T10:30:00.000Z",
-      "start_actual": "2026-05-19T10:30:15.000Z",
-      "live_viewers": 8691,
-      "channel": {
-        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-        "name": "Mio Channel 大神ミオ",
-        "english_name": "Ookami Mio",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
@@ -51,7 +31,7 @@
       "available_at": "2026-05-19T10:59:58.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T10:59:58.000Z",
-      "live_viewers": 14654,
+      "live_viewers": 14840,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-19T12:06:09.000Z",
       "start_scheduled": "2026-05-19T12:00:00.000Z",
       "start_actual": "2026-05-19T12:06:09.000Z",
-      "live_viewers": 66,
+      "live_viewers": 69,
       "channel": {
         "id": "UCez5D_dtExDJzQOAzg1k1RQ",
         "name": "折咲もしゅch-Moshu Orisaki-",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-19T13:04:15.000Z",
       "start_scheduled": "2026-05-19T13:00:00.000Z",
       "start_actual": "2026-05-19T13:04:15.000Z",
-      "live_viewers": 7726,
+      "live_viewers": 7904,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -371,7 +351,7 @@
       "available_at": "2026-05-19T15:01:02.000Z",
       "start_scheduled": "2026-05-19T15:00:00.000Z",
       "start_actual": "2026-05-19T15:01:02.000Z",
-      "live_viewers": 476,
+      "live_viewers": 507,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
