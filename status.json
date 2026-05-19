@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779185600,
+  "cached_at": 1779185659,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "Wv_3JLCqSm4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-19T06:02:22.000Z",
       "start_scheduled": "2026-05-19T06:00:00.000Z",
       "start_actual": "2026-05-19T06:02:22.000Z",
-      "live_viewers": 1778,
+      "live_viewers": 1748,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-19T08:00:48.000Z",
       "start_scheduled": "2026-05-19T08:00:00.000Z",
       "start_actual": "2026-05-19T08:00:48.000Z",
-      "live_viewers": 5788,
+      "live_viewers": 5897,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1uv2Oq6kNxgATlCiez59hw": {
-      "video_id": "3AqGSeHa_iI",
-      "title": "【 ダレカレ 】人の認識の「歪み」を体験する…❔️【常闇トワ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "and_Roger",
-      "published_at": "2026-05-19T06:40:42.000Z",
-      "available_at": "2026-05-19T08:59:26.000Z",
-      "start_scheduled": "2026-05-19T09:00:00.000Z",
-      "start_actual": "2026-05-19T08:59:26.000Z",
-      "live_viewers": 2565,
-      "channel": {
-        "id": "UC1uv2Oq6kNxgATlCiez59hw",
-        "name": "Towa Ch. 常闇トワ",
-        "english_name": "Tokoyami Towa",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
@@ -71,7 +51,7 @@
       "available_at": "2026-05-19T09:02:43.000Z",
       "start_scheduled": "2026-05-19T09:00:00.000Z",
       "start_actual": "2026-05-19T09:02:43.000Z",
-      "live_viewers": 2842,
+      "live_viewers": 2881,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-19T09:07:45.000Z",
       "start_scheduled": "2026-05-19T09:00:00.000Z",
       "start_actual": "2026-05-19T09:07:45.000Z",
-      "live_viewers": 7502,
+      "live_viewers": 7054,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-19T09:58:36.000Z",
       "start_scheduled": "2026-05-19T10:00:00.000Z",
       "start_actual": "2026-05-19T09:58:36.000Z",
-      "live_viewers": 2366,
+      "live_viewers": 2516,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-19T09:59:38.000Z",
       "start_scheduled": "2026-05-19T10:00:00.000Z",
       "start_actual": "2026-05-19T09:59:38.000Z",
-      "live_viewers": 9123,
+      "live_viewers": 10318,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-19T09:59:52.000Z",
       "start_scheduled": "2026-05-19T10:00:00.000Z",
       "start_actual": "2026-05-19T09:59:52.000Z",
-      "live_viewers": 1777,
+      "live_viewers": 1892,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
