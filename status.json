@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779229699,
+  "cached_at": 1779229759,
   "lives": {
-    "UCHP4f7G2dWD4qib7BMatGAw": {
-      "video_id": "s7Lns1DP2Cc",
-      "title": "[WEEK IN REVIEW] WHERE IS PHANTOM?",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-19T17:01:16.000Z",
-      "available_at": "2026-05-19T21:00:00.000Z",
-      "start_scheduled": "2026-05-19T21:00:00.000Z",
-      "start_actual": "2026-05-19T21:00:00.000Z",
-      "live_viewers": 830,
-      "channel": {
-        "id": "UCHP4f7G2dWD4qib7BMatGAw",
-        "name": "Gavis Bettel Ch. HOLOSTARS-EN",
-        "english_name": "Gavis Bettel",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "8EXaFCKuH08",
       "title": "【13 SENTINELS: AEGIS RIM】am i close to the yaoi ※ spoiler warning",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-19T21:05:31.000Z",
       "start_scheduled": "2026-05-19T21:00:00.000Z",
       "start_actual": "2026-05-19T21:05:31.000Z",
-      "live_viewers": 4988,
+      "live_viewers": 4955,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-19T21:46:31.000Z",
       "start_scheduled": "2026-05-19T21:45:00.000Z",
       "start_actual": "2026-05-19T21:46:31.000Z",
-      "live_viewers": 141,
+      "live_viewers": 174,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
