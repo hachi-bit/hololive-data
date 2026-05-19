@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779218479,
+  "cached_at": 1779218541,
   "lives": {
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
       "video_id": "aU3SOPOCIvw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-19T13:04:15.000Z",
       "start_scheduled": "2026-05-19T13:00:00.000Z",
       "start_actual": "2026-05-19T13:04:15.000Z",
-      "live_viewers": 8578,
+      "live_viewers": 8431,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCZLZ8Jjx_RN2CXloOmgTHVg": {
-      "video_id": "MdmBWc1nDH0",
-      "title": "【Cupiclaw】WATCH MY MECHA BUILD, PEMALOE 🤖",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-19T09:42:04.000Z",
-      "available_at": "2026-05-19T13:45:28.000Z",
-      "start_scheduled": "2026-05-19T13:45:00.000Z",
-      "start_actual": "2026-05-19T13:45:28.000Z",
-      "live_viewers": 2948,
-      "channel": {
-        "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "name": "Kaela Kovalskia Ch. hololive-ID",
-        "english_name": "Kaela Kovalskia",
-        "org": "Hololive",
-        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-        "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
@@ -68,9 +48,10 @@
       "status": "live",
       "topic_id": "Music_Production",
       "published_at": "2026-05-19T07:01:11.000Z",
-      "available_at": "2026-05-19T19:15:00.000Z",
+      "available_at": "2026-05-19T19:17:00.000Z",
       "start_scheduled": "2026-05-19T19:15:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-19T19:17:00.000Z",
+      "live_viewers": 5482,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
