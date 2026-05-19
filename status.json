@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779204019,
+  "cached_at": 1779204079,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "XgrymfHfctw",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-19T11:00:05.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:05.000Z",
-      "live_viewers": 6981,
+      "live_viewers": 6899,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-19T11:00:27.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:27.000Z",
-      "live_viewers": 6183,
+      "live_viewers": 5944,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-19T13:04:15.000Z",
       "start_scheduled": "2026-05-19T13:00:00.000Z",
       "start_actual": "2026-05-19T13:04:15.000Z",
-      "live_viewers": 8121,
+      "live_viewers": 8146,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -279,26 +279,6 @@
         "org": "Hololive",
         "suborg": "0y0th Generation",
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCAoy6rzhSf4ydcYjJw3WoVg": {
-      "video_id": "bQh1wZF5l0s",
-      "title": "【Subnautica 2】BLUBBLUBBLUBBLUB【 iofi / hololiveID 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Subnautica",
-      "published_at": "2026-05-19T09:42:24.000Z",
-      "available_at": "2026-05-19T13:09:43.000Z",
-      "start_scheduled": "2026-05-19T13:10:00.000Z",
-      "start_actual": "2026-05-19T13:09:43.000Z",
-      "live_viewers": 892,
-      "channel": {
-        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-        "name": "Airani Iofifteen Channel hololive-ID",
-        "english_name": "Airani Iofifteen",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
@@ -331,7 +311,7 @@
       "available_at": "2026-05-19T14:02:54.000Z",
       "start_scheduled": "2026-05-19T14:00:00.000Z",
       "start_actual": "2026-05-19T14:02:54.000Z",
-      "live_viewers": 3675,
+      "live_viewers": 3670,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -351,7 +331,7 @@
       "available_at": "2026-05-19T15:01:02.000Z",
       "start_scheduled": "2026-05-19T15:00:00.000Z",
       "start_actual": "2026-05-19T15:01:02.000Z",
-      "live_viewers": 589,
+      "live_viewers": 628,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
