@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779150199,
+  "cached_at": 1779150259,
   "lives": {
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
       "video_id": "cSicoPFDeqQ",
@@ -28,9 +28,10 @@
       "status": "live",
       "topic_id": "Tomodachi_Life",
       "published_at": "2026-05-18T14:46:43.000Z",
-      "available_at": "2026-05-19T00:15:00.000Z",
+      "available_at": "2026-05-19T00:19:42.000Z",
       "start_scheduled": "2026-05-19T00:15:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-19T00:19:42.000Z",
+      "live_viewers": 196,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
