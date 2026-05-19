@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779165379,
+  "cached_at": 1779165439,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "a1m7Gsw7UFA",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-19T02:01:36.000Z",
       "start_scheduled": "2026-05-19T02:00:00.000Z",
       "start_actual": "2026-05-19T02:01:36.000Z",
-      "live_viewers": 559,
+      "live_viewers": 553,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-19T04:00:31.000Z",
       "start_scheduled": "2026-05-19T04:00:00.000Z",
       "start_actual": "2026-05-19T04:00:31.000Z",
-      "live_viewers": 2376,
+      "live_viewers": 2452,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -128,9 +128,10 @@
       "status": "live",
       "topic_id": "Is_This_Seat_Taken?",
       "published_at": "2026-05-18T17:10:41.000Z",
-      "available_at": "2026-05-19T04:30:00.000Z",
+      "available_at": "2026-05-19T04:32:47.000Z",
       "start_scheduled": "2026-05-19T04:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-19T04:32:47.000Z",
+      "live_viewers": 521,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
