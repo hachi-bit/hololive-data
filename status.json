@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779192198,
+  "cached_at": 1779192259,
   "lives": {
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "Z7Aq9bVk9Vc",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-19T10:30:15.000Z",
       "start_scheduled": "2026-05-19T10:30:00.000Z",
       "start_actual": "2026-05-19T10:30:15.000Z",
-      "live_viewers": 8589,
+      "live_viewers": 8512,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCENwRMx5Yh42zWpzURebzTw": {
-      "video_id": "F3i30BIJmtY",
-      "title": "【3D】おかゆさんへの挑戦状!噓発見器でプライドバトル👊【ラプラス・ダークネス/猫又おかゆ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "3D_Stream",
-      "published_at": "2026-05-18T09:59:27.000Z",
-      "available_at": "2026-05-19T10:57:51.000Z",
-      "start_scheduled": "2026-05-19T11:00:00.000Z",
-      "start_actual": "2026-05-19T10:57:51.000Z",
-      "live_viewers": 32533,
-      "channel": {
-        "id": "UCENwRMx5Yh42zWpzURebzTw",
-        "name": "Laplus ch. ラプラス・ダークネス - holoX -",
-        "english_name": "La+ Darknesss",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
@@ -111,7 +91,7 @@
       "available_at": "2026-05-19T10:59:59.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T10:59:59.000Z",
-      "live_viewers": 4671,
+      "live_viewers": 4886,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-19T11:00:05.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:05.000Z",
-      "live_viewers": 7464,
+      "live_viewers": 8073,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-19T11:00:06.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:06.000Z",
-      "live_viewers": 31370,
+      "live_viewers": 32414,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-19T11:00:18.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:18.000Z",
-      "live_viewers": 2326,
+      "live_viewers": 2597,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-19T11:00:27.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:27.000Z",
-      "live_viewers": 7298,
+      "live_viewers": 7505,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-19T11:00:31.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:31.000Z",
-      "live_viewers": 3227,
+      "live_viewers": 3043,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -219,6 +199,65 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCez5D_dtExDJzQOAzg1k1RQ": {
+      "video_id": "9v-2-g5idjo",
+      "title": "【#APEX】新シーズン!目標プラチナw/ゆうくさん 封魔さん【#折咲もしゅ #MOSHULIVE #REJECT】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "apex",
+      "published_at": "2026-05-18T12:53:58.000Z",
+      "available_at": "2026-05-19T12:00:00.000Z",
+      "start_scheduled": "2026-05-19T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCez5D_dtExDJzQOAzg1k1RQ",
+        "name": "折咲もしゅch-Moshu Orisaki-",
+        "english_name": "Orisaki Moshu",
+        "org": "REJECT",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/Go2Zwoy_FnXEEYwxhVaEvJ7yIii0bc5415GAS7tpWkX-MGVvbvYfp5a6svtSC4isPBvopLbnPA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCc88OV45ICgHbn3ZqLLb52w": {
+      "video_id": "vKGTWiOyOvs",
+      "title": "APEX|フルパで遊べるドン - 夜十神封魔 × 折咲もしゅ × 鴉紋ゆうく",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "apex",
+      "published_at": "2026-05-18T16:59:40.000Z",
+      "available_at": "2026-05-19T12:00:32.000Z",
+      "start_scheduled": "2026-05-19T12:00:00.000Z",
+      "start_actual": "2026-05-19T12:00:32.000Z",
+      "live_viewers": 85,
+      "channel": {
+        "id": "UCc88OV45ICgHbn3ZqLLb52w",
+        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+        "english_name": "Yatogami Fuma",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvzGlP9oQwU--Y0r9id_jnA": {
+      "video_id": "WA8ydBh2t8U",
+      "title": "【#大空スバル200万人】200万人耐久するしゅばあああああああああああああああああああああああああああああああああああああああああ!!!!!!!!!【ホロライブ/大空スバル】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "endurance",
+      "published_at": "2026-05-18T07:26:04.000Z",
+      "available_at": "2026-05-19T12:02:01.000Z",
+      "start_scheduled": "2026-05-19T12:00:00.000Z",
+      "start_actual": "2026-05-19T12:02:01.000Z",
+      "live_viewers": 22205,
+      "channel": {
+        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+        "name": "Subaru Ch. 大空スバル",
+        "english_name": "Oozora Subaru",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
