@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779194361,
+  "cached_at": 1779194421,
   "lives": {
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "Z7Aq9bVk9Vc",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-19T09:58:36.000Z",
       "start_scheduled": "2026-05-19T10:00:00.000Z",
       "start_actual": "2026-05-19T09:58:36.000Z",
-      "live_viewers": 3348,
+      "live_viewers": 3319,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-19T10:30:15.000Z",
       "start_scheduled": "2026-05-19T10:30:00.000Z",
       "start_actual": "2026-05-19T10:30:15.000Z",
-      "live_viewers": 8266,
+      "live_viewers": 8297,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-19T11:00:06.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:06.000Z",
-      "live_viewers": 32740,
+      "live_viewers": 31723,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-19T12:00:32.000Z",
       "start_scheduled": "2026-05-19T12:00:00.000Z",
       "start_actual": "2026-05-19T12:00:32.000Z",
-      "live_viewers": 207,
+      "live_viewers": 199,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-19T12:02:01.000Z",
       "start_scheduled": "2026-05-19T12:00:00.000Z",
       "start_actual": "2026-05-19T12:02:01.000Z",
-      "live_viewers": 66012,
+      "live_viewers": 68694,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-19T12:06:09.000Z",
       "start_scheduled": "2026-05-19T12:00:00.000Z",
       "start_actual": "2026-05-19T12:06:09.000Z",
-      "live_viewers": 79,
+      "live_viewers": 70,
       "channel": {
         "id": "UCez5D_dtExDJzQOAzg1k1RQ",
         "name": "折咲もしゅch-Moshu Orisaki-",
@@ -239,25 +239,6 @@
         "org": "REJECT",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/Go2Zwoy_FnXEEYwxhVaEvJ7yIii0bc5415GAS7tpWkX-MGVvbvYfp5a6svtSC4isPBvopLbnPA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
-      "video_id": "Eiu-4hsl4pU",
-      "title": "【バイオハザード RE:2】初見でやるバイ! # 1【 #奏手イヅル 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-05-18T14:37:06.000Z",
-      "available_at": "2026-05-19T12:30:00.000Z",
-      "start_scheduled": "2026-05-19T12:30:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "name": "Izuru Ch. 奏手イヅル",
-        "english_name": "Kanade Izuru",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCTvHWSfBZgtxE4sILOaurIQ": {
@@ -270,7 +251,7 @@
       "available_at": "2026-05-19T12:30:29.000Z",
       "start_scheduled": "2026-05-19T12:30:00.000Z",
       "start_actual": "2026-05-19T12:30:29.000Z",
-      "live_viewers": 492,
+      "live_viewers": 594,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -278,6 +259,26 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
+      "video_id": "Eiu-4hsl4pU",
+      "title": "【バイオハザード RE:2】初見でやるバイ! # 1【 #奏手イヅル 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-05-18T14:37:06.000Z",
+      "available_at": "2026-05-19T12:35:35.000Z",
+      "start_scheduled": "2026-05-19T12:30:00.000Z",
+      "start_actual": "2026-05-19T12:35:35.000Z",
+      "live_viewers": 259,
+      "channel": {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "english_name": "Kanade Izuru",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
