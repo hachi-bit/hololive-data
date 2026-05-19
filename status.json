@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779170600,
+  "cached_at": 1779170659,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "a1m7Gsw7UFA",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-19T00:19:42.000Z",
       "start_scheduled": "2026-05-19T00:15:00.000Z",
       "start_actual": "2026-05-19T00:19:42.000Z",
-      "live_viewers": 599,
+      "live_viewers": 597,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-19T02:01:36.000Z",
       "start_scheduled": "2026-05-19T02:00:00.000Z",
       "start_actual": "2026-05-19T02:01:36.000Z",
-      "live_viewers": 455,
+      "live_viewers": 442,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-19T04:32:47.000Z",
       "start_scheduled": "2026-05-19T04:30:00.000Z",
       "start_actual": "2026-05-19T04:32:47.000Z",
-      "live_viewers": 2183,
+      "live_viewers": 2188,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-19T05:30:16.000Z",
       "start_scheduled": "2026-05-19T05:30:00.000Z",
       "start_actual": "2026-05-19T05:30:16.000Z",
-      "live_viewers": 2012,
+      "live_viewers": 2065,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -119,6 +119,25 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "Wv_3JLCqSm4",
+      "title": "【Tomodachi Life】Wives Against Yuri Divorce【Pavolia Reine/hololiveID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-19T04:17:57.000Z",
+      "available_at": "2026-05-19T06:00:00.000Z",
+      "start_scheduled": "2026-05-19T06:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
