@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779187399,
+  "cached_at": 1779187459,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "Wv_3JLCqSm4",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-19T08:00:48.000Z",
       "start_scheduled": "2026-05-19T08:00:00.000Z",
       "start_actual": "2026-05-19T08:00:48.000Z",
-      "live_viewers": 6147,
+      "live_viewers": 6086,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-19T09:02:43.000Z",
       "start_scheduled": "2026-05-19T09:00:00.000Z",
       "start_actual": "2026-05-19T09:02:43.000Z",
-      "live_viewers": 2879,
+      "live_viewers": 2779,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "06nUXzjUrQ0",
-      "title": "【 スーパーマリオワールド 】完全初見!初めてのマリオワールドに挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Super_Mario",
-      "published_at": "2026-05-19T04:44:03.000Z",
-      "available_at": "2026-05-19T09:07:45.000Z",
-      "start_scheduled": "2026-05-19T09:00:00.000Z",
-      "start_actual": "2026-05-19T09:07:45.000Z",
-      "live_viewers": 6172,
-      "channel": {
-        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "english_name": "Kikirara Vivi",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCa9Y57gfeY0Zro_noHRVrnw": {
@@ -91,7 +71,7 @@
       "available_at": "2026-05-19T09:58:36.000Z",
       "start_scheduled": "2026-05-19T10:00:00.000Z",
       "start_actual": "2026-05-19T09:58:36.000Z",
-      "live_viewers": 3831,
+      "live_viewers": 4085,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-19T09:59:38.000Z",
       "start_scheduled": "2026-05-19T10:00:00.000Z",
       "start_actual": "2026-05-19T09:59:38.000Z",
-      "live_viewers": 13617,
+      "live_viewers": 13863,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-19T09:59:52.000Z",
       "start_scheduled": "2026-05-19T10:00:00.000Z",
       "start_actual": "2026-05-19T09:59:52.000Z",
-      "live_viewers": 2335,
+      "live_viewers": 2340,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-19T10:30:15.000Z",
       "start_scheduled": "2026-05-19T10:30:00.000Z",
       "start_actual": "2026-05-19T10:30:15.000Z",
-      "live_viewers": 5557,
+      "live_viewers": 6224,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
