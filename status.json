@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779165199,
+  "cached_at": 1779165259,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "a1m7Gsw7UFA",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-19T02:01:36.000Z",
       "start_scheduled": "2026-05-19T02:00:00.000Z",
       "start_actual": "2026-05-19T02:01:36.000Z",
-      "live_viewers": 562,
+      "live_viewers": 559,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-19T04:00:31.000Z",
       "start_scheduled": "2026-05-19T04:00:00.000Z",
       "start_actual": "2026-05-19T04:00:31.000Z",
-      "live_viewers": 2305,
+      "live_viewers": 2376,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -119,6 +119,25 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC727SQYUvx5pDDGQpTICNWg": {
+      "video_id": "YOzemP3x0E0",
+      "title": "【Is This Seat Taken?】HEY, MOVE, THAT'S MY SEAT【hololive ID 2nd Generation | Anya Melfissa】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Is_This_Seat_Taken?",
+      "published_at": "2026-05-18T17:10:41.000Z",
+      "available_at": "2026-05-19T04:30:00.000Z",
+      "start_scheduled": "2026-05-19T04:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC727SQYUvx5pDDGQpTICNWg",
+        "name": "Anya Melfissa Ch. hololive-ID",
+        "english_name": "Anya Melfissa",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
