@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779195799,
+  "cached_at": 1779195859,
   "lives": {
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "Z7Aq9bVk9Vc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-19T09:02:43.000Z",
       "start_scheduled": "2026-05-19T09:00:00.000Z",
       "start_actual": "2026-05-19T09:02:43.000Z",
-      "live_viewers": 1773,
+      "live_viewers": 1788,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-19T09:58:36.000Z",
       "start_scheduled": "2026-05-19T10:00:00.000Z",
       "start_actual": "2026-05-19T09:58:36.000Z",
-      "live_viewers": 3305,
+      "live_viewers": 3247,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-19T10:30:15.000Z",
       "start_scheduled": "2026-05-19T10:30:00.000Z",
       "start_actual": "2026-05-19T10:30:15.000Z",
-      "live_viewers": 8377,
+      "live_viewers": 8347,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-19T10:59:58.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T10:59:58.000Z",
-      "live_viewers": 16588,
+      "live_viewers": 16610,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-19T10:59:59.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T10:59:59.000Z",
-      "live_viewers": 5159,
+      "live_viewers": 5110,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-19T11:00:18.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:18.000Z",
-      "live_viewers": 2632,
+      "live_viewers": 2594,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-19T12:00:32.000Z",
       "start_scheduled": "2026-05-19T12:00:00.000Z",
       "start_actual": "2026-05-19T12:00:32.000Z",
-      "live_viewers": 208,
+      "live_viewers": 213,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-19T12:02:01.000Z",
       "start_scheduled": "2026-05-19T12:00:00.000Z",
       "start_actual": "2026-05-19T12:02:01.000Z",
-      "live_viewers": 61345,
+      "live_viewers": 57285,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-19T12:30:29.000Z",
       "start_scheduled": "2026-05-19T12:30:00.000Z",
       "start_actual": "2026-05-19T12:30:29.000Z",
-      "live_viewers": 956,
+      "live_viewers": 977,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-19T12:35:35.000Z",
       "start_scheduled": "2026-05-19T12:30:00.000Z",
       "start_actual": "2026-05-19T12:35:35.000Z",
-      "live_viewers": 395,
+      "live_viewers": 406,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -279,6 +279,163 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCDqI2jOz0weumE8s7paEk6g": {
+      "video_id": "lST3o0tnrY4",
+      "title": "【復活配信】はろーぼー⚡ただいまですよ~!【ホロライブ/ ロボ子さん 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-15T00:54:23.000Z",
+      "available_at": "2026-05-19T12:59:41.000Z",
+      "start_scheduled": "2026-05-19T13:00:00.000Z",
+      "start_actual": "2026-05-19T12:59:41.000Z",
+      "live_viewers": 4291,
+      "channel": {
+        "id": "UCDqI2jOz0weumE8s7paEk6g",
+        "name": "Roboco Ch. - ロボ子",
+        "english_name": "Robocosan",
+        "org": "Hololive",
+        "suborg": "0w0th Generation",
+        "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC-hM6YJuNYVAmUWxeIr9FeA": {
+      "video_id": "n1AjPHS9Ep0",
+      "title": "【メンバー限定 】サイン書きしないとやばぃ････ざつだん!【ホロライブ/さくらみこ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-19T06:56:49.000Z",
+      "available_at": "2026-05-19T13:00:00.000Z",
+      "start_scheduled": "2026-05-19T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+        "name": "Miko Ch. さくらみこ",
+        "english_name": "Sakura Miko",
+        "org": "Hololive",
+        "suborg": "0y0th Generation",
+        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "aU3SOPOCIvw",
+      "title": "【 トモダチコレクション わくわく生活 】新しい仲間(フブちゃん)参戦!今日はういちゃん作る!!【角巻わため/ホロライブ4期生】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-18T23:23:09.000Z",
+      "available_at": "2026-05-19T13:00:00.000Z",
+      "start_scheduled": "2026-05-19T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCL_qhgtOy0dy1Agp8vkySQg": {
+      "video_id": "RgYlo6xeDqI",
+      "title": "【member's only】evening chat with the skeletons #calliolive",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-18T16:23:11.000Z",
+      "available_at": "2026-05-19T13:00:00.000Z",
+      "start_scheduled": "2026-05-19T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+        "name": "Mori Calliope Ch. hololive-EN",
+        "english_name": "Mori Calliope",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1iA6_NT4mtAcIII6ygrvCw": {
+      "video_id": "jSOt8vk26Nw",
+      "title": "【バイオハザード RE:4】DLCのエイダさん編初見プレイ!【轟はじめ/ReGLOSS】※ネタバレあり注意",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-05-18T16:17:08.000Z",
+      "available_at": "2026-05-19T13:00:14.000Z",
+      "start_scheduled": "2026-05-19T13:00:00.000Z",
+      "start_actual": "2026-05-19T13:00:14.000Z",
+      "live_viewers": 1000,
+      "channel": {
+        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+        "english_name": "Todoroki Hajime",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvaTdHTWBGv3MKj3KVqJVCw": {
+      "video_id": "MMsugGSP4bA",
+      "title": "ｵｼｬﾍﾞﾘ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-19T12:42:04.000Z",
+      "available_at": "2026-05-19T13:00:56.000Z",
+      "start_scheduled": "2026-05-19T13:00:00.000Z",
+      "start_actual": "2026-05-19T13:00:56.000Z",
+      "live_viewers": 2148,
+      "channel": {
+        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+        "name": "Okayu Ch. 猫又おかゆ",
+        "english_name": "Nekomata Okayu",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKMWFR6lAstLa7Vbf5dH7ig": {
+      "video_id": "o5Okw7V3BnM",
+      "title": "【Forza Horizon 6】日本が舞台!!!!!!ドライブしようぜ!!※ネタバレ注意【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-05-18T17:22:03.000Z",
+      "available_at": "2026-05-19T13:01:00.000Z",
+      "start_scheduled": "2026-05-19T13:00:00.000Z",
+      "start_actual": "2026-05-19T13:01:00.000Z",
+      "live_viewers": 2258,
+      "channel": {
+        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+        "english_name": "Rindo Chihaya",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCHsx4Hqa-1ORjQTh9TYDhww": {
+      "video_id": "rN33gIdVEkE",
+      "title": "【HoloEN REWIND】#2 - Recently at HoloEN...最近のホロENはどうしてるの?教えましょう~! #HoloENREWIND",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "News_Show",
+      "published_at": "2026-05-15T12:50:04.000Z",
+      "available_at": "2026-05-19T13:01:32.000Z",
+      "start_scheduled": "2026-05-19T13:00:00.000Z",
+      "start_actual": "2026-05-19T13:01:32.000Z",
+      "live_viewers": 1007,
+      "channel": {
+        "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+        "name": "Takanashi Kiara Ch. hololive-EN",
+        "english_name": "Takanashi Kiara",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
