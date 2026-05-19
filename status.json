@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779192619,
+  "cached_at": 1779192679,
   "lives": {
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "Z7Aq9bVk9Vc",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-19T11:00:06.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:06.000Z",
-      "live_viewers": 32764,
+      "live_viewers": 32525,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-19T11:00:18.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:18.000Z",
-      "live_viewers": 2561,
+      "live_viewers": 2531,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-19T11:00:27.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:27.000Z",
-      "live_viewers": 7505,
+      "live_viewers": 7980,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-19T11:00:31.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:31.000Z",
-      "live_viewers": 3043,
+      "live_viewers": 2474,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -199,25 +199,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCez5D_dtExDJzQOAzg1k1RQ": {
-      "video_id": "9v-2-g5idjo",
-      "title": "【#APEX】新シーズン!目標プラチナw/ゆうくさん 封魔さん【#折咲もしゅ #MOSHULIVE #REJECT】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "apex",
-      "published_at": "2026-05-18T12:53:58.000Z",
-      "available_at": "2026-05-19T12:00:00.000Z",
-      "start_scheduled": "2026-05-19T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCez5D_dtExDJzQOAzg1k1RQ",
-        "name": "折咲もしゅch-Moshu Orisaki-",
-        "english_name": "Orisaki Moshu",
-        "org": "REJECT",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/Go2Zwoy_FnXEEYwxhVaEvJ7yIii0bc5415GAS7tpWkX-MGVvbvYfp5a6svtSC4isPBvopLbnPA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCc88OV45ICgHbn3ZqLLb52w": {
@@ -230,7 +211,7 @@
       "available_at": "2026-05-19T12:00:32.000Z",
       "start_scheduled": "2026-05-19T12:00:00.000Z",
       "start_actual": "2026-05-19T12:00:32.000Z",
-      "live_viewers": 145,
+      "live_viewers": 158,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -250,7 +231,7 @@
       "available_at": "2026-05-19T12:02:01.000Z",
       "start_scheduled": "2026-05-19T12:00:00.000Z",
       "start_actual": "2026-05-19T12:02:01.000Z",
-      "live_viewers": 41423,
+      "live_viewers": 44419,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -258,6 +239,26 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCez5D_dtExDJzQOAzg1k1RQ": {
+      "video_id": "9v-2-g5idjo",
+      "title": "【#APEX】新シーズン!目標プラチナw/ゆうくさん 封魔さん【#折咲もしゅ #MOSHULIVE #REJECT】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "apex",
+      "published_at": "2026-05-18T12:53:58.000Z",
+      "available_at": "2026-05-19T12:06:09.000Z",
+      "start_scheduled": "2026-05-19T12:00:00.000Z",
+      "start_actual": "2026-05-19T12:06:09.000Z",
+      "live_viewers": 48,
+      "channel": {
+        "id": "UCez5D_dtExDJzQOAzg1k1RQ",
+        "name": "折咲もしゅch-Moshu Orisaki-",
+        "english_name": "Orisaki Moshu",
+        "org": "REJECT",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/Go2Zwoy_FnXEEYwxhVaEvJ7yIii0bc5415GAS7tpWkX-MGVvbvYfp5a6svtSC4isPBvopLbnPA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
