@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779198499,
+  "cached_at": 1779198560,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "XgrymfHfctw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-19T09:58:36.000Z",
       "start_scheduled": "2026-05-19T10:00:00.000Z",
       "start_actual": "2026-05-19T09:58:36.000Z",
-      "live_viewers": 2892,
+      "live_viewers": 3040,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-19T10:30:15.000Z",
       "start_scheduled": "2026-05-19T10:30:00.000Z",
       "start_actual": "2026-05-19T10:30:15.000Z",
-      "live_viewers": 8133,
+      "live_viewers": 8390,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-19T11:00:05.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:05.000Z",
-      "live_viewers": 7474,
+      "live_viewers": 7653,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-19T11:00:27.000Z",
       "start_scheduled": "2026-05-19T11:00:00.000Z",
       "start_actual": "2026-05-19T11:00:27.000Z",
-      "live_viewers": 6961,
+      "live_viewers": 7092,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-19T12:59:41.000Z",
       "start_scheduled": "2026-05-19T13:00:00.000Z",
       "start_actual": "2026-05-19T12:59:41.000Z",
-      "live_viewers": 5911,
+      "live_viewers": 6640,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-19T13:00:14.000Z",
       "start_scheduled": "2026-05-19T13:00:00.000Z",
       "start_actual": "2026-05-19T13:00:14.000Z",
-      "live_viewers": 3039,
+      "live_viewers": 3204,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -311,7 +311,7 @@
       "available_at": "2026-05-19T13:01:00.000Z",
       "start_scheduled": "2026-05-19T13:00:00.000Z",
       "start_actual": "2026-05-19T13:01:00.000Z",
-      "live_viewers": 9663,
+      "live_viewers": 11184,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -351,7 +351,7 @@
       "available_at": "2026-05-19T13:01:32.000Z",
       "start_scheduled": "2026-05-19T13:00:00.000Z",
       "start_actual": "2026-05-19T13:01:32.000Z",
-      "live_viewers": 6714,
+      "live_viewers": 7069,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -371,7 +371,7 @@
       "available_at": "2026-05-19T13:04:15.000Z",
       "start_scheduled": "2026-05-19T13:00:00.000Z",
       "start_actual": "2026-05-19T13:04:15.000Z",
-      "live_viewers": 5150,
+      "live_viewers": 6828,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -411,7 +411,7 @@
       "available_at": "2026-05-19T13:09:43.000Z",
       "start_scheduled": "2026-05-19T13:10:00.000Z",
       "start_actual": "2026-05-19T13:09:43.000Z",
-      "live_viewers": 874,
+      "live_viewers": 871,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -419,6 +419,26 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZLZ8Jjx_RN2CXloOmgTHVg": {
+      "video_id": "MdmBWc1nDH0",
+      "title": "【Cupiclaw】WATCH MY MECHA BUILD, PEMALOE 🤖",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-19T09:42:04.000Z",
+      "available_at": "2026-05-19T13:45:28.000Z",
+      "start_scheduled": "2026-05-19T13:45:00.000Z",
+      "start_actual": "2026-05-19T13:45:28.000Z",
+      "live_viewers": 418,
+      "channel": {
+        "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "name": "Kaela Kovalskia Ch. hololive-ID",
+        "english_name": "Kaela Kovalskia",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
