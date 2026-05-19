@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779188419,
+  "cached_at": 1779188481,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "Wv_3JLCqSm4",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-19T09:02:43.000Z",
       "start_scheduled": "2026-05-19T09:00:00.000Z",
       "start_actual": "2026-05-19T09:02:43.000Z",
-      "live_viewers": 2737,
+      "live_viewers": 2822,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-19T09:58:36.000Z",
       "start_scheduled": "2026-05-19T10:00:00.000Z",
       "start_actual": "2026-05-19T09:58:36.000Z",
-      "live_viewers": 4351,
+      "live_viewers": 4545,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp6993wxpyDPHUpavwDFqgg": {
-      "video_id": "miGzPCzcYxU",
-      "title": "【雑談】Stationheadリスニングパーティー前にみんなでおしゃべりをしよう!【ホロライブ/ときのそら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-19T05:27:11.000Z",
-      "available_at": "2026-05-19T09:59:52.000Z",
-      "start_scheduled": "2026-05-19T10:00:00.000Z",
-      "start_actual": "2026-05-19T09:59:52.000Z",
-      "live_viewers": 2400,
-      "channel": {
-        "id": "UCp6993wxpyDPHUpavwDFqgg",
-        "name": "SoraCh. ときのそらチャンネル",
-        "english_name": "Tokino Sora",
-        "org": "Hololive",
-        "suborg": "0v0th Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCp-5t9SrOQwXMU7iIjQfARg": {
@@ -111,7 +91,7 @@
       "available_at": "2026-05-19T10:30:15.000Z",
       "start_scheduled": "2026-05-19T10:30:00.000Z",
       "start_actual": "2026-05-19T10:30:15.000Z",
-      "live_viewers": 8347,
+      "live_viewers": 9318,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -119,6 +99,26 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCENwRMx5Yh42zWpzURebzTw": {
+      "video_id": "F3i30BIJmtY",
+      "title": "【3D】おかゆさんへの挑戦状!噓発見器でプライドバトル👊【ラプラス・ダークネス/猫又おかゆ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "3D_Stream",
+      "published_at": "2026-05-18T09:59:27.000Z",
+      "available_at": "2026-05-19T10:57:51.000Z",
+      "start_scheduled": "2026-05-19T11:00:00.000Z",
+      "start_actual": "2026-05-19T10:57:51.000Z",
+      "live_viewers": 6612,
+      "channel": {
+        "id": "UCENwRMx5Yh42zWpzURebzTw",
+        "name": "Laplus ch. ラプラス・ダークネス - holoX -",
+        "english_name": "La+ Darknesss",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
