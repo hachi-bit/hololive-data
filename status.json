@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779305119,
+  "cached_at": 1779305179,
   "lives": {
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "b7yoX8-z4wM",
-      "title": "【LoL】これな~~~んだ!   / アステル",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-05-20T09:01:25.000Z",
-      "available_at": "2026-05-20T09:07:47.000Z",
-      "start_scheduled": "2026-05-20T09:00:00.000Z",
-      "start_actual": "2026-05-20T09:07:47.000Z",
-      "live_viewers": 239,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
       "video_id": "dXGR0V442ns",
       "title": "【ストリートファイター6】テリー修行【荒咬オウガ /ホロスターズ】",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-20T15:31:17.000Z",
       "start_scheduled": "2026-05-20T15:30:00.000Z",
       "start_actual": "2026-05-20T15:31:17.000Z",
-      "live_viewers": 2033,
+      "live_viewers": 2034,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
