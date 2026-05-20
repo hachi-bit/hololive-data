@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779292459,
+  "cached_at": 1779292519,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "b7yoX8-z4wM",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-20T11:00:31.000Z",
       "start_scheduled": "2026-05-20T11:00:00.000Z",
       "start_actual": "2026-05-20T11:00:31.000Z",
-      "live_viewers": 3335,
+      "live_viewers": 3377,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-20T11:04:16.000Z",
       "start_scheduled": "2026-05-20T11:00:00.000Z",
       "start_actual": "2026-05-20T11:04:16.000Z",
-      "live_viewers": 3072,
+      "live_viewers": 3041,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
-      "video_id": "y9oiuIuHheQ",
-      "title": "【バイオハザード RE:2】初見でやるバイ! # 2【 #奏手イヅル 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-05-19T17:30:47.000Z",
-      "available_at": "2026-05-20T12:33:05.000Z",
-      "start_scheduled": "2026-05-20T12:30:00.000Z",
-      "start_actual": "2026-05-20T12:33:05.000Z",
-      "live_viewers": 410,
-      "channel": {
-        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "name": "Izuru Ch. 奏手イヅル",
-        "english_name": "Kanade Izuru",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
@@ -111,7 +91,7 @@
       "available_at": "2026-05-20T13:01:45.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:01:45.000Z",
-      "live_viewers": 9585,
+      "live_viewers": 9652,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-20T14:18:14.000Z",
       "start_scheduled": "2026-05-20T14:15:00.000Z",
       "start_actual": "2026-05-20T14:18:14.000Z",
-      "live_viewers": 13211,
+      "live_viewers": 12679,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
