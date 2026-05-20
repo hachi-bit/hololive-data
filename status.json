@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779288139,
+  "cached_at": 1779288201,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "b7yoX8-z4wM",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-20T11:04:16.000Z",
       "start_scheduled": "2026-05-20T11:00:00.000Z",
       "start_actual": "2026-05-20T11:04:16.000Z",
-      "live_viewers": 3371,
+      "live_viewers": 3389,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-20T12:10:11.000Z",
       "start_scheduled": "2026-05-20T12:00:00.000Z",
       "start_actual": "2026-05-20T12:10:11.000Z",
-      "live_viewers": 5003,
+      "live_viewers": 4874,
       "channel": {
         "id": "UCvUc0m317LWTTPZoBQV479A",
         "name": "橘ひなの / Hinano Tachibana",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-20T12:10:57.000Z",
       "start_scheduled": "2026-05-20T12:00:00.000Z",
       "start_actual": "2026-05-20T12:10:57.000Z",
-      "live_viewers": 6018,
+      "live_viewers": 5872,
       "channel": {
         "id": "UC5LyYg6cCA4yHEYvtUsir3g",
         "name": "一ノ瀬うるは",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-20T13:00:12.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:00:12.000Z",
-      "live_viewers": 227,
+      "live_viewers": 222,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -198,26 +198,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC_82HBGtvwN1hcGeOGHzUBQ": {
-      "video_id": "_vckdG7-FL8",
-      "title": "【#漢義リーグ】チーム秋麗 顔 合 わ せ !🍁【にじさんじ/空星きらめ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mahjong",
-      "published_at": "2026-05-20T09:32:23.000Z",
-      "available_at": "2026-05-20T13:01:57.000Z",
-      "start_scheduled": "2026-05-20T13:00:00.000Z",
-      "start_actual": "2026-05-20T13:01:57.000Z",
-      "live_viewers": 542,
-      "channel": {
-        "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
-        "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
-        "english_name": "Sorahoshi Kirame",
-        "org": "Nijisanji",
-        "suborg": "1cKiramero",
-        "photo": "https://yt3.ggpht.com/0hwFUTExbP8nb6TT5iRURYq3WJTlotAdcbRohnVGh4ppEnZjKR0l4Qt4oz0KWrOXF0y-ye6LFQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCFTLzh12_nrtzqBPsTCqenA": {
@@ -250,7 +230,7 @@
       "available_at": "2026-05-20T13:02:08.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:02:08.000Z",
-      "live_viewers": 1467,
+      "live_viewers": 1105,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -270,7 +250,7 @@
       "available_at": "2026-05-20T13:03:26.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:03:26.000Z",
-      "live_viewers": 39562,
+      "live_viewers": 38264,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -330,7 +310,7 @@
       "available_at": "2026-05-20T13:53:09.000Z",
       "start_scheduled": "2026-05-20T14:00:00.000Z",
       "start_actual": "2026-05-20T13:53:09.000Z",
-      "live_viewers": 276,
+      "live_viewers": 281,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
@@ -370,7 +350,7 @@
       "available_at": "2026-05-20T14:18:14.000Z",
       "start_scheduled": "2026-05-20T14:15:00.000Z",
       "start_actual": "2026-05-20T14:18:14.000Z",
-      "live_viewers": 7878,
+      "live_viewers": 8234,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
