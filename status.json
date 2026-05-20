@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779235339,
+  "cached_at": 1779235399,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "8EXaFCKuH08",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-19T21:05:31.000Z",
       "start_scheduled": "2026-05-19T21:00:00.000Z",
       "start_actual": "2026-05-19T21:05:31.000Z",
-      "live_viewers": 4348,
+      "live_viewers": 4242,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-19T21:46:31.000Z",
       "start_scheduled": "2026-05-19T21:45:00.000Z",
       "start_actual": "2026-05-19T21:46:31.000Z",
-      "live_viewers": 229,
+      "live_viewers": 231,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-19T22:56:13.000Z",
       "start_scheduled": "2026-05-19T23:00:00.000Z",
       "start_actual": "2026-05-19T22:56:13.000Z",
-      "live_viewers": 4787,
+      "live_viewers": 4935,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -79,6 +79,25 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCajbFh6e_R8QZdHAMbbi4rQ": {
+      "video_id": "U7Ry553zPsA",
+      "title": "LETMEOUTLETMEOUTLETMEOUT【GOGH】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "gogh",
+      "published_at": "2026-05-19T02:43:26.000Z",
+      "available_at": "2026-05-20T00:00:00.000Z",
+      "start_scheduled": "2026-05-20T00:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+        "english_name": "Crimzon Ruze",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
