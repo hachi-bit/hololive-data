@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779315379,
+  "cached_at": 1779315439,
   "lives": {
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
       "video_id": "95po_WCvQ1A",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-20T19:55:14.000Z",
       "start_scheduled": "2026-05-20T20:00:00.000Z",
       "start_actual": "2026-05-20T19:55:14.000Z",
-      "live_viewers": 3781,
+      "live_viewers": 3719,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -46,12 +46,12 @@
       "title": "[SLAY THE SPIRE II] NECROBINDER MASTERED ONTO THE NEXT",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "Slay_the_Spire",
       "published_at": "2026-05-20T20:21:14.000Z",
       "available_at": "2026-05-20T21:00:42.000Z",
       "start_scheduled": "2026-05-20T21:00:00.000Z",
       "start_actual": "2026-05-20T21:00:42.000Z",
-      "live_viewers": 524,
+      "live_viewers": 537,
       "channel": {
         "id": "UCHP4f7G2dWD4qib7BMatGAw",
         "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-20T21:42:51.000Z",
       "start_scheduled": "2026-05-20T21:30:00.000Z",
       "start_actual": "2026-05-20T21:42:51.000Z",
-      "live_viewers": 4851,
+      "live_viewers": 5124,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
