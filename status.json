@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779267859,
+  "cached_at": 1779267921,
   "lives": {
     "UC6t3-_N8A6ME1JShZHHqOMw": {
       "video_id": "5YippEBEQLQ",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-20T02:59:14.000Z",
       "start_scheduled": "2026-05-20T03:00:00.000Z",
       "start_actual": "2026-05-20T02:59:14.000Z",
-      "live_viewers": 382,
+      "live_viewers": 356,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -40,36 +40,36 @@
         "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "xp8neUBUXHk",
-      "title": "【The Henry Stickmin Collection】選択で変わる!?パロディネタだらけの棒人間ゲーム!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "b7yoX8-z4wM",
+      "title": "【LoL】これな~~~んだ!   / アステル",
       "type": "stream",
       "status": "live",
-      "topic_id": "Henry_Stickmin",
-      "published_at": "2026-05-19T20:37:04.000Z",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-05-20T09:01:25.000Z",
       "available_at": "2026-05-20T09:00:00.000Z",
       "start_scheduled": "2026-05-20T09:00:00.000Z",
       "live_viewers": 0,
       "channel": {
-        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "english_name": "Kikirara Vivi",
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
         "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "_BjJJhatU9s",
-      "title": "【ドラゴンボールZ KAKAROT】「TRUNKS 希望の戦士」DLCの続きやっていくよ！【ホロライブ DEV_IS 響咲リオナ】※ネタバレあり",
+      "title": "【ドラゴンボールZ KAKAROT】「TRUNKS 希望の戦士」DLCの続きやっていくよ!【ホロライブ DEV_IS 響咲リオナ】※ネタバレあり",
       "type": "stream",
       "status": "live",
       "topic_id": "Dragon_Ball_Z:_Kakarot",
       "published_at": "2026-05-19T09:57:19.000Z",
-      "available_at": "2026-05-20T09:00:20.000Z",
+      "available_at": "2026-05-20T09:00:23.000Z",
       "start_scheduled": "2026-05-20T09:00:00.000Z",
-      "start_actual": "2026-05-20T09:00:20.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-20T09:00:23.000Z",
+      "live_viewers": 897,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -77,6 +77,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "xp8neUBUXHk",
+      "title": "【The Henry Stickmin Collection】選択で変わる!?パロディネタだらけの棒人間ゲーム!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Henry_Stickmin",
+      "published_at": "2026-05-19T20:37:04.000Z",
+      "available_at": "2026-05-20T09:00:29.000Z",
+      "start_scheduled": "2026-05-20T09:00:00.000Z",
+      "start_actual": "2026-05-20T09:00:29.000Z",
+      "live_viewers": 2451,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
