@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779307939,
+  "cached_at": 1779307999,
   "lives": {
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
       "video_id": "ILetk_FQcy0",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-20T19:55:14.000Z",
       "start_scheduled": "2026-05-20T20:00:00.000Z",
       "start_actual": "2026-05-20T19:55:14.000Z",
-      "live_viewers": 2047,
+      "live_viewers": 2238,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -59,6 +59,26 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvN5h1ShZtc7nly3pezRayg": {
+      "video_id": "1rIXU_4xGvY",
+      "title": "【CCGG 3D LIVE AFTER TALK】ANSWERING ALL YOUR QUESTIONS #AutofistNetwork @holoen_gigimurin",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-20T16:59:59.000Z",
+      "available_at": "2026-05-20T20:09:48.000Z",
+      "start_scheduled": "2026-05-20T20:10:00.000Z",
+      "start_actual": "2026-05-20T20:09:48.000Z",
+      "live_viewers": 3561,
+      "channel": {
+        "id": "UCvN5h1ShZtc7nly3pezRayg",
+        "name": "Cecilia Immergreen Ch. hololive-EN",
+        "english_name": "Cecilia Immergreen",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
