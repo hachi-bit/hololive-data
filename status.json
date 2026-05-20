@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779288019,
+  "cached_at": 1779288079,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "b7yoX8-z4wM",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-20T11:04:16.000Z",
       "start_scheduled": "2026-05-20T11:00:00.000Z",
       "start_actual": "2026-05-20T11:04:16.000Z",
-      "live_viewers": 3474,
+      "live_viewers": 3371,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -130,7 +130,7 @@
       "published_at": "2026-05-20T11:59:11.000Z",
       "available_at": "2026-05-20T12:11:18.000Z",
       "start_actual": "2026-05-20T12:11:18.000Z",
-      "live_viewers": 1112,
+      "live_viewers": 1084,
       "channel": {
         "id": "UCrWkFUu3DK5XpYBUPDC5uLA",
         "name": "kinako",
@@ -210,7 +210,7 @@
       "available_at": "2026-05-20T13:01:57.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:01:57.000Z",
-      "live_viewers": 732,
+      "live_viewers": 542,
       "channel": {
         "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
         "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
@@ -218,26 +218,6 @@
         "org": "Nijisanji",
         "suborg": "1cKiramero",
         "photo": "https://yt3.ggpht.com/0hwFUTExbP8nb6TT5iRURYq3WJTlotAdcbRohnVGh4ppEnZjKR0l4Qt4oz0KWrOXF0y-ye6LFQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwXfrtn26oj7JW9fwB_z1bw": {
-      "video_id": "D1t3NLFmjXg",
-      "title": "【#漢義リーグ】秋麗チーム顔合わせ!ここから始まる…!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mahjong",
-      "published_at": "2026-05-20T08:34:34.000Z",
-      "available_at": "2026-05-20T13:02:01.000Z",
-      "start_scheduled": "2026-05-20T13:00:00.000Z",
-      "start_actual": "2026-05-20T13:02:01.000Z",
-      "live_viewers": 1899,
-      "channel": {
-        "id": "UCwXfrtn26oj7JW9fwB_z1bw",
-        "name": "咲乃もこ【SakinoMoco】",
-        "english_name": "Sakino Moco",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/PU1Ptl5GyhcWRD3deTCx5XpQBFoMZdLa808TYJG1yIkVLjNq0kCdiGEe11W92RsjGouaQi5u-Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCFTLzh12_nrtzqBPsTCqenA": {
@@ -290,7 +270,7 @@
       "available_at": "2026-05-20T13:03:26.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:03:26.000Z",
-      "live_viewers": 39732,
+      "live_viewers": 39562,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -330,7 +310,7 @@
       "available_at": "2026-05-20T13:46:01.000Z",
       "start_scheduled": "2026-05-20T13:30:00.000Z",
       "start_actual": "2026-05-20T13:46:01.000Z",
-      "live_viewers": 6062,
+      "live_viewers": 6116,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -370,7 +350,7 @@
       "available_at": "2026-05-20T14:02:04.000Z",
       "start_scheduled": "2026-05-20T14:00:00.000Z",
       "start_actual": "2026-05-20T14:02:04.000Z",
-      "live_viewers": 2826,
+      "live_viewers": 2853,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -390,7 +370,7 @@
       "available_at": "2026-05-20T14:18:14.000Z",
       "start_scheduled": "2026-05-20T14:15:00.000Z",
       "start_actual": "2026-05-20T14:18:14.000Z",
-      "live_viewers": 7529,
+      "live_viewers": 7878,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
