@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779274759,
+  "cached_at": 1779274819,
   "lives": {
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "_BjJJhatU9s",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-20T09:00:29.000Z",
       "start_scheduled": "2026-05-20T09:00:00.000Z",
       "start_actual": "2026-05-20T09:00:29.000Z",
-      "live_viewers": 8458,
+      "live_viewers": 8324,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-20T09:50:17.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T09:50:17.000Z",
-      "live_viewers": 16885,
+      "live_viewers": 16911,
       "channel": {
         "id": "UCmms2EE02mK4zdECwrHBpaA",
         "name": "hololive OFFICIAL CARD GAME【公式】",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-20T09:57:25.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T09:57:25.000Z",
-      "live_viewers": 7929,
+      "live_viewers": 7657,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-20T10:00:34.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T10:00:34.000Z",
-      "live_viewers": 889,
+      "live_viewers": 876,
       "channel": {
         "id": "UCdVYY2166hyjUAMHwp2almg",
         "name": "光葉エニ",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-20T10:00:51.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T10:00:51.000Z",
-      "live_viewers": 7455,
+      "live_viewers": 7468,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-20T10:13:10.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T10:13:10.000Z",
-      "live_viewers": 709,
+      "live_viewers": 706,
       "channel": {
         "id": "UCasKmptouCrwWLl8SlQU2tQ",
         "name": "おなつのにびたし / Onatsu no Nibitashi",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-20T10:24:40.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T10:24:40.000Z",
-      "live_viewers": 3475,
+      "live_viewers": 3479,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -219,6 +219,46 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_vDF8pbCIR8gaAxXAAH7Og": {
+      "video_id": "pfzLOmuXn7Y",
+      "title": "【AMONG US】 GASLIGHTING IN TAGALOG  【DubsteP】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "among_us",
+      "published_at": "2026-05-19T20:58:03.000Z",
+      "available_at": "2026-05-20T10:54:54.000Z",
+      "start_scheduled": "2026-05-20T11:00:00.000Z",
+      "start_actual": "2026-05-20T10:54:54.000Z",
+      "live_viewers": 45,
+      "channel": {
+        "id": "UC_vDF8pbCIR8gaAxXAAH7Og",
+        "name": "DubsteP",
+        "english_name": "DubsteP",
+        "org": "Twitch Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/yypKKZ7TwgcvvF57-AgPEMsPL1fxWSOdrP2ESj7U7Un-cqe7tRQE2t2ajaHvixyXB3_-9PrS=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "tIQHQQMRdOY",
+      "title": "【初監督】みんなでメルカードのCM監督に挑戦してみた!ぺこ! 【ホロライブ/兎田ぺこら/AZKi/百鬼あやめ/白銀ノエル】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-19T15:20:43.000Z",
+      "available_at": "2026-05-20T10:57:10.000Z",
+      "start_scheduled": "2026-05-20T11:00:00.000Z",
+      "start_actual": "2026-05-20T10:57:10.000Z",
+      "live_viewers": 4970,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
