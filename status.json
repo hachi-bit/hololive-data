@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779283759,
+  "cached_at": 1779283821,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "b7yoX8-z4wM",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-20T10:54:54.000Z",
       "start_scheduled": "2026-05-20T11:00:00.000Z",
       "start_actual": "2026-05-20T10:54:54.000Z",
-      "live_viewers": 64,
+      "live_viewers": 65,
       "channel": {
         "id": "UC_vDF8pbCIR8gaAxXAAH7Og",
         "name": "DubsteP",
@@ -79,26 +79,6 @@
         "org": "Twitch Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/yypKKZ7TwgcvvF57-AgPEMsPL1fxWSOdrP2ESj7U7Un-cqe7tRQE2t2ajaHvixyXB3_-9PrS=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCRJV_1aV4aZjFAEUn6o5arw": {
-      "video_id": "9WZBhByXRkY",
-      "title": "◤Among Us◢ THERES A FILIPINO AMONG US (i am innocent) | #JunoUmezono #VSPOEN",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "among_us",
-      "published_at": "2026-05-19T09:07:17.000Z",
-      "available_at": "2026-05-20T10:59:12.000Z",
-      "start_scheduled": "2026-05-20T11:00:00.000Z",
-      "start_actual": "2026-05-20T10:59:12.000Z",
-      "live_viewers": 305,
-      "channel": {
-        "id": "UCRJV_1aV4aZjFAEUn6o5arw",
-        "name": "Juno Umezono【VSPO! EN】",
-        "english_name": "Juno Umezono",
-        "org": "VSpo",
-        "suborg": "1aEnglish",
-        "photo": "https://yt3.ggpht.com/bztupxiQMfCNoxlX5ir_3qRpCzGPEzoTOs7gSq6jqgZ-oRAtbyS_seR_Jd9NlT0c0hUzS-kw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
@@ -111,7 +91,7 @@
       "available_at": "2026-05-20T10:59:43.000Z",
       "start_scheduled": "2026-05-20T11:00:00.000Z",
       "start_actual": "2026-05-20T10:59:43.000Z",
-      "live_viewers": 687,
+      "live_viewers": 699,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-20T10:59:49.000Z",
       "start_scheduled": "2026-05-20T11:00:00.000Z",
       "start_actual": "2026-05-20T10:59:49.000Z",
-      "live_viewers": 151,
+      "live_viewers": 163,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -159,26 +139,6 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCJjjeqEYMSzdsKt6vJ78WVw": {
-      "video_id": "_bc-7LueSCw",
-      "title": "【AMONG US】 🥖 FILIPINO TRASHTALKAN LOBBY 😐 #panlive",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "among_us",
-      "published_at": "2026-05-20T01:06:20.000Z",
-      "available_at": "2026-05-20T11:00:47.000Z",
-      "start_scheduled": "2026-05-20T11:00:00.000Z",
-      "start_actual": "2026-05-20T11:00:47.000Z",
-      "live_viewers": 229,
-      "channel": {
-        "id": "UCJjjeqEYMSzdsKt6vJ78WVw",
-        "name": "Pan VTuber パン",
-        "english_name": "Pan",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/Uj8fUIQZcvYO1Vg4o8QBxNV7cKKyYmpdcLYGFFRfoIcI38meZFHtUrsWcaS7jSkk876r8lcUoQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCcpgDsHDYHO1UyfpwjyNx1g": {
@@ -271,7 +231,7 @@
       "available_at": "2026-05-20T12:01:51.000Z",
       "start_scheduled": "2026-05-20T12:00:00.000Z",
       "start_actual": "2026-05-20T12:01:51.000Z",
-      "live_viewers": 39389,
+      "live_viewers": 38642,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -311,7 +271,7 @@
       "available_at": "2026-05-20T12:10:57.000Z",
       "start_scheduled": "2026-05-20T12:00:00.000Z",
       "start_actual": "2026-05-20T12:10:57.000Z",
-      "live_viewers": 7613,
+      "live_viewers": 7522,
       "channel": {
         "id": "UC5LyYg6cCA4yHEYvtUsir3g",
         "name": "一ノ瀬うるは",
@@ -370,7 +330,7 @@
       "available_at": "2026-05-20T13:00:12.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:00:12.000Z",
-      "live_viewers": 150,
+      "live_viewers": 146,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -390,7 +350,7 @@
       "available_at": "2026-05-20T13:01:45.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:01:45.000Z",
-      "live_viewers": 4884,
+      "live_viewers": 5018,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -410,7 +370,7 @@
       "available_at": "2026-05-20T13:01:57.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:01:57.000Z",
-      "live_viewers": 751,
+      "live_viewers": 724,
       "channel": {
         "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
         "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
@@ -430,7 +390,7 @@
       "available_at": "2026-05-20T13:02:01.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:02:01.000Z",
-      "live_viewers": 1817,
+      "live_viewers": 1825,
       "channel": {
         "id": "UCwXfrtn26oj7JW9fwB_z1bw",
         "name": "咲乃もこ【SakinoMoco】",
@@ -450,7 +410,7 @@
       "available_at": "2026-05-20T13:02:06.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:02:06.000Z",
-      "live_viewers": 5023,
+      "live_viewers": 4772,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -490,7 +450,7 @@
       "available_at": "2026-05-20T13:03:26.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:03:26.000Z",
-      "live_viewers": 32644,
+      "live_viewers": 33898,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
