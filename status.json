@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779313519,
+  "cached_at": 1779313579,
   "lives": {
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
       "video_id": "95po_WCvQ1A",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-20T21:00:42.000Z",
       "start_scheduled": "2026-05-20T21:00:00.000Z",
       "start_actual": "2026-05-20T21:00:42.000Z",
-      "live_viewers": 494,
+      "live_viewers": 506,
       "channel": {
         "id": "UCHP4f7G2dWD4qib7BMatGAw",
         "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -68,9 +68,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-05-20T15:20:51.000Z",
-      "available_at": "2026-05-20T21:30:00.000Z",
+      "available_at": "2026-05-20T21:42:51.000Z",
       "start_scheduled": "2026-05-20T21:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-20T21:42:51.000Z",
+      "live_viewers": 1743,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
