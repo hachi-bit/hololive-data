@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779316519,
+  "cached_at": 1779316579,
   "lives": {
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
       "video_id": "95po_WCvQ1A",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-20T21:42:51.000Z",
       "start_scheduled": "2026-05-20T21:30:00.000Z",
       "start_actual": "2026-05-20T21:42:51.000Z",
-      "live_viewers": 5487,
+      "live_viewers": 5478,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
@@ -88,9 +88,10 @@
       "status": "live",
       "topic_id": "Pokemon_Pokopia",
       "published_at": "2026-05-20T21:44:10.000Z",
-      "available_at": "2026-05-20T22:30:00.000Z",
+      "available_at": "2026-05-20T22:32:21.000Z",
       "start_scheduled": "2026-05-20T22:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-20T22:32:21.000Z",
+      "live_viewers": 51,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
