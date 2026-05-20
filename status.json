@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779270799,
+  "cached_at": 1779270860,
   "lives": {
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "_BjJJhatU9s",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-20T09:06:00.000Z",
       "start_scheduled": "2026-05-20T09:00:00.000Z",
       "start_actual": "2026-05-20T09:06:00.000Z",
-      "live_viewers": 7788,
+      "live_viewers": 7299,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-20T09:07:47.000Z",
       "start_scheduled": "2026-05-20T09:00:00.000Z",
       "start_actual": "2026-05-20T09:07:47.000Z",
-      "live_viewers": 292,
+      "live_viewers": 287,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -79,6 +79,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCmms2EE02mK4zdECwrHBpaA": {
+      "video_id": "fWrmxvdIAlM",
+      "title": "ウエハース最速開封! #ホロカ 最新ブースターの情報もお届け!【#ホロカにゅーすLIVE】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "unboxing",
+      "published_at": "2026-05-18T03:43:27.000Z",
+      "available_at": "2026-05-20T09:50:17.000Z",
+      "start_scheduled": "2026-05-20T10:00:00.000Z",
+      "start_actual": "2026-05-20T09:50:17.000Z",
+      "live_viewers": 817,
+      "channel": {
+        "id": "UCmms2EE02mK4zdECwrHBpaA",
+        "name": "hololive OFFICIAL CARD GAME【公式】",
+        "english_name": "hololive OFFICIAL CARD GAME",
+        "org": "Hololive",
+        "suborg": "w_Misc",
+        "photo": "https://yt3.ggpht.com/auWUDx657AsLAGf8xx-NDUgiWGd9DOxM9qTYI_nMCZktK7OOdz_CT0xYSLKONO2H8IzlUkaEig=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
