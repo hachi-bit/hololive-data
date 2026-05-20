@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779290959,
+  "cached_at": 1779291020,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "b7yoX8-z4wM",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-20T11:00:31.000Z",
       "start_scheduled": "2026-05-20T11:00:00.000Z",
       "start_actual": "2026-05-20T11:00:31.000Z",
-      "live_viewers": 3447,
+      "live_viewers": 3439,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC5LyYg6cCA4yHEYvtUsir3g": {
-      "video_id": "P3jlXsb9Z-Q",
-      "title": "【Pummel Party】恒例のきたわね【ぶいすぽ/一ノ瀬うるは】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Pummel_Party",
-      "published_at": "2026-05-20T11:31:49.000Z",
-      "available_at": "2026-05-20T12:10:57.000Z",
-      "start_scheduled": "2026-05-20T12:00:00.000Z",
-      "start_actual": "2026-05-20T12:10:57.000Z",
-      "live_viewers": 4399,
-      "channel": {
-        "id": "UC5LyYg6cCA4yHEYvtUsir3g",
-        "name": "一ノ瀬うるは",
-        "english_name": "Ichinose Uruha",
-        "org": "VSpo",
-        "suborg": "0aLupinus Virtual Games",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_myySkwnJbRZM78Ct6Zqok5H0oegoEjLOtg6sdq117VRAM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCZgOv3YDEs-ZnZWDYVwJdmA": {
@@ -231,7 +211,7 @@
       "available_at": "2026-05-20T14:18:14.000Z",
       "start_scheduled": "2026-05-20T14:15:00.000Z",
       "start_actual": "2026-05-20T14:18:14.000Z",
-      "live_viewers": 12268,
+      "live_viewers": 12488,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
