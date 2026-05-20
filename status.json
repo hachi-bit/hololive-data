@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779279439,
+  "cached_at": 1779279499,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "xp8neUBUXHk",
@@ -311,7 +311,7 @@
       "available_at": "2026-05-20T11:01:01.000Z",
       "start_scheduled": "2026-05-20T11:00:00.000Z",
       "start_actual": "2026-05-20T11:01:01.000Z",
-      "live_viewers": 118,
+      "live_viewers": 113,
       "channel": {
         "id": "UCcpgDsHDYHO1UyfpwjyNx1g",
         "name": "Kiichan Ch. 狐井アキラ",
@@ -371,7 +371,7 @@
       "available_at": "2026-05-20T12:01:27.000Z",
       "start_scheduled": "2026-05-20T12:00:00.000Z",
       "start_actual": "2026-05-20T12:01:27.000Z",
-      "live_viewers": 18207,
+      "live_viewers": 19420,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -391,7 +391,7 @@
       "available_at": "2026-05-20T12:01:51.000Z",
       "start_scheduled": "2026-05-20T12:00:00.000Z",
       "start_actual": "2026-05-20T12:01:51.000Z",
-      "live_viewers": 37929,
+      "live_viewers": 38168,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -411,7 +411,7 @@
       "available_at": "2026-05-20T12:10:11.000Z",
       "start_scheduled": "2026-05-20T12:00:00.000Z",
       "start_actual": "2026-05-20T12:10:11.000Z",
-      "live_viewers": 3041,
+      "live_viewers": 3373,
       "channel": {
         "id": "UCvUc0m317LWTTPZoBQV479A",
         "name": "橘ひなの / Hinano Tachibana",
@@ -431,7 +431,7 @@
       "available_at": "2026-05-20T12:10:57.000Z",
       "start_scheduled": "2026-05-20T12:00:00.000Z",
       "start_actual": "2026-05-20T12:10:57.000Z",
-      "live_viewers": 5419,
+      "live_viewers": 5734,
       "channel": {
         "id": "UC5LyYg6cCA4yHEYvtUsir3g",
         "name": "一ノ瀬うるは",
@@ -439,6 +439,25 @@
         "org": "VSpo",
         "suborg": "0aLupinus Virtual Games",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_myySkwnJbRZM78Ct6Zqok5H0oegoEjLOtg6sdq117VRAM=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCrWkFUu3DK5XpYBUPDC5uLA": {
+      "video_id": "d2csnNo9GEI",
+      "title": "【Pummel Party】騒がしすぎるぷめる w/ありあまうるしすとわひなきなcpt",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pummel_Party",
+      "published_at": "2026-05-20T11:59:11.000Z",
+      "available_at": "2026-05-20T12:11:18.000Z",
+      "start_actual": "2026-05-20T12:11:18.000Z",
+      "live_viewers": 735,
+      "channel": {
+        "id": "UCrWkFUu3DK5XpYBUPDC5uLA",
+        "name": "kinako",
+        "english_name": "kinako",
+        "org": "Independents",
+        "suborg": "crCrazy Raccoon",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kRIFo8mE8hx3000G-pD3Whyg8NmlOU7CGxohSot3m2MA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
