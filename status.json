@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779248839,
+  "cached_at": 1779248899,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "8EXaFCKuH08",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-19T21:05:31.000Z",
       "start_scheduled": "2026-05-19T21:00:00.000Z",
       "start_actual": "2026-05-19T21:05:31.000Z",
-      "live_viewers": 3602,
+      "live_viewers": 3349,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCajbFh6e_R8QZdHAMbbi4rQ": {
-      "video_id": "U7Ry553zPsA",
-      "title": "LETMEOUTLETMEOUTLETMEOUT【GOGH】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "gogh",
-      "published_at": "2026-05-19T02:43:26.000Z",
-      "available_at": "2026-05-20T00:10:41.000Z",
-      "start_scheduled": "2026-05-20T00:00:00.000Z",
-      "start_actual": "2026-05-20T00:10:41.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-        "english_name": "Crimzon Ruze",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC7gxU6NXjKF1LrgOddPzgTw": {
@@ -151,7 +131,7 @@
       "available_at": "2026-05-20T02:59:10.000Z",
       "start_scheduled": "2026-05-20T03:00:00.000Z",
       "start_actual": "2026-05-20T02:59:10.000Z",
-      "live_viewers": 4653,
+      "live_viewers": 4765,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-20T02:59:14.000Z",
       "start_scheduled": "2026-05-20T03:00:00.000Z",
       "start_actual": "2026-05-20T02:59:14.000Z",
-      "live_viewers": 140,
+      "live_viewers": 151,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
