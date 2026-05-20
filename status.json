@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779271819,
+  "cached_at": 1779271879,
   "lives": {
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "_BjJJhatU9s",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-20T09:07:47.000Z",
       "start_scheduled": "2026-05-20T09:00:00.000Z",
       "start_actual": "2026-05-20T09:07:47.000Z",
-      "live_viewers": 336,
+      "live_viewers": 345,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-20T09:57:25.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T09:57:25.000Z",
-      "live_viewers": 4084,
+      "live_viewers": 4649,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -119,25 +119,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCANDOlYTJT7N5jlRC3zfzVA": {
-      "video_id": "g9fGw4pczmY",
-      "title": "【桃鉄2】不思議なメンツで桃鉄やんぞ!!! w/エニ、ズズくん、おなつ【夕刻ロベル/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "momotaro_dentetsu",
-      "published_at": "2026-04-19T11:45:57.000Z",
-      "available_at": "2026-05-20T10:00:00.000Z",
-      "start_scheduled": "2026-05-20T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
-        "name": "Roberu Ch. 夕刻ロベル",
-        "english_name": "Yukoku Roberu",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCasKmptouCrwWLl8SlQU2tQ": {
@@ -159,6 +140,25 @@
         "photo": "https://yt3.ggpht.com/xWy_Afq5-hYE0riz6wByr6HGlxSMBSabKju2lwHmXld7lttEsMW4D5BLvoykoWQ-_drmCi5UO7E=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCANDOlYTJT7N5jlRC3zfzVA": {
+      "video_id": "g9fGw4pczmY",
+      "title": "【桃鉄2】不思議なメンツで桃鉄やんぞ!!! w/エニ、ズズくん、おなつ【夕刻ロベル/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "momotaro_dentetsu",
+      "published_at": "2026-04-19T11:45:57.000Z",
+      "available_at": "2026-05-20T10:00:00.000Z",
+      "start_scheduled": "2026-05-20T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+        "name": "Roberu Ch. 夕刻ロベル",
+        "english_name": "Yukoku Roberu",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UC1iA6_NT4mtAcIII6ygrvCw": {
       "video_id": "uSUsKzrZFx8",
       "title": "【雑談】お話ししよ~!!!【轟はじめ/ReGLOSS】",
@@ -169,7 +169,7 @@
       "available_at": "2026-05-20T10:00:12.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T10:00:12.000Z",
-      "live_viewers": 2570,
+      "live_viewers": 2844,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -189,7 +189,7 @@
       "available_at": "2026-05-20T10:00:34.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T10:00:34.000Z",
-      "live_viewers": 437,
+      "live_viewers": 519,
       "channel": {
         "id": "UCdVYY2166hyjUAMHwp2almg",
         "name": "光葉エニ",
@@ -209,7 +209,7 @@
       "available_at": "2026-05-20T10:00:51.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T10:00:51.000Z",
-      "live_viewers": 3760,
+      "live_viewers": 4139,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
