@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779246079,
+  "cached_at": 1779246140,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "8EXaFCKuH08",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-20T01:00:00.000Z",
       "start_scheduled": "2026-05-20T01:00:00.000Z",
       "start_actual": "2026-05-20T01:00:00.000Z",
-      "live_viewers": 164,
+      "live_viewers": 167,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-20T02:01:16.000Z",
       "start_scheduled": "2026-05-20T02:00:00.000Z",
       "start_actual": "2026-05-20T02:01:16.000Z",
-      "live_viewers": 380,
+      "live_viewers": 393,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -159,6 +159,46 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCozx5csNhCx1wsVq3SZVkBQ": {
+      "video_id": "ScZE_Vhbt5E",
+      "title": "【快挙】儒烏風亭らでん×ロンドンナショナル・ギャラリーコラボグッズが予約開始！【昼ホロ/井月みちる】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "News_Show",
+      "published_at": "2026-05-19T16:55:54.000Z",
+      "available_at": "2026-05-20T02:59:10.000Z",
+      "start_scheduled": "2026-05-20T03:00:00.000Z",
+      "start_actual": "2026-05-20T02:59:10.000Z",
+      "live_viewers": 944,
+      "channel": {
+        "id": "UCozx5csNhCx1wsVq3SZVkBQ",
+        "name": "holoAN room (ホロアナ)",
+        "english_name": "holoAN room",
+        "org": "Hololive",
+        "suborg": "0hOfficial",
+        "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6t3-_N8A6ME1JShZHHqOMw": {
+      "video_id": "5YippEBEQLQ",
+      "title": "#3【パラノマサイト FILE38 伊勢人魚物語】迷探偵花咲、事件解決編。【花咲みやび/ホロスターズ】【ネタバレあり】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-20T00:39:11.000Z",
+      "available_at": "2026-05-20T02:59:14.000Z",
+      "start_scheduled": "2026-05-20T03:00:00.000Z",
+      "start_actual": "2026-05-20T02:59:14.000Z",
+      "live_viewers": 58,
+      "channel": {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "english_name": "Hanasaki Miyabi",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
