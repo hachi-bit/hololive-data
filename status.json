@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779294679,
+  "cached_at": 1779294740,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "b7yoX8-z4wM",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-20T11:00:31.000Z",
       "start_scheduled": "2026-05-20T11:00:00.000Z",
       "start_actual": "2026-05-20T11:00:31.000Z",
-      "live_viewers": 2380,
+      "live_viewers": 2128,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-20T11:04:16.000Z",
       "start_scheduled": "2026-05-20T11:00:00.000Z",
       "start_actual": "2026-05-20T11:04:16.000Z",
-      "live_viewers": 3087,
+      "live_viewers": 3004,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-20T13:00:12.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:00:12.000Z",
-      "live_viewers": 233,
+      "live_viewers": 240,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-20T13:32:10.000Z",
       "start_scheduled": "2026-05-20T13:30:00.000Z",
       "start_actual": "2026-05-20T13:32:10.000Z",
-      "live_viewers": 3625,
+      "live_viewers": 3588,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "0v0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCJv02SHZgav7Mv3V0kBOR8Q": {
-      "video_id": "z_fx1qTbcBc",
-      "title": "【Mario Kart Super Circuit】NYOOOM WE GO FAST",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mario_Kart",
-      "published_at": "2026-05-19T21:57:04.000Z",
-      "available_at": "2026-05-20T13:53:09.000Z",
-      "start_scheduled": "2026-05-20T14:00:00.000Z",
-      "start_actual": "2026-05-20T13:53:09.000Z",
-      "live_viewers": 340,
-      "channel": {
-        "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
-        "name": "Goldbullet Ch. HOLOSTARS-EN",
-        "english_name": "Goldbullet",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCP0BspO_AMEe3aQqqpo89Dg": {
@@ -151,7 +131,7 @@
       "available_at": "2026-05-20T14:02:04.000Z",
       "start_scheduled": "2026-05-20T14:00:00.000Z",
       "start_actual": "2026-05-20T14:02:04.000Z",
-      "live_viewers": 3356,
+      "live_viewers": 3000,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-20T14:18:14.000Z",
       "start_scheduled": "2026-05-20T14:15:00.000Z",
       "start_actual": "2026-05-20T14:18:14.000Z",
-      "live_viewers": 12175,
+      "live_viewers": 11989,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
