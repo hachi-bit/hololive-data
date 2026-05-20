@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779272119,
+  "cached_at": 1779272179,
   "lives": {
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "_BjJJhatU9s",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-20T09:07:47.000Z",
       "start_scheduled": "2026-05-20T09:00:00.000Z",
       "start_actual": "2026-05-20T09:07:47.000Z",
-      "live_viewers": 345,
+      "live_viewers": 336,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-20T09:50:17.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T09:50:17.000Z",
-      "live_viewers": 9918,
+      "live_viewers": 10951,
       "channel": {
         "id": "UCmms2EE02mK4zdECwrHBpaA",
         "name": "hololive OFFICIAL CARD GAME【公式】",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-20T09:57:25.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T09:57:25.000Z",
-      "live_viewers": 4868,
+      "live_viewers": 5505,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -119,25 +119,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCasKmptouCrwWLl8SlQU2tQ": {
-      "video_id": "IxKqojItTgA",
-      "title": "【桃鉄2】やかましそうなメンバーで初の桃鉄🍑🚃 w/夕刻ロベル、ズズ、光葉エニ【おなつのにびたし/個人勢Vtuber/#おなつのなま】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "momotaro_dentetsu",
-      "published_at": "2026-05-16T16:44:11.000Z",
-      "available_at": "2026-05-20T10:00:00.000Z",
-      "start_scheduled": "2026-05-20T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCasKmptouCrwWLl8SlQU2tQ",
-        "name": "おなつのにびたし / Onatsu no Nibitashi",
-        "english_name": "Onatsu No Nibitashi",
-        "org": "Twitch Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/xWy_Afq5-hYE0riz6wByr6HGlxSMBSabKju2lwHmXld7lttEsMW4D5BLvoykoWQ-_drmCi5UO7E=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCANDOlYTJT7N5jlRC3zfzVA": {
@@ -169,7 +150,7 @@
       "available_at": "2026-05-20T10:00:12.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T10:00:12.000Z",
-      "live_viewers": 3055,
+      "live_viewers": 3352,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -189,7 +170,7 @@
       "available_at": "2026-05-20T10:00:34.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T10:00:34.000Z",
-      "live_viewers": 547,
+      "live_viewers": 612,
       "channel": {
         "id": "UCdVYY2166hyjUAMHwp2almg",
         "name": "光葉エニ",
@@ -209,7 +190,7 @@
       "available_at": "2026-05-20T10:00:51.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T10:00:51.000Z",
-      "live_viewers": 4525,
+      "live_viewers": 4561,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -217,6 +198,26 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCasKmptouCrwWLl8SlQU2tQ": {
+      "video_id": "IxKqojItTgA",
+      "title": "【桃鉄2】やかましそうなメンバーで初の桃鉄🍑🚃 w/夕刻ロベル、ズズ、光葉エニ【おなつのにびたし/個人勢Vtuber/#おなつのなま】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "momotaro_dentetsu",
+      "published_at": "2026-05-16T16:44:11.000Z",
+      "available_at": "2026-05-20T10:13:10.000Z",
+      "start_scheduled": "2026-05-20T10:00:00.000Z",
+      "start_actual": "2026-05-20T10:13:10.000Z",
+      "live_viewers": 147,
+      "channel": {
+        "id": "UCasKmptouCrwWLl8SlQU2tQ",
+        "name": "おなつのにびたし / Onatsu no Nibitashi",
+        "english_name": "Onatsu No Nibitashi",
+        "org": "Twitch Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/xWy_Afq5-hYE0riz6wByr6HGlxSMBSabKju2lwHmXld7lttEsMW4D5BLvoykoWQ-_drmCi5UO7E=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
