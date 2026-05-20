@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779295579,
+  "cached_at": 1779295640,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "b7yoX8-z4wM",
@@ -21,26 +21,6 @@
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCK9V2B22uJYu3N7eR_BT9QA": {
-      "video_id": "kGdIfOF49Hw",
-      "title": "【鳴潮】二章から!!!緋雪さんもガチャでお迎えするぞ~~~~~~~!!!!!【尾丸ポルカ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Wuthering_Waves",
-      "published_at": "2026-05-20T09:23:19.000Z",
-      "available_at": "2026-05-20T11:04:16.000Z",
-      "start_scheduled": "2026-05-20T11:00:00.000Z",
-      "start_actual": "2026-05-20T11:04:16.000Z",
-      "live_viewers": 2957,
-      "channel": {
-        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-        "name": "Polka Ch. 尾丸ポルカ",
-        "english_name": "Omaru Polka",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
       "video_id": "dXGR0V442ns",
       "title": "【ストリートファイター6】テリー修行【荒咬オウガ /ホロスターズ】",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-20T13:00:12.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:00:12.000Z",
-      "live_viewers": 240,
+      "live_viewers": 239,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-20T13:32:10.000Z",
       "start_scheduled": "2026-05-20T13:30:00.000Z",
       "start_actual": "2026-05-20T13:32:10.000Z",
-      "live_viewers": 3534,
+      "live_viewers": 3763,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-20T14:02:04.000Z",
       "start_scheduled": "2026-05-20T14:00:00.000Z",
       "start_actual": "2026-05-20T14:02:04.000Z",
-      "live_viewers": 2457,
+      "live_viewers": 2403,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -119,26 +99,6 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKMWFR6lAstLa7Vbf5dH7ig": {
-      "video_id": "-y42t7ZfDIY",
-      "title": "【Forza Horizon 6】おかわりドライブしようぜ！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Forza",
-      "published_at": "2026-05-20T14:03:58.000Z",
-      "available_at": "2026-05-20T14:18:14.000Z",
-      "start_scheduled": "2026-05-20T14:15:00.000Z",
-      "start_actual": "2026-05-20T14:18:14.000Z",
-      "live_viewers": 10970,
-      "channel": {
-        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "english_name": "Rindo Chihaya",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
