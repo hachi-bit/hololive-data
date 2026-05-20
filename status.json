@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779273139,
+  "cached_at": 1779273201,
   "lives": {
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "_BjJJhatU9s",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-20T09:06:00.000Z",
       "start_scheduled": "2026-05-20T09:00:00.000Z",
       "start_actual": "2026-05-20T09:06:00.000Z",
-      "live_viewers": 5810,
+      "live_viewers": 5462,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-20T10:00:34.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T10:00:34.000Z",
-      "live_viewers": 744,
+      "live_viewers": 810,
       "channel": {
         "id": "UCdVYY2166hyjUAMHwp2almg",
         "name": "光葉エニ",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-20T10:00:51.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T10:00:51.000Z",
-      "live_viewers": 5797,
+      "live_viewers": 5969,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-20T10:13:10.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T10:13:10.000Z",
-      "live_viewers": 483,
+      "live_viewers": 481,
       "channel": {
         "id": "UCasKmptouCrwWLl8SlQU2tQ",
         "name": "おなつのにびたし / Onatsu no Nibitashi",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-20T10:24:40.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T10:24:40.000Z",
-      "live_viewers": 2286,
+      "live_viewers": 2509,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -219,6 +219,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCuI_opAVX6qbxZY-a-AxFuQ": {
+      "video_id": "JxDnKk3v0Lg",
+      "title": "【メン限歌枠&お話し】メンバー先行で新しく覚えた曲歌っちゃうぞ! 【虎金妃笑虎】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-20T09:43:31.000Z",
+      "available_at": "2026-05-20T10:29:55.000Z",
+      "start_scheduled": "2026-05-20T10:30:00.000Z",
+      "start_actual": "2026-05-20T10:29:55.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+        "english_name": "Koganei Niko",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
