@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779275119,
+  "cached_at": 1779275179,
   "lives": {
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "_BjJJhatU9s",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-20T09:50:17.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T09:50:17.000Z",
-      "live_viewers": 16911,
+      "live_viewers": 16876,
       "channel": {
         "id": "UCmms2EE02mK4zdECwrHBpaA",
         "name": "hololive OFFICIAL CARD GAME【公式】",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-20T09:57:25.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T09:57:25.000Z",
-      "live_viewers": 7657,
+      "live_viewers": 7450,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1iA6_NT4mtAcIII6ygrvCw": {
-      "video_id": "uSUsKzrZFx8",
-      "title": "【雑談】お話ししよ~!!!【轟はじめ/ReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-20T05:44:20.000Z",
-      "available_at": "2026-05-20T10:00:12.000Z",
-      "start_scheduled": "2026-05-20T10:00:00.000Z",
-      "start_actual": "2026-05-20T10:00:12.000Z",
-      "live_viewers": 4513,
-      "channel": {
-        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-        "english_name": "Todoroki Hajime",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdVYY2166hyjUAMHwp2almg": {
@@ -151,7 +131,7 @@
       "available_at": "2026-05-20T10:00:51.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T10:00:51.000Z",
-      "live_viewers": 7468,
+      "live_viewers": 7299,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-20T10:13:10.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T10:13:10.000Z",
-      "live_viewers": 774,
+      "live_viewers": 789,
       "channel": {
         "id": "UCasKmptouCrwWLl8SlQU2tQ",
         "name": "おなつのにびたし / Onatsu no Nibitashi",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-20T10:24:40.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T10:24:40.000Z",
-      "live_viewers": 3479,
+      "live_viewers": 3513,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-20T10:54:54.000Z",
       "start_scheduled": "2026-05-20T11:00:00.000Z",
       "start_actual": "2026-05-20T10:54:54.000Z",
-      "live_viewers": 57,
+      "live_viewers": 75,
       "channel": {
         "id": "UC_vDF8pbCIR8gaAxXAAH7Og",
         "name": "DubsteP",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-20T10:57:10.000Z",
       "start_scheduled": "2026-05-20T11:00:00.000Z",
       "start_actual": "2026-05-20T10:57:10.000Z",
-      "live_viewers": 10169,
+      "live_viewers": 18350,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-20T10:59:12.000Z",
       "start_scheduled": "2026-05-20T11:00:00.000Z",
       "start_actual": "2026-05-20T10:59:12.000Z",
-      "live_viewers": 116,
+      "live_viewers": 210,
       "channel": {
         "id": "UCRJV_1aV4aZjFAEUn6o5arw",
         "name": "Juno Umezono【VSPO! EN】",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-20T10:59:43.000Z",
       "start_scheduled": "2026-05-20T11:00:00.000Z",
       "start_actual": "2026-05-20T10:59:43.000Z",
-      "live_viewers": 242,
+      "live_viewers": 769,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-20T10:59:49.000Z",
       "start_scheduled": "2026-05-20T11:00:00.000Z",
       "start_actual": "2026-05-20T10:59:49.000Z",
-      "live_viewers": 45,
+      "live_viewers": 127,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -319,44 +299,6 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCtyWhCj3AqKh2dXctLkDtng": {
-      "video_id": "vb8Sq4eipaI",
-      "title": "【魔王城ものがたり】星5耐久でクリアするぞ!!!世界潰すよ~✋【一条莉々華/hololive DEV_IS ReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "endurance",
-      "published_at": "2026-05-20T10:49:50.000Z",
-      "available_at": "2026-05-20T11:00:00.000Z",
-      "start_scheduled": "2026-05-20T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCtyWhCj3AqKh2dXctLkDtng",
-        "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-        "english_name": "Ichijou Ririka",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCJjjeqEYMSzdsKt6vJ78WVw": {
-      "video_id": "_bc-7LueSCw",
-      "title": "【AMONG US】 🥖 FILIPINO TRASHTALKAN LOBBY 😐 #panlive",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "among_us",
-      "published_at": "2026-05-20T01:06:20.000Z",
-      "available_at": "2026-05-20T11:00:00.000Z",
-      "start_scheduled": "2026-05-20T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCJjjeqEYMSzdsKt6vJ78WVw",
-        "name": "Pan VTuber パン",
-        "english_name": "Pan",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/Uj8fUIQZcvYO1Vg4o8QBxNV7cKKyYmpdcLYGFFRfoIcI38meZFHtUrsWcaS7jSkk876r8lcUoQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCK9V2B22uJYu3N7eR_BT9QA": {
@@ -378,25 +320,6 @@
         "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCcpgDsHDYHO1UyfpwjyNx1g": {
-      "video_id": "uiA9Z00CTfs",
-      "title": "【AMONG US】PIPINO CHAOS",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "among_us",
-      "published_at": "2026-05-20T08:52:19.000Z",
-      "available_at": "2026-05-20T11:00:00.000Z",
-      "start_scheduled": "2026-05-20T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCcpgDsHDYHO1UyfpwjyNx1g",
-        "name": "Kiichan Ch. 狐井アキラ",
-        "english_name": "Kitsui Akira",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/EoJLelX2dO78iVI9jvUwkiqd9LjKIqp82JluwpSKXCpFJkn0RQzkc44mFMs_rTm6JF6PXanP=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "cJrSt5eW2RM",
       "title": "WE ARE UNDER ATTACK【TAGALOG AMONG US】",
@@ -407,7 +330,7 @@
       "available_at": "2026-05-20T11:00:02.000Z",
       "start_scheduled": "2026-05-20T11:00:00.000Z",
       "start_actual": "2026-05-20T11:00:02.000Z",
-      "live_viewers": 76,
+      "live_viewers": 121,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -415,6 +338,66 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCtyWhCj3AqKh2dXctLkDtng": {
+      "video_id": "vb8Sq4eipaI",
+      "title": "【魔王城ものがたり】星5耐久でクリアするぞ!!!世界潰すよ~✋【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "endurance",
+      "published_at": "2026-05-20T10:49:50.000Z",
+      "available_at": "2026-05-20T11:00:31.000Z",
+      "start_scheduled": "2026-05-20T11:00:00.000Z",
+      "start_actual": "2026-05-20T11:00:31.000Z",
+      "live_viewers": 857,
+      "channel": {
+        "id": "UCtyWhCj3AqKh2dXctLkDtng",
+        "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+        "english_name": "Ichijou Ririka",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCJjjeqEYMSzdsKt6vJ78WVw": {
+      "video_id": "_bc-7LueSCw",
+      "title": "【AMONG US】 🥖 FILIPINO TRASHTALKAN LOBBY 😐 #panlive",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "among_us",
+      "published_at": "2026-05-20T01:06:20.000Z",
+      "available_at": "2026-05-20T11:00:47.000Z",
+      "start_scheduled": "2026-05-20T11:00:00.000Z",
+      "start_actual": "2026-05-20T11:00:47.000Z",
+      "live_viewers": 109,
+      "channel": {
+        "id": "UCJjjeqEYMSzdsKt6vJ78WVw",
+        "name": "Pan VTuber パン",
+        "english_name": "Pan",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/Uj8fUIQZcvYO1Vg4o8QBxNV7cKKyYmpdcLYGFFRfoIcI38meZFHtUrsWcaS7jSkk876r8lcUoQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCcpgDsHDYHO1UyfpwjyNx1g": {
+      "video_id": "uiA9Z00CTfs",
+      "title": "【AMONG US】PIPINO CHAOS",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "among_us",
+      "published_at": "2026-05-20T08:52:19.000Z",
+      "available_at": "2026-05-20T11:01:01.000Z",
+      "start_scheduled": "2026-05-20T11:00:00.000Z",
+      "start_actual": "2026-05-20T11:01:01.000Z",
+      "live_viewers": 64,
+      "channel": {
+        "id": "UCcpgDsHDYHO1UyfpwjyNx1g",
+        "name": "Kiichan Ch. 狐井アキラ",
+        "english_name": "Kitsui Akira",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/EoJLelX2dO78iVI9jvUwkiqd9LjKIqp82JluwpSKXCpFJkn0RQzkc44mFMs_rTm6JF6PXanP=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
