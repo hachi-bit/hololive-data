@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779283459,
+  "cached_at": 1779283520,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "b7yoX8-z4wM",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-20T09:57:25.000Z",
       "start_scheduled": "2026-05-20T10:00:00.000Z",
       "start_actual": "2026-05-20T09:57:25.000Z",
-      "live_viewers": 6063,
+      "live_viewers": 6171,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -141,26 +141,6 @@
         "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
-      "video_id": "cJrSt5eW2RM",
-      "title": "WE ARE UNDER ATTACK【TAGALOG AMONG US】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "among_us",
-      "published_at": "2026-05-19T22:19:06.000Z",
-      "available_at": "2026-05-20T11:00:02.000Z",
-      "start_scheduled": "2026-05-20T11:00:00.000Z",
-      "start_actual": "2026-05-20T11:00:02.000Z",
-      "live_viewers": 291,
-      "channel": {
-        "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-        "name": "Octavio Ch. HOLOSTARS-EN",
-        "english_name": "Octavio",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCtyWhCj3AqKh2dXctLkDtng": {
       "video_id": "vb8Sq4eipaI",
       "title": "【魔王城ものがたり】星5耐久でクリアするぞ!!!世界潰すよ~✋【一条莉々華/hololive DEV_IS ReGLOSS】",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-20T11:01:01.000Z",
       "start_scheduled": "2026-05-20T11:00:00.000Z",
       "start_actual": "2026-05-20T11:01:01.000Z",
-      "live_viewers": 115,
+      "live_viewers": 80,
       "channel": {
         "id": "UCcpgDsHDYHO1UyfpwjyNx1g",
         "name": "Kiichan Ch. 狐井アキラ",
@@ -390,7 +370,7 @@
       "available_at": "2026-05-20T13:00:12.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:00:12.000Z",
-      "live_viewers": 145,
+      "live_viewers": 138,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -410,7 +390,7 @@
       "available_at": "2026-05-20T13:01:45.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:01:45.000Z",
-      "live_viewers": 4329,
+      "live_viewers": 4508,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -430,7 +410,7 @@
       "available_at": "2026-05-20T13:01:57.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:01:57.000Z",
-      "live_viewers": 702,
+      "live_viewers": 711,
       "channel": {
         "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
         "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
@@ -450,7 +430,7 @@
       "available_at": "2026-05-20T13:02:01.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:02:01.000Z",
-      "live_viewers": 1617,
+      "live_viewers": 1692,
       "channel": {
         "id": "UCwXfrtn26oj7JW9fwB_z1bw",
         "name": "咲乃もこ【SakinoMoco】",
@@ -470,7 +450,7 @@
       "available_at": "2026-05-20T13:02:06.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:02:06.000Z",
-      "live_viewers": 4769,
+      "live_viewers": 4844,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -510,7 +490,7 @@
       "available_at": "2026-05-20T13:03:26.000Z",
       "start_scheduled": "2026-05-20T13:00:00.000Z",
       "start_actual": "2026-05-20T13:03:26.000Z",
-      "live_viewers": 33189,
+      "live_viewers": 32156,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
