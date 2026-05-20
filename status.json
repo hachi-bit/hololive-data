@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779268939,
+  "cached_at": 1779269001,
   "lives": {
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "5YippEBEQLQ",
-      "title": "#3【パラノマサイト FILE38 伊勢人魚物語】迷探偵花咲、事件解決編。【花咲みやび/ホロスターズ】【ネタバレあり】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-20T00:39:11.000Z",
-      "available_at": "2026-05-20T02:59:14.000Z",
-      "start_scheduled": "2026-05-20T03:00:00.000Z",
-      "start_actual": "2026-05-20T02:59:14.000Z",
-      "live_viewers": 341,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "_BjJJhatU9s",
       "title": "【ドラゴンボールZ KAKAROT】「TRUNKS 希望の戦士」DLCの続きやっていくよ!【ホロライブ DEV_IS 響咲リオナ】※ネタバレあり",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-20T09:00:23.000Z",
       "start_scheduled": "2026-05-20T09:00:00.000Z",
       "start_actual": "2026-05-20T09:00:23.000Z",
-      "live_viewers": 2665,
+      "live_viewers": 2825,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-20T09:06:00.000Z",
       "start_scheduled": "2026-05-20T09:00:00.000Z",
       "start_actual": "2026-05-20T09:06:00.000Z",
-      "live_viewers": 5353,
+      "live_viewers": 5668,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-20T09:07:47.000Z",
       "start_scheduled": "2026-05-20T09:00:00.000Z",
       "start_actual": "2026-05-20T09:07:47.000Z",
-      "live_viewers": 155,
+      "live_viewers": 188,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
