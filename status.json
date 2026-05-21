@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779370159,
+  "cached_at": 1779370219,
   "lives": {
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
       "video_id": "HhLwN4NHVFc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-21T10:00:40.000Z",
       "start_scheduled": "2026-05-21T10:00:00.000Z",
       "start_actual": "2026-05-21T10:00:40.000Z",
-      "live_viewers": 4655,
+      "live_viewers": 4592,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-21T12:03:41.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:03:41.000Z",
-      "live_viewers": 13519,
+      "live_viewers": 13416,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-21T12:35:23.000Z",
       "start_scheduled": "2026-05-21T12:30:00.000Z",
       "start_actual": "2026-05-21T12:35:23.000Z",
-      "live_viewers": 515,
+      "live_viewers": 394,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-21T12:37:55.000Z",
       "start_scheduled": "2026-05-21T12:30:00.000Z",
       "start_actual": "2026-05-21T12:37:55.000Z",
-      "live_viewers": 13692,
+      "live_viewers": 13435,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -166,12 +166,12 @@
       "title": "インターネット開通できなかった女の1人タコパ",
       "type": "stream",
       "status": "live",
-      "topic_id": "Camera_Stream",
+      "topic_id": "Cooking_Stream",
       "published_at": "2026-05-21T12:58:01.000Z",
       "available_at": "2026-05-21T13:01:11.000Z",
       "start_scheduled": "2026-05-21T12:58:01.000Z",
       "start_actual": "2026-05-21T13:01:11.000Z",
-      "live_viewers": 6886,
+      "live_viewers": 7285,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-21T13:01:15.000Z",
       "start_scheduled": "2026-05-21T13:00:00.000Z",
       "start_actual": "2026-05-21T13:01:15.000Z",
-      "live_viewers": 62370,
+      "live_viewers": 65042,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -206,12 +206,12 @@
       "title": "【雑談】LIVE振り返り&新衣装3D見る&重大発表おさらい!【儒烏風亭らでん #ReGLOSS 】",
       "type": "stream",
       "status": "live",
-      "topic_id": "Outfit_Reveal",
+      "topic_id": "talk",
       "published_at": "2026-05-21T11:37:10.000Z",
       "available_at": "2026-05-21T13:01:39.000Z",
       "start_scheduled": "2026-05-21T13:00:00.000Z",
       "start_actual": "2026-05-21T13:01:39.000Z",
-      "live_viewers": 4803,
+      "live_viewers": 4777,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-21T13:10:26.000Z",
       "start_scheduled": "2026-05-21T21:00:00.000Z",
       "start_actual": "2026-05-21T13:10:26.000Z",
-      "live_viewers": 157,
+      "live_viewers": 174,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
