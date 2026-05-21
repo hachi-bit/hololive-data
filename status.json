@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779377779,
+  "cached_at": 1779377839,
   "lives": {
     "UCtyWhCj3AqKh2dXctLkDtng": {
       "video_id": "dhWKQkENAHo",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-21T12:01:29.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:01:29.000Z",
-      "live_viewers": 12277,
+      "live_viewers": 12112,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-21T14:03:51.000Z",
       "start_scheduled": "2026-05-21T14:00:00.000Z",
       "start_actual": "2026-05-21T14:03:51.000Z",
-      "live_viewers": 6557,
+      "live_viewers": 6474,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-21T14:04:04.000Z",
       "start_scheduled": "2026-05-21T14:00:00.000Z",
       "start_actual": "2026-05-21T14:04:04.000Z",
-      "live_viewers": 21471,
+      "live_viewers": 20763,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -178,26 +178,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdXAk5MpyLD8594lm_OvtGQ": {
-      "video_id": "t6zqijYoSgY",
-      "title": "【雑談】LIVE振り返り&新衣装3D見る&重大発表おさらい!【儒烏風亭らでん #ReGLOSS 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-21T14:42:43.000Z",
-      "available_at": "2026-05-21T14:43:48.000Z",
-      "start_scheduled": "2026-05-21T14:43:43.000Z",
-      "start_actual": "2026-05-21T14:43:48.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
-        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
-        "english_name": "Juufuutei Raden",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
