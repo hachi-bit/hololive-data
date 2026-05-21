@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779365779,
+  "cached_at": 1779365839,
   "lives": {
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
       "video_id": "HhLwN4NHVFc",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-21T11:11:39.000Z",
       "start_scheduled": "2026-05-21T11:00:00.000Z",
       "start_actual": "2026-05-21T11:11:39.000Z",
-      "live_viewers": 33908,
+      "live_viewers": 33192,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-21T11:58:17.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T11:58:17.000Z",
-      "live_viewers": 27767,
+      "live_viewers": 28969,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -119,25 +119,6 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "P7YJl1wg02g",
-      "title": "【 3Dコラボ 】VR!最恐ホラゲー Home Sweet Homeに枢ヴィヴィで挑戦!! 【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Home_Sweet_Home",
-      "published_at": "2026-05-21T03:37:32.000Z",
-      "available_at": "2026-05-21T12:00:00.000Z",
-      "start_scheduled": "2026-05-21T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "english_name": "Kikirara Vivi",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
@@ -150,7 +131,7 @@
       "available_at": "2026-05-21T12:00:23.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:00:23.000Z",
-      "live_viewers": 4677,
+      "live_viewers": 4825,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -170,7 +151,7 @@
       "available_at": "2026-05-21T12:01:15.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:01:15.000Z",
-      "live_viewers": 1300,
+      "live_viewers": 1335,
       "channel": {
         "id": "UCfipDDn7wY-C-SoUChgxCQQ",
         "name": "葉山舞鈴 / Ohayama Ch.",
@@ -190,7 +171,7 @@
       "available_at": "2026-05-21T12:01:29.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:01:29.000Z",
-      "live_viewers": 6537,
+      "live_viewers": 7146,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -210,7 +191,7 @@
       "available_at": "2026-05-21T12:03:41.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:03:41.000Z",
-      "live_viewers": 10958,
+      "live_viewers": 11131,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
