@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779321919,
+  "cached_at": 1779321979,
   "lives": {
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
       "video_id": "95po_WCvQ1A",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-20T22:32:21.000Z",
       "start_scheduled": "2026-05-20T22:30:00.000Z",
       "start_actual": "2026-05-20T22:32:21.000Z",
-      "live_viewers": 213,
+      "live_viewers": 206,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-21T00:00:11.000Z",
       "start_scheduled": "2026-05-21T00:00:00.000Z",
       "start_actual": "2026-05-21T00:00:11.000Z",
-      "live_viewers": 3398,
+      "live_viewers": 6528,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-21T00:00:14.000Z",
       "start_scheduled": "2026-05-21T00:00:00.000Z",
       "start_actual": "2026-05-21T00:00:14.000Z",
-      "live_viewers": 1143,
+      "live_viewers": 2088,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -79,6 +79,26 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7gxU6NXjKF1LrgOddPzgTw": {
+      "video_id": "jaQB0En4JEs",
+      "title": "【 Zelda: The Minish Cap】A LITTLE ADVENTURE FOR A LITTLE GUY LIKE ME 🗡️✨【2】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "zelda",
+      "published_at": "2026-05-20T13:38:58.000Z",
+      "available_at": "2026-05-21T00:01:34.000Z",
+      "start_scheduled": "2026-05-21T00:15:00.000Z",
+      "start_actual": "2026-05-21T00:01:34.000Z",
+      "live_viewers": 94,
+      "channel": {
+        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+        "english_name": "Banzoin Hakka",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
