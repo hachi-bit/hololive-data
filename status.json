@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779372619,
+  "cached_at": 1779372683,
   "lives": {
     "UCtyWhCj3AqKh2dXctLkDtng": {
       "video_id": "dhWKQkENAHo",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-21T11:01:23.000Z",
       "start_scheduled": "2026-05-21T11:00:00.000Z",
       "start_actual": "2026-05-21T11:01:23.000Z",
-      "live_viewers": 1733,
+      "live_viewers": 1697,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-21T12:01:15.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:01:15.000Z",
-      "live_viewers": 1853,
+      "live_viewers": 1835,
       "channel": {
         "id": "UCfipDDn7wY-C-SoUChgxCQQ",
         "name": "葉山舞鈴 / Ohayama Ch.",
@@ -141,26 +141,6 @@
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCvzGlP9oQwU--Y0r9id_jnA": {
-      "video_id": "N3UkUjJ8UiY",
-      "title": "【#ホロワードウルフ】ワードウルフやるしゅばああああああああああああああああああああああああああああああああああああ!!!!!!【ホロライブ/大空スバル】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "WordWolf",
-      "published_at": "2026-05-20T07:34:07.000Z",
-      "available_at": "2026-05-21T13:01:15.000Z",
-      "start_scheduled": "2026-05-21T13:00:00.000Z",
-      "start_actual": "2026-05-21T13:01:15.000Z",
-      "live_viewers": 68206,
-      "channel": {
-        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-        "name": "Subaru Ch. 大空スバル",
-        "english_name": "Oozora Subaru",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCdXAk5MpyLD8594lm_OvtGQ": {
       "video_id": "WE8NK0wBFwQ",
       "title": "【雑談】LIVE振り返り&新衣装3D見る&重大発表おさらい!【儒烏風亭らでん #ReGLOSS 】",
@@ -241,25 +221,6 @@
         "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC1suqwovbL1kzsoaZgFZLKg": {
-      "video_id": "5TtNu2VegKM",
-      "title": "【悪意 Dread Neighbor】あらゆる隙間から、無数の視線が見つめてくる心理ホラーゲーム 【ホロライブ/癒月ちょこ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Dread_Flats",
-      "published_at": "2026-05-20T15:17:46.000Z",
-      "available_at": "2026-05-21T14:00:00.000Z",
-      "start_scheduled": "2026-05-21T14:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC1suqwovbL1kzsoaZgFZLKg",
-        "name": "Choco Ch. 癒月ちょこ",
-        "english_name": "Yuzuki Choco",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "XFvJA0qPSSk",
       "title": "【 MOTHER 】完全初見!山の上の爺とは・・・?砂漠はなんだ?【鷹嶺ルイ/ホロライブ】",
@@ -279,6 +240,25 @@
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UC1suqwovbL1kzsoaZgFZLKg": {
+      "video_id": "5TtNu2VegKM",
+      "title": "【悪意 Dread Neighbor】あらゆる隙間から、無数の視線が見つめてくる心理ホラーゲーム 【ホロライブ/癒月ちょこ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dread_Flats",
+      "published_at": "2026-05-20T15:17:46.000Z",
+      "available_at": "2026-05-21T14:00:00.000Z",
+      "start_scheduled": "2026-05-21T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1suqwovbL1kzsoaZgFZLKg",
+        "name": "Choco Ch. 癒月ちょこ",
+        "english_name": "Yuzuki Choco",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCvInZx9h3jC2JzsIzoOebWg": {
       "video_id": "krCjDue9l2Y",
       "title": "【R.E.P.O.】今夜のREPOはここですか【不知火フレア/ホロライブ】",
@@ -289,7 +269,7 @@
       "available_at": "2026-05-21T14:03:51.000Z",
       "start_scheduled": "2026-05-21T14:00:00.000Z",
       "start_actual": "2026-05-21T14:03:51.000Z",
-      "live_viewers": 2255,
+      "live_viewers": 2396,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -309,7 +289,7 @@
       "available_at": "2026-05-21T14:03:58.000Z",
       "start_scheduled": "2026-05-21T14:00:00.000Z",
       "start_actual": "2026-05-21T14:03:58.000Z",
-      "live_viewers": 5730,
+      "live_viewers": 7009,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -329,7 +309,7 @@
       "available_at": "2026-05-21T14:04:04.000Z",
       "start_scheduled": "2026-05-21T14:00:00.000Z",
       "start_actual": "2026-05-21T14:04:04.000Z",
-      "live_viewers": 6110,
+      "live_viewers": 8938,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
