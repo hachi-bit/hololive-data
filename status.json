@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779397279,
+  "cached_at": 1779397339,
   "lives": {
     "UC1suqwovbL1kzsoaZgFZLKg": {
       "video_id": "MKlgmUyHB94",
@@ -38,6 +38,25 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCDHABijvPBnJm7F-KlNME3w": {
+      "video_id": "zy_aUBVB51E",
+      "title": "【GREMBERS WATCHALONG】The Good Place S2 EP7-12",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-21T08:14:05.000Z",
+      "available_at": "2026-05-21T21:00:00.000Z",
+      "start_scheduled": "2026-05-21T21:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCDHABijvPBnJm7F-KlNME3w",
+        "name": "Gigi Murin Ch. hololive-EN",
+        "english_name": "Gigi Murin",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
