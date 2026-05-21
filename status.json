@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779369199,
+  "cached_at": 1779369259,
   "lives": {
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
       "video_id": "HhLwN4NHVFc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-21T10:00:40.000Z",
       "start_scheduled": "2026-05-21T10:00:00.000Z",
       "start_actual": "2026-05-21T10:00:40.000Z",
-      "live_viewers": 4793,
+      "live_viewers": 4705,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-21T11:01:23.000Z",
       "start_scheduled": "2026-05-21T11:00:00.000Z",
       "start_actual": "2026-05-21T11:01:23.000Z",
-      "live_viewers": 1934,
+      "live_viewers": 1910,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-21T12:00:23.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:00:23.000Z",
-      "live_viewers": 6373,
+      "live_viewers": 6421,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-21T12:37:55.000Z",
       "start_scheduled": "2026-05-21T12:30:00.000Z",
       "start_actual": "2026-05-21T12:37:55.000Z",
-      "live_viewers": 14454,
+      "live_viewers": 14228,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-21T13:01:11.000Z",
       "start_scheduled": "2026-05-21T12:58:01.000Z",
       "start_actual": "2026-05-21T13:01:11.000Z",
-      "live_viewers": 4435,
+      "live_viewers": 4633,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-21T13:01:15.000Z",
       "start_scheduled": "2026-05-21T13:00:00.000Z",
       "start_actual": "2026-05-21T13:01:15.000Z",
-      "live_viewers": 48211,
+      "live_viewers": 51017,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-21T13:01:39.000Z",
       "start_scheduled": "2026-05-21T13:00:00.000Z",
       "start_actual": "2026-05-21T13:01:39.000Z",
-      "live_viewers": 3839,
+      "live_viewers": 4169,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -219,6 +219,26 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCJv02SHZgav7Mv3V0kBOR8Q": {
+      "video_id": "G16hb41Vn0Q",
+      "title": "【Yoshi and the Mysterious Book】EGGS, FRUITS, AND YOSHI'S!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Yoshi",
+      "published_at": "2026-05-20T18:19:38.000Z",
+      "available_at": "2026-05-21T13:10:26.000Z",
+      "start_scheduled": "2026-05-21T21:00:00.000Z",
+      "start_actual": "2026-05-21T13:10:26.000Z",
+      "live_viewers": 62,
+      "channel": {
+        "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
+        "name": "Goldbullet Ch. HOLOSTARS-EN",
+        "english_name": "Goldbullet",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
