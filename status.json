@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779364519,
+  "cached_at": 1779364579,
   "lives": {
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
       "video_id": "HhLwN4NHVFc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-21T10:00:40.000Z",
       "start_scheduled": "2026-05-21T10:00:00.000Z",
       "start_actual": "2026-05-21T10:00:40.000Z",
-      "live_viewers": 5385,
+      "live_viewers": 5226,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-21T10:00:57.000Z",
       "start_scheduled": "2026-05-21T10:00:00.000Z",
       "start_actual": "2026-05-21T10:00:57.000Z",
-      "live_viewers": 19480,
+      "live_viewers": 19556,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-21T10:02:30.000Z",
       "start_scheduled": "2026-05-21T10:00:00.000Z",
       "start_actual": "2026-05-21T10:02:30.000Z",
-      "live_viewers": 5953,
+      "live_viewers": 5826,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-21T10:55:29.000Z",
       "start_scheduled": "2026-05-21T11:00:00.000Z",
       "start_actual": "2026-05-21T10:55:29.000Z",
-      "live_viewers": 3434,
+      "live_viewers": 3410,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-21T10:59:41.000Z",
       "start_scheduled": "2026-05-21T11:00:00.000Z",
       "start_actual": "2026-05-21T10:59:41.000Z",
-      "live_viewers": 19505,
+      "live_viewers": 19618,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-21T11:02:21.000Z",
       "start_scheduled": "2026-05-21T11:00:00.000Z",
       "start_actual": "2026-05-21T11:02:21.000Z",
-      "live_viewers": 8114,
+      "live_viewers": 8095,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-21T11:11:39.000Z",
       "start_scheduled": "2026-05-21T11:00:00.000Z",
       "start_actual": "2026-05-21T11:11:39.000Z",
-      "live_viewers": 36721,
+      "live_viewers": 36741,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
