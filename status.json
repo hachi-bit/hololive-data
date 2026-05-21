@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779322039,
+  "cached_at": 1779322099,
   "lives": {
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
       "video_id": "95po_WCvQ1A",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-21T00:00:11.000Z",
       "start_scheduled": "2026-05-21T00:00:00.000Z",
       "start_actual": "2026-05-21T00:00:11.000Z",
-      "live_viewers": 6528,
+      "live_viewers": 7159,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-21T00:00:14.000Z",
       "start_scheduled": "2026-05-21T00:00:00.000Z",
       "start_actual": "2026-05-21T00:00:14.000Z",
-      "live_viewers": 2088,
+      "live_viewers": 2452,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-21T00:01:34.000Z",
       "start_scheduled": "2026-05-21T00:15:00.000Z",
       "start_actual": "2026-05-21T00:01:34.000Z",
-      "live_viewers": 94,
+      "live_viewers": 110,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -99,6 +99,25 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCajbFh6e_R8QZdHAMbbi4rQ": {
+      "video_id": "C51KtKWoY3Q",
+      "title": "Bugs are our Friends【WARHAMMER 40K: SPACE MARINE 2】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Warhammer",
+      "published_at": "2026-05-21T00:04:06.000Z",
+      "available_at": "2026-05-21T00:05:00.000Z",
+      "start_scheduled": "2026-05-21T00:05:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+        "english_name": "Crimzon Ruze",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
