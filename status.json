@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779357379,
+  "cached_at": 1779357439,
   "lives": {
-    "UC8rcEBzJSleTkf_-agPM20g": {
-      "video_id": "2J_ZSp5Iyj4",
-      "title": "【Members Only・メン限】Independence Day Watchalong",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-20T19:59:01.000Z",
-      "available_at": "2026-05-21T03:40:17.000Z",
-      "start_scheduled": "2026-05-21T03:30:00.000Z",
-      "start_actual": "2026-05-21T03:40:17.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC8rcEBzJSleTkf_-agPM20g",
-        "name": "IRyS Ch. hololive-EN",
-        "english_name": "IRyS",
-        "org": "Hololive",
-        "suborg": "iaEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCQ0UDLQCjY0rmuxCDE38FGg": {
       "video_id": "nRCluQH6JVI",
       "title": "【 Forza Horizon 6 】初めてのドライブデートだね!【ホロライブ/夏色まつり】",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-21T09:31:07.000Z",
       "start_scheduled": "2026-05-21T09:30:00.000Z",
       "start_actual": "2026-05-21T09:31:07.000Z",
-      "live_viewers": 189,
+      "live_viewers": 200,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
