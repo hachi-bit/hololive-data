@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779381259,
+  "cached_at": 1779381319,
   "lives": {
     "UCtyWhCj3AqKh2dXctLkDtng": {
       "video_id": "dhWKQkENAHo",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCJv02SHZgav7Mv3V0kBOR8Q": {
-      "video_id": "G16hb41Vn0Q",
-      "title": "【Yoshi and the Mysterious Book】EGGS, FRUITS, AND YOSHI'S!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Yoshi",
-      "published_at": "2026-05-20T18:19:38.000Z",
-      "available_at": "2026-05-21T13:10:26.000Z",
-      "start_scheduled": "2026-05-21T21:00:00.000Z",
-      "start_actual": "2026-05-21T13:10:26.000Z",
-      "live_viewers": 278,
-      "channel": {
-        "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
-        "name": "Goldbullet Ch. HOLOSTARS-EN",
-        "english_name": "Goldbullet",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChSvpZYRPh0FvG4SJGSga3g": {
@@ -130,7 +110,7 @@
       "available_at": "2026-05-21T14:03:58.000Z",
       "start_scheduled": "2026-05-21T14:00:00.000Z",
       "start_actual": "2026-05-21T14:03:58.000Z",
-      "live_viewers": 11502,
+      "live_viewers": 11545,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -150,7 +130,7 @@
       "available_at": "2026-05-21T14:04:04.000Z",
       "start_scheduled": "2026-05-21T14:00:00.000Z",
       "start_actual": "2026-05-21T14:04:04.000Z",
-      "live_viewers": 17859,
+      "live_viewers": 17566,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -230,7 +210,7 @@
       "available_at": "2026-05-21T15:59:15.000Z",
       "start_scheduled": "2026-05-21T16:00:00.000Z",
       "start_actual": "2026-05-21T15:59:15.000Z",
-      "live_viewers": 7835,
+      "live_viewers": 7760,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
