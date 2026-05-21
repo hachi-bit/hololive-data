@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779382998,
+  "cached_at": 1779383059,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "SFagvN6IQfc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-21T12:01:29.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:01:29.000Z",
-      "live_viewers": 7992,
+      "live_viewers": 8092,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-21T15:00:28.000Z",
       "start_scheduled": "2026-05-21T15:00:00.000Z",
       "start_actual": "2026-05-21T15:00:28.000Z",
-      "live_viewers": 700,
+      "live_viewers": 697,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -187,9 +187,10 @@
       "status": "live",
       "topic_id": "asmr",
       "published_at": "2026-05-21T16:36:10.000Z",
-      "available_at": "2026-05-21T17:00:00.000Z",
+      "available_at": "2026-05-21T17:01:08.000Z",
       "start_scheduled": "2026-05-21T17:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-21T17:01:08.000Z",
+      "live_viewers": 222,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
