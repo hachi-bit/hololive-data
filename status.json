@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779404478,
+  "cached_at": 1779404539,
   "lives": {
     "UC1suqwovbL1kzsoaZgFZLKg": {
       "video_id": "MKlgmUyHB94",
@@ -58,6 +58,25 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCL_qhgtOy0dy1Agp8vkySQg": {
+      "video_id": "3kBIwbatk0I",
+      "title": "【member's only】hhh i wanted to sing holosongs...we will chat today then sing anotha tim #calliolive",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-21T16:57:59.000Z",
+      "available_at": "2026-05-21T23:00:00.000Z",
+      "start_scheduled": "2026-05-21T23:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+        "name": "Mori Calliope Ch. hololive-EN",
+        "english_name": "Mori Calliope",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
