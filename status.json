@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779365059,
+  "cached_at": 1779365119,
   "lives": {
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
       "video_id": "HhLwN4NHVFc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-21T10:00:40.000Z",
       "start_scheduled": "2026-05-21T10:00:00.000Z",
       "start_actual": "2026-05-21T10:00:40.000Z",
-      "live_viewers": 5226,
+      "live_viewers": 5160,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -19,25 +19,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "ujwgQ2Aw9IQ",
-      "title": "#最終回【初見】『機動戦士ガンダム Zガンダム』同時視聴!!ぺこ!【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-05-20T13:18:01.000Z",
-      "available_at": "2026-05-21T12:00:00.000Z",
-      "start_scheduled": "2026-05-21T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCL_qhgtOy0dy1Agp8vkySQg": {
@@ -50,7 +31,7 @@
       "available_at": "2026-05-21T10:02:30.000Z",
       "start_scheduled": "2026-05-21T10:00:00.000Z",
       "start_actual": "2026-05-21T10:02:30.000Z",
-      "live_viewers": 5826,
+      "live_viewers": 5762,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -90,7 +71,7 @@
       "available_at": "2026-05-21T10:59:41.000Z",
       "start_scheduled": "2026-05-21T11:00:00.000Z",
       "start_actual": "2026-05-21T10:59:41.000Z",
-      "live_viewers": 19700,
+      "live_viewers": 18868,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -150,7 +131,7 @@
       "available_at": "2026-05-21T11:11:39.000Z",
       "start_scheduled": "2026-05-21T11:00:00.000Z",
       "start_actual": "2026-05-21T11:11:39.000Z",
-      "live_viewers": 35857,
+      "live_viewers": 34698,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -170,7 +151,7 @@
       "available_at": "2026-05-21T11:58:17.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T11:58:17.000Z",
-      "live_viewers": 8381,
+      "live_viewers": 18495,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -180,23 +161,23 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCfipDDn7wY-C-SoUChgxCQQ": {
-      "video_id": "bpMrmyg71uk",
-      "title": "【 Slay the Spire 2 】にじホロスレスパ会 with 白上フブキさん( さよならドアメーカー戸締まり回 )【 にじさんじ┊︎葉山舞鈴/コラボ 】",
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "ujwgQ2Aw9IQ",
+      "title": "#最終回【初見】『機動戦士ガンダム Zガンダム』同時視聴!!ぺこ!【ホロライブ/兎田ぺこら】",
       "type": "stream",
       "status": "live",
-      "topic_id": "Slay_the_Spire",
-      "published_at": "2026-05-21T09:48:48.000Z",
+      "topic_id": "watchalong",
+      "published_at": "2026-05-20T13:18:01.000Z",
       "available_at": "2026-05-21T12:00:00.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "live_viewers": 0,
       "channel": {
-        "id": "UCfipDDn7wY-C-SoUChgxCQQ",
-        "name": "葉山舞鈴 / Ohayama Ch.",
-        "english_name": "Hayama Marin",
-        "org": "Nijisanji",
-        "suborg": "0qMajoMarity",
-        "photo": "https://yt3.ggpht.com/56I5l_i1uam8JLFaJ7iUw4sE46aKz2qyekIFr3Vp0ynOFqXjKMJgIRyEyDIgaKXfd71A7_My9Q=s800-c-k-c0x00ffffff-no-rj"
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
@@ -218,25 +199,6 @@
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCKMWFR6lAstLa7Vbf5dH7ig": {
-      "video_id": "SFagvN6IQfc",
-      "title": "【Forza Horizon 6】フェスティバル進めますか!!!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Forza",
-      "published_at": "2026-05-21T11:35:51.000Z",
-      "available_at": "2026-05-21T12:00:00.000Z",
-      "start_scheduled": "2026-05-21T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "english_name": "Rindo Chihaya",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
       "video_id": "WOFmp-iUMcs",
       "title": "【 Slay the Spire 2 】 ありがとう…ドアメーカー…2人で戸締りコラボ!!#にじホロスレスパ  【白上フブキ/ホロライブ】",
@@ -244,10 +206,10 @@
       "status": "live",
       "topic_id": "Slay_the_Spire",
       "published_at": "2026-05-21T07:30:12.000Z",
-      "available_at": "2026-05-21T12:00:20.000Z",
+      "available_at": "2026-05-21T12:00:23.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
-      "start_actual": "2026-05-21T12:00:20.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-21T12:00:23.000Z",
+      "live_viewers": 3402,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -255,6 +217,46 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCfipDDn7wY-C-SoUChgxCQQ": {
+      "video_id": "bpMrmyg71uk",
+      "title": "【 Slay the Spire 2 】にじホロスレスパ会 with 白上フブキさん( さよならドアメーカー戸締まり回 )【 にじさんじ┊︎葉山舞鈴/コラボ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Slay_the_Spire",
+      "published_at": "2026-05-21T09:48:48.000Z",
+      "available_at": "2026-05-21T12:01:15.000Z",
+      "start_scheduled": "2026-05-21T12:00:00.000Z",
+      "start_actual": "2026-05-21T12:01:15.000Z",
+      "live_viewers": 854,
+      "channel": {
+        "id": "UCfipDDn7wY-C-SoUChgxCQQ",
+        "name": "葉山舞鈴 / Ohayama Ch.",
+        "english_name": "Hayama Marin",
+        "org": "Nijisanji",
+        "suborg": "0qMajoMarity",
+        "photo": "https://yt3.ggpht.com/56I5l_i1uam8JLFaJ7iUw4sE46aKz2qyekIFr3Vp0ynOFqXjKMJgIRyEyDIgaKXfd71A7_My9Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKMWFR6lAstLa7Vbf5dH7ig": {
+      "video_id": "SFagvN6IQfc",
+      "title": "【Forza Horizon 6】フェスティバル進めますか!!!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-05-21T11:35:51.000Z",
+      "available_at": "2026-05-21T12:01:29.000Z",
+      "start_scheduled": "2026-05-21T12:00:00.000Z",
+      "start_actual": "2026-05-21T12:01:29.000Z",
+      "live_viewers": 2405,
+      "channel": {
+        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+        "english_name": "Rindo Chihaya",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
