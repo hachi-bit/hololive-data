@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779400819,
+  "cached_at": 1779400879,
   "lives": {
     "UC1suqwovbL1kzsoaZgFZLKg": {
       "video_id": "MKlgmUyHB94",
@@ -58,6 +58,26 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
+      "video_id": "y5kRj9C_iyo",
+      "title": "ゼロから始める\"\" ぽこ あ ポケモン \"\" 生活 ~第十話【 ホロスターズ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pokemon_Pokopia",
+      "published_at": "2026-05-21T21:45:53.000Z",
+      "available_at": "2026-05-21T21:58:17.000Z",
+      "start_scheduled": "2026-05-21T22:00:00.000Z",
+      "start_actual": "2026-05-21T21:58:17.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
+        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
+        "english_name": "Utsugi Uyu",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
