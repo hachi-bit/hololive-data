@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779374359,
+  "cached_at": 1779374419,
   "lives": {
     "UCtyWhCj3AqKh2dXctLkDtng": {
       "video_id": "dhWKQkENAHo",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCfipDDn7wY-C-SoUChgxCQQ": {
-      "video_id": "bpMrmyg71uk",
-      "title": "【 Slay the Spire 2 】にじホロスレスパ会 with 白上フブキさん（ さよならドアメーカー戸締まり回 ）【 にじさんじ┊︎葉山舞鈴/コラボ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Slay_the_Spire",
-      "published_at": "2026-05-21T09:48:48.000Z",
-      "available_at": "2026-05-21T12:01:15.000Z",
-      "start_scheduled": "2026-05-21T12:00:00.000Z",
-      "start_actual": "2026-05-21T12:01:15.000Z",
-      "live_viewers": 1725,
-      "channel": {
-        "id": "UCfipDDn7wY-C-SoUChgxCQQ",
-        "name": "葉山舞鈴 / Ohayama Ch.",
-        "english_name": "Hayama Marin",
-        "org": "Nijisanji",
-        "suborg": "0qMajoMarity",
-        "photo": "https://yt3.ggpht.com/56I5l_i1uam8JLFaJ7iUw4sE46aKz2qyekIFr3Vp0ynOFqXjKMJgIRyEyDIgaKXfd71A7_My9Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
@@ -250,7 +230,7 @@
       "available_at": "2026-05-21T14:03:58.000Z",
       "start_scheduled": "2026-05-21T14:00:00.000Z",
       "start_actual": "2026-05-21T14:03:58.000Z",
-      "live_viewers": 11034,
+      "live_viewers": 11624,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -270,7 +250,7 @@
       "available_at": "2026-05-21T14:04:04.000Z",
       "start_scheduled": "2026-05-21T14:00:00.000Z",
       "start_actual": "2026-05-21T14:04:04.000Z",
-      "live_viewers": 17666,
+      "live_viewers": 18402,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -290,7 +270,7 @@
       "available_at": "2026-05-21T14:11:28.000Z",
       "start_scheduled": "2026-05-21T14:00:00.000Z",
       "start_actual": "2026-05-21T14:11:28.000Z",
-      "live_viewers": 1972,
+      "live_viewers": 2114,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
