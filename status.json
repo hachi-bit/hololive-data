@@ -1,9 +1,9 @@
 {
-  "cached_at": 1779361579,
+  "cached_at": 1779361639,
   "lives": {
     "UCjk2nKmHzgH5Xy-C5qYRd5A": {
       "video_id": "toi86S-iDBw",
-      "title": "【トモダチコレクション】すうがみてる島#3【水宮枢/ホロライブDEV_IS】",
+      "title": "【トモダチコレクション】すうがみてる島#３【水宮枢／ホロライブDEV_IS】",
       "type": "stream",
       "status": "live",
       "topic_id": "Tomodachi_Life",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-21T09:00:03.000Z",
       "start_scheduled": "2026-05-21T09:00:00.000Z",
       "start_actual": "2026-05-21T09:00:03.000Z",
-      "live_viewers": 6577,
+      "live_viewers": 4183,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-21T10:00:40.000Z",
       "start_scheduled": "2026-05-21T10:00:00.000Z",
       "start_actual": "2026-05-21T10:00:40.000Z",
-      "live_viewers": 5730,
+      "live_viewers": 5532,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-21T10:00:57.000Z",
       "start_scheduled": "2026-05-21T10:00:00.000Z",
       "start_actual": "2026-05-21T10:00:57.000Z",
-      "live_viewers": 18356,
+      "live_viewers": 18189,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-21T10:55:29.000Z",
       "start_scheduled": "2026-05-21T11:00:00.000Z",
       "start_actual": "2026-05-21T10:55:29.000Z",
-      "live_viewers": 2528,
+      "live_viewers": 2576,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-21T10:59:41.000Z",
       "start_scheduled": "2026-05-21T11:00:00.000Z",
       "start_actual": "2026-05-21T10:59:41.000Z",
-      "live_viewers": 7917,
+      "live_viewers": 11964,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -119,25 +119,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCWQtYtq9EOB4-I5P-3fh8lA": {
-      "video_id": "a8GYotCWqxs",
-      "title": "【 歌枠 】久しぶりの横長歌枠!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-05-21T10:12:52.000Z",
-      "available_at": "2026-05-21T11:00:00.000Z",
-      "start_scheduled": "2026-05-21T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-        "english_name": "Otonose Kanade",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC-hM6YJuNYVAmUWxeIr9FeA": {
@@ -169,7 +150,7 @@
       "available_at": "2026-05-21T11:01:23.000Z",
       "start_scheduled": "2026-05-21T11:00:00.000Z",
       "start_actual": "2026-05-21T11:01:23.000Z",
-      "live_viewers": 688,
+      "live_viewers": 1489,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -177,6 +158,26 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCWQtYtq9EOB4-I5P-3fh8lA": {
+      "video_id": "a8GYotCWqxs",
+      "title": "【 歌枠 】久しぶりの横長歌枠!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-21T10:12:52.000Z",
+      "available_at": "2026-05-21T11:02:21.000Z",
+      "start_scheduled": "2026-05-21T11:00:00.000Z",
+      "start_actual": "2026-05-21T11:02:21.000Z",
+      "live_viewers": 3575,
+      "channel": {
+        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "english_name": "Otonose Kanade",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
