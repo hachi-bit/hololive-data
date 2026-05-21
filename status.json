@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779368779,
+  "cached_at": 1779368842,
   "lives": {
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
       "video_id": "HhLwN4NHVFc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-21T10:00:40.000Z",
       "start_scheduled": "2026-05-21T10:00:00.000Z",
       "start_actual": "2026-05-21T10:00:40.000Z",
-      "live_viewers": 4850,
+      "live_viewers": 4793,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-21T11:11:39.000Z",
       "start_scheduled": "2026-05-21T11:00:00.000Z",
       "start_actual": "2026-05-21T11:11:39.000Z",
-      "live_viewers": 31611,
+      "live_viewers": 29649,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-21T12:00:23.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:00:23.000Z",
-      "live_viewers": 6465,
+      "live_viewers": 6301,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-21T12:01:29.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:01:29.000Z",
-      "live_viewers": 11865,
+      "live_viewers": 11378,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-21T12:03:41.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:03:41.000Z",
-      "live_viewers": 12895,
+      "live_viewers": 13116,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-21T12:35:23.000Z",
       "start_scheduled": "2026-05-21T12:30:00.000Z",
       "start_actual": "2026-05-21T12:35:23.000Z",
-      "live_viewers": 364,
+      "live_viewers": 374,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-21T12:37:55.000Z",
       "start_scheduled": "2026-05-21T12:30:00.000Z",
       "start_actual": "2026-05-21T12:37:55.000Z",
-      "live_viewers": 16352,
+      "live_viewers": 15990,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -181,36 +181,17 @@
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdXAk5MpyLD8594lm_OvtGQ": {
-      "video_id": "WE8NK0wBFwQ",
-      "title": "【雑談】LIVE振り返り&新衣装3D見る&重大発表おさらい!【儒烏風亭らでん #ReGLOSS 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Outfit_Reveal",
-      "published_at": "2026-05-21T11:37:10.000Z",
-      "available_at": "2026-05-21T13:00:00.000Z",
-      "start_scheduled": "2026-05-21T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
-        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
-        "english_name": "Juufuutei Raden",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "NMeczL19AdQ",
       "title": "インターネット開通できなかった女の1人タコパ",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "Camera_Stream",
       "published_at": "2026-05-21T12:58:01.000Z",
       "available_at": "2026-05-21T13:01:11.000Z",
       "start_scheduled": "2026-05-21T12:58:01.000Z",
       "start_actual": "2026-05-21T13:01:11.000Z",
-      "live_viewers": 646,
+      "live_viewers": 2864,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -230,7 +211,7 @@
       "available_at": "2026-05-21T13:01:15.000Z",
       "start_scheduled": "2026-05-21T13:00:00.000Z",
       "start_actual": "2026-05-21T13:01:15.000Z",
-      "live_viewers": 18009,
+      "live_viewers": 33675,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -238,6 +219,26 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdXAk5MpyLD8594lm_OvtGQ": {
+      "video_id": "WE8NK0wBFwQ",
+      "title": "【雑談】LIVE振り返り&新衣装3D見る&重大発表おさらい!【儒烏風亭らでん #ReGLOSS 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Outfit_Reveal",
+      "published_at": "2026-05-21T11:37:10.000Z",
+      "available_at": "2026-05-21T13:01:39.000Z",
+      "start_scheduled": "2026-05-21T13:00:00.000Z",
+      "start_actual": "2026-05-21T13:01:39.000Z",
+      "live_viewers": 3010,
+      "channel": {
+        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+        "english_name": "Juufuutei Raden",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
