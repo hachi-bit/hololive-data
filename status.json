@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779367039,
+  "cached_at": 1779367098,
   "lives": {
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
       "video_id": "HhLwN4NHVFc",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-21T10:59:41.000Z",
       "start_scheduled": "2026-05-21T11:00:00.000Z",
       "start_actual": "2026-05-21T10:59:41.000Z",
-      "live_viewers": 17460,
+      "live_viewers": 14810,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-21T11:01:23.000Z",
       "start_scheduled": "2026-05-21T11:00:00.000Z",
       "start_actual": "2026-05-21T11:01:23.000Z",
-      "live_viewers": 2001,
+      "live_viewers": 2067,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCWQtYtq9EOB4-I5P-3fh8lA": {
-      "video_id": "a8GYotCWqxs",
-      "title": "【 歌枠 】久しぶりの横長歌枠!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-05-21T10:12:52.000Z",
-      "available_at": "2026-05-21T11:02:21.000Z",
-      "start_scheduled": "2026-05-21T11:00:00.000Z",
-      "start_actual": "2026-05-21T11:02:21.000Z",
-      "live_viewers": 7391,
-      "channel": {
-        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-        "english_name": "Otonose Kanade",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC-hM6YJuNYVAmUWxeIr9FeA": {
@@ -91,7 +71,7 @@
       "available_at": "2026-05-21T11:11:39.000Z",
       "start_scheduled": "2026-05-21T11:00:00.000Z",
       "start_actual": "2026-05-21T11:11:39.000Z",
-      "live_viewers": 32065,
+      "live_viewers": 32283,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-21T11:58:17.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T11:58:17.000Z",
-      "live_viewers": 31144,
+      "live_viewers": 31742,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-21T12:00:23.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:00:23.000Z",
-      "live_viewers": 5715,
+      "live_viewers": 5790,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-21T12:01:29.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:01:29.000Z",
-      "live_viewers": 9106,
+      "live_viewers": 10110,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-21T12:03:41.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:03:41.000Z",
-      "live_viewers": 12229,
+      "live_viewers": 12246,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -199,25 +179,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
-      "video_id": "89Dq55LvfX0",
-      "title": "【バイオハザード RE:2】# 3 初見でやるバイ!【 #奏手イヅル 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-05-20T19:48:54.000Z",
-      "available_at": "2026-05-21T12:30:00.000Z",
-      "start_scheduled": "2026-05-21T12:30:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "name": "Izuru Ch. 奏手イヅル",
-        "english_name": "Kanade Izuru",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
@@ -237,6 +198,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
+      "video_id": "89Dq55LvfX0",
+      "title": "【バイオハザード RE:2】# 3 初見でやるバイ!【 #奏手イヅル 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-05-20T19:48:54.000Z",
+      "available_at": "2026-05-21T12:35:23.000Z",
+      "start_scheduled": "2026-05-21T12:30:00.000Z",
+      "start_actual": "2026-05-21T12:35:23.000Z",
+      "live_viewers": 164,
+      "channel": {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "english_name": "Kanade Izuru",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
