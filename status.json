@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779368600,
+  "cached_at": 1779368659,
   "lives": {
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
       "video_id": "HhLwN4NHVFc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-21T10:00:40.000Z",
       "start_scheduled": "2026-05-21T10:00:00.000Z",
       "start_actual": "2026-05-21T10:00:40.000Z",
-      "live_viewers": 4742,
+      "live_viewers": 4850,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChAnqc_AY5_I3Px5dig3X1Q": {
-      "video_id": "8dDVN2hz3ko",
-      "title": "【夜勤清掃】ホラゲやる。",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "The_Night_Cleaner",
-      "published_at": "2026-05-21T07:15:39.000Z",
-      "available_at": "2026-05-21T10:59:41.000Z",
-      "start_scheduled": "2026-05-21T11:00:00.000Z",
-      "start_actual": "2026-05-21T10:59:41.000Z",
-      "live_viewers": 8881,
-      "channel": {
-        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
-        "name": "Korone Ch. 戌神ころね",
-        "english_name": "Inugami Korone",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCtyWhCj3AqKh2dXctLkDtng": {
@@ -131,7 +111,7 @@
       "available_at": "2026-05-21T12:01:29.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:01:29.000Z",
-      "live_viewers": 11041,
+      "live_viewers": 11865,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-21T12:35:23.000Z",
       "start_scheduled": "2026-05-21T12:30:00.000Z",
       "start_actual": "2026-05-21T12:35:23.000Z",
-      "live_viewers": 338,
+      "live_viewers": 364,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -220,6 +200,26 @@
         "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "NMeczL19AdQ",
+      "title": "インターネット開通できなかった女の1人タコパ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-21T12:58:01.000Z",
+      "available_at": "2026-05-21T13:01:11.000Z",
+      "start_scheduled": "2026-05-21T12:58:01.000Z",
+      "start_actual": "2026-05-21T13:01:11.000Z",
+      "live_viewers": 646,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCvzGlP9oQwU--Y0r9id_jnA": {
       "video_id": "N3UkUjJ8UiY",
       "title": "【#ホロワードウルフ】ワードウルフやるしゅばああああああああああああああああああああああああああああああああああああ!!!!!!【ホロライブ/大空スバル】",
@@ -227,9 +227,10 @@
       "status": "live",
       "topic_id": "WordWolf",
       "published_at": "2026-05-20T07:34:07.000Z",
-      "available_at": "2026-05-21T13:00:00.000Z",
+      "available_at": "2026-05-21T13:01:15.000Z",
       "start_scheduled": "2026-05-21T13:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-21T13:01:15.000Z",
+      "live_viewers": 18009,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
