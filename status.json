@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779382879,
+  "cached_at": 1779382939,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "SFagvN6IQfc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-21T12:01:29.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:01:29.000Z",
-      "live_viewers": 7913,
+      "live_viewers": 7992,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-21T13:36:16.000Z",
       "start_scheduled": "2026-05-21T14:00:00.000Z",
       "start_actual": "2026-05-21T13:36:16.000Z",
-      "live_viewers": 506,
+      "live_viewers": 498,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-21T14:03:58.000Z",
       "start_scheduled": "2026-05-21T14:00:00.000Z",
       "start_actual": "2026-05-21T14:03:58.000Z",
-      "live_viewers": 10884,
+      "live_viewers": 10772,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-21T14:04:04.000Z",
       "start_scheduled": "2026-05-21T14:00:00.000Z",
       "start_actual": "2026-05-21T14:04:04.000Z",
-      "live_viewers": 15807,
+      "live_viewers": 15473,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-21T14:11:28.000Z",
       "start_scheduled": "2026-05-21T14:00:00.000Z",
       "start_actual": "2026-05-21T14:11:28.000Z",
-      "live_viewers": 2904,
+      "live_viewers": 2847,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-21T15:00:05.000Z",
       "start_scheduled": "2026-05-21T15:00:00.000Z",
       "start_actual": "2026-05-21T15:00:05.000Z",
-      "live_viewers": 1679,
+      "live_viewers": 1787,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -178,6 +178,25 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "ujk6_kR3_VI",
+      "title": "【Typing Sounds ASMR】Last Chance to Preorder! Using My Reine Keyboard Out of the Box",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "asmr",
+      "published_at": "2026-05-21T16:36:10.000Z",
+      "available_at": "2026-05-21T17:00:00.000Z",
+      "start_scheduled": "2026-05-21T17:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
