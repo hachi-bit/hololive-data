@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779374239,
+  "cached_at": 1779374299,
   "lives": {
     "UCtyWhCj3AqKh2dXctLkDtng": {
       "video_id": "dhWKQkENAHo",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-21T11:01:23.000Z",
       "start_scheduled": "2026-05-21T11:00:00.000Z",
       "start_actual": "2026-05-21T11:01:23.000Z",
-      "live_viewers": 1748,
+      "live_viewers": 1744,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -21,29 +21,9 @@
         "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "WOFmp-iUMcs",
-      "title": "【 Slay the Spire 2 】 ありがとう…ドアメーカー…2人で戸締りコラボ!!#にじホロスレスパ  【白上フブキ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Slay_the_Spire",
-      "published_at": "2026-05-21T07:30:12.000Z",
-      "available_at": "2026-05-21T12:00:23.000Z",
-      "start_scheduled": "2026-05-21T12:00:00.000Z",
-      "start_actual": "2026-05-21T12:00:23.000Z",
-      "live_viewers": 5899,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "フブキCh。白上フブキ",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCfipDDn7wY-C-SoUChgxCQQ": {
       "video_id": "bpMrmyg71uk",
-      "title": "【 Slay the Spire 2 】にじホロスレスパ会 with 白上フブキさん( さよならドアメーカー戸締まり回 )【 にじさんじ┊︎葉山舞鈴/コラボ 】",
+      "title": "【 Slay the Spire 2 】にじホロスレスパ会 with 白上フブキさん（ さよならドアメーカー戸締まり回 ）【 にじさんじ┊︎葉山舞鈴/コラボ 】",
       "type": "stream",
       "status": "live",
       "topic_id": "Slay_the_Spire",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-21T12:01:15.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:01:15.000Z",
-      "live_viewers": 1857,
+      "live_viewers": 1725,
       "channel": {
         "id": "UCfipDDn7wY-C-SoUChgxCQQ",
         "name": "葉山舞鈴 / Ohayama Ch.",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-21T12:01:29.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:01:29.000Z",
-      "live_viewers": 13182,
+      "live_viewers": 12792,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-21T12:03:41.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:03:41.000Z",
-      "live_viewers": 15272,
+      "live_viewers": 15556,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-21T13:01:11.000Z",
       "start_scheduled": "2026-05-21T12:58:01.000Z",
       "start_actual": "2026-05-21T13:01:11.000Z",
-      "live_viewers": 8433,
+      "live_viewers": 7840,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-21T13:29:35.000Z",
       "start_scheduled": "2026-05-21T13:30:00.000Z",
       "start_actual": "2026-05-21T13:29:35.000Z",
-      "live_viewers": 4486,
+      "live_viewers": 4277,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-21T13:36:16.000Z",
       "start_scheduled": "2026-05-21T14:00:00.000Z",
       "start_actual": "2026-05-21T13:36:16.000Z",
-      "live_viewers": 514,
+      "live_viewers": 516,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -250,7 +230,7 @@
       "available_at": "2026-05-21T14:03:51.000Z",
       "start_scheduled": "2026-05-21T14:00:00.000Z",
       "start_actual": "2026-05-21T14:03:51.000Z",
-      "live_viewers": 4873,
+      "live_viewers": 5299,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -270,7 +250,7 @@
       "available_at": "2026-05-21T14:03:58.000Z",
       "start_scheduled": "2026-05-21T14:00:00.000Z",
       "start_actual": "2026-05-21T14:03:58.000Z",
-      "live_viewers": 11052,
+      "live_viewers": 11034,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -290,7 +270,7 @@
       "available_at": "2026-05-21T14:04:04.000Z",
       "start_scheduled": "2026-05-21T14:00:00.000Z",
       "start_actual": "2026-05-21T14:04:04.000Z",
-      "live_viewers": 17568,
+      "live_viewers": 17666,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -310,7 +290,7 @@
       "available_at": "2026-05-21T14:11:28.000Z",
       "start_scheduled": "2026-05-21T14:00:00.000Z",
       "start_actual": "2026-05-21T14:11:28.000Z",
-      "live_viewers": 1948,
+      "live_viewers": 1972,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
