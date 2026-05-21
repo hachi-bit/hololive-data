@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779360079,
+  "cached_at": 1779360139,
   "lives": {
-    "UCQ0UDLQCjY0rmuxCDE38FGg": {
-      "video_id": "nRCluQH6JVI",
-      "title": "【 Forza Horizon 6 】初めてのドライブデートだね！【ホロライブ/夏色まつり】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Forza",
-      "published_at": "2026-05-21T02:59:42.000Z",
-      "available_at": "2026-05-21T09:00:02.000Z",
-      "start_scheduled": "2026-05-21T09:00:00.000Z",
-      "start_actual": "2026-05-21T09:00:02.000Z",
-      "live_viewers": 13075,
-      "channel": {
-        "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-        "name": "Matsuri Channel 夏色まつり",
-        "english_name": "Natsuiro Matsuri",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCjk2nKmHzgH5Xy-C5qYRd5A": {
       "video_id": "toi86S-iDBw",
       "title": "【トモダチコレクション】すうがみてる島#3【水宮枢/ホロライブDEV_IS】",
@@ -39,26 +19,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCK9V2B22uJYu3N7eR_BT9QA": {
-      "video_id": "fHLlDeHmezI",
-      "title": "【トモコレ】#9 緊急で動画をまわしています!【尾丸ポルカ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-21T09:00:06.000Z",
-      "available_at": "2026-05-21T09:00:06.000Z",
-      "start_scheduled": "2026-05-21T09:00:00.000Z",
-      "start_actual": "2026-05-21T09:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-        "name": "Polka Ch. 尾丸ポルカ",
-        "english_name": "Omaru Polka",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC6t3-_N8A6ME1JShZHHqOMw": {
@@ -91,7 +51,7 @@
       "available_at": "2026-05-21T10:00:40.000Z",
       "start_scheduled": "2026-05-21T10:00:00.000Z",
       "start_actual": "2026-05-21T10:00:40.000Z",
-      "live_viewers": 4583,
+      "live_viewers": 5095,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -111,7 +71,7 @@
       "available_at": "2026-05-21T10:00:57.000Z",
       "start_scheduled": "2026-05-21T10:00:00.000Z",
       "start_actual": "2026-05-21T10:00:57.000Z",
-      "live_viewers": 16124,
+      "live_viewers": 16657,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
