@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779370759,
+  "cached_at": 1779370819,
   "lives": {
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
       "video_id": "HhLwN4NHVFc",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-21T12:00:23.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:00:23.000Z",
-      "live_viewers": 6335,
+      "live_viewers": 6382,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-21T12:01:29.000Z",
       "start_scheduled": "2026-05-21T12:00:00.000Z",
       "start_actual": "2026-05-21T12:01:29.000Z",
-      "live_viewers": 11772,
+      "live_viewers": 12041,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-21T12:35:23.000Z",
       "start_scheduled": "2026-05-21T12:30:00.000Z",
       "start_actual": "2026-05-21T12:35:23.000Z",
-      "live_viewers": 394,
+      "live_viewers": 403,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-21T13:01:39.000Z",
       "start_scheduled": "2026-05-21T13:00:00.000Z",
       "start_actual": "2026-05-21T13:01:39.000Z",
-      "live_viewers": 4899,
+      "live_viewers": 4862,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-21T13:10:26.000Z",
       "start_scheduled": "2026-05-21T21:00:00.000Z",
       "start_actual": "2026-05-21T13:10:26.000Z",
-      "live_viewers": 205,
+      "live_viewers": 215,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-21T13:29:35.000Z",
       "start_scheduled": "2026-05-21T13:30:00.000Z",
       "start_actual": "2026-05-21T13:29:35.000Z",
-      "live_viewers": 2325,
+      "live_viewers": 2444,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -259,6 +259,26 @@
         "org": "Hololive",
         "suborg": "0v0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChSvpZYRPh0FvG4SJGSga3g": {
+      "video_id": "z8AXTPGSwvo",
+      "title": "【Forza Horizon 6】脳細胞がトップギアだぜ!【影山シエン/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-05-21T09:36:34.000Z",
+      "available_at": "2026-05-21T13:36:16.000Z",
+      "start_scheduled": "2026-05-21T14:00:00.000Z",
+      "start_actual": "2026-05-21T13:36:16.000Z",
+      "live_viewers": 131,
+      "channel": {
+        "id": "UChSvpZYRPh0FvG4SJGSga3g",
+        "name": "Shien Ch.影山シエン",
+        "english_name": "Kageyama Shien",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
