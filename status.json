@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779419059,
+  "cached_at": 1779419119,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "RmcqAnH0mEw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-22T00:13:26.000Z",
       "start_scheduled": "2026-05-22T00:00:00.000Z",
       "start_actual": "2026-05-22T00:13:26.000Z",
-      "live_viewers": 157,
+      "live_viewers": 151,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-22T00:55:06.000Z",
       "start_scheduled": "2026-05-22T01:00:00.000Z",
       "start_actual": "2026-05-22T00:55:06.000Z",
-      "live_viewers": 2824,
+      "live_viewers": 2849,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-22T01:02:13.000Z",
       "start_scheduled": "2026-05-22T01:00:00.000Z",
       "start_actual": "2026-05-22T01:02:13.000Z",
-      "live_viewers": 3947,
+      "live_viewers": 3821,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-22T01:04:00.000Z",
       "start_scheduled": "2026-05-22T01:00:00.000Z",
       "start_actual": "2026-05-22T01:04:00.000Z",
-      "live_viewers": 402,
+      "live_viewers": 398,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-22T02:59:21.000Z",
       "start_scheduled": "2026-05-22T03:00:00.000Z",
       "start_actual": "2026-05-22T02:59:21.000Z",
-      "live_viewers": 717,
+      "live_viewers": 1932,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
@@ -199,25 +199,6 @@
         "org": "Hololive",
         "suborg": "0hOfficial",
         "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC2hx0xVkMoHGWijwr_lA01w": {
-      "video_id": "4ZIVeMjTukQ",
-      "title": "【PLAYSQUAD PR STREAM】The Axelotls decides my fate for today💀【ESCAPE FROM DUCKOV 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Escape_From_Duckov",
-      "published_at": "2026-05-21T03:01:23.000Z",
-      "available_at": "2026-05-22T03:00:00.000Z",
-      "start_scheduled": "2026-05-22T03:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC2hx0xVkMoHGWijwr_lA01w",
-        "name": "Axel Syrios Ch. HOLOSTARS-EN",
-        "english_name": "Axel Syrios",
-        "org": "Hololive",
-        "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-        "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC8rcEBzJSleTkf_-agPM20g": {
@@ -237,6 +218,26 @@
         "org": "Hololive",
         "suborg": "iaEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC2hx0xVkMoHGWijwr_lA01w": {
+      "video_id": "4ZIVeMjTukQ",
+      "title": "【PLAYSQUAD PR STREAM】The Axelotls decides my fate for today💀【ESCAPE FROM DUCKOV 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Escape_From_Duckov",
+      "published_at": "2026-05-21T03:01:23.000Z",
+      "available_at": "2026-05-22T03:00:48.000Z",
+      "start_scheduled": "2026-05-22T03:00:00.000Z",
+      "start_actual": "2026-05-22T03:00:48.000Z",
+      "live_viewers": 81,
+      "channel": {
+        "id": "UC2hx0xVkMoHGWijwr_lA01w",
+        "name": "Axel Syrios Ch. HOLOSTARS-EN",
+        "english_name": "Axel Syrios",
+        "org": "Hololive",
+        "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
+        "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
