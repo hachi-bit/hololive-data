@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779459319,
+  "cached_at": 1779459379,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "cn5-WW0H21Q",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-22T09:58:55.000Z",
       "start_scheduled": "2026-05-22T10:00:00.000Z",
       "start_actual": "2026-05-22T09:58:55.000Z",
-      "live_viewers": 7296,
+      "live_viewers": 7301,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-22T10:16:23.000Z",
       "start_scheduled": "2026-05-22T10:15:00.000Z",
       "start_actual": "2026-05-22T10:16:23.000Z",
-      "live_viewers": 3607,
+      "live_viewers": 3573,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-22T12:00:40.000Z",
       "start_scheduled": "2026-05-22T12:00:00.000Z",
       "start_actual": "2026-05-22T12:00:40.000Z",
-      "live_viewers": 26475,
+      "live_viewers": 25938,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-22T13:02:57.000Z",
       "start_scheduled": "2026-05-22T13:00:00.000Z",
       "start_actual": "2026-05-22T13:02:57.000Z",
-      "live_viewers": 13478,
+      "live_viewers": 13156,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -159,26 +159,6 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "zwGG8-dMehw",
-      "title": "インターネット開通できなかった女と虎の闇鍋パーティ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Cooking_Stream",
-      "published_at": "2026-05-22T12:58:16.000Z",
-      "available_at": "2026-05-22T13:03:41.000Z",
-      "start_scheduled": "2026-05-22T12:58:16.000Z",
-      "start_actual": "2026-05-22T13:03:41.000Z",
-      "live_viewers": 10525,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCOyYb1c43VlX9rc_lT6NKQw": {
@@ -211,7 +191,7 @@
       "available_at": "2026-05-22T13:33:21.000Z",
       "start_scheduled": "2026-05-22T13:30:00.000Z",
       "start_actual": "2026-05-22T13:33:21.000Z",
-      "live_viewers": 4470,
+      "live_viewers": 4721,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-22T14:01:28.000Z",
       "start_scheduled": "2026-05-22T14:00:00.000Z",
       "start_actual": "2026-05-22T14:01:28.000Z",
-      "live_viewers": 3502,
+      "live_viewers": 4068,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-22T14:03:04.000Z",
       "start_scheduled": "2026-05-22T14:00:00.000Z",
       "start_actual": "2026-05-22T14:03:04.000Z",
-      "live_viewers": 13325,
+      "live_viewers": 14513,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-22T14:04:15.000Z",
       "start_scheduled": "2026-05-22T14:00:00.000Z",
       "start_actual": "2026-05-22T14:04:15.000Z",
-      "live_viewers": 248,
+      "live_viewers": 266,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-22T14:06:42.000Z",
       "start_scheduled": "2026-05-22T14:00:00.000Z",
       "start_actual": "2026-05-22T14:06:42.000Z",
-      "live_viewers": 891,
+      "live_viewers": 934,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
