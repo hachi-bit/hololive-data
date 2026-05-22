@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779432979,
+  "cached_at": 1779433039,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "inMlu1reyc0",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-22T00:55:06.000Z",
       "start_scheduled": "2026-05-22T01:00:00.000Z",
       "start_actual": "2026-05-22T00:55:06.000Z",
-      "live_viewers": 2404,
+      "live_viewers": 2269,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-22T01:56:48.000Z",
       "start_scheduled": "2026-05-22T02:00:00.000Z",
       "start_actual": "2026-05-22T01:56:48.000Z",
-      "live_viewers": 6607,
+      "live_viewers": 6527,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC727SQYUvx5pDDGQpTICNWg": {
-      "video_id": "XPz353PPBy8",
-      "title": "【Urban Myth Dissolution Center】DON'T TARGET ME, I NEED TO PAY MY DEBT! Episode 4 START!✨【Anya】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Urban_Myth_Dissolution_Center",
-      "published_at": "2026-05-21T15:07:33.000Z",
-      "available_at": "2026-05-22T04:01:28.000Z",
-      "start_scheduled": "2026-05-22T04:00:00.000Z",
-      "start_actual": "2026-05-22T04:01:28.000Z",
-      "live_viewers": 952,
-      "channel": {
-        "id": "UC727SQYUvx5pDDGQpTICNWg",
-        "name": "Anya Melfissa Ch. hololive-ID",
-        "english_name": "Anya Melfissa",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
