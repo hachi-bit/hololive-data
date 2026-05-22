@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779422659,
+  "cached_at": 1779422719,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "inMlu1reyc0",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-22T01:02:13.000Z",
       "start_scheduled": "2026-05-22T01:00:00.000Z",
       "start_actual": "2026-05-22T01:02:13.000Z",
-      "live_viewers": 2974,
+      "live_viewers": 2919,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-22T03:00:48.000Z",
       "start_scheduled": "2026-05-22T03:00:00.000Z",
       "start_actual": "2026-05-22T03:00:48.000Z",
-      "live_viewers": 703,
+      "live_viewers": 653,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -141,25 +141,6 @@
         "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC727SQYUvx5pDDGQpTICNWg": {
-      "video_id": "XPz353PPBy8",
-      "title": "【Urban Myth Dissolution Center】DON'T TARGET ME, I NEED TO PAY MY DEBT! Episode 4 START!✨【Anya】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Urban_Myth_Dissolution_Center",
-      "published_at": "2026-05-21T15:07:33.000Z",
-      "available_at": "2026-05-22T04:00:00.000Z",
-      "start_scheduled": "2026-05-22T04:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC727SQYUvx5pDDGQpTICNWg",
-        "name": "Anya Melfissa Ch. hololive-ID",
-        "english_name": "Anya Melfissa",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "_anJUp9wfek",
       "title": "【崩壊：スターレイル】サブイベもやり、20時30分からはVer4.3の告知配信をミラー配信する【夕刻ロベル/ホロスターズ】",
@@ -170,7 +151,7 @@
       "available_at": "2026-05-22T04:00:23.000Z",
       "start_scheduled": "2026-05-22T04:00:00.000Z",
       "start_actual": "2026-05-22T04:00:23.000Z",
-      "live_viewers": 254,
+      "live_viewers": 426,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -178,6 +159,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC727SQYUvx5pDDGQpTICNWg": {
+      "video_id": "XPz353PPBy8",
+      "title": "【Urban Myth Dissolution Center】DON'T TARGET ME, I NEED TO PAY MY DEBT! Episode 4 START!✨【Anya】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Urban_Myth_Dissolution_Center",
+      "published_at": "2026-05-21T15:07:33.000Z",
+      "available_at": "2026-05-22T04:01:28.000Z",
+      "start_scheduled": "2026-05-22T04:00:00.000Z",
+      "start_actual": "2026-05-22T04:01:28.000Z",
+      "live_viewers": 221,
+      "channel": {
+        "id": "UC727SQYUvx5pDDGQpTICNWg",
+        "name": "Anya Melfissa Ch. hololive-ID",
+        "english_name": "Anya Melfissa",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
