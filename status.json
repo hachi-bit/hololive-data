@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779486739,
+  "cached_at": 1779486798,
   "lives": {
-    "UCKMWFR6lAstLa7Vbf5dH7ig": {
-      "video_id": "xgQeOtLL3ag",
-      "title": "【F1同時視聴】カナダGP!スプリント予選!!! 【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-05-21T19:20:01.000Z",
-      "available_at": "2026-05-22T20:00:46.000Z",
-      "start_scheduled": "2026-05-22T20:00:00.000Z",
-      "start_actual": "2026-05-22T20:00:46.000Z",
-      "live_viewers": 2099,
-      "channel": {
-        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "english_name": "Rindo Chihaya",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCK9V2B22uJYu3N7eR_BT9QA": {
       "video_id": "iohP68REbng",
       "title": "【OHAPOL】#200 5/23土曜日!寝起きでぱやぱや #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-22T21:01:13.000Z",
       "start_scheduled": "2026-05-22T21:00:00.000Z",
       "start_actual": "2026-05-22T21:01:13.000Z",
-      "live_viewers": 7200,
+      "live_viewers": 7586,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-22T21:03:03.000Z",
       "start_scheduled": "2026-05-22T21:00:00.000Z",
       "start_actual": "2026-05-22T21:03:03.000Z",
-      "live_viewers": 5840,
+      "live_viewers": 6026,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
