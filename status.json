@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779429680,
+  "cached_at": 1779429739,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "inMlu1reyc0",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-22T01:56:48.000Z",
       "start_scheduled": "2026-05-22T02:00:00.000Z",
       "start_actual": "2026-05-22T01:56:48.000Z",
-      "live_viewers": 6836,
+      "live_viewers": 6833,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -119,6 +119,25 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "01NxyjmgJHs",
+      "title": "【Tomodachi Life】 Drawing Riona and Chihaya! And then we drama【Pavolia Reine/hololiveID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "drawing",
+      "published_at": "2026-05-22T05:20:21.000Z",
+      "available_at": "2026-05-22T06:00:00.000Z",
+      "start_scheduled": "2026-05-22T06:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
