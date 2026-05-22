@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779464659,
+  "cached_at": 1779464719,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "cn5-WW0H21Q",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-22T09:58:55.000Z",
       "start_scheduled": "2026-05-22T10:00:00.000Z",
       "start_actual": "2026-05-22T09:58:55.000Z",
-      "live_viewers": 6517,
+      "live_viewers": 6451,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-22T10:59:52.000Z",
       "start_scheduled": "2026-05-22T11:00:00.000Z",
       "start_actual": "2026-05-22T10:59:52.000Z",
-      "live_viewers": 252,
+      "live_viewers": 266,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-22T12:00:40.000Z",
       "start_scheduled": "2026-05-22T12:00:00.000Z",
       "start_actual": "2026-05-22T12:00:40.000Z",
-      "live_viewers": 21720,
+      "live_viewers": 16136,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-22T13:33:21.000Z",
       "start_scheduled": "2026-05-22T13:30:00.000Z",
       "start_actual": "2026-05-22T13:33:21.000Z",
-      "live_viewers": 5141,
+      "live_viewers": 5273,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-22T14:06:42.000Z",
       "start_scheduled": "2026-05-22T14:00:00.000Z",
       "start_actual": "2026-05-22T14:06:42.000Z",
-      "live_viewers": 1276,
+      "live_viewers": 1083,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -181,26 +181,6 @@
         "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "s5HrwmCvylQ",
-      "title": "【ワンワンバトル】音  量  注  意    / アステル",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Bow-wow_Battle",
-      "published_at": "2026-05-22T14:29:41.000Z",
-      "available_at": "2026-05-22T14:47:49.000Z",
-      "start_scheduled": "2026-05-22T14:45:00.000Z",
-      "start_actual": "2026-05-22T14:47:49.000Z",
-      "live_viewers": 345,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC0TXe_LYZ4scaW2XMyi5_kw": {
       "video_id": "FtVAo_X_d-8",
       "title": "【Mini Tokyo 3D】終電と京王線とわたし―。【ホロライブ / AZKi】",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-22T15:01:23.000Z",
       "start_scheduled": "2026-05-22T15:00:00.000Z",
       "start_actual": "2026-05-22T15:01:23.000Z",
-      "live_viewers": 8014,
+      "live_viewers": 8274,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-22T15:28:45.000Z",
       "start_scheduled": "2026-05-22T15:25:00.000Z",
       "start_actual": "2026-05-22T15:28:45.000Z",
-      "live_viewers": 3982,
+      "live_viewers": 4894,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
