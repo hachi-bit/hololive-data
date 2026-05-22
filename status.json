@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779492618,
+  "cached_at": 1779492680,
   "lives": {
-    "UCK9V2B22uJYu3N7eR_BT9QA": {
-      "video_id": "iohP68REbng",
-      "title": "【OHAPOL】#200 5/23土曜日!寝起きでぱやぱや #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "morning",
-      "published_at": "2026-05-22T20:36:55.000Z",
-      "available_at": "2026-05-22T21:01:13.000Z",
-      "start_scheduled": "2026-05-22T21:00:00.000Z",
-      "start_actual": "2026-05-22T21:01:13.000Z",
-      "live_viewers": 10803,
-      "channel": {
-        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-        "name": "Polka Ch. 尾丸ポルカ",
-        "english_name": "Omaru Polka",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "5f5uST1C7z4",
       "title": "【FINAL FANTASY XIV】speedrunning gigimu to post dawntrail patches! ※ spoiler warning",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-22T21:03:03.000Z",
       "start_scheduled": "2026-05-22T21:00:00.000Z",
       "start_actual": "2026-05-22T21:03:03.000Z",
-      "live_viewers": 5807,
+      "live_viewers": 5803,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-22T22:56:19.000Z",
       "start_scheduled": "2026-05-22T23:00:00.000Z",
       "start_actual": "2026-05-22T22:56:19.000Z",
-      "live_viewers": 3038,
+      "live_viewers": 3152,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
