@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779474439,
+  "cached_at": 1779474499,
   "lives": {
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
       "video_id": "wITF80OiR6I",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-22T13:03:14.000Z",
       "start_scheduled": "2026-05-22T13:00:00.000Z",
       "start_actual": "2026-05-22T13:03:14.000Z",
-      "live_viewers": 328,
+      "live_viewers": 317,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -19,46 +19,6 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
-      "video_id": "TqeKRnUPbsg",
-      "title": "【BLEACH Rebirth of Souls】完全初見 どんな話なんだ…!#14【水宮枢/ホロライブDEV_IS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "BLEACH",
-      "published_at": "2026-05-21T19:09:04.000Z",
-      "available_at": "2026-05-22T13:33:21.000Z",
-      "start_scheduled": "2026-05-22T13:30:00.000Z",
-      "start_actual": "2026-05-22T13:33:21.000Z",
-      "live_viewers": 3146,
-      "channel": {
-        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-        "name": "Su Ch. 水宮枢 - FLOW GLOW",
-        "english_name": "Mizumiya Su",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1suqwovbL1kzsoaZgFZLKg": {
-      "video_id": "5TtNu2VegKM",
-      "title": "【悪意 Dread Neighbor】あらゆる隙間から、無数の視線が見つめてくる心理ホラーゲーム 【ホロライブ/癒月ちょこ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Dread_Flats",
-      "published_at": "2026-05-20T15:17:46.000Z",
-      "available_at": "2026-05-22T16:17:37.000Z",
-      "start_scheduled": "2026-05-22T16:15:00.000Z",
-      "start_actual": "2026-05-22T16:17:37.000Z",
-      "live_viewers": 5021,
-      "channel": {
-        "id": "UC1suqwovbL1kzsoaZgFZLKg",
-        "name": "Choco Ch. 癒月ちょこ",
-        "english_name": "Yuzuki Choco",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
