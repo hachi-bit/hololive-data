@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779408978,
+  "cached_at": 1779409040,
   "lives": {
     "UC1suqwovbL1kzsoaZgFZLKg": {
       "video_id": "MKlgmUyHB94",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-21T21:58:26.000Z",
       "start_scheduled": "2026-05-21T22:00:00.000Z",
       "start_actual": "2026-05-21T21:58:26.000Z",
-      "live_viewers": 233,
+      "live_viewers": 247,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -66,9 +66,10 @@
       "status": "live",
       "topic_id": "Warhammer",
       "published_at": "2026-05-21T20:57:37.000Z",
-      "available_at": "2026-05-22T00:00:00.000Z",
+      "available_at": "2026-05-22T00:13:26.000Z",
       "start_scheduled": "2026-05-22T00:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-22T00:13:26.000Z",
+      "live_viewers": 127,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
