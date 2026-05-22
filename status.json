@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779463879,
+  "cached_at": 1779463939,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "cn5-WW0H21Q",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-22T12:06:22.000Z",
       "start_scheduled": "2026-05-22T12:00:00.000Z",
       "start_actual": "2026-05-22T12:06:22.000Z",
-      "live_viewers": 3036,
+      "live_viewers": 2879,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-22T13:03:14.000Z",
       "start_scheduled": "2026-05-22T13:00:00.000Z",
       "start_actual": "2026-05-22T13:03:14.000Z",
-      "live_viewers": 258,
+      "live_viewers": 269,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-22T14:47:49.000Z",
       "start_scheduled": "2026-05-22T14:45:00.000Z",
       "start_actual": "2026-05-22T14:47:49.000Z",
-      "live_viewers": 369,
+      "live_viewers": 368,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-22T15:01:23.000Z",
       "start_scheduled": "2026-05-22T15:00:00.000Z",
       "start_actual": "2026-05-22T15:01:23.000Z",
-      "live_viewers": 7660,
+      "live_viewers": 7804,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -248,9 +248,10 @@
       "status": "live",
       "topic_id": "singing",
       "published_at": "2026-05-22T15:23:30.000Z",
-      "available_at": "2026-05-22T15:25:00.000Z",
+      "available_at": "2026-05-22T15:28:45.000Z",
       "start_scheduled": "2026-05-22T15:25:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-22T15:28:45.000Z",
+      "live_viewers": 1275,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
