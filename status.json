@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779464359,
+  "cached_at": 1779464419,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "cn5-WW0H21Q",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-22T09:58:55.000Z",
       "start_scheduled": "2026-05-22T10:00:00.000Z",
       "start_actual": "2026-05-22T09:58:55.000Z",
-      "live_viewers": 6596,
+      "live_viewers": 6517,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-22T12:00:40.000Z",
       "start_scheduled": "2026-05-22T12:00:00.000Z",
       "start_actual": "2026-05-22T12:00:40.000Z",
-      "live_viewers": 23616,
+      "live_viewers": 21720,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKMWFR6lAstLa7Vbf5dH7ig": {
-      "video_id": "zV5qJ8_haCk",
-      "title": "【機動戦士ガンダム0080 ポケットの中の戦争】ポケ戦!!!きょうはクリスマス!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-05-21T19:18:26.000Z",
-      "available_at": "2026-05-22T12:06:22.000Z",
-      "start_scheduled": "2026-05-22T12:00:00.000Z",
-      "start_actual": "2026-05-22T12:06:22.000Z",
-      "live_viewers": 2444,
-      "channel": {
-        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "english_name": "Rindo Chihaya",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
@@ -191,7 +171,7 @@
       "available_at": "2026-05-22T14:30:50.000Z",
       "start_scheduled": "2026-05-22T14:30:00.000Z",
       "start_actual": "2026-05-22T14:30:50.000Z",
-      "live_viewers": 3585,
+      "live_viewers": 3607,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-22T14:47:49.000Z",
       "start_scheduled": "2026-05-22T14:45:00.000Z",
       "start_actual": "2026-05-22T14:47:49.000Z",
-      "live_viewers": 368,
+      "live_viewers": 345,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-22T15:01:23.000Z",
       "start_scheduled": "2026-05-22T15:00:00.000Z",
       "start_actual": "2026-05-22T15:01:23.000Z",
-      "live_viewers": 7846,
+      "live_viewers": 8014,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-22T15:28:45.000Z",
       "start_scheduled": "2026-05-22T15:25:00.000Z",
       "start_actual": "2026-05-22T15:28:45.000Z",
-      "live_viewers": 3152,
+      "live_viewers": 3807,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
