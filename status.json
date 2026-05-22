@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779469821,
+  "cached_at": 1779469879,
   "lives": {
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
       "video_id": "wITF80OiR6I",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-22T14:03:04.000Z",
       "start_scheduled": "2026-05-22T14:00:00.000Z",
       "start_actual": "2026-05-22T14:03:04.000Z",
-      "live_viewers": 16587,
+      "live_viewers": 16714,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC8rcEBzJSleTkf_-agPM20g": {
-      "video_id": "XtcbIwNE4JU",
-      "title": "【Karaoke 歌枠】A bit of singing before I sleep 寝る前にちょっとだけ歌う",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-05-22T15:23:30.000Z",
-      "available_at": "2026-05-22T15:28:45.000Z",
-      "start_scheduled": "2026-05-22T15:25:00.000Z",
-      "start_actual": "2026-05-22T15:28:45.000Z",
-      "live_viewers": 9120,
-      "channel": {
-        "id": "UC8rcEBzJSleTkf_-agPM20g",
-        "name": "IRyS Ch. hololive-EN",
-        "english_name": "IRyS",
-        "org": "Hololive",
-        "suborg": "iaEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1suqwovbL1kzsoaZgFZLKg": {
