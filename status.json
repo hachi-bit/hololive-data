@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779408140,
+  "cached_at": 1779408199,
   "lives": {
     "UC1suqwovbL1kzsoaZgFZLKg": {
       "video_id": "MKlgmUyHB94",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-21T21:58:26.000Z",
       "start_scheduled": "2026-05-21T22:00:00.000Z",
       "start_actual": "2026-05-21T21:58:26.000Z",
-      "live_viewers": 242,
+      "live_viewers": 237,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -78,6 +78,44 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
+      "video_id": "RmcqAnH0mEw",
+      "title": "Playing our Pre-debut game!【Warhammer 40,000: Darktide】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Warhammer",
+      "published_at": "2026-05-21T20:57:37.000Z",
+      "available_at": "2026-05-22T00:00:00.000Z",
+      "start_scheduled": "2026-05-22T00:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+        "name": "Octavio Ch. HOLOSTARS-EN",
+        "english_name": "Octavio",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCajbFh6e_R8QZdHAMbbi4rQ": {
+      "video_id": "TQBxE508KkI",
+      "title": "FINALLY【WARHAMMER 40K: DARKTIDE】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Warhammer",
+      "published_at": "2026-05-21T20:36:29.000Z",
+      "available_at": "2026-05-22T00:00:00.000Z",
+      "start_scheduled": "2026-05-22T00:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+        "english_name": "Crimzon Ruze",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
