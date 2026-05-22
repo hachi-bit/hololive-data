@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779444199,
+  "cached_at": 1779444259,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "_anJUp9wfek",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-22T04:00:23.000Z",
       "start_scheduled": "2026-05-22T04:00:00.000Z",
       "start_actual": "2026-05-22T04:00:23.000Z",
-      "live_viewers": 1056,
+      "live_viewers": 989,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-22T09:00:23.000Z",
       "start_scheduled": "2026-05-22T09:00:00.000Z",
       "start_actual": "2026-05-22T09:00:23.000Z",
-      "live_viewers": 9057,
+      "live_viewers": 8796,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCuI_opAVX6qbxZY-a-AxFuQ": {
-      "video_id": "t5n7Mfe0qtY",
-      "title": "【Minecraft】クリーパーさん、わかってますよね【マイクラハードコア/虎金妃笑虎】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-22T04:28:45.000Z",
-      "available_at": "2026-05-22T09:00:31.000Z",
-      "start_scheduled": "2026-05-22T09:00:00.000Z",
-      "start_actual": "2026-05-22T09:00:31.000Z",
-      "live_viewers": 5880,
-      "channel": {
-        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-        "english_name": "Koganei Niko",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
@@ -131,7 +111,7 @@
       "available_at": "2026-05-22T09:01:36.000Z",
       "start_scheduled": "2026-05-22T09:00:00.000Z",
       "start_actual": "2026-05-22T09:01:36.000Z",
-      "live_viewers": 6599,
+      "live_viewers": 6298,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-22T09:19:11.000Z",
       "start_scheduled": "2026-05-22T09:15:00.000Z",
       "start_actual": "2026-05-22T09:19:11.000Z",
-      "live_viewers": 171,
+      "live_viewers": 167,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-22T09:58:55.000Z",
       "start_scheduled": "2026-05-22T10:00:00.000Z",
       "start_actual": "2026-05-22T09:58:55.000Z",
-      "live_viewers": 1039,
+      "live_viewers": 2802,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -179,6 +159,85 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "70TCXxwdkME",
+      "title": "【 #カゲマス 】3.5周年イベだ‼今回もありますワンパンチャレンジ👊‼【鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "The_Eminence_in_Shadow:_Master_of_Garden",
+      "published_at": "2026-05-22T05:05:47.000Z",
+      "available_at": "2026-05-22T10:00:00.000Z",
+      "start_scheduled": "2026-05-22T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTvHWSfBZgtxE4sILOaurIQ": {
+      "video_id": "X0lEv-F9E7k",
+      "title": "【Free Talk】I went to Kamen Rider Agito 25th Anniv Exhibition!!! (with photos)",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-22T07:39:24.000Z",
+      "available_at": "2026-05-22T10:00:18.000Z",
+      "start_scheduled": "2026-05-22T10:00:00.000Z",
+      "start_actual": "2026-05-22T10:00:18.000Z",
+      "live_viewers": 613,
+      "channel": {
+        "id": "UCTvHWSfBZgtxE4sILOaurIQ",
+        "name": "Vestia Zeta Ch. hololive-ID",
+        "english_name": "Vestia Zeta",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCWQtYtq9EOB4-I5P-3fh8lA": {
+      "video_id": "5JhRWEaSo0U",
+      "title": "【 The Walking Trade 】ゾンビ世界で、ショップ経営!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-22T09:40:26.000Z",
+      "available_at": "2026-05-22T10:00:24.000Z",
+      "start_scheduled": "2026-05-22T10:00:00.000Z",
+      "start_actual": "2026-05-22T10:00:24.000Z",
+      "live_viewers": 1293,
+      "channel": {
+        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "english_name": "Otonose Kanade",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "xClgtFMi82M",
+      "title": "【重大告知歌枠】リオナから2つ!重大告知させてください✨【ホロライブ DEV_IS 響咲リオナ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-21T12:27:25.000Z",
+      "available_at": "2026-05-22T10:01:44.000Z",
+      "start_scheduled": "2026-05-22T10:00:00.000Z",
+      "start_actual": "2026-05-22T10:01:44.000Z",
+      "live_viewers": 1932,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
