@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779447799,
+  "cached_at": 1779447859,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "_anJUp9wfek",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-22T09:19:11.000Z",
       "start_scheduled": "2026-05-22T09:15:00.000Z",
       "start_actual": "2026-05-22T09:19:11.000Z",
-      "live_viewers": 231,
+      "live_viewers": 225,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-22T09:58:55.000Z",
       "start_scheduled": "2026-05-22T10:00:00.000Z",
       "start_actual": "2026-05-22T09:58:55.000Z",
-      "live_viewers": 8428,
+      "live_viewers": 8258,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-22T10:00:18.000Z",
       "start_scheduled": "2026-05-22T10:00:00.000Z",
       "start_actual": "2026-05-22T10:00:18.000Z",
-      "live_viewers": 1783,
+      "live_viewers": 1691,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-22T10:00:24.000Z",
       "start_scheduled": "2026-05-22T10:00:00.000Z",
       "start_actual": "2026-05-22T10:00:24.000Z",
-      "live_viewers": 4648,
+      "live_viewers": 4638,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-22T10:02:24.000Z",
       "start_scheduled": "2026-05-22T10:00:00.000Z",
       "start_actual": "2026-05-22T10:02:24.000Z",
-      "live_viewers": 2935,
+      "live_viewers": 2639,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-22T10:16:23.000Z",
       "start_scheduled": "2026-05-22T10:15:00.000Z",
       "start_actual": "2026-05-22T10:16:23.000Z",
-      "live_viewers": 3522,
+      "live_viewers": 3506,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -219,6 +219,46 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9mf_ZVpouoILRY9NUIaK-w": {
+      "video_id": "AV6zuLQRAjs",
+      "title": "【CORE KEEPER】ニソウコウリツチュウでコアキーパーする【律可/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Core_Keeper",
+      "published_at": "2026-05-21T12:44:34.000Z",
+      "available_at": "2026-05-22T10:59:52.000Z",
+      "start_scheduled": "2026-05-22T11:00:00.000Z",
+      "start_actual": "2026-05-22T10:59:52.000Z",
+      "live_viewers": 129,
+      "channel": {
+        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+        "name": "Rikka ch.律可",
+        "english_name": "Rikka",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC3OH5FKQ3qtl4uRme_vZTgA": {
+      "video_id": "9qLxEuLIm6Q",
+      "title": "【初配信】私たちの青春に伴走してください! #UNIT_B  #mekPark",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Debut_Stream",
+      "published_at": "2026-05-14T18:02:48.000Z",
+      "available_at": "2026-05-22T11:00:40.000Z",
+      "start_scheduled": "2026-05-22T11:00:00.000Z",
+      "start_actual": "2026-05-22T11:00:40.000Z",
+      "live_viewers": 22415,
+      "channel": {
+        "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
+        "name": "UNIT B (Pre-Debut) - mekPark",
+        "english_name": "UNIT B [Pre-Debut]",
+        "org": "Hololive",
+        "suborg": "v_mekPark",
+        "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
