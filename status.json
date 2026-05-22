@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779461359,
+  "cached_at": 1779461419,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "cn5-WW0H21Q",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-22T09:58:55.000Z",
       "start_scheduled": "2026-05-22T10:00:00.000Z",
       "start_actual": "2026-05-22T09:58:55.000Z",
-      "live_viewers": 6860,
+      "live_viewers": 6739,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCHsx4Hqa-1ORjQTh9TYDhww": {
-      "video_id": "hUEta4KbVE4",
-      "title": "【Yoshi and the Mysterious Book】YOSHI MY CHILDHOOD BESTIE!!!! #kfp #キアライブ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Yoshi",
-      "published_at": "2026-05-21T14:16:00.000Z",
-      "available_at": "2026-05-22T10:16:23.000Z",
-      "start_scheduled": "2026-05-22T10:15:00.000Z",
-      "start_actual": "2026-05-22T10:16:23.000Z",
-      "live_viewers": 3432,
-      "channel": {
-        "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
-        "name": "Takanashi Kiara Ch. hololive-EN",
-        "english_name": "Takanashi Kiara",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9mf_ZVpouoILRY9NUIaK-w": {
@@ -71,7 +51,7 @@
       "available_at": "2026-05-22T12:00:40.000Z",
       "start_scheduled": "2026-05-22T12:00:00.000Z",
       "start_actual": "2026-05-22T12:00:40.000Z",
-      "live_viewers": 23396,
+      "live_viewers": 23016,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-22T13:03:14.000Z",
       "start_scheduled": "2026-05-22T13:00:00.000Z",
       "start_actual": "2026-05-22T13:03:14.000Z",
-      "live_viewers": 272,
+      "live_viewers": 278,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-22T14:03:04.000Z",
       "start_scheduled": "2026-05-22T14:00:00.000Z",
       "start_actual": "2026-05-22T14:03:04.000Z",
-      "live_viewers": 16884,
+      "live_viewers": 16936,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-22T14:04:15.000Z",
       "start_scheduled": "2026-05-22T14:00:00.000Z",
       "start_actual": "2026-05-22T14:04:15.000Z",
-      "live_viewers": 326,
+      "live_viewers": 345,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-22T14:30:50.000Z",
       "start_scheduled": "2026-05-22T14:30:00.000Z",
       "start_actual": "2026-05-22T14:30:50.000Z",
-      "live_viewers": 2755,
+      "live_viewers": 2979,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -288,9 +268,10 @@
       "status": "live",
       "topic_id": "Bow-wow_Battle",
       "published_at": "2026-05-22T14:29:41.000Z",
-      "available_at": "2026-05-22T14:45:00.000Z",
+      "available_at": "2026-05-22T14:47:49.000Z",
       "start_scheduled": "2026-05-22T14:45:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-22T14:47:49.000Z",
+      "live_viewers": 103,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
