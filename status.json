@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779458959,
+  "cached_at": 1779459019,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "cn5-WW0H21Q",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-22T09:58:55.000Z",
       "start_scheduled": "2026-05-22T10:00:00.000Z",
       "start_actual": "2026-05-22T09:58:55.000Z",
-      "live_viewers": 7345,
+      "live_viewers": 7296,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-22T12:00:40.000Z",
       "start_scheduled": "2026-05-22T12:00:00.000Z",
       "start_actual": "2026-05-22T12:00:40.000Z",
-      "live_viewers": 26497,
+      "live_viewers": 26475,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-22T13:03:41.000Z",
       "start_scheduled": "2026-05-22T12:58:16.000Z",
       "start_actual": "2026-05-22T13:03:41.000Z",
-      "live_viewers": 10815,
+      "live_viewers": 10525,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -221,25 +221,6 @@
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdXAk5MpyLD8594lm_OvtGQ": {
-      "video_id": "Pjh4xsnzH68",
-      "title": "【同時視聴】ジョジョの奇妙な冒険ストーンオーシャン(6部)同時視聴の会ッ!!⑭【儒烏風亭らでん #ReGLOSS 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-05-22T09:36:13.000Z",
-      "available_at": "2026-05-22T14:00:00.000Z",
-      "start_scheduled": "2026-05-22T14:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
-        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
-        "english_name": "Juufuutei Raden",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCp6993wxpyDPHUpavwDFqgg": {
       "video_id": "zy8zaovKqUw",
       "title": "【歌枠】まったりのそら【ホロライブ/ときのそら】",
@@ -250,7 +231,7 @@
       "available_at": "2026-05-22T14:01:28.000Z",
       "start_scheduled": "2026-05-22T14:00:00.000Z",
       "start_actual": "2026-05-22T14:01:28.000Z",
-      "live_viewers": 2858,
+      "live_viewers": 3117,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -270,7 +251,7 @@
       "available_at": "2026-05-22T14:03:04.000Z",
       "start_scheduled": "2026-05-22T14:00:00.000Z",
       "start_actual": "2026-05-22T14:03:04.000Z",
-      "live_viewers": 9967,
+      "live_viewers": 11794,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -290,7 +271,7 @@
       "available_at": "2026-05-22T14:04:15.000Z",
       "start_scheduled": "2026-05-22T14:00:00.000Z",
       "start_actual": "2026-05-22T14:04:15.000Z",
-      "live_viewers": 206,
+      "live_viewers": 246,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -298,6 +279,26 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdXAk5MpyLD8594lm_OvtGQ": {
+      "video_id": "Pjh4xsnzH68",
+      "title": "【同時視聴】ジョジョの奇妙な冒険ストーンオーシャン(6部)同時視聴の会ッ!!⑭【儒烏風亭らでん #ReGLOSS 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-05-22T09:36:13.000Z",
+      "available_at": "2026-05-22T14:06:42.000Z",
+      "start_scheduled": "2026-05-22T14:00:00.000Z",
+      "start_actual": "2026-05-22T14:06:42.000Z",
+      "live_viewers": 774,
+      "channel": {
+        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+        "english_name": "Juufuutei Raden",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
