@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779540858,
+  "cached_at": 1779540919,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "8ycpL8lpzC4",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-23T07:00:08.000Z",
       "start_scheduled": "2026-05-23T07:00:00.000Z",
       "start_actual": "2026-05-23T07:00:08.000Z",
-      "live_viewers": 547,
+      "live_viewers": 537,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-23T07:58:14.000Z",
       "start_scheduled": "2026-05-23T08:00:00.000Z",
       "start_actual": "2026-05-23T07:58:14.000Z",
-      "live_viewers": 5636,
+      "live_viewers": 5602,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-23T10:00:19.000Z",
       "start_scheduled": "2026-05-23T10:00:00.000Z",
       "start_actual": "2026-05-23T10:00:19.000Z",
-      "live_viewers": 8340,
+      "live_viewers": 8161,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-23T10:01:44.000Z",
       "start_scheduled": "2026-05-23T10:00:00.000Z",
       "start_actual": "2026-05-23T10:01:44.000Z",
-      "live_viewers": 4474,
+      "live_viewers": 4480,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-23T11:01:37.000Z",
       "start_scheduled": "2026-05-23T11:00:00.000Z",
       "start_actual": "2026-05-23T11:01:37.000Z",
-      "live_viewers": 14778,
+      "live_viewers": 15505,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-23T11:02:47.000Z",
       "start_scheduled": "2026-05-23T11:00:00.000Z",
       "start_actual": "2026-05-23T11:02:47.000Z",
-      "live_viewers": 6225,
+      "live_viewers": 6160,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-23T12:00:21.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:00:21.000Z",
-      "live_viewers": 6684,
+      "live_viewers": 6709,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-23T12:00:38.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:00:38.000Z",
-      "live_viewers": 26619,
+      "live_viewers": 26801,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-23T12:01:09.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:01:09.000Z",
-      "live_viewers": 180,
+      "live_viewers": 174,
       "channel": {
         "id": "UCJjjeqEYMSzdsKt6vJ78WVw",
         "name": "Pan VTuber パン",
@@ -311,7 +311,7 @@
       "available_at": "2026-05-23T12:01:54.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:01:54.000Z",
-      "live_viewers": 5532,
+      "live_viewers": 5469,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -351,7 +351,7 @@
       "available_at": "2026-05-23T12:03:28.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:03:28.000Z",
-      "live_viewers": 211,
+      "live_viewers": 225,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
