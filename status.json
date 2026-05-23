@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779514099,
+  "cached_at": 1779514160,
   "lives": {
-    "UC9p_lqQ0FEDz327Vgf5JwqA": {
-      "video_id": "Z1z94lcbWfs",
-      "title": "【BlackMesa】I'll save you pizza chan",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Black_Mesa",
-      "published_at": "2026-05-22T16:33:18.000Z",
-      "available_at": "2026-05-22T22:56:19.000Z",
-      "start_scheduled": "2026-05-22T23:00:00.000Z",
-      "start_actual": "2026-05-22T22:56:19.000Z",
-      "live_viewers": 3296,
-      "channel": {
-        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-        "name": "Koseki Bijou Ch. hololive-EN",
-        "english_name": "Koseki Bijou",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "2J0mLa3uSsQ",
       "title": "I'M HUNGRY! | Kirby 64: The Crystal Shards",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-23T00:55:07.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T00:55:07.000Z",
-      "live_viewers": 4401,
+      "live_viewers": 5998,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -81,26 +61,6 @@
         "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
-      "video_id": "Nw45apv409M",
-      "title": "【FRIENDSHIP BRACELET HANDCAM】My balls are too big",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Camera_Stream",
-      "published_at": "2026-05-22T03:59:44.000Z",
-      "available_at": "2026-05-23T02:59:45.000Z",
-      "start_scheduled": "2026-05-23T03:00:00.000Z",
-      "start_actual": "2026-05-23T02:59:45.000Z",
-      "live_viewers": 578,
-      "channel": {
-        "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-        "name": "Octavio Ch. HOLOSTARS-EN",
-        "english_name": "Octavio",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCOuaCgLWUPRwQtnX78Cat5w": {
       "video_id": "_mX6XnAgxCU",
       "title": "【 #repo 】姉妹コラボ!こうましろ家REPO✨家宝どれにします?【 #新人vtuber / #宵吸あけル 】",
@@ -131,7 +91,7 @@
       "available_at": "2026-05-23T02:59:57.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T02:59:57.000Z",
-      "live_viewers": 685,
+      "live_viewers": 675,
       "channel": {
         "id": "UCtWH0tVAcUcSm4v96H5cAqQ",
         "name": "Pico Ch. 倉夢ぴこ 【Phase Connect】",
@@ -151,7 +111,7 @@
       "available_at": "2026-05-23T03:00:17.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:00:17.000Z",
-      "live_viewers": 6367,
+      "live_viewers": 6250,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -171,7 +131,7 @@
       "available_at": "2026-05-23T03:01:27.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:01:27.000Z",
-      "live_viewers": 16853,
+      "live_viewers": 16676,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -191,7 +151,7 @@
       "available_at": "2026-05-23T03:01:52.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:01:52.000Z",
-      "live_viewers": 7007,
+      "live_viewers": 6919,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -251,7 +211,7 @@
       "available_at": "2026-05-23T04:02:22.000Z",
       "start_scheduled": "2026-05-23T04:00:00.000Z",
       "start_actual": "2026-05-23T04:02:22.000Z",
-      "live_viewers": 17662,
+      "live_viewers": 15962,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -271,7 +231,7 @@
       "available_at": "2026-05-23T05:00:27.000Z",
       "start_scheduled": "2026-05-23T05:00:00.000Z",
       "start_actual": "2026-05-23T05:00:27.000Z",
-      "live_viewers": 3039,
+      "live_viewers": 3176,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
