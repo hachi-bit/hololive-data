@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779509118,
+  "cached_at": 1779509181,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "Z1z94lcbWfs",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-22T22:56:19.000Z",
       "start_scheduled": "2026-05-22T23:00:00.000Z",
       "start_actual": "2026-05-22T22:56:19.000Z",
-      "live_viewers": 4548,
+      "live_viewers": 4730,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-23T01:04:16.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T01:04:16.000Z",
-      "live_viewers": 4989,
+      "live_viewers": 5020,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-23T01:06:59.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T01:06:59.000Z",
-      "live_viewers": 268,
+      "live_viewers": 281,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-23T01:08:38.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T01:08:38.000Z",
-      "live_viewers": 929,
+      "live_viewers": 933,
       "channel": {
         "id": "UCHP4f7G2dWD4qib7BMatGAw",
         "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-23T02:59:45.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T02:59:45.000Z",
-      "live_viewers": 171,
+      "live_viewers": 153,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-23T02:59:53.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T02:59:53.000Z",
-      "live_viewers": 242,
+      "live_viewers": 238,
       "channel": {
         "id": "UCOuaCgLWUPRwQtnX78Cat5w",
         "name": "宵吸あけル / Yokyu Akeru【あかぷろ】",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-23T02:59:57.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T02:59:57.000Z",
-      "live_viewers": 346,
+      "live_viewers": 351,
       "channel": {
         "id": "UCtWH0tVAcUcSm4v96H5cAqQ",
         "name": "Pico Ch. 倉夢ぴこ 【Phase Connect】",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-23T03:01:27.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:01:27.000Z",
-      "live_viewers": 13954,
+      "live_viewers": 13804,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-23T03:01:52.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:01:52.000Z",
-      "live_viewers": 6831,
+      "live_viewers": 6934,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-23T03:12:40.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:12:40.000Z",
-      "live_viewers": 250,
+      "live_viewers": 241,
       "channel": {
         "id": "UCzyzcQtOIF4lnGJ9IxrhaYA",
         "name": "Navina Nova Ch. ナビナ・ノバ【Ephemira】",
@@ -299,25 +299,6 @@
         "org": "Independents",
         "suborg": "epEphemira",
         "photo": "https://yt3.ggpht.com/8XA4nmBo1PWu8cZ0l3U4FxW3uA2bbJ5WHoom8PFQMrAcB4-Lm3xY8UJhRl0sITnm1BCpU1OymY0=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvzGlP9oQwU--Y0r9id_jnA": {
-      "video_id": "ifkYJnKGRJo",
-      "title": "【#最終回】LOST JUDGMENT 海藤正治の事件簿やるしゅばああああああああああああああああああああああああああ!!!!!【※ネタバレあり】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Judgment",
-      "published_at": "2026-05-22T12:02:29.000Z",
-      "available_at": "2026-05-23T04:00:00.000Z",
-      "start_scheduled": "2026-05-23T04:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-        "name": "Subaru Ch. 大空スバル",
-        "english_name": "Oozora Subaru",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC727SQYUvx5pDDGQpTICNWg": {
@@ -337,6 +318,26 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvzGlP9oQwU--Y0r9id_jnA": {
+      "video_id": "ifkYJnKGRJo",
+      "title": "【#最終回】LOST JUDGMENT 海藤正治の事件簿やるしゅばああああああああああああああああああああああああああ!!!!!【※ネタバレあり】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Judgment",
+      "published_at": "2026-05-22T12:02:29.000Z",
+      "available_at": "2026-05-23T04:02:22.000Z",
+      "start_scheduled": "2026-05-23T04:00:00.000Z",
+      "start_actual": "2026-05-23T04:02:22.000Z",
+      "live_viewers": 5628,
+      "channel": {
+        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+        "name": "Subaru Ch. 大空スバル",
+        "english_name": "Oozora Subaru",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
