@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779495139,
+  "cached_at": 1779495199,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "5f5uST1C7z4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-22T21:03:03.000Z",
       "start_scheduled": "2026-05-22T21:00:00.000Z",
       "start_actual": "2026-05-22T21:03:03.000Z",
-      "live_viewers": 5445,
+      "live_viewers": 5406,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-23T00:00:24.000Z",
       "start_scheduled": "2026-05-23T00:00:00.000Z",
       "start_actual": "2026-05-23T00:00:24.000Z",
-      "live_viewers": 2485,
+      "live_viewers": 2732,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -59,25 +59,6 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCajbFh6e_R8QZdHAMbbi4rQ": {
-      "video_id": "4la9wk5jzIE",
-      "title": "War Always Changes【TOTAL WARHAMMER III】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Warhammer",
-      "published_at": "2026-05-23T00:01:58.000Z",
-      "available_at": "2026-05-23T00:02:00.000Z",
-      "start_scheduled": "2026-05-23T00:02:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-        "english_name": "Crimzon Ruze",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCuI_opAVX6qbxZY-a-AxFuQ": {
@@ -90,7 +71,7 @@
       "available_at": "2026-05-23T00:02:01.000Z",
       "start_scheduled": "2026-05-23T00:00:00.000Z",
       "start_actual": "2026-05-23T00:02:01.000Z",
-      "live_viewers": 3647,
+      "live_viewers": 4042,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -98,6 +79,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCajbFh6e_R8QZdHAMbbi4rQ": {
+      "video_id": "4la9wk5jzIE",
+      "title": "War Always Changes【TOTAL WARHAMMER III】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Warhammer",
+      "published_at": "2026-05-23T00:01:58.000Z",
+      "available_at": "2026-05-23T00:07:48.000Z",
+      "start_scheduled": "2026-05-23T00:02:00.000Z",
+      "start_actual": "2026-05-23T00:07:48.000Z",
+      "live_viewers": 164,
+      "channel": {
+        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+        "english_name": "Crimzon Ruze",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
