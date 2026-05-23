@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779503599,
+  "cached_at": 1779503661,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "5f5uST1C7z4",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-22T22:56:19.000Z",
       "start_scheduled": "2026-05-22T23:00:00.000Z",
       "start_actual": "2026-05-22T22:56:19.000Z",
-      "live_viewers": 4531,
+      "live_viewers": 4541,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -103,7 +103,7 @@
     },
     "UCvzGlP9oQwU--Y0r9id_jnA": {
       "video_id": "aIpVYLJ6ddQ",
-      "title": "【#生スバル】おはすば!：FREE TALK【ホロライブ/大空スバル】",
+      "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
       "type": "stream",
       "status": "live",
       "topic_id": "morning",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-23T01:08:08.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T01:08:08.000Z",
-      "live_viewers": 163,
+      "live_viewers": 170,
       "channel": {
         "id": "UCXEtq-HwfxgedQ2tF6-txUQ",
         "name": "Caspurr Catacini",
