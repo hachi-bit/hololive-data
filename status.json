@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779537979,
+  "cached_at": 1779538039,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "8ycpL8lpzC4",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-23T07:00:08.000Z",
       "start_scheduled": "2026-05-23T07:00:00.000Z",
       "start_actual": "2026-05-23T07:00:08.000Z",
-      "live_viewers": 492,
+      "live_viewers": 491,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-23T07:58:14.000Z",
       "start_scheduled": "2026-05-23T08:00:00.000Z",
       "start_actual": "2026-05-23T07:58:14.000Z",
-      "live_viewers": 5811,
+      "live_viewers": 5705,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-23T10:00:19.000Z",
       "start_scheduled": "2026-05-23T10:00:00.000Z",
       "start_actual": "2026-05-23T10:00:19.000Z",
-      "live_viewers": 9330,
+      "live_viewers": 8630,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-23T10:01:44.000Z",
       "start_scheduled": "2026-05-23T10:00:00.000Z",
       "start_actual": "2026-05-23T10:01:44.000Z",
-      "live_viewers": 4694,
+      "live_viewers": 4699,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-23T10:04:10.000Z",
       "start_scheduled": "2026-05-23T10:00:00.000Z",
       "start_actual": "2026-05-23T10:04:10.000Z",
-      "live_viewers": 320,
+      "live_viewers": 324,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-23T11:03:13.000Z",
       "start_scheduled": "2026-05-23T11:00:00.000Z",
       "start_actual": "2026-05-23T11:03:13.000Z",
-      "live_viewers": 57165,
+      "live_viewers": 55158,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -179,26 +179,6 @@
         "org": "Hololive",
         "suborg": "0y0th Generation",
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCtyWhCj3AqKh2dXctLkDtng": {
-      "video_id": "NEAdKB8vdbw",
-      "title": "【メンバー限定】へろへろなのです【一条莉々華/hololive DEV_IS ReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-23T10:32:19.000Z",
-      "available_at": "2026-05-23T11:03:29.000Z",
-      "start_scheduled": "2026-05-23T11:00:00.000Z",
-      "start_actual": "2026-05-23T11:03:29.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCtyWhCj3AqKh2dXctLkDtng",
-        "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-        "english_name": "Ichijou Ririka",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCOyYb1c43VlX9rc_lT6NKQw": {
@@ -211,7 +191,7 @@
       "available_at": "2026-05-23T11:31:40.000Z",
       "start_scheduled": "2026-05-23T11:30:00.000Z",
       "start_actual": "2026-05-23T11:31:40.000Z",
-      "live_viewers": 413,
+      "live_viewers": 424,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-23T11:54:10.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T11:54:10.000Z",
-      "live_viewers": 40,
+      "live_viewers": 39,
       "channel": {
         "id": "UC_vDF8pbCIR8gaAxXAAH7Og",
         "name": "DubsteP",
@@ -239,101 +219,6 @@
         "org": "Twitch Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/yypKKZ7TwgcvvF57-AgPEMsPL1fxWSOdrP2ESj7U7Un-cqe7tRQE2t2ajaHvixyXB3_-9PrS=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "Q8X9d6Smnk0",
-      "title": "【R.E.P.O.】 今日のホロREPOも楽しいコスメティック集めになりそうでう #ホロREPO【ホロライブ/白上フブキ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-05-23T11:46:42.000Z",
-      "available_at": "2026-05-23T12:00:00.000Z",
-      "start_scheduled": "2026-05-23T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "フブキCh。白上フブキ",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCJjjeqEYMSzdsKt6vJ78WVw": {
-      "video_id": "xy3368tKZhc",
-      "title": "【SUPER BATTLE GOLF】 🥖IT'S THE FILIPINOS AGAIN... PLAYING GOLF! ⛳ #panlive",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Super_Battle_Golf",
-      "published_at": "2026-05-22T12:59:30.000Z",
-      "available_at": "2026-05-23T12:00:00.000Z",
-      "start_scheduled": "2026-05-23T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCJjjeqEYMSzdsKt6vJ78WVw",
-        "name": "Pan VTuber パン",
-        "english_name": "Pan",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/Uj8fUIQZcvYO1Vg4o8QBxNV7cKKyYmpdcLYGFFRfoIcI38meZFHtUrsWcaS7jSkk876r8lcUoQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKMWFR6lAstLa7Vbf5dH7ig": {
-      "video_id": "3hsBXKuQNAw",
-      "title": "【#ホロREPO】REPOでおしゃれできんの!??!?【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-05-23T05:24:38.000Z",
-      "available_at": "2026-05-23T12:00:00.000Z",
-      "start_scheduled": "2026-05-23T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "english_name": "Rindo Chihaya",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
-      "video_id": "Nm63UIrH6C4",
-      "title": "UY PILIPINS【Super Battle Golf】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Super_Battle_Golf",
-      "published_at": "2026-05-22T23:27:36.000Z",
-      "available_at": "2026-05-23T12:00:00.000Z",
-      "start_scheduled": "2026-05-23T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-        "name": "Octavio Ch. HOLOSTARS-EN",
-        "english_name": "Octavio",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC-LAnFLXU9BusFv7n8lFj8g": {
-      "video_id": "ZyOVCCJF3DI",
-      "title": "【SUPER BATTLE GOLF MOMENT!!】The Filipinos are back at it again...",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Super_Battle_Golf",
-      "published_at": "2026-05-23T07:38:58.000Z",
-      "available_at": "2026-05-23T12:00:00.000Z",
-      "start_scheduled": "2026-05-23T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC-LAnFLXU9BusFv7n8lFj8g",
-        "name": "Sarugaku Leon Jr. ch.",
-        "english_name": "Sarugaku Leon Jr.",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/dzJEL344J00VDTNed5GRNrZv47EUXL6L5n-9_oe2Uq2RwpQ7CH6uq0aNPv1D2C8Fb_jKBiYgYjM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCDqI2jOz0weumE8s7paEk6g": {
@@ -366,7 +251,7 @@
       "available_at": "2026-05-23T12:00:21.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:00:21.000Z",
-      "live_viewers": 2161,
+      "live_viewers": 3403,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -386,7 +271,7 @@
       "available_at": "2026-05-23T12:00:38.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:00:38.000Z",
-      "live_viewers": 10165,
+      "live_viewers": 16141,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -406,7 +291,7 @@
       "available_at": "2026-05-23T12:00:40.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:00:40.000Z",
-      "live_viewers": 5684,
+      "live_viewers": 9271,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -426,7 +311,7 @@
       "available_at": "2026-05-23T12:00:46.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:00:46.000Z",
-      "live_viewers": 1602,
+      "live_viewers": 2543,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -434,6 +319,106 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC-LAnFLXU9BusFv7n8lFj8g": {
+      "video_id": "ZyOVCCJF3DI",
+      "title": "【SUPER BATTLE GOLF MOMENT!!】The Filipinos are back at it again...",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Super_Battle_Golf",
+      "published_at": "2026-05-23T07:38:58.000Z",
+      "available_at": "2026-05-23T12:01:04.000Z",
+      "start_scheduled": "2026-05-23T12:00:00.000Z",
+      "start_actual": "2026-05-23T12:01:04.000Z",
+      "live_viewers": 3,
+      "channel": {
+        "id": "UC-LAnFLXU9BusFv7n8lFj8g",
+        "name": "Sarugaku Leon Jr. ch.",
+        "english_name": "Sarugaku Leon Jr.",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/dzJEL344J00VDTNed5GRNrZv47EUXL6L5n-9_oe2Uq2RwpQ7CH6uq0aNPv1D2C8Fb_jKBiYgYjM=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCJjjeqEYMSzdsKt6vJ78WVw": {
+      "video_id": "xy3368tKZhc",
+      "title": "【SUPER BATTLE GOLF】 🥖IT'S THE FILIPINOS AGAIN... PLAYING GOLF! ⛳ #panlive",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Super_Battle_Golf",
+      "published_at": "2026-05-22T12:59:30.000Z",
+      "available_at": "2026-05-23T12:01:09.000Z",
+      "start_scheduled": "2026-05-23T12:00:00.000Z",
+      "start_actual": "2026-05-23T12:01:09.000Z",
+      "live_viewers": 108,
+      "channel": {
+        "id": "UCJjjeqEYMSzdsKt6vJ78WVw",
+        "name": "Pan VTuber パン",
+        "english_name": "Pan",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/Uj8fUIQZcvYO1Vg4o8QBxNV7cKKyYmpdcLYGFFRfoIcI38meZFHtUrsWcaS7jSkk876r8lcUoQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKMWFR6lAstLa7Vbf5dH7ig": {
+      "video_id": "3hsBXKuQNAw",
+      "title": "【#ホロREPO】REPOでおしゃれできんの!??!?【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-05-23T05:24:38.000Z",
+      "available_at": "2026-05-23T12:01:54.000Z",
+      "start_scheduled": "2026-05-23T12:00:00.000Z",
+      "start_actual": "2026-05-23T12:01:54.000Z",
+      "live_viewers": 2946,
+      "channel": {
+        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+        "english_name": "Rindo Chihaya",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+      "video_id": "Q8X9d6Smnk0",
+      "title": "【R.E.P.O.】 今日のホロREPOも楽しいコスメティック集めになりそうでう #ホロREPO【ホロライブ/白上フブキ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-05-23T11:46:42.000Z",
+      "available_at": "2026-05-23T12:02:01.000Z",
+      "start_scheduled": "2026-05-23T12:00:00.000Z",
+      "start_actual": "2026-05-23T12:02:01.000Z",
+      "live_viewers": 6037,
+      "channel": {
+        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "name": "フブキCh。白上フブキ",
+        "english_name": "Shirakami Fubuki",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
+      "video_id": "Nm63UIrH6C4",
+      "title": "UY PILIPINS【Super Battle Golf】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Super_Battle_Golf",
+      "published_at": "2026-05-22T23:27:36.000Z",
+      "available_at": "2026-05-23T12:03:28.000Z",
+      "start_scheduled": "2026-05-23T12:00:00.000Z",
+      "start_actual": "2026-05-23T12:03:28.000Z",
+      "live_viewers": 100,
+      "channel": {
+        "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+        "name": "Octavio Ch. HOLOSTARS-EN",
+        "english_name": "Octavio",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
