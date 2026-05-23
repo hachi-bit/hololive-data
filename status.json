@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779516318,
+  "cached_at": 1779516381,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "2J0mLa3uSsQ",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-23T00:55:07.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T00:55:07.000Z",
-      "live_viewers": 5423,
+      "live_viewers": 5313,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-23T02:59:53.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T02:59:53.000Z",
-      "live_viewers": 223,
+      "live_viewers": 251,
       "channel": {
         "id": "UCOuaCgLWUPRwQtnX78Cat5w",
         "name": "宵吸あけル / Yokyu Akeru【あかぷろ】",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-23T03:12:40.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:12:40.000Z",
-      "live_viewers": 246,
+      "live_viewers": 261,
       "channel": {
         "id": "UCzyzcQtOIF4lnGJ9IxrhaYA",
         "name": "Navina Nova Ch. ナビナ・ノバ【Ephemira】",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-23T05:31:40.000Z",
       "start_scheduled": "2026-05-23T05:30:00.000Z",
       "start_actual": "2026-05-23T05:31:40.000Z",
-      "live_viewers": 2386,
+      "live_viewers": 2485,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -250,7 +250,7 @@
       "available_at": "2026-05-23T06:00:14.000Z",
       "start_scheduled": "2026-05-23T06:00:00.000Z",
       "start_actual": "2026-05-23T06:00:14.000Z",
-      "live_viewers": 203,
+      "live_viewers": 238,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -258,6 +258,26 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
+      "video_id": "_fyFFIrvEGk",
+      "title": "【歌枠/KARAOKE】縦型雑談と歌枠〜💙❕【水宮枢/ホロライブDEV_IS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-23T06:02:50.000Z",
+      "available_at": "2026-05-23T06:03:06.000Z",
+      "start_scheduled": "2026-05-23T06:02:50.000Z",
+      "start_actual": "2026-05-23T06:03:06.000Z",
+      "live_viewers": 440,
+      "channel": {
+        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+        "name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "english_name": "Mizumiya Su",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
