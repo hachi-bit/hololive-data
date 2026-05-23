@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779561979,
+  "cached_at": 1779562039,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "8ycpL8lpzC4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-23T07:00:02.000Z",
       "start_scheduled": "2026-05-23T07:00:00.000Z",
       "start_actual": "2026-05-23T07:00:02.000Z",
-      "live_viewers": 14,
+      "live_viewers": 13,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-23T13:01:02.000Z",
       "start_scheduled": "2026-05-23T13:00:00.000Z",
       "start_actual": "2026-05-23T13:01:02.000Z",
-      "live_viewers": 2026,
+      "live_viewers": 2011,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCajbFh6e_R8QZdHAMbbi4rQ": {
-      "video_id": "Hedg7LXeyug",
-      "title": "WHERE IS MY ENGINE?!【SUBNAUTIC | PART 4】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Subnautica",
-      "published_at": "2026-05-23T06:04:07.000Z",
-      "available_at": "2026-05-23T15:01:19.000Z",
-      "start_scheduled": "2026-05-23T15:00:00.000Z",
-      "start_actual": "2026-05-23T15:01:19.000Z",
-      "live_viewers": 680,
-      "channel": {
-        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-        "english_name": "Crimzon Ruze",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
