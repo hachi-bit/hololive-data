@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779508159,
+  "cached_at": 1779508219,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "5f5uST1C7z4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-22T21:03:03.000Z",
       "start_scheduled": "2026-05-22T21:00:00.000Z",
       "start_actual": "2026-05-22T21:03:03.000Z",
-      "live_viewers": 4787,
+      "live_viewers": 4708,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-22T22:56:19.000Z",
       "start_scheduled": "2026-05-22T23:00:00.000Z",
       "start_actual": "2026-05-22T22:56:19.000Z",
-      "live_viewers": 4515,
+      "live_viewers": 4505,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-23T01:04:16.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T01:04:16.000Z",
-      "live_viewers": 5207,
+      "live_viewers": 5136,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-23T02:59:45.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T02:59:45.000Z",
-      "live_viewers": 161,
+      "live_viewers": 168,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-23T02:59:57.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T02:59:57.000Z",
-      "live_viewers": 333,
+      "live_viewers": 320,
       "channel": {
         "id": "UCtWH0tVAcUcSm4v96H5cAqQ",
         "name": "Pico Ch. 倉夢ぴこ 【Phase Connect】",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-23T03:01:27.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:01:27.000Z",
-      "live_viewers": 12764,
+      "live_viewers": 13180,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -311,7 +311,7 @@
       "available_at": "2026-05-23T03:12:40.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:12:40.000Z",
-      "live_viewers": 239,
+      "live_viewers": 235,
       "channel": {
         "id": "UCzyzcQtOIF4lnGJ9IxrhaYA",
         "name": "Navina Nova Ch. ナビナ・ノバ【Ephemira】",
