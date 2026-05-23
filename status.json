@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779542239,
+  "cached_at": 1779542300,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "8ycpL8lpzC4",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-23T07:00:08.000Z",
       "start_scheduled": "2026-05-23T07:00:00.000Z",
       "start_actual": "2026-05-23T07:00:08.000Z",
-      "live_viewers": 513,
+      "live_viewers": 449,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-23T10:00:19.000Z",
       "start_scheduled": "2026-05-23T10:00:00.000Z",
       "start_actual": "2026-05-23T10:00:19.000Z",
-      "live_viewers": 7960,
+      "live_viewers": 8001,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-23T11:31:40.000Z",
       "start_scheduled": "2026-05-23T11:30:00.000Z",
       "start_actual": "2026-05-23T11:31:40.000Z",
-      "live_viewers": 386,
+      "live_viewers": 396,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-23T12:01:09.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:01:09.000Z",
-      "live_viewers": 183,
+      "live_viewers": 193,
       "channel": {
         "id": "UCJjjeqEYMSzdsKt6vJ78WVw",
         "name": "Pan VTuber パン",
@@ -311,7 +311,7 @@
       "available_at": "2026-05-23T12:03:28.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:03:28.000Z",
-      "live_viewers": 215,
+      "live_viewers": 218,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -319,25 +319,6 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "wBVFLXBzb-s",
-      "title": "【メンバー限定】同時視聴する作品探して見るやつ【荒咬オウガ /ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-23T10:25:07.000Z",
-      "available_at": "2026-05-23T13:00:00.000Z",
-      "start_scheduled": "2026-05-23T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "name": "Oga Ch.荒咬オウガ",
-        "english_name": "Aragami Oga",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1iA6_NT4mtAcIII6ygrvCw": {
@@ -350,7 +331,7 @@
       "available_at": "2026-05-23T13:00:18.000Z",
       "start_scheduled": "2026-05-23T13:00:00.000Z",
       "start_actual": "2026-05-23T13:00:18.000Z",
-      "live_viewers": 2417,
+      "live_viewers": 2545,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -390,7 +371,7 @@
       "available_at": "2026-05-23T13:00:38.000Z",
       "start_scheduled": "2026-05-23T13:00:00.000Z",
       "start_actual": "2026-05-23T13:00:38.000Z",
-      "live_viewers": 9535,
+      "live_viewers": 9615,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -410,7 +391,7 @@
       "available_at": "2026-05-23T13:01:02.000Z",
       "start_scheduled": "2026-05-23T13:00:00.000Z",
       "start_actual": "2026-05-23T13:01:02.000Z",
-      "live_viewers": 512,
+      "live_viewers": 541,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -430,7 +411,7 @@
       "available_at": "2026-05-23T13:01:13.000Z",
       "start_scheduled": "2026-05-23T13:00:00.000Z",
       "start_actual": "2026-05-23T13:01:13.000Z",
-      "live_viewers": 2599,
+      "live_viewers": 2642,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -438,6 +419,26 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
+      "video_id": "wBVFLXBzb-s",
+      "title": "【メンバー限定】同時視聴する作品探して見るやつ【荒咬オウガ /ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-23T10:25:07.000Z",
+      "available_at": "2026-05-23T13:08:18.000Z",
+      "start_scheduled": "2026-05-23T13:00:00.000Z",
+      "start_actual": "2026-05-23T13:08:18.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "name": "Oga Ch.荒咬オウガ",
+        "english_name": "Aragami Oga",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
