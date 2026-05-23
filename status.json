@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779531019,
+  "cached_at": 1779531079,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "8ycpL8lpzC4",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-23T10:00:19.000Z",
       "start_scheduled": "2026-05-23T10:00:00.000Z",
       "start_actual": "2026-05-23T10:00:19.000Z",
-      "live_viewers": 4831,
+      "live_viewers": 5747,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-23T10:01:44.000Z",
       "start_scheduled": "2026-05-23T10:00:00.000Z",
       "start_actual": "2026-05-23T10:01:44.000Z",
-      "live_viewers": 6255,
+      "live_viewers": 6073,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -179,26 +179,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCUKD-uaobj9jiqB-VXt71mA": {
-      "video_id": "yBsBMeGG5R4",
-      "title": "【佐渡島初上陸】駅ちかラーメンを食べて船乗り場でもラーメンを食べる!編🍜【#ししろんの47ラーメンツアー2】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Vlog",
-      "published_at": "2026-05-22T16:53:48.000Z",
-      "available_at": "2026-05-23T10:01:46.000Z",
-      "start_scheduled": "2026-05-23T10:00:00.000Z",
-      "start_actual": "2026-05-23T10:01:46.000Z",
-      "live_viewers": 3129,
-      "channel": {
-        "id": "UCUKD-uaobj9jiqB-VXt71mA",
-        "name": "Botan Ch.獅白ぼたん",
-        "english_name": "Shishiro Botan",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCc88OV45ICgHbn3ZqLLb52w": {
@@ -211,7 +191,7 @@
       "available_at": "2026-05-23T10:04:10.000Z",
       "start_scheduled": "2026-05-23T10:00:00.000Z",
       "start_actual": "2026-05-23T10:04:10.000Z",
-      "live_viewers": 206,
+      "live_viewers": 234,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
