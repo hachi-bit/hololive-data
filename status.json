@@ -1,25 +1,4 @@
 {
-  "cached_at": 1779573199,
-  "lives": {
-    "UCAHQGIKolfBfoeXXMY79SBA": {
-      "video_id": "8ycpL8lpzC4",
-      "title": "【 League of Legends #LTK 】DDnext無限日【白那しずく / ネオポルテ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-05-23T05:53:25.000Z",
-      "available_at": "2026-05-23T07:00:02.000Z",
-      "start_scheduled": "2026-05-23T07:00:00.000Z",
-      "start_actual": "2026-05-23T07:00:02.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCAHQGIKolfBfoeXXMY79SBA",
-        "name": "白那しずく",
-        "english_name": "Shirona Shizuku",
-        "org": "Neo-Porte",
-        "suborg": "0k5th Generation",
-        "photo": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s800-c-k-c0x00ffffff-no-rj"
-      }
-    }
-  }
+  "cached_at": 1779573259,
+  "lives": {}
 }
