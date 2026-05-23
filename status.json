@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779518779,
+  "cached_at": 1779518839,
   "lives": {
-    "UCOuaCgLWUPRwQtnX78Cat5w": {
-      "video_id": "_mX6XnAgxCU",
-      "title": "【 #repo 】姉妹コラボ!こうましろ家REPO✨家宝どれにします?【 #新人vtuber / #宵吸あけル 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-05-22T07:32:39.000Z",
-      "available_at": "2026-05-23T02:59:53.000Z",
-      "start_scheduled": "2026-05-23T03:00:00.000Z",
-      "start_actual": "2026-05-23T02:59:53.000Z",
-      "live_viewers": 252,
-      "channel": {
-        "id": "UCOuaCgLWUPRwQtnX78Cat5w",
-        "name": "宵吸あけル / Yokyu Akeru【あかぷろ】",
-        "english_name": "Yokyu Akeru",
-        "org": "Independents",
-        "suborg": "AKAkashic Production",
-        "photo": "https://yt3.ggpht.com/0TJewqkPb6ccCVQEHvF1hdtCnTWCfeCzxPDnPfN-UkR8UPA3z1jPl_wBFb5XApZlgaPo-X3W=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCtWH0tVAcUcSm4v96H5cAqQ": {
       "video_id": "8pUzr0GBfyo",
       "title": "【こうましろ家姉妹コラボ】R.E.P.O. ぴこちゃん視点【倉夢ぴこ / Phase Connect】",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-23T03:00:17.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:00:17.000Z",
-      "live_viewers": 5567,
+      "live_viewers": 5388,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-23T03:01:27.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:01:27.000Z",
-      "live_viewers": 19279,
+      "live_viewers": 19323,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -79,26 +59,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCK9V2B22uJYu3N7eR_BT9QA": {
-      "video_id": "JxhQgOv5zsY",
-      "title": "【R.E.P.O.】こうましろファミリーコラボ🌟みんなを連れて行く~💓【尾丸ポルカ視点/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-05-22T23:38:47.000Z",
-      "available_at": "2026-05-23T03:01:52.000Z",
-      "start_scheduled": "2026-05-23T03:00:00.000Z",
-      "start_actual": "2026-05-23T03:01:52.000Z",
-      "live_viewers": 6838,
-      "channel": {
-        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-        "name": "Polka Ch. 尾丸ポルカ",
-        "english_name": "Omaru Polka",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCzyzcQtOIF4lnGJ9IxrhaYA": {
@@ -111,7 +71,7 @@
       "available_at": "2026-05-23T03:12:40.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:12:40.000Z",
-      "live_viewers": 262,
+      "live_viewers": 168,
       "channel": {
         "id": "UCzyzcQtOIF4lnGJ9IxrhaYA",
         "name": "Navina Nova Ch. ナビナ・ノバ【Ephemira】",
@@ -131,7 +91,7 @@
       "available_at": "2026-05-23T04:02:22.000Z",
       "start_scheduled": "2026-05-23T04:00:00.000Z",
       "start_actual": "2026-05-23T04:02:22.000Z",
-      "live_viewers": 17388,
+      "live_viewers": 17532,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -151,7 +111,7 @@
       "available_at": "2026-05-23T05:00:27.000Z",
       "start_scheduled": "2026-05-23T05:00:00.000Z",
       "start_actual": "2026-05-23T05:00:27.000Z",
-      "live_viewers": 4459,
+      "live_viewers": 4535,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -171,7 +131,7 @@
       "available_at": "2026-05-23T05:31:40.000Z",
       "start_scheduled": "2026-05-23T05:30:00.000Z",
       "start_actual": "2026-05-23T05:31:40.000Z",
-      "live_viewers": 2932,
+      "live_viewers": 3082,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -191,7 +151,7 @@
       "available_at": "2026-05-23T06:00:14.000Z",
       "start_scheduled": "2026-05-23T06:00:00.000Z",
       "start_actual": "2026-05-23T06:00:14.000Z",
-      "live_viewers": 2921,
+      "live_viewers": 2708,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -211,7 +171,7 @@
       "available_at": "2026-05-23T06:03:06.000Z",
       "start_scheduled": "2026-05-23T06:02:50.000Z",
       "start_actual": "2026-05-23T06:03:06.000Z",
-      "live_viewers": 3736,
+      "live_viewers": 3902,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -231,7 +191,7 @@
       "available_at": "2026-05-23T06:07:02.000Z",
       "start_scheduled": "2026-05-23T06:00:00.000Z",
       "start_actual": "2026-05-23T06:07:02.000Z",
-      "live_viewers": 444,
+      "live_viewers": 438,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
