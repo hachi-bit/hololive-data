@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779534859,
+  "cached_at": 1779534919,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "8ycpL8lpzC4",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-23T07:00:08.000Z",
       "start_scheduled": "2026-05-23T07:00:00.000Z",
       "start_actual": "2026-05-23T07:00:08.000Z",
-      "live_viewers": 552,
+      "live_viewers": 554,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-23T07:58:14.000Z",
       "start_scheduled": "2026-05-23T08:00:00.000Z",
       "start_actual": "2026-05-23T07:58:14.000Z",
-      "live_viewers": 6816,
+      "live_viewers": 6703,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-23T10:00:19.000Z",
       "start_scheduled": "2026-05-23T10:00:00.000Z",
       "start_actual": "2026-05-23T10:00:19.000Z",
-      "live_viewers": 10494,
+      "live_viewers": 9702,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -126,12 +126,12 @@
       "title": "【佐渡島初上陸】駅ちかラーメンを食べて船乗り場でもラーメンを食べる!編🍜【#ししろんの47ラーメンツアー2】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "Vlog",
       "published_at": "2026-05-23T10:09:26.000Z",
       "available_at": "2026-05-23T10:12:46.000Z",
       "start_scheduled": "2026-05-23T10:10:00.000Z",
       "start_actual": "2026-05-23T10:12:46.000Z",
-      "live_viewers": 9157,
+      "live_viewers": 8538,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-23T11:01:30.000Z",
       "start_scheduled": "2026-05-23T11:00:00.000Z",
       "start_actual": "2026-05-23T11:01:30.000Z",
-      "live_viewers": 11551,
+      "live_viewers": 12566,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-23T11:01:37.000Z",
       "start_scheduled": "2026-05-23T11:00:00.000Z",
       "start_actual": "2026-05-23T11:01:37.000Z",
-      "live_viewers": 10292,
+      "live_viewers": 11189,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-23T11:02:47.000Z",
       "start_scheduled": "2026-05-23T11:00:00.000Z",
       "start_actual": "2026-05-23T11:02:47.000Z",
-      "live_viewers": 4354,
+      "live_viewers": 4648,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-23T11:03:13.000Z",
       "start_scheduled": "2026-05-23T11:00:00.000Z",
       "start_actual": "2026-05-23T11:03:13.000Z",
-      "live_viewers": 39140,
+      "live_viewers": 42388,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
