@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779556879,
+  "cached_at": 1779556939,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "8ycpL8lpzC4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-23T07:00:02.000Z",
       "start_scheduled": "2026-05-23T07:00:00.000Z",
       "start_actual": "2026-05-23T07:00:02.000Z",
-      "live_viewers": 23,
+      "live_viewers": 22,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -19,26 +19,6 @@
         "org": "Neo-Porte",
         "suborg": "0k5th Generation",
         "photo": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "IVgNPrM8Qgw",
-      "title": "【LoL】LTK DDnext  無限練習DAY   / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeo",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-05-23T06:46:32.000Z",
-      "available_at": "2026-05-23T07:00:08.000Z",
-      "start_scheduled": "2026-05-23T07:00:00.000Z",
-      "start_actual": "2026-05-23T07:00:08.000Z",
-      "live_viewers": 449,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
@@ -131,7 +111,7 @@
       "available_at": "2026-05-23T15:43:04.000Z",
       "start_scheduled": "2026-05-23T15:40:00.000Z",
       "start_actual": "2026-05-23T15:43:04.000Z",
-      "live_viewers": 7664,
+      "live_viewers": 7566,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-23T16:05:27.000Z",
       "start_scheduled": "2026-05-23T16:00:00.000Z",
       "start_actual": "2026-05-23T16:05:27.000Z",
-      "live_viewers": 3319,
+      "live_viewers": 2427,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
