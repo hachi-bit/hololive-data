@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779498619,
+  "cached_at": 1779498680,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "5f5uST1C7z4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-22T21:03:03.000Z",
       "start_scheduled": "2026-05-22T21:00:00.000Z",
       "start_actual": "2026-05-22T21:03:03.000Z",
-      "live_viewers": 5058,
+      "live_viewers": 5137,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-23T00:07:48.000Z",
       "start_scheduled": "2026-05-23T00:02:00.000Z",
       "start_actual": "2026-05-23T00:07:48.000Z",
-      "live_viewers": 410,
+      "live_viewers": 409,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-23T00:55:07.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T00:55:07.000Z",
-      "live_viewers": 1869,
+      "live_viewers": 1950,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -160,44 +160,6 @@
         "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCXEtq-HwfxgedQ2tF6-txUQ": {
-      "video_id": "TxeUYV4-oJc",
-      "title": "【Subnautica 2】Diving in DEEP with @Shiki_Katagami @GavisBettel",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Subnautica",
-      "published_at": "2026-05-22T18:25:53.000Z",
-      "available_at": "2026-05-23T01:00:00.000Z",
-      "start_scheduled": "2026-05-23T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCXEtq-HwfxgedQ2tF6-txUQ",
-        "name": "Caspurr Catacini",
-        "english_name": "Caspurr Catacini",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/4ye7aMdKWioTbGLnUMUDK_fbPLTp_bEblLHeEwQdZ5RDXr6g9_kqogcptmYH7V6XA1cWvmjs=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "68qY70uAcIc",
-      "title": "Satsuki Is Always Here, Yes?【MELTY BLOOD: ACTRESS AGAIN - CURRENT CODE 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Melty_Blood",
-      "published_at": "2026-05-19T18:05:47.000Z",
-      "available_at": "2026-05-23T01:00:00.000Z",
-      "start_scheduled": "2026-05-23T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC060r4zABV18vcahAWR1n7w",
-        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-        "english_name": "Machina X Flayon",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCvzGlP9oQwU--Y0r9id_jnA": {
       "video_id": "aIpVYLJ6ddQ",
       "title": "【#生スバル】おはすば!：FREE TALK【ホロライブ/大空スバル】",
@@ -208,7 +170,7 @@
       "available_at": "2026-05-23T01:03:51.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T01:03:51.000Z",
-      "live_viewers": 13665,
+      "live_viewers": 16103,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -228,7 +190,7 @@
       "available_at": "2026-05-23T01:04:16.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T01:04:16.000Z",
-      "live_viewers": 1410,
+      "live_viewers": 1788,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -236,6 +198,46 @@
         "org": "Hololive",
         "suborg": "ibEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC060r4zABV18vcahAWR1n7w": {
+      "video_id": "68qY70uAcIc",
+      "title": "Satsuki Is Always Here, Yes?【MELTY BLOOD: ACTRESS AGAIN - CURRENT CODE 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Melty_Blood",
+      "published_at": "2026-05-19T18:05:47.000Z",
+      "available_at": "2026-05-23T01:06:59.000Z",
+      "start_scheduled": "2026-05-23T01:00:00.000Z",
+      "start_actual": "2026-05-23T01:06:59.000Z",
+      "live_viewers": 128,
+      "channel": {
+        "id": "UC060r4zABV18vcahAWR1n7w",
+        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
+        "english_name": "Machina X Flayon",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCXEtq-HwfxgedQ2tF6-txUQ": {
+      "video_id": "TxeUYV4-oJc",
+      "title": "【Subnautica 2】Diving in DEEP with @Shiki_Katagami @GavisBettel",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Subnautica",
+      "published_at": "2026-05-22T18:25:53.000Z",
+      "available_at": "2026-05-23T01:08:08.000Z",
+      "start_scheduled": "2026-05-23T01:00:00.000Z",
+      "start_actual": "2026-05-23T01:08:08.000Z",
+      "live_viewers": 93,
+      "channel": {
+        "id": "UCXEtq-HwfxgedQ2tF6-txUQ",
+        "name": "Caspurr Catacini",
+        "english_name": "Caspurr Catacini",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/4ye7aMdKWioTbGLnUMUDK_fbPLTp_bEblLHeEwQdZ5RDXr6g9_kqogcptmYH7V6XA1cWvmjs=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
