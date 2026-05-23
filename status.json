@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779527898,
+  "cached_at": 1779527959,
   "lives": {
     "UCvzGlP9oQwU--Y0r9id_jnA": {
       "video_id": "ifkYJnKGRJo",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-23T04:02:22.000Z",
       "start_scheduled": "2026-05-23T04:00:00.000Z",
       "start_actual": "2026-05-23T04:02:22.000Z",
-      "live_viewers": 21163,
+      "live_viewers": 20743,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -41,26 +41,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCOyYb1c43VlX9rc_lT6NKQw": {
-      "video_id": "grNtlv6Up4U",
-      "title": "WATCHALONG WITH @sammybollivienn YASSSSSSSSSSSSSSSS",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-05-22T16:02:08.000Z",
-      "available_at": "2026-05-23T06:07:02.000Z",
-      "start_scheduled": "2026-05-23T06:00:00.000Z",
-      "start_actual": "2026-05-23T06:07:02.000Z",
-      "live_viewers": 456,
-      "channel": {
-        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-        "name": "Ayunda Risu Ch. hololive-ID",
-        "english_name": "Ayunda Risu",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "8ycpL8lpzC4",
       "title": "【 League of Legends #LTK 】DDnext無限日【白那しずく / ネオポルテ】",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-23T07:00:02.000Z",
       "start_scheduled": "2026-05-23T07:00:00.000Z",
       "start_actual": "2026-05-23T07:00:02.000Z",
-      "live_viewers": 1192,
+      "live_viewers": 1178,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-23T07:00:08.000Z",
       "start_scheduled": "2026-05-23T07:00:00.000Z",
       "start_actual": "2026-05-23T07:00:08.000Z",
-      "live_viewers": 452,
+      "live_viewers": 483,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-23T07:58:14.000Z",
       "start_scheduled": "2026-05-23T08:00:00.000Z",
       "start_actual": "2026-05-23T07:58:14.000Z",
-      "live_viewers": 6074,
+      "live_viewers": 6625,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-23T08:03:12.000Z",
       "start_scheduled": "2026-05-23T08:00:00.000Z",
       "start_actual": "2026-05-23T08:03:12.000Z",
-      "live_viewers": 4836,
+      "live_viewers": 5165,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-23T08:59:10.000Z",
       "start_scheduled": "2026-05-23T09:00:00.000Z",
       "start_actual": "2026-05-23T08:59:10.000Z",
-      "live_viewers": 4995,
+      "live_viewers": 5168,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-23T09:02:51.000Z",
       "start_scheduled": "2026-05-23T09:00:00.000Z",
       "start_actual": "2026-05-23T09:02:51.000Z",
-      "live_viewers": 4040,
+      "live_viewers": 4252,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
