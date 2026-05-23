@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779507499,
+  "cached_at": 1779507561,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "5f5uST1C7z4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-22T21:03:03.000Z",
       "start_scheduled": "2026-05-22T21:00:00.000Z",
       "start_actual": "2026-05-22T21:03:03.000Z",
-      "live_viewers": 4661,
+      "live_viewers": 4787,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-23T00:55:07.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T00:55:07.000Z",
-      "live_viewers": 3048,
+      "live_viewers": 4405,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-23T01:06:59.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T01:06:59.000Z",
-      "live_viewers": 264,
+      "live_viewers": 251,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-23T02:59:57.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T02:59:57.000Z",
-      "live_viewers": 317,
+      "live_viewers": 312,
       "channel": {
         "id": "UCtWH0tVAcUcSm4v96H5cAqQ",
         "name": "Pico Ch. 倉夢ぴこ 【Phase Connect】",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-23T03:00:17.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:00:17.000Z",
-      "live_viewers": 7372,
+      "live_viewers": 7352,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-23T03:01:52.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:01:52.000Z",
-      "live_viewers": 6256,
+      "live_viewers": 6558,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -311,7 +311,7 @@
       "available_at": "2026-05-23T03:12:40.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:12:40.000Z",
-      "live_viewers": 212,
+      "live_viewers": 222,
       "channel": {
         "id": "UCzyzcQtOIF4lnGJ9IxrhaYA",
         "name": "Navina Nova Ch. ナビナ・ノバ【Ephemira】",
