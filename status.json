@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779513019,
+  "cached_at": 1779513080,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "Z1z94lcbWfs",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-22T22:56:19.000Z",
       "start_scheduled": "2026-05-22T23:00:00.000Z",
       "start_actual": "2026-05-22T22:56:19.000Z",
-      "live_viewers": 3833,
+      "live_viewers": 3391,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCmbs8T6MWqUHP1tIQvSgKrg": {
-      "video_id": "EwMF-ftvL60",
-      "title": "【Just Chatting】Talkie Talkie + Surprise Announcement",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-22T21:46:25.000Z",
-      "available_at": "2026-05-23T01:04:16.000Z",
-      "start_scheduled": "2026-05-23T01:00:00.000Z",
-      "start_actual": "2026-05-23T01:04:16.000Z",
-      "live_viewers": 4762,
-      "channel": {
-        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
-        "name": "Ouro Kronii Ch. hololive-EN",
-        "english_name": "Ouro Kronii",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC060r4zABV18vcahAWR1n7w": {
@@ -91,7 +71,7 @@
       "available_at": "2026-05-23T01:08:08.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T01:08:08.000Z",
-      "live_viewers": 134,
+      "live_viewers": 132,
       "channel": {
         "id": "UCXEtq-HwfxgedQ2tF6-txUQ",
         "name": "Caspurr Catacini",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-23T03:01:52.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:01:52.000Z",
-      "live_viewers": 6779,
+      "live_viewers": 6867,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-23T05:00:27.000Z",
       "start_scheduled": "2026-05-23T05:00:00.000Z",
       "start_actual": "2026-05-23T05:00:27.000Z",
-      "live_viewers": 1634,
+      "live_viewers": 2044,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
