@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779543499,
+  "cached_at": 1779543559,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "8ycpL8lpzC4",
@@ -61,26 +61,6 @@
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCp-5t9SrOQwXMU7iIjQfARg": {
-      "video_id": "E6ehBsi3Ov4",
-      "title": "【 MOTHER2 】超名作MOTHER2を完全初見プレイ！【#05】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "EarthBound",
-      "published_at": "2026-05-23T09:29:01.000Z",
-      "available_at": "2026-05-23T10:00:19.000Z",
-      "start_scheduled": "2026-05-23T10:00:00.000Z",
-      "start_actual": "2026-05-23T10:00:19.000Z",
-      "live_viewers": 8339,
-      "channel": {
-        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-        "name": "Mio Channel 大神ミオ",
-        "english_name": "Ookami Mio",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
       "video_id": "xwoUk_cLits",
       "title": "【 🟢FF7クライシスコア 】完全初見で遊ぶぞｵｵｵｵｵ #02【 猫又おかゆ/ホロライブ 】※ネタバレあり",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-23T11:01:37.000Z",
       "start_scheduled": "2026-05-23T11:00:00.000Z",
       "start_actual": "2026-05-23T11:01:37.000Z",
-      "live_viewers": 14736,
+      "live_viewers": 14871,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-23T12:00:38.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:00:38.000Z",
-      "live_viewers": 27083,
+      "live_viewers": 27228,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-23T12:00:40.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:00:40.000Z",
-      "live_viewers": 18249,
+      "live_viewers": 18461,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-23T12:01:04.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:01:04.000Z",
-      "live_viewers": 14,
+      "live_viewers": 12,
       "channel": {
         "id": "UC-LAnFLXU9BusFv7n8lFj8g",
         "name": "Sarugaku Leon Jr. ch.",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-23T12:01:54.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:01:54.000Z",
-      "live_viewers": 5785,
+      "live_viewers": 5876,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-23T13:00:18.000Z",
       "start_scheduled": "2026-05-23T13:00:00.000Z",
       "start_actual": "2026-05-23T13:00:18.000Z",
-      "live_viewers": 3076,
+      "live_viewers": 3073,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -371,7 +351,7 @@
       "available_at": "2026-05-23T13:00:38.000Z",
       "start_scheduled": "2026-05-23T13:00:00.000Z",
       "start_actual": "2026-05-23T13:00:38.000Z",
-      "live_viewers": 10457,
+      "live_viewers": 11390,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -391,7 +371,7 @@
       "available_at": "2026-05-23T13:01:02.000Z",
       "start_scheduled": "2026-05-23T13:00:00.000Z",
       "start_actual": "2026-05-23T13:01:02.000Z",
-      "live_viewers": 652,
+      "live_viewers": 691,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -411,7 +391,7 @@
       "available_at": "2026-05-23T13:01:13.000Z",
       "start_scheduled": "2026-05-23T13:00:00.000Z",
       "start_actual": "2026-05-23T13:01:13.000Z",
-      "live_viewers": 3158,
+      "live_viewers": 3021,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
