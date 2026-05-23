@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779500719,
+  "cached_at": 1779500781,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "5f5uST1C7z4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-22T21:03:03.000Z",
       "start_scheduled": "2026-05-22T21:00:00.000Z",
       "start_actual": "2026-05-22T21:03:03.000Z",
-      "live_viewers": 4760,
+      "live_viewers": 4766,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-23T00:00:24.000Z",
       "start_scheduled": "2026-05-23T00:00:00.000Z",
       "start_actual": "2026-05-23T00:00:24.000Z",
-      "live_viewers": 3893,
+      "live_viewers": 3763,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCuI_opAVX6qbxZY-a-AxFuQ": {
-      "video_id": "0FslgmfqcFE",
-      "title": "【朝活】土曜日の朝のニコたんがかえって~キタァー!!【虎金妃笑虎】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "morning",
-      "published_at": "2026-05-22T16:38:23.000Z",
-      "available_at": "2026-05-23T00:02:01.000Z",
-      "start_scheduled": "2026-05-23T00:00:00.000Z",
-      "start_actual": "2026-05-23T00:02:01.000Z",
-      "live_viewers": 4851,
-      "channel": {
-        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-        "english_name": "Koganei Niko",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
@@ -91,7 +71,7 @@
       "available_at": "2026-05-23T00:07:48.000Z",
       "start_scheduled": "2026-05-23T00:02:00.000Z",
       "start_actual": "2026-05-23T00:07:48.000Z",
-      "live_viewers": 392,
+      "live_viewers": 384,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-23T00:55:07.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T00:55:07.000Z",
-      "live_viewers": 2496,
+      "live_viewers": 2659,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-23T00:55:13.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T00:55:13.000Z",
-      "live_viewers": 3356,
+      "live_viewers": 3366,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-23T01:03:51.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T01:03:51.000Z",
-      "live_viewers": 26988,
+      "live_viewers": 27557,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-23T01:04:16.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T01:04:16.000Z",
-      "live_viewers": 3817,
+      "live_viewers": 3963,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-23T01:06:59.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T01:06:59.000Z",
-      "live_viewers": 208,
+      "live_viewers": 215,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-23T01:08:08.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T01:08:08.000Z",
-      "live_viewers": 156,
+      "live_viewers": 164,
       "channel": {
         "id": "UCXEtq-HwfxgedQ2tF6-txUQ",
         "name": "Caspurr Catacini",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-23T01:08:38.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T01:08:38.000Z",
-      "live_viewers": 1018,
+      "live_viewers": 1017,
       "channel": {
         "id": "UCHP4f7G2dWD4qib7BMatGAw",
         "name": "Gavis Bettel Ch. HOLOSTARS-EN",
