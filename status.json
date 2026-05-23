@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779546558,
+  "cached_at": 1779546619,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "8ycpL8lpzC4",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-23T07:58:14.000Z",
       "start_scheduled": "2026-05-23T08:00:00.000Z",
       "start_actual": "2026-05-23T07:58:14.000Z",
-      "live_viewers": 6125,
+      "live_viewers": 6495,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -101,26 +101,6 @@
         "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC_vDF8pbCIR8gaAxXAAH7Og": {
-      "video_id": "mlUrzONUSM8",
-      "title": "【Super Battle Golf】 UY PILIPINS PERO GOLF 【DubsteP】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Super_Battle_Golf",
-      "published_at": "2026-05-23T08:34:28.000Z",
-      "available_at": "2026-05-23T11:54:10.000Z",
-      "start_scheduled": "2026-05-23T12:00:00.000Z",
-      "start_actual": "2026-05-23T11:54:10.000Z",
-      "live_viewers": 70,
-      "channel": {
-        "id": "UC_vDF8pbCIR8gaAxXAAH7Og",
-        "name": "DubsteP",
-        "english_name": "DubsteP",
-        "org": "Twitch Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/yypKKZ7TwgcvvF57-AgPEMsPL1fxWSOdrP2ESj7U7Un-cqe7tRQE2t2ajaHvixyXB3_-9PrS=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "BDLLhRpeC-I",
       "title": "【 R.E.P.O 】静かに!RE 先輩についていくR.E.P.O.!!!!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-23T12:00:21.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:00:21.000Z",
-      "live_viewers": 7048,
+      "live_viewers": 7138,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-23T12:00:38.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:00:38.000Z",
-      "live_viewers": 26666,
+      "live_viewers": 26700,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-23T12:01:54.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:01:54.000Z",
-      "live_viewers": 5637,
+      "live_viewers": 5630,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-23T12:02:01.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:02:01.000Z",
-      "live_viewers": 16986,
+      "live_viewers": 17145,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-23T13:00:18.000Z",
       "start_scheduled": "2026-05-23T13:00:00.000Z",
       "start_actual": "2026-05-23T13:00:18.000Z",
-      "live_viewers": 3062,
+      "live_viewers": 3014,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -351,7 +331,7 @@
       "available_at": "2026-05-23T14:08:18.000Z",
       "start_scheduled": "2026-05-23T15:00:00.000Z",
       "start_actual": "2026-05-23T14:08:18.000Z",
-      "live_viewers": 5517,
+      "live_viewers": 5053,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
