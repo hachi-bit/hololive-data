@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779518299,
+  "cached_at": 1779518360,
   "lives": {
-    "UC_sFNM0z0MWm9A6WlKPuMMg": {
-      "video_id": "2J0mLa3uSsQ",
-      "title": "I'M HUNGRY! | Kirby 64: The Crystal Shards",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Kirby",
-      "published_at": "2026-05-22T10:44:16.000Z",
-      "available_at": "2026-05-23T00:55:07.000Z",
-      "start_scheduled": "2026-05-23T01:00:00.000Z",
-      "start_actual": "2026-05-23T00:55:07.000Z",
-      "live_viewers": 4394,
-      "channel": {
-        "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
-        "name": "Nerissa Ravencroft Ch. hololive-EN",
-        "english_name": "Nerissa Ravencroft",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCOuaCgLWUPRwQtnX78Cat5w": {
       "video_id": "_mX6XnAgxCU",
       "title": "【 #repo 】姉妹コラボ!こうましろ家REPO✨家宝どれにします?【 #新人vtuber / #宵吸あけル 】",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-23T03:00:17.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:00:17.000Z",
-      "live_viewers": 5556,
+      "live_viewers": 5566,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-23T03:01:27.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:01:27.000Z",
-      "live_viewers": 20042,
+      "live_viewers": 19367,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-23T03:01:52.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:01:52.000Z",
-      "live_viewers": 6886,
+      "live_viewers": 6838,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-23T04:02:22.000Z",
       "start_scheduled": "2026-05-23T04:00:00.000Z",
       "start_actual": "2026-05-23T04:02:22.000Z",
-      "live_viewers": 17613,
+      "live_viewers": 17515,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-23T06:00:14.000Z",
       "start_scheduled": "2026-05-23T06:00:00.000Z",
       "start_actual": "2026-05-23T06:00:14.000Z",
-      "live_viewers": 502,
+      "live_viewers": 3194,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-23T06:03:06.000Z",
       "start_scheduled": "2026-05-23T06:02:50.000Z",
       "start_actual": "2026-05-23T06:03:06.000Z",
-      "live_viewers": 3344,
+      "live_viewers": 3613,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-23T06:07:02.000Z",
       "start_scheduled": "2026-05-23T06:00:00.000Z",
       "start_actual": "2026-05-23T06:07:02.000Z",
-      "live_viewers": 403,
+      "live_viewers": 428,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
