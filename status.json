@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779547759,
+  "cached_at": 1779547820,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "8ycpL8lpzC4",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-23T07:58:14.000Z",
       "start_scheduled": "2026-05-23T08:00:00.000Z",
       "start_actual": "2026-05-23T07:58:14.000Z",
-      "live_viewers": 7441,
+      "live_viewers": 7572,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-23T12:00:38.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:00:38.000Z",
-      "live_viewers": 25737,
+      "live_viewers": 25796,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-23T12:02:01.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:02:01.000Z",
-      "live_viewers": 16655,
+      "live_viewers": 16868,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -281,26 +281,6 @@
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdyqAaZDKHXg4Ahi7VENThQ": {
-      "video_id": "J7LgP5os8RU",
-      "title": "【ゴブリン・ノーム・ホーン】大好きネックビ！アプデきちゃ太郎～！！！早速やるど🔥【白銀ノエル/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Goblin_Gnome_Horn",
-      "published_at": "2026-05-23T10:07:20.000Z",
-      "available_at": "2026-05-23T13:01:13.000Z",
-      "start_scheduled": "2026-05-23T13:00:00.000Z",
-      "start_actual": "2026-05-23T13:01:13.000Z",
-      "live_viewers": 3150,
-      "channel": {
-        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-        "name": "Noel Ch. 白銀ノエル",
-        "english_name": "Shirogane Noel",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
       "video_id": "wBVFLXBzb-s",
       "title": "【メンバー限定】同時視聴する作品探して見るやつ【荒咬オウガ /ホロスターズ】",
@@ -351,7 +331,7 @@
       "available_at": "2026-05-23T14:30:46.000Z",
       "start_scheduled": "2026-05-23T14:30:00.000Z",
       "start_actual": "2026-05-23T14:30:46.000Z",
-      "live_viewers": 1456,
+      "live_viewers": 1530,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
