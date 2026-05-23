@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779536058,
+  "cached_at": 1779536118,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "8ycpL8lpzC4",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-23T07:58:14.000Z",
       "start_scheduled": "2026-05-23T08:00:00.000Z",
       "start_actual": "2026-05-23T07:58:14.000Z",
-      "live_viewers": 6437,
+      "live_viewers": 6467,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-23T11:01:37.000Z",
       "start_scheduled": "2026-05-23T11:00:00.000Z",
       "start_actual": "2026-05-23T11:01:37.000Z",
-      "live_viewers": 13100,
+      "live_viewers": 13302,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-23T11:02:47.000Z",
       "start_scheduled": "2026-05-23T11:00:00.000Z",
       "start_actual": "2026-05-23T11:02:47.000Z",
-      "live_viewers": 6574,
+      "live_viewers": 6718,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-23T11:03:13.000Z",
       "start_scheduled": "2026-05-23T11:00:00.000Z",
       "start_actual": "2026-05-23T11:03:13.000Z",
-      "live_viewers": 52504,
+      "live_viewers": 53099,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -248,9 +248,10 @@
       "status": "live",
       "topic_id": "watchalong",
       "published_at": "2026-05-23T09:10:46.000Z",
-      "available_at": "2026-05-23T11:30:00.000Z",
+      "available_at": "2026-05-23T11:31:40.000Z",
       "start_scheduled": "2026-05-23T11:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-23T11:31:40.000Z",
+      "live_viewers": 305,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
