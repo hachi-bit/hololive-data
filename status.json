@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779528079,
+  "cached_at": 1779528140,
   "lives": {
     "UCvzGlP9oQwU--Y0r9id_jnA": {
       "video_id": "ifkYJnKGRJo",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-23T04:02:22.000Z",
       "start_scheduled": "2026-05-23T04:00:00.000Z",
       "start_actual": "2026-05-23T04:02:22.000Z",
-      "live_viewers": 20743,
+      "live_viewers": 19926,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp6993wxpyDPHUpavwDFqgg": {
-      "video_id": "9EW8HAXz674",
-      "title": "【ゼルダの伝説 ムジュラの仮面】ボスの倒し方を考えてきました。【ホロライブ/ときのそら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "zelda",
-      "published_at": "2026-05-23T05:04:42.000Z",
-      "available_at": "2026-05-23T05:31:40.000Z",
-      "start_scheduled": "2026-05-23T05:30:00.000Z",
-      "start_actual": "2026-05-23T05:31:40.000Z",
-      "live_viewers": 4566,
-      "channel": {
-        "id": "UCp6993wxpyDPHUpavwDFqgg",
-        "name": "SoraCh. ときのそらチャンネル",
-        "english_name": "Tokino Sora",
-        "org": "Hololive",
-        "suborg": "0v0th Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCAHQGIKolfBfoeXXMY79SBA": {
@@ -151,7 +131,7 @@
       "available_at": "2026-05-23T08:59:10.000Z",
       "start_scheduled": "2026-05-23T09:00:00.000Z",
       "start_actual": "2026-05-23T08:59:10.000Z",
-      "live_viewers": 5168,
+      "live_viewers": 5294,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-23T09:02:51.000Z",
       "start_scheduled": "2026-05-23T09:00:00.000Z",
       "start_actual": "2026-05-23T09:02:51.000Z",
-      "live_viewers": 4252,
+      "live_viewers": 4242,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
