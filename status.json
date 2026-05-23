@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779498800,
+  "cached_at": 1779498859,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "5f5uST1C7z4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-22T21:03:03.000Z",
       "start_scheduled": "2026-05-22T21:00:00.000Z",
       "start_actual": "2026-05-22T21:03:03.000Z",
-      "live_viewers": 5137,
+      "live_viewers": 4989,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-22T22:56:19.000Z",
       "start_scheduled": "2026-05-22T23:00:00.000Z",
       "start_actual": "2026-05-22T22:56:19.000Z",
-      "live_viewers": 4149,
+      "live_viewers": 4013,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-23T00:00:24.000Z",
       "start_scheduled": "2026-05-23T00:00:00.000Z",
       "start_actual": "2026-05-23T00:00:24.000Z",
-      "live_viewers": 3899,
+      "live_viewers": 3901,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-23T00:02:01.000Z",
       "start_scheduled": "2026-05-23T00:00:00.000Z",
       "start_actual": "2026-05-23T00:02:01.000Z",
-      "live_viewers": 6619,
+      "live_viewers": 5566,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-23T00:55:07.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T00:55:07.000Z",
-      "live_viewers": 1950,
+      "live_viewers": 2023,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-23T00:55:13.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T00:55:13.000Z",
-      "live_viewers": 2582,
+      "live_viewers": 2726,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -139,25 +139,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCHP4f7G2dWD4qib7BMatGAw": {
-      "video_id": "VxoDgd00fyU",
-      "title": "[SUBNAUTICA 2] MAN TERRIFIED OF OCEAN PLAYS OCEAN GAME w/ SHIKI AND CASPURR",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Subnautica",
-      "published_at": "2026-05-23T00:21:33.000Z",
-      "available_at": "2026-05-23T01:00:00.000Z",
-      "start_scheduled": "2026-05-23T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCHP4f7G2dWD4qib7BMatGAw",
-        "name": "Gavis Bettel Ch. HOLOSTARS-EN",
-        "english_name": "Gavis Bettel",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvzGlP9oQwU--Y0r9id_jnA": {
@@ -170,7 +151,7 @@
       "available_at": "2026-05-23T01:03:51.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T01:03:51.000Z",
-      "live_viewers": 16103,
+      "live_viewers": 16708,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -190,7 +171,7 @@
       "available_at": "2026-05-23T01:04:16.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T01:04:16.000Z",
-      "live_viewers": 1788,
+      "live_viewers": 2087,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -210,7 +191,7 @@
       "available_at": "2026-05-23T01:06:59.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T01:06:59.000Z",
-      "live_viewers": 128,
+      "live_viewers": 154,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -230,7 +211,7 @@
       "available_at": "2026-05-23T01:08:08.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T01:08:08.000Z",
-      "live_viewers": 93,
+      "live_viewers": 129,
       "channel": {
         "id": "UCXEtq-HwfxgedQ2tF6-txUQ",
         "name": "Caspurr Catacini",
@@ -238,6 +219,26 @@
         "org": "Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/4ye7aMdKWioTbGLnUMUDK_fbPLTp_bEblLHeEwQdZ5RDXr6g9_kqogcptmYH7V6XA1cWvmjs=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCHP4f7G2dWD4qib7BMatGAw": {
+      "video_id": "VxoDgd00fyU",
+      "title": "[SUBNAUTICA 2] MAN TERRIFIED OF OCEAN PLAYS OCEAN GAME w/ SHIKI AND CASPURR",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Subnautica",
+      "published_at": "2026-05-23T00:21:33.000Z",
+      "available_at": "2026-05-23T01:08:38.000Z",
+      "start_scheduled": "2026-05-23T01:00:00.000Z",
+      "start_actual": "2026-05-23T01:08:38.000Z",
+      "live_viewers": 616,
+      "channel": {
+        "id": "UCHP4f7G2dWD4qib7BMatGAw",
+        "name": "Gavis Bettel Ch. HOLOSTARS-EN",
+        "english_name": "Gavis Bettel",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
