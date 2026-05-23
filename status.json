@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779556399,
+  "cached_at": 1779556459,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "8ycpL8lpzC4",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-23T07:00:08.000Z",
       "start_scheduled": "2026-05-23T07:00:00.000Z",
       "start_actual": "2026-05-23T07:00:08.000Z",
-      "live_viewers": 492,
+      "live_viewers": 449,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-23T14:08:18.000Z",
       "start_scheduled": "2026-05-23T15:00:00.000Z",
       "start_actual": "2026-05-23T14:08:18.000Z",
-      "live_viewers": 19912,
+      "live_viewers": 19801,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-23T14:30:46.000Z",
       "start_scheduled": "2026-05-23T14:30:00.000Z",
       "start_actual": "2026-05-23T14:30:46.000Z",
-      "live_viewers": 2223,
+      "live_viewers": 2140,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-23T16:05:27.000Z",
       "start_scheduled": "2026-05-23T16:00:00.000Z",
       "start_actual": "2026-05-23T16:05:27.000Z",
-      "live_viewers": 2915,
+      "live_viewers": 3009,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
