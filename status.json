@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779510981,
+  "cached_at": 1779511041,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "Z1z94lcbWfs",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-22T22:56:19.000Z",
       "start_scheduled": "2026-05-22T23:00:00.000Z",
       "start_actual": "2026-05-22T22:56:19.000Z",
-      "live_viewers": 4781,
+      "live_viewers": 4724,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCajbFh6e_R8QZdHAMbbi4rQ": {
-      "video_id": "4la9wk5jzIE",
-      "title": "War Always Changes【TOTAL WARHAMMER III】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Warhammer",
-      "published_at": "2026-05-23T00:01:58.000Z",
-      "available_at": "2026-05-23T00:07:48.000Z",
-      "start_scheduled": "2026-05-23T00:02:00.000Z",
-      "start_actual": "2026-05-23T00:07:48.000Z",
-      "live_viewers": 352,
-      "channel": {
-        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-        "english_name": "Crimzon Ruze",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
@@ -131,7 +111,7 @@
       "available_at": "2026-05-23T01:08:38.000Z",
       "start_scheduled": "2026-05-23T01:00:00.000Z",
       "start_actual": "2026-05-23T01:08:38.000Z",
-      "live_viewers": 909,
+      "live_viewers": 902,
       "channel": {
         "id": "UCHP4f7G2dWD4qib7BMatGAw",
         "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-23T02:59:57.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T02:59:57.000Z",
-      "live_viewers": 364,
+      "live_viewers": 362,
       "channel": {
         "id": "UCtWH0tVAcUcSm4v96H5cAqQ",
         "name": "Pico Ch. 倉夢ぴこ 【Phase Connect】",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-23T03:00:17.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:00:17.000Z",
-      "live_viewers": 7055,
+      "live_viewers": 6802,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-23T03:12:40.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:12:40.000Z",
-      "live_viewers": 256,
+      "live_viewers": 262,
       "channel": {
         "id": "UCzyzcQtOIF4lnGJ9IxrhaYA",
         "name": "Navina Nova Ch. ナビナ・ノバ【Ephemira】",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-23T04:02:22.000Z",
       "start_scheduled": "2026-05-23T04:00:00.000Z",
       "start_actual": "2026-05-23T04:02:22.000Z",
-      "live_viewers": 12897,
+      "live_viewers": 13465,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
