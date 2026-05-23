@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779551119,
+  "cached_at": 1779551179,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "8ycpL8lpzC4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-23T07:00:02.000Z",
       "start_scheduled": "2026-05-23T07:00:00.000Z",
       "start_actual": "2026-05-23T07:00:02.000Z",
-      "live_viewers": 1021,
+      "live_viewers": 39,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-23T07:00:08.000Z",
       "start_scheduled": "2026-05-23T07:00:00.000Z",
       "start_actual": "2026-05-23T07:00:08.000Z",
-      "live_viewers": 448,
+      "live_viewers": 473,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-23T13:01:02.000Z",
       "start_scheduled": "2026-05-23T13:00:00.000Z",
       "start_actual": "2026-05-23T13:01:02.000Z",
-      "live_viewers": 881,
+      "live_viewers": 884,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-23T14:08:18.000Z",
       "start_scheduled": "2026-05-23T15:00:00.000Z",
       "start_actual": "2026-05-23T14:08:18.000Z",
-      "live_viewers": 22132,
+      "live_viewers": 21963,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-23T14:30:46.000Z",
       "start_scheduled": "2026-05-23T14:30:00.000Z",
       "start_actual": "2026-05-23T14:30:46.000Z",
-      "live_viewers": 2352,
+      "live_viewers": 2319,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -181,25 +181,6 @@
         "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "RXfvg_uJqQM",
-      "title": "【 R.E.P.O 】わため先輩とR.E.P.O.!!!!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-05-23T15:40:38.000Z",
-      "available_at": "2026-05-23T15:40:00.000Z",
-      "start_scheduled": "2026-05-23T15:40:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "english_name": "Kikirara Vivi",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "dYU6YZQY87U",
       "title": "【F1同時視聴】カナダGP!スプリント決勝!!! 【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
@@ -210,7 +191,7 @@
       "available_at": "2026-05-23T15:40:11.000Z",
       "start_scheduled": "2026-05-23T15:30:00.000Z",
       "start_actual": "2026-05-23T15:40:11.000Z",
-      "live_viewers": 1130,
+      "live_viewers": 1332,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -218,6 +199,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "RXfvg_uJqQM",
+      "title": "【 R.E.P.O 】わため先輩とR.E.P.O.!!!!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-05-23T15:40:38.000Z",
+      "available_at": "2026-05-23T15:43:04.000Z",
+      "start_scheduled": "2026-05-23T15:40:00.000Z",
+      "start_actual": "2026-05-23T15:43:04.000Z",
+      "live_viewers": 1512,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
