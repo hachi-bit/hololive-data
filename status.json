@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779514459,
+  "cached_at": 1779514519,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "2J0mLa3uSsQ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-23T03:01:27.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:01:27.000Z",
-      "live_viewers": 16676,
+      "live_viewers": 16525,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-23T03:01:52.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:01:52.000Z",
-      "live_viewers": 6919,
+      "live_viewers": 6820,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-23T03:12:40.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:12:40.000Z",
-      "live_viewers": 273,
+      "live_viewers": 275,
       "channel": {
         "id": "UCzyzcQtOIF4lnGJ9IxrhaYA",
         "name": "Navina Nova Ch. ナビナ・ノバ【Ephemira】",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-23T05:00:27.000Z",
       "start_scheduled": "2026-05-23T05:00:00.000Z",
       "start_actual": "2026-05-23T05:00:27.000Z",
-      "live_viewers": 3377,
+      "live_viewers": 3467,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -248,9 +248,10 @@
       "status": "live",
       "topic_id": "zelda",
       "published_at": "2026-05-23T05:04:42.000Z",
-      "available_at": "2026-05-23T05:30:00.000Z",
+      "available_at": "2026-05-23T05:31:40.000Z",
       "start_scheduled": "2026-05-23T05:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-23T05:31:40.000Z",
+      "live_viewers": 769,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
