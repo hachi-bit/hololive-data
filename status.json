@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779536959,
+  "cached_at": 1779537019,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "8ycpL8lpzC4",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-23T07:00:08.000Z",
       "start_scheduled": "2026-05-23T07:00:00.000Z",
       "start_actual": "2026-05-23T07:00:08.000Z",
-      "live_viewers": 552,
+      "live_viewers": 522,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-23T07:58:14.000Z",
       "start_scheduled": "2026-05-23T08:00:00.000Z",
       "start_actual": "2026-05-23T07:58:14.000Z",
-      "live_viewers": 6468,
+      "live_viewers": 6253,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -121,26 +121,6 @@
         "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "EdATn-FwslQ",
-      "title": "【メンバー限定】雑談とかスケジュール決めとか。②【花咲みやび/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-23T09:37:40.000Z",
-      "available_at": "2026-05-23T10:33:41.000Z",
-      "start_scheduled": "2026-05-23T10:30:00.000Z",
-      "start_actual": "2026-05-23T10:33:41.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCDqI2jOz0weumE8s7paEk6g": {
       "video_id": "U975jWt8EOg",
       "title": "【 3Dスタジオリア凸】爆誕10才🎂✨ 1・2switchで勝利したら新衣装お披露目チャンス!?? お披露目させてください! #ロボ子爆誕2026【ホロライブ/ ロボ子さん 】",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-23T11:01:37.000Z",
       "start_scheduled": "2026-05-23T11:00:00.000Z",
       "start_actual": "2026-05-23T11:01:37.000Z",
-      "live_viewers": 13960,
+      "live_viewers": 13944,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-23T11:02:47.000Z",
       "start_scheduled": "2026-05-23T11:00:00.000Z",
       "start_actual": "2026-05-23T11:02:47.000Z",
-      "live_viewers": 6880,
+      "live_viewers": 6823,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-23T11:03:13.000Z",
       "start_scheduled": "2026-05-23T11:00:00.000Z",
       "start_actual": "2026-05-23T11:03:13.000Z",
-      "live_viewers": 56344,
+      "live_viewers": 56686,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-23T11:31:40.000Z",
       "start_scheduled": "2026-05-23T11:30:00.000Z",
       "start_actual": "2026-05-23T11:31:40.000Z",
-      "live_viewers": 377,
+      "live_viewers": 393,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
