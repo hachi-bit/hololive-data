@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779494538,
+  "cached_at": 1779494599,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "5f5uST1C7z4",
@@ -39,6 +39,45 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCuI_opAVX6qbxZY-a-AxFuQ": {
+      "video_id": "0FslgmfqcFE",
+      "title": "【朝活】土曜日の朝のニコたんがかえって~キタァー!!【虎金妃笑虎】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "morning",
+      "published_at": "2026-05-22T16:38:23.000Z",
+      "available_at": "2026-05-23T00:00:00.000Z",
+      "start_scheduled": "2026-05-23T00:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+        "english_name": "Koganei Niko",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCMwGHR0BTZuLsmjY_NT5Pwg": {
+      "video_id": "HCF9ETDKG8A",
+      "title": "【Magical Princess】They Really Do Grow Up So Fast...【Spoilers】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Magical_Princess",
+      "published_at": "2026-05-22T12:04:55.000Z",
+      "available_at": "2026-05-23T00:00:24.000Z",
+      "start_scheduled": "2026-05-23T00:00:00.000Z",
+      "start_actual": "2026-05-23T00:00:24.000Z",
+      "live_viewers": 946,
+      "channel": {
+        "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "name": "Ninomae Ina'nis Ch. hololive-EN",
+        "english_name": "Ninomae Ina'nis",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
