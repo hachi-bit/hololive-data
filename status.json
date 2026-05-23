@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779519799,
+  "cached_at": 1779519861,
   "lives": {
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "ZaGwdzeN6PA",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-23T03:00:17.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:00:17.000Z",
-      "live_viewers": 5375,
+      "live_viewers": 5508,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-23T03:01:27.000Z",
       "start_scheduled": "2026-05-23T03:00:00.000Z",
       "start_actual": "2026-05-23T03:01:27.000Z",
-      "live_viewers": 19742,
+      "live_viewers": 19953,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-23T04:02:22.000Z",
       "start_scheduled": "2026-05-23T04:00:00.000Z",
       "start_actual": "2026-05-23T04:02:22.000Z",
-      "live_viewers": 17307,
+      "live_viewers": 17568,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-23T05:00:27.000Z",
       "start_scheduled": "2026-05-23T05:00:00.000Z",
       "start_actual": "2026-05-23T05:00:27.000Z",
-      "live_viewers": 4525,
+      "live_viewers": 4551,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-23T06:03:06.000Z",
       "start_scheduled": "2026-05-23T06:02:50.000Z",
       "start_actual": "2026-05-23T06:03:06.000Z",
-      "live_viewers": 4071,
+      "live_viewers": 4144,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-23T06:07:02.000Z",
       "start_scheduled": "2026-05-23T06:00:00.000Z",
       "start_actual": "2026-05-23T06:07:02.000Z",
-      "live_viewers": 432,
+      "live_viewers": 452,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -159,6 +159,46 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAHQGIKolfBfoeXXMY79SBA": {
+      "video_id": "8ycpL8lpzC4",
+      "title": "【 League of Legends #LTK 】DDnext無限日【白那しずく / ネオポルテ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-05-23T05:53:25.000Z",
+      "available_at": "2026-05-23T07:00:02.000Z",
+      "start_scheduled": "2026-05-23T07:00:00.000Z",
+      "start_actual": "2026-05-23T07:00:02.000Z",
+      "live_viewers": 329,
+      "channel": {
+        "id": "UCAHQGIKolfBfoeXXMY79SBA",
+        "name": "白那しずく",
+        "english_name": "Shirona Shizuku",
+        "org": "Neo-Porte",
+        "suborg": "0k5th Generation",
+        "photo": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "IVgNPrM8Qgw",
+      "title": "【LoL】LTK DDnext  無限練習DAY   / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeo",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-05-23T06:46:32.000Z",
+      "available_at": "2026-05-23T07:00:08.000Z",
+      "start_scheduled": "2026-05-23T07:00:00.000Z",
+      "start_actual": "2026-05-23T07:00:08.000Z",
+      "live_viewers": 128,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
