@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779541459,
+  "cached_at": 1779541519,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "8ycpL8lpzC4",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-23T07:58:14.000Z",
       "start_scheduled": "2026-05-23T08:00:00.000Z",
       "start_actual": "2026-05-23T07:58:14.000Z",
-      "live_viewers": 5656,
+      "live_viewers": 5596,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-23T10:01:44.000Z",
       "start_scheduled": "2026-05-23T10:00:00.000Z",
       "start_actual": "2026-05-23T10:01:44.000Z",
-      "live_viewers": 4480,
+      "live_viewers": 4420,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-23T11:01:37.000Z",
       "start_scheduled": "2026-05-23T11:00:00.000Z",
       "start_actual": "2026-05-23T11:01:37.000Z",
-      "live_viewers": 15512,
+      "live_viewers": 14664,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC3OH5FKQ3qtl4uRme_vZTgA": {
-      "video_id": "x0zIJlXL1j0",
-      "title": "【雑談】早口まつ毛の『初』個人配信だ~!!【宵凪ネオン/#UNIT_B】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-23T10:58:12.000Z",
-      "available_at": "2026-05-23T11:02:47.000Z",
-      "start_scheduled": "2026-05-23T11:00:00.000Z",
-      "start_actual": "2026-05-23T11:02:47.000Z",
-      "live_viewers": 6008,
-      "channel": {
-        "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
-        "name": "UNIT B (Pre-Debut) - mekPark",
-        "english_name": "UNIT B [Pre-Debut]",
-        "org": "Hololive",
-        "suborg": "v_mekPark",
-        "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCOyYb1c43VlX9rc_lT6NKQw": {
@@ -151,7 +131,7 @@
       "available_at": "2026-05-23T11:31:40.000Z",
       "start_scheduled": "2026-05-23T11:30:00.000Z",
       "start_actual": "2026-05-23T11:31:40.000Z",
-      "live_viewers": 418,
+      "live_viewers": 438,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-23T11:54:10.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T11:54:10.000Z",
-      "live_viewers": 80,
+      "live_viewers": 74,
       "channel": {
         "id": "UC_vDF8pbCIR8gaAxXAAH7Og",
         "name": "DubsteP",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-23T12:00:38.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:00:38.000Z",
-      "live_viewers": 26505,
+      "live_viewers": 26769,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-23T12:00:40.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:00:40.000Z",
-      "live_viewers": 17412,
+      "live_viewers": 17396,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-23T12:00:46.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:00:46.000Z",
-      "live_viewers": 5246,
+      "live_viewers": 5154,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-23T12:01:04.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:01:04.000Z",
-      "live_viewers": 9,
+      "live_viewers": 10,
       "channel": {
         "id": "UC-LAnFLXU9BusFv7n8lFj8g",
         "name": "Sarugaku Leon Jr. ch.",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-23T12:01:09.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:01:09.000Z",
-      "live_viewers": 192,
+      "live_viewers": 202,
       "channel": {
         "id": "UCJjjeqEYMSzdsKt6vJ78WVw",
         "name": "Pan VTuber パン",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-23T12:01:54.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:01:54.000Z",
-      "live_viewers": 5585,
+      "live_viewers": 5715,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-23T12:02:01.000Z",
       "start_scheduled": "2026-05-23T12:00:00.000Z",
       "start_actual": "2026-05-23T12:02:01.000Z",
-      "live_viewers": 15033,
+      "live_viewers": 15324,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -359,6 +339,125 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
+      "video_id": "wBVFLXBzb-s",
+      "title": "【メンバー限定】同時視聴する作品探して見るやつ【荒咬オウガ /ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-23T10:25:07.000Z",
+      "available_at": "2026-05-23T13:00:00.000Z",
+      "start_scheduled": "2026-05-23T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "name": "Oga Ch.荒咬オウガ",
+        "english_name": "Aragami Oga",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1iA6_NT4mtAcIII6ygrvCw": {
+      "video_id": "vsIWtzNhiio",
+      "title": "【マリオテニス フィーバー】ボールがネット超えたことない奴のマリオテニス【轟はじめ/ReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_Sports",
+      "published_at": "2026-05-23T04:46:45.000Z",
+      "available_at": "2026-05-23T13:00:18.000Z",
+      "start_scheduled": "2026-05-23T13:00:00.000Z",
+      "start_actual": "2026-05-23T13:00:18.000Z",
+      "live_viewers": 1656,
+      "channel": {
+        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+        "english_name": "Todoroki Hajime",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCYz_5n-uDuChHtLo7My1HnQ": {
+      "video_id": "trs99SjtBfI",
+      "title": "【ZOMILY - FREETALK】 OVERSHARING STREAM LETS GO 【Kureiji Ollie】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-07T14:21:59.000Z",
+      "available_at": "2026-05-23T13:00:30.000Z",
+      "start_scheduled": "2026-05-23T13:00:00.000Z",
+      "start_actual": "2026-05-23T13:00:30.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+        "name": "Kureiji Ollie Ch. hololive-ID",
+        "english_name": "Kureiji Ollie",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFKOVgVbGmX65RxO3EtH3iw": {
+      "video_id": "5r_8nPswVeo",
+      "title": "【Outbound】憧れのキャンピングカーで旅に出よう!【雪花ラミィ /ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-23T02:20:00.000Z",
+      "available_at": "2026-05-23T13:00:38.000Z",
+      "start_scheduled": "2026-05-23T13:00:00.000Z",
+      "start_actual": "2026-05-23T13:00:38.000Z",
+      "live_viewers": 4700,
+      "channel": {
+        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+        "name": "Lamy Ch. 雪花ラミィ",
+        "english_name": "Yukihana Lamy",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "4nDBcg7yqq4",
+      "title": "【GNOSIA】 who da impostor【Pavolia Reine/hololiveID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Gnosia",
+      "published_at": "2026-05-23T11:07:30.000Z",
+      "available_at": "2026-05-23T13:01:02.000Z",
+      "start_scheduled": "2026-05-23T13:00:00.000Z",
+      "start_actual": "2026-05-23T13:01:02.000Z",
+      "live_viewers": 282,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdyqAaZDKHXg4Ahi7VENThQ": {
+      "video_id": "J7LgP5os8RU",
+      "title": "【ゴブリン・ノーム・ホーン】大好きネックビ!アプデきちゃ太郎~!!!早速やるど🔥【白銀ノエル/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Goblin_Gnome_Horn",
+      "published_at": "2026-05-23T10:07:20.000Z",
+      "available_at": "2026-05-23T13:01:13.000Z",
+      "start_scheduled": "2026-05-23T13:00:00.000Z",
+      "start_actual": "2026-05-23T13:01:13.000Z",
+      "live_viewers": 1190,
+      "channel": {
+        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+        "name": "Noel Ch. 白銀ノエル",
+        "english_name": "Shirogane Noel",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
