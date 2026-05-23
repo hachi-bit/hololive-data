@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779550699,
+  "cached_at": 1779550759,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "8ycpL8lpzC4",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-23T07:00:08.000Z",
       "start_scheduled": "2026-05-23T07:00:00.000Z",
       "start_actual": "2026-05-23T07:00:08.000Z",
-      "live_viewers": 495,
+      "live_viewers": 448,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-23T13:00:18.000Z",
       "start_scheduled": "2026-05-23T13:00:00.000Z",
       "start_actual": "2026-05-23T13:00:18.000Z",
-      "live_viewers": 3874,
+      "live_viewers": 3982,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-23T13:01:02.000Z",
       "start_scheduled": "2026-05-23T13:00:00.000Z",
       "start_actual": "2026-05-23T13:01:02.000Z",
-      "live_viewers": 851,
+      "live_viewers": 880,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-23T15:01:19.000Z",
       "start_scheduled": "2026-05-23T15:00:00.000Z",
       "start_actual": "2026-05-23T15:01:19.000Z",
-      "live_viewers": 506,
+      "live_viewers": 541,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
