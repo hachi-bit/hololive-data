@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779555378,
+  "cached_at": 1779555438,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "8ycpL8lpzC4",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-23T07:00:08.000Z",
       "start_scheduled": "2026-05-23T07:00:00.000Z",
       "start_actual": "2026-05-23T07:00:08.000Z",
-      "live_viewers": 464,
+      "live_viewers": 489,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCYz_5n-uDuChHtLo7My1HnQ": {
-      "video_id": "trs99SjtBfI",
-      "title": "【ZOMILY - FREETALK】 OVERSHARING STREAM LETS GO 【Kureiji Ollie】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-07T14:21:59.000Z",
-      "available_at": "2026-05-23T13:00:30.000Z",
-      "start_scheduled": "2026-05-23T13:00:00.000Z",
-      "start_actual": "2026-05-23T13:00:30.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
-        "name": "Kureiji Ollie Ch. hololive-ID",
-        "english_name": "Kureiji Ollie",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
@@ -91,7 +71,7 @@
       "available_at": "2026-05-23T14:08:18.000Z",
       "start_scheduled": "2026-05-23T15:00:00.000Z",
       "start_actual": "2026-05-23T14:08:18.000Z",
-      "live_viewers": 20532,
+      "live_viewers": 20545,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-23T14:30:46.000Z",
       "start_scheduled": "2026-05-23T14:30:00.000Z",
       "start_actual": "2026-05-23T14:30:46.000Z",
-      "live_viewers": 2249,
+      "live_viewers": 2229,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-23T15:01:19.000Z",
       "start_scheduled": "2026-05-23T15:00:00.000Z",
       "start_actual": "2026-05-23T15:01:19.000Z",
-      "live_viewers": 650,
+      "live_viewers": 669,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-23T16:05:27.000Z",
       "start_scheduled": "2026-05-23T16:00:00.000Z",
       "start_actual": "2026-05-23T16:05:27.000Z",
-      "live_viewers": 2766,
+      "live_viewers": 2829,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
