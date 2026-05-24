@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779628039,
+  "cached_at": 1779628099,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5kODrCSBxP8",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-24T04:00:30.000Z",
       "start_scheduled": "2026-05-24T04:00:00.000Z",
       "start_actual": "2026-05-24T04:00:30.000Z",
-      "live_viewers": 9364,
+      "live_viewers": 9426,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-24T08:02:47.000Z",
       "start_scheduled": "2026-05-24T08:00:00.000Z",
       "start_actual": "2026-05-24T08:02:47.000Z",
-      "live_viewers": 9786,
+      "live_viewers": 9495,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-24T08:45:45.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T08:45:45.000Z",
-      "live_viewers": 17950,
+      "live_viewers": 15814,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -189,7 +189,7 @@
       "available_at": "2026-05-24T11:00:30.000Z",
       "start_scheduled": "2026-05-24T11:00:00.000Z",
       "start_actual": "2026-05-24T11:00:30.000Z",
-      "live_viewers": 15762,
+      "live_viewers": 15726,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -229,7 +229,7 @@
       "available_at": "2026-05-24T11:00:46.000Z",
       "start_scheduled": "2026-05-24T11:00:00.000Z",
       "start_actual": "2026-05-24T11:00:46.000Z",
-      "live_viewers": 4266,
+      "live_viewers": 4194,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -289,7 +289,7 @@
       "available_at": "2026-05-24T11:33:22.000Z",
       "start_scheduled": "2026-05-24T11:30:00.000Z",
       "start_actual": "2026-05-24T11:33:22.000Z",
-      "live_viewers": 367,
+      "live_viewers": 401,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -309,7 +309,7 @@
       "available_at": "2026-05-24T11:59:57.000Z",
       "start_scheduled": "2026-05-24T12:00:00.000Z",
       "start_actual": "2026-05-24T11:59:57.000Z",
-      "live_viewers": 41987,
+      "live_viewers": 41471,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -329,7 +329,7 @@
       "available_at": "2026-05-24T12:02:45.000Z",
       "start_scheduled": "2026-05-24T12:00:00.000Z",
       "start_actual": "2026-05-24T12:02:45.000Z",
-      "live_viewers": 29758,
+      "live_viewers": 30042,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -359,25 +359,6 @@
         "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCqm3BQLlJfvkTsX_hvm0UmA": {
-      "video_id": "Cw3JQ4EVtYg",
-      "title": "【雑談&お礼】冷やし胡瓜の一本漬を買ってみたので食べたい!【角巻わため/ホロライブ4期生】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-23T22:38:18.000Z",
-      "available_at": "2026-05-24T13:00:00.000Z",
-      "start_scheduled": "2026-05-24T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-        "name": "Watame Ch. 角巻わため",
-        "english_name": "Tsunomaki Watame",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "I6gdJ-8kf9I",
       "title": "【member's only】we are NOT playing Routine tonight!!! #calliolive",
@@ -385,8 +366,9 @@
       "status": "live",
       "topic_id": "membersonly",
       "published_at": "2026-05-24T00:28:00.000Z",
-      "available_at": "2026-05-24T13:00:00.000Z",
+      "available_at": "2026-05-24T13:00:43.000Z",
       "start_scheduled": "2026-05-24T13:00:00.000Z",
+      "start_actual": "2026-05-24T13:00:43.000Z",
       "live_viewers": 0,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
@@ -404,9 +386,10 @@
       "status": "live",
       "topic_id": "Pokemon_Pokopia",
       "published_at": "2026-05-24T12:31:30.000Z",
-      "available_at": "2026-05-24T13:00:00.000Z",
+      "available_at": "2026-05-24T13:01:44.000Z",
       "start_scheduled": "2026-05-24T13:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-24T13:01:44.000Z",
+      "live_viewers": 1497,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -414,6 +397,26 @@
         "org": "Hololive",
         "suborg": "0v0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "Cw3JQ4EVtYg",
+      "title": "【雑談&お礼】冷やし胡瓜の一本漬を買ってみたので食べたい!【角巻わため/ホロライブ4期生】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-23T22:38:18.000Z",
+      "available_at": "2026-05-24T13:03:02.000Z",
+      "start_scheduled": "2026-05-24T13:00:00.000Z",
+      "start_actual": "2026-05-24T13:03:02.000Z",
+      "live_viewers": 2451,
+      "channel": {
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
