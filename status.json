@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779613339,
+  "cached_at": 1779613399,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5kODrCSBxP8",
@@ -60,26 +60,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCc88OV45ICgHbn3ZqLLb52w": {
-      "video_id": "Sbv9t7UsvVo",
-      "title": "Forza Horizon 6|ゴールド免許持ちとドライブはいかが? - 夜十神封魔",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Forza",
-      "published_at": "2026-05-23T14:14:27.000Z",
-      "available_at": "2026-05-24T05:05:51.000Z",
-      "start_scheduled": "2026-05-24T05:00:00.000Z",
-      "start_actual": "2026-05-24T05:05:51.000Z",
-      "live_viewers": 349,
-      "channel": {
-        "id": "UCc88OV45ICgHbn3ZqLLb52w",
-        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-        "english_name": "Yatogami Fuma",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC_vMYWcDjmfdpH6r4TTn1MQ": {
       "video_id": "oItAZ_ZfBkU",
       "title": "【トモダチコレクション】大恋愛戦国時代到来___矢印乱反射【風真いろは/ホロライブ】",
@@ -90,7 +70,7 @@
       "available_at": "2026-05-24T07:01:53.000Z",
       "start_scheduled": "2026-05-24T07:00:00.000Z",
       "start_actual": "2026-05-24T07:01:53.000Z",
-      "live_viewers": 7532,
+      "live_viewers": 7670,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -130,7 +110,7 @@
       "available_at": "2026-05-24T08:58:35.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T08:58:35.000Z",
-      "live_viewers": 712,
+      "live_viewers": 1597,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -138,6 +118,122 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "9F8DKZa1L2s",
+      "title": "【企画告知】そろそろみんなで稼ぎませんか💰【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "announce",
+      "published_at": "2026-05-22T18:22:46.000Z",
+      "available_at": "2026-05-24T09:00:00.000Z",
+      "start_scheduled": "2026-05-24T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_82HBGtvwN1hcGeOGHzUBQ": {
+      "video_id": "3aH-ZwgTkQM",
+      "title": "【#漢義リーグ ¦ 第1節】第1試合!初戦はいただきましょか【にじさんじ/空星きらめ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mahjong",
+      "published_at": "2026-05-23T19:29:40.000Z",
+      "available_at": "2026-05-24T09:00:00.000Z",
+      "start_scheduled": "2026-05-24T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
+        "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
+        "english_name": "Sorahoshi Kirame",
+        "org": "Nijisanji",
+        "suborg": "1cKiramero",
+        "photo": "https://yt3.ggpht.com/0hwFUTExbP8nb6TT5iRURYq3WJTlotAdcbRohnVGh4ppEnZjKR0l4Qt4oz0KWrOXF0y-ye6LFQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCwXfrtn26oj7JW9fwB_z1bw": {
+      "video_id": "_tiQqhcJHAg",
+      "title": "【#漢義リーグ】第１節応援＆対局視点配信　ついに…はじまる！#秋麗宝燈",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mahjong",
+      "published_at": "2026-05-24T06:53:45.000Z",
+      "available_at": "2026-05-24T09:00:00.000Z",
+      "start_scheduled": "2026-05-24T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCwXfrtn26oj7JW9fwB_z1bw",
+        "name": "咲乃もこ【SakinoMoco】",
+        "english_name": "Sakino Moco",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/PU1Ptl5GyhcWRD3deTCx5XpQBFoMZdLa808TYJG1yIkVLjNq0kCdiGEe11W92RsjGouaQi5u-Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp-5t9SrOQwXMU7iIjQfARg": {
+      "video_id": "uDBoGG61EE4",
+      "title": "【 MOTHER2 】超名作MOTHER2を完全初見プレイ!【#06】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "EarthBound",
+      "published_at": "2026-05-24T08:11:20.000Z",
+      "available_at": "2026-05-24T09:00:00.000Z",
+      "start_scheduled": "2026-05-24T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+        "name": "Mio Channel 大神ミオ",
+        "english_name": "Ookami Mio",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCK9V2B22uJYu3N7eR_BT9QA": {
+      "video_id": "HhWh589DJUo",
+      "title": "【トモコレ】#11 久しぶり~!!なんかこの島・・・変・・・【尾丸ポルカ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-24T09:00:06.000Z",
+      "available_at": "2026-05-24T09:00:06.000Z",
+      "start_scheduled": "2026-05-24T09:00:00.000Z",
+      "start_actual": "2026-05-24T09:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+        "name": "Polka Ch. 尾丸ポルカ",
+        "english_name": "Omaru Polka",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "qxqSyCJGRCM",
+      "title": "【スーパーマリオ64】完全初見!初めてのマリオ64に挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_64",
+      "published_at": "2026-05-24T08:43:03.000Z",
+      "available_at": "2026-05-24T09:00:11.000Z",
+      "start_scheduled": "2026-05-24T09:00:00.000Z",
+      "start_actual": "2026-05-24T09:00:11.000Z",
+      "live_viewers": 1112,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
