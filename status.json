@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779615799,
+  "cached_at": 1779615860,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5kODrCSBxP8",
@@ -120,6 +120,26 @@
         "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCUYVXFLTfEUoC6pHLv7CpaA": {
+      "video_id": "G2T61jI3T6c",
+      "title": "【 #漢義リーグ 】 漢義リーグ第一節 鴨神にゅう視点【 #なんもわ夏嵐 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mahjong",
+      "published_at": "2026-05-23T14:29:01.000Z",
+      "available_at": "2026-05-24T09:00:00.000Z",
+      "start_scheduled": "2026-05-24T09:00:00.000Z",
+      "start_actual": "2026-05-24T09:00:00.000Z",
+      "live_viewers": 369,
+      "channel": {
+        "id": "UCUYVXFLTfEUoC6pHLv7CpaA",
+        "name": "鴨神にゅう 麻雀チャンネル",
+        "english_name": "Kamogami New",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/Nf_NKKPX7Wgx3Camq-mjp2YHJye1vj_dTxYzAGyvbFA0fEN4q6xK18Ts12vghXVO6J0rgtRu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCK9V2B22uJYu3N7eR_BT9QA": {
       "video_id": "HhWh589DJUo",
       "title": "【トモコレ】#11 久しぶり~!!なんかこの島・・・変・・・【尾丸ポルカ/ホロライブ】",
@@ -170,7 +190,7 @@
       "available_at": "2026-05-24T09:01:03.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:01:03.000Z",
-      "live_viewers": 29562,
+      "live_viewers": 29487,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -210,7 +230,7 @@
       "available_at": "2026-05-24T09:01:37.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:01:37.000Z",
-      "live_viewers": 6199,
+      "live_viewers": 6437,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -230,7 +250,7 @@
       "available_at": "2026-05-24T09:01:47.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:01:47.000Z",
-      "live_viewers": 1418,
+      "live_viewers": 1449,
       "channel": {
         "id": "UC7WY5VP-P-rSb2ES5npk8yA",
         "name": "千羽 黒乃:Senba Channel",
@@ -250,7 +270,7 @@
       "available_at": "2026-05-24T09:02:07.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:02:07.000Z",
-      "live_viewers": 878,
+      "live_viewers": 839,
       "channel": {
         "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
         "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
@@ -270,7 +290,7 @@
       "available_at": "2026-05-24T09:26:07.000Z",
       "start_scheduled": "2026-05-24T09:30:00.000Z",
       "start_actual": "2026-05-24T09:26:07.000Z",
-      "live_viewers": 1082,
+      "live_viewers": 1099,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -290,7 +310,7 @@
       "available_at": "2026-05-24T09:27:11.000Z",
       "start_scheduled": "2026-05-24T09:15:00.000Z",
       "start_actual": "2026-05-24T09:27:11.000Z",
-      "live_viewers": 510,
+      "live_viewers": 570,
       "channel": {
         "id": "UChLfthKoUV502J7gU9STArg",
         "name": "渋谷ハル",
