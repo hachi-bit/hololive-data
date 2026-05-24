@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779599959,
+  "cached_at": 1779600019,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "RPhEEiwRcRw",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-24T01:30:16.000Z",
       "start_scheduled": "2026-05-24T01:30:00.000Z",
       "start_actual": "2026-05-24T01:30:16.000Z",
-      "live_viewers": 216,
+      "live_viewers": 201,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-24T03:00:43.000Z",
       "start_scheduled": "2026-05-24T03:00:00.000Z",
       "start_actual": "2026-05-24T03:00:43.000Z",
-      "live_viewers": 27784,
+      "live_viewers": 28159,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-24T03:01:43.000Z",
       "start_scheduled": "2026-05-24T03:00:00.000Z",
       "start_actual": "2026-05-24T03:01:43.000Z",
-      "live_viewers": 598,
+      "live_viewers": 638,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-24T04:00:30.000Z",
       "start_scheduled": "2026-05-24T04:00:00.000Z",
       "start_actual": "2026-05-24T04:00:30.000Z",
-      "live_viewers": 14997,
+      "live_viewers": 15455,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-24T05:05:51.000Z",
       "start_scheduled": "2026-05-24T05:00:00.000Z",
       "start_actual": "2026-05-24T05:05:51.000Z",
-      "live_viewers": 221,
+      "live_viewers": 219,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -199,6 +199,26 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKMWFR6lAstLa7Vbf5dH7ig": {
+      "video_id": "IrAa_2BJDfw",
+      "title": "【競馬/オークス】遂に来た!!!!!!!優駿牝馬!!!!【輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Horse_racing",
+      "published_at": "2026-05-23T21:32:58.000Z",
+      "available_at": "2026-05-24T05:15:38.000Z",
+      "start_scheduled": "2026-05-24T05:15:00.000Z",
+      "start_actual": "2026-05-24T05:15:38.000Z",
+      "live_viewers": 1000,
+      "channel": {
+        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+        "english_name": "Rindo Chihaya",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
