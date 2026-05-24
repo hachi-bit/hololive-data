@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779634759,
+  "cached_at": 1779634819,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5kODrCSBxP8",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-24T11:00:30.000Z",
       "start_scheduled": "2026-05-24T11:00:00.000Z",
       "start_actual": "2026-05-24T11:00:30.000Z",
-      "live_viewers": 18320,
+      "live_viewers": 19587,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-24T11:33:22.000Z",
       "start_scheduled": "2026-05-24T11:30:00.000Z",
       "start_actual": "2026-05-24T11:33:22.000Z",
-      "live_viewers": 535,
+      "live_viewers": 477,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -58,26 +58,6 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "5Sig115TtpY",
-      "title": "【Forza Horizon 6】初プレイ!日本をドライブするぞおおおおおおおおおおおおおおおおおおおおおおおおおおおお!!!ぺこ!【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Forza",
-      "published_at": "2026-05-24T03:06:09.000Z",
-      "available_at": "2026-05-24T11:59:57.000Z",
-      "start_scheduled": "2026-05-24T12:00:00.000Z",
-      "start_actual": "2026-05-24T11:59:57.000Z",
-      "live_viewers": 31292,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC-hM6YJuNYVAmUWxeIr9FeA": {
@@ -90,7 +70,7 @@
       "available_at": "2026-05-24T12:02:45.000Z",
       "start_scheduled": "2026-05-24T12:00:00.000Z",
       "start_actual": "2026-05-24T12:02:45.000Z",
-      "live_viewers": 28346,
+      "live_viewers": 29373,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -170,7 +150,7 @@
       "available_at": "2026-05-24T13:03:02.000Z",
       "start_scheduled": "2026-05-24T13:00:00.000Z",
       "start_actual": "2026-05-24T13:03:02.000Z",
-      "live_viewers": 5359,
+      "live_viewers": 5461,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -250,7 +230,7 @@
       "available_at": "2026-05-24T14:00:29.000Z",
       "start_scheduled": "2026-05-24T14:00:00.000Z",
       "start_actual": "2026-05-24T14:00:29.000Z",
-      "live_viewers": 12646,
+      "live_viewers": 13497,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
