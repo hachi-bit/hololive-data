@@ -1,4 +1,25 @@
 {
-  "cached_at": 1779583999,
-  "lives": {}
+  "cached_at": 1779584061,
+  "lives": {
+    "UCJv02SHZgav7Mv3V0kBOR8Q": {
+      "video_id": "xGrCf4m_Qjw",
+      "title": "【Super Mario Party Jamboree】IT'S PARTY TIME",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_Party",
+      "published_at": "2026-05-23T01:32:59.000Z",
+      "available_at": "2026-05-24T00:51:44.000Z",
+      "start_scheduled": "2026-05-24T01:00:00.000Z",
+      "start_actual": "2026-05-24T00:51:44.000Z",
+      "live_viewers": 64,
+      "channel": {
+        "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
+        "name": "Goldbullet Ch. HOLOSTARS-EN",
+        "english_name": "Goldbullet",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    }
+  }
 }
