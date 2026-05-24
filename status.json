@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779635178,
+  "cached_at": 1779635239,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5kODrCSBxP8",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-24T11:00:30.000Z",
       "start_scheduled": "2026-05-24T11:00:00.000Z",
       "start_actual": "2026-05-24T11:00:30.000Z",
-      "live_viewers": 19587,
+      "live_viewers": 15652,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-24T12:02:45.000Z",
       "start_scheduled": "2026-05-24T12:00:00.000Z",
       "start_actual": "2026-05-24T12:02:45.000Z",
-      "live_viewers": 29373,
+      "live_viewers": 29472,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-24T13:01:44.000Z",
       "start_scheduled": "2026-05-24T13:00:00.000Z",
       "start_actual": "2026-05-24T13:01:44.000Z",
-      "live_viewers": 3018,
+      "live_viewers": 3129,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-24T13:03:02.000Z",
       "start_scheduled": "2026-05-24T13:00:00.000Z",
       "start_actual": "2026-05-24T13:03:02.000Z",
-      "live_viewers": 5615,
+      "live_viewers": 5788,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-24T13:31:29.000Z",
       "start_scheduled": "2026-05-24T13:30:00.000Z",
       "start_actual": "2026-05-24T13:31:29.000Z",
-      "live_viewers": 6262,
+      "live_viewers": 6823,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -210,7 +210,7 @@
       "available_at": "2026-05-24T13:59:06.000Z",
       "start_scheduled": "2026-05-24T14:00:00.000Z",
       "start_actual": "2026-05-24T13:59:06.000Z",
-      "live_viewers": 726,
+      "live_viewers": 718,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -238,6 +238,46 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGNI4MENvnsymYjKiZwv9eg": {
+      "video_id": "68NDkBw4rv4",
+      "title": "【DYING LIGHT THE BEAST】ドロップキック! Part3【岸堂天真/花咲みやび/羽継烏有/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dying_Light",
+      "published_at": "2026-05-24T14:55:07.000Z",
+      "available_at": "2026-05-24T15:01:37.000Z",
+      "start_scheduled": "2026-05-24T15:00:00.000Z",
+      "start_actual": "2026-05-24T15:01:37.000Z",
+      "live_viewers": 118,
+      "channel": {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "english_name": "Kishido Temma",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6t3-_N8A6ME1JShZHHqOMw": {
+      "video_id": "5jIn7kogaKY",
+      "title": "#3【Dying Light: The Beast】ゾンビが蔓延する世界でホロスタは生き残ります。 【花咲みやび/岸堂天真/羽継烏有/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dying_Light",
+      "published_at": "2026-05-24T07:48:16.000Z",
+      "available_at": "2026-05-24T15:04:12.000Z",
+      "start_scheduled": "2026-05-24T15:00:00.000Z",
+      "start_actual": "2026-05-24T15:04:12.000Z",
+      "live_viewers": 121,
+      "channel": {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "english_name": "Hanasaki Miyabi",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
