@@ -1,25 +1,6 @@
 {
-  "cached_at": 1779642439,
+  "cached_at": 1779642499,
   "lives": {
-    "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "5kODrCSBxP8",
-      "title": "Work + Song Learning probably【MEMBERSHIP 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-19T18:13:34.000Z",
-      "available_at": "2026-05-24T01:00:00.000Z",
-      "start_scheduled": "2026-05-24T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC060r4zABV18vcahAWR1n7w",
-        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-        "english_name": "Machina X Flayon",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "ExnYyDEgxVc",
       "title": "【LoL】LTK DDnext  ソロQ→チム練   / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeo",
@@ -58,26 +39,6 @@
         "org": "Hololive",
         "suborg": "0y0th Generation",
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp6993wxpyDPHUpavwDFqgg": {
-      "video_id": "xRnQh-C1Zb4",
-      "title": "【ぽこ あ ポケモン】最高のともだちに最高のお家を。【ホロライブ/ときのそら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Pokemon_Pokopia",
-      "published_at": "2026-05-24T12:31:30.000Z",
-      "available_at": "2026-05-24T13:01:44.000Z",
-      "start_scheduled": "2026-05-24T13:00:00.000Z",
-      "start_actual": "2026-05-24T13:01:44.000Z",
-      "live_viewers": 3340,
-      "channel": {
-        "id": "UCp6993wxpyDPHUpavwDFqgg",
-        "name": "SoraCh. ときのそらチャンネル",
-        "english_name": "Tokino Sora",
-        "org": "Hololive",
-        "suborg": "0v0th Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
@@ -130,7 +91,7 @@
       "available_at": "2026-05-24T13:59:06.000Z",
       "start_scheduled": "2026-05-24T14:00:00.000Z",
       "start_actual": "2026-05-24T13:59:06.000Z",
-      "live_viewers": 860,
+      "live_viewers": 839,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -150,7 +111,7 @@
       "available_at": "2026-05-24T15:01:37.000Z",
       "start_scheduled": "2026-05-24T15:00:00.000Z",
       "start_actual": "2026-05-24T15:01:37.000Z",
-      "live_viewers": 159,
+      "live_viewers": 172,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
