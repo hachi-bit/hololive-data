@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779598879,
+  "cached_at": 1779598939,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "RPhEEiwRcRw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-24T04:01:24.000Z",
       "start_scheduled": "2026-05-24T04:00:00.000Z",
       "start_actual": "2026-05-24T04:01:24.000Z",
-      "live_viewers": 405,
+      "live_viewers": 410,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-24T01:00:16.000Z",
       "start_scheduled": "2026-05-24T01:00:00.000Z",
       "start_actual": "2026-05-24T01:00:16.000Z",
-      "live_viewers": 4759,
+      "live_viewers": 4723,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-24T02:01:15.000Z",
       "start_scheduled": "2026-05-24T02:00:00.000Z",
       "start_actual": "2026-05-24T02:01:15.000Z",
-      "live_viewers": 514,
+      "live_viewers": 513,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-24T03:00:43.000Z",
       "start_scheduled": "2026-05-24T03:00:00.000Z",
       "start_actual": "2026-05-24T03:00:43.000Z",
-      "live_viewers": 27112,
+      "live_viewers": 27128,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-24T04:02:41.000Z",
       "start_scheduled": "2026-05-24T04:00:00.000Z",
       "start_actual": "2026-05-24T04:02:41.000Z",
-      "live_viewers": 25598,
+      "live_viewers": 26158,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -179,6 +179,25 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCc88OV45ICgHbn3ZqLLb52w": {
+      "video_id": "Sbv9t7UsvVo",
+      "title": "Forza Horizon 6|ゴールド免許持ちとドライブはいかが? - 夜十神封魔",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-05-23T14:14:27.000Z",
+      "available_at": "2026-05-24T05:00:00.000Z",
+      "start_scheduled": "2026-05-24T05:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCc88OV45ICgHbn3ZqLLb52w",
+        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+        "english_name": "Yatogami Fuma",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
