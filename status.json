@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779600739,
+  "cached_at": 1779600798,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "RPhEEiwRcRw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-24T04:01:24.000Z",
       "start_scheduled": "2026-05-24T04:00:00.000Z",
       "start_actual": "2026-05-24T04:01:24.000Z",
-      "live_viewers": 427,
+      "live_viewers": 416,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-24T02:00:48.000Z",
       "start_scheduled": "2026-05-24T02:00:00.000Z",
       "start_actual": "2026-05-24T02:00:48.000Z",
-      "live_viewers": 4474,
+      "live_viewers": 4492,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-24T02:01:15.000Z",
       "start_scheduled": "2026-05-24T02:00:00.000Z",
       "start_actual": "2026-05-24T02:01:15.000Z",
-      "live_viewers": 542,
+      "live_viewers": 525,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-24T03:00:43.000Z",
       "start_scheduled": "2026-05-24T03:00:00.000Z",
       "start_actual": "2026-05-24T03:00:43.000Z",
-      "live_viewers": 28032,
+      "live_viewers": 28069,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-24T05:05:51.000Z",
       "start_scheduled": "2026-05-24T05:00:00.000Z",
       "start_actual": "2026-05-24T05:05:51.000Z",
-      "live_viewers": 245,
+      "live_viewers": 270,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-24T05:15:38.000Z",
       "start_scheduled": "2026-05-24T05:15:00.000Z",
       "start_actual": "2026-05-24T05:15:38.000Z",
-      "live_viewers": 2095,
+      "live_viewers": 2376,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -199,6 +199,44 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCK9V2B22uJYu3N7eR_BT9QA": {
+      "video_id": "JWbPEDYFnq0",
+      "title": "【オークス】桜を制し、樫へ――二冠への正統進撃。【尾丸ポルカ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Horse_racing",
+      "published_at": "2026-05-24T00:18:40.000Z",
+      "available_at": "2026-05-24T05:30:00.000Z",
+      "start_scheduled": "2026-05-24T05:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+        "name": "Polka Ch. 尾丸ポルカ",
+        "english_name": "Omaru Polka",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "ZAt5LLCE1Mw",
+      "title": "【 優駿牝馬（オークス） 】牝馬クラシック第2戦…俺たちはまた伝説をみる…。【鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Horse_racing",
+      "published_at": "2026-05-23T19:18:18.000Z",
+      "available_at": "2026-05-24T05:30:00.000Z",
+      "start_scheduled": "2026-05-24T05:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
