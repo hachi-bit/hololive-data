@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779613519,
+  "cached_at": 1779613579,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5kODrCSBxP8",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-24T04:00:30.000Z",
       "start_scheduled": "2026-05-24T04:00:00.000Z",
       "start_actual": "2026-05-24T04:00:30.000Z",
-      "live_viewers": 14402,
+      "live_viewers": 14144,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-24T08:02:47.000Z",
       "start_scheduled": "2026-05-24T08:00:00.000Z",
       "start_actual": "2026-05-24T08:02:47.000Z",
-      "live_viewers": 16825,
+      "live_viewers": 16550,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-24T08:58:35.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T08:58:35.000Z",
-      "live_viewers": 1597,
+      "live_viewers": 1947,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -118,82 +118,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCUKD-uaobj9jiqB-VXt71mA": {
-      "video_id": "9F8DKZa1L2s",
-      "title": "【企画告知】そろそろみんなで稼ぎませんか💰【獅白ぼたん/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "announce",
-      "published_at": "2026-05-22T18:22:46.000Z",
-      "available_at": "2026-05-24T09:00:00.000Z",
-      "start_scheduled": "2026-05-24T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCUKD-uaobj9jiqB-VXt71mA",
-        "name": "Botan Ch.獅白ぼたん",
-        "english_name": "Shishiro Botan",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC_82HBGtvwN1hcGeOGHzUBQ": {
-      "video_id": "3aH-ZwgTkQM",
-      "title": "【#漢義リーグ ¦ 第1節】第1試合!初戦はいただきましょか【にじさんじ/空星きらめ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mahjong",
-      "published_at": "2026-05-23T19:29:40.000Z",
-      "available_at": "2026-05-24T09:00:00.000Z",
-      "start_scheduled": "2026-05-24T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
-        "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
-        "english_name": "Sorahoshi Kirame",
-        "org": "Nijisanji",
-        "suborg": "1cKiramero",
-        "photo": "https://yt3.ggpht.com/0hwFUTExbP8nb6TT5iRURYq3WJTlotAdcbRohnVGh4ppEnZjKR0l4Qt4oz0KWrOXF0y-ye6LFQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwXfrtn26oj7JW9fwB_z1bw": {
-      "video_id": "_tiQqhcJHAg",
-      "title": "【#漢義リーグ】第１節応援＆対局視点配信　ついに…はじまる！#秋麗宝燈",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mahjong",
-      "published_at": "2026-05-24T06:53:45.000Z",
-      "available_at": "2026-05-24T09:00:00.000Z",
-      "start_scheduled": "2026-05-24T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCwXfrtn26oj7JW9fwB_z1bw",
-        "name": "咲乃もこ【SakinoMoco】",
-        "english_name": "Sakino Moco",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/PU1Ptl5GyhcWRD3deTCx5XpQBFoMZdLa808TYJG1yIkVLjNq0kCdiGEe11W92RsjGouaQi5u-Q=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp-5t9SrOQwXMU7iIjQfARg": {
-      "video_id": "uDBoGG61EE4",
-      "title": "【 MOTHER2 】超名作MOTHER2を完全初見プレイ!【#06】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "EarthBound",
-      "published_at": "2026-05-24T08:11:20.000Z",
-      "available_at": "2026-05-24T09:00:00.000Z",
-      "start_scheduled": "2026-05-24T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-        "name": "Mio Channel 大神ミオ",
-        "english_name": "Ookami Mio",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCK9V2B22uJYu3N7eR_BT9QA": {
@@ -226,7 +150,7 @@
       "available_at": "2026-05-24T09:00:11.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:00:11.000Z",
-      "live_viewers": 1112,
+      "live_viewers": 2038,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -234,6 +158,86 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "9F8DKZa1L2s",
+      "title": "【企画告知】そろそろみんなで稼ぎませんか💰【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "announce",
+      "published_at": "2026-05-22T18:22:46.000Z",
+      "available_at": "2026-05-24T09:01:03.000Z",
+      "start_scheduled": "2026-05-24T09:00:00.000Z",
+      "start_actual": "2026-05-24T09:01:03.000Z",
+      "live_viewers": 11039,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCwXfrtn26oj7JW9fwB_z1bw": {
+      "video_id": "_tiQqhcJHAg",
+      "title": "【#漢義リーグ】第1節応援&対局視点配信 ついに…はじまる!#秋麗宝燈",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mahjong",
+      "published_at": "2026-05-24T06:53:45.000Z",
+      "available_at": "2026-05-24T09:01:31.000Z",
+      "start_scheduled": "2026-05-24T09:00:00.000Z",
+      "start_actual": "2026-05-24T09:01:31.000Z",
+      "live_viewers": 338,
+      "channel": {
+        "id": "UCwXfrtn26oj7JW9fwB_z1bw",
+        "name": "咲乃もこ【SakinoMoco】",
+        "english_name": "Sakino Moco",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/PU1Ptl5GyhcWRD3deTCx5XpQBFoMZdLa808TYJG1yIkVLjNq0kCdiGEe11W92RsjGouaQi5u-Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp-5t9SrOQwXMU7iIjQfARg": {
+      "video_id": "uDBoGG61EE4",
+      "title": "【 MOTHER2 】超名作MOTHER2を完全初見プレイ!【#06】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "EarthBound",
+      "published_at": "2026-05-24T08:11:20.000Z",
+      "available_at": "2026-05-24T09:01:37.000Z",
+      "start_scheduled": "2026-05-24T09:00:00.000Z",
+      "start_actual": "2026-05-24T09:01:37.000Z",
+      "live_viewers": 2368,
+      "channel": {
+        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+        "name": "Mio Channel 大神ミオ",
+        "english_name": "Ookami Mio",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_82HBGtvwN1hcGeOGHzUBQ": {
+      "video_id": "3aH-ZwgTkQM",
+      "title": "【#漢義リーグ ¦ 第1節】第1試合!初戦はいただきましょか【にじさんじ/空星きらめ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mahjong",
+      "published_at": "2026-05-23T19:29:40.000Z",
+      "available_at": "2026-05-24T09:02:07.000Z",
+      "start_scheduled": "2026-05-24T09:00:00.000Z",
+      "start_actual": "2026-05-24T09:02:07.000Z",
+      "live_viewers": 169,
+      "channel": {
+        "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
+        "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
+        "english_name": "Sorahoshi Kirame",
+        "org": "Nijisanji",
+        "suborg": "1cKiramero",
+        "photo": "https://yt3.ggpht.com/0hwFUTExbP8nb6TT5iRURYq3WJTlotAdcbRohnVGh4ppEnZjKR0l4Qt4oz0KWrOXF0y-ye6LFQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
