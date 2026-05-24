@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779628698,
+  "cached_at": 1779628759,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5kODrCSBxP8",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-24T08:02:47.000Z",
       "start_scheduled": "2026-05-24T08:00:00.000Z",
       "start_actual": "2026-05-24T08:02:47.000Z",
-      "live_viewers": 8838,
+      "live_viewers": 8720,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-24T09:00:00.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:00:00.000Z",
-      "live_viewers": 857,
+      "live_viewers": 545,
       "channel": {
         "id": "UCUYVXFLTfEUoC6pHLv7CpaA",
         "name": "鴨神にゅう 麻雀チャンネル",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-24T11:00:30.000Z",
       "start_scheduled": "2026-05-24T11:00:00.000Z",
       "start_actual": "2026-05-24T11:00:30.000Z",
-      "live_viewers": 15785,
+      "live_viewers": 16558,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -250,7 +250,7 @@
       "available_at": "2026-05-24T11:59:57.000Z",
       "start_scheduled": "2026-05-24T12:00:00.000Z",
       "start_actual": "2026-05-24T11:59:57.000Z",
-      "live_viewers": 41273,
+      "live_viewers": 40987,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -270,7 +270,7 @@
       "available_at": "2026-05-24T12:02:45.000Z",
       "start_scheduled": "2026-05-24T12:00:00.000Z",
       "start_actual": "2026-05-24T12:02:45.000Z",
-      "live_viewers": 29605,
+      "live_viewers": 29429,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -330,7 +330,7 @@
       "available_at": "2026-05-24T13:01:44.000Z",
       "start_scheduled": "2026-05-24T13:00:00.000Z",
       "start_actual": "2026-05-24T13:01:44.000Z",
-      "live_viewers": 1970,
+      "live_viewers": 2152,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -350,7 +350,7 @@
       "available_at": "2026-05-24T13:03:02.000Z",
       "start_scheduled": "2026-05-24T13:00:00.000Z",
       "start_actual": "2026-05-24T13:03:02.000Z",
-      "live_viewers": 4062,
+      "live_viewers": 4077,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
