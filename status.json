@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779619518,
+  "cached_at": 1779619579,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5kODrCSBxP8",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-24T04:00:30.000Z",
       "start_scheduled": "2026-05-24T04:00:00.000Z",
       "start_actual": "2026-05-24T04:00:30.000Z",
-      "live_viewers": 12065,
+      "live_viewers": 11896,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-24T08:02:47.000Z",
       "start_scheduled": "2026-05-24T08:00:00.000Z",
       "start_actual": "2026-05-24T08:02:47.000Z",
-      "live_viewers": 16733,
+      "live_viewers": 17078,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-24T09:03:45.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:03:45.000Z",
-      "live_viewers": 740,
+      "live_viewers": 597,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-24T08:58:35.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T08:58:35.000Z",
-      "live_viewers": 4986,
+      "live_viewers": 5037,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-24T09:00:00.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:00:00.000Z",
-      "live_viewers": 215,
+      "live_viewers": 64,
       "channel": {
         "id": "UCUYVXFLTfEUoC6pHLv7CpaA",
         "name": "鴨神にゅう 麻雀チャンネル",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-24T09:01:31.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:01:31.000Z",
-      "live_viewers": 1343,
+      "live_viewers": 690,
       "channel": {
         "id": "UCwXfrtn26oj7JW9fwB_z1bw",
         "name": "咲乃もこ【SakinoMoco】",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-24T09:01:47.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:01:47.000Z",
-      "live_viewers": 1767,
+      "live_viewers": 1885,
       "channel": {
         "id": "UC7WY5VP-P-rSb2ES5npk8yA",
         "name": "千羽 黒乃:Senba Channel",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-24T09:02:07.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:02:07.000Z",
-      "live_viewers": 811,
+      "live_viewers": 492,
       "channel": {
         "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
         "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
@@ -198,26 +198,6 @@
         "org": "Nijisanji",
         "suborg": "1cKiramero",
         "photo": "https://yt3.ggpht.com/0hwFUTExbP8nb6TT5iRURYq3WJTlotAdcbRohnVGh4ppEnZjKR0l4Qt4oz0KWrOXF0y-ye6LFQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChLfthKoUV502J7gU9STArg": {
-      "video_id": "pWtzzpHiBps",
-      "title": "【雀魂】漢義リーグ第1節 #春霞一色 で応援してくれ~! w/ 千羽黒乃 鈴木勝 天宮こころ【麻雀】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mahjong",
-      "published_at": "2026-05-24T08:15:08.000Z",
-      "available_at": "2026-05-24T09:27:11.000Z",
-      "start_scheduled": "2026-05-24T09:15:00.000Z",
-      "start_actual": "2026-05-24T09:27:11.000Z",
-      "live_viewers": 791,
-      "channel": {
-        "id": "UChLfthKoUV502J7gU9STArg",
-        "name": "渋谷ハル",
-        "english_name": "Shibuya HAL",
-        "org": "Neo-Porte",
-        "suborg": "0a0th Generation",
-        "photo": "https://yt3.ggpht.com/TdoTY1zdj6MkO4hJEgdjAs3CLqjDFQsWylCeslTVTgUbNO8Zj4METNPE3AJLAxtQZ2XSC7Sq=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCa9Y57gfeY0Zro_noHRVrnw": {
@@ -250,7 +230,7 @@
       "available_at": "2026-05-24T10:06:59.000Z",
       "start_scheduled": "2026-05-24T10:00:00.000Z",
       "start_actual": "2026-05-24T10:06:59.000Z",
-      "live_viewers": 4506,
+      "live_viewers": 4550,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -270,7 +250,7 @@
       "available_at": "2026-05-24T10:14:44.000Z",
       "start_scheduled": "2026-05-24T10:15:00.000Z",
       "start_actual": "2026-05-24T10:14:44.000Z",
-      "live_viewers": 10243,
+      "live_viewers": 10527,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -290,7 +270,7 @@
       "available_at": "2026-05-24T10:36:26.000Z",
       "start_scheduled": "2026-05-24T10:35:00.000Z",
       "start_actual": "2026-05-24T10:36:26.000Z",
-      "live_viewers": 99,
+      "live_viewers": 112,
       "channel": {
         "id": "UCryOPk2GZ1meIDt53tL30Tw",
         "name": "鈴木勝 / Suzuki Masaru【にじさんじ】",
