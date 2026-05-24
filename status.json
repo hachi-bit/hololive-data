@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779619039,
+  "cached_at": 1779619099,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5kODrCSBxP8",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-24T08:02:47.000Z",
       "start_scheduled": "2026-05-24T08:00:00.000Z",
       "start_actual": "2026-05-24T08:02:47.000Z",
-      "live_viewers": 16728,
+      "live_viewers": 16388,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-24T09:00:00.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:00:00.000Z",
-      "live_viewers": 73,
+      "live_viewers": 35,
       "channel": {
         "id": "UCUYVXFLTfEUoC6pHLv7CpaA",
         "name": "鴨神にゅう 麻雀チャンネル",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-24T09:00:11.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:00:11.000Z",
-      "live_viewers": 8536,
+      "live_viewers": 8899,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -230,7 +230,7 @@
       "available_at": "2026-05-24T09:57:50.000Z",
       "start_scheduled": "2026-05-24T10:00:00.000Z",
       "start_actual": "2026-05-24T09:57:50.000Z",
-      "live_viewers": 13506,
+      "live_viewers": 14493,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -250,7 +250,7 @@
       "available_at": "2026-05-24T10:06:59.000Z",
       "start_scheduled": "2026-05-24T10:00:00.000Z",
       "start_actual": "2026-05-24T10:06:59.000Z",
-      "live_viewers": 4470,
+      "live_viewers": 4457,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -270,7 +270,7 @@
       "available_at": "2026-05-24T10:14:44.000Z",
       "start_scheduled": "2026-05-24T10:15:00.000Z",
       "start_actual": "2026-05-24T10:14:44.000Z",
-      "live_viewers": 9757,
+      "live_viewers": 10040,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -278,6 +278,25 @@
         "org": "Hololive",
         "suborg": "v_mekPark",
         "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCryOPk2GZ1meIDt53tL30Tw": {
+      "video_id": "4-lEsZxsROs",
+      "title": "【#漢義リーグ/雀魂】第1節 第二試合 #春霞一色【鈴木勝/にじさんじ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mahjong",
+      "published_at": "2026-05-24T04:42:20.000Z",
+      "available_at": "2026-05-24T10:35:00.000Z",
+      "start_scheduled": "2026-05-24T10:35:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCryOPk2GZ1meIDt53tL30Tw",
+        "name": "鈴木勝 / Suzuki Masaru【にじさんじ】",
+        "english_name": "Suzuki Masaru",
+        "org": "Nijisanji",
+        "suborg": "08Ex-SEEDs",
+        "photo": "https://yt3.ggpht.com/Yquis7Z1JfRH4wTnl-q-3c-8XJHnthcKzZRswlczZhD0S7pE6rNcAZ6ISiu4_hI-69Kss4cU6t8=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
