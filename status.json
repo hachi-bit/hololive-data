@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779631699,
+  "cached_at": 1779631759,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5kODrCSBxP8",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-24T08:58:35.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T08:58:35.000Z",
-      "live_viewers": 3000,
+      "live_viewers": 3008,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-24T09:00:00.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:00:00.000Z",
-      "live_viewers": 992,
+      "live_viewers": 988,
       "channel": {
         "id": "UCUYVXFLTfEUoC6pHLv7CpaA",
         "name": "鴨神にゅう 麻雀チャンネル",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-24T11:00:30.000Z",
       "start_scheduled": "2026-05-24T11:00:00.000Z",
       "start_actual": "2026-05-24T11:00:30.000Z",
-      "live_viewers": 18588,
+      "live_viewers": 17984,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -98,26 +98,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "iN2SUzkvt8A",
-      "title": "【ポケモンファイアレッド】 FR版ポケットモンスターゴールドコイキング 購入編 #金コイフブさん【白上フブキ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Pokemon",
-      "published_at": "2026-05-24T11:08:36.000Z",
-      "available_at": "2026-05-24T11:10:17.000Z",
-      "start_scheduled": "2026-05-24T11:10:00.000Z",
-      "start_actual": "2026-05-24T11:10:17.000Z",
-      "live_viewers": 10438,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "フブキCh。白上フブキ",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
@@ -130,7 +110,7 @@
       "available_at": "2026-05-24T11:33:22.000Z",
       "start_scheduled": "2026-05-24T11:30:00.000Z",
       "start_actual": "2026-05-24T11:33:22.000Z",
-      "live_viewers": 420,
+      "live_viewers": 436,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -150,7 +130,7 @@
       "available_at": "2026-05-24T11:59:57.000Z",
       "start_scheduled": "2026-05-24T12:00:00.000Z",
       "start_actual": "2026-05-24T11:59:57.000Z",
-      "live_viewers": 39713,
+      "live_viewers": 38714,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -170,7 +150,7 @@
       "available_at": "2026-05-24T12:02:45.000Z",
       "start_scheduled": "2026-05-24T12:00:00.000Z",
       "start_actual": "2026-05-24T12:02:45.000Z",
-      "live_viewers": 29365,
+      "live_viewers": 30000,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -290,7 +270,7 @@
       "available_at": "2026-05-24T13:31:29.000Z",
       "start_scheduled": "2026-05-24T13:30:00.000Z",
       "start_actual": "2026-05-24T13:31:29.000Z",
-      "live_viewers": 6018,
+      "live_viewers": 6256,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -310,7 +290,7 @@
       "available_at": "2026-05-24T13:59:06.000Z",
       "start_scheduled": "2026-05-24T14:00:00.000Z",
       "start_actual": "2026-05-24T13:59:06.000Z",
-      "live_viewers": 343,
+      "live_viewers": 458,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -330,7 +310,7 @@
       "available_at": "2026-05-24T14:00:29.000Z",
       "start_scheduled": "2026-05-24T14:00:00.000Z",
       "start_actual": "2026-05-24T14:00:29.000Z",
-      "live_viewers": 4815,
+      "live_viewers": 8008,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
