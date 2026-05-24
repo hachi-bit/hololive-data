@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779607819,
+  "cached_at": 1779607878,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "RPhEEiwRcRw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-24T04:01:24.000Z",
       "start_scheduled": "2026-05-24T04:00:00.000Z",
       "start_actual": "2026-05-24T04:01:24.000Z",
-      "live_viewers": 475,
+      "live_viewers": 495,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-24T04:02:41.000Z",
       "start_scheduled": "2026-05-24T04:00:00.000Z",
       "start_actual": "2026-05-24T04:02:41.000Z",
-      "live_viewers": 24966,
+      "live_viewers": 24960,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -139,26 +139,6 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
-      "video_id": "ZAt5LLCE1Mw",
-      "title": "【 優駿牝馬(オークス) 】牝馬クラシック第2戦…俺たちはまた伝説をみる…。【鷹嶺ルイ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Horse_racing",
-      "published_at": "2026-05-23T19:18:18.000Z",
-      "available_at": "2026-05-24T05:31:18.000Z",
-      "start_scheduled": "2026-05-24T05:30:00.000Z",
-      "start_actual": "2026-05-24T05:31:18.000Z",
-      "live_viewers": 5372,
-      "channel": {
-        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "name": "Lui ch. 鷹嶺ルイ - holoX -",
-        "english_name": "Takane Lui",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCQ0UDLQCjY0rmuxCDE38FGg": {
@@ -191,7 +171,7 @@
       "available_at": "2026-05-24T07:01:53.000Z",
       "start_scheduled": "2026-05-24T07:00:00.000Z",
       "start_actual": "2026-05-24T07:01:53.000Z",
-      "live_viewers": 6238,
+      "live_viewers": 6621,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
