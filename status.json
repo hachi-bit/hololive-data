@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779606439,
+  "cached_at": 1779606499,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "RPhEEiwRcRw",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-24T03:00:43.000Z",
       "start_scheduled": "2026-05-24T03:00:00.000Z",
       "start_actual": "2026-05-24T03:00:43.000Z",
-      "live_viewers": 27982,
+      "live_viewers": 28157,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-24T05:05:51.000Z",
       "start_scheduled": "2026-05-24T05:00:00.000Z",
       "start_actual": "2026-05-24T05:05:51.000Z",
-      "live_viewers": 316,
+      "live_viewers": 334,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -161,26 +161,6 @@
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCK9V2B22uJYu3N7eR_BT9QA": {
-      "video_id": "JWbPEDYFnq0",
-      "title": "【オークス】桜を制し、樫へ――二冠への正統進撃。【尾丸ポルカ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Horse_racing",
-      "published_at": "2026-05-24T00:18:40.000Z",
-      "available_at": "2026-05-24T05:31:01.000Z",
-      "start_scheduled": "2026-05-24T05:30:00.000Z",
-      "start_actual": "2026-05-24T05:31:01.000Z",
-      "live_viewers": 4506,
-      "channel": {
-        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-        "name": "Polka Ch. 尾丸ポルカ",
-        "english_name": "Omaru Polka",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "ZAt5LLCE1Mw",
       "title": "【 優駿牝馬(オークス) 】牝馬クラシック第2戦…俺たちはまた伝説をみる…。【鷹嶺ルイ/ホロライブ】",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-24T05:31:18.000Z",
       "start_scheduled": "2026-05-24T05:30:00.000Z",
       "start_actual": "2026-05-24T05:31:18.000Z",
-      "live_viewers": 13345,
+      "live_viewers": 8058,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-24T07:01:53.000Z",
       "start_scheduled": "2026-05-24T07:00:00.000Z",
       "start_actual": "2026-05-24T07:01:53.000Z",
-      "live_viewers": 1603,
+      "live_viewers": 2537,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
