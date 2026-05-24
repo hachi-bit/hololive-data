@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779588079,
+  "cached_at": 1779588139,
   "lives": {
     "UCJv02SHZgav7Mv3V0kBOR8Q": {
       "video_id": "xGrCf4m_Qjw",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-24T01:30:16.000Z",
       "start_scheduled": "2026-05-24T01:30:00.000Z",
       "start_actual": "2026-05-24T01:30:16.000Z",
-      "live_viewers": 153,
+      "live_viewers": 159,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -78,6 +78,63 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCL_qhgtOy0dy1Agp8vkySQg": {
+      "video_id": "5BaOYp1EBOI",
+      "title": "【BAKING COLLAB】let them coooooook #calliolive",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cooking_Stream",
+      "published_at": "2026-05-23T02:36:02.000Z",
+      "available_at": "2026-05-24T02:00:00.000Z",
+      "start_scheduled": "2026-05-24T02:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+        "name": "Mori Calliope Ch. hololive-EN",
+        "english_name": "Mori Calliope",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCuI_opAVX6qbxZY-a-AxFuQ": {
+      "video_id": "B-7iTjtpqrQ",
+      "title": "【#13 DARK SOULS Ⅲ】んぎぃいいいいぃいいいいぃいいいッ泣【虎金妃笑虎】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dark_Souls",
+      "published_at": "2026-05-23T12:01:31.000Z",
+      "available_at": "2026-05-24T02:00:00.000Z",
+      "start_scheduled": "2026-05-24T02:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+        "english_name": "Koganei Niko",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCMqGG8BRAiI1lJfKOpETM_w": {
+      "video_id": "xVe1Kq-StCw",
+      "title": "【#marchofthekois 】Creature kitchen!! Is that a raccoon in ya pocket or are you just happy to see me?",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Creature_Kitchen",
+      "published_at": "2026-05-23T15:47:20.000Z",
+      "available_at": "2026-05-24T02:00:00.000Z",
+      "start_scheduled": "2026-05-24T02:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCMqGG8BRAiI1lJfKOpETM_w",
+        "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
+        "english_name": "Josuiji Shinri",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
