@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779629059,
+  "cached_at": 1779629119,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5kODrCSBxP8",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-24T04:00:30.000Z",
       "start_scheduled": "2026-05-24T04:00:00.000Z",
       "start_actual": "2026-05-24T04:00:30.000Z",
-      "live_viewers": 9874,
+      "live_viewers": 9367,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-24T08:45:45.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T08:45:45.000Z",
-      "live_viewers": 11851,
+      "live_viewers": 4725,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-24T08:58:35.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T08:58:35.000Z",
-      "live_viewers": 2959,
+      "live_viewers": 2948,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -230,7 +230,7 @@
       "available_at": "2026-05-24T11:33:22.000Z",
       "start_scheduled": "2026-05-24T11:30:00.000Z",
       "start_actual": "2026-05-24T11:33:22.000Z",
-      "live_viewers": 411,
+      "live_viewers": 404,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -270,7 +270,7 @@
       "available_at": "2026-05-24T12:02:45.000Z",
       "start_scheduled": "2026-05-24T12:00:00.000Z",
       "start_actual": "2026-05-24T12:02:45.000Z",
-      "live_viewers": 29429,
+      "live_viewers": 29548,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -330,7 +330,7 @@
       "available_at": "2026-05-24T13:01:44.000Z",
       "start_scheduled": "2026-05-24T13:00:00.000Z",
       "start_actual": "2026-05-24T13:01:44.000Z",
-      "live_viewers": 2228,
+      "live_viewers": 2185,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -350,7 +350,7 @@
       "available_at": "2026-05-24T13:03:02.000Z",
       "start_scheduled": "2026-05-24T13:00:00.000Z",
       "start_actual": "2026-05-24T13:03:02.000Z",
-      "live_viewers": 4427,
+      "live_viewers": 4602,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
