@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779628338,
+  "cached_at": 1779628400,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5kODrCSBxP8",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-24T08:02:47.000Z",
       "start_scheduled": "2026-05-24T08:00:00.000Z",
       "start_actual": "2026-05-24T08:02:47.000Z",
-      "live_viewers": 9286,
+      "live_viewers": 9002,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-24T08:58:35.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T08:58:35.000Z",
-      "live_viewers": 3283,
+      "live_viewers": 3165,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-24T09:02:07.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:02:07.000Z",
-      "live_viewers": 601,
+      "live_viewers": 596,
       "channel": {
         "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
         "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
@@ -189,7 +189,7 @@
       "available_at": "2026-05-24T11:00:30.000Z",
       "start_scheduled": "2026-05-24T11:00:00.000Z",
       "start_actual": "2026-05-24T11:00:30.000Z",
-      "live_viewers": 15726,
+      "live_viewers": 15785,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -209,7 +209,7 @@
       "available_at": "2026-05-24T11:09:49.000Z",
       "start_scheduled": "2026-05-24T11:00:00.000Z",
       "start_actual": "2026-05-24T11:09:49.000Z",
-      "live_viewers": 1900,
+      "live_viewers": 1816,
       "channel": {
         "id": "UC7wZb5INldbGweowOhBIs8Q",
         "name": "石狩あかり/あおぎり高校",
@@ -229,7 +229,7 @@
       "available_at": "2026-05-24T11:10:17.000Z",
       "start_scheduled": "2026-05-24T11:10:00.000Z",
       "start_actual": "2026-05-24T11:10:17.000Z",
-      "live_viewers": 7105,
+      "live_viewers": 10253,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -269,7 +269,7 @@
       "available_at": "2026-05-24T11:59:57.000Z",
       "start_scheduled": "2026-05-24T12:00:00.000Z",
       "start_actual": "2026-05-24T11:59:57.000Z",
-      "live_viewers": 41471,
+      "live_viewers": 41372,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -349,7 +349,7 @@
       "available_at": "2026-05-24T13:01:44.000Z",
       "start_scheduled": "2026-05-24T13:00:00.000Z",
       "start_actual": "2026-05-24T13:01:44.000Z",
-      "live_viewers": 1661,
+      "live_viewers": 1800,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -369,7 +369,7 @@
       "available_at": "2026-05-24T13:03:02.000Z",
       "start_scheduled": "2026-05-24T13:00:00.000Z",
       "start_actual": "2026-05-24T13:03:02.000Z",
-      "live_viewers": 3081,
+      "live_viewers": 3417,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
