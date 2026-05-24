@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779609858,
+  "cached_at": 1779609919,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "RPhEEiwRcRw",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-24T04:00:30.000Z",
       "start_scheduled": "2026-05-24T04:00:00.000Z",
       "start_actual": "2026-05-24T04:00:30.000Z",
-      "live_viewers": 14261,
+      "live_viewers": 14089,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-24T04:02:41.000Z",
       "start_scheduled": "2026-05-24T04:00:00.000Z",
       "start_actual": "2026-05-24T04:02:41.000Z",
-      "live_viewers": 24532,
+      "live_viewers": 24643,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-24T07:01:53.000Z",
       "start_scheduled": "2026-05-24T07:00:00.000Z",
       "start_actual": "2026-05-24T07:01:53.000Z",
-      "live_viewers": 7010,
+      "live_viewers": 6780,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -179,6 +179,25 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC5CwaMl1eIgY8h02uZw7u8A": {
+      "video_id": "M852Y_bxuP8",
+      "title": "【BIOHAZARD requiem】※ネタバレあり‼俺はもう、ガバらない───【星街すいせい / #ほしまちすたじお】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-05-24T06:02:29.000Z",
+      "available_at": "2026-05-24T08:00:00.000Z",
+      "start_scheduled": "2026-05-24T08:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC5CwaMl1eIgY8h02uZw7u8A",
+        "name": "Suisei Channel",
+        "english_name": "Hoshimachi Suisei",
+        "org": "Hololive",
+        "suborg": "0x0th Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
