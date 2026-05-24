@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779619160,
+  "cached_at": 1779619220,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5kODrCSBxP8",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-24T04:00:30.000Z",
       "start_scheduled": "2026-05-24T04:00:00.000Z",
       "start_actual": "2026-05-24T04:00:30.000Z",
-      "live_viewers": 11999,
+      "live_viewers": 12065,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-24T08:58:35.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T08:58:35.000Z",
-      "live_viewers": 5157,
+      "live_viewers": 4986,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-24T09:00:11.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:00:11.000Z",
-      "live_viewers": 8899,
+      "live_viewers": 8868,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -250,7 +250,7 @@
       "available_at": "2026-05-24T10:06:59.000Z",
       "start_scheduled": "2026-05-24T10:00:00.000Z",
       "start_actual": "2026-05-24T10:06:59.000Z",
-      "live_viewers": 4457,
+      "live_viewers": 4506,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -287,9 +287,10 @@
       "status": "live",
       "topic_id": "Mahjong",
       "published_at": "2026-05-24T04:42:20.000Z",
-      "available_at": "2026-05-24T10:35:00.000Z",
+      "available_at": "2026-05-24T10:36:26.000Z",
       "start_scheduled": "2026-05-24T10:35:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-24T10:36:26.000Z",
+      "live_viewers": 88,
       "channel": {
         "id": "UCryOPk2GZ1meIDt53tL30Tw",
         "name": "鈴木勝 / Suzuki Masaru【にじさんじ】",
