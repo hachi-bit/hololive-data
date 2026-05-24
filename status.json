@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779621079,
+  "cached_at": 1779621139,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5kODrCSBxP8",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-24T04:00:30.000Z",
       "start_scheduled": "2026-05-24T04:00:00.000Z",
       "start_actual": "2026-05-24T04:00:30.000Z",
-      "live_viewers": 11363,
+      "live_viewers": 11222,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-24T08:02:47.000Z",
       "start_scheduled": "2026-05-24T08:00:00.000Z",
       "start_actual": "2026-05-24T08:02:47.000Z",
-      "live_viewers": 16090,
+      "live_viewers": 15958,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-24T09:03:45.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:03:45.000Z",
-      "live_viewers": 734,
+      "live_viewers": 842,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-24T08:58:35.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T08:58:35.000Z",
-      "live_viewers": 5813,
+      "live_viewers": 6021,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-24T09:00:00.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:00:00.000Z",
-      "live_viewers": 454,
+      "live_viewers": 503,
       "channel": {
         "id": "UCUYVXFLTfEUoC6pHLv7CpaA",
         "name": "鴨神にゅう 麻雀チャンネル",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-24T09:00:11.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:00:11.000Z",
-      "live_viewers": 8359,
+      "live_viewers": 8344,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-24T09:02:07.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:02:07.000Z",
-      "live_viewers": 538,
+      "live_viewers": 609,
       "channel": {
         "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
         "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
@@ -230,7 +230,7 @@
       "available_at": "2026-05-24T10:14:44.000Z",
       "start_scheduled": "2026-05-24T10:15:00.000Z",
       "start_actual": "2026-05-24T10:14:44.000Z",
-      "live_viewers": 10746,
+      "live_viewers": 10156,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -250,7 +250,7 @@
       "available_at": "2026-05-24T10:36:26.000Z",
       "start_scheduled": "2026-05-24T10:35:00.000Z",
       "start_actual": "2026-05-24T10:36:26.000Z",
-      "live_viewers": 223,
+      "live_viewers": 220,
       "channel": {
         "id": "UCryOPk2GZ1meIDt53tL30Tw",
         "name": "鈴木勝 / Suzuki Masaru【にじさんじ】",
@@ -258,44 +258,6 @@
         "org": "Nijisanji",
         "suborg": "08Ex-SEEDs",
         "photo": "https://yt3.ggpht.com/Yquis7Z1JfRH4wTnl-q-3c-8XJHnthcKzZRswlczZhD0S7pE6rNcAZ6ISiu4_hI-69Kss4cU6t8=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC7wZb5INldbGweowOhBIs8Q": {
-      "video_id": "VGO9Ynb9D1k",
-      "title": "【世界のアソビ大全51】どっちが強いかまじで決めようや!!【石狩あかり/アルランディス】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "clubhouse51",
-      "published_at": "2026-05-23T12:00:32.000Z",
-      "available_at": "2026-05-24T11:00:00.000Z",
-      "start_scheduled": "2026-05-24T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC7wZb5INldbGweowOhBIs8Q",
-        "name": "石狩あかり/あおぎり高校",
-        "english_name": "Ishikari Akari",
-        "org": "Aogiri Highschool",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/oHgm1ME0JFIFdwLbo-cogLRgRqP6CLkvA9bOqs2xm1mAuggQRz4ep_A0nx6nbckKcmgRzOFgOz0=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCtyWhCj3AqKh2dXctLkDtng": {
-      "video_id": "pFSkBk816_w",
-      "title": "【メンバー限定】生誕スパチャのお礼枠です!【一条莉々華/hololive DEV_IS ReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-24T09:49:48.000Z",
-      "available_at": "2026-05-24T11:00:00.000Z",
-      "start_scheduled": "2026-05-24T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCtyWhCj3AqKh2dXctLkDtng",
-        "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-        "english_name": "Ichijou Ririka",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCt5-0i4AVHXaWJrL8Wql3mw": {
@@ -327,7 +289,7 @@
       "available_at": "2026-05-24T11:00:30.000Z",
       "start_scheduled": "2026-05-24T11:00:00.000Z",
       "start_actual": "2026-05-24T11:00:30.000Z",
-      "live_viewers": 8932,
+      "live_viewers": 10404,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -347,7 +309,7 @@
       "available_at": "2026-05-24T11:00:43.000Z",
       "start_scheduled": "2026-05-24T11:00:00.000Z",
       "start_actual": "2026-05-24T11:00:43.000Z",
-      "live_viewers": 5219,
+      "live_viewers": 6159,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -367,7 +329,7 @@
       "available_at": "2026-05-24T11:00:46.000Z",
       "start_scheduled": "2026-05-24T11:00:00.000Z",
       "start_actual": "2026-05-24T11:00:46.000Z",
-      "live_viewers": 4224,
+      "live_viewers": 5027,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -377,17 +339,57 @@
         "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCtyWhCj3AqKh2dXctLkDtng": {
+      "video_id": "pFSkBk816_w",
+      "title": "【メンバー限定】生誕スパチャのお礼枠です!【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-24T09:49:48.000Z",
+      "available_at": "2026-05-24T11:06:14.000Z",
+      "start_scheduled": "2026-05-24T11:00:00.000Z",
+      "start_actual": "2026-05-24T11:06:14.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCtyWhCj3AqKh2dXctLkDtng",
+        "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+        "english_name": "Ichijou Ririka",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7wZb5INldbGweowOhBIs8Q": {
+      "video_id": "VGO9Ynb9D1k",
+      "title": "【世界のアソビ大全51】どっちが強いかまじで決めようや!!【石狩あかり/アルランディス】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "clubhouse51",
+      "published_at": "2026-05-23T12:00:32.000Z",
+      "available_at": "2026-05-24T11:09:49.000Z",
+      "start_scheduled": "2026-05-24T11:00:00.000Z",
+      "start_actual": "2026-05-24T11:09:49.000Z",
+      "live_viewers": 738,
+      "channel": {
+        "id": "UC7wZb5INldbGweowOhBIs8Q",
+        "name": "石狩あかり/あおぎり高校",
+        "english_name": "Ishikari Akari",
+        "org": "Aogiri Highschool",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/oHgm1ME0JFIFdwLbo-cogLRgRqP6CLkvA9bOqs2xm1mAuggQRz4ep_A0nx6nbckKcmgRzOFgOz0=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "HVhsLCH6CIQ",
+      "video_id": "iN2SUzkvt8A",
       "title": "【ポケモンファイアレッド】 FR版ポケットモンスターゴールドコイキング 購入編 #金コイフブさん【白上フブキ/ホロライブ】",
       "type": "stream",
       "status": "live",
       "topic_id": "Pokemon",
-      "published_at": "2026-05-24T10:38:55.000Z",
-      "available_at": "2026-05-24T11:02:10.000Z",
-      "start_scheduled": "2026-05-24T11:00:00.000Z",
-      "start_actual": "2026-05-24T11:02:10.000Z",
-      "live_viewers": 3780,
+      "published_at": "2026-05-24T11:08:36.000Z",
+      "available_at": "2026-05-24T11:10:17.000Z",
+      "start_scheduled": "2026-05-24T11:10:00.000Z",
+      "start_actual": "2026-05-24T11:10:17.000Z",
+      "live_viewers": 2694,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
