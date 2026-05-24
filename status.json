@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779620779,
+  "cached_at": 1779620839,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5kODrCSBxP8",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-24T08:02:47.000Z",
       "start_scheduled": "2026-05-24T08:00:00.000Z",
       "start_actual": "2026-05-24T08:02:47.000Z",
-      "live_viewers": 16948,
+      "live_viewers": 16090,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-24T08:58:35.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T08:58:35.000Z",
-      "live_viewers": 5863,
+      "live_viewers": 5813,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-24T09:00:11.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:00:11.000Z",
-      "live_viewers": 8819,
+      "live_viewers": 8289,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -210,7 +210,7 @@
       "available_at": "2026-05-24T10:06:59.000Z",
       "start_scheduled": "2026-05-24T10:00:00.000Z",
       "start_actual": "2026-05-24T10:06:59.000Z",
-      "live_viewers": 5024,
+      "live_viewers": 4740,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -260,25 +260,6 @@
         "photo": "https://yt3.ggpht.com/Yquis7Z1JfRH4wTnl-q-3c-8XJHnthcKzZRswlczZhD0S7pE6rNcAZ6ISiu4_hI-69Kss4cU6t8=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC7wZb5INldbGweowOhBIs8Q": {
-      "video_id": "VGO9Ynb9D1k",
-      "title": "【世界のアソビ大全51】どっちが強いかまじで決めようや!!【石狩あかり/アルランディス】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "clubhouse51",
-      "published_at": "2026-05-23T12:00:32.000Z",
-      "available_at": "2026-05-24T11:00:00.000Z",
-      "start_scheduled": "2026-05-24T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC7wZb5INldbGweowOhBIs8Q",
-        "name": "石狩あかり/あおぎり高校",
-        "english_name": "Ishikari Akari",
-        "org": "Aogiri Highschool",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/oHgm1ME0JFIFdwLbo-cogLRgRqP6CLkvA9bOqs2xm1mAuggQRz4ep_A0nx6nbckKcmgRzOFgOz0=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCt5-0i4AVHXaWJrL8Wql3mw": {
       "video_id": "g-2kSP_T0dk",
       "title": "#漢義リーグ | なんもわ夏嵐、行くぞ!🐼💭",
@@ -296,6 +277,25 @@
         "org": "Nijisanji",
         "suborg": "08Ex-SEEDs",
         "photo": "https://yt3.ggpht.com/gqKMT95qDCACrpgG3iGrTOfELcpwIkIao4PFK-3vnmQusaS_1RW7yxjBXOVpXs3B_iNOegIT=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7wZb5INldbGweowOhBIs8Q": {
+      "video_id": "VGO9Ynb9D1k",
+      "title": "【世界のアソビ大全51】どっちが強いかまじで決めようや!!【石狩あかり/アルランディス】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "clubhouse51",
+      "published_at": "2026-05-23T12:00:32.000Z",
+      "available_at": "2026-05-24T11:00:00.000Z",
+      "start_scheduled": "2026-05-24T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC7wZb5INldbGweowOhBIs8Q",
+        "name": "石狩あかり/あおぎり高校",
+        "english_name": "Ishikari Akari",
+        "org": "Aogiri Highschool",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/oHgm1ME0JFIFdwLbo-cogLRgRqP6CLkvA9bOqs2xm1mAuggQRz4ep_A0nx6nbckKcmgRzOFgOz0=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCtyWhCj3AqKh2dXctLkDtng": {
@@ -317,26 +317,6 @@
         "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCa9Y57gfeY0Zro_noHRVrnw": {
-      "video_id": "ufn3RmKEqgU",
-      "title": "いーあるふぁんくらぶ / 姫森ルーナ (cover)",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Music_Cover",
-      "published_at": "2026-05-24T11:00:06.000Z",
-      "available_at": "2026-05-24T11:00:06.000Z",
-      "start_scheduled": "2026-05-24T11:00:00.000Z",
-      "start_actual": "2026-05-24T11:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-        "name": "Luna Ch. 姫森ルーナ",
-        "english_name": "Himemori Luna",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
       "video_id": "5GCfleXWkD8",
       "title": "【 🟢FF7クライシスコア 】完全初見で遊ぶぞｵｵｵｵｵ #03【 猫又おかゆ/ホロライブ 】※ネタバレあり",
@@ -347,7 +327,7 @@
       "available_at": "2026-05-24T11:00:30.000Z",
       "start_scheduled": "2026-05-24T11:00:00.000Z",
       "start_actual": "2026-05-24T11:00:30.000Z",
-      "live_viewers": 5962,
+      "live_viewers": 7601,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -367,7 +347,7 @@
       "available_at": "2026-05-24T11:00:43.000Z",
       "start_scheduled": "2026-05-24T11:00:00.000Z",
       "start_actual": "2026-05-24T11:00:43.000Z",
-      "live_viewers": 3079,
+      "live_viewers": 4460,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -387,7 +367,7 @@
       "available_at": "2026-05-24T11:00:46.000Z",
       "start_scheduled": "2026-05-24T11:00:00.000Z",
       "start_actual": "2026-05-24T11:00:46.000Z",
-      "live_viewers": 2432,
+      "live_viewers": 3577,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -407,7 +387,7 @@
       "available_at": "2026-05-24T11:02:10.000Z",
       "start_scheduled": "2026-05-24T11:00:00.000Z",
       "start_actual": "2026-05-24T11:02:10.000Z",
-      "live_viewers": 2009,
+      "live_viewers": 3110,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
