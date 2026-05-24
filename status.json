@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779651319,
+  "cached_at": 1779651378,
   "lives": {
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
       "video_id": "Cw3JQ4EVtYg",
@@ -28,9 +28,10 @@
       "status": "live",
       "topic_id": "watchalong",
       "published_at": "2026-05-21T19:25:18.000Z",
-      "available_at": "2026-05-24T19:30:00.000Z",
+      "available_at": "2026-05-24T19:31:14.000Z",
       "start_scheduled": "2026-05-24T19:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-24T19:31:14.000Z",
+      "live_viewers": 825,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
