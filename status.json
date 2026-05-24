@@ -1,25 +1,4 @@
 {
-  "cached_at": 1779582559,
-  "lives": {
-    "UCotXwY6s8pWmuWd_snKYjhg": {
-      "video_id": "Ti5HYVR5SqQ",
-      "title": "【3D】ENigmatic Recollection - Chapter 3 Begins!【#ENreco】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "3D_Stream",
-      "published_at": "2026-05-20T09:27:35.000Z",
-      "available_at": "2026-05-23T22:55:13.000Z",
-      "start_scheduled": "2026-05-23T23:00:00.000Z",
-      "start_actual": "2026-05-23T22:55:13.000Z",
-      "live_viewers": 15201,
-      "channel": {
-        "id": "UCotXwY6s8pWmuWd_snKYjhg",
-        "name": "hololive English",
-        "english_name": "",
-        "org": "Hololive",
-        "suborg": "0dOfficial",
-        "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    }
-  }
+  "cached_at": 1779582619,
+  "lives": {}
 }
