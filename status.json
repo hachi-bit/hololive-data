@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779634279,
+  "cached_at": 1779634339,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5kODrCSBxP8",
@@ -20,26 +20,6 @@
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCUYVXFLTfEUoC6pHLv7CpaA": {
-      "video_id": "G2T61jI3T6c",
-      "title": "【 #漢義リーグ 】 漢義リーグ第一節 鴨神にゅう視点【 #なんもわ夏嵐 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mahjong",
-      "published_at": "2026-05-23T14:29:01.000Z",
-      "available_at": "2026-05-24T09:00:00.000Z",
-      "start_scheduled": "2026-05-24T09:00:00.000Z",
-      "start_actual": "2026-05-24T09:00:00.000Z",
-      "live_viewers": 670,
-      "channel": {
-        "id": "UCUYVXFLTfEUoC6pHLv7CpaA",
-        "name": "鴨神にゅう 麻雀チャンネル",
-        "english_name": "Kamogami New",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/Nf_NKKPX7Wgx3Camq-mjp2YHJye1vj_dTxYzAGyvbFA0fEN4q6xK18Ts12vghXVO6J0rgtRu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
       "video_id": "5GCfleXWkD8",
       "title": "【 🟢FF7クライシスコア 】完全初見で遊ぶぞｵｵｵｵｵ #03【 猫又おかゆ/ホロライブ 】※ネタバレあり",
@@ -50,7 +30,7 @@
       "available_at": "2026-05-24T11:00:30.000Z",
       "start_scheduled": "2026-05-24T11:00:00.000Z",
       "start_actual": "2026-05-24T11:00:30.000Z",
-      "live_viewers": 18169,
+      "live_viewers": 18320,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -90,7 +70,7 @@
       "available_at": "2026-05-24T11:59:57.000Z",
       "start_scheduled": "2026-05-24T12:00:00.000Z",
       "start_actual": "2026-05-24T11:59:57.000Z",
-      "live_viewers": 33649,
+      "live_viewers": 33337,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -110,7 +90,7 @@
       "available_at": "2026-05-24T12:02:45.000Z",
       "start_scheduled": "2026-05-24T12:00:00.000Z",
       "start_actual": "2026-05-24T12:02:45.000Z",
-      "live_viewers": 28581,
+      "live_viewers": 30633,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -190,7 +170,7 @@
       "available_at": "2026-05-24T13:03:02.000Z",
       "start_scheduled": "2026-05-24T13:00:00.000Z",
       "start_actual": "2026-05-24T13:03:02.000Z",
-      "live_viewers": 5516,
+      "live_viewers": 5373,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -230,7 +210,7 @@
       "available_at": "2026-05-24T13:31:29.000Z",
       "start_scheduled": "2026-05-24T13:30:00.000Z",
       "start_actual": "2026-05-24T13:31:29.000Z",
-      "live_viewers": 6420,
+      "live_viewers": 6326,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -250,7 +230,7 @@
       "available_at": "2026-05-24T13:59:06.000Z",
       "start_scheduled": "2026-05-24T14:00:00.000Z",
       "start_actual": "2026-05-24T13:59:06.000Z",
-      "live_viewers": 825,
+      "live_viewers": 849,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -270,7 +250,7 @@
       "available_at": "2026-05-24T14:00:29.000Z",
       "start_scheduled": "2026-05-24T14:00:00.000Z",
       "start_actual": "2026-05-24T14:00:29.000Z",
-      "live_viewers": 12712,
+      "live_viewers": 12646,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
