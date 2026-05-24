@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779600858,
+  "cached_at": 1779600919,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "RPhEEiwRcRw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-24T04:01:24.000Z",
       "start_scheduled": "2026-05-24T04:00:00.000Z",
       "start_actual": "2026-05-24T04:01:24.000Z",
-      "live_viewers": 416,
+      "live_viewers": 412,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCuI_opAVX6qbxZY-a-AxFuQ": {
-      "video_id": "B-7iTjtpqrQ",
-      "title": "【#13 DARK SOULS Ⅲ】んぎぃいいいいぃいいいいぃいいいッ泣【虎金妃笑虎】※ネタバレあり",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Dark_Souls",
-      "published_at": "2026-05-23T12:01:31.000Z",
-      "available_at": "2026-05-24T02:00:48.000Z",
-      "start_scheduled": "2026-05-24T02:00:00.000Z",
-      "start_actual": "2026-05-24T02:00:48.000Z",
-      "live_viewers": 4492,
-      "channel": {
-        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-        "english_name": "Koganei Niko",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCMqGG8BRAiI1lJfKOpETM_w": {
@@ -111,7 +91,7 @@
       "available_at": "2026-05-24T03:01:43.000Z",
       "start_scheduled": "2026-05-24T03:00:00.000Z",
       "start_actual": "2026-05-24T03:01:43.000Z",
-      "live_viewers": 633,
+      "live_viewers": 632,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-24T04:02:41.000Z",
       "start_scheduled": "2026-05-24T04:00:00.000Z",
       "start_actual": "2026-05-24T04:02:41.000Z",
-      "live_viewers": 26237,
+      "live_viewers": 26199,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-24T05:15:38.000Z",
       "start_scheduled": "2026-05-24T05:15:00.000Z",
       "start_actual": "2026-05-24T05:15:38.000Z",
-      "live_viewers": 2376,
+      "live_viewers": 2421,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -208,9 +188,10 @@
       "status": "live",
       "topic_id": "Horse_racing",
       "published_at": "2026-05-24T00:18:40.000Z",
-      "available_at": "2026-05-24T05:30:00.000Z",
+      "available_at": "2026-05-24T05:31:01.000Z",
       "start_scheduled": "2026-05-24T05:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-24T05:31:01.000Z",
+      "live_viewers": 1044,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -222,14 +203,15 @@
     },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "ZAt5LLCE1Mw",
-      "title": "【 優駿牝馬（オークス） 】牝馬クラシック第2戦…俺たちはまた伝説をみる…。【鷹嶺ルイ/ホロライブ】",
+      "title": "【 優駿牝馬(オークス) 】牝馬クラシック第2戦…俺たちはまた伝説をみる…。【鷹嶺ルイ/ホロライブ】",
       "type": "stream",
       "status": "live",
       "topic_id": "Horse_racing",
       "published_at": "2026-05-23T19:18:18.000Z",
-      "available_at": "2026-05-24T05:30:00.000Z",
+      "available_at": "2026-05-24T05:31:18.000Z",
       "start_scheduled": "2026-05-24T05:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-24T05:31:18.000Z",
+      "live_viewers": 1933,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
