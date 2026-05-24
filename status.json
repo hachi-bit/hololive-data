@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779614839,
+  "cached_at": 1779614899,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5kODrCSBxP8",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-24T07:01:53.000Z",
       "start_scheduled": "2026-05-24T07:00:00.000Z",
       "start_actual": "2026-05-24T07:01:53.000Z",
-      "live_viewers": 6800,
+      "live_viewers": 6802,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-24T08:02:47.000Z",
       "start_scheduled": "2026-05-24T08:00:00.000Z",
       "start_actual": "2026-05-24T08:02:47.000Z",
-      "live_viewers": 15934,
+      "live_viewers": 15752,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-24T08:58:35.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T08:58:35.000Z",
-      "live_viewers": 3231,
+      "live_viewers": 2956,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-24T09:00:11.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:00:11.000Z",
-      "live_viewers": 5951,
+      "live_viewers": 6162,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-24T09:01:03.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:01:03.000Z",
-      "live_viewers": 26252,
+      "live_viewers": 26770,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-24T09:01:31.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:01:31.000Z",
-      "live_viewers": 730,
+      "live_viewers": 667,
       "channel": {
         "id": "UCwXfrtn26oj7JW9fwB_z1bw",
         "name": "咲乃もこ【SakinoMoco】",
@@ -210,7 +210,7 @@
       "available_at": "2026-05-24T09:01:37.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:01:37.000Z",
-      "live_viewers": 5297,
+      "live_viewers": 5468,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -230,7 +230,7 @@
       "available_at": "2026-05-24T09:02:07.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:02:07.000Z",
-      "live_viewers": 437,
+      "live_viewers": 554,
       "channel": {
         "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
         "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
@@ -238,6 +238,26 @@
         "org": "Nijisanji",
         "suborg": "1cKiramero",
         "photo": "https://yt3.ggpht.com/0hwFUTExbP8nb6TT5iRURYq3WJTlotAdcbRohnVGh4ppEnZjKR0l4Qt4oz0KWrOXF0y-ye6LFQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCDqI2jOz0weumE8s7paEk6g": {
+      "video_id": "7R5WgqoCCzM",
+      "title": "【 #漢義リーグ 第1節】初戦から楽しんでいこおお✨ #秋麗宝燈 w.咲乃もこ/空星きらめ/アキロゼ【ホロライブ/ ロボ子さん 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mahjong",
+      "published_at": "2026-05-24T07:27:22.000Z",
+      "available_at": "2026-05-24T09:26:07.000Z",
+      "start_scheduled": "2026-05-24T09:30:00.000Z",
+      "start_actual": "2026-05-24T09:26:07.000Z",
+      "live_viewers": 440,
+      "channel": {
+        "id": "UCDqI2jOz0weumE8s7paEk6g",
+        "name": "Roboco Ch. - ロボ子",
+        "english_name": "Robocosan",
+        "org": "Hololive",
+        "suborg": "0w0th Generation",
+        "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
