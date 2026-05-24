@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779658339,
+  "cached_at": 1779658398,
   "lives": {
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "rIGdD4ql85Q",
@@ -39,6 +39,25 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1suqwovbL1kzsoaZgFZLKg": {
+      "video_id": "GrLewjBQgbU",
+      "title": "【Freetalk】早起き悪魔の朝ちょこ雑談📣 【ホロライブ/癒月ちょこ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-24T21:26:06.000Z",
+      "available_at": "2026-05-24T21:30:00.000Z",
+      "start_scheduled": "2026-05-24T21:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1suqwovbL1kzsoaZgFZLKg",
+        "name": "Choco Ch. 癒月ちょこ",
+        "english_name": "Yuzuki Choco",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
