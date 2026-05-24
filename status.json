@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779617238,
+  "cached_at": 1779617301,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5kODrCSBxP8",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-24T04:00:30.000Z",
       "start_scheduled": "2026-05-24T04:00:00.000Z",
       "start_actual": "2026-05-24T04:00:30.000Z",
-      "live_viewers": 11845,
+      "live_viewers": 11702,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-24T08:02:47.000Z",
       "start_scheduled": "2026-05-24T08:00:00.000Z",
       "start_actual": "2026-05-24T08:02:47.000Z",
-      "live_viewers": 16177,
+      "live_viewers": 16151,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-24T09:03:45.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:03:45.000Z",
-      "live_viewers": 982,
+      "live_viewers": 960,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-24T09:00:00.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:00:00.000Z",
-      "live_viewers": 535,
+      "live_viewers": 432,
       "channel": {
         "id": "UCUYVXFLTfEUoC6pHLv7CpaA",
         "name": "鴨神にゅう 麻雀チャンネル",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-24T09:00:11.000Z",
       "start_scheduled": "2026-05-24T09:00:00.000Z",
       "start_actual": "2026-05-24T09:00:11.000Z",
-      "live_viewers": 8268,
+      "live_viewers": 8820,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -270,7 +270,7 @@
       "available_at": "2026-05-24T09:26:07.000Z",
       "start_scheduled": "2026-05-24T09:30:00.000Z",
       "start_actual": "2026-05-24T09:26:07.000Z",
-      "live_viewers": 1356,
+      "live_viewers": 1408,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -290,7 +290,7 @@
       "available_at": "2026-05-24T09:27:11.000Z",
       "start_scheduled": "2026-05-24T09:15:00.000Z",
       "start_actual": "2026-05-24T09:27:11.000Z",
-      "live_viewers": 710,
+      "live_viewers": 712,
       "channel": {
         "id": "UChLfthKoUV502J7gU9STArg",
         "name": "渋谷ハル",
@@ -310,7 +310,7 @@
       "available_at": "2026-05-24T09:57:50.000Z",
       "start_scheduled": "2026-05-24T10:00:00.000Z",
       "start_actual": "2026-05-24T09:57:50.000Z",
-      "live_viewers": 5895,
+      "live_viewers": 7086,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -318,26 +318,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC3OH5FKQ3qtl4uRme_vZTgA": {
-      "video_id": "WRzaeIlF9FU",
-      "title": "【生態調査】清澄ライラの初個人配信【 #UNIT_B /清澄ライラ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-23T13:25:12.000Z",
-      "available_at": "2026-05-24T09:59:30.000Z",
-      "start_scheduled": "2026-05-24T10:00:00.000Z",
-      "start_actual": "2026-05-24T09:59:30.000Z",
-      "live_viewers": 4560,
-      "channel": {
-        "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
-        "name": "UNIT B (Pre-Debut) - mekPark",
-        "english_name": "UNIT B [Pre-Debut]",
-        "org": "Hololive",
-        "suborg": "v_mekPark",
-        "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9LSiN9hXI55svYEBrrK-tw": {
