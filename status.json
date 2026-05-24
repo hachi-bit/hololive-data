@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779660799,
+  "cached_at": 1779660858,
   "lives": {
-    "UCKMWFR6lAstLa7Vbf5dH7ig": {
-      "video_id": "rIGdD4ql85Q",
-      "title": "【F1同時視聴】カナダGP決勝!!ジル・ヴィルヌーヴ・サーキット!!! 【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-05-21T19:25:18.000Z",
-      "available_at": "2026-05-24T19:31:14.000Z",
-      "start_scheduled": "2026-05-24T19:30:00.000Z",
-      "start_actual": "2026-05-24T19:31:14.000Z",
-      "live_viewers": 2097,
-      "channel": {
-        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "english_name": "Rindo Chihaya",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCvN5h1ShZtc7nly3pezRayg": {
       "video_id": "wZLK-gSqZnY",
       "title": "【ZELDA: A LINK TO THE PAST】I must find the princess in order to find the princess",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-24T20:11:13.000Z",
       "start_scheduled": "2026-05-24T20:10:00.000Z",
       "start_actual": "2026-05-24T20:11:13.000Z",
-      "live_viewers": 7050,
+      "live_viewers": 7091,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-24T21:32:26.000Z",
       "start_scheduled": "2026-05-24T21:30:00.000Z",
       "start_actual": "2026-05-24T21:32:26.000Z",
-      "live_viewers": 3666,
+      "live_viewers": 3922,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
