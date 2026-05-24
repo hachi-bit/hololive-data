@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779635658,
+  "cached_at": 1779635719,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "5kODrCSBxP8",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-24T11:00:30.000Z",
       "start_scheduled": "2026-05-24T11:00:00.000Z",
       "start_actual": "2026-05-24T11:00:30.000Z",
-      "live_viewers": 13517,
+      "live_viewers": 12543,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -100,26 +100,6 @@
         "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCL_qhgtOy0dy1Agp8vkySQg": {
-      "video_id": "I6gdJ-8kf9I",
-      "title": "【member's only】we are NOT playing Routine tonight!!! #calliolive",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-24T00:28:00.000Z",
-      "available_at": "2026-05-24T13:00:43.000Z",
-      "start_scheduled": "2026-05-24T13:00:00.000Z",
-      "start_actual": "2026-05-24T13:00:43.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-        "name": "Mori Calliope Ch. hololive-EN",
-        "english_name": "Mori Calliope",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCp6993wxpyDPHUpavwDFqgg": {
       "video_id": "xRnQh-C1Zb4",
       "title": "【ぽこ あ ポケモン】最高のともだちに最高のお家を。【ホロライブ/ときのそら】",
@@ -130,7 +110,7 @@
       "available_at": "2026-05-24T13:01:44.000Z",
       "start_scheduled": "2026-05-24T13:00:00.000Z",
       "start_actual": "2026-05-24T13:01:44.000Z",
-      "live_viewers": 3129,
+      "live_viewers": 3344,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -150,7 +130,7 @@
       "available_at": "2026-05-24T13:03:02.000Z",
       "start_scheduled": "2026-05-24T13:00:00.000Z",
       "start_actual": "2026-05-24T13:03:02.000Z",
-      "live_viewers": 5788,
+      "live_viewers": 6113,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -250,7 +230,7 @@
       "available_at": "2026-05-24T15:01:37.000Z",
       "start_scheduled": "2026-05-24T15:00:00.000Z",
       "start_actual": "2026-05-24T15:01:37.000Z",
-      "live_viewers": 63,
+      "live_viewers": 114,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -270,7 +250,7 @@
       "available_at": "2026-05-24T15:04:12.000Z",
       "start_scheduled": "2026-05-24T15:00:00.000Z",
       "start_actual": "2026-05-24T15:04:12.000Z",
-      "live_viewers": 199,
+      "live_viewers": 208,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
