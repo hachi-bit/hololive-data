@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779606139,
+  "cached_at": 1779606199,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "RPhEEiwRcRw",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-24T05:15:38.000Z",
       "start_scheduled": "2026-05-24T05:15:00.000Z",
       "start_actual": "2026-05-24T05:15:38.000Z",
-      "live_viewers": 3402,
+      "live_viewers": 2766,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-24T05:59:39.000Z",
       "start_scheduled": "2026-05-24T06:00:00.000Z",
       "start_actual": "2026-05-24T05:59:39.000Z",
-      "live_viewers": 7809,
+      "live_viewers": 7669,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -219,6 +219,25 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_vMYWcDjmfdpH6r4TTn1MQ": {
+      "video_id": "oItAZ_ZfBkU",
+      "title": "【トモダチコレクション】大恋愛戦国時代到来___矢印乱反射【風真いろは/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-24T06:08:31.000Z",
+      "available_at": "2026-05-24T07:00:00.000Z",
+      "start_scheduled": "2026-05-24T07:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "name": "Iroha ch. 風真いろは - holoX -",
+        "english_name": "Kazama Iroha",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
