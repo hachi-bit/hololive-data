@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779750558,
+  "cached_at": 1779750619,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -37,6 +37,26 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7gxU6NXjKF1LrgOddPzgTw": {
+      "video_id": "Nt1SVJwQLWU",
+      "title": "【TENGU TALK】Ah, Osaka Dreamin' Night ~♡ WHAT AN ADVENTURE! LET'S TENGU TALK BABY ₊˚⊹ ᰔ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-25T15:09:57.000Z",
+      "available_at": "2026-05-25T23:06:57.000Z",
+      "start_scheduled": "2026-05-25T23:15:00.000Z",
+      "start_actual": "2026-05-25T23:06:57.000Z",
+      "live_viewers": 119,
+      "channel": {
+        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+        "english_name": "Banzoin Hakka",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
