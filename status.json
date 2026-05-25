@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779751879,
+  "cached_at": 1779751938,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -49,7 +49,7 @@
       "available_at": "2026-05-25T23:06:57.000Z",
       "start_scheduled": "2026-05-25T23:15:00.000Z",
       "start_actual": "2026-05-25T23:06:57.000Z",
-      "live_viewers": 280,
+      "live_viewers": 295,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -57,6 +57,25 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCL_qhgtOy0dy1Agp8vkySQg": {
+      "video_id": "VXqngzJKNZU",
+      "title": "【MINECRAFT RP】the melancholy of mordon ramsay #calliolive #enreco",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-25T06:22:46.000Z",
+      "available_at": "2026-05-25T23:30:00.000Z",
+      "start_scheduled": "2026-05-25T23:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+        "name": "Mori Calliope Ch. hololive-EN",
+        "english_name": "Mori Calliope",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
