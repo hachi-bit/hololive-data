@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779685523,
+  "cached_at": 1779685580,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-25T01:52:25.000Z",
       "start_scheduled": "2026-05-25T02:00:00.000Z",
       "start_actual": "2026-05-25T01:52:25.000Z",
-      "live_viewers": 2991,
+      "live_viewers": 2993,
       "channel": {
         "id": "UCW5uhrG1eCBYditmhL0Ykjw",
         "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-25T01:54:38.000Z",
       "start_scheduled": "2026-05-25T02:00:00.000Z",
       "start_actual": "2026-05-25T01:54:38.000Z",
-      "live_viewers": 2586,
+      "live_viewers": 2573,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-25T01:55:27.000Z",
       "start_scheduled": "2026-05-25T02:00:00.000Z",
       "start_actual": "2026-05-25T01:55:27.000Z",
-      "live_viewers": 1525,
+      "live_viewers": 1700,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-25T01:56:24.000Z",
       "start_scheduled": "2026-05-25T02:00:00.000Z",
       "start_actual": "2026-05-25T01:56:24.000Z",
-      "live_viewers": 2931,
+      "live_viewers": 3245,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-25T01:57:31.000Z",
       "start_scheduled": "2026-05-25T02:00:00.000Z",
       "start_actual": "2026-05-25T01:57:31.000Z",
-      "live_viewers": 4154,
+      "live_viewers": 4261,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-25T01:59:56.000Z",
       "start_scheduled": "2026-05-25T02:00:00.000Z",
       "start_actual": "2026-05-25T01:59:56.000Z",
-      "live_viewers": 3483,
+      "live_viewers": 3619,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-25T02:00:06.000Z",
       "start_scheduled": "2026-05-25T02:00:00.000Z",
       "start_actual": "2026-05-25T02:00:06.000Z",
-      "live_viewers": 5769,
+      "live_viewers": 5974,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -270,7 +270,7 @@
       "available_at": "2026-05-25T05:00:11.000Z",
       "start_scheduled": "2026-05-25T05:00:00.000Z",
       "start_actual": "2026-05-25T05:00:11.000Z",
-      "live_viewers": 151,
+      "live_viewers": 375,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
