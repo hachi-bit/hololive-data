@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779714319,
+  "cached_at": 1779714379,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -89,7 +89,7 @@
       "available_at": "2026-05-25T09:57:33.000Z",
       "start_scheduled": "2026-05-25T10:00:00.000Z",
       "start_actual": "2026-05-25T09:57:33.000Z",
-      "live_viewers": 6625,
+      "live_viewers": 6659,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -169,7 +169,7 @@
       "available_at": "2026-05-25T12:00:00.000Z",
       "start_scheduled": "2026-05-25T12:00:00.000Z",
       "start_actual": "2026-05-25T12:00:00.000Z",
-      "live_viewers": 15234,
+      "live_viewers": 14417,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -249,7 +249,7 @@
       "available_at": "2026-05-25T12:03:18.000Z",
       "start_scheduled": "2026-05-25T12:00:00.000Z",
       "start_actual": "2026-05-25T12:03:18.000Z",
-      "live_viewers": 46984,
+      "live_viewers": 45726,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -269,7 +269,7 @@
       "available_at": "2026-05-25T12:03:25.000Z",
       "start_scheduled": "2026-05-25T12:00:00.000Z",
       "start_actual": "2026-05-25T12:03:25.000Z",
-      "live_viewers": 3264,
+      "live_viewers": 3066,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -289,7 +289,7 @@
       "available_at": "2026-05-25T12:59:38.000Z",
       "start_scheduled": "2026-05-25T13:00:00.000Z",
       "start_actual": "2026-05-25T12:59:38.000Z",
-      "live_viewers": 4250,
+      "live_viewers": 7386,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -306,9 +306,10 @@
       "status": "live",
       "topic_id": "Chrono_Trigger",
       "published_at": "2026-05-25T04:29:57.000Z",
-      "available_at": "2026-05-25T13:00:00.000Z",
+      "available_at": "2026-05-25T13:00:51.000Z",
       "start_scheduled": "2026-05-25T13:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-25T13:00:51.000Z",
+      "live_viewers": 3632,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -325,9 +326,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-05-25T07:18:50.000Z",
-      "available_at": "2026-05-25T13:00:00.000Z",
+      "available_at": "2026-05-25T13:01:37.000Z",
       "start_scheduled": "2026-05-25T13:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-25T13:01:37.000Z",
+      "live_viewers": 1524,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -344,9 +346,10 @@
       "status": "live",
       "topic_id": "Tomodachi_Life",
       "published_at": "2026-05-25T00:04:57.000Z",
-      "available_at": "2026-05-25T13:00:00.000Z",
+      "available_at": "2026-05-25T13:02:55.000Z",
       "start_scheduled": "2026-05-25T13:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-25T13:02:55.000Z",
+      "live_viewers": 1960,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
