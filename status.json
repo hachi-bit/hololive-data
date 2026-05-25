@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779700578,
+  "cached_at": 1779700639,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-25T08:04:00.000Z",
       "start_scheduled": "2026-05-25T08:00:00.000Z",
       "start_actual": "2026-05-25T08:04:00.000Z",
-      "live_viewers": 209,
+      "live_viewers": 195,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -99,25 +99,6 @@
         "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "Y4veFoxfh1A",
-      "title": "【LoL】LTK DDnext  Day4   / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeo",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-05-25T08:53:54.000Z",
-      "available_at": "2026-05-25T09:00:00.000Z",
-      "start_scheduled": "2026-05-25T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
       "video_id": "GzerAE4VrUU",
       "title": "【 日本事故物件監視協会 / JSP 】ｼﾞ…………【 猫又おかゆ/ホロライブ 】",
@@ -128,7 +109,7 @@
       "available_at": "2026-05-25T09:01:38.000Z",
       "start_scheduled": "2026-05-25T09:00:00.000Z",
       "start_actual": "2026-05-25T09:01:38.000Z",
-      "live_viewers": 11252,
+      "live_viewers": 12563,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -136,6 +117,26 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "Y4veFoxfh1A",
+      "title": "【LoL】LTK DDnext  Day4   / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeo",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-05-25T08:53:54.000Z",
+      "available_at": "2026-05-25T09:05:37.000Z",
+      "start_scheduled": "2026-05-25T09:00:00.000Z",
+      "start_actual": "2026-05-25T09:05:37.000Z",
+      "live_viewers": 254,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
