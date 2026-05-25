@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779751999,
+  "cached_at": 1779752059,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -49,7 +49,7 @@
       "available_at": "2026-05-25T23:06:57.000Z",
       "start_scheduled": "2026-05-25T23:15:00.000Z",
       "start_actual": "2026-05-25T23:06:57.000Z",
-      "live_viewers": 295,
+      "live_viewers": 303,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -66,9 +66,10 @@
       "status": "live",
       "topic_id": "minecraft",
       "published_at": "2026-05-25T06:22:46.000Z",
-      "available_at": "2026-05-25T23:30:00.000Z",
+      "available_at": "2026-05-25T23:30:46.000Z",
       "start_scheduled": "2026-05-25T23:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-25T23:30:46.000Z",
+      "live_viewers": 1897,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
