@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779720139,
+  "cached_at": 1779720199,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -89,7 +89,7 @@
       "available_at": "2026-05-25T11:30:54.000Z",
       "start_scheduled": "2026-05-25T11:30:00.000Z",
       "start_actual": "2026-05-25T11:30:54.000Z",
-      "live_viewers": 1035,
+      "live_viewers": 1045,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -129,7 +129,7 @@
       "available_at": "2026-05-25T12:03:18.000Z",
       "start_scheduled": "2026-05-25T12:00:00.000Z",
       "start_actual": "2026-05-25T12:03:18.000Z",
-      "live_viewers": 37861,
+      "live_viewers": 38151,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -169,7 +169,7 @@
       "available_at": "2026-05-25T13:00:51.000Z",
       "start_scheduled": "2026-05-25T13:00:00.000Z",
       "start_actual": "2026-05-25T13:00:51.000Z",
-      "live_viewers": 10468,
+      "live_viewers": 10032,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -229,7 +229,7 @@
       "available_at": "2026-05-25T13:33:09.000Z",
       "start_scheduled": "2026-05-25T13:30:00.000Z",
       "start_actual": "2026-05-25T13:33:09.000Z",
-      "live_viewers": 360,
+      "live_viewers": 367,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -249,7 +249,7 @@
       "available_at": "2026-05-25T13:47:21.000Z",
       "start_scheduled": "2026-05-25T13:45:00.000Z",
       "start_actual": "2026-05-25T13:47:21.000Z",
-      "live_viewers": 144,
+      "live_viewers": 146,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -269,7 +269,7 @@
       "available_at": "2026-05-25T14:00:21.000Z",
       "start_scheduled": "2026-05-25T14:00:00.000Z",
       "start_actual": "2026-05-25T14:00:21.000Z",
-      "live_viewers": 1002,
+      "live_viewers": 1025,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -297,6 +297,25 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFTLzh12_nrtzqBPsTCqenA": {
+      "video_id": "OtqWC78KOKg",
+      "title": "『#男女の友情アリかナシか 』 #アキちょこナイパレ 第37回 ~ホロライブ深夜ラジオ~",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-25T14:32:15.000Z",
+      "available_at": "2026-05-25T14:40:00.000Z",
+      "start_scheduled": "2026-05-25T14:40:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCFTLzh12_nrtzqBPsTCqenA",
+        "name": "アキロゼCh。Vtuber/ホロライブ所属",
+        "english_name": "Aki Rosenthal",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
