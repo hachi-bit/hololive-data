@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779714139,
+  "cached_at": 1779714199,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-25T05:00:11.000Z",
       "start_scheduled": "2026-05-25T05:00:00.000Z",
       "start_actual": "2026-05-25T05:00:11.000Z",
-      "live_viewers": 1112,
+      "live_viewers": 1129,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-25T08:04:00.000Z",
       "start_scheduled": "2026-05-25T08:00:00.000Z",
       "start_actual": "2026-05-25T08:04:00.000Z",
-      "live_viewers": 218,
+      "live_viewers": 224,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -129,7 +129,7 @@
       "available_at": "2026-05-25T11:31:32.000Z",
       "start_scheduled": "2026-05-25T11:30:00.000Z",
       "start_actual": "2026-05-25T11:31:32.000Z",
-      "live_viewers": 243,
+      "live_viewers": 240,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -149,7 +149,7 @@
       "available_at": "2026-05-25T11:59:32.000Z",
       "start_scheduled": "2026-05-25T12:00:00.000Z",
       "start_actual": "2026-05-25T11:59:32.000Z",
-      "live_viewers": 13420,
+      "live_viewers": 13026,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -209,7 +209,7 @@
       "available_at": "2026-05-25T12:00:54.000Z",
       "start_scheduled": "2026-05-25T12:00:00.000Z",
       "start_actual": "2026-05-25T12:00:54.000Z",
-      "live_viewers": 23177,
+      "live_viewers": 23267,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -229,7 +229,7 @@
       "available_at": "2026-05-25T12:01:36.000Z",
       "start_scheduled": "2026-05-25T12:00:00.000Z",
       "start_actual": "2026-05-25T12:01:36.000Z",
-      "live_viewers": 534,
+      "live_viewers": 529,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -249,7 +249,7 @@
       "available_at": "2026-05-25T12:03:18.000Z",
       "start_scheduled": "2026-05-25T12:00:00.000Z",
       "start_actual": "2026-05-25T12:03:18.000Z",
-      "live_viewers": 46229,
+      "live_viewers": 46984,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -277,6 +277,83 @@
         "org": "Hololive",
         "suborg": "0w0th Generation",
         "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChAnqc_AY5_I3Px5dig3X1Q": {
+      "video_id": "O22W8xo1oTA",
+      "title": "【Creature Kitchen】野生のクリーチャーに手料理を食べさせよ~ね~~",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Creature_Kitchen",
+      "published_at": "2026-05-25T09:46:15.000Z",
+      "available_at": "2026-05-25T12:59:38.000Z",
+      "start_scheduled": "2026-05-25T13:00:00.000Z",
+      "start_actual": "2026-05-25T12:59:38.000Z",
+      "live_viewers": 4250,
+      "channel": {
+        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
+        "name": "Korone Ch. 戌神ころね",
+        "english_name": "Inugami Korone",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC0TXe_LYZ4scaW2XMyi5_kw": {
+      "video_id": "oDvuVqC1yDE",
+      "title": "【クロノ・トリガー】完全初見!時を超える名作RPG、はじめます―― #5【ホロライブ / AZKi】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Chrono_Trigger",
+      "published_at": "2026-05-25T04:29:57.000Z",
+      "available_at": "2026-05-25T13:00:00.000Z",
+      "start_scheduled": "2026-05-25T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+        "name": "AZKi Channel",
+        "english_name": "AZKi",
+        "org": "Hololive",
+        "suborg": "0z0th Generation",
+        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCtyWhCj3AqKh2dXctLkDtng": {
+      "video_id": "e3lIuJKK1g8",
+      "title": "【定期雑談】限界すぎないか?ドリロコス、それは気軽に作れるメキシコ屋台飯。!#33 【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-25T07:18:50.000Z",
+      "available_at": "2026-05-25T13:00:00.000Z",
+      "start_scheduled": "2026-05-25T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCtyWhCj3AqKh2dXctLkDtng",
+        "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+        "english_name": "Ichijou Ririka",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "uHE5P05XIUE",
+      "title": "【 トモダチコレクション わくわく生活 】UIBM計画始動......フレポルも作りたい!!【角巻わため/ホロライブ4期生】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-25T00:04:57.000Z",
+      "available_at": "2026-05-25T13:00:00.000Z",
+      "start_scheduled": "2026-05-25T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
