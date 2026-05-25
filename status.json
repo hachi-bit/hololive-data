@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779685339,
+  "cached_at": 1779685403,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-25T01:45:48.000Z",
       "start_scheduled": "2026-05-25T01:45:00.000Z",
       "start_actual": "2026-05-25T01:45:48.000Z",
-      "live_viewers": 2398,
+      "live_viewers": 2369,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-25T01:52:25.000Z",
       "start_scheduled": "2026-05-25T02:00:00.000Z",
       "start_actual": "2026-05-25T01:52:25.000Z",
-      "live_viewers": 2987,
+      "live_viewers": 2991,
       "channel": {
         "id": "UCW5uhrG1eCBYditmhL0Ykjw",
         "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-25T01:54:38.000Z",
       "start_scheduled": "2026-05-25T02:00:00.000Z",
       "start_actual": "2026-05-25T01:54:38.000Z",
-      "live_viewers": 2441,
+      "live_viewers": 2586,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-25T01:55:30.000Z",
       "start_scheduled": "2026-05-25T02:00:00.000Z",
       "start_actual": "2026-05-25T01:55:30.000Z",
-      "live_viewers": 1698,
+      "live_viewers": 1674,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -118,26 +118,6 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
-      "video_id": "ZwqLwWTa98E",
-      "title": "≪ENigmatic Recollection: Chapter 3≫ Peasantry is always the answer #1",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-24T04:15:22.000Z",
-      "available_at": "2026-05-25T01:56:06.000Z",
-      "start_scheduled": "2026-05-25T02:00:00.000Z",
-      "start_actual": "2026-05-25T01:56:06.000Z",
-      "live_viewers": 1608,
-      "channel": {
-        "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "name": "Hakos Baelz Ch. hololive-EN",
-        "english_name": "Hakos Baelz",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvN5h1ShZtc7nly3pezRayg": {
@@ -170,7 +150,7 @@
       "available_at": "2026-05-25T01:57:31.000Z",
       "start_scheduled": "2026-05-25T02:00:00.000Z",
       "start_actual": "2026-05-25T01:57:31.000Z",
-      "live_viewers": 4078,
+      "live_viewers": 4154,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -210,7 +190,7 @@
       "available_at": "2026-05-25T02:00:06.000Z",
       "start_scheduled": "2026-05-25T02:00:00.000Z",
       "start_actual": "2026-05-25T02:00:06.000Z",
-      "live_viewers": 5729,
+      "live_viewers": 5769,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -230,7 +210,7 @@
       "available_at": "2026-05-25T02:03:17.000Z",
       "start_scheduled": "2026-05-25T02:00:00.000Z",
       "start_actual": "2026-05-25T02:03:17.000Z",
-      "live_viewers": 4757,
+      "live_viewers": 5569,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -250,7 +230,7 @@
       "available_at": "2026-05-25T03:05:21.000Z",
       "start_scheduled": "2026-05-25T03:00:00.000Z",
       "start_actual": "2026-05-25T03:05:21.000Z",
-      "live_viewers": 4114,
+      "live_viewers": 4177,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -270,7 +250,7 @@
       "available_at": "2026-05-25T04:00:21.000Z",
       "start_scheduled": "2026-05-25T04:00:00.000Z",
       "start_actual": "2026-05-25T04:00:21.000Z",
-      "live_viewers": 1719,
+      "live_viewers": 1770,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -278,6 +258,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAHQGIKolfBfoeXXMY79SBA": {
+      "video_id": "yTP7pGtNUB8",
+      "title": "【 League of Legends #LTK 】14時からBOT 2v2練習➡16時からスクリム➡18時から本番4日目【白那しずく / ネオポルテ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-05-25T04:14:20.000Z",
+      "available_at": "2026-05-25T05:00:11.000Z",
+      "start_scheduled": "2026-05-25T05:00:00.000Z",
+      "start_actual": "2026-05-25T05:00:11.000Z",
+      "live_viewers": 151,
+      "channel": {
+        "id": "UCAHQGIKolfBfoeXXMY79SBA",
+        "name": "白那しずく",
+        "english_name": "Shirona Shizuku",
+        "org": "Neo-Porte",
+        "suborg": "0k5th Generation",
+        "photo": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
