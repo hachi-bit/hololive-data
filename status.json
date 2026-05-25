@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779720918,
+  "cached_at": 1779720979,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -59,26 +59,6 @@
         "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCa9Y57gfeY0Zro_noHRVrnw": {
-      "video_id": "SIDJgqoA_Xo",
-      "title": "【 鳴潮 】初めての鳴潮で遊んでみるのら!!!第3章第4幕 Ver.3.2 #19【姫森ルーナ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Wuthering_Waves",
-      "published_at": "2026-05-24T11:14:30.000Z",
-      "available_at": "2026-05-25T09:57:33.000Z",
-      "start_scheduled": "2026-05-25T10:00:00.000Z",
-      "start_actual": "2026-05-25T09:57:33.000Z",
-      "live_viewers": 3058,
-      "channel": {
-        "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-        "name": "Luna Ch. 姫森ルーナ",
-        "english_name": "Himemori Luna",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCOyYb1c43VlX9rc_lT6NKQw": {
       "video_id": "nOnojrPsVXg",
       "title": "M.M.M MALAM",
@@ -89,7 +69,7 @@
       "available_at": "2026-05-25T11:30:54.000Z",
       "start_scheduled": "2026-05-25T11:30:00.000Z",
       "start_actual": "2026-05-25T11:30:54.000Z",
-      "live_viewers": 1046,
+      "live_viewers": 1021,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -129,7 +109,7 @@
       "available_at": "2026-05-25T12:59:38.000Z",
       "start_scheduled": "2026-05-25T13:00:00.000Z",
       "start_actual": "2026-05-25T12:59:38.000Z",
-      "live_viewers": 15222,
+      "live_viewers": 15274,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -149,7 +129,7 @@
       "available_at": "2026-05-25T13:00:51.000Z",
       "start_scheduled": "2026-05-25T13:00:00.000Z",
       "start_actual": "2026-05-25T13:00:51.000Z",
-      "live_viewers": 10295,
+      "live_viewers": 10305,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -209,7 +189,7 @@
       "available_at": "2026-05-25T13:33:09.000Z",
       "start_scheduled": "2026-05-25T13:30:00.000Z",
       "start_actual": "2026-05-25T13:33:09.000Z",
-      "live_viewers": 368,
+      "live_viewers": 378,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -249,7 +229,7 @@
       "available_at": "2026-05-25T14:00:21.000Z",
       "start_scheduled": "2026-05-25T14:00:00.000Z",
       "start_actual": "2026-05-25T14:00:21.000Z",
-      "live_viewers": 1068,
+      "live_viewers": 1083,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -269,7 +249,7 @@
       "available_at": "2026-05-25T14:03:14.000Z",
       "start_scheduled": "2026-05-25T14:00:00.000Z",
       "start_actual": "2026-05-25T14:03:14.000Z",
-      "live_viewers": 4146,
+      "live_viewers": 4090,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -289,7 +269,7 @@
       "available_at": "2026-05-25T14:41:59.000Z",
       "start_scheduled": "2026-05-25T14:40:00.000Z",
       "start_actual": "2026-05-25T14:41:59.000Z",
-      "live_viewers": 2732,
+      "live_viewers": 2650,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
