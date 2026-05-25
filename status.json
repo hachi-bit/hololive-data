@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779699919,
+  "cached_at": 1779699979,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-25T05:00:11.000Z",
       "start_scheduled": "2026-05-25T05:00:00.000Z",
       "start_actual": "2026-05-25T05:00:11.000Z",
-      "live_viewers": 1141,
+      "live_viewers": 1073,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -80,23 +80,23 @@
         "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCvaTdHTWBGv3MKj3KVqJVCw": {
-      "video_id": "GzerAE4VrUU",
-      "title": "【 日本事故物件監視協会 / JSP 】ｼﾞ…………【 猫又おかゆ/ホロライブ 】",
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "Y4veFoxfh1A",
+      "title": "【LoL】LTK DDnext  Day4   / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeo",
       "type": "stream",
       "status": "live",
-      "topic_id": "Japan_Stigmatized_Property",
-      "published_at": "2026-05-24T15:32:20.000Z",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-05-25T08:53:54.000Z",
       "available_at": "2026-05-25T09:00:00.000Z",
       "start_scheduled": "2026-05-25T09:00:00.000Z",
       "live_viewers": 0,
       "channel": {
-        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-        "name": "Okayu Ch. 猫又おかゆ",
-        "english_name": "Nekomata Okayu",
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
         "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCW5uhrG1eCBYditmhL0Ykjw": {
@@ -118,23 +118,24 @@
         "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "Y4veFoxfh1A",
-      "title": "【LoL】LTK DDnext  Day4   / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeo",
+    "UCvaTdHTWBGv3MKj3KVqJVCw": {
+      "video_id": "GzerAE4VrUU",
+      "title": "【 日本事故物件監視協会 / JSP 】ｼﾞ…………【 猫又おかゆ/ホロライブ 】",
       "type": "stream",
       "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-05-25T08:53:54.000Z",
-      "available_at": "2026-05-25T09:00:00.000Z",
+      "topic_id": "Japan_Stigmatized_Property",
+      "published_at": "2026-05-24T15:32:20.000Z",
+      "available_at": "2026-05-25T09:01:38.000Z",
       "start_scheduled": "2026-05-25T09:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-25T09:01:38.000Z",
+      "live_viewers": 5558,
       "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
+        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+        "name": "Okayu Ch. 猫又おかゆ",
+        "english_name": "Nekomata Okayu",
         "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
