@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779712879,
+  "cached_at": 1779712939,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -79,26 +79,6 @@
         "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "Y4veFoxfh1A",
-      "title": "【LoL】LTK DDnext  Day4   / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeo",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-05-25T08:53:54.000Z",
-      "available_at": "2026-05-25T09:05:37.000Z",
-      "start_scheduled": "2026-05-25T09:00:00.000Z",
-      "start_actual": "2026-05-25T09:05:37.000Z",
-      "live_viewers": 523,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "SIDJgqoA_Xo",
       "title": "【 鳴潮 】初めての鳴潮で遊んでみるのら!!!第3章第4幕 Ver.3.2 #19【姫森ルーナ/ホロライブ】",
@@ -109,7 +89,7 @@
       "available_at": "2026-05-25T09:57:33.000Z",
       "start_scheduled": "2026-05-25T10:00:00.000Z",
       "start_actual": "2026-05-25T09:57:33.000Z",
-      "live_viewers": 6415,
+      "live_viewers": 6732,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -129,7 +109,7 @@
       "available_at": "2026-05-25T11:30:54.000Z",
       "start_scheduled": "2026-05-25T11:30:00.000Z",
       "start_actual": "2026-05-25T11:30:54.000Z",
-      "live_viewers": 1221,
+      "live_viewers": 1270,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -169,7 +149,7 @@
       "available_at": "2026-05-25T11:59:32.000Z",
       "start_scheduled": "2026-05-25T12:00:00.000Z",
       "start_actual": "2026-05-25T11:59:32.000Z",
-      "live_viewers": 13831,
+      "live_viewers": 14052,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -189,7 +169,7 @@
       "available_at": "2026-05-25T12:00:00.000Z",
       "start_scheduled": "2026-05-25T12:00:00.000Z",
       "start_actual": "2026-05-25T12:00:00.000Z",
-      "live_viewers": 17235,
+      "live_viewers": 16666,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -229,7 +209,7 @@
       "available_at": "2026-05-25T12:00:54.000Z",
       "start_scheduled": "2026-05-25T12:00:00.000Z",
       "start_actual": "2026-05-25T12:00:54.000Z",
-      "live_viewers": 22644,
+      "live_viewers": 23364,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -249,7 +229,7 @@
       "available_at": "2026-05-25T12:01:36.000Z",
       "start_scheduled": "2026-05-25T12:00:00.000Z",
       "start_actual": "2026-05-25T12:01:36.000Z",
-      "live_viewers": 514,
+      "live_viewers": 531,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -269,7 +249,7 @@
       "available_at": "2026-05-25T12:03:18.000Z",
       "start_scheduled": "2026-05-25T12:00:00.000Z",
       "start_actual": "2026-05-25T12:03:18.000Z",
-      "live_viewers": 45502,
+      "live_viewers": 45730,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -289,7 +269,7 @@
       "available_at": "2026-05-25T12:03:25.000Z",
       "start_scheduled": "2026-05-25T12:00:00.000Z",
       "start_actual": "2026-05-25T12:03:25.000Z",
-      "live_viewers": 3368,
+      "live_viewers": 3490,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
