@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779718219,
+  "cached_at": 1779718279,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -89,7 +89,7 @@
       "available_at": "2026-05-25T09:57:33.000Z",
       "start_scheduled": "2026-05-25T10:00:00.000Z",
       "start_actual": "2026-05-25T09:57:33.000Z",
-      "live_viewers": 7184,
+      "live_viewers": 6929,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -109,7 +109,7 @@
       "available_at": "2026-05-25T11:30:54.000Z",
       "start_scheduled": "2026-05-25T11:30:00.000Z",
       "start_actual": "2026-05-25T11:30:54.000Z",
-      "live_viewers": 1134,
+      "live_viewers": 1123,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -129,7 +129,7 @@
       "available_at": "2026-05-25T11:31:32.000Z",
       "start_scheduled": "2026-05-25T11:30:00.000Z",
       "start_actual": "2026-05-25T11:31:32.000Z",
-      "live_viewers": 241,
+      "live_viewers": 230,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -149,7 +149,7 @@
       "available_at": "2026-05-25T12:03:18.000Z",
       "start_scheduled": "2026-05-25T12:00:00.000Z",
       "start_actual": "2026-05-25T12:03:18.000Z",
-      "live_viewers": 40870,
+      "live_viewers": 40871,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -169,7 +169,7 @@
       "available_at": "2026-05-25T12:59:38.000Z",
       "start_scheduled": "2026-05-25T13:00:00.000Z",
       "start_actual": "2026-05-25T12:59:38.000Z",
-      "live_viewers": 14880,
+      "live_viewers": 14856,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -199,26 +199,6 @@
         "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCtyWhCj3AqKh2dXctLkDtng": {
-      "video_id": "e3lIuJKK1g8",
-      "title": "【定期雑談】限界すぎないか?ドリロコス、それは気軽に作れるメキシコ屋台飯。!#33 【一条莉々華/hololive DEV_IS ReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-25T07:18:50.000Z",
-      "available_at": "2026-05-25T13:01:37.000Z",
-      "start_scheduled": "2026-05-25T13:00:00.000Z",
-      "start_actual": "2026-05-25T13:01:37.000Z",
-      "live_viewers": 4813,
-      "channel": {
-        "id": "UCtyWhCj3AqKh2dXctLkDtng",
-        "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-        "english_name": "Ichijou Ririka",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
       "video_id": "uHE5P05XIUE",
       "title": "【 トモダチコレクション わくわく生活 】UIBM計画始動......フレポルも作りたい!!【角巻わため/ホロライブ4期生】",
@@ -229,7 +209,7 @@
       "available_at": "2026-05-25T13:02:55.000Z",
       "start_scheduled": "2026-05-25T13:00:00.000Z",
       "start_actual": "2026-05-25T13:02:55.000Z",
-      "live_viewers": 7920,
+      "live_viewers": 7979,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -249,7 +229,7 @@
       "available_at": "2026-05-25T13:30:44.000Z",
       "start_scheduled": "2026-05-25T13:30:00.000Z",
       "start_actual": "2026-05-25T13:30:44.000Z",
-      "live_viewers": 11074,
+      "live_viewers": 10902,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -269,7 +249,7 @@
       "available_at": "2026-05-25T13:33:09.000Z",
       "start_scheduled": "2026-05-25T13:30:00.000Z",
       "start_actual": "2026-05-25T13:33:09.000Z",
-      "live_viewers": 313,
+      "live_viewers": 324,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -289,7 +269,7 @@
       "available_at": "2026-05-25T13:47:21.000Z",
       "start_scheduled": "2026-05-25T13:45:00.000Z",
       "start_actual": "2026-05-25T13:47:21.000Z",
-      "live_viewers": 117,
+      "live_viewers": 115,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -309,7 +289,7 @@
       "available_at": "2026-05-25T14:00:21.000Z",
       "start_scheduled": "2026-05-25T14:00:00.000Z",
       "start_actual": "2026-05-25T14:00:21.000Z",
-      "live_viewers": 516,
+      "live_viewers": 607,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -329,7 +309,7 @@
       "available_at": "2026-05-25T14:03:14.000Z",
       "start_scheduled": "2026-05-25T14:00:00.000Z",
       "start_actual": "2026-05-25T14:03:14.000Z",
-      "live_viewers": 2260,
+      "live_viewers": 2230,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
