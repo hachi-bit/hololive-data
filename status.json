@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779706999,
+  "cached_at": 1779707059,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-25T04:00:21.000Z",
       "start_scheduled": "2026-05-25T04:00:00.000Z",
       "start_actual": "2026-05-25T04:00:21.000Z",
-      "live_viewers": 2068,
+      "live_viewers": 2076,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -109,7 +109,7 @@
       "available_at": "2026-05-25T09:01:38.000Z",
       "start_scheduled": "2026-05-25T09:00:00.000Z",
       "start_actual": "2026-05-25T09:01:38.000Z",
-      "live_viewers": 21404,
+      "live_viewers": 20272,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -129,7 +129,7 @@
       "available_at": "2026-05-25T09:05:37.000Z",
       "start_scheduled": "2026-05-25T09:00:00.000Z",
       "start_actual": "2026-05-25T09:05:37.000Z",
-      "live_viewers": 437,
+      "live_viewers": 447,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -169,7 +169,7 @@
       "available_at": "2026-05-25T10:55:35.000Z",
       "start_scheduled": "2026-05-25T11:00:00.000Z",
       "start_actual": "2026-05-25T10:55:35.000Z",
-      "live_viewers": 24250,
+      "live_viewers": 52488,
       "channel": {
         "id": "UCENwRMx5Yh42zWpzURebzTw",
         "name": "Laplus ch. ラプラス・ダークネス - holoX -",
@@ -177,6 +177,26 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCYz_5n-uDuChHtLo7My1HnQ": {
+      "video_id": "bb6h4d-BFI8",
+      "title": "【お絵描き配信 / DRAWING STREAM】 足立たかふみ先生との気軽なおしゃべり!! CHATS AND SCRIBBLES WITH TAKAFUMI ADACHI SENSEI!!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "drawing",
+      "published_at": "2026-05-23T12:34:36.000Z",
+      "available_at": "2026-05-25T10:59:35.000Z",
+      "start_scheduled": "2026-05-25T11:00:00.000Z",
+      "start_actual": "2026-05-25T10:59:35.000Z",
+      "live_viewers": 348,
+      "channel": {
+        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+        "name": "Kureiji Ollie Ch. hololive-ID",
+        "english_name": "Kureiji Ollie",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
