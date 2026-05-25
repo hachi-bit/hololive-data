@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779690021,
+  "cached_at": 1779690081,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-25T01:56:24.000Z",
       "start_scheduled": "2026-05-25T02:00:00.000Z",
       "start_actual": "2026-05-25T01:56:24.000Z",
-      "live_viewers": 3876,
+      "live_viewers": 7611,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -58,26 +58,6 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9p_lqQ0FEDz327Vgf5JwqA": {
-      "video_id": "VuwvH2nOWxI",
-      "title": "【ENigmatic Recollection】May the lands burn.【Broken Bonds Day 1】#enreco",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-24T15:13:06.000Z",
-      "available_at": "2026-05-25T01:57:31.000Z",
-      "start_scheduled": "2026-05-25T02:00:00.000Z",
-      "start_actual": "2026-05-25T01:57:31.000Z",
-      "live_viewers": 5066,
-      "channel": {
-        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-        "name": "Koseki Bijou Ch. hololive-EN",
-        "english_name": "Koseki Bijou",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCMwGHR0BTZuLsmjY_NT5Pwg": {
@@ -90,7 +70,7 @@
       "available_at": "2026-05-25T01:59:56.000Z",
       "start_scheduled": "2026-05-25T02:00:00.000Z",
       "start_actual": "2026-05-25T01:59:56.000Z",
-      "live_viewers": 4114,
+      "live_viewers": 4587,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
