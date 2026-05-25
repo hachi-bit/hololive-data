@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779688099,
+  "cached_at": 1779688160,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-25T01:45:48.000Z",
       "start_scheduled": "2026-05-25T01:45:00.000Z",
       "start_actual": "2026-05-25T01:45:48.000Z",
-      "live_viewers": 2341,
+      "live_viewers": 2442,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-25T01:57:31.000Z",
       "start_scheduled": "2026-05-25T02:00:00.000Z",
       "start_actual": "2026-05-25T01:57:31.000Z",
-      "live_viewers": 4511,
+      "live_viewers": 4563,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-25T01:59:56.000Z",
       "start_scheduled": "2026-05-25T02:00:00.000Z",
       "start_actual": "2026-05-25T01:59:56.000Z",
-      "live_viewers": 3658,
+      "live_viewers": 3590,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-25T02:03:17.000Z",
       "start_scheduled": "2026-05-25T02:00:00.000Z",
       "start_actual": "2026-05-25T02:03:17.000Z",
-      "live_viewers": 5522,
+      "live_viewers": 5580,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-25T03:05:21.000Z",
       "start_scheduled": "2026-05-25T03:00:00.000Z",
       "start_actual": "2026-05-25T03:05:21.000Z",
-      "live_viewers": 4386,
+      "live_viewers": 4395,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -210,7 +210,7 @@
       "available_at": "2026-05-25T04:00:21.000Z",
       "start_scheduled": "2026-05-25T04:00:00.000Z",
       "start_actual": "2026-05-25T04:00:21.000Z",
-      "live_viewers": 2182,
+      "live_viewers": 2223,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -230,7 +230,7 @@
       "available_at": "2026-05-25T05:00:11.000Z",
       "start_scheduled": "2026-05-25T05:00:00.000Z",
       "start_actual": "2026-05-25T05:00:11.000Z",
-      "live_viewers": 960,
+      "live_viewers": 984,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
