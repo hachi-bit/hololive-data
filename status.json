@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779802279,
+  "cached_at": 1779802339,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-26T10:02:26.000Z",
       "start_scheduled": "2026-05-26T10:00:00.000Z",
       "start_actual": "2026-05-26T10:02:26.000Z",
-      "live_viewers": 10499,
+      "live_viewers": 10525,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-26T11:03:32.000Z",
       "start_scheduled": "2026-05-26T11:00:00.000Z",
       "start_actual": "2026-05-26T11:03:32.000Z",
-      "live_viewers": 34931,
+      "live_viewers": 34432,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -349,7 +349,7 @@
       "available_at": "2026-05-26T13:00:12.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "start_actual": "2026-05-26T13:00:12.000Z",
-      "live_viewers": 1549,
+      "live_viewers": 1650,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -369,7 +369,7 @@
       "available_at": "2026-05-26T13:00:51.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "start_actual": "2026-05-26T13:00:51.000Z",
-      "live_viewers": 114,
+      "live_viewers": 112,
       "channel": {
         "id": "UCJlcEuTs4LNMPn0xL3czRrA",
         "name": "ONShannon ",
@@ -389,7 +389,7 @@
       "available_at": "2026-05-26T13:00:57.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "start_actual": "2026-05-26T13:00:57.000Z",
-      "live_viewers": 756,
+      "live_viewers": 758,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -409,7 +409,7 @@
       "available_at": "2026-05-26T13:01:05.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "start_actual": "2026-05-26T13:01:05.000Z",
-      "live_viewers": 272,
+      "live_viewers": 268,
       "channel": {
         "id": "UCyapmNSsYj2KkoQEhZEhxrw",
         "name": "Elaine Celestia Ch.『 Re:Memories 』",
@@ -449,7 +449,7 @@
       "available_at": "2026-05-26T13:02:15.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "start_actual": "2026-05-26T13:02:15.000Z",
-      "live_viewers": 1324,
+      "live_viewers": 1346,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -469,7 +469,7 @@
       "available_at": "2026-05-26T13:15:29.000Z",
       "start_scheduled": "2026-05-26T13:15:00.000Z",
       "start_actual": "2026-05-26T13:15:29.000Z",
-      "live_viewers": 19737,
+      "live_viewers": 20830,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -477,6 +477,63 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp6993wxpyDPHUpavwDFqgg": {
+      "video_id": "r_NA2Egnuls",
+      "title": "【歌枠】今日も楽しく歌っていこう!!【ホロライブ/ときのそら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-26T12:35:15.000Z",
+      "available_at": "2026-05-26T13:30:00.000Z",
+      "start_scheduled": "2026-05-26T13:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCp6993wxpyDPHUpavwDFqgg",
+        "name": "SoraCh. ときのそらチャンネル",
+        "english_name": "Tokino Sora",
+        "org": "Hololive",
+        "suborg": "0v0th Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "EdlkUdyDSyE",
+      "title": "【歌枠 / karaoke】そんなに話しません  / アステル",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-26T12:44:31.000Z",
+      "available_at": "2026-05-26T13:30:00.000Z",
+      "start_scheduled": "2026-05-26T13:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
+      "video_id": "ykmdGO5O01c",
+      "title": "【Forza Horizon 6】みんなで深夜ドライブ🌃【水宮枢/ホロライブDEV_IS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-05-25T19:17:46.000Z",
+      "available_at": "2026-05-26T13:30:00.000Z",
+      "start_scheduled": "2026-05-26T13:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+        "name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "english_name": "Mizumiya Su",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
