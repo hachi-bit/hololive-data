@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779754639,
+  "cached_at": 1779754699,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -69,7 +69,7 @@
       "available_at": "2026-05-25T23:30:46.000Z",
       "start_scheduled": "2026-05-25T23:30:00.000Z",
       "start_actual": "2026-05-25T23:30:46.000Z",
-      "live_viewers": 5429,
+      "live_viewers": 5385,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -89,7 +89,7 @@
       "available_at": "2026-05-26T00:02:47.000Z",
       "start_scheduled": "2026-05-26T00:00:00.000Z",
       "start_actual": "2026-05-26T00:02:47.000Z",
-      "live_viewers": 4322,
+      "live_viewers": 4486,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -97,6 +97,26 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCMwGHR0BTZuLsmjY_NT5Pwg": {
+      "video_id": "SbYxNyu5Zn4",
+      "title": "【ENigmatic Recollection】Believe!!!!【#2】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-25T07:34:07.000Z",
+      "available_at": "2026-05-26T00:16:06.000Z",
+      "start_scheduled": "2026-05-26T00:15:00.000Z",
+      "start_actual": "2026-05-26T00:16:06.000Z",
+      "live_viewers": 600,
+      "channel": {
+        "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "name": "Ninomae Ina'nis Ch. hololive-EN",
+        "english_name": "Ninomae Ina'nis",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
