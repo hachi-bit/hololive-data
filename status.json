@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779818599,
+  "cached_at": 1779818660,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-26T12:05:48.000Z",
       "start_scheduled": "2026-05-26T12:00:00.000Z",
       "start_actual": "2026-05-26T12:05:48.000Z",
-      "live_viewers": 6345,
+      "live_viewers": 6399,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-26T14:01:39.000Z",
       "start_scheduled": "2026-05-26T14:00:00.000Z",
       "start_actual": "2026-05-26T14:01:39.000Z",
-      "live_viewers": 5886,
+      "live_viewers": 5813,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-26T14:01:54.000Z",
       "start_scheduled": "2026-05-26T14:00:00.000Z",
       "start_actual": "2026-05-26T14:01:54.000Z",
-      "live_viewers": 1183,
+      "live_viewers": 1193,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -98,26 +98,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCOyYb1c43VlX9rc_lT6NKQw": {
-      "video_id": "LgT4jew9mgA",
-      "title": "UNARCHIVED",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-26T15:36:41.000Z",
-      "available_at": "2026-05-26T15:44:49.000Z",
-      "start_scheduled": "2026-05-26T15:45:00.000Z",
-      "start_actual": "2026-05-26T15:44:49.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-        "name": "Ayunda Risu Ch. hololive-ID",
-        "english_name": "Ayunda Risu",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
