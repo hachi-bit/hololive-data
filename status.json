@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779756499,
+  "cached_at": 1779756559,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-25T23:30:46.000Z",
       "start_scheduled": "2026-05-25T23:30:00.000Z",
       "start_actual": "2026-05-25T23:30:46.000Z",
-      "live_viewers": 4896,
+      "live_viewers": 4636,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-26T00:02:47.000Z",
       "start_scheduled": "2026-05-26T00:00:00.000Z",
       "start_actual": "2026-05-26T00:02:47.000Z",
-      "live_viewers": 5473,
+      "live_viewers": 5459,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-26T00:16:06.000Z",
       "start_scheduled": "2026-05-26T00:15:00.000Z",
       "start_actual": "2026-05-26T00:16:06.000Z",
-      "live_viewers": 3489,
+      "live_viewers": 3624,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-26T00:29:40.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:29:40.000Z",
-      "live_viewers": 2132,
+      "live_viewers": 2273,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
