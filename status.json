@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779783139,
+  "cached_at": 1779783199,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-26T07:08:18.000Z",
       "start_scheduled": "2026-05-26T07:05:00.000Z",
       "start_actual": "2026-05-26T07:08:18.000Z",
-      "live_viewers": 15025,
+      "live_viewers": 14651,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -58,6 +58,26 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAHQGIKolfBfoeXXMY79SBA": {
+      "video_id": "zb4AAARmpsw",
+      "title": "【 League of Legends #LTK 】DD  Masters 応援!!!!!【白那しずく / ネオポルテ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-05-26T07:58:04.000Z",
+      "available_at": "2026-05-26T08:09:03.000Z",
+      "start_scheduled": "2026-05-26T08:10:00.000Z",
+      "start_actual": "2026-05-26T08:09:03.000Z",
+      "live_viewers": 173,
+      "channel": {
+        "id": "UCAHQGIKolfBfoeXXMY79SBA",
+        "name": "白那しずく",
+        "english_name": "Shirona Shizuku",
+        "org": "Neo-Porte",
+        "suborg": "0k5th Generation",
+        "photo": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
