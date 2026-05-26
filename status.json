@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779796639,
+  "cached_at": 1779796699,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -20,26 +20,6 @@
         "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "7q4vZT96nEc",
-      "title": "【スーパーマリオ64】完全初見!初めてのマリオ64に挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mario_64",
-      "published_at": "2026-05-26T06:26:03.000Z",
-      "available_at": "2026-05-26T09:03:17.000Z",
-      "start_scheduled": "2026-05-26T09:00:00.000Z",
-      "start_actual": "2026-05-26T09:03:17.000Z",
-      "live_viewers": 3492,
-      "channel": {
-        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "english_name": "Kikirara Vivi",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "fi8hjxILdR4",
       "title": "【 R.E.P.O.コラボ 】ソロ練習の成果は出せるのらか?!【姫森ルーナ/ホロライブ】",
@@ -50,7 +30,7 @@
       "available_at": "2026-05-26T09:58:53.000Z",
       "start_scheduled": "2026-05-26T10:00:00.000Z",
       "start_actual": "2026-05-26T09:58:53.000Z",
-      "live_viewers": 7485,
+      "live_viewers": 7692,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -70,7 +50,7 @@
       "available_at": "2026-05-26T09:59:39.000Z",
       "start_scheduled": "2026-05-26T10:00:00.000Z",
       "start_actual": "2026-05-26T09:59:39.000Z",
-      "live_viewers": 1609,
+      "live_viewers": 1459,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -130,7 +110,7 @@
       "available_at": "2026-05-26T10:02:26.000Z",
       "start_scheduled": "2026-05-26T10:00:00.000Z",
       "start_actual": "2026-05-26T10:02:26.000Z",
-      "live_viewers": 11770,
+      "live_viewers": 12065,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -150,7 +130,7 @@
       "available_at": "2026-05-26T11:00:09.000Z",
       "start_scheduled": "2026-05-26T11:00:00.000Z",
       "start_actual": "2026-05-26T11:00:09.000Z",
-      "live_viewers": 18839,
+      "live_viewers": 19369,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -230,7 +210,7 @@
       "available_at": "2026-05-26T11:03:32.000Z",
       "start_scheduled": "2026-05-26T11:00:00.000Z",
       "start_actual": "2026-05-26T11:03:32.000Z",
-      "live_viewers": 39173,
+      "live_viewers": 39834,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -238,6 +218,26 @@
         "org": "Hololive",
         "suborg": "0y0th Generation",
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+      "video_id": "Ugqw-uOaGWA",
+      "title": "【R.E.P.O.】 枠ガチャに失敗したSOLOREPOの会【ホロライブ/白上フブキ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-05-26T11:43:15.000Z",
+      "available_at": "2026-05-26T11:54:57.000Z",
+      "start_scheduled": "2026-05-26T12:00:00.000Z",
+      "start_actual": "2026-05-26T11:54:57.000Z",
+      "live_viewers": 5099,
+      "channel": {
+        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "name": "フブキCh。白上フブキ",
+        "english_name": "Shirakami Fubuki",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
