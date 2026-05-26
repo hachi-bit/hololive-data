@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779800779,
+  "cached_at": 1779800840,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-26T09:58:53.000Z",
       "start_scheduled": "2026-05-26T10:00:00.000Z",
       "start_actual": "2026-05-26T09:58:53.000Z",
-      "live_viewers": 6120,
+      "live_viewers": 6175,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-26T10:02:26.000Z",
       "start_scheduled": "2026-05-26T10:00:00.000Z",
       "start_actual": "2026-05-26T10:02:26.000Z",
-      "live_viewers": 10680,
+      "live_viewers": 10727,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -310,7 +310,7 @@
       "available_at": "2026-05-26T12:58:18.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "start_actual": "2026-05-26T12:58:18.000Z",
-      "live_viewers": 399,
+      "live_viewers": 472,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -318,44 +318,6 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCc88OV45ICgHbn3ZqLLb52w": {
-      "video_id": "X6BdLOSLdro",
-      "title": "雑談｜明日から元気に配信するために。皆で花火でもしません？ - 夜十神封魔/ホロスターズ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-26T12:14:23.000Z",
-      "available_at": "2026-05-26T13:00:00.000Z",
-      "start_scheduled": "2026-05-26T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCc88OV45ICgHbn3ZqLLb52w",
-        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-        "english_name": "Yatogami Fuma",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
-      "video_id": "uwZS11eMRTM",
-      "title": "【 雑談 】  【 ホロスターズ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-26T00:30:58.000Z",
-      "available_at": "2026-05-26T13:00:00.000Z",
-      "start_scheduled": "2026-05-26T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
-        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
-        "english_name": "Utsugi Uyu",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
@@ -377,23 +339,23 @@
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCOyYb1c43VlX9rc_lT6NKQw": {
-      "video_id": "l7RuCC6ThwY",
-      "title": "BAPAK BAPAK KOMPLEK Bermain permainan kawan terkutuk",
+    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
+      "video_id": "uwZS11eMRTM",
+      "title": "【 雑談 】  【 ホロスターズ 】",
       "type": "stream",
       "status": "live",
-      "topic_id": "Cursed_Companions",
-      "published_at": "2026-05-26T02:36:28.000Z",
+      "topic_id": "talk",
+      "published_at": "2026-05-26T00:30:58.000Z",
       "available_at": "2026-05-26T13:00:00.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "live_viewers": 0,
       "channel": {
-        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-        "name": "Ayunda Risu Ch. hololive-ID",
-        "english_name": "Ayunda Risu",
+        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
+        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
+        "english_name": "Utsugi Uyu",
         "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
@@ -406,7 +368,7 @@
       "available_at": "2026-05-26T13:00:12.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "start_actual": "2026-05-26T13:00:12.000Z",
-      "live_viewers": 357,
+      "live_viewers": 900,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -426,7 +388,7 @@
       "available_at": "2026-05-26T13:00:51.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "start_actual": "2026-05-26T13:00:51.000Z",
-      "live_viewers": 34,
+      "live_viewers": 65,
       "channel": {
         "id": "UCJlcEuTs4LNMPn0xL3czRrA",
         "name": "ONShannon ",
@@ -434,6 +396,26 @@
         "org": "AKA Virtual",
         "suborg": "0gChao.5",
         "photo": "https://yt3.ggpht.com/vofOOZs6Rby_Cx6OlTM2YvfIHFm7IfP1ZSmVmxU6_OBiBcnvsl72O5SpSj6ZGPjY5452hWzF=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCOyYb1c43VlX9rc_lT6NKQw": {
+      "video_id": "l7RuCC6ThwY",
+      "title": "BAPAK BAPAK KOMPLEK Bermain permainan kawan terkutuk",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-05-26T02:36:28.000Z",
+      "available_at": "2026-05-26T13:00:57.000Z",
+      "start_scheduled": "2026-05-26T13:00:00.000Z",
+      "start_actual": "2026-05-26T13:00:57.000Z",
+      "live_viewers": 453,
+      "channel": {
+        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+        "name": "Ayunda Risu Ch. hololive-ID",
+        "english_name": "Ayunda Risu",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCyapmNSsYj2KkoQEhZEhxrw": {
@@ -446,7 +428,7 @@
       "available_at": "2026-05-26T13:01:05.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "start_actual": "2026-05-26T13:01:05.000Z",
-      "live_viewers": 52,
+      "live_viewers": 132,
       "channel": {
         "id": "UCyapmNSsYj2KkoQEhZEhxrw",
         "name": "Elaine Celestia Ch.『 Re:Memories 』",
@@ -458,15 +440,15 @@
     },
     "UCdXAk5MpyLD8594lm_OvtGQ": {
       "video_id": "37VNssWwKsk",
-      "title": "【雑談】らでん放浪記～抹茶とか～【儒烏風亭らでん #ReGLOSS 】",
+      "title": "【雑談】らでん放浪記~抹茶とか~【儒烏風亭らでん #ReGLOSS 】",
       "type": "stream",
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-05-26T09:39:03.000Z",
-      "available_at": "2026-05-26T13:01:58.000Z",
+      "available_at": "2026-05-26T13:02:02.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
-      "start_actual": "2026-05-26T13:01:58.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-26T13:02:02.000Z",
+      "live_viewers": 1977,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -474,6 +456,26 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCc88OV45ICgHbn3ZqLLb52w": {
+      "video_id": "X6BdLOSLdro",
+      "title": "雑談|明日から元気に配信するために。皆で花火でもしません? - 夜十神封魔/ホロスターズ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-26T12:14:23.000Z",
+      "available_at": "2026-05-26T13:02:15.000Z",
+      "start_scheduled": "2026-05-26T13:00:00.000Z",
+      "start_actual": "2026-05-26T13:02:15.000Z",
+      "live_viewers": 568,
+      "channel": {
+        "id": "UCc88OV45ICgHbn3ZqLLb52w",
+        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+        "english_name": "Yatogami Fuma",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
