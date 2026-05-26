@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779808279,
+  "cached_at": 1779808339,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-26T11:01:24.000Z",
       "start_scheduled": "2026-05-26T11:00:00.000Z",
       "start_actual": "2026-05-26T11:01:24.000Z",
-      "live_viewers": 7775,
+      "live_viewers": 8627,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -38,26 +38,6 @@
         "org": "Hololive",
         "suborg": "0z0th Generation",
         "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvzGlP9oQwU--Y0r9id_jnA": {
-      "video_id": "if2hHCRP2Kc",
-      "title": "【#生スバル】噂のForza Horizon 6やるしゅばああああああああああああああああああああああああああああああああああああああああああああ!!!!!!!!!!!【ホロライブ/大空スバル】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Forza",
-      "published_at": "2026-05-25T18:35:00.000Z",
-      "available_at": "2026-05-26T12:02:16.000Z",
-      "start_scheduled": "2026-05-26T12:00:00.000Z",
-      "start_actual": "2026-05-26T12:02:16.000Z",
-      "live_viewers": 25329,
-      "channel": {
-        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-        "name": "Subaru Ch. 大空スバル",
-        "english_name": "Oozora Subaru",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC2hx0xVkMoHGWijwr_lA01w": {
@@ -70,7 +50,7 @@
       "available_at": "2026-05-26T12:03:57.000Z",
       "start_scheduled": "2026-05-26T12:00:00.000Z",
       "start_actual": "2026-05-26T12:03:57.000Z",
-      "live_viewers": 344,
+      "live_viewers": 358,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
