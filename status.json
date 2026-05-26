@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779757578,
+  "cached_at": 1779757639,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-25T23:06:57.000Z",
       "start_scheduled": "2026-05-25T23:15:00.000Z",
       "start_actual": "2026-05-25T23:06:57.000Z",
-      "live_viewers": 394,
+      "live_viewers": 370,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-26T00:02:47.000Z",
       "start_scheduled": "2026-05-26T00:00:00.000Z",
       "start_actual": "2026-05-26T00:02:47.000Z",
-      "live_viewers": 5397,
+      "live_viewers": 4836,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-26T00:16:06.000Z",
       "start_scheduled": "2026-05-26T00:15:00.000Z",
       "start_actual": "2026-05-26T00:16:06.000Z",
-      "live_viewers": 3916,
+      "live_viewers": 3866,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-26T00:29:40.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:29:40.000Z",
-      "live_viewers": 2514,
+      "live_viewers": 2256,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-26T00:55:24.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:55:24.000Z",
-      "live_viewers": 1414,
+      "live_viewers": 1595,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-26T00:55:57.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:55:57.000Z",
-      "live_viewers": 710,
+      "live_viewers": 832,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-26T00:57:23.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:57:23.000Z",
-      "live_viewers": 1292,
+      "live_viewers": 1517,
       "channel": {
         "id": "UCW5uhrG1eCBYditmhL0Ykjw",
         "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-26T00:59:57.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:59:57.000Z",
-      "live_viewers": 1237,
+      "live_viewers": 1726,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -198,45 +198,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCl69AEx4MdqMZH7Jtsm7Tig": {
-      "video_id": "uSz1tR2SU28",
-      "title": "【ENigmatic Recollection 3】Is this a simulation?!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-25T14:13:47.000Z",
-      "available_at": "2026-05-26T01:00:00.000Z",
-      "start_scheduled": "2026-05-26T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
-        "name": "Raora Panthera Ch. hololive-EN",
-        "english_name": "Raora Panthera",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
-      "video_id": "t0aLqfBeqK0",
-      "title": "≪ENigmatic Recollection: Chapter 3≫ RIVER PRINCE #2",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-25T13:10:24.000Z",
-      "available_at": "2026-05-26T01:01:07.000Z",
-      "start_scheduled": "2026-05-26T01:00:00.000Z",
-      "start_actual": "2026-05-26T01:01:07.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "name": "Hakos Baelz Ch. hololive-EN",
-        "english_name": "Hakos Baelz",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCDHABijvPBnJm7F-KlNME3w": {
@@ -249,7 +210,7 @@
       "available_at": "2026-05-26T01:01:20.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T01:01:20.000Z",
-      "live_viewers": 1676,
+      "live_viewers": 2765,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -257,6 +218,46 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
+      "video_id": "t0aLqfBeqK0",
+      "title": "≪ENigmatic Recollection: Chapter 3≫ RIVER PRINCE #2",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-25T13:10:24.000Z",
+      "available_at": "2026-05-26T01:01:56.000Z",
+      "start_scheduled": "2026-05-26T01:00:00.000Z",
+      "start_actual": "2026-05-26T01:01:56.000Z",
+      "live_viewers": 746,
+      "channel": {
+        "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "name": "Hakos Baelz Ch. hololive-EN",
+        "english_name": "Hakos Baelz",
+        "org": "Hololive",
+        "suborg": "ibEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCl69AEx4MdqMZH7Jtsm7Tig": {
+      "video_id": "uSz1tR2SU28",
+      "title": "【ENigmatic Recollection 3】Is this a simulation?!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-25T14:13:47.000Z",
+      "available_at": "2026-05-26T01:03:37.000Z",
+      "start_scheduled": "2026-05-26T01:00:00.000Z",
+      "start_actual": "2026-05-26T01:03:37.000Z",
+      "live_viewers": 581,
+      "channel": {
+        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
+        "name": "Raora Panthera Ch. hololive-EN",
+        "english_name": "Raora Panthera",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
