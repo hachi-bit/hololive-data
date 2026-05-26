@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779755479,
+  "cached_at": 1779755539,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-25T23:30:46.000Z",
       "start_scheduled": "2026-05-25T23:30:00.000Z",
       "start_actual": "2026-05-25T23:30:46.000Z",
-      "live_viewers": 5042,
+      "live_viewers": 4925,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-26T00:02:47.000Z",
       "start_scheduled": "2026-05-26T00:00:00.000Z",
       "start_actual": "2026-05-26T00:02:47.000Z",
-      "live_viewers": 5183,
+      "live_viewers": 5264,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-26T00:16:06.000Z",
       "start_scheduled": "2026-05-26T00:15:00.000Z",
       "start_actual": "2026-05-26T00:16:06.000Z",
-      "live_viewers": 2623,
+      "live_viewers": 2764,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -98,6 +98,26 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_sFNM0z0MWm9A6WlKPuMMg": {
+      "video_id": "JixD1DhcNgc",
+      "title": "From her hands | ENReco Ch. 3",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-25T09:39:53.000Z",
+      "available_at": "2026-05-26T00:29:40.000Z",
+      "start_scheduled": "2026-05-26T01:00:00.000Z",
+      "start_actual": "2026-05-26T00:29:40.000Z",
+      "live_viewers": 346,
+      "channel": {
+        "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+        "name": "Nerissa Ravencroft Ch. hololive-EN",
+        "english_name": "Nerissa Ravencroft",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
