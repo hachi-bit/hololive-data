@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779801979,
+  "cached_at": 1779802039,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-26T09:58:53.000Z",
       "start_scheduled": "2026-05-26T10:00:00.000Z",
       "start_actual": "2026-05-26T09:58:53.000Z",
-      "live_viewers": 6044,
+      "live_viewers": 6042,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-26T10:00:29.000Z",
       "start_scheduled": "2026-05-26T10:00:00.000Z",
       "start_actual": "2026-05-26T10:00:29.000Z",
-      "live_viewers": 3756,
+      "live_viewers": 3738,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-26T10:02:26.000Z",
       "start_scheduled": "2026-05-26T10:00:00.000Z",
       "start_actual": "2026-05-26T10:02:26.000Z",
-      "live_viewers": 10567,
+      "live_viewers": 10524,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-26T11:01:24.000Z",
       "start_scheduled": "2026-05-26T11:00:00.000Z",
       "start_actual": "2026-05-26T11:01:24.000Z",
-      "live_viewers": 8445,
+      "live_viewers": 8734,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -210,7 +210,7 @@
       "available_at": "2026-05-26T12:02:16.000Z",
       "start_scheduled": "2026-05-26T12:00:00.000Z",
       "start_actual": "2026-05-26T12:02:16.000Z",
-      "live_viewers": 33049,
+      "live_viewers": 33957,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -230,7 +230,7 @@
       "available_at": "2026-05-26T12:02:25.000Z",
       "start_scheduled": "2026-05-26T12:00:00.000Z",
       "start_actual": "2026-05-26T12:02:25.000Z",
-      "live_viewers": 1153,
+      "live_viewers": 1134,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -250,7 +250,7 @@
       "available_at": "2026-05-26T12:03:57.000Z",
       "start_scheduled": "2026-05-26T12:00:00.000Z",
       "start_actual": "2026-05-26T12:03:57.000Z",
-      "live_viewers": 342,
+      "live_viewers": 370,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -310,7 +310,7 @@
       "available_at": "2026-05-26T12:58:18.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "start_actual": "2026-05-26T12:58:18.000Z",
-      "live_viewers": 628,
+      "live_viewers": 594,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -349,7 +349,7 @@
       "available_at": "2026-05-26T13:00:12.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "start_actual": "2026-05-26T13:00:12.000Z",
-      "live_viewers": 1677,
+      "live_viewers": 1653,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -369,7 +369,7 @@
       "available_at": "2026-05-26T13:00:51.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "start_actual": "2026-05-26T13:00:51.000Z",
-      "live_viewers": 104,
+      "live_viewers": 108,
       "channel": {
         "id": "UCJlcEuTs4LNMPn0xL3czRrA",
         "name": "ONShannon ",
@@ -389,7 +389,7 @@
       "available_at": "2026-05-26T13:00:57.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "start_actual": "2026-05-26T13:00:57.000Z",
-      "live_viewers": 773,
+      "live_viewers": 776,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -409,7 +409,7 @@
       "available_at": "2026-05-26T13:01:05.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "start_actual": "2026-05-26T13:01:05.000Z",
-      "live_viewers": 257,
+      "live_viewers": 245,
       "channel": {
         "id": "UCyapmNSsYj2KkoQEhZEhxrw",
         "name": "Elaine Celestia Ch.『 Re:Memories 』",
@@ -429,7 +429,7 @@
       "available_at": "2026-05-26T13:02:02.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "start_actual": "2026-05-26T13:02:02.000Z",
-      "live_viewers": 4025,
+      "live_viewers": 4112,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -449,7 +449,7 @@
       "available_at": "2026-05-26T13:02:15.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "start_actual": "2026-05-26T13:02:15.000Z",
-      "live_viewers": 1157,
+      "live_viewers": 1231,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -469,7 +469,7 @@
       "available_at": "2026-05-26T13:15:29.000Z",
       "start_scheduled": "2026-05-26T13:15:00.000Z",
       "start_actual": "2026-05-26T13:15:29.000Z",
-      "live_viewers": 15490,
+      "live_viewers": 17168,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
