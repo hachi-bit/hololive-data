@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779757399,
+  "cached_at": 1779757460,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-25T23:06:57.000Z",
       "start_scheduled": "2026-05-25T23:15:00.000Z",
       "start_actual": "2026-05-25T23:06:57.000Z",
-      "live_viewers": 391,
+      "live_viewers": 394,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-25T23:30:46.000Z",
       "start_scheduled": "2026-05-25T23:30:00.000Z",
       "start_actual": "2026-05-25T23:30:46.000Z",
-      "live_viewers": 4636,
+      "live_viewers": 4147,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-26T00:29:40.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:29:40.000Z",
-      "live_viewers": 2580,
+      "live_viewers": 2514,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-26T00:55:24.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:55:24.000Z",
-      "live_viewers": 1204,
+      "live_viewers": 1414,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-26T00:55:57.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:55:57.000Z",
-      "live_viewers": 584,
+      "live_viewers": 710,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-26T00:57:23.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:57:23.000Z",
-      "live_viewers": 1068,
+      "live_viewers": 1292,
       "channel": {
         "id": "UCW5uhrG1eCBYditmhL0Ykjw",
         "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-26T00:59:57.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:59:57.000Z",
-      "live_viewers": 1066,
+      "live_viewers": 1237,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -198,44 +198,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
-      "video_id": "t0aLqfBeqK0",
-      "title": "≪ENigmatic Recollection: Chapter 3≫ RIVER PRINCE #2",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-25T13:10:24.000Z",
-      "available_at": "2026-05-26T01:00:00.000Z",
-      "start_scheduled": "2026-05-26T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "name": "Hakos Baelz Ch. hololive-EN",
-        "english_name": "Hakos Baelz",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCDHABijvPBnJm7F-KlNME3w": {
-      "video_id": "J8CAzdF1qb4",
-      "title": "【ENigmatic Recollection: Chapter 3】just put the fries in the bag gonathon",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-25T11:43:12.000Z",
-      "available_at": "2026-05-26T01:00:00.000Z",
-      "start_scheduled": "2026-05-26T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCDHABijvPBnJm7F-KlNME3w",
-        "name": "Gigi Murin Ch. hololive-EN",
-        "english_name": "Gigi Murin",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCl69AEx4MdqMZH7Jtsm7Tig": {
@@ -255,6 +217,46 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
+      "video_id": "t0aLqfBeqK0",
+      "title": "≪ENigmatic Recollection: Chapter 3≫ RIVER PRINCE #2",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-25T13:10:24.000Z",
+      "available_at": "2026-05-26T01:01:07.000Z",
+      "start_scheduled": "2026-05-26T01:00:00.000Z",
+      "start_actual": "2026-05-26T01:01:07.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "name": "Hakos Baelz Ch. hololive-EN",
+        "english_name": "Hakos Baelz",
+        "org": "Hololive",
+        "suborg": "ibEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCDHABijvPBnJm7F-KlNME3w": {
+      "video_id": "J8CAzdF1qb4",
+      "title": "【ENigmatic Recollection: Chapter 3】just put the fries in the bag gonathon",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-25T11:43:12.000Z",
+      "available_at": "2026-05-26T01:01:20.000Z",
+      "start_scheduled": "2026-05-26T01:00:00.000Z",
+      "start_actual": "2026-05-26T01:01:20.000Z",
+      "live_viewers": 1676,
+      "channel": {
+        "id": "UCDHABijvPBnJm7F-KlNME3w",
+        "name": "Gigi Murin Ch. hololive-EN",
+        "english_name": "Gigi Murin",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
