@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779760159,
+  "cached_at": 1779760220,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-26T00:02:47.000Z",
       "start_scheduled": "2026-05-26T00:00:00.000Z",
       "start_actual": "2026-05-26T00:02:47.000Z",
-      "live_viewers": 3791,
+      "live_viewers": 3750,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-26T00:55:24.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:55:24.000Z",
-      "live_viewers": 2073,
+      "live_viewers": 2134,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-26T00:55:57.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:55:57.000Z",
-      "live_viewers": 1211,
+      "live_viewers": 1223,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -250,7 +250,7 @@
       "available_at": "2026-05-26T01:03:37.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T01:03:37.000Z",
-      "live_viewers": 1216,
+      "live_viewers": 1224,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
