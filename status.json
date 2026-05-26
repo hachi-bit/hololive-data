@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779762679,
+  "cached_at": 1779762739,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-25T23:30:46.000Z",
       "start_scheduled": "2026-05-25T23:30:00.000Z",
       "start_actual": "2026-05-25T23:30:46.000Z",
-      "live_viewers": 2944,
+      "live_viewers": 2817,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-26T00:02:47.000Z",
       "start_scheduled": "2026-05-26T00:00:00.000Z",
       "start_actual": "2026-05-26T00:02:47.000Z",
-      "live_viewers": 3645,
+      "live_viewers": 3530,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-26T00:16:06.000Z",
       "start_scheduled": "2026-05-26T00:15:00.000Z",
       "start_actual": "2026-05-26T00:16:06.000Z",
-      "live_viewers": 4009,
+      "live_viewers": 3941,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-26T00:29:40.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:29:40.000Z",
-      "live_viewers": 2273,
+      "live_viewers": 2259,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-26T00:55:57.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:55:57.000Z",
-      "live_viewers": 1369,
+      "live_viewers": 1306,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -230,7 +230,7 @@
       "available_at": "2026-05-26T01:03:37.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T01:03:37.000Z",
-      "live_viewers": 1342,
+      "live_viewers": 1328,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
