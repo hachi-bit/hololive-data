@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779809359,
+  "cached_at": 1779809419,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-26T11:01:24.000Z",
       "start_scheduled": "2026-05-26T11:00:00.000Z",
       "start_actual": "2026-05-26T11:01:24.000Z",
-      "live_viewers": 9088,
+      "live_viewers": 9131,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-26T12:05:48.000Z",
       "start_scheduled": "2026-05-26T12:00:00.000Z",
       "start_actual": "2026-05-26T12:05:48.000Z",
-      "live_viewers": 7092,
+      "live_viewers": 7069,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -118,26 +118,6 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "Kdc2nFV5z9s",
-      "title": "【一緒にいる枠】無理しない枠【荒咬オウガ /ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-26T11:25:59.000Z",
-      "available_at": "2026-05-26T13:00:12.000Z",
-      "start_scheduled": "2026-05-26T13:00:00.000Z",
-      "start_actual": "2026-05-26T13:00:12.000Z",
-      "live_viewers": 967,
-      "channel": {
-        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "name": "Oga Ch.荒咬オウガ",
-        "english_name": "Aragami Oga",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
@@ -190,7 +170,7 @@
       "available_at": "2026-05-26T13:59:50.000Z",
       "start_scheduled": "2026-05-26T14:00:00.000Z",
       "start_actual": "2026-05-26T13:59:50.000Z",
-      "live_viewers": 2665,
+      "live_viewers": 2702,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -250,7 +230,7 @@
       "available_at": "2026-05-26T15:01:47.000Z",
       "start_scheduled": "2026-05-26T15:00:00.000Z",
       "start_actual": "2026-05-26T15:01:47.000Z",
-      "live_viewers": 1454,
+      "live_viewers": 1518,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
