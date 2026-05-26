@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779832879,
+  "cached_at": 1779832940,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -18,6 +18,25 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCDqI2jOz0weumE8s7paEk6g": {
+      "video_id": "8sl-wPHqlis",
+      "title": "【 朝活】最近のマイブームはばにゃにゃ🍌【ホロライブ/ ロボ子さん 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "morning",
+      "published_at": "2026-05-26T05:50:53.000Z",
+      "available_at": "2026-05-26T22:00:00.000Z",
+      "start_scheduled": "2026-05-26T22:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCDqI2jOz0weumE8s7paEk6g",
+        "name": "Roboco Ch. - ロボ子",
+        "english_name": "Robocosan",
+        "org": "Hololive",
+        "suborg": "0w0th Generation",
+        "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
