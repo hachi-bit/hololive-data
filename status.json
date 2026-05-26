@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779807919,
+  "cached_at": 1779807980,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -18,26 +18,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvInZx9h3jC2JzsIzoOebWg": {
-      "video_id": "f0Tbmxfbjc0",
-      "title": "【R.E.P.O.】今夜のREPOです！通してください！【不知火フレア/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-05-26T08:11:50.000Z",
-      "available_at": "2026-05-26T10:02:19.000Z",
-      "start_scheduled": "2026-05-26T10:00:00.000Z",
-      "start_actual": "2026-05-26T10:02:19.000Z",
-      "live_viewers": 4143,
-      "channel": {
-        "id": "UCvInZx9h3jC2JzsIzoOebWg",
-        "name": "Flare Ch. 不知火フレア",
-        "english_name": "Shiranui Flare",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
@@ -90,7 +70,7 @@
       "available_at": "2026-05-26T12:02:16.000Z",
       "start_scheduled": "2026-05-26T12:00:00.000Z",
       "start_actual": "2026-05-26T12:02:16.000Z",
-      "live_viewers": 33596,
+      "live_viewers": 31065,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -150,7 +130,7 @@
       "available_at": "2026-05-26T12:05:48.000Z",
       "start_scheduled": "2026-05-26T12:00:00.000Z",
       "start_actual": "2026-05-26T12:05:48.000Z",
-      "live_viewers": 6330,
+      "live_viewers": 6457,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -170,7 +150,7 @@
       "available_at": "2026-05-26T12:58:18.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "start_actual": "2026-05-26T12:58:18.000Z",
-      "live_viewers": 617,
+      "live_viewers": 680,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
