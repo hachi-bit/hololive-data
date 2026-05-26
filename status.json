@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779800359,
+  "cached_at": 1779800420,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-26T09:58:53.000Z",
       "start_scheduled": "2026-05-26T10:00:00.000Z",
       "start_actual": "2026-05-26T09:58:53.000Z",
-      "live_viewers": 6223,
+      "live_viewers": 6230,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-26T10:00:29.000Z",
       "start_scheduled": "2026-05-26T10:00:00.000Z",
       "start_actual": "2026-05-26T10:00:29.000Z",
-      "live_viewers": 3978,
+      "live_viewers": 3896,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-26T10:02:26.000Z",
       "start_scheduled": "2026-05-26T10:00:00.000Z",
       "start_actual": "2026-05-26T10:02:26.000Z",
-      "live_viewers": 10885,
+      "live_viewers": 10680,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-26T11:00:09.000Z",
       "start_scheduled": "2026-05-26T11:00:00.000Z",
       "start_actual": "2026-05-26T11:00:09.000Z",
-      "live_viewers": 18422,
+      "live_viewers": 18363,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-26T11:03:32.000Z",
       "start_scheduled": "2026-05-26T11:00:00.000Z",
       "start_actual": "2026-05-26T11:03:32.000Z",
-      "live_viewers": 34463,
+      "live_viewers": 34573,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-26T11:54:57.000Z",
       "start_scheduled": "2026-05-26T12:00:00.000Z",
       "start_actual": "2026-05-26T11:54:57.000Z",
-      "live_viewers": 12220,
+      "live_viewers": 12064,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -210,7 +210,7 @@
       "available_at": "2026-05-26T12:02:16.000Z",
       "start_scheduled": "2026-05-26T12:00:00.000Z",
       "start_actual": "2026-05-26T12:02:16.000Z",
-      "live_viewers": 39211,
+      "live_viewers": 38152,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -230,7 +230,7 @@
       "available_at": "2026-05-26T12:02:25.000Z",
       "start_scheduled": "2026-05-26T12:00:00.000Z",
       "start_actual": "2026-05-26T12:02:25.000Z",
-      "live_viewers": 1312,
+      "live_viewers": 1370,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -250,7 +250,7 @@
       "available_at": "2026-05-26T12:03:57.000Z",
       "start_scheduled": "2026-05-26T12:00:00.000Z",
       "start_actual": "2026-05-26T12:03:57.000Z",
-      "live_viewers": 353,
+      "live_viewers": 370,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -298,6 +298,26 @@
         "org": "Hololive",
         "suborg": "iaEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTvHWSfBZgtxE4sILOaurIQ": {
+      "video_id": "gTPKcc_bU7Q",
+      "title": "【Z.A.T.O. // I Love the World and Everything In It】 #1  ※Spoilers",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-26T10:40:34.000Z",
+      "available_at": "2026-05-26T12:58:18.000Z",
+      "start_scheduled": "2026-05-26T13:00:00.000Z",
+      "start_actual": "2026-05-26T12:58:18.000Z",
+      "live_viewers": 246,
+      "channel": {
+        "id": "UCTvHWSfBZgtxE4sILOaurIQ",
+        "name": "Vestia Zeta Ch. hololive-ID",
+        "english_name": "Vestia Zeta",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
