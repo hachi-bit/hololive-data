@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779806899,
+  "cached_at": 1779806959,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-26T10:00:29.000Z",
       "start_scheduled": "2026-05-26T10:00:00.000Z",
       "start_actual": "2026-05-26T10:00:29.000Z",
-      "live_viewers": 3250,
+      "live_viewers": 3182,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-26T10:02:26.000Z",
       "start_scheduled": "2026-05-26T10:00:00.000Z",
       "start_actual": "2026-05-26T10:02:26.000Z",
-      "live_viewers": 11092,
+      "live_viewers": 11037,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-26T11:00:09.000Z",
       "start_scheduled": "2026-05-26T11:00:00.000Z",
       "start_actual": "2026-05-26T11:00:09.000Z",
-      "live_viewers": 17291,
+      "live_viewers": 17441,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-26T11:01:24.000Z",
       "start_scheduled": "2026-05-26T11:00:00.000Z",
       "start_actual": "2026-05-26T11:01:24.000Z",
-      "live_viewers": 8004,
+      "live_viewers": 7797,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -158,26 +158,6 @@
         "org": "Hololive",
         "suborg": "0z0th Generation",
         "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "Ugqw-uOaGWA",
-      "title": "【R.E.P.O.】 枠ガチャに失敗したSOLOREPOの会【ホロライブ/白上フブキ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-05-26T11:43:15.000Z",
-      "available_at": "2026-05-26T11:54:57.000Z",
-      "start_scheduled": "2026-05-26T12:00:00.000Z",
-      "start_actual": "2026-05-26T11:54:57.000Z",
-      "live_viewers": 6886,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "フブキCh。白上フブキ",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvzGlP9oQwU--Y0r9id_jnA": {
@@ -190,7 +170,7 @@
       "available_at": "2026-05-26T12:02:16.000Z",
       "start_scheduled": "2026-05-26T12:00:00.000Z",
       "start_actual": "2026-05-26T12:02:16.000Z",
-      "live_viewers": 30782,
+      "live_viewers": 30567,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -230,7 +210,7 @@
       "available_at": "2026-05-26T12:03:57.000Z",
       "start_scheduled": "2026-05-26T12:00:00.000Z",
       "start_actual": "2026-05-26T12:03:57.000Z",
-      "live_viewers": 336,
+      "live_viewers": 350,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -270,7 +250,7 @@
       "available_at": "2026-05-26T12:05:48.000Z",
       "start_scheduled": "2026-05-26T12:00:00.000Z",
       "start_actual": "2026-05-26T12:05:48.000Z",
-      "live_viewers": 6102,
+      "live_viewers": 6065,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -310,7 +290,7 @@
       "available_at": "2026-05-26T13:00:12.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "start_actual": "2026-05-26T13:00:12.000Z",
-      "live_viewers": 1167,
+      "live_viewers": 1217,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -370,7 +350,7 @@
       "available_at": "2026-05-26T13:01:05.000Z",
       "start_scheduled": "2026-05-26T13:00:00.000Z",
       "start_actual": "2026-05-26T13:01:05.000Z",
-      "live_viewers": 181,
+      "live_viewers": 179,
       "channel": {
         "id": "UCyapmNSsYj2KkoQEhZEhxrw",
         "name": "Elaine Celestia Ch.『 Re:Memories 』",
@@ -390,7 +370,7 @@
       "available_at": "2026-05-26T13:15:29.000Z",
       "start_scheduled": "2026-05-26T13:15:00.000Z",
       "start_actual": "2026-05-26T13:15:29.000Z",
-      "live_viewers": 20144,
+      "live_viewers": 19215,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -450,7 +430,7 @@
       "available_at": "2026-05-26T13:59:48.000Z",
       "start_scheduled": "2026-05-26T14:00:00.000Z",
       "start_actual": "2026-05-26T13:59:48.000Z",
-      "live_viewers": 8525,
+      "live_viewers": 8866,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -470,7 +450,7 @@
       "available_at": "2026-05-26T13:59:50.000Z",
       "start_scheduled": "2026-05-26T14:00:00.000Z",
       "start_actual": "2026-05-26T13:59:50.000Z",
-      "live_viewers": 1543,
+      "live_viewers": 1553,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -490,7 +470,7 @@
       "available_at": "2026-05-26T14:01:39.000Z",
       "start_scheduled": "2026-05-26T14:00:00.000Z",
       "start_actual": "2026-05-26T14:01:39.000Z",
-      "live_viewers": 5453,
+      "live_viewers": 5434,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -510,7 +490,7 @@
       "available_at": "2026-05-26T14:01:54.000Z",
       "start_scheduled": "2026-05-26T14:00:00.000Z",
       "start_actual": "2026-05-26T14:01:54.000Z",
-      "live_viewers": 571,
+      "live_viewers": 580,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
