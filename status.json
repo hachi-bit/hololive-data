@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779769639,
+  "cached_at": 1779769699,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-26T00:16:06.000Z",
       "start_scheduled": "2026-05-26T00:15:00.000Z",
       "start_actual": "2026-05-26T00:16:06.000Z",
-      "live_viewers": 3933,
+      "live_viewers": 3942,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-26T00:55:57.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:55:57.000Z",
-      "live_viewers": 1832,
+      "live_viewers": 1816,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-26T00:59:57.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:59:57.000Z",
-      "live_viewers": 3578,
+      "live_viewers": 3530,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -158,26 +158,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCDHABijvPBnJm7F-KlNME3w": {
-      "video_id": "J8CAzdF1qb4",
-      "title": "【ENigmatic Recollection: Chapter 3】just put the fries in the bag gonathon",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-25T11:43:12.000Z",
-      "available_at": "2026-05-26T01:01:20.000Z",
-      "start_scheduled": "2026-05-26T01:00:00.000Z",
-      "start_actual": "2026-05-26T01:01:20.000Z",
-      "live_viewers": 4836,
-      "channel": {
-        "id": "UCDHABijvPBnJm7F-KlNME3w",
-        "name": "Gigi Murin Ch. hololive-EN",
-        "english_name": "Gigi Murin",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCl69AEx4MdqMZH7Jtsm7Tig": {
@@ -210,7 +190,7 @@
       "available_at": "2026-05-26T03:25:49.000Z",
       "start_scheduled": "2026-05-26T03:25:00.000Z",
       "start_actual": "2026-05-26T03:25:49.000Z",
-      "live_viewers": 4024,
+      "live_viewers": 5462,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
