@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779837799,
+  "cached_at": 1779837860,
   "lives": {
-    "UCDqI2jOz0weumE8s7paEk6g": {
-      "video_id": "8sl-wPHqlis",
-      "title": "【 朝活】最近のマイブームはばにゃにゃ🍌【ホロライブ/ ロボ子さん 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "morning",
-      "published_at": "2026-05-26T05:50:53.000Z",
-      "available_at": "2026-05-26T22:03:57.000Z",
-      "start_scheduled": "2026-05-26T22:00:00.000Z",
-      "start_actual": "2026-05-26T22:03:57.000Z",
-      "live_viewers": 4400,
-      "channel": {
-        "id": "UCDqI2jOz0weumE8s7paEk6g",
-        "name": "Roboco Ch. - ロボ子",
-        "english_name": "Robocosan",
-        "org": "Hololive",
-        "suborg": "0w0th Generation",
-        "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "KS3kMSsyqq8",
       "title": "【雑談】あまりにも早起きした男【夕刻ロベル/ホロスターズ】",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-26T22:45:17.000Z",
       "start_scheduled": "2026-05-26T22:37:35.000Z",
       "start_actual": "2026-05-26T22:45:17.000Z",
-      "live_viewers": 3904,
+      "live_viewers": 4054,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
