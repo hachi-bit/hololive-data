@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779764359,
+  "cached_at": 1779764420,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "0GFWhHCuors",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-26T00:02:47.000Z",
       "start_scheduled": "2026-05-26T00:00:00.000Z",
       "start_actual": "2026-05-26T00:02:47.000Z",
-      "live_viewers": 3559,
+      "live_viewers": 3413,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-26T00:16:06.000Z",
       "start_scheduled": "2026-05-26T00:15:00.000Z",
       "start_actual": "2026-05-26T00:16:06.000Z",
-      "live_viewers": 4016,
+      "live_viewers": 3982,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-26T00:29:40.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:29:40.000Z",
-      "live_viewers": 2293,
+      "live_viewers": 2274,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-26T00:55:24.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:55:24.000Z",
-      "live_viewers": 2372,
+      "live_viewers": 2438,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-26T00:55:57.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:55:57.000Z",
-      "live_viewers": 1335,
+      "live_viewers": 1373,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-26T00:57:23.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T00:57:23.000Z",
-      "live_viewers": 2368,
+      "live_viewers": 2342,
       "channel": {
         "id": "UCW5uhrG1eCBYditmhL0Ykjw",
         "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -230,7 +230,7 @@
       "available_at": "2026-05-26T01:03:37.000Z",
       "start_scheduled": "2026-05-26T01:00:00.000Z",
       "start_actual": "2026-05-26T01:03:37.000Z",
-      "live_viewers": 1313,
+      "live_viewers": 1347,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
