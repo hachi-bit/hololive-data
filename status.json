@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779889699,
+  "cached_at": 1779889760,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "uzQDTBoOm_U",
@@ -122,16 +122,15 @@
       }
     },
     "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "f4yKHZJcDjI",
-      "title": "【#リオナ生誕祭36時】ゲストの皆様と人生ゲームやっていくう【ホロライブ DEV_IS 響咲リオナ】",
+      "video_id": "lInjMdh_aNE",
+      "title": "【#リオナ生誕祭36時】一日の締めに歌雑談🎵【ホロライブ DEV_IS 響咲リオナ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "The_Game_of_Life",
-      "published_at": "2026-05-26T12:12:54.000Z",
-      "available_at": "2026-05-27T11:30:15.000Z",
-      "start_scheduled": "2026-05-27T11:30:00.000Z",
-      "start_actual": "2026-05-27T11:30:15.000Z",
-      "live_viewers": 20839,
+      "topic_id": "talk",
+      "published_at": "2026-05-26T12:15:37.000Z",
+      "available_at": "2026-05-27T13:45:00.000Z",
+      "start_scheduled": "2026-05-27T13:45:00.000Z",
+      "live_viewers": 0,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -171,7 +170,7 @@
       "available_at": "2026-05-27T12:38:59.000Z",
       "start_scheduled": "2026-05-27T12:00:00.000Z",
       "start_actual": "2026-05-27T12:38:59.000Z",
-      "live_viewers": 550,
+      "live_viewers": 540,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -231,7 +230,7 @@
       "available_at": "2026-05-27T13:01:15.000Z",
       "start_scheduled": "2026-05-27T13:00:00.000Z",
       "start_actual": "2026-05-27T13:01:15.000Z",
-      "live_viewers": 592,
+      "live_viewers": 587,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -271,7 +270,7 @@
       "available_at": "2026-05-27T13:30:40.000Z",
       "start_scheduled": "2026-05-27T13:30:00.000Z",
       "start_actual": "2026-05-27T13:30:40.000Z",
-      "live_viewers": 3504,
+      "live_viewers": 3730,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
