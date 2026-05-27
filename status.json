@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779912199,
+  "cached_at": 1779912259,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "6_N9gntmXes",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-27T14:30:04.000Z",
       "start_scheduled": "2026-05-27T14:30:00.000Z",
       "start_actual": "2026-05-27T14:30:04.000Z",
-      "live_viewers": 1995,
+      "live_viewers": 1899,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-27T16:11:51.000Z",
       "start_scheduled": "2026-05-27T16:10:00.000Z",
       "start_actual": "2026-05-27T16:11:51.000Z",
-      "live_viewers": 12312,
+      "live_viewers": 12346,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -79,6 +79,25 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvN5h1ShZtc7nly3pezRayg": {
+      "video_id": "Z7T3X5xNvNk",
+      "title": "【MEMBER STREAM】WITCH HAT ATELIER 4-6 ~ WITCHALONG!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-27T11:33:05.000Z",
+      "available_at": "2026-05-27T20:00:00.000Z",
+      "start_scheduled": "2026-05-27T20:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvN5h1ShZtc7nly3pezRayg",
+        "name": "Cecilia Immergreen Ch. hololive-EN",
+        "english_name": "Cecilia Immergreen",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
