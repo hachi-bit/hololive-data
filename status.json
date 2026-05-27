@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779842719,
+  "cached_at": 1779842780,
   "lives": {
-    "UCL_qhgtOy0dy1Agp8vkySQg": {
-      "video_id": "mlUF4fwJ5EY",
-      "title": "【member's only concert】holo songs ONLY!! #calliolive",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-26T12:48:29.000Z",
-      "available_at": "2026-05-26T23:00:52.000Z",
-      "start_scheduled": "2026-05-26T23:00:00.000Z",
-      "start_actual": "2026-05-26T23:00:52.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-        "name": "Mori Calliope Ch. hololive-EN",
-        "english_name": "Mori Calliope",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "3iXshLxO3-E",
       "title": "【ENigmatic Recollection】Memories broken the truth goes unspoken I've even forgotten my name【Day 3】",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-27T00:00:35.000Z",
       "start_scheduled": "2026-05-27T00:00:00.000Z",
       "start_actual": "2026-05-27T00:00:35.000Z",
-      "live_viewers": 4939,
+      "live_viewers": 5008,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-27T00:00:54.000Z",
       "start_scheduled": "2026-05-27T00:00:00.000Z",
       "start_actual": "2026-05-27T00:00:54.000Z",
-      "live_viewers": 5627,
+      "live_viewers": 5757,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-27T00:03:20.000Z",
       "start_scheduled": "2026-05-27T00:00:00.000Z",
       "start_actual": "2026-05-27T00:03:20.000Z",
-      "live_viewers": 1150,
+      "live_viewers": 1155,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
