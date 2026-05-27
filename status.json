@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779891259,
+  "cached_at": 1779891319,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "uzQDTBoOm_U",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-27T09:57:33.000Z",
       "start_scheduled": "2026-05-27T10:00:00.000Z",
       "start_actual": "2026-05-27T09:57:33.000Z",
-      "live_viewers": 6252,
+      "live_viewers": 6356,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-27T13:01:00.000Z",
       "start_scheduled": "2026-05-27T13:00:00.000Z",
       "start_actual": "2026-05-27T13:01:00.000Z",
-      "live_viewers": 11684,
+      "live_viewers": 11609,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-27T13:02:31.000Z",
       "start_scheduled": "2026-05-27T13:00:00.000Z",
       "start_actual": "2026-05-27T13:02:31.000Z",
-      "live_viewers": 2870,
+      "live_viewers": 2757,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-27T13:30:40.000Z",
       "start_scheduled": "2026-05-27T13:30:00.000Z",
       "start_actual": "2026-05-27T13:30:40.000Z",
-      "live_viewers": 5830,
+      "live_viewers": 5857,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-27T14:00:32.000Z",
       "start_scheduled": "2026-05-27T14:00:00.000Z",
       "start_actual": "2026-05-27T14:00:32.000Z",
-      "live_viewers": 2776,
+      "live_viewers": 3161,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-27T14:01:47.000Z",
       "start_scheduled": "2026-05-27T14:00:00.000Z",
       "start_actual": "2026-05-27T14:01:47.000Z",
-      "live_viewers": 343,
+      "live_viewers": 367,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -248,9 +248,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-05-26T12:15:37.000Z",
-      "available_at": "2026-05-27T14:10:00.000Z",
+      "available_at": "2026-05-27T14:12:25.000Z",
       "start_scheduled": "2026-05-27T14:10:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-27T14:12:25.000Z",
+      "live_viewers": 5056,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
