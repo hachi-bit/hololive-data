@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779913219,
+  "cached_at": 1779913279,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "6_N9gntmXes",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-27T16:06:43.000Z",
       "start_scheduled": "2026-05-27T16:00:00.000Z",
       "start_actual": "2026-05-27T16:06:43.000Z",
-      "live_viewers": 4028,
+      "live_viewers": 3966,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -68,8 +68,9 @@
       "status": "live",
       "topic_id": "membersonly",
       "published_at": "2026-05-27T11:33:05.000Z",
-      "available_at": "2026-05-27T20:00:00.000Z",
+      "available_at": "2026-05-27T20:04:22.000Z",
       "start_scheduled": "2026-05-27T20:00:00.000Z",
+      "start_actual": "2026-05-27T20:04:22.000Z",
       "live_viewers": 0,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
