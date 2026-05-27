@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779896299,
+  "cached_at": 1779896359,
   "lives": {
     "UCtyWhCj3AqKh2dXctLkDtng": {
       "video_id": "K5iKr1TSX84",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-27T13:01:07.000Z",
       "start_scheduled": "2026-05-27T13:00:00.000Z",
       "start_actual": "2026-05-27T13:01:07.000Z",
-      "live_viewers": 4590,
+      "live_viewers": 4603,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "p-7qeMxrjF0",
-      "title": "【雑談】なんかラジオみたいなトーク 第20回【荒咬オウガ  アール/Aru】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-27T08:55:11.000Z",
-      "available_at": "2026-05-27T14:00:32.000Z",
-      "start_scheduled": "2026-05-27T14:00:00.000Z",
-      "start_actual": "2026-05-27T14:00:32.000Z",
-      "live_viewers": 5061,
-      "channel": {
-        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "name": "Oga Ch.荒咬オウガ",
-        "english_name": "Aragami Oga",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
@@ -171,7 +151,7 @@
       "available_at": "2026-05-27T14:46:01.000Z",
       "start_scheduled": "2026-05-27T14:45:00.000Z",
       "start_actual": "2026-05-27T14:46:01.000Z",
-      "live_viewers": 186,
+      "live_viewers": 194,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-27T15:00:43.000Z",
       "start_scheduled": "2026-05-27T15:00:00.000Z",
       "start_actual": "2026-05-27T15:00:43.000Z",
-      "live_viewers": 1069,
+      "live_viewers": 1111,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
