@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779872959,
+  "cached_at": 1779873019,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "ghyyeU4W4ZE",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-27T08:33:43.000Z",
       "start_scheduled": "2026-05-27T08:30:00.000Z",
       "start_actual": "2026-05-27T08:33:43.000Z",
-      "live_viewers": 513,
+      "live_viewers": 493,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -68,9 +68,10 @@
       "status": "live",
       "topic_id": "Bow-wow_Battle",
       "published_at": "2026-05-27T05:14:31.000Z",
-      "available_at": "2026-05-27T09:00:00.000Z",
+      "available_at": "2026-05-27T09:03:59.000Z",
       "start_scheduled": "2026-05-27T09:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-27T09:03:59.000Z",
+      "live_viewers": 397,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
