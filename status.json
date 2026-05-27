@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779888799,
+  "cached_at": 1779888859,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "uzQDTBoOm_U",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-27T09:57:33.000Z",
       "start_scheduled": "2026-05-27T10:00:00.000Z",
       "start_actual": "2026-05-27T09:57:33.000Z",
-      "live_viewers": 6286,
+      "live_viewers": 6153,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-27T11:00:00.000Z",
       "start_scheduled": "2026-05-27T11:00:00.000Z",
       "start_actual": "2026-05-27T11:00:00.000Z",
-      "live_viewers": 8898,
+      "live_viewers": 8419,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-27T11:00:04.000Z",
       "start_scheduled": "2026-05-27T11:00:00.000Z",
       "start_actual": "2026-05-27T11:00:04.000Z",
-      "live_viewers": 20153,
+      "live_viewers": 20413,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-27T11:00:23.000Z",
       "start_scheduled": "2026-05-27T11:00:00.000Z",
       "start_actual": "2026-05-27T11:00:23.000Z",
-      "live_viewers": 984,
+      "live_viewers": 948,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-27T11:01:33.000Z",
       "start_scheduled": "2026-05-27T11:00:00.000Z",
       "start_actual": "2026-05-27T11:01:33.000Z",
-      "live_viewers": 9047,
+      "live_viewers": 9280,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-27T11:30:15.000Z",
       "start_scheduled": "2026-05-27T11:30:00.000Z",
       "start_actual": "2026-05-27T11:30:15.000Z",
-      "live_viewers": 20592,
+      "live_viewers": 20858,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-27T12:05:37.000Z",
       "start_scheduled": "2026-05-27T12:00:00.000Z",
       "start_actual": "2026-05-27T12:05:37.000Z",
-      "live_viewers": 25839,
+      "live_viewers": 27043,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -179,26 +179,6 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
-      "video_id": "JA-jKlkzbfg",
-      "title": "【 同時視聴 】『ドラゴンクエストからのお知らせ』を一緒に予想しながら観よう!!!!!【鷹嶺ルイ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-05-27T04:35:46.000Z",
-      "available_at": "2026-05-27T12:32:32.000Z",
-      "start_scheduled": "2026-05-27T12:30:00.000Z",
-      "start_actual": "2026-05-27T12:32:32.000Z",
-      "live_viewers": 5140,
-      "channel": {
-        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "name": "Lui ch. 鷹嶺ルイ - holoX -",
-        "english_name": "Takane Lui",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChSvpZYRPh0FvG4SJGSga3g": {
@@ -211,7 +191,7 @@
       "available_at": "2026-05-27T12:38:59.000Z",
       "start_scheduled": "2026-05-27T12:00:00.000Z",
       "start_actual": "2026-05-27T12:38:59.000Z",
-      "live_viewers": 556,
+      "live_viewers": 543,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-27T13:01:00.000Z",
       "start_scheduled": "2026-05-27T13:00:00.000Z",
       "start_actual": "2026-05-27T13:01:00.000Z",
-      "live_viewers": 9230,
+      "live_viewers": 9524,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-27T13:01:07.000Z",
       "start_scheduled": "2026-05-27T13:00:00.000Z",
       "start_actual": "2026-05-27T13:01:07.000Z",
-      "live_viewers": 2809,
+      "live_viewers": 3017,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-27T13:01:15.000Z",
       "start_scheduled": "2026-05-27T13:00:00.000Z",
       "start_actual": "2026-05-27T13:01:15.000Z",
-      "live_viewers": 473,
+      "live_viewers": 517,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-27T13:02:31.000Z",
       "start_scheduled": "2026-05-27T13:00:00.000Z",
       "start_actual": "2026-05-27T13:02:31.000Z",
-      "live_viewers": 2131,
+      "live_viewers": 2308,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -299,6 +279,26 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
+      "video_id": "3znqwvv2RyE",
+      "title": "【Forza Horizon 6】みんなで深夜ドライブ🌃【水宮枢/ホロライブDEV_IS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-05-26T20:43:15.000Z",
+      "available_at": "2026-05-27T13:30:40.000Z",
+      "start_scheduled": "2026-05-27T13:30:00.000Z",
+      "start_actual": "2026-05-27T13:30:40.000Z",
+      "live_viewers": 1268,
+      "channel": {
+        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+        "name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "english_name": "Mizumiya Su",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
