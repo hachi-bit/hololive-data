@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779872478,
+  "cached_at": 1779872539,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "ghyyeU4W4ZE",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-27T08:03:58.000Z",
       "start_scheduled": "2026-05-27T08:00:00.000Z",
       "start_actual": "2026-05-27T08:03:58.000Z",
-      "live_viewers": 13866,
+      "live_viewers": 14223,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-27T08:33:43.000Z",
       "start_scheduled": "2026-05-27T08:30:00.000Z",
       "start_actual": "2026-05-27T08:33:43.000Z",
-      "live_viewers": 508,
+      "live_viewers": 526,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -59,6 +59,25 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6t3-_N8A6ME1JShZHHqOMw": {
+      "video_id": "VT12c_-b0JI",
+      "title": "【ワンワンバトル】ホロスタ1声量が小さい男のワンワンバトル【花咲みやび/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Bow-wow_Battle",
+      "published_at": "2026-05-27T05:14:31.000Z",
+      "available_at": "2026-05-27T09:00:00.000Z",
+      "start_scheduled": "2026-05-27T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "english_name": "Hanasaki Miyabi",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
