@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779898519,
+  "cached_at": 1779898580,
   "lives": {
     "UChSvpZYRPh0FvG4SJGSga3g": {
       "video_id": "vd1GOaBGVzY",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-27T14:01:47.000Z",
       "start_scheduled": "2026-05-27T14:00:00.000Z",
       "start_actual": "2026-05-27T14:01:47.000Z",
-      "live_viewers": 505,
+      "live_viewers": 471,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-27T16:06:43.000Z",
       "start_scheduled": "2026-05-27T16:00:00.000Z",
       "start_actual": "2026-05-27T16:06:43.000Z",
-      "live_viewers": 2379,
+      "live_viewers": 2768,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -168,9 +168,10 @@
       "status": "live",
       "topic_id": "endurance",
       "published_at": "2026-05-26T12:21:36.000Z",
-      "available_at": "2026-05-27T16:10:00.000Z",
+      "available_at": "2026-05-27T16:11:51.000Z",
       "start_scheduled": "2026-05-27T16:10:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-27T16:11:51.000Z",
+      "live_viewers": 10542,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
