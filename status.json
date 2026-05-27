@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779890480,
+  "cached_at": 1779890540,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "uzQDTBoOm_U",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-27T11:00:04.000Z",
       "start_scheduled": "2026-05-27T11:00:00.000Z",
       "start_actual": "2026-05-27T11:00:04.000Z",
-      "live_viewers": 21662,
+      "live_viewers": 21647,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-27T12:05:37.000Z",
       "start_scheduled": "2026-05-27T12:00:00.000Z",
       "start_actual": "2026-05-27T12:05:37.000Z",
-      "live_viewers": 27692,
+      "live_viewers": 27433,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-27T13:01:00.000Z",
       "start_scheduled": "2026-05-27T13:00:00.000Z",
       "start_actual": "2026-05-27T13:01:00.000Z",
-      "live_viewers": 11405,
+      "live_viewers": 11537,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-27T13:01:15.000Z",
       "start_scheduled": "2026-05-27T13:00:00.000Z",
       "start_actual": "2026-05-27T13:01:15.000Z",
-      "live_viewers": 620,
+      "live_viewers": 668,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -199,6 +199,45 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdfMHxjcCc2HSd9qFvfJgjg": {
+      "video_id": "XVpytvVgjgw",
+      "title": "【 スパチャお礼 | 卒業 】雑談もしつつ【 水無世燐央 | UPROAR!! 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Superchat_Reading",
+      "published_at": "2026-05-26T21:29:18.000Z",
+      "available_at": "2026-05-27T14:00:00.000Z",
+      "start_scheduled": "2026-05-27T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+        "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+        "english_name": "Minase Rio",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
+      "video_id": "p-7qeMxrjF0",
+      "title": "【雑談】なんかラジオみたいなトーク　第20回【荒咬オウガ アール/Aru】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-27T08:55:11.000Z",
+      "available_at": "2026-05-27T14:00:09.000Z",
+      "start_scheduled": "2026-05-27T14:00:00.000Z",
+      "start_actual": "2026-05-27T14:00:09.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "name": "Oga Ch.荒咬オウガ",
+        "english_name": "Aragami Oga",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
