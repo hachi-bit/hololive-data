@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779870799,
+  "cached_at": 1779870859,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "ghyyeU4W4ZE",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-27T06:05:49.000Z",
       "start_scheduled": "2026-05-27T06:00:00.000Z",
       "start_actual": "2026-05-27T06:05:49.000Z",
-      "live_viewers": 11161,
+      "live_viewers": 10983,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-27T08:03:58.000Z",
       "start_scheduled": "2026-05-27T08:00:00.000Z",
       "start_actual": "2026-05-27T08:03:58.000Z",
-      "live_viewers": 8908,
+      "live_viewers": 9172,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -99,6 +99,25 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGNI4MENvnsymYjKiZwv9eg": {
+      "video_id": "V025AFM5_5Q",
+      "title": "【STREET FIGHTER6】終活!最後のストリートファイター6! 【岸堂天真/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-05-27T08:29:12.000Z",
+      "available_at": "2026-05-27T08:30:00.000Z",
+      "start_scheduled": "2026-05-27T08:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "english_name": "Kishido Temma",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
