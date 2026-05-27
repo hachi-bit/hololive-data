@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779861799,
+  "cached_at": 1779861859,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "ghyyeU4W4ZE",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-27T04:48:03.000Z",
       "start_scheduled": "2026-05-27T04:45:00.000Z",
       "start_actual": "2026-05-27T04:48:03.000Z",
-      "live_viewers": 1698,
+      "live_viewers": 1050,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -82,16 +82,15 @@
       }
     },
     "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "jOGOcf9qSQk",
-      "title": "【#リオナ生誕祭36時】漢字でGOやっていくぅ【ホロライブ DEV_IS 響咲リオナ】",
+      "video_id": "8mkfNlPBXgU",
+      "title": "【#リオナ生誕祭36時】初代スーパーマリオブラザーズやっていくぅ【ホロライブ DEV_IS 響咲リオナ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "Kanji_de_GO!",
-      "published_at": "2026-05-26T12:03:18.000Z",
-      "available_at": "2026-05-27T05:02:35.000Z",
-      "start_scheduled": "2026-05-27T05:00:00.000Z",
-      "start_actual": "2026-05-27T05:02:35.000Z",
-      "live_viewers": 10838,
+      "topic_id": "Super_Mario",
+      "published_at": "2026-05-26T12:05:50.000Z",
+      "available_at": "2026-05-27T06:00:00.000Z",
+      "start_scheduled": "2026-05-27T06:00:00.000Z",
+      "live_viewers": 0,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
