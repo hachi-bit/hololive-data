@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779878599,
+  "cached_at": 1779878659,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "BVrF3cZahb4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-27T08:03:58.000Z",
       "start_scheduled": "2026-05-27T08:00:00.000Z",
       "start_actual": "2026-05-27T08:03:58.000Z",
-      "live_viewers": 11483,
+      "live_viewers": 11107,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "V025AFM5_5Q",
-      "title": "【STREET FIGHTER6】終活!最後のストリートファイター6! 【岸堂天真/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-05-27T08:29:12.000Z",
-      "available_at": "2026-05-27T08:33:43.000Z",
-      "start_scheduled": "2026-05-27T08:30:00.000Z",
-      "start_actual": "2026-05-27T08:33:43.000Z",
-      "live_viewers": 424,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC6t3-_N8A6ME1JShZHHqOMw": {
@@ -51,7 +31,7 @@
       "available_at": "2026-05-27T09:03:59.000Z",
       "start_scheduled": "2026-05-27T09:00:00.000Z",
       "start_actual": "2026-05-27T09:03:59.000Z",
-      "live_viewers": 698,
+      "live_viewers": 735,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-27T09:57:31.000Z",
       "start_scheduled": "2026-05-27T10:00:00.000Z",
       "start_actual": "2026-05-27T09:57:31.000Z",
-      "live_viewers": 2560,
+      "live_viewers": 2593,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-27T09:57:33.000Z",
       "start_scheduled": "2026-05-27T10:00:00.000Z",
       "start_actual": "2026-05-27T09:57:33.000Z",
-      "live_viewers": 13494,
+      "live_viewers": 13598,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-27T09:58:39.000Z",
       "start_scheduled": "2026-05-27T10:00:00.000Z",
       "start_actual": "2026-05-27T09:58:39.000Z",
-      "live_viewers": 312,
+      "live_viewers": 309,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-27T10:01:49.000Z",
       "start_scheduled": "2026-05-27T10:00:00.000Z",
       "start_actual": "2026-05-27T10:01:49.000Z",
-      "live_viewers": 6454,
+      "live_viewers": 6741,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-27T10:20:33.000Z",
       "start_scheduled": "2026-05-27T10:20:10.000Z",
       "start_actual": "2026-05-27T10:20:33.000Z",
-      "live_viewers": 4412,
+      "live_viewers": 4788,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
