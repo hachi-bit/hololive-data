@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779891079,
+  "cached_at": 1779891139,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "uzQDTBoOm_U",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-27T12:05:37.000Z",
       "start_scheduled": "2026-05-27T12:00:00.000Z",
       "start_actual": "2026-05-27T12:05:37.000Z",
-      "live_viewers": 27290,
+      "live_viewers": 27167,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-27T14:00:32.000Z",
       "start_scheduled": "2026-05-27T14:00:00.000Z",
       "start_actual": "2026-05-27T14:00:32.000Z",
-      "live_viewers": 2466,
+      "live_viewers": 2776,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-27T14:01:47.000Z",
       "start_scheduled": "2026-05-27T14:00:00.000Z",
       "start_actual": "2026-05-27T14:01:47.000Z",
-      "live_viewers": 365,
+      "live_viewers": 343,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -239,6 +239,25 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "lInjMdh_aNE",
+      "title": "【#リオナ生誕祭36時】一日の締めに歌雑談🎵【ホロライブ DEV_IS 響咲リオナ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-26T12:15:37.000Z",
+      "available_at": "2026-05-27T14:10:00.000Z",
+      "start_scheduled": "2026-05-27T14:10:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
