@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779879679,
+  "cached_at": 1779879739,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "BVrF3cZahb4",
@@ -19,46 +19,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "VT12c_-b0JI",
-      "title": "【ワンワンバトル】ホロスタ1声量が小さい男のワンワンバトル【花咲みやび/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Bow-wow_Battle",
-      "published_at": "2026-05-27T05:14:31.000Z",
-      "available_at": "2026-05-27T09:03:59.000Z",
-      "start_scheduled": "2026-05-27T09:00:00.000Z",
-      "start_actual": "2026-05-27T09:03:59.000Z",
-      "live_viewers": 775,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "CO2OhYWst5g",
-      "title": "【#リオナ生誕祭３６時】ゲストの皆様と３Ⅾでスーパーマリオパーティージャンボリー【ホロライブ DEV_IS 響咲リオナ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mario_Party",
-      "published_at": "2026-05-26T12:09:24.000Z",
-      "available_at": "2026-05-27T09:15:21.000Z",
-      "start_scheduled": "2026-05-27T09:15:00.000Z",
-      "start_actual": "2026-05-27T09:15:21.000Z",
-      "live_viewers": 17060,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1suqwovbL1kzsoaZgFZLKg": {
@@ -91,7 +51,7 @@
       "available_at": "2026-05-27T09:57:33.000Z",
       "start_scheduled": "2026-05-27T10:00:00.000Z",
       "start_actual": "2026-05-27T09:57:33.000Z",
-      "live_viewers": 13191,
+      "live_viewers": 14049,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -111,7 +71,7 @@
       "available_at": "2026-05-27T09:58:39.000Z",
       "start_scheduled": "2026-05-27T10:00:00.000Z",
       "start_actual": "2026-05-27T09:58:39.000Z",
-      "live_viewers": 328,
+      "live_viewers": 329,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -131,7 +91,7 @@
       "available_at": "2026-05-27T10:01:49.000Z",
       "start_scheduled": "2026-05-27T10:00:00.000Z",
       "start_actual": "2026-05-27T10:01:49.000Z",
-      "live_viewers": 6937,
+      "live_viewers": 7005,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -151,7 +111,7 @@
       "available_at": "2026-05-27T10:20:33.000Z",
       "start_scheduled": "2026-05-27T10:20:10.000Z",
       "start_actual": "2026-05-27T10:20:33.000Z",
-      "live_viewers": 5935,
+      "live_viewers": 6144,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -159,6 +119,183 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC0TXe_LYZ4scaW2XMyi5_kw": {
+      "video_id": "7myzRqKBv_E",
+      "title": "【School 666】学校に“何かいる\"──。協力ホラーゲーム👻【AZKi視点 / ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "School_666",
+      "published_at": "2026-05-27T05:40:51.000Z",
+      "available_at": "2026-05-27T10:59:38.000Z",
+      "start_scheduled": "2026-05-27T11:00:00.000Z",
+      "start_actual": "2026-05-27T10:59:38.000Z",
+      "live_viewers": 1985,
+      "channel": {
+        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+        "name": "AZKi Channel",
+        "english_name": "AZKi",
+        "org": "Hololive",
+        "suborg": "0z0th Generation",
+        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFKOVgVbGmX65RxO3EtH3iw": {
+      "video_id": "KEuVF9xawlg",
+      "title": "【School 666】『不気味な学校』から協力して生き残れ!!【雪花ラミィ視点 /ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "School_666",
+      "published_at": "2026-05-27T01:22:10.000Z",
+      "available_at": "2026-05-27T10:59:38.000Z",
+      "start_scheduled": "2026-05-27T11:00:00.000Z",
+      "start_actual": "2026-05-27T10:59:38.000Z",
+      "live_viewers": 1409,
+      "channel": {
+        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+        "name": "Lamy Ch. 雪花ラミィ",
+        "english_name": "Yukihana Lamy",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChAnqc_AY5_I3Px5dig3X1Q": {
+      "video_id": "ktEBw4nBpMs",
+      "title": "【School 666】AZKiと桃鈴ねねと雪花ラミィと戌神ころねで学校の異変探すぞ~!!!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "School_666",
+      "published_at": "2026-05-27T06:34:05.000Z",
+      "available_at": "2026-05-27T11:00:00.000Z",
+      "start_scheduled": "2026-05-27T11:00:00.000Z",
+      "start_actual": "2026-05-27T11:00:00.000Z",
+      "live_viewers": 4089,
+      "channel": {
+        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
+        "name": "Korone Ch. 戌神ころね",
+        "english_name": "Inugami Korone",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCtyWhCj3AqKh2dXctLkDtng": {
+      "video_id": "K5iKr1TSX84",
+      "title": "【ヨッシーとフカシギの図鑑】気持ちは完全に女児【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Yoshi",
+      "published_at": "2026-05-27T04:03:51.000Z",
+      "available_at": "2026-05-27T11:00:00.000Z",
+      "start_scheduled": "2026-05-27T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCtyWhCj3AqKh2dXctLkDtng",
+        "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+        "english_name": "Ichijou Ririka",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+      "video_id": "RAXz9LfFqQ8",
+      "title": "【Pratfall】 愛犬を救出する為に地下労働する #かみぬい【ホロライブ/白上フブキ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pratfall",
+      "published_at": "2026-05-27T10:08:02.000Z",
+      "available_at": "2026-05-27T11:00:00.000Z",
+      "start_scheduled": "2026-05-27T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "name": "フブキCh。白上フブキ",
+        "english_name": "Shirakami Fubuki",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvInZx9h3jC2JzsIzoOebWg": {
+      "video_id": "07qeijidnLU",
+      "title": "【Pratfall】 #かみぬい で穴を掘る【不知火フレア/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pratfall",
+      "published_at": "2026-05-27T09:55:30.000Z",
+      "available_at": "2026-05-27T11:00:00.000Z",
+      "start_scheduled": "2026-05-27T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvInZx9h3jC2JzsIzoOebWg",
+        "name": "Flare Ch. 不知火フレア",
+        "english_name": "Shiranui Flare",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAWSyEs_Io8MtpY3m-zqILA": {
+      "video_id": "lKnf1cj-yjw",
+      "title": "【School 666】不気味な学校で生き残るねね視点【 桃鈴ねね / hololive 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "School_666",
+      "published_at": "2026-05-27T07:28:10.000Z",
+      "available_at": "2026-05-27T11:00:02.000Z",
+      "start_scheduled": "2026-05-27T11:00:00.000Z",
+      "start_actual": "2026-05-27T11:00:02.000Z",
+      "live_viewers": 1446,
+      "channel": {
+        "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+        "name": "Nene Ch.桃鈴ねね",
+        "english_name": "Momosuzu Nene",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "qiHluWBXiKI",
+      "title": "【Forza Horizon 6】日本をドライブするぞおおおおおおおおおおおおおおおおおおおおおおおおおおおお!!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-05-26T06:30:06.000Z",
+      "available_at": "2026-05-27T11:00:04.000Z",
+      "start_scheduled": "2026-05-27T11:00:00.000Z",
+      "start_actual": "2026-05-27T11:00:04.000Z",
+      "live_viewers": 4314,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdfMHxjcCc2HSd9qFvfJgjg": {
+      "video_id": "0VlKbwwcC1s",
+      "title": "【 歌枠 l KARAOKE 】歌うのが好きです!【 水無世燐央 l UPROAR!! 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-26T21:26:32.000Z",
+      "available_at": "2026-05-27T11:00:19.000Z",
+      "start_scheduled": "2026-05-27T11:00:00.000Z",
+      "start_actual": "2026-05-27T11:00:19.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+        "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+        "english_name": "Minase Rio",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
