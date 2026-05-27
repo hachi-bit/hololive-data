@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779876018,
+  "cached_at": 1779876079,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "BVrF3cZahb4",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-27T09:03:59.000Z",
       "start_scheduled": "2026-05-27T09:00:00.000Z",
       "start_actual": "2026-05-27T09:03:59.000Z",
-      "live_viewers": 700,
+      "live_viewers": 740,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-27T09:15:21.000Z",
       "start_scheduled": "2026-05-27T09:15:00.000Z",
       "start_actual": "2026-05-27T09:15:21.000Z",
-      "live_viewers": 16874,
+      "live_viewers": 19317,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -79,6 +79,66 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1suqwovbL1kzsoaZgFZLKg": {
+      "video_id": "4BBGP5zwTBI",
+      "title": "【#NELLマットレス】癒月ちょこのNELLラジ放送!団長と一緒にうたた寝風に!?【癒月ちょこ/白銀ノエル】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-27T03:44:03.000Z",
+      "available_at": "2026-05-27T09:57:31.000Z",
+      "start_scheduled": "2026-05-27T10:00:00.000Z",
+      "start_actual": "2026-05-27T09:57:31.000Z",
+      "live_viewers": 725,
+      "channel": {
+        "id": "UC1suqwovbL1kzsoaZgFZLKg",
+        "name": "Choco Ch. 癒月ちょこ",
+        "english_name": "Yuzuki Choco",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCa9Y57gfeY0Zro_noHRVrnw": {
+      "video_id": "uzQDTBoOm_U",
+      "title": "【 Forza Horizon 6 】マニュアル免許所持の姫の運転さばきを披露するのらね!!!【姫森ルーナ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-05-26T15:30:04.000Z",
+      "available_at": "2026-05-27T09:57:33.000Z",
+      "start_scheduled": "2026-05-27T10:00:00.000Z",
+      "start_actual": "2026-05-27T09:57:33.000Z",
+      "live_viewers": 2026,
+      "channel": {
+        "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+        "name": "Luna Ch. 姫森ルーナ",
+        "english_name": "Himemori Luna",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCc88OV45ICgHbn3ZqLLb52w": {
+      "video_id": "MBY5I4mNEzY",
+      "title": "スプラトゥーン3|今熱いゲームします!【Xマッチ】 - 夜十神封魔/ホロスターズ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Splatoon",
+      "published_at": "2026-05-26T16:37:28.000Z",
+      "available_at": "2026-05-27T09:58:39.000Z",
+      "start_scheduled": "2026-05-27T10:00:00.000Z",
+      "start_actual": "2026-05-27T09:58:39.000Z",
+      "live_viewers": 73,
+      "channel": {
+        "id": "UCc88OV45ICgHbn3ZqLLb52w",
+        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+        "english_name": "Yatogami Fuma",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
