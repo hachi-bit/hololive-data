@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779877339,
+  "cached_at": 1779877399,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "BVrF3cZahb4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-27T08:03:58.000Z",
       "start_scheduled": "2026-05-27T08:00:00.000Z",
       "start_actual": "2026-05-27T08:03:58.000Z",
-      "live_viewers": 12479,
+      "live_viewers": 12144,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-27T09:57:31.000Z",
       "start_scheduled": "2026-05-27T10:00:00.000Z",
       "start_actual": "2026-05-27T09:57:31.000Z",
-      "live_viewers": 2258,
+      "live_viewers": 2334,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-27T09:57:33.000Z",
       "start_scheduled": "2026-05-27T10:00:00.000Z",
       "start_actual": "2026-05-27T09:57:33.000Z",
-      "live_viewers": 9784,
+      "live_viewers": 10048,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-27T09:58:39.000Z",
       "start_scheduled": "2026-05-27T10:00:00.000Z",
       "start_actual": "2026-05-27T09:58:39.000Z",
-      "live_viewers": 267,
+      "live_viewers": 265,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-27T10:01:49.000Z",
       "start_scheduled": "2026-05-27T10:00:00.000Z",
       "start_actual": "2026-05-27T10:01:49.000Z",
-      "live_viewers": 5152,
+      "live_viewers": 5544,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -159,6 +159,25 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_sFNM0z0MWm9A6WlKPuMMg": {
+      "video_id": "2EX7ysQJArU",
+      "title": "electrify my heart ah ah ah oh oh oh ohoh | SINGLE SONG KARAOKE",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-27T10:20:10.000Z",
+      "available_at": "2026-05-27T10:20:10.000Z",
+      "start_scheduled": "2026-05-27T10:20:10.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+        "name": "Nerissa Ravencroft Ch. hololive-EN",
+        "english_name": "Nerissa Ravencroft",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
