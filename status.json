@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779857179,
+  "cached_at": 1779857239,
   "lives": {
-    "UC9p_lqQ0FEDz327Vgf5JwqA": {
-      "video_id": "3iXshLxO3-E",
-      "title": "【ENigmatic Recollection】Memories broken the truth goes unspoken I've even forgotten my name【Day 3】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-26T16:32:52.000Z",
-      "available_at": "2026-05-27T00:00:35.000Z",
-      "start_scheduled": "2026-05-27T00:00:00.000Z",
-      "start_actual": "2026-05-27T00:00:35.000Z",
-      "live_viewers": 5775,
-      "channel": {
-        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-        "name": "Koseki Bijou Ch. hololive-EN",
-        "english_name": "Koseki Bijou",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "LJoWhfyEV1Q",
       "title": "Worlds will fall | ENReco Ch. 3",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-27T00:56:50.000Z",
       "start_scheduled": "2026-05-27T01:00:00.000Z",
       "start_actual": "2026-05-27T00:56:50.000Z",
-      "live_viewers": 2022,
+      "live_viewers": 2122,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-27T00:57:07.000Z",
       "start_scheduled": "2026-05-27T01:00:00.000Z",
       "start_actual": "2026-05-27T00:57:07.000Z",
-      "live_viewers": 2465,
+      "live_viewers": 2328,
       "channel": {
         "id": "UCW5uhrG1eCBYditmhL0Ykjw",
         "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-27T01:00:32.000Z",
       "start_scheduled": "2026-05-27T01:00:00.000Z",
       "start_actual": "2026-05-27T01:00:32.000Z",
-      "live_viewers": 3415,
+      "live_viewers": 4483,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-27T04:00:44.000Z",
       "start_scheduled": "2026-05-27T04:00:00.000Z",
       "start_actual": "2026-05-27T04:00:44.000Z",
-      "live_viewers": 10006,
+      "live_viewers": 11441,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-27T04:01:28.000Z",
       "start_scheduled": "2026-05-27T04:00:00.000Z",
       "start_actual": "2026-05-27T04:01:28.000Z",
-      "live_viewers": 505,
+      "live_viewers": 468,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -219,6 +199,25 @@
         "org": "Hololive",
         "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
         "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
+      "video_id": "RboCDrtKcMk",
+      "title": "昼下がり一人しゃべり 【 #奏手イヅル 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-27T04:42:50.000Z",
+      "available_at": "2026-05-27T04:45:00.000Z",
+      "start_scheduled": "2026-05-27T04:45:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "english_name": "Kanade Izuru",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
