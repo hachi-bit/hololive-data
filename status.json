@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779854779,
+  "cached_at": 1779854839,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "3iXshLxO3-E",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-27T00:55:10.000Z",
       "start_scheduled": "2026-05-27T01:00:00.000Z",
       "start_actual": "2026-05-27T00:55:10.000Z",
-      "live_viewers": 2131,
+      "live_viewers": 2309,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-27T01:02:50.000Z",
       "start_scheduled": "2026-05-27T01:00:00.000Z",
       "start_actual": "2026-05-27T01:02:50.000Z",
-      "live_viewers": 4921,
+      "live_viewers": 4970,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -261,25 +261,6 @@
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC2hx0xVkMoHGWijwr_lA01w": {
-      "video_id": "cqwqmAnVWpg",
-      "title": "【🍻Travellers Rest 🍻】Why don't ya stop by for a cold one??? 【1】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Travellers_Rest",
-      "published_at": "2026-05-27T02:57:03.000Z",
-      "available_at": "2026-05-27T04:00:00.000Z",
-      "start_scheduled": "2026-05-27T04:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC2hx0xVkMoHGWijwr_lA01w",
-        "name": "Axel Syrios Ch. HOLOSTARS-EN",
-        "english_name": "Axel Syrios",
-        "org": "Hololive",
-        "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-        "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCQ0UDLQCjY0rmuxCDE38FGg": {
       "video_id": "dAkXYCQ0x5I",
       "title": "朝の準備",
@@ -310,7 +291,7 @@
       "available_at": "2026-05-27T04:00:44.000Z",
       "start_scheduled": "2026-05-27T04:00:00.000Z",
       "start_actual": "2026-05-27T04:00:44.000Z",
-      "live_viewers": 2023,
+      "live_viewers": 6616,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -318,6 +299,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC2hx0xVkMoHGWijwr_lA01w": {
+      "video_id": "cqwqmAnVWpg",
+      "title": "【🍻Travellers Rest 🍻】Why don't ya stop by for a cold one??? 【1】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Travellers_Rest",
+      "published_at": "2026-05-27T02:57:03.000Z",
+      "available_at": "2026-05-27T04:01:28.000Z",
+      "start_scheduled": "2026-05-27T04:00:00.000Z",
+      "start_actual": "2026-05-27T04:01:28.000Z",
+      "live_viewers": 137,
+      "channel": {
+        "id": "UC2hx0xVkMoHGWijwr_lA01w",
+        "name": "Axel Syrios Ch. HOLOSTARS-EN",
+        "english_name": "Axel Syrios",
+        "org": "Hololive",
+        "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
+        "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
