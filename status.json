@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779854933,
+  "cached_at": 1779854962,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "3iXshLxO3-E",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-27T00:56:11.000Z",
       "start_scheduled": "2026-05-27T01:00:00.000Z",
       "start_actual": "2026-05-27T00:56:11.000Z",
-      "live_viewers": 2722,
+      "live_viewers": 3019,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-27T01:00:32.000Z",
       "start_scheduled": "2026-05-27T01:00:00.000Z",
       "start_actual": "2026-05-27T01:00:32.000Z",
-      "live_viewers": 3386,
+      "live_viewers": 3431,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-27T02:02:02.000Z",
       "start_scheduled": "2026-05-27T02:00:00.000Z",
       "start_actual": "2026-05-27T02:02:02.000Z",
-      "live_viewers": 493,
+      "live_viewers": 472,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -219,26 +219,6 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCozx5csNhCx1wsVq3SZVkBQ": {
-      "video_id": "j1JLwfGtTUE",
-      "title": "【マリン船長快挙】アニメED「BooooM!!!」担当決定!【昼ホロ/井月みちる】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "News_Show",
-      "published_at": "2026-05-27T00:07:48.000Z",
-      "available_at": "2026-05-27T02:58:50.000Z",
-      "start_scheduled": "2026-05-27T03:00:00.000Z",
-      "start_actual": "2026-05-27T02:58:50.000Z",
-      "live_viewers": 3930,
-      "channel": {
-        "id": "UCozx5csNhCx1wsVq3SZVkBQ",
-        "name": "holoAN room (ホロアナ)",
-        "english_name": "holoAN room",
-        "org": "Hololive",
-        "suborg": "0hOfficial",
-        "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
@@ -268,9 +248,9 @@
       "status": "live",
       "topic_id": "none",
       "published_at": "2026-05-04T14:43:00.000Z",
-      "available_at": "2026-05-27T04:00:11.000Z",
+      "available_at": "2026-05-27T04:00:21.000Z",
       "start_scheduled": "2026-05-04T14:42:59.000Z",
-      "start_actual": "2026-05-27T04:00:11.000Z",
+      "start_actual": "2026-05-27T04:00:21.000Z",
       "live_viewers": 0,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-27T04:00:44.000Z",
       "start_scheduled": "2026-05-27T04:00:00.000Z",
       "start_actual": "2026-05-27T04:00:44.000Z",
-      "live_viewers": 6616,
+      "live_viewers": 7064,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-27T04:01:28.000Z",
       "start_scheduled": "2026-05-27T04:00:00.000Z",
       "start_actual": "2026-05-27T04:01:28.000Z",
-      "live_viewers": 137,
+      "live_viewers": 157,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
