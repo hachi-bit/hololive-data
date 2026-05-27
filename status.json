@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779873379,
+  "cached_at": 1779873440,
   "lives": {
-    "UCTVSOgYuSWmNAt-lnJPkEEw": {
-      "video_id": "ghyyeU4W4ZE",
-      "title": "【FEAR AND HUNGER 2】Back to Hell",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Fear_&_Hunger",
-      "published_at": "2026-05-26T10:53:34.000Z",
-      "available_at": "2026-05-27T03:00:43.000Z",
-      "start_scheduled": "2026-05-27T03:00:00.000Z",
-      "start_actual": "2026-05-27T03:00:43.000Z",
-      "live_viewers": 721,
-      "channel": {
-        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
-        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
-        "english_name": "Jurard T Rexford",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "BVrF3cZahb4",
       "title": "【 Forza Horizon 6 】初めてのForza Horizon 6!無免許でも走れる!?【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-27T08:33:43.000Z",
       "start_scheduled": "2026-05-27T08:30:00.000Z",
       "start_actual": "2026-05-27T08:33:43.000Z",
-      "live_viewers": 500,
+      "live_viewers": 492,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-27T09:03:59.000Z",
       "start_scheduled": "2026-05-27T09:00:00.000Z",
       "start_actual": "2026-05-27T09:03:59.000Z",
-      "live_viewers": 482,
+      "live_viewers": 554,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -79,6 +59,26 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "CO2OhYWst5g",
+      "title": "【#リオナ生誕祭36時】ゲストの皆様と3Ⅾでスーパーマリオパーティージャンボリー【ホロライブ DEV_IS 響咲リオナ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_Party",
+      "published_at": "2026-05-26T12:09:24.000Z",
+      "available_at": "2026-05-27T09:15:21.000Z",
+      "start_scheduled": "2026-05-27T09:15:00.000Z",
+      "start_actual": "2026-05-27T09:15:21.000Z",
+      "live_viewers": 6867,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
