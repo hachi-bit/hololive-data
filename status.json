@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779858079,
+  "cached_at": 1779858139,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "LJoWhfyEV1Q",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-27T00:56:50.000Z",
       "start_scheduled": "2026-05-27T01:00:00.000Z",
       "start_actual": "2026-05-27T00:56:50.000Z",
-      "live_viewers": 2122,
+      "live_viewers": 3066,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-27T03:00:43.000Z",
       "start_scheduled": "2026-05-27T03:00:00.000Z",
       "start_actual": "2026-05-27T03:00:43.000Z",
-      "live_viewers": 513,
+      "live_viewers": 497,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "m_uV_S2IhhY",
-      "title": "【#リオナ生誕祭36時】 小学生あたりまえテストやっていくぅ【ホロライブ DEV_IS 響咲リオナ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Quiz",
-      "published_at": "2026-05-26T12:00:02.000Z",
-      "available_at": "2026-05-27T04:00:44.000Z",
-      "start_scheduled": "2026-05-27T04:00:00.000Z",
-      "start_actual": "2026-05-27T04:00:44.000Z",
-      "live_viewers": 10736,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC2hx0xVkMoHGWijwr_lA01w": {
@@ -171,7 +151,7 @@
       "available_at": "2026-05-27T04:48:03.000Z",
       "start_scheduled": "2026-05-27T04:45:00.000Z",
       "start_actual": "2026-05-27T04:48:03.000Z",
-      "live_viewers": 714,
+      "live_viewers": 948,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -179,6 +159,44 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "jOGOcf9qSQk",
+      "title": "【#リオナ生誕祭36時】漢字でGOやっていくぅ【ホロライブ DEV_IS 響咲リオナ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Kanji_de_GO!",
+      "published_at": "2026-05-26T12:03:18.000Z",
+      "available_at": "2026-05-27T05:00:00.000Z",
+      "start_scheduled": "2026-05-27T05:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCL_qhgtOy0dy1Agp8vkySQg": {
+      "video_id": "4WLlliZjDrA",
+      "title": "【member's only】your favorite mod is back, hypnospace bros (part 2) #calliolive",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-26T12:50:22.000Z",
+      "available_at": "2026-05-27T05:00:00.000Z",
+      "start_scheduled": "2026-05-27T05:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+        "name": "Mori Calliope Ch. hololive-EN",
+        "english_name": "Mori Calliope",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
