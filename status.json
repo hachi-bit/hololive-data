@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779887059,
+  "cached_at": 1779887119,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "uzQDTBoOm_U",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-27T11:00:00.000Z",
       "start_scheduled": "2026-05-27T11:00:00.000Z",
       "start_actual": "2026-05-27T11:00:00.000Z",
-      "live_viewers": 13591,
+      "live_viewers": 13067,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-27T11:00:23.000Z",
       "start_scheduled": "2026-05-27T11:00:00.000Z",
       "start_actual": "2026-05-27T11:00:23.000Z",
-      "live_viewers": 1021,
+      "live_viewers": 1017,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-27T11:01:29.000Z",
       "start_scheduled": "2026-05-27T11:00:00.000Z",
       "start_actual": "2026-05-27T11:01:29.000Z",
-      "live_viewers": 1426,
+      "live_viewers": 1409,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-27T12:32:32.000Z",
       "start_scheduled": "2026-05-27T12:30:00.000Z",
       "start_actual": "2026-05-27T12:32:32.000Z",
-      "live_viewers": 7036,
+      "live_viewers": 7775,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -301,25 +301,6 @@
         "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
-      "video_id": "vk6D5BGC2n4",
-      "title": "アステルくんと雑談 【 #奏手イヅル 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-27T02:34:39.000Z",
-      "available_at": "2026-05-27T13:00:00.000Z",
-      "start_scheduled": "2026-05-27T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "name": "Izuru Ch. 奏手イヅル",
-        "english_name": "Kanade Izuru",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "6_N9gntmXes",
       "title": "#2【GNOSIA】 i was born with one brain cell【Pavolia Reine/hololiveID】",
@@ -339,6 +320,25 @@
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
+      "video_id": "vk6D5BGC2n4",
+      "title": "アステルくんと雑談 【 #奏手イヅル 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-27T02:34:39.000Z",
+      "available_at": "2026-05-27T13:00:00.000Z",
+      "start_scheduled": "2026-05-27T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "english_name": "Kanade Izuru",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
       "video_id": "cLHQTQSjT7w",
       "title": "【 #神岡家 】 神岡家の気まぐれにゃじお 第58回👻🍙【 猫又おかゆ/椎名唯華 】",
@@ -346,9 +346,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-05-26T19:46:13.000Z",
-      "available_at": "2026-05-27T13:00:00.000Z",
+      "available_at": "2026-05-27T13:01:00.000Z",
       "start_scheduled": "2026-05-27T13:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-27T13:01:00.000Z",
+      "live_viewers": 2484,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -365,9 +366,10 @@
       "status": "live",
       "topic_id": "Forza",
       "published_at": "2026-05-26T14:17:37.000Z",
-      "available_at": "2026-05-27T13:00:00.000Z",
+      "available_at": "2026-05-27T13:01:07.000Z",
       "start_scheduled": "2026-05-27T13:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-27T13:01:07.000Z",
+      "live_viewers": 449,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
