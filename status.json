@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779878899,
+  "cached_at": 1779878959,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "BVrF3cZahb4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-27T08:03:58.000Z",
       "start_scheduled": "2026-05-27T08:00:00.000Z",
       "start_actual": "2026-05-27T08:03:58.000Z",
-      "live_viewers": 11107,
+      "live_viewers": 10590,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-27T09:15:21.000Z",
       "start_scheduled": "2026-05-27T09:15:00.000Z",
       "start_actual": "2026-05-27T09:15:21.000Z",
-      "live_viewers": 18456,
+      "live_viewers": 18376,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-27T09:57:31.000Z",
       "start_scheduled": "2026-05-27T10:00:00.000Z",
       "start_actual": "2026-05-27T09:57:31.000Z",
-      "live_viewers": 2593,
+      "live_viewers": 2625,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-27T09:57:33.000Z",
       "start_scheduled": "2026-05-27T10:00:00.000Z",
       "start_actual": "2026-05-27T09:57:33.000Z",
-      "live_viewers": 13598,
+      "live_viewers": 13462,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-27T09:58:39.000Z",
       "start_scheduled": "2026-05-27T10:00:00.000Z",
       "start_actual": "2026-05-27T09:58:39.000Z",
-      "live_viewers": 309,
+      "live_viewers": 321,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-27T10:01:49.000Z",
       "start_scheduled": "2026-05-27T10:00:00.000Z",
       "start_actual": "2026-05-27T10:01:49.000Z",
-      "live_viewers": 6741,
+      "live_viewers": 6632,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-27T10:20:33.000Z",
       "start_scheduled": "2026-05-27T10:20:10.000Z",
       "start_actual": "2026-05-27T10:20:33.000Z",
-      "live_viewers": 4788,
+      "live_viewers": 5237,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
