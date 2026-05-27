@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779893419,
+  "cached_at": 1779893479,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "uzQDTBoOm_U",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-27T09:57:33.000Z",
       "start_scheduled": "2026-05-27T10:00:00.000Z",
       "start_actual": "2026-05-27T09:57:33.000Z",
-      "live_viewers": 6826,
+      "live_viewers": 6961,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-27T11:00:04.000Z",
       "start_scheduled": "2026-05-27T11:00:00.000Z",
       "start_actual": "2026-05-27T11:00:04.000Z",
-      "live_viewers": 20459,
+      "live_viewers": 21306,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-27T12:38:59.000Z",
       "start_scheduled": "2026-05-27T12:00:00.000Z",
       "start_actual": "2026-05-27T12:38:59.000Z",
-      "live_viewers": 500,
+      "live_viewers": 514,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-27T13:01:07.000Z",
       "start_scheduled": "2026-05-27T13:00:00.000Z",
       "start_actual": "2026-05-27T13:01:07.000Z",
-      "live_viewers": 3109,
+      "live_viewers": 3557,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -139,26 +139,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
-      "video_id": "vk6D5BGC2n4",
-      "title": "アステルくんと雑談 【 #奏手イヅル 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-27T02:34:39.000Z",
-      "available_at": "2026-05-27T13:02:31.000Z",
-      "start_scheduled": "2026-05-27T13:00:00.000Z",
-      "start_actual": "2026-05-27T13:02:31.000Z",
-      "live_viewers": 2535,
-      "channel": {
-        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "name": "Izuru Ch. 奏手イヅル",
-        "english_name": "Kanade Izuru",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCjk2nKmHzgH5Xy-C5qYRd5A": {
@@ -221,26 +201,6 @@
         "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "lInjMdh_aNE",
-      "title": "【#リオナ生誕祭３６時】一日の締めに歌雑談🎵【ホロライブ DEV_IS 響咲リオナ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-26T12:15:37.000Z",
-      "available_at": "2026-05-27T14:12:25.000Z",
-      "start_scheduled": "2026-05-27T14:10:00.000Z",
-      "start_actual": "2026-05-27T14:12:25.000Z",
-      "live_viewers": 8365,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
       "video_id": "bWbjiylu_J0",
       "title": "【Handstand Hank】fingerstand kaela cos handstand is too ordinary",
@@ -251,7 +211,7 @@
       "available_at": "2026-05-27T14:30:04.000Z",
       "start_scheduled": "2026-05-27T14:30:00.000Z",
       "start_actual": "2026-05-27T14:30:04.000Z",
-      "live_viewers": 1667,
+      "live_viewers": 1817,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -271,7 +231,7 @@
       "available_at": "2026-05-27T14:46:01.000Z",
       "start_scheduled": "2026-05-27T14:45:00.000Z",
       "start_actual": "2026-05-27T14:46:01.000Z",
-      "live_viewers": 43,
+      "live_viewers": 92,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
