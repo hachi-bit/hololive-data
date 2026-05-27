@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779855859,
+  "cached_at": 1779855920,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "3iXshLxO3-E",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-27T00:00:54.000Z",
       "start_scheduled": "2026-05-27T00:00:00.000Z",
       "start_actual": "2026-05-27T00:00:54.000Z",
-      "live_viewers": 3187,
+      "live_viewers": 3016,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-27T01:00:32.000Z",
       "start_scheduled": "2026-05-27T01:00:00.000Z",
       "start_actual": "2026-05-27T01:00:32.000Z",
-      "live_viewers": 3490,
+      "live_viewers": 3413,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -246,7 +246,7 @@
       "title": "朝の準備",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "membersonly",
       "published_at": "2026-05-04T14:43:00.000Z",
       "available_at": "2026-05-27T04:00:21.000Z",
       "start_scheduled": "2026-05-04T14:42:59.000Z",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-27T04:00:44.000Z",
       "start_scheduled": "2026-05-27T04:00:00.000Z",
       "start_actual": "2026-05-27T04:00:44.000Z",
-      "live_viewers": 9280,
+      "live_viewers": 9321,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-27T04:01:28.000Z",
       "start_scheduled": "2026-05-27T04:00:00.000Z",
       "start_actual": "2026-05-27T04:01:28.000Z",
-      "live_viewers": 192,
+      "live_viewers": 206,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
