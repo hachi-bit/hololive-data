@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779867919,
+  "cached_at": 1779867979,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "ghyyeU4W4ZE",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-27T03:00:43.000Z",
       "start_scheduled": "2026-05-27T03:00:00.000Z",
       "start_actual": "2026-05-27T03:00:43.000Z",
-      "live_viewers": 679,
+      "live_viewers": 900,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC2hx0xVkMoHGWijwr_lA01w": {
-      "video_id": "cqwqmAnVWpg",
-      "title": "【🍻Travellers Rest 🍻】Why don't ya stop by for a cold one??? 【1】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Travellers_Rest",
-      "published_at": "2026-05-27T02:57:03.000Z",
-      "available_at": "2026-05-27T04:01:28.000Z",
-      "start_scheduled": "2026-05-27T04:00:00.000Z",
-      "start_actual": "2026-05-27T04:01:28.000Z",
-      "live_viewers": 464,
-      "channel": {
-        "id": "UC2hx0xVkMoHGWijwr_lA01w",
-        "name": "Axel Syrios Ch. HOLOSTARS-EN",
-        "english_name": "Axel Syrios",
-        "org": "Hololive",
-        "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-        "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCZgOv3YDEs-ZnZWDYVwJdmA": {
@@ -51,7 +31,7 @@
       "available_at": "2026-05-27T04:48:03.000Z",
       "start_scheduled": "2026-05-27T04:45:00.000Z",
       "start_actual": "2026-05-27T04:48:03.000Z",
-      "live_viewers": 950,
+      "live_viewers": 1227,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-27T06:05:49.000Z",
       "start_scheduled": "2026-05-27T06:00:00.000Z",
       "start_actual": "2026-05-27T06:05:49.000Z",
-      "live_viewers": 11764,
+      "live_viewers": 11156,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
