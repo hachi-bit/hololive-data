@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779862100,
+  "cached_at": 1779862159,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "ghyyeU4W4ZE",
@@ -88,9 +88,10 @@
       "status": "live",
       "topic_id": "Super_Mario",
       "published_at": "2026-05-26T12:05:50.000Z",
-      "available_at": "2026-05-27T06:00:00.000Z",
+      "available_at": "2026-05-27T06:05:49.000Z",
       "start_scheduled": "2026-05-27T06:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-27T06:05:49.000Z",
+      "live_viewers": 5899,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
