@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779890059,
+  "cached_at": 1779890119,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "uzQDTBoOm_U",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-27T09:57:33.000Z",
       "start_scheduled": "2026-05-27T10:00:00.000Z",
       "start_actual": "2026-05-27T09:57:33.000Z",
-      "live_viewers": 6215,
+      "live_viewers": 6233,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-27T11:00:04.000Z",
       "start_scheduled": "2026-05-27T11:00:00.000Z",
       "start_actual": "2026-05-27T11:00:04.000Z",
-      "live_viewers": 21222,
+      "live_viewers": 21551,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdfMHxjcCc2HSd9qFvfJgjg": {
-      "video_id": "0VlKbwwcC1s",
-      "title": "【 歌枠 l KARAOKE 】歌うのが好きです!【 水無世燐央 l UPROAR!! 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-05-26T21:26:32.000Z",
-      "available_at": "2026-05-27T11:00:23.000Z",
-      "start_scheduled": "2026-05-27T11:00:00.000Z",
-      "start_actual": "2026-05-27T11:00:23.000Z",
-      "live_viewers": 951,
-      "channel": {
-        "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-        "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-        "english_name": "Minase Rio",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCtyWhCj3AqKh2dXctLkDtng": {
@@ -71,7 +51,7 @@
       "available_at": "2026-05-27T11:01:29.000Z",
       "start_scheduled": "2026-05-27T11:00:00.000Z",
       "start_actual": "2026-05-27T11:01:29.000Z",
-      "live_viewers": 1629,
+      "live_viewers": 1709,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-27T11:01:52.000Z",
       "start_scheduled": "2026-05-27T11:00:00.000Z",
       "start_actual": "2026-05-27T11:01:52.000Z",
-      "live_viewers": 3884,
+      "live_viewers": 4017,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-27T12:05:37.000Z",
       "start_scheduled": "2026-05-27T12:00:00.000Z",
       "start_actual": "2026-05-27T12:05:37.000Z",
-      "live_viewers": 27061,
+      "live_viewers": 27730,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-27T13:01:00.000Z",
       "start_scheduled": "2026-05-27T13:00:00.000Z",
       "start_actual": "2026-05-27T13:01:00.000Z",
-      "live_viewers": 10499,
+      "live_viewers": 10842,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-27T13:01:15.000Z",
       "start_scheduled": "2026-05-27T13:00:00.000Z",
       "start_actual": "2026-05-27T13:01:15.000Z",
-      "live_viewers": 587,
+      "live_viewers": 620,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-27T13:02:31.000Z",
       "start_scheduled": "2026-05-27T13:00:00.000Z",
       "start_actual": "2026-05-27T13:02:31.000Z",
-      "live_viewers": 2500,
+      "live_viewers": 2713,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-27T13:30:40.000Z",
       "start_scheduled": "2026-05-27T13:30:00.000Z",
       "start_actual": "2026-05-27T13:30:40.000Z",
-      "live_viewers": 3944,
+      "live_viewers": 4505,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -259,25 +239,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "lInjMdh_aNE",
-      "title": "【#リオナ生誕祭36時】一日の締めに歌雑談🎵【ホロライブ DEV_IS 響咲リオナ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-26T12:15:37.000Z",
-      "available_at": "2026-05-27T13:45:00.000Z",
-      "start_scheduled": "2026-05-27T13:45:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
