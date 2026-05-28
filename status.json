@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779969979,
+  "cached_at": 1779970039,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "G4PMyjuvwEY",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-28T03:04:12.000Z",
       "start_scheduled": "2026-05-28T03:00:00.000Z",
       "start_actual": "2026-05-28T03:04:12.000Z",
-      "live_viewers": 421,
+      "live_viewers": 404,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-28T07:13:00.000Z",
       "start_scheduled": "2026-05-28T07:15:00.000Z",
       "start_actual": "2026-05-28T07:13:00.000Z",
-      "live_viewers": 1176,
+      "live_viewers": 1248,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-28T08:01:30.000Z",
       "start_scheduled": "2026-05-28T08:00:00.000Z",
       "start_actual": "2026-05-28T08:01:30.000Z",
-      "live_viewers": 2351,
+      "live_viewers": 2274,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-28T09:59:40.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T09:59:40.000Z",
-      "live_viewers": 33255,
+      "live_viewers": 30920,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-28T10:05:35.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:35.000Z",
-      "live_viewers": 4145,
+      "live_viewers": 4040,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-28T11:13:39.000Z",
       "start_scheduled": "2026-05-28T11:15:00.000Z",
       "start_actual": "2026-05-28T11:13:39.000Z",
-      "live_viewers": 14657,
+      "live_viewers": 14337,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-28T11:59:59.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T11:59:59.000Z",
-      "live_viewers": 965,
+      "live_viewers": 1324,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -299,25 +299,6 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "u1YnFJyhKd8",
-      "title": "【文字遊戯】 我、勇者となりて世界を救う!!!!!!!【ホロライブ/白上フブキ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Word_Game",
-      "published_at": "2026-05-28T09:22:25.000Z",
-      "available_at": "2026-05-28T12:00:00.000Z",
-      "start_scheduled": "2026-05-28T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "フブキCh。白上フブキ",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC6t3-_N8A6ME1JShZHHqOMw": {
@@ -339,44 +320,6 @@
         "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCv3EicDtxObcZZmnFcHvNnw": {
-      "video_id": "R2EpMJRVUNY",
-      "title": "【YAPYAP】どうやら協力ホラーらしいがまあ行けるっしょ~!【鬼ヶ谷テン/ネオポルテ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "YAPYAP",
-      "published_at": "2026-05-28T11:28:07.000Z",
-      "available_at": "2026-05-28T12:00:00.000Z",
-      "start_scheduled": "2026-05-28T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCv3EicDtxObcZZmnFcHvNnw",
-        "name": "鬼ヶ谷 テン / Onigaya Ten",
-        "english_name": "Onigaya Ten",
-        "org": "Neo-Porte",
-        "suborg": "0m6th Generation",
-        "photo": "https://yt3.ggpht.com/ApKOz7sH6YpKWtzBQVaZGVc9N4KHJSlT3MUEVukFphSTTnJMEl_dplx6b3EI5n1pW_heDH4aCQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCTvHWSfBZgtxE4sILOaurIQ": {
-      "video_id": "5cGfAxTkHNs",
-      "title": "【007 First Light】Agent do agent things #1",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-28T02:34:07.000Z",
-      "available_at": "2026-05-28T12:00:00.000Z",
-      "start_scheduled": "2026-05-28T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCTvHWSfBZgtxE4sILOaurIQ",
-        "name": "Vestia Zeta Ch. hololive-ID",
-        "english_name": "Vestia Zeta",
-        "org": "Hololive",
-        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-        "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "6S9ojYwKMsI",
       "title": "【初見】『逆襲のシャア』同時視聴!!【ホロライブ/兎田ぺこら】",
@@ -387,7 +330,7 @@
       "available_at": "2026-05-28T12:00:09.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:09.000Z",
-      "live_viewers": 8318,
+      "live_viewers": 11025,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -407,7 +350,7 @@
       "available_at": "2026-05-28T12:00:24.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:24.000Z",
-      "live_viewers": 8795,
+      "live_viewers": 15603,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -427,7 +370,7 @@
       "available_at": "2026-05-28T12:00:50.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:50.000Z",
-      "live_viewers": 81,
+      "live_viewers": 115,
       "channel": {
         "id": "UCLK0cRXu3PY7cPbdWiVYemA",
         "name": "羽流鷲りりり / Ririri Channel【ななしいんく】",
@@ -447,7 +390,7 @@
       "available_at": "2026-05-28T12:00:54.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:54.000Z",
-      "live_viewers": 49,
+      "live_viewers": 78,
       "channel": {
         "id": "UCrt4cTM_sWH0iySLMkwwYLQ",
         "name": "蛇宵ティア / Tier Channel【ななしいんく】",
@@ -455,6 +398,66 @@
         "org": "774inc",
         "suborg": "0 Ex-SugarLyric",
         "photo": "https://yt3.ggpht.com/AfpISUcGYngk2GdQsUu1KA5iPcihgBQV8cdByfYT4DYDewZiHdrzXxtbxp8jMlM_BQC4-5VI=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCv3EicDtxObcZZmnFcHvNnw": {
+      "video_id": "R2EpMJRVUNY",
+      "title": "【YAPYAP】どうやら協力ホラーらしいがまあ行けるっしょ~!【鬼ヶ谷テン/ネオポルテ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "YAPYAP",
+      "published_at": "2026-05-28T11:28:07.000Z",
+      "available_at": "2026-05-28T12:01:46.000Z",
+      "start_scheduled": "2026-05-28T12:00:00.000Z",
+      "start_actual": "2026-05-28T12:01:46.000Z",
+      "live_viewers": 90,
+      "channel": {
+        "id": "UCv3EicDtxObcZZmnFcHvNnw",
+        "name": "鬼ヶ谷 テン / Onigaya Ten",
+        "english_name": "Onigaya Ten",
+        "org": "Neo-Porte",
+        "suborg": "0m6th Generation",
+        "photo": "https://yt3.ggpht.com/ApKOz7sH6YpKWtzBQVaZGVc9N4KHJSlT3MUEVukFphSTTnJMEl_dplx6b3EI5n1pW_heDH4aCQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTvHWSfBZgtxE4sILOaurIQ": {
+      "video_id": "5cGfAxTkHNs",
+      "title": "【007 First Light】Agent do agent things #1",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-28T02:34:07.000Z",
+      "available_at": "2026-05-28T12:02:31.000Z",
+      "start_scheduled": "2026-05-28T12:00:00.000Z",
+      "start_actual": "2026-05-28T12:02:31.000Z",
+      "live_viewers": 654,
+      "channel": {
+        "id": "UCTvHWSfBZgtxE4sILOaurIQ",
+        "name": "Vestia Zeta Ch. hololive-ID",
+        "english_name": "Vestia Zeta",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+      "video_id": "u1YnFJyhKd8",
+      "title": "【文字遊戯】 我、勇者となりて世界を救う!!!!!!!【ホロライブ/白上フブキ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Word_Game",
+      "published_at": "2026-05-28T09:22:25.000Z",
+      "available_at": "2026-05-28T12:04:26.000Z",
+      "start_scheduled": "2026-05-28T12:00:00.000Z",
+      "start_actual": "2026-05-28T12:04:26.000Z",
+      "live_viewers": 2315,
+      "channel": {
+        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "name": "フブキCh。白上フブキ",
+        "english_name": "Shirakami Fubuki",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
