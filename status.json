@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779935539,
+  "cached_at": 1779935599,
   "lives": {
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "J-cQnf0SGUw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-27T16:11:51.000Z",
       "start_scheduled": "2026-05-27T16:10:00.000Z",
       "start_actual": "2026-05-27T16:11:51.000Z",
-      "live_viewers": 14897,
+      "live_viewers": 14711,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCajbFh6e_R8QZdHAMbbi4rQ": {
-      "video_id": "sjCB805bPFo",
-      "title": "NAME PENDING【MAD ADVICE: 03】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-27T02:42:40.000Z",
-      "available_at": "2026-05-28T00:09:03.000Z",
-      "start_scheduled": "2026-05-28T00:00:00.000Z",
-      "start_actual": "2026-05-28T00:09:03.000Z",
-      "live_viewers": 1372,
-      "channel": {
-        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-        "english_name": "Crimzon Ruze",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
@@ -131,7 +111,7 @@
       "available_at": "2026-05-28T01:04:14.000Z",
       "start_scheduled": "2026-05-28T01:00:00.000Z",
       "start_actual": "2026-05-28T01:04:14.000Z",
-      "live_viewers": 2984,
+      "live_viewers": 2784,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-28T01:56:19.000Z",
       "start_scheduled": "2026-05-28T02:15:00.000Z",
       "start_actual": "2026-05-28T01:56:19.000Z",
-      "live_viewers": 665,
+      "live_viewers": 765,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -210,7 +190,7 @@
       "available_at": "2026-05-28T02:01:35.000Z",
       "start_scheduled": "2026-05-28T02:00:00.000Z",
       "start_actual": "2026-05-28T02:01:35.000Z",
-      "live_viewers": 4253,
+      "live_viewers": 4266,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -230,7 +210,7 @@
       "available_at": "2026-05-28T02:02:04.000Z",
       "start_scheduled": "2026-05-28T02:00:00.000Z",
       "start_actual": "2026-05-28T02:02:04.000Z",
-      "live_viewers": 3156,
+      "live_viewers": 3219,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -250,7 +230,7 @@
       "available_at": "2026-05-28T02:02:06.000Z",
       "start_scheduled": "2026-05-28T02:00:00.000Z",
       "start_actual": "2026-05-28T02:02:06.000Z",
-      "live_viewers": 285,
+      "live_viewers": 842,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
