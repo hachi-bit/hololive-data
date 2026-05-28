@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779930019,
+  "cached_at": 1779930079,
   "lives": {
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "J-cQnf0SGUw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-27T16:11:51.000Z",
       "start_scheduled": "2026-05-27T16:10:00.000Z",
       "start_actual": "2026-05-27T16:11:51.000Z",
-      "live_viewers": 12843,
+      "live_viewers": 13033,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-28T00:55:12.000Z",
       "start_scheduled": "2026-05-28T01:00:00.000Z",
       "start_actual": "2026-05-28T00:55:12.000Z",
-      "live_viewers": 1035,
+      "live_viewers": 1880,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-28T00:55:24.000Z",
       "start_scheduled": "2026-05-28T01:00:00.000Z",
       "start_actual": "2026-05-28T00:55:24.000Z",
-      "live_viewers": 494,
+      "live_viewers": 821,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -79,6 +79,26 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgnfPPb9JI3e9A4cXHnWbyg": {
+      "video_id": "o-aseqW0iiU",
+      "title": "I Am But a Sister of the Cloth 【ENigmatic Recollection: Season 3】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-27T04:58:09.000Z",
+      "available_at": "2026-05-28T00:58:56.000Z",
+      "start_scheduled": "2026-05-28T01:00:00.000Z",
+      "start_actual": "2026-05-28T00:58:56.000Z",
+      "live_viewers": 998,
+      "channel": {
+        "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
+        "name": "Shiori Novella Ch. hololive-EN",
+        "english_name": "Shiori Novella",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
