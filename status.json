@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779947959,
+  "cached_at": 1779948019,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "60_Pduc0ODY",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-28T00:55:12.000Z",
       "start_scheduled": "2026-05-28T01:00:00.000Z",
       "start_actual": "2026-05-28T00:55:12.000Z",
-      "live_viewers": 3643,
+      "live_viewers": 5735,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCmbs8T6MWqUHP1tIQvSgKrg": {
-      "video_id": "JZ2gO4qDJ2w",
-      "title": "【ENigmatic Recollection: Chapter 3】Day 4: Ignorance Is Bliss",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-28T01:15:38.000Z",
-      "available_at": "2026-05-28T02:02:04.000Z",
-      "start_scheduled": "2026-05-28T02:00:00.000Z",
-      "start_actual": "2026-05-28T02:02:04.000Z",
-      "live_viewers": 5112,
-      "channel": {
-        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
-        "name": "Ouro Kronii Ch. hololive-EN",
-        "english_name": "Ouro Kronii",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCMqGG8BRAiI1lJfKOpETM_w": {
@@ -111,7 +91,7 @@
       "available_at": "2026-05-28T03:04:12.000Z",
       "start_scheduled": "2026-05-28T03:00:00.000Z",
       "start_actual": "2026-05-28T03:04:12.000Z",
-      "live_viewers": 431,
+      "live_viewers": 442,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-28T04:00:15.000Z",
       "start_scheduled": "2026-05-28T04:00:00.000Z",
       "start_actual": "2026-05-28T04:00:15.000Z",
-      "live_viewers": 1916,
+      "live_viewers": 1919,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
