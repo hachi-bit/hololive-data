@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779978319,
+  "cached_at": 1779978379,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "G4PMyjuvwEY",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-28T09:57:37.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T09:57:37.000Z",
-      "live_viewers": 9745,
+      "live_viewers": 9224,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -81,29 +81,9 @@
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCvInZx9h3jC2JzsIzoOebWg": {
-      "video_id": "mARqLIctLtw",
-      "title": "【School 666】異変を探せ!協力して生き残れ!!!【不知火フレア/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "School_666",
-      "published_at": "2026-05-27T16:09:12.000Z",
-      "available_at": "2026-05-28T10:05:03.000Z",
-      "start_scheduled": "2026-05-28T10:00:00.000Z",
-      "start_actual": "2026-05-28T10:05:03.000Z",
-      "live_viewers": 2947,
-      "channel": {
-        "id": "UCvInZx9h3jC2JzsIzoOebWg",
-        "name": "Flare Ch. 不知火フレア",
-        "english_name": "Shiranui Flare",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
       "video_id": "laWoqU1dO7Q",
-      "title": "【 School 666 】異変を探して、異常現象から生き残るぞ!!!!【角巻わため/ホロライブ4期生】",
+      "title": "【 School 666 】異変を探して、異常現象から生き残るぞ！！！！【角巻わため/ホロライブ４期生】",
       "type": "stream",
       "status": "live",
       "topic_id": "School_666",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-28T10:05:22.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:22.000Z",
-      "live_viewers": 7241,
+      "live_viewers": 5559,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -119,46 +99,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCUKD-uaobj9jiqB-VXt71mA": {
-      "video_id": "O8KR5Yr1AQo",
-      "title": "【School 666】異変あふれる無限学校から脱出する!【獅白ぼたん/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "School_666",
-      "published_at": "2026-05-27T18:35:48.000Z",
-      "available_at": "2026-05-28T10:05:33.000Z",
-      "start_scheduled": "2026-05-28T10:00:00.000Z",
-      "start_actual": "2026-05-28T10:05:33.000Z",
-      "live_viewers": 4096,
-      "channel": {
-        "id": "UCUKD-uaobj9jiqB-VXt71mA",
-        "name": "Botan Ch.獅白ぼたん",
-        "english_name": "Shishiro Botan",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC8rcEBzJSleTkf_-agPM20g": {
-      "video_id": "X7EdXcsbmVE",
-      "title": "【School 666】恐怖の異変探し!Scary School Anomalies",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "School_666",
-      "published_at": "2026-05-28T04:42:17.000Z",
-      "available_at": "2026-05-28T10:05:35.000Z",
-      "start_scheduled": "2026-05-28T10:00:00.000Z",
-      "start_actual": "2026-05-28T10:05:35.000Z",
-      "live_viewers": 3794,
-      "channel": {
-        "id": "UC8rcEBzJSleTkf_-agPM20g",
-        "name": "IRyS Ch. hololive-EN",
-        "english_name": "IRyS",
-        "org": "Hololive",
-        "suborg": "iaEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
@@ -191,7 +131,7 @@
       "available_at": "2026-05-28T12:00:09.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:09.000Z",
-      "live_viewers": 22232,
+      "live_viewers": 20575,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -221,26 +161,6 @@
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCLK0cRXu3PY7cPbdWiVYemA": {
-      "video_id": "EoXTDbNTaII",
-      "title": "【 yapyap 】声で破壊するゲームする!? with/アルランディス 鬼ヶ谷テン 蛇宵ティア 【羽流鷲りりり|ななしいんく】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "YAPYAP",
-      "published_at": "2026-05-27T15:09:35.000Z",
-      "available_at": "2026-05-28T12:00:50.000Z",
-      "start_scheduled": "2026-05-28T12:00:00.000Z",
-      "start_actual": "2026-05-28T12:00:50.000Z",
-      "live_viewers": 90,
-      "channel": {
-        "id": "UCLK0cRXu3PY7cPbdWiVYemA",
-        "name": "羽流鷲りりり / Ririri Channel【ななしいんく】",
-        "english_name": "Uruwashi Ririri",
-        "org": "774inc",
-        "suborg": "25Nanashiinku",
-        "photo": "https://yt3.ggpht.com/CrRdj1eqKxWtN9kbkRejxPlNhIoikEhKubDWEPK4BtcJLbvumADzuBxwI_7Oar5PT22x1XQ2Jw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCrt4cTM_sWH0iySLMkwwYLQ": {
       "video_id": "AY4fQjR5pB8",
       "title": "【 yapyap 】仲良くケンカしないギャルズyapyap【蛇宵ティア アルランディス 羽流鷲りりり 鬼ヶ谷テン / ななしいんく】",
@@ -259,26 +179,6 @@
         "org": "774inc",
         "suborg": "0 Ex-SugarLyric",
         "photo": "https://yt3.ggpht.com/AfpISUcGYngk2GdQsUu1KA5iPcihgBQV8cdByfYT4DYDewZiHdrzXxtbxp8jMlM_BQC4-5VI=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCv3EicDtxObcZZmnFcHvNnw": {
-      "video_id": "R2EpMJRVUNY",
-      "title": "【YAPYAP】どうやら協力ホラーらしいがまあ行けるっしょ~!【鬼ヶ谷テン/ネオポルテ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "YAPYAP",
-      "published_at": "2026-05-28T11:28:07.000Z",
-      "available_at": "2026-05-28T12:01:46.000Z",
-      "start_scheduled": "2026-05-28T12:00:00.000Z",
-      "start_actual": "2026-05-28T12:01:46.000Z",
-      "live_viewers": 94,
-      "channel": {
-        "id": "UCv3EicDtxObcZZmnFcHvNnw",
-        "name": "鬼ヶ谷 テン / Onigaya Ten",
-        "english_name": "Onigaya Ten",
-        "org": "Neo-Porte",
-        "suborg": "0m6th Generation",
-        "photo": "https://yt3.ggpht.com/ApKOz7sH6YpKWtzBQVaZGVc9N4KHJSlT3MUEVukFphSTTnJMEl_dplx6b3EI5n1pW_heDH4aCQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCTvHWSfBZgtxE4sILOaurIQ": {
@@ -470,7 +370,7 @@
       "available_at": "2026-05-28T14:01:40.000Z",
       "start_scheduled": "2026-05-28T14:00:00.000Z",
       "start_actual": "2026-05-28T14:01:40.000Z",
-      "live_viewers": 1734,
+      "live_viewers": 1798,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
