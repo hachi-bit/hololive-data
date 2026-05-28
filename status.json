@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779970999,
+  "cached_at": 1779971059,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "G4PMyjuvwEY",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-28T08:01:30.000Z",
       "start_scheduled": "2026-05-28T08:00:00.000Z",
       "start_actual": "2026-05-28T08:01:30.000Z",
-      "live_viewers": 2119,
+      "live_viewers": 2042,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-28T09:04:19.000Z",
       "start_scheduled": "2026-05-28T09:05:00.000Z",
       "start_actual": "2026-05-28T09:04:19.000Z",
-      "live_viewers": 1979,
+      "live_viewers": 2020,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-28T10:05:03.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:03.000Z",
-      "live_viewers": 3165,
+      "live_viewers": 3271,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-28T10:05:22.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:22.000Z",
-      "live_viewers": 8083,
+      "live_viewers": 8021,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -221,26 +221,6 @@
         "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCDqI2jOz0weumE8s7paEk6g": {
-      "video_id": "qs4sQvUkTH4",
-      "title": "【オフコラボ 】デート帰りに// ふるさと納税の鯛しゃぶ食べよおおおおお🐡✨【ホロライブ/  #お子様バッテリー  】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Gathering",
-      "published_at": "2026-05-26T23:22:55.000Z",
-      "available_at": "2026-05-28T11:08:32.000Z",
-      "start_scheduled": "2026-05-28T11:00:00.000Z",
-      "start_actual": "2026-05-28T11:08:32.000Z",
-      "live_viewers": 4028,
-      "channel": {
-        "id": "UCDqI2jOz0weumE8s7paEk6g",
-        "name": "Roboco Ch. - ロボ子",
-        "english_name": "Robocosan",
-        "org": "Hololive",
-        "suborg": "0w0th Generation",
-        "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
       "video_id": "wOXAFwn3dw0",
       "title": "【YAPYAP】協力ホラゲを祝詞勢いで乗り越えるギャルず【アルランディス/ホロスターズ】",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-28T11:59:59.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T11:59:59.000Z",
-      "live_viewers": 1351,
+      "live_viewers": 1360,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -290,7 +270,7 @@
       "available_at": "2026-05-28T12:00:09.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:09.000Z",
-      "live_viewers": 17079,
+      "live_viewers": 17433,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -310,7 +290,7 @@
       "available_at": "2026-05-28T12:00:24.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:24.000Z",
-      "live_viewers": 23489,
+      "live_viewers": 24456,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -330,7 +310,7 @@
       "available_at": "2026-05-28T12:00:50.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:50.000Z",
-      "live_viewers": 115,
+      "live_viewers": 107,
       "channel": {
         "id": "UCLK0cRXu3PY7cPbdWiVYemA",
         "name": "羽流鷲りりり / Ririri Channel【ななしいんく】",
@@ -350,7 +330,7 @@
       "available_at": "2026-05-28T12:00:54.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:54.000Z",
-      "live_viewers": 88,
+      "live_viewers": 80,
       "channel": {
         "id": "UCrt4cTM_sWH0iySLMkwwYLQ",
         "name": "蛇宵ティア / Tier Channel【ななしいんく】",
@@ -370,7 +350,7 @@
       "available_at": "2026-05-28T12:01:46.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:01:46.000Z",
-      "live_viewers": 95,
+      "live_viewers": 98,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -390,7 +370,7 @@
       "available_at": "2026-05-28T12:02:31.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:02:31.000Z",
-      "live_viewers": 1358,
+      "live_viewers": 1413,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -410,7 +390,7 @@
       "available_at": "2026-05-28T12:04:26.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:04:26.000Z",
-      "live_viewers": 6385,
+      "live_viewers": 6515,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
