@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779930319,
+  "cached_at": 1779930379,
   "lives": {
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "J-cQnf0SGUw",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-28T00:09:03.000Z",
       "start_scheduled": "2026-05-28T00:00:00.000Z",
       "start_actual": "2026-05-28T00:09:03.000Z",
-      "live_viewers": 1410,
+      "live_viewers": 1398,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-28T00:55:12.000Z",
       "start_scheduled": "2026-05-28T01:00:00.000Z",
       "start_actual": "2026-05-28T00:55:12.000Z",
-      "live_viewers": 2212,
+      "live_viewers": 3207,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-28T00:55:24.000Z",
       "start_scheduled": "2026-05-28T01:00:00.000Z",
       "start_actual": "2026-05-28T00:55:24.000Z",
-      "live_viewers": 1015,
+      "live_viewers": 1258,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-28T00:58:56.000Z",
       "start_scheduled": "2026-05-28T01:00:00.000Z",
       "start_actual": "2026-05-28T00:58:56.000Z",
-      "live_viewers": 1421,
+      "live_viewers": 2017,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-28T00:59:43.000Z",
       "start_scheduled": "2026-05-28T01:00:00.000Z",
       "start_actual": "2026-05-28T00:59:43.000Z",
-      "live_viewers": 1435,
+      "live_viewers": 1874,
       "channel": {
         "id": "UCW5uhrG1eCBYditmhL0Ykjw",
         "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -119,25 +119,6 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
-      "video_id": "BmINsLSSjq0",
-      "title": "≪ENigmatic Recollection: Chapter 3≫ Oh to be Rich #4",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-27T13:09:44.000Z",
-      "available_at": "2026-05-28T01:00:00.000Z",
-      "start_scheduled": "2026-05-28T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "name": "Hakos Baelz Ch. hololive-EN",
-        "english_name": "Hakos Baelz",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCl69AEx4MdqMZH7Jtsm7Tig": {
@@ -157,6 +138,25 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
+      "video_id": "BmINsLSSjq0",
+      "title": "≪ENigmatic Recollection: Chapter 3≫ Oh to be Rich #4",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-27T13:09:44.000Z",
+      "available_at": "2026-05-28T01:00:00.000Z",
+      "start_scheduled": "2026-05-28T01:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "name": "Hakos Baelz Ch. hololive-EN",
+        "english_name": "Hakos Baelz",
+        "org": "Hololive",
+        "suborg": "ibEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
