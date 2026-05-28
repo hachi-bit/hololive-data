@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779969199,
+  "cached_at": 1779969259,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "G4PMyjuvwEY",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-28T08:01:30.000Z",
       "start_scheduled": "2026-05-28T08:00:00.000Z",
       "start_actual": "2026-05-28T08:01:30.000Z",
-      "live_viewers": 2655,
+      "live_viewers": 2588,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-28T09:04:19.000Z",
       "start_scheduled": "2026-05-28T09:05:00.000Z",
       "start_actual": "2026-05-28T09:04:19.000Z",
-      "live_viewers": 1934,
+      "live_viewers": 2017,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-28T09:57:37.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T09:57:37.000Z",
-      "live_viewers": 8618,
+      "live_viewers": 8187,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCAoy6rzhSf4ydcYjJw3WoVg": {
-      "video_id": "Y_T7hM8M9r4",
-      "title": "I'm on Observation Duty 7! Aye aye!【 iofi / hololiveID 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "I'm_on_Observation_Duty",
-      "published_at": "2026-05-28T06:44:35.000Z",
-      "available_at": "2026-05-28T09:59:37.000Z",
-      "start_scheduled": "2026-05-28T10:00:00.000Z",
-      "start_actual": "2026-05-28T09:59:37.000Z",
-      "live_viewers": 769,
-      "channel": {
-        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-        "name": "Airani Iofifteen Channel hololive-ID",
-        "english_name": "Airani Iofifteen",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCCzUftO8KOVkV4wQG1vkUvg": {
@@ -131,7 +111,7 @@
       "available_at": "2026-05-28T09:59:40.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T09:59:40.000Z",
-      "live_viewers": 33524,
+      "live_viewers": 33302,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-28T10:05:22.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:22.000Z",
-      "live_viewers": 8908,
+      "live_viewers": 8902,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-28T10:05:33.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:33.000Z",
-      "live_viewers": 6210,
+      "live_viewers": 6166,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-28T10:05:35.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:35.000Z",
-      "live_viewers": 4192,
+      "live_viewers": 4114,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-28T10:58:34.000Z",
       "start_scheduled": "2026-05-28T11:00:00.000Z",
       "start_actual": "2026-05-28T10:58:34.000Z",
-      "live_viewers": 5763,
+      "live_viewers": 5741,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-28T11:08:32.000Z",
       "start_scheduled": "2026-05-28T11:00:00.000Z",
       "start_actual": "2026-05-28T11:08:32.000Z",
-      "live_viewers": 5070,
+      "live_viewers": 5067,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
