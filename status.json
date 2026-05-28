@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779978619,
+  "cached_at": 1779978679,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "G4PMyjuvwEY",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-28T09:57:37.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T09:57:37.000Z",
-      "live_viewers": 9224,
+      "live_viewers": 9125,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-28T12:00:09.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:09.000Z",
-      "live_viewers": 20525,
+      "live_viewers": 19936,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-28T12:00:24.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:24.000Z",
-      "live_viewers": 24656,
+      "live_viewers": 24594,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCrt4cTM_sWH0iySLMkwwYLQ": {
-      "video_id": "AY4fQjR5pB8",
-      "title": "【 yapyap 】仲良くケンカしないギャルズyapyap【蛇宵ティア アルランディス 羽流鷲りりり 鬼ヶ谷テン / ななしいんく】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "YAPYAP",
-      "published_at": "2026-05-26T13:40:28.000Z",
-      "available_at": "2026-05-28T12:00:54.000Z",
-      "start_scheduled": "2026-05-28T12:00:00.000Z",
-      "start_actual": "2026-05-28T12:00:54.000Z",
-      "live_viewers": 65,
-      "channel": {
-        "id": "UCrt4cTM_sWH0iySLMkwwYLQ",
-        "name": "蛇宵ティア / Tier Channel【ななしいんく】",
-        "english_name": "Hebiyoi Tier",
-        "org": "774inc",
-        "suborg": "0 Ex-SugarLyric",
-        "photo": "https://yt3.ggpht.com/AfpISUcGYngk2GdQsUu1KA5iPcihgBQV8cdByfYT4DYDewZiHdrzXxtbxp8jMlM_BQC4-5VI=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCTvHWSfBZgtxE4sILOaurIQ": {
@@ -171,7 +151,7 @@
       "available_at": "2026-05-28T12:04:26.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:04:26.000Z",
-      "live_viewers": 7070,
+      "live_viewers": 7037,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-28T12:46:43.000Z",
       "start_scheduled": "2026-05-28T12:45:00.000Z",
       "start_actual": "2026-05-28T12:46:43.000Z",
-      "live_viewers": 13908,
+      "live_viewers": 13828,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-28T13:00:23.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:00:23.000Z",
-      "live_viewers": 676,
+      "live_viewers": 646,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-28T13:00:37.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:00:37.000Z",
-      "live_viewers": 2863,
+      "live_viewers": 3074,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-28T13:01:05.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:01:05.000Z",
-      "live_viewers": 109,
+      "live_viewers": 111,
       "channel": {
         "id": "UC5_ygk4jcNx-QSkpaBbrhAA",
         "name": "Aya Aulya",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-28T13:05:49.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:05:49.000Z",
-      "live_viewers": 450,
+      "live_viewers": 470,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -330,7 +310,7 @@
       "available_at": "2026-05-28T14:01:40.000Z",
       "start_scheduled": "2026-05-28T14:00:00.000Z",
       "start_actual": "2026-05-28T14:01:40.000Z",
-      "live_viewers": 1798,
+      "live_viewers": 1828,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -358,6 +338,26 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6t3-_N8A6ME1JShZHHqOMw": {
+      "video_id": "FVfbAWnpdIg",
+      "title": "#4【Dying Light: The Beast】ゾンビが蔓延する世界でホロスタは生き残ります。 【花咲みやび/岸堂天真/羽継烏有/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dying_Light",
+      "published_at": "2026-05-26T02:42:13.000Z",
+      "available_at": "2026-05-28T14:27:38.000Z",
+      "start_scheduled": "2026-05-28T14:30:00.000Z",
+      "start_actual": "2026-05-28T14:27:38.000Z",
+      "live_viewers": 157,
+      "channel": {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "english_name": "Hanasaki Miyabi",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
