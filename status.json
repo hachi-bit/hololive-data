@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779964639,
+  "cached_at": 1779964699,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "G4PMyjuvwEY",
@@ -41,26 +41,6 @@
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCc88OV45ICgHbn3ZqLLb52w": {
-      "video_id": "u2KXPd-66zA",
-      "title": "初イングリッドで対戦→心折れるまで【ストリートファイター6】- 夜十神封魔 / ホロスターズ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-05-27T17:25:11.000Z",
-      "available_at": "2026-05-28T07:18:52.000Z",
-      "start_scheduled": "2026-05-28T07:30:00.000Z",
-      "start_actual": "2026-05-28T07:18:52.000Z",
-      "live_viewers": 369,
-      "channel": {
-        "id": "UCc88OV45ICgHbn3ZqLLb52w",
-        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-        "english_name": "Yatogami Fuma",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "F71VhvlOZO4",
       "title": "【 Forza Horizon 6 】初めてのForza Horizon 6!無免許でも走れる!?【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-28T08:01:30.000Z",
       "start_scheduled": "2026-05-28T08:00:00.000Z",
       "start_actual": "2026-05-28T08:01:30.000Z",
-      "live_viewers": 7237,
+      "live_viewers": 7095,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-28T09:04:19.000Z",
       "start_scheduled": "2026-05-28T09:05:00.000Z",
       "start_actual": "2026-05-28T09:04:19.000Z",
-      "live_viewers": 2443,
+      "live_viewers": 2414,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-28T09:57:37.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T09:57:37.000Z",
-      "live_viewers": 5375,
+      "live_viewers": 5532,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-28T09:59:37.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T09:59:37.000Z",
-      "live_viewers": 599,
+      "live_viewers": 613,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-28T09:59:40.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T09:59:40.000Z",
-      "live_viewers": 32985,
+      "live_viewers": 33524,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-28T10:00:17.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:00:17.000Z",
-      "live_viewers": 1012,
+      "live_viewers": 1104,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-28T10:05:22.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:22.000Z",
-      "live_viewers": 7308,
+      "live_viewers": 7441,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-28T10:05:33.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:33.000Z",
-      "live_viewers": 5874,
+      "live_viewers": 6068,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-28T10:05:35.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:35.000Z",
-      "live_viewers": 4074,
+      "live_viewers": 4084,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
