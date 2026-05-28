@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779959179,
+  "cached_at": 1779959239,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "G4PMyjuvwEY",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-28T07:13:00.000Z",
       "start_scheduled": "2026-05-28T07:15:00.000Z",
       "start_actual": "2026-05-28T07:13:00.000Z",
-      "live_viewers": 2035,
+      "live_viewers": 2006,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -108,9 +108,10 @@
       "status": "live",
       "topic_id": "totsu",
       "published_at": "2026-05-26T12:30:10.000Z",
-      "available_at": "2026-05-28T09:00:00.000Z",
+      "available_at": "2026-05-28T09:01:44.000Z",
       "start_scheduled": "2026-05-28T09:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-28T09:01:44.000Z",
+      "live_viewers": 11262,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -118,6 +119,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_sFNM0z0MWm9A6WlKPuMMg": {
+      "video_id": "KPBE4inypFk",
+      "title": "electrify my heart ah ah ah oh oh oh ohoh | SINGLE SONG KARAOKE REBROADCAST",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-28T09:03:12.000Z",
+      "available_at": "2026-05-28T09:04:16.000Z",
+      "start_scheduled": "2026-05-28T09:05:00.000Z",
+      "start_actual": "2026-05-28T09:04:16.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+        "name": "Nerissa Ravencroft Ch. hololive-EN",
+        "english_name": "Nerissa Ravencroft",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
