@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779979098,
+  "cached_at": 1779979159,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "GCRvf68M_Ng",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-28T07:13:00.000Z",
       "start_scheduled": "2026-05-28T07:15:00.000Z",
       "start_actual": "2026-05-28T07:13:00.000Z",
-      "live_viewers": 992,
+      "live_viewers": 1035,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-28T09:04:19.000Z",
       "start_scheduled": "2026-05-28T09:05:00.000Z",
       "start_actual": "2026-05-28T09:04:19.000Z",
-      "live_viewers": 2439,
+      "live_viewers": 2610,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-28T09:57:37.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T09:57:37.000Z",
-      "live_viewers": 9125,
+      "live_viewers": 8077,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "6S9ojYwKMsI",
-      "title": "【初見】『逆襲のシャア』同時視聴!!【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-05-26T06:24:47.000Z",
-      "available_at": "2026-05-28T12:00:09.000Z",
-      "start_scheduled": "2026-05-28T12:00:00.000Z",
-      "start_actual": "2026-05-28T12:00:09.000Z",
-      "live_viewers": 19366,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
@@ -211,7 +191,7 @@
       "available_at": "2026-05-28T13:05:49.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:05:49.000Z",
-      "live_viewers": 470,
+      "live_viewers": 456,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -270,7 +250,7 @@
       "available_at": "2026-05-28T14:01:40.000Z",
       "start_scheduled": "2026-05-28T14:00:00.000Z",
       "start_actual": "2026-05-28T14:01:40.000Z",
-      "live_viewers": 1734,
+      "live_viewers": 1869,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -310,7 +290,7 @@
       "available_at": "2026-05-28T14:27:38.000Z",
       "start_scheduled": "2026-05-28T14:30:00.000Z",
       "start_actual": "2026-05-28T14:27:38.000Z",
-      "live_viewers": 327,
+      "live_viewers": 364,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -327,9 +307,10 @@
       "status": "live",
       "topic_id": "Dying_Light",
       "published_at": "2026-05-28T10:38:11.000Z",
-      "available_at": "2026-05-28T14:30:00.000Z",
+      "available_at": "2026-05-28T14:31:30.000Z",
       "start_scheduled": "2026-05-28T14:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-28T14:31:30.000Z",
+      "live_viewers": 235,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
