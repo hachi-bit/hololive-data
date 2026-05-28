@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779983359,
+  "cached_at": 1779983419,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "GCRvf68M_Ng",
@@ -46,7 +46,7 @@
       "title": "【007 First Light】Agent do agent things #1",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "007_First_Light",
       "published_at": "2026-05-28T02:34:07.000Z",
       "available_at": "2026-05-28T12:02:31.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-28T13:01:05.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:01:05.000Z",
-      "live_viewers": 100,
+      "live_viewers": 106,
       "channel": {
         "id": "UC5_ygk4jcNx-QSkpaBbrhAA",
         "name": "Aya Aulya",
