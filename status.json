@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779973399,
+  "cached_at": 1779973459,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "G4PMyjuvwEY",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-28T03:04:12.000Z",
       "start_scheduled": "2026-05-28T03:00:00.000Z",
       "start_actual": "2026-05-28T03:04:12.000Z",
-      "live_viewers": 421,
+      "live_viewers": 415,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -310,7 +310,7 @@
       "available_at": "2026-05-28T12:00:54.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:54.000Z",
-      "live_viewers": 72,
+      "live_viewers": 63,
       "channel": {
         "id": "UCrt4cTM_sWH0iySLMkwwYLQ",
         "name": "蛇宵ティア / Tier Channel【ななしいんく】",
@@ -390,7 +390,7 @@
       "available_at": "2026-05-28T12:46:43.000Z",
       "start_scheduled": "2026-05-28T12:45:00.000Z",
       "start_actual": "2026-05-28T12:46:43.000Z",
-      "live_viewers": 11169,
+      "live_viewers": 11611,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -398,6 +398,101 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC-hM6YJuNYVAmUWxeIr9FeA": {
+      "video_id": "AihZFl5Ci80",
+      "title": "【 百尺様 】え??????????でっか・・・・・・【ホロライブ/さくらみこ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "HyakusyakuSama",
+      "published_at": "2026-05-28T10:52:36.000Z",
+      "available_at": "2026-05-28T13:00:00.000Z",
+      "start_scheduled": "2026-05-28T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+        "name": "Miko Ch. さくらみこ",
+        "english_name": "Sakura Miko",
+        "org": "Hololive",
+        "suborg": "0y0th Generation",
+        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC5_ygk4jcNx-QSkpaBbrhAA": {
+      "video_id": "luU5VAe17Jk",
+      "title": "Kami bisa sulap",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "YAPYAP",
+      "published_at": "2026-05-28T10:13:47.000Z",
+      "available_at": "2026-05-28T13:00:00.000Z",
+      "start_scheduled": "2026-05-28T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC5_ygk4jcNx-QSkpaBbrhAA",
+        "name": "Aya Aulya",
+        "english_name": "Aya Aulya",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/ZjTMEBeXsnTUo_Ce7VynWzWGtkWdEWiIML5YzPCU4ZkQ48r0m_f_bsZBeGTaT5sBPKZg5XpE8w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCOyYb1c43VlX9rc_lT6NKQw": {
+      "video_id": "VrdLAoPkXl4",
+      "title": "YAPPING TAPI MAIN W/ @sammybollivienn @sayaayaaulya",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "YAPYAP",
+      "published_at": "2026-05-28T11:57:50.000Z",
+      "available_at": "2026-05-28T13:00:00.000Z",
+      "start_scheduled": "2026-05-28T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+        "name": "Ayunda Risu Ch. hololive-ID",
+        "english_name": "Ayunda Risu",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1iA6_NT4mtAcIII6ygrvCw": {
+      "video_id": "wqkCh0-c9fk",
+      "title": "【Supermarket Together】巷で賑わう大人気☆スーパー【轟はじめ/ReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Supermarket_Together",
+      "published_at": "2026-05-28T11:30:23.000Z",
+      "available_at": "2026-05-28T13:00:00.000Z",
+      "start_scheduled": "2026-05-28T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+        "english_name": "Todoroki Hajime",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "82qLg-vaLrs",
+      "title": "【LoL】LTK TOP練習   / アステル わしだいこーち",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-05-28T12:52:04.000Z",
+      "available_at": "2026-05-28T13:00:00.000Z",
+      "start_scheduled": "2026-05-28T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
