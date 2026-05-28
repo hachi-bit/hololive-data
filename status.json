@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779978499,
+  "cached_at": 1779978559,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "G4PMyjuvwEY",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-28T03:04:12.000Z",
       "start_scheduled": "2026-05-28T03:00:00.000Z",
       "start_actual": "2026-05-28T03:04:12.000Z",
-      "live_viewers": 366,
+      "live_viewers": 360,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-28T07:13:00.000Z",
       "start_scheduled": "2026-05-28T07:15:00.000Z",
       "start_actual": "2026-05-28T07:13:00.000Z",
-      "live_viewers": 936,
+      "live_viewers": 992,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -81,46 +81,6 @@
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCqm3BQLlJfvkTsX_hvm0UmA": {
-      "video_id": "laWoqU1dO7Q",
-      "title": "【 School 666 】異変を探して、異常現象から生き残るぞ！！！！【角巻わため/ホロライブ４期生】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "School_666",
-      "published_at": "2026-05-27T17:28:33.000Z",
-      "available_at": "2026-05-28T10:05:22.000Z",
-      "start_scheduled": "2026-05-28T10:00:00.000Z",
-      "start_actual": "2026-05-28T10:05:22.000Z",
-      "live_viewers": 5559,
-      "channel": {
-        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-        "name": "Watame Ch. 角巻わため",
-        "english_name": "Tsunomaki Watame",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKeAhJvy8zgXWbh9duVjIaQ": {
-      "video_id": "wOXAFwn3dw0",
-      "title": "【YAPYAP】協力ホラゲを祝詞勢いで乗り越えるギャルず【アルランディス/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "YAPYAP",
-      "published_at": "2026-05-28T05:42:23.000Z",
-      "available_at": "2026-05-28T11:59:59.000Z",
-      "start_scheduled": "2026-05-28T12:00:00.000Z",
-      "start_actual": "2026-05-28T11:59:59.000Z",
-      "live_viewers": 1108,
-      "channel": {
-        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
-        "name": "Aruran Ch. アルランディス",
-        "english_name": "Arurandeisu",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "6S9ojYwKMsI",
       "title": "【初見】『逆襲のシャア』同時視聴!!【ホロライブ/兎田ぺこら】",
@@ -131,7 +91,7 @@
       "available_at": "2026-05-28T12:00:09.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:09.000Z",
-      "live_viewers": 20575,
+      "live_viewers": 20525,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +111,7 @@
       "available_at": "2026-05-28T12:00:24.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:24.000Z",
-      "live_viewers": 23960,
+      "live_viewers": 24656,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -231,7 +191,7 @@
       "available_at": "2026-05-28T12:46:43.000Z",
       "start_scheduled": "2026-05-28T12:45:00.000Z",
       "start_actual": "2026-05-28T12:46:43.000Z",
-      "live_viewers": 11443,
+      "live_viewers": 13908,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -331,7 +291,7 @@
       "available_at": "2026-05-28T13:10:16.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:10:16.000Z",
-      "live_viewers": 24034,
+      "live_viewers": 23969,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
