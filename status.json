@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779977419,
+  "cached_at": 1779977480,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "G4PMyjuvwEY",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-28T09:04:19.000Z",
       "start_scheduled": "2026-05-28T09:05:00.000Z",
       "start_actual": "2026-05-28T09:04:19.000Z",
-      "live_viewers": 2036,
+      "live_viewers": 2275,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-28T09:57:37.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T09:57:37.000Z",
-      "live_viewers": 10300,
+      "live_viewers": 9889,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-28T10:05:22.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:22.000Z",
-      "live_viewers": 7601,
+      "live_viewers": 7679,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-28T10:05:35.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:35.000Z",
-      "live_viewers": 3713,
+      "live_viewers": 3724,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -159,26 +159,6 @@
         "org": "Hololive",
         "suborg": "iaEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC3OH5FKQ3qtl4uRme_vZTgA": {
-      "video_id": "UdH4oURm_zk",
-      "title": "【ギャ。】ーギャルが歌う理由についてー【 #UNIT_B / 宵凪ネオン】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-28T05:52:04.000Z",
-      "available_at": "2026-05-28T10:58:34.000Z",
-      "start_scheduled": "2026-05-28T11:00:00.000Z",
-      "start_actual": "2026-05-28T10:58:34.000Z",
-      "live_viewers": 3909,
-      "channel": {
-        "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
-        "name": "UNIT B (Pre-Debut) - mekPark",
-        "english_name": "UNIT B [Pre-Debut]",
-        "org": "Hololive",
-        "suborg": "v_mekPark",
-        "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
@@ -211,7 +191,7 @@
       "available_at": "2026-05-28T12:00:09.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:09.000Z",
-      "live_viewers": 23041,
+      "live_viewers": 23413,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-28T12:00:24.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:24.000Z",
-      "live_viewers": 24145,
+      "live_viewers": 23983,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-28T12:00:50.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:50.000Z",
-      "live_viewers": 99,
+      "live_viewers": 90,
       "channel": {
         "id": "UCLK0cRXu3PY7cPbdWiVYemA",
         "name": "羽流鷲りりり / Ririri Channel【ななしいんく】",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-28T12:04:26.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:04:26.000Z",
-      "live_viewers": 6848,
+      "live_viewers": 7000,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -351,7 +331,7 @@
       "available_at": "2026-05-28T12:46:43.000Z",
       "start_scheduled": "2026-05-28T12:45:00.000Z",
       "start_actual": "2026-05-28T12:46:43.000Z",
-      "live_viewers": 12610,
+      "live_viewers": 11443,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -411,7 +391,7 @@
       "available_at": "2026-05-28T13:01:05.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:01:05.000Z",
-      "live_viewers": 117,
+      "live_viewers": 109,
       "channel": {
         "id": "UC5_ygk4jcNx-QSkpaBbrhAA",
         "name": "Aya Aulya",
@@ -490,7 +470,7 @@
       "available_at": "2026-05-28T14:01:40.000Z",
       "start_scheduled": "2026-05-28T14:00:00.000Z",
       "start_actual": "2026-05-28T14:01:40.000Z",
-      "live_viewers": 405,
+      "live_viewers": 479,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -510,7 +490,7 @@
       "available_at": "2026-05-28T14:02:03.000Z",
       "start_scheduled": "2026-05-28T14:00:00.000Z",
       "start_actual": "2026-05-28T14:02:03.000Z",
-      "live_viewers": 314,
+      "live_viewers": 323,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
