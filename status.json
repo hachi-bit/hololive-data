@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779957139,
+  "cached_at": 1779957199,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "G4PMyjuvwEY",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-28T04:01:37.000Z",
       "start_scheduled": "2026-05-28T04:00:00.000Z",
       "start_actual": "2026-05-28T04:01:37.000Z",
-      "live_viewers": 2507,
+      "live_viewers": 2480,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -62,16 +62,15 @@
       }
     },
     "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "TzgJ-Yj4AT8",
-      "title": "【#リオナ生誕祭36時】変態ジェントルマン桃鉄🍑【ホロライブ DEV_IS 響咲リオナ】",
+      "video_id": "MW98F6KnkIY",
+      "title": "【#リオナ生誕祭36時】人生初凸待ち!夜ご飯も食べる🎵【ホロライブ DEV_IS 響咲リオナ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "momotaro_dentetsu",
-      "published_at": "2026-05-26T12:28:01.000Z",
-      "available_at": "2026-05-28T06:36:23.000Z",
-      "start_scheduled": "2026-05-28T06:30:00.000Z",
-      "start_actual": "2026-05-28T06:36:23.000Z",
-      "live_viewers": 14140,
+      "topic_id": "totsu",
+      "published_at": "2026-05-26T12:30:10.000Z",
+      "available_at": "2026-05-28T08:30:00.000Z",
+      "start_scheduled": "2026-05-28T08:30:00.000Z",
+      "live_viewers": 0,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -131,7 +130,7 @@
       "available_at": "2026-05-28T08:01:30.000Z",
       "start_scheduled": "2026-05-28T08:00:00.000Z",
       "start_actual": "2026-05-28T08:01:30.000Z",
-      "live_viewers": 5810,
+      "live_viewers": 5785,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
