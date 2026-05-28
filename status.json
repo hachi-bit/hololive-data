@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779983959,
+  "cached_at": 1779984020,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "GCRvf68M_Ng",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-28T09:04:19.000Z",
       "start_scheduled": "2026-05-28T09:05:00.000Z",
       "start_actual": "2026-05-28T09:04:19.000Z",
-      "live_viewers": 2324,
+      "live_viewers": 2399,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-28T13:01:05.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:01:05.000Z",
-      "live_viewers": 107,
+      "live_viewers": 114,
       "channel": {
         "id": "UC5_ygk4jcNx-QSkpaBbrhAA",
         "name": "Aya Aulya",
@@ -99,26 +99,6 @@
         "org": "Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/ZjTMEBeXsnTUo_Ce7VynWzWGtkWdEWiIML5YzPCU4ZkQ48r0m_f_bsZBeGTaT5sBPKZg5XpE8w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "82qLg-vaLrs",
-      "title": "【LoL】LTK TOP練習   / アステル わしだいこーち",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-05-28T12:52:04.000Z",
-      "available_at": "2026-05-28T13:05:49.000Z",
-      "start_scheduled": "2026-05-28T13:00:00.000Z",
-      "start_actual": "2026-05-28T13:05:49.000Z",
-      "live_viewers": 483,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCP0BspO_AMEe3aQqqpo89Dg": {
@@ -131,7 +111,7 @@
       "available_at": "2026-05-28T14:01:40.000Z",
       "start_scheduled": "2026-05-28T14:00:00.000Z",
       "start_actual": "2026-05-28T14:01:40.000Z",
-      "live_viewers": 2173,
+      "live_viewers": 2192,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-28T14:31:30.000Z",
       "start_scheduled": "2026-05-28T14:30:00.000Z",
       "start_actual": "2026-05-28T14:31:30.000Z",
-      "live_viewers": 330,
+      "live_viewers": 321,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-28T14:45:13.000Z",
       "start_scheduled": "2026-05-28T14:45:00.000Z",
       "start_actual": "2026-05-28T14:45:13.000Z",
-      "live_viewers": 13432,
+      "live_viewers": 13409,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
