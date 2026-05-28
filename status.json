@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779970699,
+  "cached_at": 1779970759,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "G4PMyjuvwEY",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-28T08:01:30.000Z",
       "start_scheduled": "2026-05-28T08:00:00.000Z",
       "start_actual": "2026-05-28T08:01:30.000Z",
-      "live_viewers": 2245,
+      "live_viewers": 2119,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-28T09:59:40.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T09:59:40.000Z",
-      "live_viewers": 27805,
+      "live_viewers": 27569,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-28T10:05:22.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:22.000Z",
-      "live_viewers": 8210,
+      "live_viewers": 8083,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-28T10:05:33.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:33.000Z",
-      "live_viewers": 5438,
+      "live_viewers": 5184,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -206,12 +206,12 @@
       "title": "【ギャ。】ーギャルが歌う理由についてー【 #UNIT_B / 宵凪ネオン】",
       "type": "stream",
       "status": "live",
-      "topic_id": "singing",
+      "topic_id": "talk",
       "published_at": "2026-05-28T05:52:04.000Z",
       "available_at": "2026-05-28T10:58:34.000Z",
       "start_scheduled": "2026-05-28T11:00:00.000Z",
       "start_actual": "2026-05-28T10:58:34.000Z",
-      "live_viewers": 4965,
+      "live_viewers": 4925,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-28T11:08:32.000Z",
       "start_scheduled": "2026-05-28T11:00:00.000Z",
       "start_actual": "2026-05-28T11:08:32.000Z",
-      "live_viewers": 4174,
+      "live_viewers": 4028,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-28T11:59:59.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T11:59:59.000Z",
-      "live_viewers": 1281,
+      "live_viewers": 1344,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -310,7 +310,7 @@
       "available_at": "2026-05-28T12:00:09.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:09.000Z",
-      "live_viewers": 15811,
+      "live_viewers": 16367,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -330,7 +330,7 @@
       "available_at": "2026-05-28T12:00:24.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:24.000Z",
-      "live_viewers": 21097,
+      "live_viewers": 22807,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -350,7 +350,7 @@
       "available_at": "2026-05-28T12:00:50.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:50.000Z",
-      "live_viewers": 107,
+      "live_viewers": 117,
       "channel": {
         "id": "UCLK0cRXu3PY7cPbdWiVYemA",
         "name": "羽流鷲りりり / Ririri Channel【ななしいんく】",
@@ -370,7 +370,7 @@
       "available_at": "2026-05-28T12:00:54.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:54.000Z",
-      "live_viewers": 86,
+      "live_viewers": 89,
       "channel": {
         "id": "UCrt4cTM_sWH0iySLMkwwYLQ",
         "name": "蛇宵ティア / Tier Channel【ななしいんく】",
@@ -390,7 +390,7 @@
       "available_at": "2026-05-28T12:01:46.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:01:46.000Z",
-      "live_viewers": 93,
+      "live_viewers": 92,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -410,7 +410,7 @@
       "available_at": "2026-05-28T12:02:31.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:02:31.000Z",
-      "live_viewers": 1104,
+      "live_viewers": 1237,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -430,7 +430,7 @@
       "available_at": "2026-05-28T12:04:26.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:04:26.000Z",
-      "live_viewers": 5707,
+      "live_viewers": 5876,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
