@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779978919,
+  "cached_at": 1779978979,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "GCRvf68M_Ng",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-28T12:00:09.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:09.000Z",
-      "live_viewers": 19936,
+      "live_viewers": 19366,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-28T12:02:31.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:02:31.000Z",
-      "live_viewers": 1713,
+      "live_viewers": 1753,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-28T12:04:26.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:04:26.000Z",
-      "live_viewers": 7037,
+      "live_viewers": 6922,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -139,26 +139,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "WYM1oeu-oqM",
-      "title": "【#リオナ生誕祭36時】一人遊びタイム!マネちゃんと遊んだり、ゲストも・・?【ホロライブ DEV_IS 響咲リオナ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-26T12:36:47.000Z",
-      "available_at": "2026-05-28T12:46:43.000Z",
-      "start_scheduled": "2026-05-28T12:45:00.000Z",
-      "start_actual": "2026-05-28T12:46:43.000Z",
-      "live_viewers": 13828,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCOyYb1c43VlX9rc_lT6NKQw": {
@@ -251,7 +231,7 @@
       "available_at": "2026-05-28T13:10:16.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:10:16.000Z",
-      "live_viewers": 23969,
+      "live_viewers": 22972,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -330,7 +310,7 @@
       "available_at": "2026-05-28T14:27:38.000Z",
       "start_scheduled": "2026-05-28T14:30:00.000Z",
       "start_actual": "2026-05-28T14:27:38.000Z",
-      "live_viewers": 284,
+      "live_viewers": 327,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
