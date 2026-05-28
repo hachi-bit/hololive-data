@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779974779,
+  "cached_at": 1779974839,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "G4PMyjuvwEY",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-28T09:57:37.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T09:57:37.000Z",
-      "live_viewers": 10505,
+      "live_viewers": 10804,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-28T09:59:40.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T09:59:40.000Z",
-      "live_viewers": 24150,
+      "live_viewers": 24348,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-28T10:58:34.000Z",
       "start_scheduled": "2026-05-28T11:00:00.000Z",
       "start_actual": "2026-05-28T10:58:34.000Z",
-      "live_viewers": 4260,
+      "live_viewers": 4216,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-28T12:00:50.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:50.000Z",
-      "live_viewers": 106,
+      "live_viewers": 97,
       "channel": {
         "id": "UCLK0cRXu3PY7cPbdWiVYemA",
         "name": "羽流鷲りりり / Ririri Channel【ななしいんく】",
@@ -299,26 +299,6 @@
         "org": "774inc",
         "suborg": "0 Ex-SugarLyric",
         "photo": "https://yt3.ggpht.com/AfpISUcGYngk2GdQsUu1KA5iPcihgBQV8cdByfYT4DYDewZiHdrzXxtbxp8jMlM_BQC4-5VI=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "l3us83wYb_g",
-      "title": "【メン限】花咲の森 さよなら虚無すずめ【花咲みやび/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-28T11:24:32.000Z",
-      "available_at": "2026-05-28T12:01:44.000Z",
-      "start_scheduled": "2026-05-28T12:00:00.000Z",
-      "start_actual": "2026-05-28T12:01:44.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCv3EicDtxObcZZmnFcHvNnw": {
@@ -411,7 +391,7 @@
       "available_at": "2026-05-28T13:00:23.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:00:23.000Z",
-      "live_viewers": 598,
+      "live_viewers": 626,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -431,7 +411,7 @@
       "available_at": "2026-05-28T13:00:37.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:00:37.000Z",
-      "live_viewers": 2231,
+      "live_viewers": 2226,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -471,7 +451,7 @@
       "available_at": "2026-05-28T13:05:49.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:05:49.000Z",
-      "live_viewers": 371,
+      "live_viewers": 401,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -491,7 +471,7 @@
       "available_at": "2026-05-28T13:10:16.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:10:16.000Z",
-      "live_viewers": 18225,
+      "live_viewers": 19118,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
