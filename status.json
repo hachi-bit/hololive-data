@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779945679,
+  "cached_at": 1779945739,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "60_Pduc0ODY",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-28T00:55:13.000Z",
       "start_scheduled": "2026-05-28T01:00:00.000Z",
       "start_actual": "2026-05-28T00:55:13.000Z",
-      "live_viewers": 2111,
+      "live_viewers": 2039,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCW5uhrG1eCBYditmhL0Ykjw": {
-      "video_id": "HEWSty8elxo",
-      "title": "【ENigmatic Recollection】Broken Bonds EP 4 | Lady Bloodflame Roleplay POV 💄",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-24T19:13:13.000Z",
-      "available_at": "2026-05-28T00:59:43.000Z",
-      "start_scheduled": "2026-05-28T01:00:00.000Z",
-      "start_actual": "2026-05-28T00:59:43.000Z",
-      "live_viewers": 2281,
-      "channel": {
-        "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-        "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-        "english_name": "Elizabeth Rose Bloodflame",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCDHABijvPBnJm7F-KlNME3w": {
@@ -111,7 +91,7 @@
       "available_at": "2026-05-28T02:02:04.000Z",
       "start_scheduled": "2026-05-28T02:00:00.000Z",
       "start_actual": "2026-05-28T02:02:04.000Z",
-      "live_viewers": 4971,
+      "live_viewers": 5094,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-28T03:03:57.000Z",
       "start_scheduled": "2026-05-28T03:00:00.000Z",
       "start_actual": "2026-05-28T03:03:57.000Z",
-      "live_viewers": 8566,
+      "live_viewers": 8764,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-28T03:04:12.000Z",
       "start_scheduled": "2026-05-28T03:00:00.000Z",
       "start_actual": "2026-05-28T03:04:12.000Z",
-      "live_viewers": 392,
+      "live_viewers": 408,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-28T04:01:37.000Z",
       "start_scheduled": "2026-05-28T04:00:00.000Z",
       "start_actual": "2026-05-28T04:01:37.000Z",
-      "live_viewers": 1080,
+      "live_viewers": 1108,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
