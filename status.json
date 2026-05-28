@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779984739,
+  "cached_at": 1779984799,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "GCRvf68M_Ng",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-28T07:13:00.000Z",
       "start_scheduled": "2026-05-28T07:15:00.000Z",
       "start_actual": "2026-05-28T07:13:00.000Z",
-      "live_viewers": 1194,
+      "live_viewers": 1223,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-28T09:04:19.000Z",
       "start_scheduled": "2026-05-28T09:05:00.000Z",
       "start_actual": "2026-05-28T09:04:19.000Z",
-      "live_viewers": 2436,
+      "live_viewers": 2488,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-28T13:00:23.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:00:23.000Z",
-      "live_viewers": 708,
+      "live_viewers": 624,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC5_ygk4jcNx-QSkpaBbrhAA": {
-      "video_id": "luU5VAe17Jk",
-      "title": "Kami bisa sulap",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "YAPYAP",
-      "published_at": "2026-05-28T10:13:47.000Z",
-      "available_at": "2026-05-28T13:01:05.000Z",
-      "start_scheduled": "2026-05-28T13:00:00.000Z",
-      "start_actual": "2026-05-28T13:01:05.000Z",
-      "live_viewers": 109,
-      "channel": {
-        "id": "UC5_ygk4jcNx-QSkpaBbrhAA",
-        "name": "Aya Aulya",
-        "english_name": "Aya Aulya",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/ZjTMEBeXsnTUo_Ce7VynWzWGtkWdEWiIML5YzPCU4ZkQ48r0m_f_bsZBeGTaT5sBPKZg5XpE8w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCP0BspO_AMEe3aQqqpo89Dg": {
@@ -91,7 +71,7 @@
       "available_at": "2026-05-28T14:01:40.000Z",
       "start_scheduled": "2026-05-28T14:00:00.000Z",
       "start_actual": "2026-05-28T14:01:40.000Z",
-      "live_viewers": 2192,
+      "live_viewers": 2057,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-28T14:31:30.000Z",
       "start_scheduled": "2026-05-28T14:30:00.000Z",
       "start_actual": "2026-05-28T14:31:30.000Z",
-      "live_viewers": 321,
+      "live_viewers": 330,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
