@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779935719,
+  "cached_at": 1779935779,
   "lives": {
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "J-cQnf0SGUw",
-      "title": "【#リオナ生誕祭36時】一枠睡眠耐久!マネちゃんによる睡眠妨害あり!?【ホロライブ DEV_IS 響咲リオナ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "endurance",
-      "published_at": "2026-05-26T12:21:36.000Z",
-      "available_at": "2026-05-27T16:11:51.000Z",
-      "start_scheduled": "2026-05-27T16:10:00.000Z",
-      "start_actual": "2026-05-27T16:11:51.000Z",
-      "live_viewers": 14711,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "60_Pduc0ODY",
       "title": "In her trance | ENReco Ch. 3",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-28T00:55:24.000Z",
       "start_scheduled": "2026-05-28T01:00:00.000Z",
       "start_actual": "2026-05-28T00:55:24.000Z",
-      "live_viewers": 1857,
+      "live_viewers": 1761,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-28T00:58:56.000Z",
       "start_scheduled": "2026-05-28T01:00:00.000Z",
       "start_actual": "2026-05-28T00:58:56.000Z",
-      "live_viewers": 2929,
+      "live_viewers": 2882,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-28T01:56:19.000Z",
       "start_scheduled": "2026-05-28T02:15:00.000Z",
       "start_actual": "2026-05-28T01:56:19.000Z",
-      "live_viewers": 765,
+      "live_viewers": 843,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -210,7 +190,7 @@
       "available_at": "2026-05-28T02:02:04.000Z",
       "start_scheduled": "2026-05-28T02:00:00.000Z",
       "start_actual": "2026-05-28T02:02:04.000Z",
-      "live_viewers": 3219,
+      "live_viewers": 3353,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -230,7 +210,7 @@
       "available_at": "2026-05-28T02:02:06.000Z",
       "start_scheduled": "2026-05-28T02:00:00.000Z",
       "start_actual": "2026-05-28T02:02:06.000Z",
-      "live_viewers": 842,
+      "live_viewers": 776,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
