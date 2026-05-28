@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779941059,
+  "cached_at": 1779941120,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "60_Pduc0ODY",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-28T00:55:24.000Z",
       "start_scheduled": "2026-05-28T01:00:00.000Z",
       "start_actual": "2026-05-28T00:55:24.000Z",
-      "live_viewers": 1579,
+      "live_viewers": 1623,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-28T02:01:35.000Z",
       "start_scheduled": "2026-05-28T02:00:00.000Z",
       "start_actual": "2026-05-28T02:01:35.000Z",
-      "live_viewers": 5063,
+      "live_viewers": 5099,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-28T03:00:25.000Z",
       "start_scheduled": "2026-05-28T03:00:00.000Z",
       "start_actual": "2026-05-28T03:00:25.000Z",
-      "live_viewers": 8574,
+      "live_viewers": 8380,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-28T03:03:57.000Z",
       "start_scheduled": "2026-05-28T03:00:00.000Z",
       "start_actual": "2026-05-28T03:03:57.000Z",
-      "live_viewers": 8278,
+      "live_viewers": 7913,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -281,36 +281,17 @@
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC727SQYUvx5pDDGQpTICNWg": {
-      "video_id": "zQ7v8QqCeXM",
-      "title": "【SPOILER ALERT | Resident Evil Requiem】BACK WITH MORE LEON GAMING【hololive ID | Anya Melfissa】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-05-27T11:15:01.000Z",
-      "available_at": "2026-05-28T04:00:00.000Z",
-      "start_scheduled": "2026-05-28T04:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC727SQYUvx5pDDGQpTICNWg",
-        "name": "Anya Melfissa Ch. hololive-ID",
-        "english_name": "Anya Melfissa",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "9c_XNBLI8zM",
-      "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 15日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
+      "title": "【P5R】初見で挑む『ペルソナ5 ザ・ロイヤル』 15日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
       "type": "stream",
       "status": "live",
       "topic_id": "Persona",
       "published_at": "2026-05-27T08:27:49.000Z",
-      "available_at": "2026-05-28T04:00:11.000Z",
+      "available_at": "2026-05-28T04:00:15.000Z",
       "start_scheduled": "2026-05-28T04:00:00.000Z",
-      "start_actual": "2026-05-28T04:00:11.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-28T04:00:15.000Z",
+      "live_viewers": 690,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -318,6 +299,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC727SQYUvx5pDDGQpTICNWg": {
+      "video_id": "zQ7v8QqCeXM",
+      "title": "【SPOILER ALERT | Resident Evil Requiem】BACK WITH MORE LEON GAMING【hololive ID | Anya Melfissa】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-05-27T11:15:01.000Z",
+      "available_at": "2026-05-28T04:01:37.000Z",
+      "start_scheduled": "2026-05-28T04:00:00.000Z",
+      "start_actual": "2026-05-28T04:01:37.000Z",
+      "live_viewers": 236,
+      "channel": {
+        "id": "UC727SQYUvx5pDDGQpTICNWg",
+        "name": "Anya Melfissa Ch. hololive-ID",
+        "english_name": "Anya Melfissa",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
