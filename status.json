@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779987740,
+  "cached_at": 1779987799,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "GCRvf68M_Ng",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-28T14:31:30.000Z",
       "start_scheduled": "2026-05-28T14:30:00.000Z",
       "start_actual": "2026-05-28T14:31:30.000Z",
-      "live_viewers": 343,
+      "live_viewers": 329,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -99,6 +99,25 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCajbFh6e_R8QZdHAMbbi4rQ": {
+      "video_id": "v-wwLxzVcCY",
+      "title": "Reading A Midsummer Night's Dream【T2 MEMBER STREAM】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-28T08:04:55.000Z",
+      "available_at": "2026-05-28T17:00:00.000Z",
+      "start_scheduled": "2026-05-28T17:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+        "english_name": "Crimzon Ruze",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
