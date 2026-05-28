@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779973759,
+  "cached_at": 1779973819,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "G4PMyjuvwEY",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-28T09:04:19.000Z",
       "start_scheduled": "2026-05-28T09:05:00.000Z",
       "start_actual": "2026-05-28T09:04:19.000Z",
-      "live_viewers": 1992,
+      "live_viewers": 1927,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-28T09:57:37.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T09:57:37.000Z",
-      "live_viewers": 9208,
+      "live_viewers": 9999,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-28T09:59:40.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T09:59:40.000Z",
-      "live_viewers": 26055,
+      "live_viewers": 25042,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-28T10:05:22.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:22.000Z",
-      "live_viewers": 7800,
+      "live_viewers": 7926,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-28T10:05:33.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:33.000Z",
-      "live_viewers": 4483,
+      "live_viewers": 4522,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-28T10:58:34.000Z",
       "start_scheduled": "2026-05-28T11:00:00.000Z",
       "start_actual": "2026-05-28T10:58:34.000Z",
-      "live_viewers": 4618,
+      "live_viewers": 4499,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-28T11:59:59.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T11:59:59.000Z",
-      "live_viewers": 1327,
+      "live_viewers": 1355,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-28T12:00:09.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:09.000Z",
-      "live_viewers": 19514,
+      "live_viewers": 19745,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -371,7 +371,7 @@
       "available_at": "2026-05-28T12:04:26.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:04:26.000Z",
-      "live_viewers": 7363,
+      "live_viewers": 7483,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -391,7 +391,7 @@
       "available_at": "2026-05-28T12:46:43.000Z",
       "start_scheduled": "2026-05-28T12:45:00.000Z",
       "start_actual": "2026-05-28T12:46:43.000Z",
-      "live_viewers": 12069,
+      "live_viewers": 12292,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -420,25 +420,6 @@
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "82qLg-vaLrs",
-      "title": "【LoL】LTK TOP練習   / アステル わしだいこーち",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-05-28T12:52:04.000Z",
-      "available_at": "2026-05-28T13:00:00.000Z",
-      "start_scheduled": "2026-05-28T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCOyYb1c43VlX9rc_lT6NKQw": {
       "video_id": "VrdLAoPkXl4",
       "title": "YAPPING TAPI MAIN W/ @sammybollivienn @sayaayaaulya",
@@ -449,7 +430,7 @@
       "available_at": "2026-05-28T13:00:23.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:00:23.000Z",
-      "live_viewers": 371,
+      "live_viewers": 439,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -469,7 +450,7 @@
       "available_at": "2026-05-28T13:00:37.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:00:37.000Z",
-      "live_viewers": 1639,
+      "live_viewers": 1853,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -489,7 +470,7 @@
       "available_at": "2026-05-28T13:01:05.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:01:05.000Z",
-      "live_viewers": 69,
+      "live_viewers": 91,
       "channel": {
         "id": "UC5_ygk4jcNx-QSkpaBbrhAA",
         "name": "Aya Aulya",
@@ -497,6 +478,26 @@
         "org": "Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/ZjTMEBeXsnTUo_Ce7VynWzWGtkWdEWiIML5YzPCU4ZkQ48r0m_f_bsZBeGTaT5sBPKZg5XpE8w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "82qLg-vaLrs",
+      "title": "【LoL】LTK TOP練習   / アステル わしだいこーち",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-05-28T12:52:04.000Z",
+      "available_at": "2026-05-28T13:05:49.000Z",
+      "start_scheduled": "2026-05-28T13:00:00.000Z",
+      "start_actual": "2026-05-28T13:05:49.000Z",
+      "live_viewers": 235,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
