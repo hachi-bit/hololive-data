@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779976999,
+  "cached_at": 1779977061,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "G4PMyjuvwEY",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-28T03:04:12.000Z",
       "start_scheduled": "2026-05-28T03:00:00.000Z",
       "start_actual": "2026-05-28T03:04:12.000Z",
-      "live_viewers": 416,
+      "live_viewers": 397,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-28T07:13:00.000Z",
       "start_scheduled": "2026-05-28T07:15:00.000Z",
       "start_actual": "2026-05-28T07:13:00.000Z",
-      "live_viewers": 975,
+      "live_viewers": 986,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-28T09:04:19.000Z",
       "start_scheduled": "2026-05-28T09:05:00.000Z",
       "start_actual": "2026-05-28T09:04:19.000Z",
-      "live_viewers": 2077,
+      "live_viewers": 2036,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-28T10:05:03.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:03.000Z",
-      "live_viewers": 2882,
+      "live_viewers": 2894,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-28T10:05:35.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:35.000Z",
-      "live_viewers": 3816,
+      "live_viewers": 3785,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-28T12:00:24.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:24.000Z",
-      "live_viewers": 24340,
+      "live_viewers": 24255,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -411,7 +411,7 @@
       "available_at": "2026-05-28T13:01:05.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:01:05.000Z",
-      "live_viewers": 127,
+      "live_viewers": 117,
       "channel": {
         "id": "UC5_ygk4jcNx-QSkpaBbrhAA",
         "name": "Aya Aulya",
@@ -461,25 +461,6 @@
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCP0BspO_AMEe3aQqqpo89Dg": {
-      "video_id": "LnedaUW9AEQ",
-      "title": "【Bakery Diary】I am a baker in this lifetime.【hololive | moona】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-28T13:38:57.000Z",
-      "available_at": "2026-05-28T14:00:00.000Z",
-      "start_scheduled": "2026-05-28T14:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCP0BspO_AMEe3aQqqpo89Dg",
-        "name": "Moona Hoshinova hololive-ID",
-        "english_name": "Moona Hoshinova",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
       "video_id": "l7F4380TssQ",
       "title": "【Kaeluarga】SHORT yapping with MUCH working",
@@ -497,6 +478,25 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCP0BspO_AMEe3aQqqpo89Dg": {
+      "video_id": "LnedaUW9AEQ",
+      "title": "【Bakery Diary】I am a baker in this lifetime.【hololive | moona】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-28T13:38:57.000Z",
+      "available_at": "2026-05-28T14:00:00.000Z",
+      "start_scheduled": "2026-05-28T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+        "name": "Moona Hoshinova hololive-ID",
+        "english_name": "Moona Hoshinova",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCAoy6rzhSf4ydcYjJw3WoVg": {
