@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779969799,
+  "cached_at": 1779969859,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "G4PMyjuvwEY",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-28T08:01:30.000Z",
       "start_scheduled": "2026-05-28T08:00:00.000Z",
       "start_actual": "2026-05-28T08:01:30.000Z",
-      "live_viewers": 2490,
+      "live_viewers": 2351,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-28T09:57:37.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T09:57:37.000Z",
-      "live_viewers": 8076,
+      "live_viewers": 8141,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-28T10:05:22.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:22.000Z",
-      "live_viewers": 8902,
+      "live_viewers": 8766,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-28T10:05:33.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:33.000Z",
-      "live_viewers": 6166,
+      "live_viewers": 5914,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-28T10:05:35.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:35.000Z",
-      "live_viewers": 4114,
+      "live_viewers": 4145,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-28T10:58:34.000Z",
       "start_scheduled": "2026-05-28T11:00:00.000Z",
       "start_actual": "2026-05-28T10:58:34.000Z",
-      "live_viewers": 5805,
+      "live_viewers": 5671,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-28T11:01:04.000Z",
       "start_scheduled": "2026-05-28T11:00:00.000Z",
       "start_actual": "2026-05-28T11:01:04.000Z",
-      "live_viewers": 1708,
+      "live_viewers": 1620,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-28T11:13:39.000Z",
       "start_scheduled": "2026-05-28T11:15:00.000Z",
       "start_actual": "2026-05-28T11:13:39.000Z",
-      "live_viewers": 14368,
+      "live_viewers": 14657,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -279,6 +279,182 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKeAhJvy8zgXWbh9duVjIaQ": {
+      "video_id": "wOXAFwn3dw0",
+      "title": "【YAPYAP】協力ホラゲを祝詞勢いで乗り越えるギャルず【アルランディス/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "YAPYAP",
+      "published_at": "2026-05-28T05:42:23.000Z",
+      "available_at": "2026-05-28T11:59:59.000Z",
+      "start_scheduled": "2026-05-28T12:00:00.000Z",
+      "start_actual": "2026-05-28T11:59:59.000Z",
+      "live_viewers": 965,
+      "channel": {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "english_name": "Arurandeisu",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+      "video_id": "u1YnFJyhKd8",
+      "title": "【文字遊戯】 我、勇者となりて世界を救う!!!!!!!【ホロライブ/白上フブキ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Word_Game",
+      "published_at": "2026-05-28T09:22:25.000Z",
+      "available_at": "2026-05-28T12:00:00.000Z",
+      "start_scheduled": "2026-05-28T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "name": "フブキCh。白上フブキ",
+        "english_name": "Shirakami Fubuki",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6t3-_N8A6ME1JShZHHqOMw": {
+      "video_id": "l3us83wYb_g",
+      "title": "【メン限】花咲の森 さよなら虚無すずめ【花咲みやび/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-28T11:24:32.000Z",
+      "available_at": "2026-05-28T12:00:00.000Z",
+      "start_scheduled": "2026-05-28T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "english_name": "Hanasaki Miyabi",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCv3EicDtxObcZZmnFcHvNnw": {
+      "video_id": "R2EpMJRVUNY",
+      "title": "【YAPYAP】どうやら協力ホラーらしいがまあ行けるっしょ~!【鬼ヶ谷テン/ネオポルテ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "YAPYAP",
+      "published_at": "2026-05-28T11:28:07.000Z",
+      "available_at": "2026-05-28T12:00:00.000Z",
+      "start_scheduled": "2026-05-28T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCv3EicDtxObcZZmnFcHvNnw",
+        "name": "鬼ヶ谷 テン / Onigaya Ten",
+        "english_name": "Onigaya Ten",
+        "org": "Neo-Porte",
+        "suborg": "0m6th Generation",
+        "photo": "https://yt3.ggpht.com/ApKOz7sH6YpKWtzBQVaZGVc9N4KHJSlT3MUEVukFphSTTnJMEl_dplx6b3EI5n1pW_heDH4aCQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTvHWSfBZgtxE4sILOaurIQ": {
+      "video_id": "5cGfAxTkHNs",
+      "title": "【007 First Light】Agent do agent things #1",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-28T02:34:07.000Z",
+      "available_at": "2026-05-28T12:00:00.000Z",
+      "start_scheduled": "2026-05-28T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCTvHWSfBZgtxE4sILOaurIQ",
+        "name": "Vestia Zeta Ch. hololive-ID",
+        "english_name": "Vestia Zeta",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "6S9ojYwKMsI",
+      "title": "【初見】『逆襲のシャア』同時視聴!!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-05-26T06:24:47.000Z",
+      "available_at": "2026-05-28T12:00:09.000Z",
+      "start_scheduled": "2026-05-28T12:00:00.000Z",
+      "start_actual": "2026-05-28T12:00:09.000Z",
+      "live_viewers": 8318,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvaTdHTWBGv3MKj3KVqJVCw": {
+      "video_id": "Wvmm-OmlBek",
+      "title": "【 #スバおか 】スバおかでフィンランドを堪能するぞ🚑🍙✦ | Finnish Cottage Simulator 【 ホロライブ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-27T10:06:23.000Z",
+      "available_at": "2026-05-28T12:00:24.000Z",
+      "start_scheduled": "2026-05-28T12:00:00.000Z",
+      "start_actual": "2026-05-28T12:00:24.000Z",
+      "live_viewers": 8795,
+      "channel": {
+        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+        "name": "Okayu Ch. 猫又おかゆ",
+        "english_name": "Nekomata Okayu",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCLK0cRXu3PY7cPbdWiVYemA": {
+      "video_id": "EoXTDbNTaII",
+      "title": "【 yapyap 】声で破壊するゲームする!? with/アルランディス 鬼ヶ谷テン 蛇宵ティア 【羽流鷲りりり|ななしいんく】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "YAPYAP",
+      "published_at": "2026-05-27T15:09:35.000Z",
+      "available_at": "2026-05-28T12:00:50.000Z",
+      "start_scheduled": "2026-05-28T12:00:00.000Z",
+      "start_actual": "2026-05-28T12:00:50.000Z",
+      "live_viewers": 81,
+      "channel": {
+        "id": "UCLK0cRXu3PY7cPbdWiVYemA",
+        "name": "羽流鷲りりり / Ririri Channel【ななしいんく】",
+        "english_name": "Uruwashi Ririri",
+        "org": "774inc",
+        "suborg": "25Nanashiinku",
+        "photo": "https://yt3.ggpht.com/CrRdj1eqKxWtN9kbkRejxPlNhIoikEhKubDWEPK4BtcJLbvumADzuBxwI_7Oar5PT22x1XQ2Jw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCrt4cTM_sWH0iySLMkwwYLQ": {
+      "video_id": "AY4fQjR5pB8",
+      "title": "【 yapyap 】仲良くケンカしないギャルズyapyap【蛇宵ティア アルランディス 羽流鷲りりり 鬼ヶ谷テン / ななしいんく】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "YAPYAP",
+      "published_at": "2026-05-26T13:40:28.000Z",
+      "available_at": "2026-05-28T12:00:54.000Z",
+      "start_scheduled": "2026-05-28T12:00:00.000Z",
+      "start_actual": "2026-05-28T12:00:54.000Z",
+      "live_viewers": 49,
+      "channel": {
+        "id": "UCrt4cTM_sWH0iySLMkwwYLQ",
+        "name": "蛇宵ティア / Tier Channel【ななしいんく】",
+        "english_name": "Hebiyoi Tier",
+        "org": "774inc",
+        "suborg": "0 Ex-SugarLyric",
+        "photo": "https://yt3.ggpht.com/AfpISUcGYngk2GdQsUu1KA5iPcihgBQV8cdByfYT4DYDewZiHdrzXxtbxp8jMlM_BQC4-5VI=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
