@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779933679,
+  "cached_at": 1779933739,
   "lives": {
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "J-cQnf0SGUw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-27T16:11:51.000Z",
       "start_scheduled": "2026-05-27T16:10:00.000Z",
       "start_actual": "2026-05-27T16:11:51.000Z",
-      "live_viewers": 13124,
+      "live_viewers": 13299,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-28T00:09:03.000Z",
       "start_scheduled": "2026-05-28T00:00:00.000Z",
       "start_actual": "2026-05-28T00:09:03.000Z",
-      "live_viewers": 1461,
+      "live_viewers": 1444,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-28T00:59:43.000Z",
       "start_scheduled": "2026-05-28T01:00:00.000Z",
       "start_actual": "2026-05-28T00:59:43.000Z",
-      "live_viewers": 3098,
+      "live_viewers": 3159,
       "channel": {
         "id": "UCW5uhrG1eCBYditmhL0Ykjw",
         "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-28T01:04:14.000Z",
       "start_scheduled": "2026-05-28T01:00:00.000Z",
       "start_actual": "2026-05-28T01:04:14.000Z",
-      "live_viewers": 3313,
+      "live_viewers": 3262,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-28T01:31:16.000Z",
       "start_scheduled": "2026-05-28T01:30:00.000Z",
       "start_actual": "2026-05-28T01:31:16.000Z",
-      "live_viewers": 2060,
+      "live_viewers": 2056,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-28T01:56:19.000Z",
       "start_scheduled": "2026-05-28T02:15:00.000Z",
       "start_actual": "2026-05-28T01:56:19.000Z",
-      "live_viewers": 164,
+      "live_viewers": 303,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -179,6 +179,82 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCDHABijvPBnJm7F-KlNME3w": {
+      "video_id": "mss5t4szFko",
+      "title": "【ENigmatic Recollection: Chapter 3】has noooo freaking clue what's going to happen",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-27T23:32:48.000Z",
+      "available_at": "2026-05-28T02:00:00.000Z",
+      "start_scheduled": "2026-05-28T02:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCDHABijvPBnJm7F-KlNME3w",
+        "name": "Gigi Murin Ch. hololive-EN",
+        "english_name": "Gigi Murin",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCmbs8T6MWqUHP1tIQvSgKrg": {
+      "video_id": "JZ2gO4qDJ2w",
+      "title": "【ENigmatic Recollection: Chapter 3】Day 4: Ignorance Is Bliss",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-28T01:15:38.000Z",
+      "available_at": "2026-05-28T02:00:00.000Z",
+      "start_scheduled": "2026-05-28T02:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
+        "name": "Ouro Kronii Ch. hololive-EN",
+        "english_name": "Ouro Kronii",
+        "org": "Hololive",
+        "suborg": "ibEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
+      "video_id": "RK4CEf5px6Y",
+      "title": "Proposing is scary huh? | RED CARPET PREMIERE【T4 Members Only】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-26T19:40:29.000Z",
+      "available_at": "2026-05-28T02:00:00.000Z",
+      "start_scheduled": "2026-05-28T02:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+        "name": "Octavio Ch. HOLOSTARS-EN",
+        "english_name": "Octavio",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCMqGG8BRAiI1lJfKOpETM_w": {
+      "video_id": "8SKzOSMl80c",
+      "title": "【Subnautica 2 】FIH ONCE MORE!~",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Subnautica",
+      "published_at": "2026-05-27T15:42:34.000Z",
+      "available_at": "2026-05-28T02:00:00.000Z",
+      "start_scheduled": "2026-05-28T02:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCMqGG8BRAiI1lJfKOpETM_w",
+        "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
+        "english_name": "Josuiji Shinri",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
