@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779926539,
+  "cached_at": 1779926599,
   "lives": {
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "J-cQnf0SGUw",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-27T16:11:51.000Z",
       "start_scheduled": "2026-05-27T16:10:00.000Z",
       "start_actual": "2026-05-27T16:11:51.000Z",
-      "live_viewers": 13850,
+      "live_viewers": 14387,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -39,6 +39,45 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCajbFh6e_R8QZdHAMbbi4rQ": {
+      "video_id": "sjCB805bPFo",
+      "title": "NAME PENDING【MAD ADVICE: 03】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-27T02:42:40.000Z",
+      "available_at": "2026-05-28T00:00:00.000Z",
+      "start_scheduled": "2026-05-28T00:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+        "english_name": "Crimzon Ruze",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCmbs8T6MWqUHP1tIQvSgKrg": {
+      "video_id": "Kr2lbQwHQeY",
+      "title": "【Original Song MV】Way 2 U - Ouro Kronii",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Original_Song",
+      "published_at": "2026-05-28T00:00:06.000Z",
+      "available_at": "2026-05-28T00:00:06.000Z",
+      "start_scheduled": "2026-05-28T00:00:00.000Z",
+      "start_actual": "2026-05-28T00:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
+        "name": "Ouro Kronii Ch. hololive-EN",
+        "english_name": "Ouro Kronii",
+        "org": "Hololive",
+        "suborg": "ibEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
