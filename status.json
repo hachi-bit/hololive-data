@@ -1,5 +1,5 @@
 {
-  "cached_at": 1779975799,
+  "cached_at": 1779975859,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "G4PMyjuvwEY",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-28T09:04:19.000Z",
       "start_scheduled": "2026-05-28T09:05:00.000Z",
       "start_actual": "2026-05-28T09:04:19.000Z",
-      "live_viewers": 2009,
+      "live_viewers": 2025,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCCzUftO8KOVkV4wQG1vkUvg": {
-      "video_id": "aHis7-TfsJY",
-      "title": "【Forza Horizon 6】船長とドライブしましょ~~~~ん♡♡♡【ホロライブ/宝鐘マリン】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Forza",
-      "published_at": "2026-05-28T05:08:28.000Z",
-      "available_at": "2026-05-28T09:59:40.000Z",
-      "start_scheduled": "2026-05-28T10:00:00.000Z",
-      "start_actual": "2026-05-28T09:59:40.000Z",
-      "live_viewers": 23179,
-      "channel": {
-        "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-        "name": "Marine Ch. 宝鐘マリン",
-        "english_name": "Houshou Marine",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvInZx9h3jC2JzsIzoOebWg": {
@@ -131,7 +111,7 @@
       "available_at": "2026-05-28T10:05:22.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:22.000Z",
-      "live_viewers": 7485,
+      "live_viewers": 7597,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-28T10:05:35.000Z",
       "start_scheduled": "2026-05-28T10:00:00.000Z",
       "start_actual": "2026-05-28T10:05:35.000Z",
-      "live_viewers": 3828,
+      "live_viewers": 3856,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-28T12:00:09.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:09.000Z",
-      "live_viewers": 20747,
+      "live_viewers": 21219,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-28T12:00:24.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:24.000Z",
-      "live_viewers": 24287,
+      "live_viewers": 24862,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -351,7 +331,7 @@
       "available_at": "2026-05-28T12:04:26.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:04:26.000Z",
-      "live_viewers": 6868,
+      "live_viewers": 6795,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -371,7 +351,7 @@
       "available_at": "2026-05-28T12:46:43.000Z",
       "start_scheduled": "2026-05-28T12:45:00.000Z",
       "start_actual": "2026-05-28T12:46:43.000Z",
-      "live_viewers": 11799,
+      "live_viewers": 12333,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -391,7 +371,7 @@
       "available_at": "2026-05-28T13:00:23.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:00:23.000Z",
-      "live_viewers": 664,
+      "live_viewers": 686,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -411,7 +391,7 @@
       "available_at": "2026-05-28T13:00:37.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:00:37.000Z",
-      "live_viewers": 2442,
+      "live_viewers": 2434,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -431,7 +411,7 @@
       "available_at": "2026-05-28T13:01:05.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:01:05.000Z",
-      "live_viewers": 113,
+      "live_viewers": 132,
       "channel": {
         "id": "UC5_ygk4jcNx-QSkpaBbrhAA",
         "name": "Aya Aulya",
@@ -471,7 +451,7 @@
       "available_at": "2026-05-28T13:10:16.000Z",
       "start_scheduled": "2026-05-28T13:00:00.000Z",
       "start_actual": "2026-05-28T13:10:16.000Z",
-      "live_viewers": 23133,
+      "live_viewers": 23463,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
