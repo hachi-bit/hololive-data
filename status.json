@@ -1,26 +1,6 @@
 {
-  "cached_at": 1779978799,
+  "cached_at": 1779978859,
   "lives": {
-    "UCTVSOgYuSWmNAt-lnJPkEEw": {
-      "video_id": "G4PMyjuvwEY",
-      "title": "【TOMODACHI LIFE: LIVING THE DREAM】 QUEER AND HUNGER",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-25T06:20:56.000Z",
-      "available_at": "2026-05-28T03:04:12.000Z",
-      "start_scheduled": "2026-05-28T03:00:00.000Z",
-      "start_actual": "2026-05-28T03:04:12.000Z",
-      "live_viewers": 360,
-      "channel": {
-        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
-        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
-        "english_name": "Jurard T Rexford",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "GCRvf68M_Ng",
       "title": "【Librarian】 Cleaning Up 3000+ Books Manually【Pavolia Reine/hololiveID】",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-28T12:00:24.000Z",
       "start_scheduled": "2026-05-28T12:00:00.000Z",
       "start_actual": "2026-05-28T12:00:24.000Z",
-      "live_viewers": 24594,
+      "live_viewers": 24807,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -310,7 +290,7 @@
       "available_at": "2026-05-28T14:01:40.000Z",
       "start_scheduled": "2026-05-28T14:00:00.000Z",
       "start_actual": "2026-05-28T14:01:40.000Z",
-      "live_viewers": 1828,
+      "live_viewers": 1734,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -330,7 +310,7 @@
       "available_at": "2026-05-28T14:02:03.000Z",
       "start_scheduled": "2026-05-28T14:00:00.000Z",
       "start_actual": "2026-05-28T14:02:03.000Z",
-      "live_viewers": 478,
+      "live_viewers": 608,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -350,7 +330,7 @@
       "available_at": "2026-05-28T14:27:38.000Z",
       "start_scheduled": "2026-05-28T14:30:00.000Z",
       "start_actual": "2026-05-28T14:27:38.000Z",
-      "live_viewers": 157,
+      "live_viewers": 284,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -358,6 +338,25 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGNI4MENvnsymYjKiZwv9eg": {
+      "video_id": "wWrlOslUbvs",
+      "title": "【DYING LIGHT THE BEAST】卒業までにクリアしないといけないヤツ Part4【岸堂天真/花咲みやび/羽継烏有/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dying_Light",
+      "published_at": "2026-05-28T10:38:11.000Z",
+      "available_at": "2026-05-28T14:30:00.000Z",
+      "start_scheduled": "2026-05-28T14:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "english_name": "Kishido Temma",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
