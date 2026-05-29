@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780057219,
+  "cached_at": 1780057279,
   "lives": {
     "UCdi5pj0MDQ-3LFNUFIFmD8w": {
       "video_id": "69-WQJypaJc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-29T11:00:43.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:00:43.000Z",
-      "live_viewers": 234,
+      "live_viewers": 230,
       "channel": {
         "id": "UCdi5pj0MDQ-3LFNUFIFmD8w",
         "name": "うる虎がーる / あおぎり高校",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-29T11:01:27.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:27.000Z",
-      "live_viewers": 104,
+      "live_viewers": 115,
       "channel": {
         "id": "UCP49yY6NEgddv28n6ECKFLg",
         "name": "九衣よな / Kyui Yona",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-29T11:01:52.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:52.000Z",
-      "live_viewers": 2720,
+      "live_viewers": 2670,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-29T11:55:09.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T11:55:09.000Z",
-      "live_viewers": 31416,
+      "live_viewers": 31695,
       "channel": {
         "id": "UCJFZiqLMntJufDCHc6bQixg",
         "name": "hololive ホロライブ - VTuber Group",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-29T12:00:19.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:00:19.000Z",
-      "live_viewers": 9970,
+      "live_viewers": 10254,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -210,7 +210,7 @@
       "available_at": "2026-05-29T12:01:00.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:01:00.000Z",
-      "live_viewers": 592,
+      "live_viewers": 600,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -250,7 +250,7 @@
       "available_at": "2026-05-29T12:02:27.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:02:27.000Z",
-      "live_viewers": 4622,
+      "live_viewers": 4820,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -270,7 +270,7 @@
       "available_at": "2026-05-29T12:09:47.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:09:47.000Z",
-      "live_viewers": 8179,
+      "live_viewers": 8654,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -307,9 +307,10 @@
       "status": "live",
       "topic_id": "The_Night_Way_Home",
       "published_at": "2026-05-29T11:51:10.000Z",
-      "available_at": "2026-05-29T12:15:00.000Z",
+      "available_at": "2026-05-29T12:17:21.000Z",
       "start_scheduled": "2026-05-29T12:15:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-29T12:17:21.000Z",
+      "live_viewers": 150,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
