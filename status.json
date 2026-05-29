@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780067359,
+  "cached_at": 1780067419,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "Lz8sNcjn3WE",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-29T12:20:59.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:20:59.000Z",
-      "live_viewers": 432,
+      "live_viewers": 441,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-29T13:01:32.000Z",
       "start_scheduled": "2026-05-29T13:00:00.000Z",
       "start_actual": "2026-05-29T13:01:32.000Z",
-      "live_viewers": 29279,
+      "live_viewers": 28745,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -141,6 +141,26 @@
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCJlcEuTs4LNMPn0xL3czRrA": {
+      "video_id": "6iO1eyus5qw",
+      "title": "LETS END THIS!!  | Cursed Companion",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-05-29T05:19:57.000Z",
+      "available_at": "2026-05-29T14:01:17.000Z",
+      "start_scheduled": "2026-05-29T14:00:00.000Z",
+      "start_actual": "2026-05-29T14:01:17.000Z",
+      "live_viewers": 92,
+      "channel": {
+        "id": "UCJlcEuTs4LNMPn0xL3czRrA",
+        "name": "ONShannon ",
+        "english_name": "Shannon Lynn",
+        "org": "AKA Virtual",
+        "suborg": "0gChao.5",
+        "photo": "https://yt3.ggpht.com/vofOOZs6Rby_Cx6OlTM2YvfIHFm7IfP1ZSmVmxU6_OBiBcnvsl72O5SpSj6ZGPjY5452hWzF=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCIa2OxCyhjWjJke-9yYNbwA": {
       "video_id": "Z66wp7TItV4",
       "title": "【CURSED COMPANIONS】WE WILL WINNNNNNNN!!!!!!!",
@@ -159,26 +179,6 @@
         "org": "Independents",
         "suborg": "jkJKT48V",
         "photo": "https://yt3.ggpht.com/6IOEgVvPXOJxjpnnFdnrhVwtzQ96FPTLOiDJi-MLK2bw-DxdC_ZTtivwvV425ZV_FuxFyaE_3A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCJlcEuTs4LNMPn0xL3czRrA": {
-      "video_id": "6iO1eyus5qw",
-      "title": "LETS END THIS!!  | Cursed Companion",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Cursed_Companions",
-      "published_at": "2026-05-29T05:19:57.000Z",
-      "available_at": "2026-05-29T14:01:17.000Z",
-      "start_scheduled": "2026-05-29T14:00:00.000Z",
-      "start_actual": "2026-05-29T14:01:17.000Z",
-      "live_viewers": 101,
-      "channel": {
-        "id": "UCJlcEuTs4LNMPn0xL3czRrA",
-        "name": "ONShannon ",
-        "english_name": "Shannon Lynn",
-        "org": "AKA Virtual",
-        "suborg": "0gChao.5",
-        "photo": "https://yt3.ggpht.com/vofOOZs6Rby_Cx6OlTM2YvfIHFm7IfP1ZSmVmxU6_OBiBcnvsl72O5SpSj6ZGPjY5452hWzF=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
@@ -231,7 +231,7 @@
       "available_at": "2026-05-29T14:02:21.000Z",
       "start_scheduled": "2026-05-29T14:00:00.000Z",
       "start_actual": "2026-05-29T14:02:21.000Z",
-      "live_viewers": 808,
+      "live_viewers": 831,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-29T14:30:07.000Z",
       "start_scheduled": "2026-05-29T14:30:00.000Z",
       "start_actual": "2026-05-29T14:30:07.000Z",
-      "live_viewers": 363,
+      "live_viewers": 368,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
