@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780049299,
+  "cached_at": 1780049359,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "lB2r8auuT5U",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-29T09:29:50.000Z",
       "start_scheduled": "2026-05-29T09:30:00.000Z",
       "start_actual": "2026-05-29T09:29:50.000Z",
-      "live_viewers": 9215,
+      "live_viewers": 9390,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp6993wxpyDPHUpavwDFqgg": {
-      "video_id": "3aiTwK2EHKo",
-      "title": "【歌ってみた/Cover】爆裂愛してる【ときのそら/兎田ぺこら/角巻わため/風真いろは/綺々羅々ヴィヴィ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Music_Cover",
-      "published_at": "2026-05-29T10:00:07.000Z",
-      "available_at": "2026-05-29T10:00:07.000Z",
-      "start_scheduled": "2026-05-29T10:00:00.000Z",
-      "start_actual": "2026-05-29T10:00:07.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCp6993wxpyDPHUpavwDFqgg",
-        "name": "SoraCh. ときのそらチャンネル",
-        "english_name": "Tokino Sora",
-        "org": "Hololive",
-        "suborg": "0v0th Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdXAk5MpyLD8594lm_OvtGQ": {
@@ -71,7 +51,7 @@
       "available_at": "2026-05-29T10:01:24.000Z",
       "start_scheduled": "2026-05-29T10:00:00.000Z",
       "start_actual": "2026-05-29T10:01:24.000Z",
-      "live_viewers": 1884,
+      "live_viewers": 2546,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
