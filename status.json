@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780026619,
+  "cached_at": 1780026679,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "UBbTSf5A9bc",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-28T23:58:29.000Z",
       "start_scheduled": "2026-05-29T00:00:00.000Z",
       "start_actual": "2026-05-28T23:58:29.000Z",
-      "live_viewers": 380,
+      "live_viewers": 376,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-29T00:05:23.000Z",
       "start_scheduled": "2026-05-29T00:05:00.000Z",
       "start_actual": "2026-05-29T00:05:23.000Z",
-      "live_viewers": 2843,
+      "live_viewers": 2691,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-29T00:55:23.000Z",
       "start_scheduled": "2026-05-29T01:00:00.000Z",
       "start_actual": "2026-05-29T00:55:23.000Z",
-      "live_viewers": 1502,
+      "live_viewers": 1896,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-29T00:55:59.000Z",
       "start_scheduled": "2026-05-29T01:00:00.000Z",
       "start_actual": "2026-05-29T00:55:59.000Z",
-      "live_viewers": 2271,
+      "live_viewers": 2206,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-29T01:01:09.000Z",
       "start_scheduled": "2026-05-29T01:00:00.000Z",
       "start_actual": "2026-05-29T01:01:09.000Z",
-      "live_viewers": 1927,
+      "live_viewers": 1936,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-29T01:02:07.000Z",
       "start_scheduled": "2026-05-29T01:00:00.000Z",
       "start_actual": "2026-05-29T01:02:07.000Z",
-      "live_viewers": 3049,
+      "live_viewers": 2958,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -371,7 +371,7 @@
       "available_at": "2026-05-29T02:59:24.000Z",
       "start_scheduled": "2026-05-29T03:00:00.000Z",
       "start_actual": "2026-05-29T02:59:24.000Z",
-      "live_viewers": 5382,
+      "live_viewers": 5561,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
