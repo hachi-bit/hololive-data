@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780057339,
+  "cached_at": 1780057399,
   "lives": {
     "UCdi5pj0MDQ-3LFNUFIFmD8w": {
       "video_id": "69-WQJypaJc",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-29T11:01:19.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:19.000Z",
-      "live_viewers": 264,
+      "live_viewers": 246,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-29T11:01:42.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:42.000Z",
-      "live_viewers": 585,
+      "live_viewers": 570,
       "channel": {
         "id": "UC7wZb5INldbGweowOhBIs8Q",
         "name": "石狩あかり/あおぎり高校",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-29T11:01:54.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:54.000Z",
-      "live_viewers": 93,
+      "live_viewers": 98,
       "channel": {
         "id": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
         "name": "那和ツムグ",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-29T11:55:09.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T11:55:09.000Z",
-      "live_viewers": 31695,
+      "live_viewers": 31892,
       "channel": {
         "id": "UCJFZiqLMntJufDCHc6bQixg",
         "name": "hololive ホロライブ - VTuber Group",
@@ -159,25 +159,6 @@
         "org": "Hololive",
         "suborg": "0aOfficial",
         "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "Lz8sNcjn3WE",
-      "title": "【LoL】LTK TOP練習 1500チャンピオン目  / アステル わしだいこーち",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-05-29T11:32:33.000Z",
-      "available_at": "2026-05-29T12:00:00.000Z",
-      "start_scheduled": "2026-05-29T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
@@ -190,7 +171,7 @@
       "available_at": "2026-05-29T12:00:19.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:00:19.000Z",
-      "live_viewers": 10254,
+      "live_viewers": 9509,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -210,7 +191,7 @@
       "available_at": "2026-05-29T12:01:00.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:01:00.000Z",
-      "live_viewers": 600,
+      "live_viewers": 591,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -250,7 +231,7 @@
       "available_at": "2026-05-29T12:02:27.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:02:27.000Z",
-      "live_viewers": 4820,
+      "live_viewers": 4775,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -270,7 +251,7 @@
       "available_at": "2026-05-29T12:09:47.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:09:47.000Z",
-      "live_viewers": 8654,
+      "live_viewers": 8877,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -310,7 +291,7 @@
       "available_at": "2026-05-29T12:17:21.000Z",
       "start_scheduled": "2026-05-29T12:15:00.000Z",
       "start_actual": "2026-05-29T12:17:21.000Z",
-      "live_viewers": 150,
+      "live_viewers": 187,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -318,6 +299,26 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "Lz8sNcjn3WE",
+      "title": "【LoL】LTK TOP練習 1500チャンピオン目  / アステル わしだいこーち",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-05-29T11:32:33.000Z",
+      "available_at": "2026-05-29T12:20:59.000Z",
+      "start_scheduled": "2026-05-29T12:00:00.000Z",
+      "start_actual": "2026-05-29T12:20:59.000Z",
+      "live_viewers": 143,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
