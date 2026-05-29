@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780023679,
+  "cached_at": 1780023739,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "UBbTSf5A9bc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-28T23:10:21.000Z",
       "start_scheduled": "2026-05-28T23:10:00.000Z",
       "start_actual": "2026-05-28T23:10:21.000Z",
-      "live_viewers": 2426,
+      "live_viewers": 2326,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-29T01:00:16.000Z",
       "start_scheduled": "2026-05-29T01:00:00.000Z",
       "start_actual": "2026-05-29T01:00:16.000Z",
-      "live_viewers": 2759,
+      "live_viewers": 2763,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-29T01:01:38.000Z",
       "start_scheduled": "2026-05-29T01:00:00.000Z",
       "start_actual": "2026-05-29T01:01:38.000Z",
-      "live_viewers": 1250,
+      "live_viewers": 1220,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-29T02:01:58.000Z",
       "start_scheduled": "2026-05-29T02:00:00.000Z",
       "start_actual": "2026-05-29T02:01:58.000Z",
-      "live_viewers": 250,
+      "live_viewers": 255,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -359,6 +359,45 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCozx5csNhCx1wsVq3SZVkBQ": {
+      "video_id": "SiomTVfnxnU",
+      "title": "【ビリビリ】嘘発見器で見抜けるか!?裏の顔を暴いて丸裸に!?【昼ホロ/ホロアナ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "News_Show",
+      "published_at": "2026-05-29T00:02:00.000Z",
+      "available_at": "2026-05-29T02:59:24.000Z",
+      "start_scheduled": "2026-05-29T03:00:00.000Z",
+      "start_actual": "2026-05-29T02:59:24.000Z",
+      "live_viewers": 1123,
+      "channel": {
+        "id": "UCozx5csNhCx1wsVq3SZVkBQ",
+        "name": "holoAN room (ホロアナ)",
+        "english_name": "holoAN room",
+        "org": "Hololive",
+        "suborg": "0hOfficial",
+        "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGNI4MENvnsymYjKiZwv9eg": {
+      "video_id": "lCG-T2W5jJE",
+      "title": "【Dead by Daylight】終活!最後のデッドバイデイライト!【岸堂天真/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "dbd",
+      "published_at": "2026-05-29T02:53:06.000Z",
+      "available_at": "2026-05-29T03:00:00.000Z",
+      "start_scheduled": "2026-05-29T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "english_name": "Kishido Temma",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
