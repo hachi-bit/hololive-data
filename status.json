@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780012879,
+  "cached_at": 1780012940,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "KPBE4inypFk",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-28T23:02:47.000Z",
       "start_scheduled": "2026-05-28T23:00:00.000Z",
       "start_actual": "2026-05-28T23:02:47.000Z",
-      "live_viewers": 4130,
+      "live_viewers": 4073,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-28T23:10:21.000Z",
       "start_scheduled": "2026-05-28T23:10:00.000Z",
       "start_actual": "2026-05-28T23:10:21.000Z",
-      "live_viewers": 4767,
+      "live_viewers": 4791,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -59,6 +59,26 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7gxU6NXjKF1LrgOddPzgTw": {
+      "video_id": "aQMcR6mqipw",
+      "title": "【PEAK】HAKKITO VS HAKKA: IT'S A HAKKITO EAT HAKKITO WORLD OUT THERE 🏔️🥊【PLAYSQUAD #PR STREAM】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PEAK",
+      "published_at": "2026-05-28T09:40:32.000Z",
+      "available_at": "2026-05-28T23:58:29.000Z",
+      "start_scheduled": "2026-05-29T00:00:00.000Z",
+      "start_actual": "2026-05-28T23:58:29.000Z",
+      "live_viewers": 169,
+      "channel": {
+        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+        "english_name": "Banzoin Hakka",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
