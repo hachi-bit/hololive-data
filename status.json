@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780038259,
+  "cached_at": 1780038319,
   "lives": {
     "UCMqGG8BRAiI1lJfKOpETM_w": {
       "video_id": "3aZW790F9Ew",
@@ -88,9 +88,10 @@
       "status": "live",
       "topic_id": "none",
       "published_at": "2026-05-29T05:22:31.000Z",
-      "available_at": "2026-05-29T07:00:00.000Z",
+      "available_at": "2026-05-29T07:01:24.000Z",
       "start_scheduled": "2026-05-29T07:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-29T07:01:24.000Z",
+      "live_viewers": 935,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
