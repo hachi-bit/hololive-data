@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780047138,
+  "cached_at": 1780047199,
   "lives": {
     "UCMqGG8BRAiI1lJfKOpETM_w": {
       "video_id": "3aZW790F9Ew",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-29T02:01:29.000Z",
       "start_scheduled": "2026-05-29T02:00:00.000Z",
       "start_actual": "2026-05-29T02:01:29.000Z",
-      "live_viewers": 494,
+      "live_viewers": 507,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -39,6 +39,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCuI_opAVX6qbxZY-a-AxFuQ": {
+      "video_id": "AM1JhD-Dz7Y",
+      "title": "【 Forza Horizon 6】これで免許取るか決めるわ【虎金妃笑虎】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-05-29T07:04:08.000Z",
+      "available_at": "2026-05-29T09:29:50.000Z",
+      "start_scheduled": "2026-05-29T09:30:00.000Z",
+      "start_actual": "2026-05-29T09:29:50.000Z",
+      "live_viewers": 2125,
+      "channel": {
+        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+        "english_name": "Koganei Niko",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
