@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780061239,
+  "cached_at": 1780061299,
   "lives": {
     "UCdi5pj0MDQ-3LFNUFIFmD8w": {
       "video_id": "69-WQJypaJc",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-29T11:01:19.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:19.000Z",
-      "live_viewers": 279,
+      "live_viewers": 278,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-29T11:01:29.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:29.000Z",
-      "live_viewers": 38,
+      "live_viewers": 40,
       "channel": {
         "id": "UCaSJgx9BZRktT0s19henMGg",
         "name": "坂本こん / Sakamoto Kon",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-29T11:01:52.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:52.000Z",
-      "live_viewers": 2817,
+      "live_viewers": 2808,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -139,46 +139,6 @@
         "org": "YUMENOS",
         "suborg": "1aGen 1",
         "photo": "https://yt3.ggpht.com/5CeAGu1KlyA4TKHZ6H8_9_hkI466Up_gz0Rag6iFr5U7dZX7nXmYJEs_R82BMCsPrMHnMn--ow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCqm3BQLlJfvkTsX_hvm0UmA": {
-      "video_id": "8MCgzq_ekkw",
-      "title": "【歌枠】みんなに告知したいことがあります!!聞いてください!!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-05-28T20:52:21.000Z",
-      "available_at": "2026-05-29T12:00:19.000Z",
-      "start_scheduled": "2026-05-29T12:00:00.000Z",
-      "start_actual": "2026-05-29T12:00:19.000Z",
-      "live_viewers": 13476,
-      "channel": {
-        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-        "name": "Watame Ch. 角巻わため",
-        "english_name": "Tsunomaki Watame",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
-      "video_id": "ncp2Hv9Kx-A",
-      "title": "【メンバーシップ限定】ちょっと秘密のお話。 【鷹嶺ルイ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-29T08:39:33.000Z",
-      "available_at": "2026-05-29T12:01:39.000Z",
-      "start_scheduled": "2026-05-29T12:00:00.000Z",
-      "start_actual": "2026-05-29T12:01:39.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "name": "Lui ch. 鷹嶺ルイ - holoX -",
-        "english_name": "Takane Lui",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1uv2Oq6kNxgATlCiez59hw": {
@@ -211,7 +171,7 @@
       "available_at": "2026-05-29T12:09:47.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:09:47.000Z",
-      "live_viewers": 10275,
+      "live_viewers": 10291,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -271,7 +231,7 @@
       "available_at": "2026-05-29T13:00:20.000Z",
       "start_scheduled": "2026-05-29T13:00:00.000Z",
       "start_actual": "2026-05-29T13:00:20.000Z",
-      "live_viewers": 1582,
+      "live_viewers": 1607,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -291,7 +251,7 @@
       "available_at": "2026-05-29T13:01:32.000Z",
       "start_scheduled": "2026-05-29T13:00:00.000Z",
       "start_actual": "2026-05-29T13:01:32.000Z",
-      "live_viewers": 27058,
+      "live_viewers": 28307,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -311,7 +271,7 @@
       "available_at": "2026-05-29T13:02:07.000Z",
       "start_scheduled": "2026-05-29T13:00:00.000Z",
       "start_actual": "2026-05-29T13:02:07.000Z",
-      "live_viewers": 11630,
+      "live_viewers": 11808,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -351,7 +311,7 @@
       "available_at": "2026-05-29T13:05:55.000Z",
       "start_scheduled": "2026-05-29T13:00:00.000Z",
       "start_actual": "2026-05-29T13:05:55.000Z",
-      "live_viewers": 787,
+      "live_viewers": 818,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
