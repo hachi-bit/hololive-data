@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780052719,
+  "cached_at": 1780052779,
   "lives": {
-    "UCdXAk5MpyLD8594lm_OvtGQ": {
-      "video_id": "KtazmeK-qb4",
-      "title": "【りりらでんNELLマットレスの会】人生で大切なもの、それはどうやら睡眠らしい。【一条莉々華/儒烏風亭らでん 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Review",
-      "published_at": "2026-05-29T04:10:50.000Z",
-      "available_at": "2026-05-29T10:01:24.000Z",
-      "start_scheduled": "2026-05-29T10:00:00.000Z",
-      "start_actual": "2026-05-29T10:01:24.000Z",
-      "live_viewers": 3445,
-      "channel": {
-        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
-        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
-        "english_name": "Juufuutei Raden",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "gvGDJyWKHbk",
       "title": "【 3D LIVE 】THE ONE & ONLY【 #⁠響咲リオナ生誕祭2026】",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-29T10:57:51.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T10:57:51.000Z",
-      "live_viewers": 34847,
+      "live_viewers": 47310,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -41,6 +21,26 @@
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCdi5pj0MDQ-3LFNUFIFmD8w": {
+      "video_id": "69-WQJypaJc",
+      "title": "【 スト6 】後方腕組2人組に見守られながら赤ギャン対戦会!【あおぎり高校/うる虎がーる】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-05-29T05:54:15.000Z",
+      "available_at": "2026-05-29T11:00:43.000Z",
+      "start_scheduled": "2026-05-29T11:00:00.000Z",
+      "start_actual": "2026-05-29T11:00:43.000Z",
+      "live_viewers": 151,
+      "channel": {
+        "id": "UCdi5pj0MDQ-3LFNUFIFmD8w",
+        "name": "うる虎がーる / あおぎり高校",
+        "english_name": "Urutoragaru",
+        "org": "Aogiri Highschool",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/Zp3WXgnlCDLR-CXr8Eaar67qC0v2G4pFJ7B7QOnL2flL6vRg6gbfylvNo3_Foda5femufkBJgQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCv3EicDtxObcZZmnFcHvNnw": {
       "video_id": "93EdTfR32UY",
       "title": "【スト6】赤ギャンの皆様を元白ギャンボスたちが見守ります❕【鬼ヶ谷テン/ネオポルテ】",
@@ -48,9 +48,10 @@
       "status": "live",
       "topic_id": "Street_Fighter",
       "published_at": "2026-05-29T10:14:15.000Z",
-      "available_at": "2026-05-29T11:00:00.000Z",
+      "available_at": "2026-05-29T11:01:19.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-29T11:01:19.000Z",
+      "live_viewers": 141,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -67,9 +68,10 @@
       "status": "live",
       "topic_id": "Street_Fighter",
       "published_at": "2026-05-29T08:38:49.000Z",
-      "available_at": "2026-05-29T11:00:00.000Z",
+      "available_at": "2026-05-29T11:01:29.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-29T11:01:29.000Z",
+      "live_viewers": 26,
       "channel": {
         "id": "UCaSJgx9BZRktT0s19henMGg",
         "name": "坂本こん / Sakamoto Kon",
@@ -79,25 +81,6 @@
         "photo": "https://yt3.ggpht.com/AXx4Vhc25ieRpumhMCjd8QUiLZHK8gfL8ySGClFasTgrPp8gJ79-OVcxWrHLAumO75rem2X0yA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCKeAhJvy8zgXWbh9duVjIaQ": {
-      "video_id": "0A9lTr8CJ8U",
-      "title": "【ストリートファイター6】赤ギャンが初心者含めて対戦会やるらしいので鬼ぴと後方腕組【アルランディス/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-05-28T15:04:12.000Z",
-      "available_at": "2026-05-29T11:00:00.000Z",
-      "start_scheduled": "2026-05-29T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
-        "name": "Aruran Ch. アルランディス",
-        "english_name": "Arurandeisu",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC7wZb5INldbGweowOhBIs8Q": {
       "video_id": "n3o6gT-uffQ",
       "title": "【ストリートファイター6】赤ギャンたちと先生達に見守られながら対戦会します【石狩あかり/あおぎり高校】",
@@ -105,9 +88,10 @@
       "status": "live",
       "topic_id": "Street_Fighter",
       "published_at": "2026-05-28T18:21:06.000Z",
-      "available_at": "2026-05-29T11:00:00.000Z",
+      "available_at": "2026-05-29T11:01:42.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-29T11:01:42.000Z",
+      "live_viewers": 451,
       "channel": {
         "id": "UC7wZb5INldbGweowOhBIs8Q",
         "name": "石狩あかり/あおぎり高校",
@@ -117,6 +101,26 @@
         "photo": "https://yt3.ggpht.com/oHgm1ME0JFIFdwLbo-cogLRgRqP6CLkvA9bOqs2xm1mAuggQRz4ep_A0nx6nbckKcmgRzOFgOz0=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCKeAhJvy8zgXWbh9duVjIaQ": {
+      "video_id": "0A9lTr8CJ8U",
+      "title": "【ストリートファイター6】赤ギャンが初心者含めて対戦会やるらしいので鬼ぴと後方腕組【アルランディス/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-05-28T15:04:12.000Z",
+      "available_at": "2026-05-29T11:01:52.000Z",
+      "start_scheduled": "2026-05-29T11:00:00.000Z",
+      "start_actual": "2026-05-29T11:01:52.000Z",
+      "live_viewers": 1756,
+      "channel": {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "english_name": "Arurandeisu",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
       "video_id": "_2-pnHw0Kqs",
       "title": "【ストリートファイター6】赤ギャンミリしらスト6対戦会with アルさん、テンくん【YUMENOS/那和ツムグ】",
@@ -124,9 +128,10 @@
       "status": "live",
       "topic_id": "Street_Fighter",
       "published_at": "2026-05-28T15:48:50.000Z",
-      "available_at": "2026-05-29T11:00:00.000Z",
+      "available_at": "2026-05-29T11:01:54.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-29T11:01:54.000Z",
+      "live_viewers": 88,
       "channel": {
         "id": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
         "name": "那和ツムグ",
@@ -134,26 +139,6 @@
         "org": "YUMENOS",
         "suborg": "1aGen 1",
         "photo": "https://yt3.ggpht.com/5CeAGu1KlyA4TKHZ6H8_9_hkI466Up_gz0Rag6iFr5U7dZX7nXmYJEs_R82BMCsPrMHnMn--ow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdi5pj0MDQ-3LFNUFIFmD8w": {
-      "video_id": "69-WQJypaJc",
-      "title": "【 スト6 】後方腕組2人組に見守られながら赤ギャン対戦会!【あおぎり高校/うる虎がーる】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-05-29T05:54:15.000Z",
-      "available_at": "2026-05-29T11:00:43.000Z",
-      "start_scheduled": "2026-05-29T11:00:00.000Z",
-      "start_actual": "2026-05-29T11:00:43.000Z",
-      "live_viewers": 66,
-      "channel": {
-        "id": "UCdi5pj0MDQ-3LFNUFIFmD8w",
-        "name": "うる虎がーる / あおぎり高校",
-        "english_name": "Urutoragaru",
-        "org": "Aogiri Highschool",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/Zp3WXgnlCDLR-CXr8Eaar67qC0v2G4pFJ7B7QOnL2flL6vRg6gbfylvNo3_Foda5femufkBJgQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
