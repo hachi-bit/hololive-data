@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780059079,
+  "cached_at": 1780059145,
   "lives": {
     "UCdi5pj0MDQ-3LFNUFIFmD8w": {
       "video_id": "69-WQJypaJc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-29T11:00:43.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:00:43.000Z",
-      "live_viewers": 248,
+      "live_viewers": 231,
       "channel": {
         "id": "UCdi5pj0MDQ-3LFNUFIFmD8w",
         "name": "うる虎がーる / あおぎり高校",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-29T11:01:54.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:54.000Z",
-      "live_viewers": 102,
+      "live_viewers": 153,
       "channel": {
         "id": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
         "name": "那和ツムグ",
@@ -139,26 +139,6 @@
         "org": "YUMENOS",
         "suborg": "1aGen 1",
         "photo": "https://yt3.ggpht.com/5CeAGu1KlyA4TKHZ6H8_9_hkI466Up_gz0Rag6iFr5U7dZX7nXmYJEs_R82BMCsPrMHnMn--ow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCJFZiqLMntJufDCHc6bQixg": {
-      "video_id": "4RzYnWVy1lg",
-      "title": "#ホロドリ 新情報公開特番!~企画の告知も!?~",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "hololive_Dreams",
-      "published_at": "2026-05-27T08:24:18.000Z",
-      "available_at": "2026-05-29T11:55:09.000Z",
-      "start_scheduled": "2026-05-29T12:00:00.000Z",
-      "start_actual": "2026-05-29T11:55:09.000Z",
-      "live_viewers": 32223,
-      "channel": {
-        "id": "UCJFZiqLMntJufDCHc6bQixg",
-        "name": "hololive ホロライブ - VTuber Group",
-        "english_name": "hololive VTuber Group",
-        "org": "Hololive",
-        "suborg": "0aOfficial",
-        "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
@@ -191,7 +171,7 @@
       "available_at": "2026-05-29T12:01:00.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:01:00.000Z",
-      "live_viewers": 707,
+      "live_viewers": 695,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-29T12:09:47.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:09:47.000Z",
-      "live_viewers": 9696,
+      "live_viewers": 10420,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-29T12:17:21.000Z",
       "start_scheduled": "2026-05-29T12:15:00.000Z",
       "start_actual": "2026-05-29T12:17:21.000Z",
-      "live_viewers": 287,
+      "live_viewers": 285,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
