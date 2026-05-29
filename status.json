@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780016659,
+  "cached_at": 1780016747,
   "lives": {
     "UCmbs8T6MWqUHP1tIQvSgKrg": {
       "video_id": "MGeeMCTYfQg",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-28T23:02:47.000Z",
       "start_scheduled": "2026-05-28T23:00:00.000Z",
       "start_actual": "2026-05-28T23:02:47.000Z",
-      "live_viewers": 3702,
+      "live_viewers": 3545,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-28T23:58:29.000Z",
       "start_scheduled": "2026-05-29T00:00:00.000Z",
       "start_actual": "2026-05-28T23:58:29.000Z",
-      "live_viewers": 567,
+      "live_viewers": 545,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-29T00:05:23.000Z",
       "start_scheduled": "2026-05-29T00:05:00.000Z",
       "start_actual": "2026-05-29T00:05:23.000Z",
-      "live_viewers": 5453,
+      "live_viewers": 4994,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-29T00:55:23.000Z",
       "start_scheduled": "2026-05-29T01:00:00.000Z",
       "start_actual": "2026-05-29T00:55:23.000Z",
-      "live_viewers": 649,
+      "live_viewers": 769,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-29T00:55:49.000Z",
       "start_scheduled": "2026-05-29T01:00:00.000Z",
       "start_actual": "2026-05-29T00:55:49.000Z",
-      "live_viewers": 1894,
+      "live_viewers": 2448,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-29T00:55:59.000Z",
       "start_scheduled": "2026-05-29T01:00:00.000Z",
       "start_actual": "2026-05-29T00:55:59.000Z",
-      "live_viewers": 1141,
+      "live_viewers": 1603,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -139,25 +139,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCl69AEx4MdqMZH7Jtsm7Tig": {
-      "video_id": "rFmdOarYXuE",
-      "title": "【ENigmatic Recollection 3】THE BORDER CAN'T HOLD US. VIVA LA ROAVOLITION!!!!!!!!!!!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-28T05:18:55.000Z",
-      "available_at": "2026-05-29T01:00:00.000Z",
-      "start_scheduled": "2026-05-29T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
-        "name": "Raora Panthera Ch. hololive-EN",
-        "english_name": "Raora Panthera",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCW5uhrG1eCBYditmhL0Ykjw": {
@@ -179,6 +160,46 @@
         "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCMwGHR0BTZuLsmjY_NT5Pwg": {
+      "video_id": "F0V2nxnTEII",
+      "title": "【ENigmatic Recollection】Because...A Hero Needed Rest Too...【#5】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-29T00:22:31.000Z",
+      "available_at": "2026-05-29T01:00:16.000Z",
+      "start_scheduled": "2026-05-29T01:00:00.000Z",
+      "start_actual": "2026-05-29T01:00:16.000Z",
+      "live_viewers": 1344,
+      "channel": {
+        "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "name": "Ninomae Ina'nis Ch. hololive-EN",
+        "english_name": "Ninomae Ina'nis",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCl69AEx4MdqMZH7Jtsm7Tig": {
+      "video_id": "rFmdOarYXuE",
+      "title": "【ENigmatic Recollection 3】THE BORDER CAN'T HOLD US. VIVA LA ROAVOLITION!!!!!!!!!!!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-28T05:18:55.000Z",
+      "available_at": "2026-05-29T01:01:09.000Z",
+      "start_scheduled": "2026-05-29T01:00:00.000Z",
+      "start_actual": "2026-05-29T01:01:09.000Z",
+      "live_viewers": 931,
+      "channel": {
+        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
+        "name": "Raora Panthera Ch. hololive-EN",
+        "english_name": "Raora Panthera",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
       "video_id": "Ap9GUELHGSg",
       "title": "≪ENigmatic Recollection: Chapter 3≫ New Tax Bracket #5",
@@ -186,9 +207,10 @@
       "status": "live",
       "topic_id": "minecraft",
       "published_at": "2026-05-28T13:01:50.000Z",
-      "available_at": "2026-05-29T01:00:00.000Z",
+      "available_at": "2026-05-29T01:01:38.000Z",
       "start_scheduled": "2026-05-29T01:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-29T01:01:38.000Z",
+      "live_viewers": 640,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -205,9 +227,10 @@
       "status": "live",
       "topic_id": "minecraft",
       "published_at": "2026-05-28T17:13:41.000Z",
-      "available_at": "2026-05-29T01:00:00.000Z",
+      "available_at": "2026-05-29T01:02:07.000Z",
       "start_scheduled": "2026-05-29T01:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-29T01:02:07.000Z",
+      "live_viewers": 1271,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -215,26 +238,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCMwGHR0BTZuLsmjY_NT5Pwg": {
-      "video_id": "F0V2nxnTEII",
-      "title": "【ENigmatic Recollection】Because...A Hero Needed Rest Too...【#5】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-29T00:22:31.000Z",
-      "available_at": "2026-05-29T01:00:12.000Z",
-      "start_scheduled": "2026-05-29T01:00:00.000Z",
-      "start_actual": "2026-05-29T01:00:12.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "name": "Ninomae Ina'nis Ch. hololive-EN",
-        "english_name": "Ninomae Ina'nis",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
