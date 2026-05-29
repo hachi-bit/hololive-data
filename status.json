@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780069279,
+  "cached_at": 1780069339,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "Lz8sNcjn3WE",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-29T12:20:59.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:20:59.000Z",
-      "live_viewers": 406,
+      "live_viewers": 399,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-29T13:05:55.000Z",
       "start_scheduled": "2026-05-29T13:00:00.000Z",
       "start_actual": "2026-05-29T13:05:55.000Z",
-      "live_viewers": 939,
+      "live_viewers": 923,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -79,46 +79,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCJlcEuTs4LNMPn0xL3czRrA": {
-      "video_id": "6iO1eyus5qw",
-      "title": "LETS END THIS!!  | Cursed Companion",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Cursed_Companions",
-      "published_at": "2026-05-29T05:19:57.000Z",
-      "available_at": "2026-05-29T14:01:17.000Z",
-      "start_scheduled": "2026-05-29T14:00:00.000Z",
-      "start_actual": "2026-05-29T14:01:17.000Z",
-      "live_viewers": 125,
-      "channel": {
-        "id": "UCJlcEuTs4LNMPn0xL3czRrA",
-        "name": "ONShannon ",
-        "english_name": "Shannon Lynn",
-        "org": "AKA Virtual",
-        "suborg": "0gChao.5",
-        "photo": "https://yt3.ggpht.com/vofOOZs6Rby_Cx6OlTM2YvfIHFm7IfP1ZSmVmxU6_OBiBcnvsl72O5SpSj6ZGPjY5452hWzF=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
-      "video_id": "JFHttHTQO5M",
-      "title": "【Cursed Companions】Be Careful With Words and We Shall Emerge Victorious【Pavolia Reine/hololiveID】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Cursed_Companions",
-      "published_at": "2026-05-29T11:31:27.000Z",
-      "available_at": "2026-05-29T14:01:26.000Z",
-      "start_scheduled": "2026-05-29T14:00:00.000Z",
-      "start_actual": "2026-05-29T14:01:26.000Z",
-      "live_viewers": 691,
-      "channel": {
-        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "name": "Pavolia Reine Ch. hololive-ID",
-        "english_name": "Pavolia Reine",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
@@ -151,7 +111,7 @@
       "available_at": "2026-05-29T14:02:21.000Z",
       "start_scheduled": "2026-05-29T14:00:00.000Z",
       "start_actual": "2026-05-29T14:02:21.000Z",
-      "live_viewers": 816,
+      "live_viewers": 618,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -171,7 +131,7 @@
       "available_at": "2026-05-29T14:30:07.000Z",
       "start_scheduled": "2026-05-29T14:30:00.000Z",
       "start_actual": "2026-05-29T14:30:07.000Z",
-      "live_viewers": 413,
+      "live_viewers": 436,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -191,7 +151,7 @@
       "available_at": "2026-05-29T14:34:25.000Z",
       "start_scheduled": "2026-05-29T14:30:00.000Z",
       "start_actual": "2026-05-29T14:34:25.000Z",
-      "live_viewers": 265,
+      "live_viewers": 268,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
