@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780060459,
+  "cached_at": 1780060519,
   "lives": {
     "UCdi5pj0MDQ-3LFNUFIFmD8w": {
       "video_id": "69-WQJypaJc",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-29T11:01:27.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:27.000Z",
-      "live_viewers": 130,
+      "live_viewers": 126,
       "channel": {
         "id": "UCP49yY6NEgddv28n6ECKFLg",
         "name": "九衣よな / Kyui Yona",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-29T11:01:42.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:42.000Z",
-      "live_viewers": 600,
+      "live_viewers": 657,
       "channel": {
         "id": "UC7wZb5INldbGweowOhBIs8Q",
         "name": "石狩あかり/あおぎり高校",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-29T11:01:52.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:52.000Z",
-      "live_viewers": 3149,
+      "live_viewers": 2845,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -161,26 +161,6 @@
         "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UChSvpZYRPh0FvG4SJGSga3g": {
-      "video_id": "oGCRf2PfXRY",
-      "title": "【百尺様】タッパとケツがデカい女がタイプです【影山シエン/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "HyakusyakuSama",
-      "published_at": "2026-05-29T08:37:12.000Z",
-      "available_at": "2026-05-29T12:01:00.000Z",
-      "start_scheduled": "2026-05-29T12:00:00.000Z",
-      "start_actual": "2026-05-29T12:01:00.000Z",
-      "live_viewers": 707,
-      "channel": {
-        "id": "UChSvpZYRPh0FvG4SJGSga3g",
-        "name": "Shien Ch.影山シエン",
-        "english_name": "Kageyama Shien",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "ncp2Hv9Kx-A",
       "title": "【メンバーシップ限定】ちょっと秘密のお話。 【鷹嶺ルイ/ホロライブ】",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-29T12:02:27.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:02:27.000Z",
-      "live_viewers": 6155,
+      "live_viewers": 6024,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-29T12:09:47.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:09:47.000Z",
-      "live_viewers": 10766,
+      "live_viewers": 10535,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-29T12:17:21.000Z",
       "start_scheduled": "2026-05-29T12:15:00.000Z",
       "start_actual": "2026-05-29T12:17:21.000Z",
-      "live_viewers": 332,
+      "live_viewers": 369,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-29T12:20:59.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:20:59.000Z",
-      "live_viewers": 400,
+      "live_viewers": 416,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-29T13:00:20.000Z",
       "start_scheduled": "2026-05-29T13:00:00.000Z",
       "start_actual": "2026-05-29T13:00:20.000Z",
-      "live_viewers": 1344,
+      "live_viewers": 1425,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-29T13:01:32.000Z",
       "start_scheduled": "2026-05-29T13:00:00.000Z",
       "start_actual": "2026-05-29T13:01:32.000Z",
-      "live_viewers": 22097,
+      "live_viewers": 23375,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-29T13:02:07.000Z",
       "start_scheduled": "2026-05-29T13:00:00.000Z",
       "start_actual": "2026-05-29T13:02:07.000Z",
-      "live_viewers": 10997,
+      "live_viewers": 11018,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -371,7 +351,7 @@
       "available_at": "2026-05-29T13:05:55.000Z",
       "start_scheduled": "2026-05-29T13:00:00.000Z",
       "start_actual": "2026-05-29T13:05:55.000Z",
-      "live_viewers": 570,
+      "live_viewers": 639,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
