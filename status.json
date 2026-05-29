@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780060159,
+  "cached_at": 1780060221,
   "lives": {
     "UCdi5pj0MDQ-3LFNUFIFmD8w": {
       "video_id": "69-WQJypaJc",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-29T11:01:29.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:29.000Z",
-      "live_viewers": 39,
+      "live_viewers": 47,
       "channel": {
         "id": "UCaSJgx9BZRktT0s19henMGg",
         "name": "坂本こん / Sakamoto Kon",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-29T11:01:52.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:52.000Z",
-      "live_viewers": 2778,
+      "live_viewers": 3149,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-29T12:09:47.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:09:47.000Z",
-      "live_viewers": 11161,
+      "live_viewers": 10966,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-29T12:17:21.000Z",
       "start_scheduled": "2026-05-29T12:15:00.000Z",
       "start_actual": "2026-05-29T12:17:21.000Z",
-      "live_viewers": 317,
+      "live_viewers": 332,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-29T12:20:59.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:20:59.000Z",
-      "live_viewers": 376,
+      "live_viewers": 395,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -279,25 +279,6 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCAoy6rzhSf4ydcYjJw3WoVg": {
-      "video_id": "30EB7bBEwSI",
-      "title": "【Paralives】Making hololive Household【 iofi / hololiveID 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-29T11:12:57.000Z",
-      "available_at": "2026-05-29T13:00:00.000Z",
-      "start_scheduled": "2026-05-29T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-        "name": "Airani Iofifteen Channel hololive-ID",
-        "english_name": "Airani Iofifteen",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCFKOVgVbGmX65RxO3EtH3iw": {
@@ -319,26 +300,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCODNLyn3L83wEmC0DLL0cxA": {
-      "video_id": "eF4oOhLcf1E",
-      "title": "LOVEマシーン/モーニング娘。Covered by 朝ノ瑠璃/暁月ホタル/アキ・ローゼンタール/AZKi/酵穣桃桜/詩趣ミンゴス/皇美緒奈/NiBOSHI",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Music_Cover",
-      "published_at": "2026-05-29T13:00:07.000Z",
-      "available_at": "2026-05-29T13:00:07.000Z",
-      "start_scheduled": "2026-05-29T13:00:00.000Z",
-      "start_actual": "2026-05-29T13:00:07.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCODNLyn3L83wEmC0DLL0cxA",
-        "name": "朝ノ姉妹ぷろじぇくと",
-        "english_name": "Asano Ninja Sisters",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/Y2D0FcAyWjdJimvrJwkefntu0uLaanSw6FY_8bE1ZSpc8EB89_yyqqPlbRyhc4QLyJOjcnQajMY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCdXAk5MpyLD8594lm_OvtGQ": {
       "video_id": "Q5YpoM3QxzQ",
       "title": "【同時視聴】最終回!ジョジョの奇妙な冒険ストーンオーシャン(6部)同時視聴の会ッ!!⑮【儒烏風亭らでん #ReGLOSS 】",
@@ -349,7 +310,7 @@
       "available_at": "2026-05-29T13:00:20.000Z",
       "start_scheduled": "2026-05-29T13:00:00.000Z",
       "start_actual": "2026-05-29T13:00:20.000Z",
-      "live_viewers": 1259,
+      "live_viewers": 1306,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -369,7 +330,7 @@
       "available_at": "2026-05-29T13:01:32.000Z",
       "start_scheduled": "2026-05-29T13:00:00.000Z",
       "start_actual": "2026-05-29T13:01:32.000Z",
-      "live_viewers": 17290,
+      "live_viewers": 20094,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -389,7 +350,7 @@
       "available_at": "2026-05-29T13:02:07.000Z",
       "start_scheduled": "2026-05-29T13:00:00.000Z",
       "start_actual": "2026-05-29T13:02:07.000Z",
-      "live_viewers": 9845,
+      "live_viewers": 10468,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -397,6 +358,26 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAoy6rzhSf4ydcYjJw3WoVg": {
+      "video_id": "30EB7bBEwSI",
+      "title": "【Paralives】Making hololive Household【 iofi / hololiveID 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-29T11:12:57.000Z",
+      "available_at": "2026-05-29T13:05:55.000Z",
+      "start_scheduled": "2026-05-29T13:00:00.000Z",
+      "start_actual": "2026-05-29T13:05:55.000Z",
+      "live_viewers": 454,
+      "channel": {
+        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+        "name": "Airani Iofifteen Channel hololive-ID",
+        "english_name": "Airani Iofifteen",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
