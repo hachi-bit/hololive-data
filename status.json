@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780018698,
+  "cached_at": 1780018759,
   "lives": {
-    "UCmbs8T6MWqUHP1tIQvSgKrg": {
-      "video_id": "MGeeMCTYfQg",
-      "title": "【WAY 2 U Afterparty】Celebration Time Yay 👑 + Behind The Scenes",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-28T01:36:49.000Z",
-      "available_at": "2026-05-28T23:02:47.000Z",
-      "start_scheduled": "2026-05-28T23:00:00.000Z",
-      "start_actual": "2026-05-28T23:02:47.000Z",
-      "live_viewers": 3069,
-      "channel": {
-        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
-        "name": "Ouro Kronii Ch. hololive-EN",
-        "english_name": "Ouro Kronii",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "UBbTSf5A9bc",
       "title": "【MINECRAFT RP】rise n' grind #calliolive #enreco",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-28T23:10:21.000Z",
       "start_scheduled": "2026-05-28T23:10:00.000Z",
       "start_actual": "2026-05-28T23:10:21.000Z",
-      "live_viewers": 3313,
+      "live_viewers": 3132,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-29T00:05:23.000Z",
       "start_scheduled": "2026-05-29T00:05:00.000Z",
       "start_actual": "2026-05-29T00:05:23.000Z",
-      "live_viewers": 4809,
+      "live_viewers": 4252,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-29T01:00:16.000Z",
       "start_scheduled": "2026-05-29T01:00:00.000Z",
       "start_actual": "2026-05-29T01:00:16.000Z",
-      "live_viewers": 2373,
+      "live_viewers": 2445,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-29T01:02:07.000Z",
       "start_scheduled": "2026-05-29T01:00:00.000Z",
       "start_actual": "2026-05-29T01:02:07.000Z",
-      "live_viewers": 2386,
+      "live_viewers": 2440,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-29T01:31:42.000Z",
       "start_scheduled": "2026-05-29T01:30:00.000Z",
       "start_actual": "2026-05-29T01:31:42.000Z",
-      "live_viewers": 2004,
+      "live_viewers": 2231,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
