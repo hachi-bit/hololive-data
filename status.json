@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780023859,
+  "cached_at": 1780023920,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "UBbTSf5A9bc",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-29T00:55:59.000Z",
       "start_scheduled": "2026-05-29T01:00:00.000Z",
       "start_actual": "2026-05-29T00:55:59.000Z",
-      "live_viewers": 2186,
+      "live_viewers": 2216,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-29T01:02:07.000Z",
       "start_scheduled": "2026-05-29T01:00:00.000Z",
       "start_actual": "2026-05-29T01:02:07.000Z",
-      "live_viewers": 2811,
+      "live_viewers": 2897,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-29T01:31:42.000Z",
       "start_scheduled": "2026-05-29T01:30:00.000Z",
       "start_actual": "2026-05-29T01:31:42.000Z",
-      "live_viewers": 4020,
+      "live_viewers": 4055,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-29T02:01:29.000Z",
       "start_scheduled": "2026-05-29T02:00:00.000Z",
       "start_actual": "2026-05-29T02:01:29.000Z",
-      "live_viewers": 348,
+      "live_viewers": 373,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-29T02:01:58.000Z",
       "start_scheduled": "2026-05-29T02:00:00.000Z",
       "start_actual": "2026-05-29T02:01:58.000Z",
-      "live_viewers": 255,
+      "live_viewers": 267,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -311,7 +311,7 @@
       "available_at": "2026-05-29T02:02:10.000Z",
       "start_scheduled": "2026-05-29T02:00:00.000Z",
       "start_actual": "2026-05-29T02:02:10.000Z",
-      "live_viewers": 3312,
+      "live_viewers": 3276,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -331,7 +331,7 @@
       "available_at": "2026-05-29T02:16:30.000Z",
       "start_scheduled": "2026-05-29T02:00:00.000Z",
       "start_actual": "2026-05-29T02:16:30.000Z",
-      "live_viewers": 229,
+      "live_viewers": 230,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -351,7 +351,7 @@
       "available_at": "2026-05-29T02:16:34.000Z",
       "start_scheduled": "2026-05-29T02:00:00.000Z",
       "start_actual": "2026-05-29T02:16:34.000Z",
-      "live_viewers": 150,
+      "live_viewers": 159,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -371,7 +371,7 @@
       "available_at": "2026-05-29T02:59:24.000Z",
       "start_scheduled": "2026-05-29T03:00:00.000Z",
       "start_actual": "2026-05-29T02:59:24.000Z",
-      "live_viewers": 1123,
+      "live_viewers": 2659,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
@@ -388,9 +388,10 @@
       "status": "live",
       "topic_id": "dbd",
       "published_at": "2026-05-29T02:53:06.000Z",
-      "available_at": "2026-05-29T03:00:00.000Z",
+      "available_at": "2026-05-29T03:01:19.000Z",
       "start_scheduled": "2026-05-29T03:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-29T03:01:19.000Z",
+      "live_viewers": 121,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
