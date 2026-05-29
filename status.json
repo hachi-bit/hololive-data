@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780056199,
+  "cached_at": 1780056259,
   "lives": {
     "UCdi5pj0MDQ-3LFNUFIFmD8w": {
       "video_id": "69-WQJypaJc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-29T11:00:43.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:00:43.000Z",
-      "live_viewers": 265,
+      "live_viewers": 235,
       "channel": {
         "id": "UCdi5pj0MDQ-3LFNUFIFmD8w",
         "name": "うる虎がーる / あおぎり高校",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-29T11:01:19.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:19.000Z",
-      "live_viewers": 262,
+      "live_viewers": 248,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-29T11:01:27.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:27.000Z",
-      "live_viewers": 142,
+      "live_viewers": 135,
       "channel": {
         "id": "UCP49yY6NEgddv28n6ECKFLg",
         "name": "九衣よな / Kyui Yona",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-29T11:01:29.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:29.000Z",
-      "live_viewers": 25,
+      "live_viewers": 24,
       "channel": {
         "id": "UCaSJgx9BZRktT0s19henMGg",
         "name": "坂本こん / Sakamoto Kon",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-29T11:01:42.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:42.000Z",
-      "live_viewers": 653,
+      "live_viewers": 646,
       "channel": {
         "id": "UC7wZb5INldbGweowOhBIs8Q",
         "name": "石狩あかり/あおぎり高校",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-29T11:01:54.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:54.000Z",
-      "live_viewers": 123,
+      "live_viewers": 127,
       "channel": {
         "id": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
         "name": "那和ツムグ",
@@ -139,26 +139,6 @@
         "org": "YUMENOS",
         "suborg": "1aGen 1",
         "photo": "https://yt3.ggpht.com/5CeAGu1KlyA4TKHZ6H8_9_hkI466Up_gz0Rag6iFr5U7dZX7nXmYJEs_R82BMCsPrMHnMn--ow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "f8BtL7bxj9s",
-      "title": "【Original】Ring my name / 響咲リオナ【Official MV】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Original_Song",
-      "published_at": "2026-05-29T11:55:06.000Z",
-      "available_at": "2026-05-29T11:55:06.000Z",
-      "start_scheduled": "2026-05-29T11:55:00.000Z",
-      "start_actual": "2026-05-29T11:55:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCJFZiqLMntJufDCHc6bQixg": {
@@ -171,7 +151,7 @@
       "available_at": "2026-05-29T11:55:09.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T11:55:09.000Z",
-      "live_viewers": 10648,
+      "live_viewers": 21748,
       "channel": {
         "id": "UCJFZiqLMntJufDCHc6bQixg",
         "name": "hololive ホロライブ - VTuber Group",
@@ -179,6 +159,141 @@
         "org": "Hololive",
         "suborg": "0aOfficial",
         "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1uv2Oq6kNxgATlCiez59hw": {
+      "video_id": "ucducGs1LiM",
+      "title": "【 STREET FIGHTER 6 】イングリットもでたし、課題もあるし～【常闇トワ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-05-29T11:35:49.000Z",
+      "available_at": "2026-05-29T12:00:00.000Z",
+      "start_scheduled": "2026-05-29T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1uv2Oq6kNxgATlCiez59hw",
+        "name": "Towa Ch. 常闇トワ",
+        "english_name": "Tokoyami Towa",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC3OH5FKQ3qtl4uRme_vZTgA": {
+      "video_id": "4xTZgom-peA",
+      "title": "【オフコラボ】喋ったり、演奏したり、歌ったり?【 #UNIT_B / 全員いるよ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-29T08:55:56.000Z",
+      "available_at": "2026-05-29T12:00:00.000Z",
+      "start_scheduled": "2026-05-29T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
+        "name": "UNIT B (Pre-Debut) - mekPark",
+        "english_name": "UNIT B [Pre-Debut]",
+        "org": "Hololive",
+        "suborg": "v_mekPark",
+        "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "Lz8sNcjn3WE",
+      "title": "【LoL】LTK TOP練習 1500チャンピオン目  / アステル わしだいこーち",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-05-29T11:32:33.000Z",
+      "available_at": "2026-05-29T12:00:00.000Z",
+      "start_scheduled": "2026-05-29T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "ncp2Hv9Kx-A",
+      "title": "【メンバーシップ限定】ちょっと秘密のお話。 【鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-29T08:39:33.000Z",
+      "available_at": "2026-05-29T12:00:00.000Z",
+      "start_scheduled": "2026-05-29T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "yi5Gy1vv7uc",
+      "title": "【メン限同時視聴】ザ・スーパーマリオブラザーズ・ムービー【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-29T08:31:09.000Z",
+      "available_at": "2026-05-29T12:00:00.000Z",
+      "start_scheduled": "2026-05-29T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "8MCgzq_ekkw",
+      "title": "【歌枠】みんなに告知したいことがあります!!聞いてください!!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-28T20:52:21.000Z",
+      "available_at": "2026-05-29T12:00:19.000Z",
+      "start_scheduled": "2026-05-29T12:00:00.000Z",
+      "start_actual": "2026-05-29T12:00:19.000Z",
+      "live_viewers": 4603,
+      "channel": {
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChSvpZYRPh0FvG4SJGSga3g": {
+      "video_id": "oGCRf2PfXRY",
+      "title": "【百尺様】タッパとケツがデカい女がタイプです【影山シエン/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "HyakusyakuSama",
+      "published_at": "2026-05-29T08:37:12.000Z",
+      "available_at": "2026-05-29T12:01:00.000Z",
+      "start_scheduled": "2026-05-29T12:00:00.000Z",
+      "start_actual": "2026-05-29T12:01:00.000Z",
+      "live_viewers": 262,
+      "channel": {
+        "id": "UChSvpZYRPh0FvG4SJGSga3g",
+        "name": "Shien Ch.影山シエン",
+        "english_name": "Kageyama Shien",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
