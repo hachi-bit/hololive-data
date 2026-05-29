@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780064899,
+  "cached_at": 1780064960,
   "lives": {
     "UCdi5pj0MDQ-3LFNUFIFmD8w": {
       "video_id": "69-WQJypaJc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-29T11:00:43.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:00:43.000Z",
-      "live_viewers": 219,
+      "live_viewers": 184,
       "channel": {
         "id": "UCdi5pj0MDQ-3LFNUFIFmD8w",
         "name": "うる虎がーる / あおぎり高校",
@@ -119,26 +119,6 @@
         "org": "YUMENOS",
         "suborg": "1aGen 1",
         "photo": "https://yt3.ggpht.com/5CeAGu1KlyA4TKHZ6H8_9_hkI466Up_gz0Rag6iFr5U7dZX7nXmYJEs_R82BMCsPrMHnMn--ow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "bjsrJWIrwWE",
-      "title": "#2【OPUS: Prism Peak】　「帰り道」を見つけ出す旅をしよう。【花咲みやび/ホロスターズ】【ネタバレあり】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "The_Night_Way_Home",
-      "published_at": "2026-05-29T11:51:10.000Z",
-      "available_at": "2026-05-29T12:17:21.000Z",
-      "start_scheduled": "2026-05-29T12:15:00.000Z",
-      "start_actual": "2026-05-29T12:17:21.000Z",
-      "live_viewers": 466,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
@@ -281,26 +261,6 @@
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCIa2OxCyhjWjJke-9yYNbwA": {
-      "video_id": "Z66wp7TItV4",
-      "title": "【CURSED COMPANIONS】WE WILL WINNNNNNNN!!!!!!!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Cursed_Companions",
-      "published_at": "2026-05-29T05:38:24.000Z",
-      "available_at": "2026-05-29T14:01:17.000Z",
-      "start_scheduled": "2026-05-29T14:00:00.000Z",
-      "start_actual": "2026-05-29T14:01:17.000Z",
-      "live_viewers": 81,
-      "channel": {
-        "id": "UCIa2OxCyhjWjJke-9yYNbwA",
-        "name": "Pia Meraleo - JKT48V",
-        "english_name": "Pia Meraleo",
-        "org": "Independents",
-        "suborg": "jkJKT48V",
-        "photo": "https://yt3.ggpht.com/6IOEgVvPXOJxjpnnFdnrhVwtzQ96FPTLOiDJi-MLK2bw-DxdC_ZTtivwvV425ZV_FuxFyaE_3A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCJlcEuTs4LNMPn0xL3czRrA": {
       "video_id": "6iO1eyus5qw",
       "title": "LETS END THIS!!  | Cursed Companion",
@@ -311,7 +271,7 @@
       "available_at": "2026-05-29T14:01:17.000Z",
       "start_scheduled": "2026-05-29T14:00:00.000Z",
       "start_actual": "2026-05-29T14:01:17.000Z",
-      "live_viewers": 85,
+      "live_viewers": 108,
       "channel": {
         "id": "UCJlcEuTs4LNMPn0xL3czRrA",
         "name": "ONShannon ",
@@ -319,6 +279,26 @@
         "org": "AKA Virtual",
         "suborg": "0gChao.5",
         "photo": "https://yt3.ggpht.com/vofOOZs6Rby_Cx6OlTM2YvfIHFm7IfP1ZSmVmxU6_OBiBcnvsl72O5SpSj6ZGPjY5452hWzF=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCIa2OxCyhjWjJke-9yYNbwA": {
+      "video_id": "Z66wp7TItV4",
+      "title": "【CURSED COMPANIONS】WE WILL WINNNNNNNN!!!!!!!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-05-29T05:38:24.000Z",
+      "available_at": "2026-05-29T14:01:17.000Z",
+      "start_scheduled": "2026-05-29T14:00:00.000Z",
+      "start_actual": "2026-05-29T14:01:17.000Z",
+      "live_viewers": 67,
+      "channel": {
+        "id": "UCIa2OxCyhjWjJke-9yYNbwA",
+        "name": "Pia Meraleo - JKT48V",
+        "english_name": "Pia Meraleo",
+        "org": "Independents",
+        "suborg": "jkJKT48V",
+        "photo": "https://yt3.ggpht.com/6IOEgVvPXOJxjpnnFdnrhVwtzQ96FPTLOiDJi-MLK2bw-DxdC_ZTtivwvV425ZV_FuxFyaE_3A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
@@ -331,7 +311,7 @@
       "available_at": "2026-05-29T14:01:26.000Z",
       "start_scheduled": "2026-05-29T14:00:00.000Z",
       "start_actual": "2026-05-29T14:01:26.000Z",
-      "live_viewers": 575,
+      "live_viewers": 595,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -351,7 +331,7 @@
       "available_at": "2026-05-29T14:01:48.000Z",
       "start_scheduled": "2026-05-29T14:00:00.000Z",
       "start_actual": "2026-05-29T14:01:48.000Z",
-      "live_viewers": 1492,
+      "live_viewers": 1532,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -371,7 +351,7 @@
       "available_at": "2026-05-29T14:02:21.000Z",
       "start_scheduled": "2026-05-29T14:00:00.000Z",
       "start_actual": "2026-05-29T14:02:21.000Z",
-      "live_viewers": 748,
+      "live_viewers": 741,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
