@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780056378,
+  "cached_at": 1780056439,
   "lives": {
     "UCdi5pj0MDQ-3LFNUFIFmD8w": {
       "video_id": "69-WQJypaJc",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-29T11:01:19.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:19.000Z",
-      "live_viewers": 248,
+      "live_viewers": 262,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-29T11:01:27.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:27.000Z",
-      "live_viewers": 135,
+      "live_viewers": 129,
       "channel": {
         "id": "UCP49yY6NEgddv28n6ECKFLg",
         "name": "九衣よな / Kyui Yona",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-29T11:01:42.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:42.000Z",
-      "live_viewers": 646,
+      "live_viewers": 668,
       "channel": {
         "id": "UC7wZb5INldbGweowOhBIs8Q",
         "name": "石狩あかり/あおぎり高校",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-29T11:01:52.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:52.000Z",
-      "live_viewers": 3050,
+      "live_viewers": 3036,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-29T11:01:54.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:54.000Z",
-      "live_viewers": 127,
+      "live_viewers": 116,
       "channel": {
         "id": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
         "name": "那和ツムグ",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-29T11:55:09.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T11:55:09.000Z",
-      "live_viewers": 21748,
+      "live_viewers": 25495,
       "channel": {
         "id": "UCJFZiqLMntJufDCHc6bQixg",
         "name": "hololive ホロライブ - VTuber Group",
@@ -161,42 +161,23 @@
         "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC1uv2Oq6kNxgATlCiez59hw": {
-      "video_id": "ucducGs1LiM",
-      "title": "【 STREET FIGHTER 6 】イングリットもでたし、課題もあるし～【常闇トワ/ホロライブ】",
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "yi5Gy1vv7uc",
+      "title": "【メン限同時視聴】ザ・スーパーマリオブラザーズ・ムービー【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
       "type": "stream",
       "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-05-29T11:35:49.000Z",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-29T08:31:09.000Z",
       "available_at": "2026-05-29T12:00:00.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "live_viewers": 0,
       "channel": {
-        "id": "UC1uv2Oq6kNxgATlCiez59hw",
-        "name": "Towa Ch. 常闇トワ",
-        "english_name": "Tokoyami Towa",
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
         "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC3OH5FKQ3qtl4uRme_vZTgA": {
-      "video_id": "4xTZgom-peA",
-      "title": "【オフコラボ】喋ったり、演奏したり、歌ったり?【 #UNIT_B / 全員いるよ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-29T08:55:56.000Z",
-      "available_at": "2026-05-29T12:00:00.000Z",
-      "start_scheduled": "2026-05-29T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
-        "name": "UNIT B (Pre-Debut) - mekPark",
-        "english_name": "UNIT B [Pre-Debut]",
-        "org": "Hololive",
-        "suborg": "v_mekPark",
-        "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
@@ -237,23 +218,23 @@
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "yi5Gy1vv7uc",
-      "title": "【メン限同時視聴】ザ・スーパーマリオブラザーズ・ムービー【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+    "UC3OH5FKQ3qtl4uRme_vZTgA": {
+      "video_id": "4xTZgom-peA",
+      "title": "【オフコラボ】喋ったり、演奏したり、歌ったり?【 #UNIT_B / 全員いるよ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-29T08:31:09.000Z",
+      "topic_id": "talk",
+      "published_at": "2026-05-29T08:55:56.000Z",
       "available_at": "2026-05-29T12:00:00.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "live_viewers": 0,
       "channel": {
-        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "english_name": "Kikirara Vivi",
+        "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
+        "name": "UNIT B (Pre-Debut) - mekPark",
+        "english_name": "UNIT B [Pre-Debut]",
         "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "v_mekPark",
+        "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
@@ -266,7 +247,7 @@
       "available_at": "2026-05-29T12:00:19.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:00:19.000Z",
-      "live_viewers": 4603,
+      "live_viewers": 7449,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -286,7 +267,7 @@
       "available_at": "2026-05-29T12:01:00.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:01:00.000Z",
-      "live_viewers": 262,
+      "live_viewers": 458,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -294,6 +275,26 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1uv2Oq6kNxgATlCiez59hw": {
+      "video_id": "ucducGs1LiM",
+      "title": "【 STREET FIGHTER 6 】イングリットもでたし、課題もあるし~【常闇トワ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-05-29T11:35:49.000Z",
+      "available_at": "2026-05-29T12:02:27.000Z",
+      "start_scheduled": "2026-05-29T12:00:00.000Z",
+      "start_actual": "2026-05-29T12:02:27.000Z",
+      "live_viewers": 2633,
+      "channel": {
+        "id": "UC1uv2Oq6kNxgATlCiez59hw",
+        "name": "Towa Ch. 常闇トワ",
+        "english_name": "Tokoyami Towa",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
