@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780055899,
+  "cached_at": 1780055959,
   "lives": {
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "gvGDJyWKHbk",
-      "title": "【 3D LIVE 】THE ONE & ONLY【 #⁠響咲リオナ生誕祭2026】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Birthday",
-      "published_at": "2026-05-22T11:18:02.000Z",
-      "available_at": "2026-05-29T10:57:51.000Z",
-      "start_scheduled": "2026-05-29T11:00:00.000Z",
-      "start_actual": "2026-05-29T10:57:51.000Z",
-      "live_viewers": 73353,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCdi5pj0MDQ-3LFNUFIFmD8w": {
       "video_id": "69-WQJypaJc",
       "title": "【 スト6 】後方腕組2人組に見守られながら赤ギャン対戦会!【あおぎり高校/うる虎がーる】",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-29T11:01:29.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:29.000Z",
-      "live_viewers": 26,
+      "live_viewers": 25,
       "channel": {
         "id": "UCaSJgx9BZRktT0s19henMGg",
         "name": "坂本こん / Sakamoto Kon",
@@ -159,6 +139,46 @@
         "org": "YUMENOS",
         "suborg": "1aGen 1",
         "photo": "https://yt3.ggpht.com/5CeAGu1KlyA4TKHZ6H8_9_hkI466Up_gz0Rag6iFr5U7dZX7nXmYJEs_R82BMCsPrMHnMn--ow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "f8BtL7bxj9s",
+      "title": "【Original】Ring my name / 響咲リオナ【Official MV】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Original_Song",
+      "published_at": "2026-05-29T11:55:06.000Z",
+      "available_at": "2026-05-29T11:55:06.000Z",
+      "start_scheduled": "2026-05-29T11:55:00.000Z",
+      "start_actual": "2026-05-29T11:55:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCJFZiqLMntJufDCHc6bQixg": {
+      "video_id": "4RzYnWVy1lg",
+      "title": "#ホロドリ 新情報公開特番!~企画の告知も!?~",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "hololive_Dreams",
+      "published_at": "2026-05-27T08:24:18.000Z",
+      "available_at": "2026-05-29T11:55:09.000Z",
+      "start_scheduled": "2026-05-29T12:00:00.000Z",
+      "start_actual": "2026-05-29T11:55:09.000Z",
+      "live_viewers": 5799,
+      "channel": {
+        "id": "UCJFZiqLMntJufDCHc6bQixg",
+        "name": "hololive ホロライブ - VTuber Group",
+        "english_name": "hololive VTuber Group",
+        "org": "Hololive",
+        "suborg": "0aOfficial",
+        "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
