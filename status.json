@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780043839,
+  "cached_at": 1780043899,
   "lives": {
     "UCMqGG8BRAiI1lJfKOpETM_w": {
       "video_id": "3aZW790F9Ew",
@@ -59,6 +59,26 @@
         "org": "Hololive",
         "suborg": "0w0th Generation",
         "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "lB2r8auuT5U",
+      "title": "【スーパーマリオ64】完全初見!初めてのマリオ64に挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_64",
+      "published_at": "2026-05-29T08:05:51.000Z",
+      "available_at": "2026-05-29T08:35:21.000Z",
+      "start_scheduled": "2026-05-29T08:35:00.000Z",
+      "start_actual": "2026-05-29T08:35:21.000Z",
+      "live_viewers": 868,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
