@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780016299,
+  "cached_at": 1780016359,
   "lives": {
     "UCmbs8T6MWqUHP1tIQvSgKrg": {
       "video_id": "MGeeMCTYfQg",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-28T23:58:29.000Z",
       "start_scheduled": "2026-05-29T00:00:00.000Z",
       "start_actual": "2026-05-28T23:58:29.000Z",
-      "live_viewers": 566,
+      "live_viewers": 567,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -79,6 +79,66 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCt9H_RpQzhxzlyBxFqrdHqA": {
+      "video_id": "Db4P0eDfOMY",
+      "title": "【ENIGMATIC RECOLLECTION】fluffy bonds united 🐾 #ENreco #hololiveEnglish【FUWAWA POV】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-28T16:05:12.000Z",
+      "available_at": "2026-05-29T00:55:23.000Z",
+      "start_scheduled": "2026-05-29T01:00:00.000Z",
+      "start_actual": "2026-05-29T00:55:23.000Z",
+      "live_viewers": 467,
+      "channel": {
+        "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
+        "name": "FUWAMOCO Ch. hololive-EN",
+        "english_name": "Fuwawa & Mococo Abyssgard",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_sFNM0z0MWm9A6WlKPuMMg": {
+      "video_id": "4anxJRoJo4s",
+      "title": "What goes up, must come down | ENReco Ch. 3",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-28T12:57:18.000Z",
+      "available_at": "2026-05-29T00:55:49.000Z",
+      "start_scheduled": "2026-05-29T01:00:00.000Z",
+      "start_actual": "2026-05-29T00:55:49.000Z",
+      "live_viewers": 1471,
+      "channel": {
+        "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+        "name": "Nerissa Ravencroft Ch. hololive-EN",
+        "english_name": "Nerissa Ravencroft",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgnfPPb9JI3e9A4cXHnWbyg": {
+      "video_id": "QB1ZSh0yKuc",
+      "title": "Have you seen The Yellow Sign? 【ENigmatic Recollection: Season 3】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-28T05:56:17.000Z",
+      "available_at": "2026-05-29T00:55:59.000Z",
+      "start_scheduled": "2026-05-29T01:00:00.000Z",
+      "start_actual": "2026-05-29T00:55:59.000Z",
+      "live_viewers": 665,
+      "channel": {
+        "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
+        "name": "Shiori Novella Ch. hololive-EN",
+        "english_name": "Shiori Novella",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
