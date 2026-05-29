@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780063639,
+  "cached_at": 1780063699,
   "lives": {
     "UCdi5pj0MDQ-3LFNUFIFmD8w": {
       "video_id": "69-WQJypaJc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-29T11:00:43.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:00:43.000Z",
-      "live_viewers": 213,
+      "live_viewers": 201,
       "channel": {
         "id": "UCdi5pj0MDQ-3LFNUFIFmD8w",
         "name": "うる虎がーる / あおぎり高校",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-29T13:00:20.000Z",
       "start_scheduled": "2026-05-29T13:00:00.000Z",
       "start_actual": "2026-05-29T13:00:20.000Z",
-      "live_viewers": 1884,
+      "live_viewers": 1950,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-29T13:05:55.000Z",
       "start_scheduled": "2026-05-29T13:00:00.000Z",
       "start_actual": "2026-05-29T13:05:55.000Z",
-      "live_viewers": 1010,
+      "live_viewers": 995,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-29T13:32:22.000Z",
       "start_scheduled": "2026-05-29T13:30:00.000Z",
       "start_actual": "2026-05-29T13:32:22.000Z",
-      "live_viewers": 5265,
+      "live_viewers": 5440,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -299,25 +299,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCOyYb1c43VlX9rc_lT6NKQw": {
-      "video_id": "iF_0pP9hdMQ",
-      "title": "MENAMATKAN PERMAINAN KAWAN TERKUTUK",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Cursed_Companions",
-      "published_at": "2026-05-29T12:00:11.000Z",
-      "available_at": "2026-05-29T14:00:00.000Z",
-      "start_scheduled": "2026-05-29T14:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-        "name": "Ayunda Risu Ch. hololive-ID",
-        "english_name": "Ayunda Risu",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCJlcEuTs4LNMPn0xL3czRrA": {
@@ -330,7 +311,7 @@
       "available_at": "2026-05-29T14:01:17.000Z",
       "start_scheduled": "2026-05-29T14:00:00.000Z",
       "start_actual": "2026-05-29T14:01:17.000Z",
-      "live_viewers": 52,
+      "live_viewers": 64,
       "channel": {
         "id": "UCJlcEuTs4LNMPn0xL3czRrA",
         "name": "ONShannon ",
@@ -350,7 +331,7 @@
       "available_at": "2026-05-29T14:01:17.000Z",
       "start_scheduled": "2026-05-29T14:00:00.000Z",
       "start_actual": "2026-05-29T14:01:17.000Z",
-      "live_viewers": 45,
+      "live_viewers": 66,
       "channel": {
         "id": "UCIa2OxCyhjWjJke-9yYNbwA",
         "name": "Pia Meraleo - JKT48V",
@@ -370,7 +351,7 @@
       "available_at": "2026-05-29T14:01:26.000Z",
       "start_scheduled": "2026-05-29T14:00:00.000Z",
       "start_actual": "2026-05-29T14:01:26.000Z",
-      "live_viewers": 325,
+      "live_viewers": 370,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -390,7 +371,7 @@
       "available_at": "2026-05-29T14:01:48.000Z",
       "start_scheduled": "2026-05-29T14:00:00.000Z",
       "start_actual": "2026-05-29T14:01:48.000Z",
-      "live_viewers": 585,
+      "live_viewers": 886,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -398,6 +379,26 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCOyYb1c43VlX9rc_lT6NKQw": {
+      "video_id": "iF_0pP9hdMQ",
+      "title": "MENAMATKAN PERMAINAN KAWAN TERKUTUK",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-05-29T12:00:11.000Z",
+      "available_at": "2026-05-29T14:02:21.000Z",
+      "start_scheduled": "2026-05-29T14:00:00.000Z",
+      "start_actual": "2026-05-29T14:02:21.000Z",
+      "live_viewers": 413,
+      "channel": {
+        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+        "name": "Ayunda Risu Ch. hololive-ID",
+        "english_name": "Ayunda Risu",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
