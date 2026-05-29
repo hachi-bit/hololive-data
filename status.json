@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780065499,
+  "cached_at": 1780065559,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "Lz8sNcjn3WE",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-29T14:01:17.000Z",
       "start_scheduled": "2026-05-29T14:00:00.000Z",
       "start_actual": "2026-05-29T14:01:17.000Z",
-      "live_viewers": 67,
+      "live_viewers": 74,
       "channel": {
         "id": "UCIa2OxCyhjWjJke-9yYNbwA",
         "name": "Pia Meraleo - JKT48V",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-29T14:01:17.000Z",
       "start_scheduled": "2026-05-29T14:00:00.000Z",
       "start_actual": "2026-05-29T14:01:17.000Z",
-      "live_viewers": 98,
+      "live_viewers": 97,
       "channel": {
         "id": "UCJlcEuTs4LNMPn0xL3czRrA",
         "name": "ONShannon ",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-29T14:02:21.000Z",
       "start_scheduled": "2026-05-29T14:00:00.000Z",
       "start_actual": "2026-05-29T14:02:21.000Z",
-      "live_viewers": 782,
+      "live_viewers": 769,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -239,25 +239,6 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "lWE2UtTlP7U",
-      "title": "【DYING LIGHT THE BEAST】今日でこの世界を救います!最終回!【岸堂天真/花咲みやび/羽継烏有/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Dying_Light",
-      "published_at": "2026-05-29T14:21:13.000Z",
-      "available_at": "2026-05-29T14:30:00.000Z",
-      "start_scheduled": "2026-05-29T14:30:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC6t3-_N8A6ME1JShZHHqOMw": {
@@ -270,7 +251,7 @@
       "available_at": "2026-05-29T14:30:07.000Z",
       "start_scheduled": "2026-05-29T14:30:00.000Z",
       "start_actual": "2026-05-29T14:30:07.000Z",
-      "live_viewers": 240,
+      "live_viewers": 252,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -278,6 +259,26 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGNI4MENvnsymYjKiZwv9eg": {
+      "video_id": "lWE2UtTlP7U",
+      "title": "【DYING LIGHT THE BEAST】今日でこの世界を救います!最終回!【岸堂天真/花咲みやび/羽継烏有/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dying_Light",
+      "published_at": "2026-05-29T14:21:13.000Z",
+      "available_at": "2026-05-29T14:34:25.000Z",
+      "start_scheduled": "2026-05-29T14:30:00.000Z",
+      "start_actual": "2026-05-29T14:34:25.000Z",
+      "live_viewers": 153,
+      "channel": {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "english_name": "Kishido Temma",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
