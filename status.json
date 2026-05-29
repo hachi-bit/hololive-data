@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780052359,
+  "cached_at": 1780052420,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "lB2r8auuT5U",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-29T08:35:21.000Z",
       "start_scheduled": "2026-05-29T08:35:00.000Z",
       "start_actual": "2026-05-29T08:35:21.000Z",
-      "live_viewers": 9774,
+      "live_viewers": 9776,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -39,6 +39,26 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "gvGDJyWKHbk",
+      "title": "【 3D LIVE 】THE ONE & ONLY【 #⁠響咲リオナ生誕祭2026】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Birthday",
+      "published_at": "2026-05-22T11:18:02.000Z",
+      "available_at": "2026-05-29T10:57:51.000Z",
+      "start_scheduled": "2026-05-29T11:00:00.000Z",
+      "start_actual": "2026-05-29T10:57:51.000Z",
+      "live_viewers": 8395,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
