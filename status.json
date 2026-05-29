@@ -1,25 +1,4 @@
 {
-  "cached_at": 1780078938,
-  "lives": {
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "Lz8sNcjn3WE",
-      "title": "【LoL】LTK TOP練習 1500チャンピオン目  / アステル わしだいこーち",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-05-29T11:32:33.000Z",
-      "available_at": "2026-05-29T12:20:59.000Z",
-      "start_scheduled": "2026-05-29T12:00:00.000Z",
-      "start_actual": "2026-05-29T12:20:59.000Z",
-      "live_viewers": 422,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    }
-  }
+  "cached_at": 1780078999,
+  "lives": {}
 }
