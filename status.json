@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780019779,
+  "cached_at": 1780019839,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "UBbTSf5A9bc",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-29T00:55:23.000Z",
       "start_scheduled": "2026-05-29T01:00:00.000Z",
       "start_actual": "2026-05-29T00:55:23.000Z",
-      "live_viewers": 1121,
+      "live_viewers": 1104,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -171,7 +171,7 @@
       "available_at": "2026-05-29T01:01:38.000Z",
       "start_scheduled": "2026-05-29T01:00:00.000Z",
       "start_actual": "2026-05-29T01:01:38.000Z",
-      "live_viewers": 1080,
+      "live_viewers": 1161,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-29T01:08:59.000Z",
       "start_scheduled": "2026-05-29T01:00:00.000Z",
       "start_actual": "2026-05-29T01:08:59.000Z",
-      "live_viewers": 2170,
+      "live_viewers": 2243,
       "channel": {
         "id": "UCW5uhrG1eCBYditmhL0Ykjw",
         "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-29T01:31:42.000Z",
       "start_scheduled": "2026-05-29T01:30:00.000Z",
       "start_actual": "2026-05-29T01:31:42.000Z",
-      "live_viewers": 3242,
+      "live_viewers": 3321,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -239,6 +239,26 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_vDF8pbCIR8gaAxXAAH7Og": {
+      "video_id": "jnfGbj5C8X0",
+      "title": "【MARATHON】 BAKAL BOYS ft. @JurardTRexford & @Octavio_en  【DubsteP】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Marathon",
+      "published_at": "2026-05-28T15:27:50.000Z",
+      "available_at": "2026-05-29T01:54:11.000Z",
+      "start_scheduled": "2026-05-29T02:00:00.000Z",
+      "start_actual": "2026-05-29T01:54:11.000Z",
+      "live_viewers": 28,
+      "channel": {
+        "id": "UC_vDF8pbCIR8gaAxXAAH7Og",
+        "name": "DubsteP",
+        "english_name": "DubsteP",
+        "org": "Twitch Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/yypKKZ7TwgcvvF57-AgPEMsPL1fxWSOdrP2ESj7U7Un-cqe7tRQE2t2ajaHvixyXB3_-9PrS=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
