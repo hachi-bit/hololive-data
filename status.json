@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780063819,
+  "cached_at": 1780063879,
   "lives": {
     "UCdi5pj0MDQ-3LFNUFIFmD8w": {
       "video_id": "69-WQJypaJc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-29T11:00:43.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:00:43.000Z",
-      "live_viewers": 201,
+      "live_viewers": 219,
       "channel": {
         "id": "UCdi5pj0MDQ-3LFNUFIFmD8w",
         "name": "うる虎がーる / あおぎり高校",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-29T11:01:27.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:27.000Z",
-      "live_viewers": 99,
+      "live_viewers": 94,
       "channel": {
         "id": "UCP49yY6NEgddv28n6ECKFLg",
         "name": "九衣よな / Kyui Yona",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-29T11:01:29.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:29.000Z",
-      "live_viewers": 18,
+      "live_viewers": 24,
       "channel": {
         "id": "UCaSJgx9BZRktT0s19henMGg",
         "name": "坂本こん / Sakamoto Kon",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-29T11:01:42.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:42.000Z",
-      "live_viewers": 578,
+      "live_viewers": 605,
       "channel": {
         "id": "UC7wZb5INldbGweowOhBIs8Q",
         "name": "石狩あかり/あおぎり高校",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-29T11:01:52.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:52.000Z",
-      "live_viewers": 2439,
+      "live_viewers": 2287,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-29T11:01:54.000Z",
       "start_scheduled": "2026-05-29T11:00:00.000Z",
       "start_actual": "2026-05-29T11:01:54.000Z",
-      "live_viewers": 105,
+      "live_viewers": 96,
       "channel": {
         "id": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
         "name": "那和ツムグ",
@@ -123,7 +123,7 @@
     },
     "UC1uv2Oq6kNxgATlCiez59hw": {
       "video_id": "ucducGs1LiM",
-      "title": "【 STREET FIGHTER 6 】イングリットもでたし、課題もあるし~【常闇トワ/ホロライブ】",
+      "title": "【 STREET FIGHTER 6 】イングリットもでたし、課題もあるし～【常闇トワ/ホロライブ】",
       "type": "stream",
       "status": "live",
       "topic_id": "Street_Fighter",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-29T12:02:27.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:02:27.000Z",
-      "live_viewers": 5289,
+      "live_viewers": 5206,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-29T13:01:32.000Z",
       "start_scheduled": "2026-05-29T13:00:00.000Z",
       "start_actual": "2026-05-29T13:01:32.000Z",
-      "live_viewers": 30336,
+      "live_viewers": 30359,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-29T13:02:07.000Z",
       "start_scheduled": "2026-05-29T13:00:00.000Z",
       "start_actual": "2026-05-29T13:02:07.000Z",
-      "live_viewers": 12330,
+      "live_viewers": 12239,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-29T13:32:22.000Z",
       "start_scheduled": "2026-05-29T13:30:00.000Z",
       "start_actual": "2026-05-29T13:32:22.000Z",
-      "live_viewers": 5440,
+      "live_viewers": 5697,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -299,26 +299,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCJlcEuTs4LNMPn0xL3czRrA": {
-      "video_id": "6iO1eyus5qw",
-      "title": "LETS END THIS!!  | Cursed Companion",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Cursed_Companions",
-      "published_at": "2026-05-29T05:19:57.000Z",
-      "available_at": "2026-05-29T14:01:17.000Z",
-      "start_scheduled": "2026-05-29T14:00:00.000Z",
-      "start_actual": "2026-05-29T14:01:17.000Z",
-      "live_viewers": 64,
-      "channel": {
-        "id": "UCJlcEuTs4LNMPn0xL3czRrA",
-        "name": "ONShannon ",
-        "english_name": "Shannon Lynn",
-        "org": "AKA Virtual",
-        "suborg": "0gChao.5",
-        "photo": "https://yt3.ggpht.com/vofOOZs6Rby_Cx6OlTM2YvfIHFm7IfP1ZSmVmxU6_OBiBcnvsl72O5SpSj6ZGPjY5452hWzF=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCIa2OxCyhjWjJke-9yYNbwA": {
@@ -331,7 +311,7 @@
       "available_at": "2026-05-29T14:01:17.000Z",
       "start_scheduled": "2026-05-29T14:00:00.000Z",
       "start_actual": "2026-05-29T14:01:17.000Z",
-      "live_viewers": 66,
+      "live_viewers": 75,
       "channel": {
         "id": "UCIa2OxCyhjWjJke-9yYNbwA",
         "name": "Pia Meraleo - JKT48V",
@@ -339,6 +319,26 @@
         "org": "Independents",
         "suborg": "jkJKT48V",
         "photo": "https://yt3.ggpht.com/6IOEgVvPXOJxjpnnFdnrhVwtzQ96FPTLOiDJi-MLK2bw-DxdC_ZTtivwvV425ZV_FuxFyaE_3A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCJlcEuTs4LNMPn0xL3czRrA": {
+      "video_id": "6iO1eyus5qw",
+      "title": "LETS END THIS!!  | Cursed Companion",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cursed_Companions",
+      "published_at": "2026-05-29T05:19:57.000Z",
+      "available_at": "2026-05-29T14:01:17.000Z",
+      "start_scheduled": "2026-05-29T14:00:00.000Z",
+      "start_actual": "2026-05-29T14:01:17.000Z",
+      "live_viewers": 79,
+      "channel": {
+        "id": "UCJlcEuTs4LNMPn0xL3czRrA",
+        "name": "ONShannon ",
+        "english_name": "Shannon Lynn",
+        "org": "AKA Virtual",
+        "suborg": "0gChao.5",
+        "photo": "https://yt3.ggpht.com/vofOOZs6Rby_Cx6OlTM2YvfIHFm7IfP1ZSmVmxU6_OBiBcnvsl72O5SpSj6ZGPjY5452hWzF=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
@@ -351,7 +351,7 @@
       "available_at": "2026-05-29T14:01:26.000Z",
       "start_scheduled": "2026-05-29T14:00:00.000Z",
       "start_actual": "2026-05-29T14:01:26.000Z",
-      "live_viewers": 370,
+      "live_viewers": 451,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -371,7 +371,7 @@
       "available_at": "2026-05-29T14:01:48.000Z",
       "start_scheduled": "2026-05-29T14:00:00.000Z",
       "start_actual": "2026-05-29T14:01:48.000Z",
-      "live_viewers": 886,
+      "live_viewers": 1066,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -391,7 +391,7 @@
       "available_at": "2026-05-29T14:02:21.000Z",
       "start_scheduled": "2026-05-29T14:00:00.000Z",
       "start_actual": "2026-05-29T14:02:21.000Z",
-      "live_viewers": 413,
+      "live_viewers": 495,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
