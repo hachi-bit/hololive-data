@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780069759,
+  "cached_at": 1780069819,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "Lz8sNcjn3WE",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-29T12:20:59.000Z",
       "start_scheduled": "2026-05-29T12:00:00.000Z",
       "start_actual": "2026-05-29T12:20:59.000Z",
-      "live_viewers": 399,
+      "live_viewers": 396,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-29T13:01:32.000Z",
       "start_scheduled": "2026-05-29T13:00:00.000Z",
       "start_actual": "2026-05-29T13:01:32.000Z",
-      "live_viewers": 28771,
+      "live_viewers": 28720,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-29T13:05:55.000Z",
       "start_scheduled": "2026-05-29T13:00:00.000Z",
       "start_actual": "2026-05-29T13:05:55.000Z",
-      "live_viewers": 923,
+      "live_viewers": 1854,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -81,26 +81,6 @@
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCOyYb1c43VlX9rc_lT6NKQw": {
-      "video_id": "iF_0pP9hdMQ",
-      "title": "MENAMATKAN PERMAINAN KAWAN TERKUTUK",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Cursed_Companions",
-      "published_at": "2026-05-29T12:00:11.000Z",
-      "available_at": "2026-05-29T14:02:21.000Z",
-      "start_scheduled": "2026-05-29T14:00:00.000Z",
-      "start_actual": "2026-05-29T14:02:21.000Z",
-      "live_viewers": 618,
-      "channel": {
-        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-        "name": "Ayunda Risu Ch. hololive-ID",
-        "english_name": "Ayunda Risu",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC6t3-_N8A6ME1JShZHHqOMw": {
       "video_id": "9ovenu4EegA",
       "title": "#最終回【Dying Light: The Beast】ゾンビが蔓延する世界でホロスタは生き残ります。 【花咲みやび/岸堂天真/羽継烏有/ホロスターズ】",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-29T14:30:07.000Z",
       "start_scheduled": "2026-05-29T14:30:00.000Z",
       "start_actual": "2026-05-29T14:30:07.000Z",
-      "live_viewers": 436,
+      "live_viewers": 452,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-29T14:34:25.000Z",
       "start_scheduled": "2026-05-29T14:30:00.000Z",
       "start_actual": "2026-05-29T14:34:25.000Z",
-      "live_viewers": 268,
+      "live_viewers": 254,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
