@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780027639,
+  "cached_at": 1780027700,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "UBbTSf5A9bc",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-29T00:05:23.000Z",
       "start_scheduled": "2026-05-29T00:05:00.000Z",
       "start_actual": "2026-05-29T00:05:23.000Z",
-      "live_viewers": 2777,
+      "live_viewers": 2765,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-29T01:54:11.000Z",
       "start_scheduled": "2026-05-29T02:00:00.000Z",
       "start_actual": "2026-05-29T01:54:11.000Z",
-      "live_viewers": 53,
+      "live_viewers": 60,
       "channel": {
         "id": "UC_vDF8pbCIR8gaAxXAAH7Og",
         "name": "DubsteP",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-29T02:16:30.000Z",
       "start_scheduled": "2026-05-29T02:00:00.000Z",
       "start_actual": "2026-05-29T02:16:30.000Z",
-      "live_viewers": 241,
+      "live_viewers": 254,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -301,26 +301,6 @@
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCozx5csNhCx1wsVq3SZVkBQ": {
-      "video_id": "SiomTVfnxnU",
-      "title": "【ビリビリ】嘘発見器で見抜けるか!?裏の顔を暴いて丸裸に!?【昼ホロ/ホロアナ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "News_Show",
-      "published_at": "2026-05-29T00:02:00.000Z",
-      "available_at": "2026-05-29T02:59:24.000Z",
-      "start_scheduled": "2026-05-29T03:00:00.000Z",
-      "start_actual": "2026-05-29T02:59:24.000Z",
-      "live_viewers": 4735,
-      "channel": {
-        "id": "UCozx5csNhCx1wsVq3SZVkBQ",
-        "name": "holoAN room (ホロアナ)",
-        "english_name": "holoAN room",
-        "org": "Hololive",
-        "suborg": "0hOfficial",
-        "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCGNI4MENvnsymYjKiZwv9eg": {
       "video_id": "lCG-T2W5jJE",
       "title": "【Dead by Daylight】終活!最後のデッドバイデイライト!【岸堂天真/ホロスターズ】",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-29T03:01:19.000Z",
       "start_scheduled": "2026-05-29T03:00:00.000Z",
       "start_actual": "2026-05-29T03:01:19.000Z",
-      "live_viewers": 340,
+      "live_viewers": 365,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
