@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780038079,
+  "cached_at": 1780038139,
   "lives": {
     "UCMqGG8BRAiI1lJfKOpETM_w": {
       "video_id": "3aZW790F9Ew",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-29T05:18:17.000Z",
       "start_scheduled": "2026-05-29T05:30:00.000Z",
       "start_actual": "2026-05-29T05:18:17.000Z",
-      "live_viewers": 8030,
+      "live_viewers": 7526,
       "channel": {
         "id": "UCW5uhrG1eCBYditmhL0Ykjw",
         "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -79,6 +79,25 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCDqI2jOz0weumE8s7paEk6g": {
+      "video_id": "yeboG5vGoTs",
+      "title": "【Outbound】運転も道案内もボクに任せて!夢のキャンピングカーを乗りこなしちゃうよん❤ 【ホロライブ/ ロボ子さん 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-29T05:22:31.000Z",
+      "available_at": "2026-05-29T07:00:00.000Z",
+      "start_scheduled": "2026-05-29T07:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCDqI2jOz0weumE8s7paEk6g",
+        "name": "Roboco Ch. - ロボ子",
+        "english_name": "Robocosan",
+        "org": "Hololive",
+        "suborg": "0w0th Generation",
+        "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
