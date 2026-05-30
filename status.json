@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780154719,
+  "cached_at": 1780154779,
   "lives": {
     "UCtyWhCj3AqKh2dXctLkDtng": {
       "video_id": "3qDh02pSJlI",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-30T12:06:41.000Z",
       "start_scheduled": "2026-05-30T12:00:00.000Z",
       "start_actual": "2026-05-30T12:06:41.000Z",
-      "live_viewers": 6014,
+      "live_viewers": 5998,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-30T12:29:18.000Z",
       "start_scheduled": "2026-05-30T12:15:00.000Z",
       "start_actual": "2026-05-30T12:29:18.000Z",
-      "live_viewers": 440,
+      "live_viewers": 446,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -166,7 +166,7 @@
       "title": "【Membership】i'm actually doing a homework rn...【Moona Hoshinova】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "membership",
       "published_at": "2026-05-30T13:58:53.000Z",
       "available_at": "2026-05-30T14:02:13.000Z",
       "start_scheduled": "2026-05-30T14:00:00.000Z",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-30T14:02:20.000Z",
       "start_scheduled": "2026-05-30T14:00:00.000Z",
       "start_actual": "2026-05-30T14:02:20.000Z",
-      "live_viewers": 759,
+      "live_viewers": 814,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-30T14:36:36.000Z",
       "start_scheduled": "2026-05-30T14:30:00.000Z",
       "start_actual": "2026-05-30T14:36:36.000Z",
-      "live_viewers": 190,
+      "live_viewers": 185,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
