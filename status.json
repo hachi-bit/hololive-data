@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780131799,
+  "cached_at": 1780131859,
   "lives": {
     "UChAnqc_AY5_I3Px5dig3X1Q": {
       "video_id": "eKuQjwEUDag",
@@ -109,7 +109,7 @@
       "available_at": "2026-05-30T08:29:56.000Z",
       "start_scheduled": "2026-05-30T08:30:00.000Z",
       "start_actual": "2026-05-30T08:29:56.000Z",
-      "live_viewers": 1002,
+      "live_viewers": 1026,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -129,7 +129,7 @@
       "available_at": "2026-05-30T08:34:08.000Z",
       "start_scheduled": "2026-05-30T08:30:00.000Z",
       "start_actual": "2026-05-30T08:34:08.000Z",
-      "live_viewers": 446,
+      "live_viewers": 431,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -137,6 +137,164 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGNI4MENvnsymYjKiZwv9eg": {
+      "video_id": "pJXlXVz0t2g",
+      "title": "【マリオカート8DX】終活!最後のマリカ8DX!【岸堂天真/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_Kart",
+      "published_at": "2026-05-30T08:31:15.000Z",
+      "available_at": "2026-05-30T09:00:00.000Z",
+      "start_scheduled": "2026-05-30T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "english_name": "Kishido Temma",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAoy6rzhSf4ydcYjJw3WoVg": {
+      "video_id": "hwccGxej24Y",
+      "title": "【Paralives】Semoga ga kena azab lagi【 iofi / hololiveID 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-30T04:25:35.000Z",
+      "available_at": "2026-05-30T09:00:00.000Z",
+      "start_scheduled": "2026-05-30T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+        "name": "Airani Iofifteen Channel hololive-ID",
+        "english_name": "Airani Iofifteen",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvInZx9h3jC2JzsIzoOebWg": {
+      "video_id": "I7FdK2FtqGo",
+      "title": "#01【ポップン3D実機プレイ/後夜祭】EPIC POETRY(EX)/ラストアーツ(EX)/コロコロック(EX) 実機で叩いてみた【不知火フレア/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "pop'n_music",
+      "published_at": "2026-05-30T09:00:07.000Z",
+      "available_at": "2026-05-30T09:00:07.000Z",
+      "start_scheduled": "2026-05-30T09:00:00.000Z",
+      "start_actual": "2026-05-30T09:00:07.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvInZx9h3jC2JzsIzoOebWg",
+        "name": "Flare Ch. 不知火フレア",
+        "english_name": "Shiranui Flare",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
+      "video_id": "5wOgbIrX-S4",
+      "title": "【対談】倉持めるとちゃんとマシュマロ雑談❕💙【水宮枢/ホロライブDEV_IS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Marshmallow",
+      "published_at": "2026-05-28T15:21:30.000Z",
+      "available_at": "2026-05-30T09:00:13.000Z",
+      "start_scheduled": "2026-05-30T09:00:00.000Z",
+      "start_actual": "2026-05-30T09:00:13.000Z",
+      "live_viewers": 1291,
+      "channel": {
+        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+        "name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "english_name": "Mizumiya Su",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "sqEGISonEYA",
+      "title": "【超自然スクワッド】ホロライブ5期生、ねぺらぼのぺ!兎田ぺこらぺこ(^▽^)【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-28T21:24:18.000Z",
+      "available_at": "2026-05-30T09:00:15.000Z",
+      "start_scheduled": "2026-05-30T09:00:00.000Z",
+      "start_actual": "2026-05-30T09:00:15.000Z",
+      "live_viewers": 8548,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFKOVgVbGmX65RxO3EtH3iw": {
+      "video_id": "KfseXG9Ac-Q",
+      "title": "【超自然スクワッド】4人でゲームプレイするよっ!!【雪花ラミィ視点 /ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-29T02:07:02.000Z",
+      "available_at": "2026-05-30T09:00:20.000Z",
+      "start_scheduled": "2026-05-30T09:00:00.000Z",
+      "start_actual": "2026-05-30T09:00:20.000Z",
+      "live_viewers": 2306,
+      "channel": {
+        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+        "name": "Lamy Ch. 雪花ラミィ",
+        "english_name": "Yukihana Lamy",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAWSyEs_Io8MtpY3m-zqILA": {
+      "video_id": "gCE81FrooRs",
+      "title": "【 超自然スクワッド 】4人で協力!ホラー遺跡探索!ってねぺらぼ!?!?遊ぶぞい!【 桃鈴ねね / hololive 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-29T10:40:31.000Z",
+      "available_at": "2026-05-30T09:00:26.000Z",
+      "start_scheduled": "2026-05-30T09:00:00.000Z",
+      "start_actual": "2026-05-30T09:00:26.000Z",
+      "live_viewers": 1695,
+      "channel": {
+        "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+        "name": "Nene Ch.桃鈴ねね",
+        "english_name": "Momosuzu Nene",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "5MSlRLtfYiE",
+      "title": "【超自然スクワッド】1人だとホラゲー、4人だとコミカルホラゲー?!【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-29T03:08:58.000Z",
+      "available_at": "2026-05-30T09:00:35.000Z",
+      "start_scheduled": "2026-05-30T09:00:00.000Z",
+      "start_actual": "2026-05-30T09:00:35.000Z",
+      "live_viewers": 1782,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
