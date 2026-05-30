@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780148178,
+  "cached_at": 1780148239,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "CFxColuUlNY",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-30T11:00:57.000Z",
       "start_scheduled": "2026-05-30T11:00:00.000Z",
       "start_actual": "2026-05-30T11:00:57.000Z",
-      "live_viewers": 5539,
+      "live_viewers": 5324,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-30T11:59:04.000Z",
       "start_scheduled": "2026-05-30T12:00:00.000Z",
       "start_actual": "2026-05-30T11:59:04.000Z",
-      "live_viewers": 7508,
+      "live_viewers": 7463,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-30T12:00:26.000Z",
       "start_scheduled": "2026-05-30T12:00:00.000Z",
       "start_actual": "2026-05-30T12:00:26.000Z",
-      "live_viewers": 18074,
+      "live_viewers": 18225,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -230,7 +230,7 @@
       "available_at": "2026-05-30T12:56:32.000Z",
       "start_scheduled": "2026-05-30T13:00:00.000Z",
       "start_actual": "2026-05-30T12:56:32.000Z",
-      "live_viewers": 677,
+      "live_viewers": 691,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -250,7 +250,7 @@
       "available_at": "2026-05-30T13:00:28.000Z",
       "start_scheduled": "2026-05-30T13:00:00.000Z",
       "start_actual": "2026-05-30T13:00:28.000Z",
-      "live_viewers": 296,
+      "live_viewers": 304,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -310,7 +310,7 @@
       "available_at": "2026-05-30T13:04:02.000Z",
       "start_scheduled": "2026-05-30T13:00:00.000Z",
       "start_actual": "2026-05-30T13:04:02.000Z",
-      "live_viewers": 2654,
+      "live_viewers": 2860,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
@@ -361,14 +361,15 @@
     },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "S5kGS8M8ymM",
-      "title": "【メン限同時視聴】映画ワイルドスピード！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "title": "【メン限同時視聴】映画ワイルドスピード!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
       "type": "stream",
       "status": "live",
       "topic_id": "membersonly",
       "published_at": "2026-05-30T12:56:12.000Z",
-      "available_at": "2026-05-30T13:30:00.000Z",
+      "available_at": "2026-05-30T13:33:22.000Z",
       "start_scheduled": "2026-05-30T13:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-30T13:33:22.000Z",
+      "live_viewers": 1709,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
