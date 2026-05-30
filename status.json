@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780129879,
+  "cached_at": 1780129938,
   "lives": {
     "UChAnqc_AY5_I3Px5dig3X1Q": {
       "video_id": "eKuQjwEUDag",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-30T00:59:55.000Z",
       "start_scheduled": "2026-05-30T01:00:00.000Z",
       "start_actual": "2026-05-30T00:59:55.000Z",
-      "live_viewers": 9233,
+      "live_viewers": 9468,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -89,7 +89,7 @@
       "available_at": "2026-05-30T08:00:55.000Z",
       "start_scheduled": "2026-05-30T08:00:00.000Z",
       "start_actual": "2026-05-30T08:00:55.000Z",
-      "live_viewers": 8148,
+      "live_viewers": 8491,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -97,6 +97,45 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAHQGIKolfBfoeXXMY79SBA": {
+      "video_id": "LMIh2suM6D8",
+      "title": "【 League of Legends #LTK 】今日はスクリム３戦の日【白那しずく / ネオポルテ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-05-30T00:52:45.000Z",
+      "available_at": "2026-05-30T08:29:56.000Z",
+      "start_scheduled": "2026-05-30T08:30:00.000Z",
+      "start_actual": "2026-05-30T08:29:56.000Z",
+      "live_viewers": 118,
+      "channel": {
+        "id": "UCAHQGIKolfBfoeXXMY79SBA",
+        "name": "白那しずく",
+        "english_name": "Shirona Shizuku",
+        "org": "Neo-Porte",
+        "suborg": "0k5th Generation",
+        "photo": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "moKcJ5-Y4Kk",
+      "title": "【LoL】LTK DDnext  すくりむ!   / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeoコーチ わしだいコーチ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-05-30T08:30:02.000Z",
+      "available_at": "2026-05-30T08:30:00.000Z",
+      "start_scheduled": "2026-05-30T08:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
