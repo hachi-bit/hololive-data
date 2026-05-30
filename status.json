@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780100779,
+  "cached_at": 1780100839,
   "lives": {
     "UCngBjKSLC8IhPNagQCnf2LQ": {
       "video_id": "nSoZcZU1-jU",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-29T21:06:50.000Z",
       "start_scheduled": "2026-05-29T21:15:00.000Z",
       "start_actual": "2026-05-29T21:06:50.000Z",
-      "live_viewers": 249,
+      "live_viewers": 259,
       "channel": {
         "id": "UCngBjKSLC8IhPNagQCnf2LQ",
         "name": "PorcelainMaid",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-30T00:00:35.000Z",
       "start_scheduled": "2026-05-30T00:00:00.000Z",
       "start_actual": "2026-05-30T00:00:35.000Z",
-      "live_viewers": 2228,
+      "live_viewers": 2272,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-30T00:00:45.000Z",
       "start_scheduled": "2026-05-30T00:00:00.000Z",
       "start_actual": "2026-05-30T00:00:45.000Z",
-      "live_viewers": 4704,
+      "live_viewers": 4732,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-30T00:02:10.000Z",
       "start_scheduled": "2026-05-30T00:00:00.000Z",
       "start_actual": "2026-05-30T00:02:10.000Z",
-      "live_viewers": 4540,
+      "live_viewers": 4694,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-30T00:03:32.000Z",
       "start_scheduled": "2026-05-30T00:00:00.000Z",
       "start_actual": "2026-05-30T00:03:32.000Z",
-      "live_viewers": 3227,
+      "live_viewers": 3260,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-30T00:16:53.000Z",
       "start_scheduled": "2026-05-30T00:15:00.000Z",
       "start_actual": "2026-05-30T00:16:53.000Z",
-      "live_viewers": 130,
+      "live_viewers": 139,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-30T00:18:33.000Z",
       "start_scheduled": "2026-05-30T00:20:00.000Z",
       "start_actual": "2026-05-30T00:18:33.000Z",
-      "live_viewers": 1818,
+      "live_viewers": 2132,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -138,6 +138,26 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCt9H_RpQzhxzlyBxFqrdHqA": {
+      "video_id": "mIsHnxTVoFM",
+      "title": "【ENIGMATIC RECOLLECTION】end of advent - 0201 🐾 #ENreco #hololiveEnglish【FUWAWA POV】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-29T15:11:09.000Z",
+      "available_at": "2026-05-30T00:25:17.000Z",
+      "start_scheduled": "2026-05-30T00:30:00.000Z",
+      "start_actual": "2026-05-30T00:25:17.000Z",
+      "live_viewers": 474,
+      "channel": {
+        "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
+        "name": "FUWAMOCO Ch. hololive-EN",
+        "english_name": "Fuwawa & Mococo Abyssgard",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
