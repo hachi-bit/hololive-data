@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780104499,
+  "cached_at": 1780104559,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "j2loI_6HkqI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-30T00:00:35.000Z",
       "start_scheduled": "2026-05-30T00:00:00.000Z",
       "start_actual": "2026-05-30T00:00:35.000Z",
-      "live_viewers": 2002,
+      "live_viewers": 1930,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-30T00:00:45.000Z",
       "start_scheduled": "2026-05-30T00:00:00.000Z",
       "start_actual": "2026-05-30T00:00:45.000Z",
-      "live_viewers": 4103,
+      "live_viewers": 4135,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCuI_opAVX6qbxZY-a-AxFuQ": {
-      "video_id": "qT3gSaTN1Qk",
-      "title": "【 朝活】土曜の朝はニコたんと!🐯【虎金妃笑虎】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "morning",
-      "published_at": "2026-05-29T13:01:19.000Z",
-      "available_at": "2026-05-30T00:02:10.000Z",
-      "start_scheduled": "2026-05-30T00:00:00.000Z",
-      "start_actual": "2026-05-30T00:02:10.000Z",
-      "live_viewers": 3998,
-      "channel": {
-        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-        "english_name": "Koganei Niko",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
@@ -71,7 +51,7 @@
       "available_at": "2026-05-30T00:03:32.000Z",
       "start_scheduled": "2026-05-30T00:00:00.000Z",
       "start_actual": "2026-05-30T00:03:32.000Z",
-      "live_viewers": 3259,
+      "live_viewers": 3331,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-30T00:18:33.000Z",
       "start_scheduled": "2026-05-30T00:20:00.000Z",
       "start_actual": "2026-05-30T00:18:33.000Z",
-      "live_viewers": 2750,
+      "live_viewers": 2721,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-30T00:55:21.000Z",
       "start_scheduled": "2026-05-30T01:00:00.000Z",
       "start_actual": "2026-05-30T00:55:21.000Z",
-      "live_viewers": 2050,
+      "live_viewers": 2037,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-30T00:59:05.000Z",
       "start_scheduled": "2026-05-30T01:00:00.000Z",
       "start_actual": "2026-05-30T00:59:05.000Z",
-      "live_viewers": 2257,
+      "live_viewers": 2299,
       "channel": {
         "id": "UCW5uhrG1eCBYditmhL0Ykjw",
         "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-30T00:59:55.000Z",
       "start_scheduled": "2026-05-30T01:00:00.000Z",
       "start_actual": "2026-05-30T00:59:55.000Z",
-      "live_viewers": 6502,
+      "live_viewers": 6475,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-30T01:01:09.000Z",
       "start_scheduled": "2026-05-30T01:00:00.000Z",
       "start_actual": "2026-05-30T01:01:09.000Z",
-      "live_viewers": 1851,
+      "live_viewers": 1892,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -251,7 +231,7 @@
       "available_at": "2026-05-30T01:01:29.000Z",
       "start_scheduled": "2026-05-30T01:00:00.000Z",
       "start_actual": "2026-05-30T01:01:29.000Z",
-      "live_viewers": 974,
+      "live_viewers": 1048,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -271,7 +251,7 @@
       "available_at": "2026-05-30T01:02:56.000Z",
       "start_scheduled": "2026-05-30T01:00:00.000Z",
       "start_actual": "2026-05-30T01:02:56.000Z",
-      "live_viewers": 368,
+      "live_viewers": 391,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -291,7 +271,7 @@
       "available_at": "2026-05-30T01:04:50.000Z",
       "start_scheduled": "2026-05-30T01:00:00.000Z",
       "start_actual": "2026-05-30T01:04:50.000Z",
-      "live_viewers": 3646,
+      "live_viewers": 3736,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -311,7 +291,7 @@
       "available_at": "2026-05-30T01:05:29.000Z",
       "start_scheduled": "2026-05-30T01:00:00.000Z",
       "start_actual": "2026-05-30T01:05:29.000Z",
-      "live_viewers": 23154,
+      "live_viewers": 24481,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -331,7 +311,7 @@
       "available_at": "2026-05-30T01:09:02.000Z",
       "start_scheduled": "2026-05-30T01:15:00.000Z",
       "start_actual": "2026-05-30T01:09:02.000Z",
-      "live_viewers": 270,
+      "live_viewers": 273,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
