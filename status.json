@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780164498,
+  "cached_at": 1780164559,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "J6N3BrBuqjo",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-30T14:00:21.000Z",
       "start_scheduled": "2026-05-30T14:00:00.000Z",
       "start_actual": "2026-05-30T14:00:21.000Z",
-      "live_viewers": 3150,
+      "live_viewers": 3134,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
-      "video_id": "xLNHyucxjjE",
-      "title": "ゼロから始める\"\" ぽこ あ ポケモン \"\" 生活 ~第十四話【 ホロスターズ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Pokemon_Pokopia",
-      "published_at": "2026-05-30T14:13:14.000Z",
-      "available_at": "2026-05-30T14:36:36.000Z",
-      "start_scheduled": "2026-05-30T14:30:00.000Z",
-      "start_actual": "2026-05-30T14:36:36.000Z",
-      "live_viewers": 343,
-      "channel": {
-        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
-        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
-        "english_name": "Utsugi Uyu",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
@@ -51,7 +31,7 @@
       "available_at": "2026-05-30T17:01:29.000Z",
       "start_scheduled": "2026-05-30T17:00:00.000Z",
       "start_actual": "2026-05-30T17:01:29.000Z",
-      "live_viewers": 549,
+      "live_viewers": 573,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
