@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780156279,
+  "cached_at": 1780156340,
   "lives": {
     "UCtyWhCj3AqKh2dXctLkDtng": {
       "video_id": "3qDh02pSJlI",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "BpVewFWHL-g",
-      "title": "【ストリートファイター6】テリー修行なのじゃ【荒咬オウガ /ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-05-30T12:12:31.000Z",
-      "available_at": "2026-05-30T13:00:28.000Z",
-      "start_scheduled": "2026-05-30T13:00:00.000Z",
-      "start_actual": "2026-05-30T13:00:28.000Z",
-      "live_viewers": 374,
-      "channel": {
-        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "name": "Oga Ch.荒咬オウガ",
-        "english_name": "Aragami Oga",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCjk2nKmHzgH5Xy-C5qYRd5A": {
@@ -191,7 +171,7 @@
       "available_at": "2026-05-30T14:36:36.000Z",
       "start_scheduled": "2026-05-30T14:30:00.000Z",
       "start_actual": "2026-05-30T14:36:36.000Z",
-      "live_viewers": 220,
+      "live_viewers": 232,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-30T15:30:03.000Z",
       "start_scheduled": "2026-05-30T15:30:00.000Z",
       "start_actual": "2026-05-30T15:30:03.000Z",
-      "live_viewers": 11676,
+      "live_viewers": 12048,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
