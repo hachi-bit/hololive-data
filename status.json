@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780180638,
+  "cached_at": 1780180699,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "J6N3BrBuqjo",
@@ -68,9 +68,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-05-30T22:31:55.000Z",
-      "available_at": "2026-05-30T22:30:00.000Z",
+      "available_at": "2026-05-30T22:34:29.000Z",
       "start_scheduled": "2026-05-30T22:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-30T22:34:29.000Z",
+      "live_viewers": 300,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
