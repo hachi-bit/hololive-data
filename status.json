@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780182199,
+  "cached_at": 1780182259,
   "lives": {
     "UCK9V2B22uJYu3N7eR_BT9QA": {
       "video_id": "XfRTTNj9Uv4",
@@ -58,6 +58,25 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvN5h1ShZtc7nly3pezRayg": {
+      "video_id": "PryFPuyr9Lg",
+      "title": "【GUERILLA】I have awakened~ what shall we do...",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-30T22:26:20.000Z",
+      "available_at": "2026-05-30T23:00:00.000Z",
+      "start_scheduled": "2026-05-30T23:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvN5h1ShZtc7nly3pezRayg",
+        "name": "Cecilia Immergreen Ch. hololive-EN",
+        "english_name": "Cecilia Immergreen",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
