@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780183938,
+  "cached_at": 1780183999,
   "lives": {
-    "UCK9V2B22uJYu3N7eR_BT9QA": {
-      "video_id": "XfRTTNj9Uv4",
-      "title": "【OHAPOL】#201 5/31日曜日!今月最後の朝活だ~~ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "morning",
-      "published_at": "2026-05-30T21:56:05.000Z",
-      "available_at": "2026-05-30T22:00:04.000Z",
-      "start_scheduled": "2026-05-30T22:00:00.000Z",
-      "start_actual": "2026-05-30T22:00:04.000Z",
-      "live_viewers": 9828,
-      "channel": {
-        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-        "name": "Polka Ch. 尾丸ポルカ",
-        "english_name": "Omaru Polka",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1suqwovbL1kzsoaZgFZLKg": {
       "video_id": "ONZ6aRjA_jM",
       "title": "【Freetalk】早起き悪魔の朝ちょこ雑談📣 【ホロライブ/癒月ちょこ】",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-30T22:34:29.000Z",
       "start_scheduled": "2026-05-30T22:30:00.000Z",
       "start_actual": "2026-05-30T22:34:29.000Z",
-      "live_viewers": 3259,
+      "live_viewers": 3793,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
@@ -71,7 +51,7 @@
       "available_at": "2026-05-30T23:10:06.000Z",
       "start_scheduled": "2026-05-30T23:00:00.000Z",
       "start_actual": "2026-05-30T23:10:06.000Z",
-      "live_viewers": 5424,
+      "live_viewers": 5691,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
