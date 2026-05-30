@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780128078,
+  "cached_at": 1780128139,
   "lives": {
     "UChAnqc_AY5_I3Px5dig3X1Q": {
       "video_id": "eKuQjwEUDag",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-30T00:59:55.000Z",
       "start_scheduled": "2026-05-30T01:00:00.000Z",
       "start_actual": "2026-05-30T00:59:55.000Z",
-      "live_viewers": 8059,
+      "live_viewers": 8037,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-30T03:00:14.000Z",
       "start_scheduled": "2026-05-30T03:00:00.000Z",
       "start_actual": "2026-05-30T03:00:14.000Z",
-      "live_viewers": 27080,
+      "live_viewers": 26741,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-30T04:00:12.000Z",
       "start_scheduled": "2026-05-30T04:00:00.000Z",
       "start_actual": "2026-05-30T04:00:12.000Z",
-      "live_viewers": 7417,
+      "live_viewers": 7388,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -137,6 +137,25 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "USQJcRX-26Q",
+      "title": "【 Forza Horizon 6 】初めてのForza Horizon 6!無免許でも走れる!?【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-05-30T07:25:55.000Z",
+      "available_at": "2026-05-30T08:00:00.000Z",
+      "start_scheduled": "2026-05-30T08:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
