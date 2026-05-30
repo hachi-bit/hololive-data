@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780099579,
+  "cached_at": 1780099640,
   "lives": {
     "UCngBjKSLC8IhPNagQCnf2LQ": {
       "video_id": "nSoZcZU1-jU",
@@ -20,44 +20,6 @@
         "photo": "https://yt3.ggpht.com/V_qW11JAG3gdvRWKYAfmIKwJL88hyqCIJzqIGGzJYpDPfE4kGB7IxIO2JJ6jYx0q-eqXBkZGyQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC9p_lqQ0FEDz327Vgf5JwqA": {
-      "video_id": "-v3wKaDqyI4",
-      "title": "【ENigmatic Recollection】Fire fire light the fire【Broken Bonds FINALE】#enreco",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-29T16:04:24.000Z",
-      "available_at": "2026-05-30T00:00:00.000Z",
-      "start_scheduled": "2026-05-30T00:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-        "name": "Koseki Bijou Ch. hololive-EN",
-        "english_name": "Koseki Bijou",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCuI_opAVX6qbxZY-a-AxFuQ": {
-      "video_id": "qT3gSaTN1Qk",
-      "title": "【 朝活】土曜の朝はニコたんと！🐯【虎金妃笑虎】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "morning",
-      "published_at": "2026-05-29T13:01:19.000Z",
-      "available_at": "2026-05-30T00:00:00.000Z",
-      "start_scheduled": "2026-05-30T00:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-        "english_name": "Koganei Niko",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "j2loI_6HkqI",
       "title": "【MINECRAFT RP】good food can save the world #calliolive #enreco",
@@ -68,7 +30,7 @@
       "available_at": "2026-05-30T00:00:35.000Z",
       "start_scheduled": "2026-05-30T00:00:00.000Z",
       "start_actual": "2026-05-30T00:00:35.000Z",
-      "live_viewers": 984,
+      "live_viewers": 1413,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -88,7 +50,7 @@
       "available_at": "2026-05-30T00:00:45.000Z",
       "start_scheduled": "2026-05-30T00:00:00.000Z",
       "start_actual": "2026-05-30T00:00:45.000Z",
-      "live_viewers": 1955,
+      "live_viewers": 2927,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -96,6 +58,46 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCuI_opAVX6qbxZY-a-AxFuQ": {
+      "video_id": "qT3gSaTN1Qk",
+      "title": "【 朝活】土曜の朝はニコたんと!🐯【虎金妃笑虎】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "morning",
+      "published_at": "2026-05-29T13:01:19.000Z",
+      "available_at": "2026-05-30T00:02:10.000Z",
+      "start_scheduled": "2026-05-30T00:00:00.000Z",
+      "start_actual": "2026-05-30T00:02:10.000Z",
+      "live_viewers": 2150,
+      "channel": {
+        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+        "english_name": "Koganei Niko",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9p_lqQ0FEDz327Vgf5JwqA": {
+      "video_id": "-v3wKaDqyI4",
+      "title": "【ENigmatic Recollection】Fire fire light the fire【Broken Bonds FINALE】#enreco",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-29T16:04:24.000Z",
+      "available_at": "2026-05-30T00:03:32.000Z",
+      "start_scheduled": "2026-05-30T00:00:00.000Z",
+      "start_actual": "2026-05-30T00:03:32.000Z",
+      "live_viewers": 1615,
+      "channel": {
+        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+        "name": "Koseki Bijou Ch. hololive-EN",
+        "english_name": "Koseki Bijou",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
