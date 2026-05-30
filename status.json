@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780156999,
+  "cached_at": 1780157059,
   "lives": {
     "UCtyWhCj3AqKh2dXctLkDtng": {
       "video_id": "3qDh02pSJlI",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-30T12:06:41.000Z",
       "start_scheduled": "2026-05-30T12:00:00.000Z",
       "start_actual": "2026-05-30T12:06:41.000Z",
-      "live_viewers": 5568,
+      "live_viewers": 5588,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "iaEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC727SQYUvx5pDDGQpTICNWg": {
-      "video_id": "-iRyMHwxqIA",
-      "title": "【Fears to Fathom - Carson House】Something's Not Right in This House...【hololive ID | Anya Melfissa】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Fears_to_Fathom",
-      "published_at": "2026-05-29T17:33:47.000Z",
-      "available_at": "2026-05-30T12:32:18.000Z",
-      "start_scheduled": "2026-05-30T12:30:00.000Z",
-      "start_actual": "2026-05-30T12:32:18.000Z",
-      "live_viewers": 1198,
-      "channel": {
-        "id": "UC727SQYUvx5pDDGQpTICNWg",
-        "name": "Anya Melfissa Ch. hololive-ID",
-        "english_name": "Anya Melfissa",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCZgOv3YDEs-ZnZWDYVwJdmA": {
@@ -171,7 +151,7 @@
       "available_at": "2026-05-30T14:36:36.000Z",
       "start_scheduled": "2026-05-30T14:30:00.000Z",
       "start_actual": "2026-05-30T14:36:36.000Z",
-      "live_viewers": 227,
+      "live_viewers": 230,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-30T15:30:03.000Z",
       "start_scheduled": "2026-05-30T15:30:00.000Z",
       "start_actual": "2026-05-30T15:30:03.000Z",
-      "live_viewers": 12989,
+      "live_viewers": 13593,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
