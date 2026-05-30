@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780138819,
+  "cached_at": 1780138879,
   "lives": {
-    "UChAnqc_AY5_I3Px5dig3X1Q": {
-      "video_id": "eKuQjwEUDag",
-      "title": "【ヨッシーとフカシギの図鑑】真・エンディング目指すよ~!!!(あるよね多分)",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Yoshi",
-      "published_at": "2026-05-29T07:17:38.000Z",
-      "available_at": "2026-05-30T00:59:55.000Z",
-      "start_scheduled": "2026-05-30T01:00:00.000Z",
-      "start_actual": "2026-05-30T00:59:55.000Z",
-      "live_viewers": 9404,
-      "channel": {
-        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
-        "name": "Korone Ch. 戌神ころね",
-        "english_name": "Inugami Korone",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "CFxColuUlNY",
       "title": "【P5R】初見で挑む『ペルソナ5 ザ・ロイヤル』 16日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
@@ -89,7 +69,7 @@
       "available_at": "2026-05-30T08:29:56.000Z",
       "start_scheduled": "2026-05-30T08:30:00.000Z",
       "start_actual": "2026-05-30T08:29:56.000Z",
-      "live_viewers": 1438,
+      "live_viewers": 1386,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -129,7 +109,7 @@
       "available_at": "2026-05-30T09:01:54.000Z",
       "start_scheduled": "2026-05-30T09:00:00.000Z",
       "start_actual": "2026-05-30T09:01:54.000Z",
-      "live_viewers": 753,
+      "live_viewers": 766,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -149,7 +129,7 @@
       "available_at": "2026-05-30T09:03:03.000Z",
       "start_scheduled": "2026-05-30T09:00:00.000Z",
       "start_actual": "2026-05-30T09:03:03.000Z",
-      "live_viewers": 619,
+      "live_viewers": 594,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -169,7 +149,7 @@
       "available_at": "2026-05-30T09:59:34.000Z",
       "start_scheduled": "2026-05-30T10:00:00.000Z",
       "start_actual": "2026-05-30T09:59:34.000Z",
-      "live_viewers": 5756,
+      "live_viewers": 5606,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -229,7 +209,7 @@
       "available_at": "2026-05-30T10:00:56.000Z",
       "start_scheduled": "2026-05-30T10:00:00.000Z",
       "start_actual": "2026-05-30T10:00:56.000Z",
-      "live_viewers": 4236,
+      "live_viewers": 4313,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -237,6 +217,26 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC0TXe_LYZ4scaW2XMyi5_kw": {
+      "video_id": "pNyrAZHRSS0",
+      "title": "【OTOTEN2026】安野希世乃さんとダブルアンバサダー就任!今年もOTOTENを紹介します!【ホロライブ / AZKi】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-29T04:44:35.000Z",
+      "available_at": "2026-05-30T10:58:09.000Z",
+      "start_scheduled": "2026-05-30T11:00:00.000Z",
+      "start_actual": "2026-05-30T10:58:09.000Z",
+      "live_viewers": 1619,
+      "channel": {
+        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+        "name": "AZKi Channel",
+        "english_name": "AZKi",
+        "org": "Hololive",
+        "suborg": "0z0th Generation",
+        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
