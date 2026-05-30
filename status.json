@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780137079,
+  "cached_at": 1780137139,
   "lives": {
     "UChAnqc_AY5_I3Px5dig3X1Q": {
       "video_id": "eKuQjwEUDag",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-30T00:59:55.000Z",
       "start_scheduled": "2026-05-30T01:00:00.000Z",
       "start_actual": "2026-05-30T00:59:55.000Z",
-      "live_viewers": 9129,
+      "live_viewers": 9250,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -69,7 +69,7 @@
       "available_at": "2026-05-30T08:00:55.000Z",
       "start_scheduled": "2026-05-30T08:00:00.000Z",
       "start_actual": "2026-05-30T08:00:55.000Z",
-      "live_viewers": 10276,
+      "live_viewers": 10461,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -129,7 +129,7 @@
       "available_at": "2026-05-30T09:01:54.000Z",
       "start_scheduled": "2026-05-30T09:00:00.000Z",
       "start_actual": "2026-05-30T09:01:54.000Z",
-      "live_viewers": 749,
+      "live_viewers": 743,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -149,7 +149,7 @@
       "available_at": "2026-05-30T09:03:03.000Z",
       "start_scheduled": "2026-05-30T09:00:00.000Z",
       "start_actual": "2026-05-30T09:03:03.000Z",
-      "live_viewers": 559,
+      "live_viewers": 580,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -169,7 +169,7 @@
       "available_at": "2026-05-30T09:59:34.000Z",
       "start_scheduled": "2026-05-30T10:00:00.000Z",
       "start_actual": "2026-05-30T09:59:34.000Z",
-      "live_viewers": 4974,
+      "live_viewers": 5330,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -177,25 +177,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC10wVt6hoQiwySRhz7RdOUA": {
-      "video_id": "2U9d2ixBPNg",
-      "title": "エリート誕生！？催眠術にかかってみた【#催眠ReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "3D_Stream",
-      "published_at": "2026-05-30T10:00:06.000Z",
-      "available_at": "2026-05-30T10:00:06.000Z",
-      "start_scheduled": "2026-05-30T10:00:00.000Z",
-      "start_actual": "2026-05-30T10:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC10wVt6hoQiwySRhz7RdOUA",
-        "name": "hololive DEV_IS ReGLOSS",
-        "org": "Hololive",
-        "suborg": "0fOfficial",
-        "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9LSiN9hXI55svYEBrrK-tw": {
@@ -208,7 +189,7 @@
       "available_at": "2026-05-30T10:00:26.000Z",
       "start_scheduled": "2026-05-30T10:00:00.000Z",
       "start_actual": "2026-05-30T10:00:26.000Z",
-      "live_viewers": 5881,
+      "live_viewers": 6332,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -228,7 +209,7 @@
       "available_at": "2026-05-30T10:00:43.000Z",
       "start_scheduled": "2026-05-30T10:00:00.000Z",
       "start_actual": "2026-05-30T10:00:43.000Z",
-      "live_viewers": 1482,
+      "live_viewers": 1517,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -248,7 +229,7 @@
       "available_at": "2026-05-30T10:00:56.000Z",
       "start_scheduled": "2026-05-30T10:00:00.000Z",
       "start_actual": "2026-05-30T10:00:56.000Z",
-      "live_viewers": 3820,
+      "live_viewers": 3946,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
