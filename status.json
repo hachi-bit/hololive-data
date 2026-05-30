@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780157599,
+  "cached_at": 1780157659,
   "lives": {
     "UCtyWhCj3AqKh2dXctLkDtng": {
       "video_id": "3qDh02pSJlI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-30T11:01:27.000Z",
       "start_scheduled": "2026-05-30T11:00:00.000Z",
       "start_actual": "2026-05-30T11:01:27.000Z",
-      "live_viewers": 3161,
+      "live_viewers": 3112,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -61,26 +61,6 @@
         "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
-      "video_id": "lCmrfSg61Xc",
-      "title": "【メン限/晩酌雑談】お酒を飲みながら質問答える☁️🩵【水宮枢/ホロライブDEV_IS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-28T15:43:07.000Z",
-      "available_at": "2026-05-30T13:36:02.000Z",
-      "start_scheduled": "2026-05-30T13:30:00.000Z",
-      "start_actual": "2026-05-30T13:36:02.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-        "name": "Su Ch. 水宮枢 - FLOW GLOW",
-        "english_name": "Mizumiya Su",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "J6N3BrBuqjo",
       "title": "【FORZA HORIZON 6】 My First Forza Horizon Ever! Driving Safely【Pavolia Reine/hololiveID】",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-30T14:00:21.000Z",
       "start_scheduled": "2026-05-30T14:00:00.000Z",
       "start_actual": "2026-05-30T14:00:21.000Z",
-      "live_viewers": 2129,
+      "live_viewers": 2125,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-30T14:02:20.000Z",
       "start_scheduled": "2026-05-30T14:00:00.000Z",
       "start_actual": "2026-05-30T14:02:20.000Z",
-      "live_viewers": 783,
+      "live_viewers": 817,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-30T14:36:36.000Z",
       "start_scheduled": "2026-05-30T14:30:00.000Z",
       "start_actual": "2026-05-30T14:36:36.000Z",
-      "live_viewers": 230,
+      "live_viewers": 249,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-30T15:30:03.000Z",
       "start_scheduled": "2026-05-30T15:30:00.000Z",
       "start_actual": "2026-05-30T15:30:03.000Z",
-      "live_viewers": 13914,
+      "live_viewers": 14210,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
