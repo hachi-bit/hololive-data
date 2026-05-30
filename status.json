@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780112842,
+  "cached_at": 1780112899,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "j2loI_6HkqI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-30T00:00:35.000Z",
       "start_scheduled": "2026-05-30T00:00:00.000Z",
       "start_actual": "2026-05-30T00:00:35.000Z",
-      "live_viewers": 1847,
+      "live_viewers": 1725,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-30T00:03:32.000Z",
       "start_scheduled": "2026-05-30T00:00:00.000Z",
       "start_actual": "2026-05-30T00:03:32.000Z",
-      "live_viewers": 3706,
+      "live_viewers": 3577,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -81,26 +81,6 @@
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCl69AEx4MdqMZH7Jtsm7Tig": {
-      "video_id": "mZM0OO3VK9s",
-      "title": "【ENigmatic Recollection 3】?",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-29T06:40:08.000Z",
-      "available_at": "2026-05-30T00:18:33.000Z",
-      "start_scheduled": "2026-05-30T00:20:00.000Z",
-      "start_actual": "2026-05-30T00:18:33.000Z",
-      "live_viewers": 1977,
-      "channel": {
-        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
-        "name": "Raora Panthera Ch. hololive-EN",
-        "english_name": "Raora Panthera",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
       "video_id": "6r0cA5reqOA",
       "title": "Dawn of the Final Day 【ENigmatic Recollection: Season 3】",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-30T00:25:24.000Z",
       "start_scheduled": "2026-05-30T00:30:00.000Z",
       "start_actual": "2026-05-30T00:25:24.000Z",
-      "live_viewers": 2888,
+      "live_viewers": 2955,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-30T00:59:05.000Z",
       "start_scheduled": "2026-05-30T01:00:00.000Z",
       "start_actual": "2026-05-30T00:59:05.000Z",
-      "live_viewers": 2726,
+      "live_viewers": 2243,
       "channel": {
         "id": "UCW5uhrG1eCBYditmhL0Ykjw",
         "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -179,46 +159,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCMwGHR0BTZuLsmjY_NT5Pwg": {
-      "video_id": "FRubYpkandA",
-      "title": "【ENigmatic Recollection】THE FINALE!!!【#6】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-29T14:07:14.000Z",
-      "available_at": "2026-05-30T01:01:09.000Z",
-      "start_scheduled": "2026-05-30T01:00:00.000Z",
-      "start_actual": "2026-05-30T01:01:09.000Z",
-      "live_viewers": 2805,
-      "channel": {
-        "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "name": "Ninomae Ina'nis Ch. hololive-EN",
-        "english_name": "Ninomae Ina'nis",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
-      "video_id": "Qh33RM1yOtI",
-      "title": "≪ENigmatic Recollection: Chapter 3≫ I AM BUT A HUMBLE PEASANT #6",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-29T11:24:58.000Z",
-      "available_at": "2026-05-30T01:01:29.000Z",
-      "start_scheduled": "2026-05-30T01:00:00.000Z",
-      "start_actual": "2026-05-30T01:01:29.000Z",
-      "live_viewers": 1163,
-      "channel": {
-        "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "name": "Hakos Baelz Ch. hololive-EN",
-        "english_name": "Hakos Baelz",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCDHABijvPBnJm7F-KlNME3w": {
@@ -251,7 +191,7 @@
       "available_at": "2026-05-30T01:31:02.000Z",
       "start_scheduled": "2026-05-30T01:30:00.000Z",
       "start_actual": "2026-05-30T01:31:02.000Z",
-      "live_viewers": 2083,
+      "live_viewers": 2024,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -259,46 +199,6 @@
         "org": "Hololive",
         "suborg": "iaEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdyqAaZDKHXg4Ahi7VENThQ": {
-      "video_id": "lNl-aO1kgMM",
-      "title": "#6【ドラゴンクエストVII Reimagined】DQ7完全初見!ずっとプレイしてみたかった7の世界へ🔥【白銀ノエル/ホロライブ】※ネタバレあり",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Dragon_Quest",
-      "published_at": "2026-05-29T13:17:12.000Z",
-      "available_at": "2026-05-30T02:05:00.000Z",
-      "start_scheduled": "2026-05-30T02:00:00.000Z",
-      "start_actual": "2026-05-30T02:05:00.000Z",
-      "live_viewers": 4496,
-      "channel": {
-        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-        "name": "Noel Ch. 白銀ノエル",
-        "english_name": "Shirogane Noel",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCmbs8T6MWqUHP1tIQvSgKrg": {
-      "video_id": "b0h8kilUBQk",
-      "title": "【ENigmatic Recollection: Chapter 3】Day 6: Final",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-30T02:15:59.000Z",
-      "available_at": "2026-05-30T02:19:26.000Z",
-      "start_scheduled": "2026-05-30T02:20:00.000Z",
-      "start_actual": "2026-05-30T02:19:26.000Z",
-      "live_viewers": 3075,
-      "channel": {
-        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
-        "name": "Ouro Kronii Ch. hololive-EN",
-        "english_name": "Ouro Kronii",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1DCedRgGHBdm81E1llLhOQ": {
@@ -311,7 +211,7 @@
       "available_at": "2026-05-30T03:00:14.000Z",
       "start_scheduled": "2026-05-30T03:00:00.000Z",
       "start_actual": "2026-05-30T03:00:14.000Z",
-      "live_viewers": 18729,
+      "live_viewers": 19463,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -331,7 +231,7 @@
       "available_at": "2026-05-30T03:02:34.000Z",
       "start_scheduled": "2026-05-30T03:00:00.000Z",
       "start_actual": "2026-05-30T03:02:34.000Z",
-      "live_viewers": 3637,
+      "live_viewers": 3780,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -351,7 +251,7 @@
       "available_at": "2026-05-30T03:25:14.000Z",
       "start_scheduled": "2026-05-30T03:15:00.000Z",
       "start_actual": "2026-05-30T03:25:14.000Z",
-      "live_viewers": 217,
+      "live_viewers": 251,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
