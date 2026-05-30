@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780182798,
+  "cached_at": 1780182859,
   "lives": {
     "UCK9V2B22uJYu3N7eR_BT9QA": {
       "video_id": "XfRTTNj9Uv4",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-30T22:34:29.000Z",
       "start_scheduled": "2026-05-30T22:30:00.000Z",
       "start_actual": "2026-05-30T22:34:29.000Z",
-      "live_viewers": 2849,
+      "live_viewers": 2987,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
@@ -68,9 +68,10 @@
       "status": "live",
       "topic_id": "none",
       "published_at": "2026-05-30T22:26:20.000Z",
-      "available_at": "2026-05-30T23:00:00.000Z",
+      "available_at": "2026-05-30T23:10:06.000Z",
       "start_scheduled": "2026-05-30T23:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-30T23:10:06.000Z",
+      "live_viewers": 3100,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
