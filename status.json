@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780153819,
+  "cached_at": 1780153879,
   "lives": {
     "UCtyWhCj3AqKh2dXctLkDtng": {
       "video_id": "3qDh02pSJlI",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-30T12:06:41.000Z",
       "start_scheduled": "2026-05-30T12:00:00.000Z",
       "start_actual": "2026-05-30T12:06:41.000Z",
-      "live_viewers": 5760,
+      "live_viewers": 5890,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-30T12:29:18.000Z",
       "start_scheduled": "2026-05-30T12:15:00.000Z",
       "start_actual": "2026-05-30T12:29:18.000Z",
-      "live_viewers": 415,
+      "live_viewers": 422,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-30T12:48:33.000Z",
       "start_scheduled": "2026-05-30T12:45:00.000Z",
       "start_actual": "2026-05-30T12:48:33.000Z",
-      "live_viewers": 451,
+      "live_viewers": 457,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9mf_ZVpouoILRY9NUIaK-w": {
-      "video_id": "KwNjKf_d29U",
-      "title": "【メンバー限定枠】今こそいつも通りに【律可/ホロスターズ】#りつすた",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-30T10:47:02.000Z",
-      "available_at": "2026-05-30T13:00:51.000Z",
-      "start_scheduled": "2026-05-30T13:00:00.000Z",
-      "start_actual": "2026-05-30T13:00:51.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-        "name": "Rikka ch.律可",
-        "english_name": "Rikka",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCjk2nKmHzgH5Xy-C5qYRd5A": {
@@ -171,7 +151,7 @@
       "available_at": "2026-05-30T14:00:21.000Z",
       "start_scheduled": "2026-05-30T14:00:00.000Z",
       "start_actual": "2026-05-30T14:00:21.000Z",
-      "live_viewers": 1728,
+      "live_viewers": 1830,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -191,7 +171,7 @@
       "available_at": "2026-05-30T14:02:20.000Z",
       "start_scheduled": "2026-05-30T14:00:00.000Z",
       "start_actual": "2026-05-30T14:02:20.000Z",
-      "live_viewers": 657,
+      "live_viewers": 719,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-30T14:36:36.000Z",
       "start_scheduled": "2026-05-30T14:30:00.000Z",
       "start_actual": "2026-05-30T14:36:36.000Z",
-      "live_viewers": 158,
+      "live_viewers": 160,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
