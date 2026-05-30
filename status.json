@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780135339,
+  "cached_at": 1780135399,
   "lives": {
     "UChAnqc_AY5_I3Px5dig3X1Q": {
       "video_id": "eKuQjwEUDag",
@@ -89,7 +89,7 @@
       "available_at": "2026-05-30T08:00:55.000Z",
       "start_scheduled": "2026-05-30T08:00:00.000Z",
       "start_actual": "2026-05-30T08:00:55.000Z",
-      "live_viewers": 9124,
+      "live_viewers": 10322,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -109,7 +109,7 @@
       "available_at": "2026-05-30T08:29:56.000Z",
       "start_scheduled": "2026-05-30T08:30:00.000Z",
       "start_actual": "2026-05-30T08:29:56.000Z",
-      "live_viewers": 1209,
+      "live_viewers": 1262,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -129,7 +129,7 @@
       "available_at": "2026-05-30T08:34:08.000Z",
       "start_scheduled": "2026-05-30T08:30:00.000Z",
       "start_actual": "2026-05-30T08:34:08.000Z",
-      "live_viewers": 432,
+      "live_viewers": 430,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -149,7 +149,7 @@
       "available_at": "2026-05-30T09:00:13.000Z",
       "start_scheduled": "2026-05-30T09:00:00.000Z",
       "start_actual": "2026-05-30T09:00:13.000Z",
-      "live_viewers": 3948,
+      "live_viewers": 4319,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -169,7 +169,7 @@
       "available_at": "2026-05-30T09:01:54.000Z",
       "start_scheduled": "2026-05-30T09:00:00.000Z",
       "start_actual": "2026-05-30T09:01:54.000Z",
-      "live_viewers": 603,
+      "live_viewers": 653,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -189,7 +189,7 @@
       "available_at": "2026-05-30T09:03:03.000Z",
       "start_scheduled": "2026-05-30T09:00:00.000Z",
       "start_actual": "2026-05-30T09:03:03.000Z",
-      "live_viewers": 536,
+      "live_viewers": 564,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -197,6 +197,104 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6eWCld0KwmyHFbAqK3V-Rw": {
+      "video_id": "gLaJztMtDdY",
+      "title": "【 #クランド 】コラボ日本酒「理系兄弟 No.54 Re」発売記念🎉酒蔵見学ロケ&初めての試飲を大公開~!🍶✨【博衣こより/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "celebration",
+      "published_at": "2026-05-28T12:49:50.000Z",
+      "available_at": "2026-05-30T09:59:34.000Z",
+      "start_scheduled": "2026-05-30T10:00:00.000Z",
+      "start_actual": "2026-05-30T09:59:34.000Z",
+      "live_viewers": 2105,
+      "channel": {
+        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+        "name": "Koyori ch. 博衣こより - holoX -",
+        "english_name": "Hakui Koyori",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "HWc03pztGKk",
+      "title": "【 同時視聴/Watchalong 】『ドラゴンボールZ 復活の「F」』視聴会。【白上フブキ/鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-05-29T19:31:23.000Z",
+      "available_at": "2026-05-30T10:00:00.000Z",
+      "start_scheduled": "2026-05-30T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC10wVt6hoQiwySRhz7RdOUA": {
+      "video_id": "2U9d2ixBPNg",
+      "title": "エリート誕生!?催眠術にかかってみた【#催眠ReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-30T10:00:06.000Z",
+      "available_at": "2026-05-30T10:00:06.000Z",
+      "start_scheduled": "2026-05-30T10:00:00.000Z",
+      "start_actual": "2026-05-30T10:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC10wVt6hoQiwySRhz7RdOUA",
+        "name": "hololive DEV_IS ReGLOSS",
+        "org": "Hololive",
+        "suborg": "0fOfficial",
+        "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "5SR6fNC5wQ0",
+      "title": "【 3D LIVE 】THE ONE & ONLY 振り返り配信✨【 #⁠響咲リオナ生誕祭2026】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-30T03:14:02.000Z",
+      "available_at": "2026-05-30T10:00:26.000Z",
+      "start_scheduled": "2026-05-30T10:00:00.000Z",
+      "start_actual": "2026-05-30T10:00:26.000Z",
+      "live_viewers": 1464,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCDqI2jOz0weumE8s7paEk6g": {
+      "video_id": "HFnjaPI-f18",
+      "title": "【Shadowverse: Worlds Beyond】初めてのシャドバ✨ビショップやろうとしたら頭が混乱している!!!【ホロライブ/ ロボ子さん 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Shadowverse",
+      "published_at": "2026-05-29T05:31:03.000Z",
+      "available_at": "2026-05-30T10:00:43.000Z",
+      "start_scheduled": "2026-05-30T10:00:00.000Z",
+      "start_actual": "2026-05-30T10:00:43.000Z",
+      "live_viewers": 303,
+      "channel": {
+        "id": "UCDqI2jOz0weumE8s7paEk6g",
+        "name": "Roboco Ch. - ロボ子",
+        "english_name": "Robocosan",
+        "org": "Hololive",
+        "suborg": "0w0th Generation",
+        "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
