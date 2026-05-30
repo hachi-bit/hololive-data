@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780130240,
+  "cached_at": 1780130299,
   "lives": {
     "UChAnqc_AY5_I3Px5dig3X1Q": {
       "video_id": "eKuQjwEUDag",
@@ -109,7 +109,7 @@
       "available_at": "2026-05-30T08:29:56.000Z",
       "start_scheduled": "2026-05-30T08:30:00.000Z",
       "start_actual": "2026-05-30T08:29:56.000Z",
-      "live_viewers": 413,
+      "live_viewers": 445,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -126,9 +126,10 @@
       "status": "live",
       "topic_id": "League_of_Legends",
       "published_at": "2026-05-30T08:30:02.000Z",
-      "available_at": "2026-05-30T08:30:00.000Z",
+      "available_at": "2026-05-30T08:34:08.000Z",
       "start_scheduled": "2026-05-30T08:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-30T08:34:08.000Z",
+      "live_viewers": 158,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
