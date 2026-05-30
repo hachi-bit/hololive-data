@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780107079,
+  "cached_at": 1780107139,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "j2loI_6HkqI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-30T00:00:35.000Z",
       "start_scheduled": "2026-05-30T00:00:00.000Z",
       "start_actual": "2026-05-30T00:00:35.000Z",
-      "live_viewers": 2225,
+      "live_viewers": 2018,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-30T00:25:24.000Z",
       "start_scheduled": "2026-05-30T00:30:00.000Z",
       "start_actual": "2026-05-30T00:25:24.000Z",
-      "live_viewers": 2634,
+      "live_viewers": 2764,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-30T00:59:55.000Z",
       "start_scheduled": "2026-05-30T01:00:00.000Z",
       "start_actual": "2026-05-30T00:59:55.000Z",
-      "live_viewers": 8636,
+      "live_viewers": 8750,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -231,7 +231,7 @@
       "available_at": "2026-05-30T01:01:29.000Z",
       "start_scheduled": "2026-05-30T01:00:00.000Z",
       "start_actual": "2026-05-30T01:01:29.000Z",
-      "live_viewers": 1147,
+      "live_viewers": 1140,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -251,7 +251,7 @@
       "available_at": "2026-05-30T01:02:56.000Z",
       "start_scheduled": "2026-05-30T01:00:00.000Z",
       "start_actual": "2026-05-30T01:02:56.000Z",
-      "live_viewers": 510,
+      "live_viewers": 492,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -271,7 +271,7 @@
       "available_at": "2026-05-30T01:04:50.000Z",
       "start_scheduled": "2026-05-30T01:00:00.000Z",
       "start_actual": "2026-05-30T01:04:50.000Z",
-      "live_viewers": 4310,
+      "live_viewers": 4375,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -350,7 +350,7 @@
       "available_at": "2026-05-30T02:05:00.000Z",
       "start_scheduled": "2026-05-30T02:00:00.000Z",
       "start_actual": "2026-05-30T02:05:00.000Z",
-      "live_viewers": 1269,
+      "live_viewers": 1782,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
