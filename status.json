@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780117519,
+  "cached_at": 1780117579,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "kpI6elqiS1M",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-30T00:59:55.000Z",
       "start_scheduled": "2026-05-30T01:00:00.000Z",
       "start_actual": "2026-05-30T00:59:55.000Z",
-      "live_viewers": 9475,
+      "live_viewers": 9661,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-30T03:02:34.000Z",
       "start_scheduled": "2026-05-30T03:00:00.000Z",
       "start_actual": "2026-05-30T03:02:34.000Z",
-      "live_viewers": 3996,
+      "live_viewers": 4073,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-30T03:25:14.000Z",
       "start_scheduled": "2026-05-30T03:15:00.000Z",
       "start_actual": "2026-05-30T03:25:14.000Z",
-      "live_viewers": 391,
+      "live_viewers": 422,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-30T04:02:34.000Z",
       "start_scheduled": "2026-05-30T04:00:00.000Z",
       "start_actual": "2026-05-30T04:02:34.000Z",
-      "live_viewers": 19418,
+      "live_viewers": 17945,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -187,9 +187,10 @@
       "status": "live",
       "topic_id": "Elden_Ring",
       "published_at": "2026-05-30T04:56:19.000Z",
-      "available_at": "2026-05-30T05:00:00.000Z",
+      "available_at": "2026-05-30T05:03:06.000Z",
       "start_scheduled": "2026-05-30T05:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-30T05:03:06.000Z",
+      "live_viewers": 411,
       "channel": {
         "id": "UClhLb5qSZy0Gvn3c-HuaInQ",
         "name": "斜落せつな / Sharaku Setsuna",
