@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780182379,
+  "cached_at": 1780182439,
   "lives": {
     "UCK9V2B22uJYu3N7eR_BT9QA": {
       "video_id": "XfRTTNj9Uv4",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-30T22:00:04.000Z",
       "start_scheduled": "2026-05-30T22:00:00.000Z",
       "start_actual": "2026-05-30T22:00:04.000Z",
-      "live_viewers": 8738,
+      "live_viewers": 9213,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-30T22:34:29.000Z",
       "start_scheduled": "2026-05-30T22:30:00.000Z",
       "start_actual": "2026-05-30T22:34:29.000Z",
-      "live_viewers": 2423,
+      "live_viewers": 2654,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
@@ -48,8 +48,9 @@
       "status": "live",
       "topic_id": "singing",
       "published_at": "2026-05-30T22:39:48.000Z",
-      "available_at": "2026-05-30T22:40:00.000Z",
+      "available_at": "2026-05-30T22:48:16.000Z",
       "start_scheduled": "2026-05-30T22:40:00.000Z",
+      "start_actual": "2026-05-30T22:48:16.000Z",
       "live_viewers": 0,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
