@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780159879,
+  "cached_at": 1780159940,
   "lives": {
-    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
-      "video_id": "pdW7C3wbBm0",
-      "title": "【バイオハザード RE:2】クレア編 # 1【 #奏手イヅル 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-05-30T12:28:35.000Z",
-      "available_at": "2026-05-30T12:48:33.000Z",
-      "start_scheduled": "2026-05-30T12:45:00.000Z",
-      "start_actual": "2026-05-30T12:48:33.000Z",
-      "live_viewers": 530,
-      "channel": {
-        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "name": "Izuru Ch. 奏手イヅル",
-        "english_name": "Kanade Izuru",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "J6N3BrBuqjo",
       "title": "【FORZA HORIZON 6】 My First Forza Horizon Ever! Driving Safely【Pavolia Reine/hololiveID】",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-30T14:00:21.000Z",
       "start_scheduled": "2026-05-30T14:00:00.000Z",
       "start_actual": "2026-05-30T14:00:21.000Z",
-      "live_viewers": 2405,
+      "live_viewers": 2631,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-30T14:36:36.000Z",
       "start_scheduled": "2026-05-30T14:30:00.000Z",
       "start_actual": "2026-05-30T14:36:36.000Z",
-      "live_viewers": 265,
+      "live_viewers": 310,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -59,26 +39,6 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChAnqc_AY5_I3Px5dig3X1Q": {
-      "video_id": "uywI-DTILPc",
-      "title": "【イライラジャンプ】このままでは眠れません!!!!!!!!!!!!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-30T15:09:02.000Z",
-      "available_at": "2026-05-30T15:30:03.000Z",
-      "start_scheduled": "2026-05-30T15:30:00.000Z",
-      "start_actual": "2026-05-30T15:30:03.000Z",
-      "live_viewers": 12248,
-      "channel": {
-        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
-        "name": "Korone Ch. 戌神ころね",
-        "english_name": "Inugami Korone",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
