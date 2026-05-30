@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780109239,
+  "cached_at": 1780109299,
   "lives": {
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "j2loI_6HkqI",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-30T00:00:35.000Z",
       "start_scheduled": "2026-05-30T00:00:00.000Z",
       "start_actual": "2026-05-30T00:00:35.000Z",
-      "live_viewers": 1786,
+      "live_viewers": 1794,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-30T00:25:24.000Z",
       "start_scheduled": "2026-05-30T00:30:00.000Z",
       "start_actual": "2026-05-30T00:25:24.000Z",
-      "live_viewers": 2800,
+      "live_viewers": 2840,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-30T01:01:09.000Z",
       "start_scheduled": "2026-05-30T01:00:00.000Z",
       "start_actual": "2026-05-30T01:01:09.000Z",
-      "live_viewers": 2691,
+      "live_viewers": 2737,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -291,7 +291,7 @@
       "available_at": "2026-05-30T01:31:02.000Z",
       "start_scheduled": "2026-05-30T01:30:00.000Z",
       "start_actual": "2026-05-30T01:31:02.000Z",
-      "live_viewers": 1880,
+      "live_viewers": 1908,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
