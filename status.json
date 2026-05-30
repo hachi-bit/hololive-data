@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780181119,
+  "cached_at": 1780181178,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "J6N3BrBuqjo",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-30T14:00:21.000Z",
       "start_scheduled": "2026-05-30T14:00:00.000Z",
       "start_actual": "2026-05-30T14:00:21.000Z",
-      "live_viewers": 2739,
+      "live_viewers": 2673,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -22,15 +22,14 @@
       }
     },
     "UCDHABijvPBnJm7F-KlNME3w": {
-      "video_id": "4LC5zY054nE",
-      "title": "【GREMBERS CHILL】give me ur energies",
+      "video_id": "lTRCbySZuhQ",
+      "title": "【GREMBERS UNARCHIVED】singy",
       "type": "stream",
       "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-30T08:08:51.000Z",
-      "available_at": "2026-05-30T21:02:31.000Z",
-      "start_scheduled": "2026-05-30T21:00:00.000Z",
-      "start_actual": "2026-05-30T21:02:31.000Z",
+      "topic_id": "singing",
+      "published_at": "2026-05-30T22:39:48.000Z",
+      "available_at": "2026-05-30T22:40:00.000Z",
+      "start_scheduled": "2026-05-30T22:40:00.000Z",
       "live_viewers": 0,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
@@ -51,7 +50,7 @@
       "available_at": "2026-05-30T22:00:04.000Z",
       "start_scheduled": "2026-05-30T22:00:00.000Z",
       "start_actual": "2026-05-30T22:00:04.000Z",
-      "live_viewers": 7652,
+      "live_viewers": 7895,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -71,7 +70,7 @@
       "available_at": "2026-05-30T22:34:29.000Z",
       "start_scheduled": "2026-05-30T22:30:00.000Z",
       "start_actual": "2026-05-30T22:34:29.000Z",
-      "live_viewers": 933,
+      "live_viewers": 1268,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
