@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780247779,
+  "cached_at": 1780247839,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "KX5dcZ45fXc",
@@ -58,6 +58,25 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "OKrSQ5By2TA",
+      "title": "【LoL】LTK TOP練習 キャノンを落とすな編  / アステル",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-31T17:11:34.000Z",
+      "available_at": "2026-05-31T17:15:00.000Z",
+      "start_scheduled": "2026-05-31T17:15:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
