@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780231099,
+  "cached_at": 1780231159,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "_8ii6H6LWk4",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-31T09:00:07.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:00:07.000Z",
-      "live_viewers": 36347,
+      "live_viewers": 35212,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-31T09:02:12.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:02:12.000Z",
-      "live_viewers": 3122,
+      "live_viewers": 2967,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-31T10:59:38.000Z",
       "start_scheduled": "2026-05-31T11:00:00.000Z",
       "start_actual": "2026-05-31T10:59:38.000Z",
-      "live_viewers": 8809,
+      "live_viewers": 8757,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-31T11:01:06.000Z",
       "start_scheduled": "2026-05-31T11:00:00.000Z",
       "start_actual": "2026-05-31T11:01:06.000Z",
-      "live_viewers": 13996,
+      "live_viewers": 14128,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-31T12:04:13.000Z",
       "start_scheduled": "2026-05-31T12:00:00.000Z",
       "start_actual": "2026-05-31T12:04:13.000Z",
-      "live_viewers": 293,
+      "live_viewers": 303,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-31T12:06:17.000Z",
       "start_scheduled": "2026-05-31T12:00:00.000Z",
       "start_actual": "2026-05-31T12:06:17.000Z",
-      "live_viewers": 10596,
+      "live_viewers": 10788,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -210,7 +210,7 @@
       "available_at": "2026-05-31T12:16:35.000Z",
       "start_scheduled": "2026-05-31T12:15:00.000Z",
       "start_actual": "2026-05-31T12:16:35.000Z",
-      "live_viewers": 29268,
+      "live_viewers": 29904,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -227,9 +227,10 @@
       "status": "live",
       "topic_id": "residentevil",
       "published_at": "2026-05-31T06:16:23.000Z",
-      "available_at": "2026-05-31T12:30:00.000Z",
+      "available_at": "2026-05-31T12:35:43.000Z",
       "start_scheduled": "2026-05-31T12:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-31T12:35:43.000Z",
+      "live_viewers": 192,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
