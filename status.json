@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780223360,
+  "cached_at": 1780223419,
   "lives": {
     "UCc88OV45ICgHbn3ZqLLb52w": {
       "video_id": "fNcwmyfNN6w",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-31T09:02:12.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:02:12.000Z",
-      "live_viewers": 4964,
+      "live_viewers": 4573,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -106,7 +106,7 @@
       "title": "【歌枠】終活!最後の歌枠!【岸堂天真/ホロスターズ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "singing",
       "published_at": "2026-05-31T07:25:17.000Z",
       "available_at": "2026-05-31T09:03:38.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-31T10:00:13.000Z",
       "start_scheduled": "2026-05-31T10:00:00.000Z",
       "start_actual": "2026-05-31T10:00:13.000Z",
-      "live_viewers": 4191,
+      "live_viewers": 4490,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-31T10:02:51.000Z",
       "start_scheduled": "2026-05-31T10:00:00.000Z",
       "start_actual": "2026-05-31T10:02:51.000Z",
-      "live_viewers": 35049,
+      "live_viewers": 35845,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
