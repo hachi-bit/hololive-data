@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780219098,
+  "cached_at": 1780219159,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "0bVyIg8FWRc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-31T01:40:35.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:40:35.000Z",
-      "live_viewers": 5392,
+      "live_viewers": 5256,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-31T06:58:58.000Z",
       "start_scheduled": "2026-05-31T07:00:00.000Z",
       "start_actual": "2026-05-31T06:58:58.000Z",
-      "live_viewers": 753,
+      "live_viewers": 738,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-31T09:00:07.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:00:07.000Z",
-      "live_viewers": 16817,
+      "live_viewers": 18155,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-31T09:00:45.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:00:45.000Z",
-      "live_viewers": 4802,
+      "live_viewers": 5308,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-31T09:02:12.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:02:12.000Z",
-      "live_viewers": 4658,
+      "live_viewers": 4752,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-31T09:03:38.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:03:38.000Z",
-      "live_viewers": 554,
+      "live_viewers": 647,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -166,12 +166,12 @@
       "title": "【 STREET FIGHTER 6】ガイル村決起集会!!!!!!【アキロゼ/ホロライブ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "Street_Fighter",
       "published_at": "2026-05-31T08:50:59.000Z",
       "available_at": "2026-05-31T09:06:29.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:06:29.000Z",
-      "live_viewers": 4055,
+      "live_viewers": 4066,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
