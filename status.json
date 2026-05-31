@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780224019,
+  "cached_at": 1780224079,
   "lives": {
     "UCc88OV45ICgHbn3ZqLLb52w": {
       "video_id": "fNcwmyfNN6w",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-31T06:58:58.000Z",
       "start_scheduled": "2026-05-31T07:00:00.000Z",
       "start_actual": "2026-05-31T06:58:58.000Z",
-      "live_viewers": 717,
+      "live_viewers": 692,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-31T08:04:53.000Z",
       "start_scheduled": "2026-05-31T08:00:00.000Z",
       "start_actual": "2026-05-31T08:04:53.000Z",
-      "live_viewers": 10264,
+      "live_viewers": 9747,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-31T09:00:07.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:00:07.000Z",
-      "live_viewers": 27701,
+      "live_viewers": 27651,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-31T09:03:38.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:03:38.000Z",
-      "live_viewers": 1200,
+      "live_viewers": 1320,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-31T09:06:29.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:06:29.000Z",
-      "live_viewers": 5294,
+      "live_viewers": 5367,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -159,26 +159,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCqm3BQLlJfvkTsX_hvm0UmA": {
-      "video_id": "jWz7iFgncnQ",
-      "title": "念願の囲炉裏で魚焼き体験!古民家、満喫旅!【角巻わためのHave a nice day】#はばない",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Vlog",
-      "published_at": "2026-05-31T10:00:06.000Z",
-      "available_at": "2026-05-31T10:00:06.000Z",
-      "start_scheduled": "2026-05-31T10:00:00.000Z",
-      "start_actual": "2026-05-31T10:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-        "name": "Watame Ch. 角巻わため",
-        "english_name": "Tsunomaki Watame",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCQ0UDLQCjY0rmuxCDE38FGg": {
@@ -211,7 +191,7 @@
       "available_at": "2026-05-31T10:02:51.000Z",
       "start_scheduled": "2026-05-31T10:00:00.000Z",
       "start_actual": "2026-05-31T10:02:51.000Z",
-      "live_viewers": 40072,
+      "live_viewers": 32085,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -223,14 +203,15 @@
     },
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "oLMhUSh8C8w",
-      "title": "THE ONE & ONLY　打ち上げカラオケ🎵【 #⁠響咲リオナ生誕祭2026】",
+      "title": "THE ONE & ONLY 打ち上げカラオケ🎵【 #⁠響咲リオナ生誕祭2026】",
       "type": "stream",
       "status": "live",
       "topic_id": "singing",
       "published_at": "2026-05-31T04:48:31.000Z",
-      "available_at": "2026-05-31T10:35:00.000Z",
+      "available_at": "2026-05-31T10:36:04.000Z",
       "start_scheduled": "2026-05-31T10:35:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-31T10:36:04.000Z",
+      "live_viewers": 3293,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
