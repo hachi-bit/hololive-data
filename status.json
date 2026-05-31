@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780217238,
+  "cached_at": 1780217299,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "0bVyIg8FWRc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-31T01:40:35.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:40:35.000Z",
-      "live_viewers": 6472,
+      "live_viewers": 6276,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC2hx0xVkMoHGWijwr_lA01w": {
-      "video_id": "VQikP6Zy5BU",
-      "title": "【🍻Travellers Rest 🍻】Time to start a farm as well now aye【3】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-31T05:05:00.000Z",
-      "available_at": "2026-05-31T05:17:19.000Z",
-      "start_scheduled": "2026-05-31T05:15:00.000Z",
-      "start_actual": "2026-05-31T05:17:19.000Z",
-      "live_viewers": 564,
-      "channel": {
-        "id": "UC2hx0xVkMoHGWijwr_lA01w",
-        "name": "Axel Syrios Ch. HOLOSTARS-EN",
-        "english_name": "Axel Syrios",
-        "org": "Hololive",
-        "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-        "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCc88OV45ICgHbn3ZqLLb52w": {
@@ -51,7 +31,7 @@
       "available_at": "2026-05-31T06:01:46.000Z",
       "start_scheduled": "2026-05-31T06:00:00.000Z",
       "start_actual": "2026-05-31T06:01:46.000Z",
-      "live_viewers": 567,
+      "live_viewers": 544,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
