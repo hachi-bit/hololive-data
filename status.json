@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780229299,
+  "cached_at": 1780229359,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "_8ii6H6LWk4",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-31T09:00:07.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:00:07.000Z",
-      "live_viewers": 33615,
+      "live_viewers": 34093,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-31T09:02:12.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:02:12.000Z",
-      "live_viewers": 3295,
+      "live_viewers": 3556,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -151,7 +151,7 @@
       "available_at": "2026-05-31T11:01:06.000Z",
       "start_scheduled": "2026-05-31T11:00:00.000Z",
       "start_actual": "2026-05-31T11:01:06.000Z",
-      "live_viewers": 14969,
+      "live_viewers": 14931,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -159,44 +159,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "OtMhbej4nDk",
-      "title": "#最終回【OPUS: Prism Peak】 「帰り道」を見つけ出す旅をしよう。【花咲みやび/ホロスターズ】【ネタバレあり】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "OPUS",
-      "published_at": "2026-05-31T10:06:14.000Z",
-      "available_at": "2026-05-31T12:00:00.000Z",
-      "start_scheduled": "2026-05-31T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvaTdHTWBGv3MKj3KVqJVCw": {
-      "video_id": "emq8i1TY7Ss",
-      "title": "【 FF7/同時視聴 】FINAL FANTASY VII ADVENT CHILDREN COMPLETE 一緒に見よう!😸✨【猫又おかゆ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-05-30T14:35:13.000Z",
-      "available_at": "2026-05-31T12:00:00.000Z",
-      "start_scheduled": "2026-05-31T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-        "name": "Okayu Ch. 猫又おかゆ",
-        "english_name": "Nekomata Okayu",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
@@ -218,6 +180,26 @@
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UC6t3-_N8A6ME1JShZHHqOMw": {
+      "video_id": "OtMhbej4nDk",
+      "title": "#最終回【OPUS: Prism Peak】 「帰り道」を見つけ出す旅をしよう。【花咲みやび/ホロスターズ】【ネタバレあり】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "OPUS",
+      "published_at": "2026-05-31T10:06:14.000Z",
+      "available_at": "2026-05-31T12:04:11.000Z",
+      "start_scheduled": "2026-05-31T12:00:00.000Z",
+      "start_actual": "2026-05-31T12:04:11.000Z",
+      "live_viewers": 214,
+      "channel": {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "english_name": "Hanasaki Miyabi",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UC9mf_ZVpouoILRY9NUIaK-w": {
       "video_id": "xqsMnaxydAc",
       "title": "#2【CORE KEEPER】ニソウコウリツチュウでコアキーパーする【律可/ホロスターズ】",
@@ -225,10 +207,10 @@
       "status": "live",
       "topic_id": "Core_Keeper",
       "published_at": "2026-05-31T11:04:23.000Z",
-      "available_at": "2026-05-31T12:04:10.000Z",
+      "available_at": "2026-05-31T12:04:13.000Z",
       "start_scheduled": "2026-05-31T12:00:00.000Z",
-      "start_actual": "2026-05-31T12:04:10.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-31T12:04:13.000Z",
+      "live_viewers": 246,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -236,6 +218,26 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvaTdHTWBGv3MKj3KVqJVCw": {
+      "video_id": "emq8i1TY7Ss",
+      "title": "【 FF7/同時視聴 】FINAL FANTASY VII ADVENT CHILDREN COMPLETE 一緒に見よう!😸✨【猫又おかゆ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-05-30T14:35:13.000Z",
+      "available_at": "2026-05-31T12:06:17.000Z",
+      "start_scheduled": "2026-05-31T12:00:00.000Z",
+      "start_actual": "2026-05-31T12:06:17.000Z",
+      "live_viewers": 7352,
+      "channel": {
+        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+        "name": "Okayu Ch. 猫又おかゆ",
+        "english_name": "Nekomata Okayu",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
