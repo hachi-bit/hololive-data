@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780238359,
+  "cached_at": 1780238419,
   "lives": {
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
       "video_id": "cU9gf9eI3lc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-31T09:02:12.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:02:12.000Z",
-      "live_viewers": 1375,
+      "live_viewers": 1339,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-31T11:01:02.000Z",
       "start_scheduled": "2026-05-31T11:00:00.000Z",
       "start_actual": "2026-05-31T11:01:02.000Z",
-      "live_viewers": 12237,
+      "live_viewers": 12776,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-31T12:04:13.000Z",
       "start_scheduled": "2026-05-31T12:00:00.000Z",
       "start_actual": "2026-05-31T12:04:13.000Z",
-      "live_viewers": 298,
+      "live_viewers": 301,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -98,26 +98,6 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvaTdHTWBGv3MKj3KVqJVCw": {
-      "video_id": "emq8i1TY7Ss",
-      "title": "【 FF7/同時視聴 】FINAL FANTASY VII ADVENT CHILDREN COMPLETE 一緒に見よう!😸✨【猫又おかゆ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-05-30T14:35:13.000Z",
-      "available_at": "2026-05-31T12:06:17.000Z",
-      "start_scheduled": "2026-05-31T12:00:00.000Z",
-      "start_actual": "2026-05-31T12:06:17.000Z",
-      "live_viewers": 10055,
-      "channel": {
-        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-        "name": "Okayu Ch. 猫又おかゆ",
-        "english_name": "Nekomata Okayu",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCZgOv3YDEs-ZnZWDYVwJdmA": {
@@ -210,7 +190,7 @@
       "available_at": "2026-05-31T14:01:10.000Z",
       "start_scheduled": "2026-05-31T14:00:00.000Z",
       "start_actual": "2026-05-31T14:01:10.000Z",
-      "live_viewers": 17723,
+      "live_viewers": 17945,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -230,7 +210,7 @@
       "available_at": "2026-05-31T14:04:39.000Z",
       "start_scheduled": "2026-05-31T14:00:00.000Z",
       "start_actual": "2026-05-31T14:04:39.000Z",
-      "live_viewers": 2251,
+      "live_viewers": 2252,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -250,7 +230,7 @@
       "available_at": "2026-05-31T14:32:57.000Z",
       "start_scheduled": "2026-05-31T14:30:00.000Z",
       "start_actual": "2026-05-31T14:32:57.000Z",
-      "live_viewers": 6697,
+      "live_viewers": 8182,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -270,7 +250,7 @@
       "available_at": "2026-05-31T14:33:37.000Z",
       "start_scheduled": "2026-05-31T14:30:00.000Z",
       "start_actual": "2026-05-31T14:33:37.000Z",
-      "live_viewers": 2505,
+      "live_viewers": 3583,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
