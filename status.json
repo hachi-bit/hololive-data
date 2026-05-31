@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780215499,
+  "cached_at": 1780215559,
   "lives": {
-    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
-      "video_id": "50XMtf8Wa_I",
-      "title": "【 朝から競馬! 】今年はダービー日もぶっ通し競馬!!!ダービーで大勝利するぞ。【鷹嶺ルイ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Horse_racing",
-      "published_at": "2026-05-29T19:48:44.000Z",
-      "available_at": "2026-05-31T00:01:27.000Z",
-      "start_scheduled": "2026-05-31T00:00:00.000Z",
-      "start_actual": "2026-05-31T00:01:27.000Z",
-      "live_viewers": 5130,
-      "channel": {
-        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "name": "Lui ch. 鷹嶺ルイ - holoX -",
-        "english_name": "Takane Lui",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "0bVyIg8FWRc",
       "title": "【Forza Horizon 6】Uh i dont know how to drive",
@@ -31,7 +11,7 @@
       "available_at": "2026-05-31T01:40:35.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:40:35.000Z",
-      "live_viewers": 9397,
+      "live_viewers": 9757,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-31T04:07:52.000Z",
       "start_scheduled": "2026-05-31T04:00:00.000Z",
       "start_actual": "2026-05-31T04:07:52.000Z",
-      "live_viewers": 25585,
+      "live_viewers": 26279,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -59,26 +39,6 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "-58v007tYm8",
-      "title": "【遊戯王 EARLY DAYS COLLECTION】 遊戯王デュエルモンスターズ (1998) 【ホロライブ/白上フブキ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Yu-Gi-Oh!",
-      "published_at": "2026-05-31T03:45:53.000Z",
-      "available_at": "2026-05-31T04:32:35.000Z",
-      "start_scheduled": "2026-05-31T04:30:00.000Z",
-      "start_actual": "2026-05-31T04:32:35.000Z",
-      "live_viewers": 12634,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "フブキCh。白上フブキ",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC_vMYWcDjmfdpH6r4TTn1MQ": {
@@ -91,7 +51,7 @@
       "available_at": "2026-05-31T05:02:12.000Z",
       "start_scheduled": "2026-05-31T05:00:00.000Z",
       "start_actual": "2026-05-31T05:02:12.000Z",
-      "live_viewers": 6526,
+      "live_viewers": 6586,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -111,7 +71,7 @@
       "available_at": "2026-05-31T05:17:19.000Z",
       "start_scheduled": "2026-05-31T05:15:00.000Z",
       "start_actual": "2026-05-31T05:17:19.000Z",
-      "live_viewers": 553,
+      "live_viewers": 560,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -171,7 +131,7 @@
       "available_at": "2026-05-31T08:04:53.000Z",
       "start_scheduled": "2026-05-31T08:00:00.000Z",
       "start_actual": "2026-05-31T08:04:53.000Z",
-      "live_viewers": 3955,
+      "live_viewers": 5127,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
