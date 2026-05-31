@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780186699,
+  "cached_at": 1780186766,
   "lives": {
     "UC1suqwovbL1kzsoaZgFZLKg": {
       "video_id": "ONZ6aRjA_jM",
@@ -61,25 +61,6 @@
         "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCajbFh6e_R8QZdHAMbbi4rQ": {
-      "video_id": "kPGSsZzb1sk",
-      "title": "World Building 202: w/ Lan Philia and PorcelainMaid!【MAPPA IMPERIUM】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-30T01:08:04.000Z",
-      "available_at": "2026-05-31T00:00:00.000Z",
-      "start_scheduled": "2026-05-31T00:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-        "english_name": "Crimzon Ruze",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "50XMtf8Wa_I",
       "title": "【 朝から競馬! 】今年はダービー日もぶっ通し競馬!!!ダービーで大勝利するぞ。【鷹嶺ルイ/ホロライブ】",
@@ -90,7 +71,7 @@
       "available_at": "2026-05-31T00:01:27.000Z",
       "start_scheduled": "2026-05-31T00:00:00.000Z",
       "start_actual": "2026-05-31T00:01:27.000Z",
-      "live_viewers": 3683,
+      "live_viewers": 3873,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -98,6 +79,26 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCajbFh6e_R8QZdHAMbbi4rQ": {
+      "video_id": "kPGSsZzb1sk",
+      "title": "World Building 202: w/ Lan Philia and PorcelainMaid!【MAPPA IMPERIUM】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-30T01:08:04.000Z",
+      "available_at": "2026-05-31T00:14:54.000Z",
+      "start_scheduled": "2026-05-31T00:00:00.000Z",
+      "start_actual": "2026-05-31T00:14:54.000Z",
+      "live_viewers": 272,
+      "channel": {
+        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+        "english_name": "Crimzon Ruze",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
