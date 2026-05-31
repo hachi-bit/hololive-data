@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780200199,
+  "cached_at": 1780200259,
   "lives": {
     "UCngBjKSLC8IhPNagQCnf2LQ": {
       "video_id": "cG4KyNfG6RU",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-30T21:03:40.000Z",
       "start_scheduled": "2026-05-30T21:15:00.000Z",
       "start_actual": "2026-05-30T21:03:40.000Z",
-      "live_viewers": 77,
+      "live_viewers": 76,
       "channel": {
         "id": "UCngBjKSLC8IhPNagQCnf2LQ",
         "name": "PorcelainMaid",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-31T01:40:35.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:40:35.000Z",
-      "live_viewers": 12701,
+      "live_viewers": 12149,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -189,7 +189,7 @@
       "available_at": "2026-05-31T03:01:06.000Z",
       "start_scheduled": "2026-05-31T03:00:00.000Z",
       "start_actual": "2026-05-31T03:01:06.000Z",
-      "live_viewers": 451,
+      "live_viewers": 422,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -197,6 +197,25 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvzGlP9oQwU--Y0r9id_jnA": {
+      "video_id": "z-z7CqEHDfY",
+      "title": "【#3】アマガミやるしゅばああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ!!!!!!!【ホロライブ/大空スバル】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Amagami",
+      "published_at": "2026-05-30T08:10:29.000Z",
+      "available_at": "2026-05-31T04:00:00.000Z",
+      "start_scheduled": "2026-05-31T04:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+        "name": "Subaru Ch. 大空スバル",
+        "english_name": "Oozora Subaru",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
