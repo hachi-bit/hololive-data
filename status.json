@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780205899,
+  "cached_at": 1780205959,
   "lives": {
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "50XMtf8Wa_I",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-31T02:02:44.000Z",
       "start_scheduled": "2026-05-31T02:00:00.000Z",
       "start_actual": "2026-05-31T02:02:44.000Z",
-      "live_viewers": 500,
+      "live_viewers": 491,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-31T03:01:06.000Z",
       "start_scheduled": "2026-05-31T03:00:00.000Z",
       "start_actual": "2026-05-31T03:01:06.000Z",
-      "live_viewers": 561,
+      "live_viewers": 572,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-31T04:07:52.000Z",
       "start_scheduled": "2026-05-31T04:00:00.000Z",
       "start_actual": "2026-05-31T04:07:52.000Z",
-      "live_viewers": 23782,
+      "live_viewers": 24020,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-31T04:32:35.000Z",
       "start_scheduled": "2026-05-31T04:30:00.000Z",
       "start_actual": "2026-05-31T04:32:35.000Z",
-      "live_viewers": 10863,
+      "live_viewers": 11114,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-31T05:00:14.000Z",
       "start_scheduled": "2026-05-31T05:00:00.000Z",
       "start_actual": "2026-05-31T05:00:14.000Z",
-      "live_viewers": 15341,
+      "live_viewers": 15574,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -198,26 +198,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCWQtYtq9EOB4-I5P-3fh8lA": {
-      "video_id": "aQmgBcECjGQ",
-      "title": "【 ショートメン限 】こんにちは~~~お元気ですか~~【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-31T04:17:50.000Z",
-      "available_at": "2026-05-31T05:01:10.000Z",
-      "start_scheduled": "2026-05-31T05:00:00.000Z",
-      "start_actual": "2026-05-31T05:01:10.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-        "english_name": "Otonose Kanade",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC_vMYWcDjmfdpH6r4TTn1MQ": {
@@ -230,7 +210,7 @@
       "available_at": "2026-05-31T05:02:12.000Z",
       "start_scheduled": "2026-05-31T05:00:00.000Z",
       "start_actual": "2026-05-31T05:02:12.000Z",
-      "live_viewers": 4806,
+      "live_viewers": 4938,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -250,7 +230,7 @@
       "available_at": "2026-05-31T05:17:19.000Z",
       "start_scheduled": "2026-05-31T05:15:00.000Z",
       "start_actual": "2026-05-31T05:17:19.000Z",
-      "live_viewers": 159,
+      "live_viewers": 158,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -270,7 +250,7 @@
       "available_at": "2026-05-31T05:32:03.000Z",
       "start_scheduled": "2026-05-31T05:30:00.000Z",
       "start_actual": "2026-05-31T05:32:03.000Z",
-      "live_viewers": 880,
+      "live_viewers": 1489,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
