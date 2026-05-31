@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780210759,
+  "cached_at": 1780210819,
   "lives": {
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "50XMtf8Wa_I",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-31T00:01:27.000Z",
       "start_scheduled": "2026-05-31T00:00:00.000Z",
       "start_actual": "2026-05-31T00:01:27.000Z",
-      "live_viewers": 15509,
+      "live_viewers": 12445,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-31T01:40:35.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:40:35.000Z",
-      "live_viewers": 10083,
+      "live_viewers": 10103,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-31T04:07:52.000Z",
       "start_scheduled": "2026-05-31T04:00:00.000Z",
       "start_actual": "2026-05-31T04:07:52.000Z",
-      "live_viewers": 26791,
+      "live_viewers": 23720,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -118,26 +118,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "LqKWcnNMCRo",
-      "title": "【日本ダービー】2026年 日本ダービーで大勝する!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Horse_racing",
-      "published_at": "2026-05-30T15:12:52.000Z",
-      "available_at": "2026-05-31T05:00:14.000Z",
-      "start_scheduled": "2026-05-31T05:00:00.000Z",
-      "start_actual": "2026-05-31T05:00:14.000Z",
-      "live_viewers": 24646,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC_vMYWcDjmfdpH6r4TTn1MQ": {
@@ -210,7 +190,7 @@
       "available_at": "2026-05-31T06:01:46.000Z",
       "start_scheduled": "2026-05-31T06:00:00.000Z",
       "start_actual": "2026-05-31T06:01:46.000Z",
-      "live_viewers": 484,
+      "live_viewers": 490,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
