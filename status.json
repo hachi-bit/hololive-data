@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780191738,
+  "cached_at": 1780191799,
   "lives": {
     "UCngBjKSLC8IhPNagQCnf2LQ": {
       "video_id": "cG4KyNfG6RU",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-31T00:14:54.000Z",
       "start_scheduled": "2026-05-31T00:00:00.000Z",
       "start_actual": "2026-05-31T00:14:54.000Z",
-      "live_viewers": 521,
+      "live_viewers": 534,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -78,25 +78,6 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9p_lqQ0FEDz327Vgf5JwqA": {
-      "video_id": "0bVyIg8FWRc",
-      "title": "【Forza Horizon 6】Uh i dont know how to drive",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Forza",
-      "published_at": "2026-05-30T17:39:23.000Z",
-      "available_at": "2026-05-31T01:00:00.000Z",
-      "start_scheduled": "2026-05-31T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-        "name": "Koseki Bijou Ch. hololive-EN",
-        "english_name": "Koseki Bijou",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
@@ -129,7 +110,7 @@
       "available_at": "2026-05-31T01:01:00.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:01:00.000Z",
-      "live_viewers": 943,
+      "live_viewers": 964,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -149,7 +130,7 @@
       "available_at": "2026-05-31T01:03:03.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:03:03.000Z",
-      "live_viewers": 2681,
+      "live_viewers": 2812,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -157,6 +138,26 @@
         "org": "Hololive",
         "suborg": "0w0th Generation",
         "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9p_lqQ0FEDz327Vgf5JwqA": {
+      "video_id": "0bVyIg8FWRc",
+      "title": "【Forza Horizon 6】Uh i dont know how to drive",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-05-30T17:39:23.000Z",
+      "available_at": "2026-05-31T01:40:35.000Z",
+      "start_scheduled": "2026-05-31T01:00:00.000Z",
+      "start_actual": "2026-05-31T01:40:35.000Z",
+      "live_viewers": 3343,
+      "channel": {
+        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+        "name": "Koseki Bijou Ch. hololive-EN",
+        "english_name": "Koseki Bijou",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
