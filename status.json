@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780186158,
+  "cached_at": 1780186219,
   "lives": {
     "UC1suqwovbL1kzsoaZgFZLKg": {
       "video_id": "ONZ6aRjA_jM",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-30T22:34:29.000Z",
       "start_scheduled": "2026-05-30T22:30:00.000Z",
       "start_actual": "2026-05-30T22:34:29.000Z",
-      "live_viewers": 5174,
+      "live_viewers": 5086,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
@@ -46,7 +46,7 @@
       "title": "【GUERILLA】I have awakened~ what shall we do...",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "zelda",
       "published_at": "2026-05-30T22:26:20.000Z",
       "available_at": "2026-05-30T23:10:06.000Z",
       "start_scheduled": "2026-05-30T23:00:00.000Z",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-31T00:01:27.000Z",
       "start_scheduled": "2026-05-31T00:00:00.000Z",
       "start_actual": "2026-05-31T00:01:27.000Z",
-      "live_viewers": 2034,
+      "live_viewers": 2614,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
