@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780229958,
+  "cached_at": 1780230019,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "_8ii6H6LWk4",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-31T09:00:07.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:00:07.000Z",
-      "live_viewers": 36100,
+      "live_viewers": 37641,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-05-31T11:01:02.000Z",
       "start_scheduled": "2026-05-31T11:00:00.000Z",
       "start_actual": "2026-05-31T11:01:02.000Z",
-      "live_viewers": 8815,
+      "live_viewers": 8992,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -131,7 +131,7 @@
       "available_at": "2026-05-31T11:01:06.000Z",
       "start_scheduled": "2026-05-31T11:00:00.000Z",
       "start_actual": "2026-05-31T11:01:06.000Z",
-      "live_viewers": 14799,
+      "live_viewers": 14687,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-31T12:04:11.000Z",
       "start_scheduled": "2026-05-31T12:00:00.000Z",
       "start_actual": "2026-05-31T12:04:11.000Z",
-      "live_viewers": 249,
+      "live_viewers": 272,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-31T12:04:13.000Z",
       "start_scheduled": "2026-05-31T12:00:00.000Z",
       "start_actual": "2026-05-31T12:04:13.000Z",
-      "live_viewers": 243,
+      "live_viewers": 264,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -210,7 +210,7 @@
       "available_at": "2026-05-31T12:06:17.000Z",
       "start_scheduled": "2026-05-31T12:00:00.000Z",
       "start_actual": "2026-05-31T12:06:17.000Z",
-      "live_viewers": 9807,
+      "live_viewers": 10084,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -227,9 +227,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-05-31T05:29:51.000Z",
-      "available_at": "2026-05-31T12:15:00.000Z",
+      "available_at": "2026-05-31T12:16:35.000Z",
       "start_scheduled": "2026-05-31T12:15:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-31T12:16:35.000Z",
+      "live_viewers": 15273,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
