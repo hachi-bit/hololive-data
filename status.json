@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780195639,
+  "cached_at": 1780195699,
   "lives": {
     "UCngBjKSLC8IhPNagQCnf2LQ": {
       "video_id": "cG4KyNfG6RU",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-30T21:03:40.000Z",
       "start_scheduled": "2026-05-30T21:15:00.000Z",
       "start_actual": "2026-05-30T21:03:40.000Z",
-      "live_viewers": 84,
+      "live_viewers": 96,
       "channel": {
         "id": "UCngBjKSLC8IhPNagQCnf2LQ",
         "name": "PorcelainMaid",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-31T00:14:54.000Z",
       "start_scheduled": "2026-05-31T00:00:00.000Z",
       "start_actual": "2026-05-31T00:14:54.000Z",
-      "live_viewers": 537,
+      "live_viewers": 533,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-31T01:00:16.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:00:16.000Z",
-      "live_viewers": 11443,
+      "live_viewers": 9362,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-31T01:01:00.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:01:00.000Z",
-      "live_viewers": 998,
+      "live_viewers": 1025,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -98,26 +98,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCDqI2jOz0weumE8s7paEk6g": {
-      "video_id": "N_kV4Ke49js",
-      "title": "【 歌枠】NO24.寝起きなのでもぐもぐ雑談してから🎤ろぼめろでぃ～ RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-05-30T12:52:08.000Z",
-      "available_at": "2026-05-31T01:03:03.000Z",
-      "start_scheduled": "2026-05-31T01:00:00.000Z",
-      "start_actual": "2026-05-31T01:03:03.000Z",
-      "live_viewers": 2971,
-      "channel": {
-        "id": "UCDqI2jOz0weumE8s7paEk6g",
-        "name": "Roboco Ch. - ロボ子",
-        "english_name": "Robocosan",
-        "org": "Hololive",
-        "suborg": "0w0th Generation",
-        "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
