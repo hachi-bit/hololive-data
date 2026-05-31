@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780232779,
+  "cached_at": 1780232839,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "_8ii6H6LWk4",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-31T09:02:12.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:02:12.000Z",
-      "live_viewers": 2535,
+      "live_viewers": 2546,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -101,26 +101,6 @@
         "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "4rjmACpiI2c",
-      "title": "【運ゲー】第五回 サイコロ9個ゾロ目出す2時間配信。【白上フブキ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Camera_Stream",
-      "published_at": "2026-05-31T03:25:36.000Z",
-      "available_at": "2026-05-31T11:01:06.000Z",
-      "start_scheduled": "2026-05-31T11:00:00.000Z",
-      "start_actual": "2026-05-31T11:01:06.000Z",
-      "live_viewers": 13957,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "フブキCh。白上フブキ",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "KX5dcZ45fXc",
       "title": "Now THIS is CRAFTING【ASMR FRIENDSHIP BRACELET MAKING】",
@@ -150,7 +130,7 @@
       "available_at": "2026-05-31T12:04:11.000Z",
       "start_scheduled": "2026-05-31T12:00:00.000Z",
       "start_actual": "2026-05-31T12:04:11.000Z",
-      "live_viewers": 328,
+      "live_viewers": 329,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -190,7 +170,7 @@
       "available_at": "2026-05-31T12:06:17.000Z",
       "start_scheduled": "2026-05-31T12:00:00.000Z",
       "start_actual": "2026-05-31T12:06:17.000Z",
-      "live_viewers": 10953,
+      "live_viewers": 11140,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -210,7 +190,7 @@
       "available_at": "2026-05-31T12:16:35.000Z",
       "start_scheduled": "2026-05-31T12:15:00.000Z",
       "start_actual": "2026-05-31T12:16:35.000Z",
-      "live_viewers": 32364,
+      "live_viewers": 33072,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -259,23 +239,24 @@
         "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC1suqwovbL1kzsoaZgFZLKg": {
-      "video_id": "KsQ1sQJ0kjs",
-      "title": "【告知あり】悪魔のまったり雑談📣 【ホロライブ/癒月ちょこ】",
+    "UChAnqc_AY5_I3Px5dig3X1Q": {
+      "video_id": "Uu1o3Bedwlg",
+      "title": "【Memberships only】寝る前のASMR♡囁き雑談/耳かき/雪山etc...",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-31T12:42:36.000Z",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-31T08:38:34.000Z",
       "available_at": "2026-05-31T13:00:00.000Z",
       "start_scheduled": "2026-05-31T13:00:00.000Z",
+      "start_actual": "2026-05-31T13:00:00.000Z",
       "live_viewers": 0,
       "channel": {
-        "id": "UC1suqwovbL1kzsoaZgFZLKg",
-        "name": "Choco Ch. 癒月ちょこ",
-        "english_name": "Yuzuki Choco",
+        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
+        "name": "Korone Ch. 戌神ころね",
+        "english_name": "Inugami Korone",
         "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCYz_5n-uDuChHtLo7My1HnQ": {
@@ -297,26 +278,6 @@
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UChAnqc_AY5_I3Px5dig3X1Q": {
-      "video_id": "Uu1o3Bedwlg",
-      "title": "【Memberships only】寝る前のASMR♡囁き雑談/耳かき/雪山etc...",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-31T08:38:34.000Z",
-      "available_at": "2026-05-31T13:00:00.000Z",
-      "start_scheduled": "2026-05-31T13:00:00.000Z",
-      "start_actual": "2026-05-31T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
-        "name": "Korone Ch. 戌神ころね",
-        "english_name": "Inugami Korone",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
       "video_id": "03Czx2QWb5U",
       "title": "【ストリートファイター6】テリー修行なのじゃが?【荒咬オウガ /ホロスターズ】",
@@ -327,7 +288,7 @@
       "available_at": "2026-05-31T13:00:28.000Z",
       "start_scheduled": "2026-05-31T13:00:00.000Z",
       "start_actual": "2026-05-31T13:00:28.000Z",
-      "live_viewers": 123,
+      "live_viewers": 155,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -335,6 +296,26 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1suqwovbL1kzsoaZgFZLKg": {
+      "video_id": "KsQ1sQJ0kjs",
+      "title": "【告知あり】悪魔のまったり雑談📣 【ホロライブ/癒月ちょこ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-31T12:42:36.000Z",
+      "available_at": "2026-05-31T13:01:26.000Z",
+      "start_scheduled": "2026-05-31T13:00:00.000Z",
+      "start_actual": "2026-05-31T13:01:26.000Z",
+      "live_viewers": 1161,
+      "channel": {
+        "id": "UC1suqwovbL1kzsoaZgFZLKg",
+        "name": "Choco Ch. 癒月ちょこ",
+        "english_name": "Yuzuki Choco",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
