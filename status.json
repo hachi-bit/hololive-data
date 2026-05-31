@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780238179,
+  "cached_at": 1780238239,
   "lives": {
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
       "video_id": "cU9gf9eI3lc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-31T09:02:12.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:02:12.000Z",
-      "live_viewers": 1409,
+      "live_viewers": 1375,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -130,7 +130,7 @@
       "available_at": "2026-05-31T12:35:43.000Z",
       "start_scheduled": "2026-05-31T12:30:00.000Z",
       "start_actual": "2026-05-31T12:35:43.000Z",
-      "live_viewers": 394,
+      "live_viewers": 415,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-31T13:00:28.000Z",
       "start_scheduled": "2026-05-31T13:00:00.000Z",
       "start_actual": "2026-05-31T13:00:28.000Z",
-      "live_viewers": 299,
+      "live_viewers": 305,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -230,7 +230,7 @@
       "available_at": "2026-05-31T14:04:39.000Z",
       "start_scheduled": "2026-05-31T14:00:00.000Z",
       "start_actual": "2026-05-31T14:04:39.000Z",
-      "live_viewers": 2179,
+      "live_viewers": 2251,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -247,9 +247,10 @@
       "status": "live",
       "topic_id": "membersonly",
       "published_at": "2026-05-31T03:22:06.000Z",
-      "available_at": "2026-05-31T14:30:00.000Z",
+      "available_at": "2026-05-31T14:32:57.000Z",
       "start_scheduled": "2026-05-31T14:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-31T14:32:57.000Z",
+      "live_viewers": 6697,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -266,9 +267,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-05-31T13:21:55.000Z",
-      "available_at": "2026-05-31T14:30:00.000Z",
+      "available_at": "2026-05-31T14:33:37.000Z",
       "start_scheduled": "2026-05-31T14:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-05-31T14:33:37.000Z",
+      "live_viewers": 2505,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
