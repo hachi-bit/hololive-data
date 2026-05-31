@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780237398,
+  "cached_at": 1780237459,
   "lives": {
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
       "video_id": "cU9gf9eI3lc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-31T09:02:12.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:02:12.000Z",
-      "live_viewers": 1603,
+      "live_viewers": 1520,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-31T11:01:02.000Z",
       "start_scheduled": "2026-05-31T11:00:00.000Z",
       "start_actual": "2026-05-31T11:01:02.000Z",
-      "live_viewers": 11712,
+      "live_viewers": 11496,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-31T12:06:17.000Z",
       "start_scheduled": "2026-05-31T12:00:00.000Z",
       "start_actual": "2026-05-31T12:06:17.000Z",
-      "live_viewers": 12380,
+      "live_viewers": 12199,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-31T13:00:28.000Z",
       "start_scheduled": "2026-05-31T13:00:00.000Z",
       "start_actual": "2026-05-31T13:00:28.000Z",
-      "live_viewers": 265,
+      "live_viewers": 299,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -178,26 +178,6 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCAoy6rzhSf4ydcYjJw3WoVg": {
-      "video_id": "Hs2_mS0auz4",
-      "title": "KKC QUIZ PART 2! With Kahoot!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-31T08:12:36.000Z",
-      "available_at": "2026-05-31T13:00:46.000Z",
-      "start_scheduled": "2026-05-31T13:00:00.000Z",
-      "start_actual": "2026-05-31T13:00:46.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-        "name": "Airani Iofifteen Channel hololive-ID",
-        "english_name": "Airani Iofifteen",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCYz_5n-uDuChHtLo7My1HnQ": {
@@ -230,7 +210,7 @@
       "available_at": "2026-05-31T14:01:10.000Z",
       "start_scheduled": "2026-05-31T14:00:00.000Z",
       "start_actual": "2026-05-31T14:01:10.000Z",
-      "live_viewers": 15487,
+      "live_viewers": 16035,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -250,7 +230,7 @@
       "available_at": "2026-05-31T14:04:39.000Z",
       "start_scheduled": "2026-05-31T14:00:00.000Z",
       "start_actual": "2026-05-31T14:04:39.000Z",
-      "live_viewers": 1829,
+      "live_viewers": 2071,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
