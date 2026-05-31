@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780204099,
+  "cached_at": 1780204159,
   "lives": {
     "UCngBjKSLC8IhPNagQCnf2LQ": {
       "video_id": "cG4KyNfG6RU",
@@ -189,7 +189,7 @@
       "available_at": "2026-05-31T04:32:35.000Z",
       "start_scheduled": "2026-05-31T04:30:00.000Z",
       "start_actual": "2026-05-31T04:32:35.000Z",
-      "live_viewers": 9821,
+      "live_viewers": 9656,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -209,7 +209,7 @@
       "available_at": "2026-05-31T04:33:00.000Z",
       "start_scheduled": "2026-05-31T04:30:00.000Z",
       "start_actual": "2026-05-31T04:33:00.000Z",
-      "live_viewers": 3460,
+      "live_viewers": 3467,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -217,25 +217,6 @@
         "org": "Hololive",
         "suborg": "0v0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCWQtYtq9EOB4-I5P-3fh8lA": {
-      "video_id": "aQmgBcECjGQ",
-      "title": "【 ショートメン限 】こんにちは~~~お元気ですか~~【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-05-31T04:17:50.000Z",
-      "available_at": "2026-05-31T05:00:00.000Z",
-      "start_scheduled": "2026-05-31T05:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-        "english_name": "Otonose Kanade",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1DCedRgGHBdm81E1llLhOQ": {
@@ -248,7 +229,7 @@
       "available_at": "2026-05-31T05:00:14.000Z",
       "start_scheduled": "2026-05-31T05:00:00.000Z",
       "start_actual": "2026-05-31T05:00:14.000Z",
-      "live_viewers": 6516,
+      "live_viewers": 7936,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -256,6 +237,26 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCWQtYtq9EOB4-I5P-3fh8lA": {
+      "video_id": "aQmgBcECjGQ",
+      "title": "【 ショートメン限 】こんにちは~~~お元気ですか~~【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-31T04:17:50.000Z",
+      "available_at": "2026-05-31T05:01:10.000Z",
+      "start_scheduled": "2026-05-31T05:00:00.000Z",
+      "start_actual": "2026-05-31T05:01:10.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "english_name": "Otonose Kanade",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC_vMYWcDjmfdpH6r4TTn1MQ": {
@@ -268,7 +269,7 @@
       "available_at": "2026-05-31T05:02:12.000Z",
       "start_scheduled": "2026-05-31T05:00:00.000Z",
       "start_actual": "2026-05-31T05:02:12.000Z",
-      "live_viewers": 2202,
+      "live_viewers": 2694,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
