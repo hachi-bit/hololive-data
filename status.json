@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780218319,
+  "cached_at": 1780218379,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "0bVyIg8FWRc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-31T01:40:35.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:40:35.000Z",
-      "live_viewers": 5716,
+      "live_viewers": 5682,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-31T06:58:58.000Z",
       "start_scheduled": "2026-05-31T07:00:00.000Z",
       "start_actual": "2026-05-31T06:58:58.000Z",
-      "live_viewers": 772,
+      "live_viewers": 755,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-31T08:04:53.000Z",
       "start_scheduled": "2026-05-31T08:00:00.000Z",
       "start_actual": "2026-05-31T08:04:53.000Z",
-      "live_viewers": 13213,
+      "live_viewers": 13174,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -79,25 +79,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "OsRHwYXjj38",
-      "title": "【歌枠】終活!最後の歌枠!【岸堂天真/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-31T07:25:17.000Z",
-      "available_at": "2026-05-31T09:00:00.000Z",
-      "start_scheduled": "2026-05-31T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCFTLzh12_nrtzqBPsTCqenA": {
@@ -119,25 +100,6 @@
         "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCKeAhJvy8zgXWbh9duVjIaQ": {
-      "video_id": "cU9gf9eI3lc",
-      "title": "【ストリートファイター6】18:00さらばガイル村！火を点けろ、燃え残った全てにSP→22:00 常闇祭2顔合わせ【アルランディス/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-05-31T06:01:22.000Z",
-      "available_at": "2026-05-31T09:00:00.000Z",
-      "start_scheduled": "2026-05-31T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
-        "name": "Aruran Ch. アルランディス",
-        "english_name": "Arurandeisu",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "nr_SeTA9U6k",
       "title": "#3【SFC】完全初見!ドラゴンクエストVI 幻の大地 ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
@@ -148,7 +110,7 @@
       "available_at": "2026-05-31T09:00:07.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:00:07.000Z",
-      "live_viewers": 7352,
+      "live_viewers": 10077,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -168,7 +130,7 @@
       "available_at": "2026-05-31T09:00:45.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:00:45.000Z",
-      "live_viewers": 1590,
+      "live_viewers": 2541,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -176,6 +138,46 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKeAhJvy8zgXWbh9duVjIaQ": {
+      "video_id": "cU9gf9eI3lc",
+      "title": "【ストリートファイター6】18:00さらばガイル村!火を点けろ、燃え残った全てにSP→22:00 常闇祭2顔合わせ【アルランディス/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-05-31T06:01:22.000Z",
+      "available_at": "2026-05-31T09:02:12.000Z",
+      "start_scheduled": "2026-05-31T09:00:00.000Z",
+      "start_actual": "2026-05-31T09:02:12.000Z",
+      "live_viewers": 2531,
+      "channel": {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "english_name": "Arurandeisu",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGNI4MENvnsymYjKiZwv9eg": {
+      "video_id": "OsRHwYXjj38",
+      "title": "【歌枠】終活!最後の歌枠!【岸堂天真/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-31T07:25:17.000Z",
+      "available_at": "2026-05-31T09:03:38.000Z",
+      "start_scheduled": "2026-05-31T09:00:00.000Z",
+      "start_actual": "2026-05-31T09:03:38.000Z",
+      "live_viewers": 293,
+      "channel": {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "english_name": "Kishido Temma",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
