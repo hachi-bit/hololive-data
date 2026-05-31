@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780189999,
+  "cached_at": 1780190058,
   "lives": {
     "UCngBjKSLC8IhPNagQCnf2LQ": {
       "video_id": "cG4KyNfG6RU",
@@ -11,33 +11,13 @@
       "available_at": "2026-05-30T21:03:40.000Z",
       "start_scheduled": "2026-05-30T21:15:00.000Z",
       "start_actual": "2026-05-30T21:03:40.000Z",
-      "live_viewers": 104,
+      "live_viewers": 92,
       "channel": {
         "id": "UCngBjKSLC8IhPNagQCnf2LQ",
         "name": "PorcelainMaid",
         "org": "Twitch Independents",
         "suborg": "msMSM Talent",
         "photo": "https://yt3.ggpht.com/V_qW11JAG3gdvRWKYAfmIKwJL88hyqCIJzqIGGzJYpDPfE4kGB7IxIO2JJ6jYx0q-eqXBkZGyQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1suqwovbL1kzsoaZgFZLKg": {
-      "video_id": "ONZ6aRjA_jM",
-      "title": "【Freetalk】早起き悪魔の朝ちょこ雑談📣 【ホロライブ/癒月ちょこ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-30T22:31:55.000Z",
-      "available_at": "2026-05-30T22:34:29.000Z",
-      "start_scheduled": "2026-05-30T22:30:00.000Z",
-      "start_actual": "2026-05-30T22:34:29.000Z",
-      "live_viewers": 828,
-      "channel": {
-        "id": "UC1suqwovbL1kzsoaZgFZLKg",
-        "name": "Choco Ch. 癒月ちょこ",
-        "english_name": "Yuzuki Choco",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCDHABijvPBnJm7F-KlNME3w": {
@@ -110,7 +90,7 @@
       "available_at": "2026-05-31T00:14:54.000Z",
       "start_scheduled": "2026-05-31T00:00:00.000Z",
       "start_actual": "2026-05-31T00:14:54.000Z",
-      "live_viewers": 546,
+      "live_viewers": 527,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -149,7 +129,7 @@
       "available_at": "2026-05-31T01:00:16.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:00:16.000Z",
-      "live_viewers": 5881,
+      "live_viewers": 6738,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -169,7 +149,7 @@
       "available_at": "2026-05-31T01:01:00.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:01:00.000Z",
-      "live_viewers": 517,
+      "live_viewers": 583,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -189,7 +169,7 @@
       "available_at": "2026-05-31T01:03:03.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:03:03.000Z",
-      "live_viewers": 1546,
+      "live_viewers": 1833,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
