@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780222398,
+  "cached_at": 1780222459,
   "lives": {
     "UCc88OV45ICgHbn3ZqLLb52w": {
       "video_id": "fNcwmyfNN6w",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-31T06:58:58.000Z",
       "start_scheduled": "2026-05-31T07:00:00.000Z",
       "start_actual": "2026-05-31T06:58:58.000Z",
-      "live_viewers": 761,
+      "live_viewers": 776,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-31T09:00:07.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:00:07.000Z",
-      "live_viewers": 26392,
+      "live_viewers": 26950,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCuI_opAVX6qbxZY-a-AxFuQ": {
-      "video_id": "g2_vHIBJDAk",
-      "title": "【検証/心拍測定】同期、いわば仕事仲間ですから、そんなドキドキなんてするわけが【虎金妃笑虎】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-05-30T19:01:10.000Z",
-      "available_at": "2026-05-31T09:00:45.000Z",
-      "start_scheduled": "2026-05-31T09:00:00.000Z",
-      "start_actual": "2026-05-31T09:00:45.000Z",
-      "live_viewers": 4823,
-      "channel": {
-        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-        "english_name": "Koganei Niko",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
@@ -131,7 +111,7 @@
       "available_at": "2026-05-31T09:03:38.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:03:38.000Z",
-      "live_viewers": 951,
+      "live_viewers": 965,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-31T09:06:29.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:06:29.000Z",
-      "live_viewers": 5894,
+      "live_viewers": 6022,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -211,7 +191,7 @@
       "available_at": "2026-05-31T10:00:13.000Z",
       "start_scheduled": "2026-05-31T10:00:00.000Z",
       "start_actual": "2026-05-31T10:00:13.000Z",
-      "live_viewers": 3552,
+      "live_viewers": 3680,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -231,7 +211,7 @@
       "available_at": "2026-05-31T10:02:51.000Z",
       "start_scheduled": "2026-05-31T10:00:00.000Z",
       "start_actual": "2026-05-31T10:02:51.000Z",
-      "live_viewers": 20099,
+      "live_viewers": 23711,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
