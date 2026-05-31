@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780203679,
+  "cached_at": 1780203739,
   "lives": {
     "UCngBjKSLC8IhPNagQCnf2LQ": {
       "video_id": "cG4KyNfG6RU",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-31T00:14:54.000Z",
       "start_scheduled": "2026-05-31T00:00:00.000Z",
       "start_actual": "2026-05-31T00:14:54.000Z",
-      "live_viewers": 440,
+      "live_viewers": 442,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-31T02:02:44.000Z",
       "start_scheduled": "2026-05-31T02:00:00.000Z",
       "start_actual": "2026-05-31T02:02:44.000Z",
-      "live_viewers": 463,
+      "live_viewers": 475,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -149,7 +149,7 @@
       "available_at": "2026-05-31T03:01:06.000Z",
       "start_scheduled": "2026-05-31T03:00:00.000Z",
       "start_actual": "2026-05-31T03:01:06.000Z",
-      "live_viewers": 617,
+      "live_viewers": 601,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -189,7 +189,7 @@
       "available_at": "2026-05-31T04:32:35.000Z",
       "start_scheduled": "2026-05-31T04:30:00.000Z",
       "start_actual": "2026-05-31T04:32:35.000Z",
-      "live_viewers": 7099,
+      "live_viewers": 9655,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -217,6 +217,64 @@
         "org": "Hololive",
         "suborg": "0v0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_vMYWcDjmfdpH6r4TTn1MQ": {
+      "video_id": "Rrslk1buHLY",
+      "title": "【トモダチコレクション】恋愛大乱闘島になり果てたオデの楽園🏝【風真いろは/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Tomodachi_Life",
+      "published_at": "2026-05-30T06:59:15.000Z",
+      "available_at": "2026-05-31T05:00:00.000Z",
+      "start_scheduled": "2026-05-31T05:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "name": "Iroha ch. 風真いろは - holoX -",
+        "english_name": "Kazama Iroha",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCWQtYtq9EOB4-I5P-3fh8lA": {
+      "video_id": "aQmgBcECjGQ",
+      "title": "【 ショートメン限 】こんにちは~~~お元気ですか~~【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-05-31T04:17:50.000Z",
+      "available_at": "2026-05-31T05:00:00.000Z",
+      "start_scheduled": "2026-05-31T05:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "english_name": "Otonose Kanade",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "LqKWcnNMCRo",
+      "title": "【日本ダービー】2026年 日本ダービーで大勝する!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Horse_racing",
+      "published_at": "2026-05-30T15:12:52.000Z",
+      "available_at": "2026-05-31T05:00:14.000Z",
+      "start_scheduled": "2026-05-31T05:00:00.000Z",
+      "start_actual": "2026-05-31T05:00:14.000Z",
+      "live_viewers": 3046,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
