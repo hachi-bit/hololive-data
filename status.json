@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780191199,
+  "cached_at": 1780191259,
   "lives": {
     "UCngBjKSLC8IhPNagQCnf2LQ": {
       "video_id": "cG4KyNfG6RU",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-30T21:03:40.000Z",
       "start_scheduled": "2026-05-30T21:15:00.000Z",
       "start_actual": "2026-05-30T21:03:40.000Z",
-      "live_viewers": 94,
+      "live_viewers": 103,
       "channel": {
         "id": "UCngBjKSLC8IhPNagQCnf2LQ",
         "name": "PorcelainMaid",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-30T23:10:06.000Z",
       "start_scheduled": "2026-05-30T23:00:00.000Z",
       "start_actual": "2026-05-30T23:10:06.000Z",
-      "live_viewers": 6545,
+      "live_viewers": 6688,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -129,7 +129,7 @@
       "available_at": "2026-05-31T01:01:00.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:01:00.000Z",
-      "live_viewers": 825,
+      "live_viewers": 884,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -149,7 +149,7 @@
       "available_at": "2026-05-31T01:03:03.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:03:03.000Z",
-      "live_viewers": 2495,
+      "live_viewers": 2690,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
