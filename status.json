@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780235779,
+  "cached_at": 1780235839,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "nr_SeTA9U6k",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-31T09:00:07.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:00:07.000Z",
-      "live_viewers": 29473,
+      "live_viewers": 25515,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-31T09:02:12.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:02:12.000Z",
-      "live_viewers": 1698,
+      "live_viewers": 1725,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC3OH5FKQ3qtl4uRme_vZTgA": {
-      "video_id": "NSQTp3BIR5Y",
-      "title": "【ピアノ弾く】今日はたくさん演奏します!!【 #UNIT_B / #玲銘ミラ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Musical_Instrument",
-      "published_at": "2026-05-31T10:37:04.000Z",
-      "available_at": "2026-05-31T10:59:38.000Z",
-      "start_scheduled": "2026-05-31T11:00:00.000Z",
-      "start_actual": "2026-05-31T10:59:38.000Z",
-      "live_viewers": 7769,
-      "channel": {
-        "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
-        "name": "UNIT B (Pre-Debut) - mekPark",
-        "english_name": "UNIT B [Pre-Debut]",
-        "org": "Hololive",
-        "suborg": "v_mekPark",
-        "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC0TXe_LYZ4scaW2XMyi5_kw": {
@@ -71,7 +51,7 @@
       "available_at": "2026-05-31T11:01:02.000Z",
       "start_scheduled": "2026-05-31T11:00:00.000Z",
       "start_actual": "2026-05-31T11:01:02.000Z",
-      "live_viewers": 11932,
+      "live_viewers": 11906,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -130,7 +110,7 @@
       "available_at": "2026-05-31T12:04:13.000Z",
       "start_scheduled": "2026-05-31T12:00:00.000Z",
       "start_actual": "2026-05-31T12:04:13.000Z",
-      "live_viewers": 305,
+      "live_viewers": 292,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -150,7 +130,7 @@
       "available_at": "2026-05-31T12:06:17.000Z",
       "start_scheduled": "2026-05-31T12:00:00.000Z",
       "start_actual": "2026-05-31T12:06:17.000Z",
-      "live_viewers": 12191,
+      "live_viewers": 12434,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -170,7 +150,7 @@
       "available_at": "2026-05-31T12:16:35.000Z",
       "start_scheduled": "2026-05-31T12:15:00.000Z",
       "start_actual": "2026-05-31T12:16:35.000Z",
-      "live_viewers": 32240,
+      "live_viewers": 32047,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -230,7 +210,7 @@
       "available_at": "2026-05-31T13:00:28.000Z",
       "start_scheduled": "2026-05-31T13:00:00.000Z",
       "start_actual": "2026-05-31T13:00:28.000Z",
-      "live_viewers": 248,
+      "live_viewers": 257,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -270,7 +250,7 @@
       "available_at": "2026-05-31T13:01:26.000Z",
       "start_scheduled": "2026-05-31T13:00:00.000Z",
       "start_actual": "2026-05-31T13:01:26.000Z",
-      "live_viewers": 2975,
+      "live_viewers": 3048,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
