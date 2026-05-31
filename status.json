@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780216399,
+  "cached_at": 1780216459,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "0bVyIg8FWRc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-31T01:40:35.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:40:35.000Z",
-      "live_viewers": 7673,
+      "live_viewers": 7104,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-31T04:07:52.000Z",
       "start_scheduled": "2026-05-31T04:00:00.000Z",
       "start_actual": "2026-05-31T04:07:52.000Z",
-      "live_viewers": 27578,
+      "live_viewers": 21714,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC_vMYWcDjmfdpH6r4TTn1MQ": {
-      "video_id": "Rrslk1buHLY",
-      "title": "【トモダチコレクション】恋愛大乱闘島になり果てたオデの楽園🏝【風真いろは/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Tomodachi_Life",
-      "published_at": "2026-05-30T06:59:15.000Z",
-      "available_at": "2026-05-31T05:02:12.000Z",
-      "start_scheduled": "2026-05-31T05:00:00.000Z",
-      "start_actual": "2026-05-31T05:02:12.000Z",
-      "live_viewers": 6816,
-      "channel": {
-        "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "name": "Iroha ch. 風真いろは - holoX -",
-        "english_name": "Kazama Iroha",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC2hx0xVkMoHGWijwr_lA01w": {
@@ -71,7 +51,7 @@
       "available_at": "2026-05-31T05:17:19.000Z",
       "start_scheduled": "2026-05-31T05:15:00.000Z",
       "start_actual": "2026-05-31T05:17:19.000Z",
-      "live_viewers": 560,
+      "live_viewers": 551,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-31T06:01:46.000Z",
       "start_scheduled": "2026-05-31T06:00:00.000Z",
       "start_actual": "2026-05-31T06:01:46.000Z",
-      "live_viewers": 535,
+      "live_viewers": 500,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-31T08:04:53.000Z",
       "start_scheduled": "2026-05-31T08:00:00.000Z",
       "start_actual": "2026-05-31T08:04:53.000Z",
-      "live_viewers": 8096,
+      "live_viewers": 8614,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
