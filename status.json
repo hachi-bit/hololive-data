@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780243279,
+  "cached_at": 1780243339,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "KX5dcZ45fXc",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-31T14:04:39.000Z",
       "start_scheduled": "2026-05-31T14:00:00.000Z",
       "start_actual": "2026-05-31T14:04:39.000Z",
-      "live_viewers": 2752,
+      "live_viewers": 2804,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -118,26 +118,6 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCFTLzh12_nrtzqBPsTCqenA": {
-      "video_id": "jPY-nCTHYI0",
-      "title": "【雑談-Free Talk-】8周年カウントダウンいっしょに迎えたい!【アキロゼ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-05-31T13:21:55.000Z",
-      "available_at": "2026-05-31T14:33:37.000Z",
-      "start_scheduled": "2026-05-31T14:30:00.000Z",
-      "start_actual": "2026-05-31T14:33:37.000Z",
-      "live_viewers": 7230,
-      "channel": {
-        "id": "UCFTLzh12_nrtzqBPsTCqenA",
-        "name": "アキロゼCh。Vtuber/ホロライブ所属",
-        "english_name": "Aki Rosenthal",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
