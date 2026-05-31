@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780207278,
+  "cached_at": 1780207339,
   "lives": {
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "50XMtf8Wa_I",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-31T00:01:27.000Z",
       "start_scheduled": "2026-05-31T00:00:00.000Z",
       "start_actual": "2026-05-31T00:01:27.000Z",
-      "live_viewers": 10460,
+      "live_viewers": 10665,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-31T02:02:44.000Z",
       "start_scheduled": "2026-05-31T02:00:00.000Z",
       "start_actual": "2026-05-31T02:02:44.000Z",
-      "live_viewers": 748,
+      "live_viewers": 700,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -90,7 +90,7 @@
       "available_at": "2026-05-31T04:07:52.000Z",
       "start_scheduled": "2026-05-31T04:00:00.000Z",
       "start_actual": "2026-05-31T04:07:52.000Z",
-      "live_viewers": 24249,
+      "live_viewers": 25643,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-31T04:32:35.000Z",
       "start_scheduled": "2026-05-31T04:30:00.000Z",
       "start_actual": "2026-05-31T04:32:35.000Z",
-      "live_viewers": 11266,
+      "live_viewers": 11188,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -150,7 +150,7 @@
       "available_at": "2026-05-31T05:00:14.000Z",
       "start_scheduled": "2026-05-31T05:00:00.000Z",
       "start_actual": "2026-05-31T05:00:14.000Z",
-      "live_viewers": 17280,
+      "live_viewers": 17564,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -170,7 +170,7 @@
       "available_at": "2026-05-31T05:02:12.000Z",
       "start_scheduled": "2026-05-31T05:00:00.000Z",
       "start_actual": "2026-05-31T05:02:12.000Z",
-      "live_viewers": 5421,
+      "live_viewers": 5438,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -190,7 +190,7 @@
       "available_at": "2026-05-31T05:17:19.000Z",
       "start_scheduled": "2026-05-31T05:15:00.000Z",
       "start_actual": "2026-05-31T05:17:19.000Z",
-      "live_viewers": 219,
+      "live_viewers": 222,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -210,7 +210,7 @@
       "available_at": "2026-05-31T05:32:03.000Z",
       "start_scheduled": "2026-05-31T05:30:00.000Z",
       "start_actual": "2026-05-31T05:32:03.000Z",
-      "live_viewers": 2586,
+      "live_viewers": 2676,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -218,6 +218,25 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCc88OV45ICgHbn3ZqLLb52w": {
+      "video_id": "fNcwmyfNN6w",
+      "title": "1冊も残さず片付けるまで、絶対に終われない配信【司書のお仕事：魔導図書館を片付けろ!】- 夜十神封魔",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Librarian:_Tidy_Up_the_Arcane_Library!",
+      "published_at": "2026-05-30T23:02:08.000Z",
+      "available_at": "2026-05-31T06:00:00.000Z",
+      "start_scheduled": "2026-05-31T06:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCc88OV45ICgHbn3ZqLLb52w",
+        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+        "english_name": "Yatogami Fuma",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/wHtqHQ5LdCv_PnI-EeHUoedJgOe-fQcv9Fhkb7cod7oTo-f3rKJBJA0xSsVS4BhO9HnShdrnBA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
