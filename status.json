@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780251919,
+  "cached_at": 1780251979,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "KX5dcZ45fXc",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-31T12:04:13.000Z",
       "start_scheduled": "2026-05-31T12:00:00.000Z",
       "start_actual": "2026-05-31T12:04:13.000Z",
-      "live_viewers": 436,
+      "live_viewers": 434,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -38,26 +38,6 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCP0BspO_AMEe3aQqqpo89Dg": {
-      "video_id": "-pxHgQmIqww",
-      "title": "【Paralives】The game that i've been waiting for finally here!【hololive | moona】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-31T13:26:39.000Z",
-      "available_at": "2026-05-31T14:04:39.000Z",
-      "start_scheduled": "2026-05-31T14:00:00.000Z",
-      "start_actual": "2026-05-31T14:04:39.000Z",
-      "live_viewers": 3029,
-      "channel": {
-        "id": "UCP0BspO_AMEe3aQqqpo89Dg",
-        "name": "Moona Hoshinova hololive-ID",
-        "english_name": "Moona Hoshinova",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
@@ -70,7 +50,7 @@
       "available_at": "2026-05-31T17:21:25.000Z",
       "start_scheduled": "2026-05-31T17:15:00.000Z",
       "start_actual": "2026-05-31T17:21:25.000Z",
-      "live_viewers": 307,
+      "live_viewers": 331,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
