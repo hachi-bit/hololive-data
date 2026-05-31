@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780225339,
+  "cached_at": 1780225400,
   "lives": {
     "UCc88OV45ICgHbn3ZqLLb52w": {
       "video_id": "fNcwmyfNN6w",
@@ -51,7 +51,7 @@
       "available_at": "2026-05-31T09:00:07.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:00:07.000Z",
-      "live_viewers": 30343,
+      "live_viewers": 30581,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -71,7 +71,7 @@
       "available_at": "2026-05-31T09:02:12.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:02:12.000Z",
-      "live_viewers": 4142,
+      "live_viewers": 4013,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-31T09:06:29.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:06:29.000Z",
-      "live_viewers": 5042,
+      "live_viewers": 5010,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -179,6 +179,64 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC3OH5FKQ3qtl4uRme_vZTgA": {
+      "video_id": "NSQTp3BIR5Y",
+      "title": "【ピアノ弾く】今日はたくさん演奏します!!【 #UNIT_B / #玲銘ミラ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-31T10:37:04.000Z",
+      "available_at": "2026-05-31T10:59:38.000Z",
+      "start_scheduled": "2026-05-31T11:00:00.000Z",
+      "start_actual": "2026-05-31T10:59:38.000Z",
+      "live_viewers": 1023,
+      "channel": {
+        "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
+        "name": "UNIT B (Pre-Debut) - mekPark",
+        "english_name": "UNIT B [Pre-Debut]",
+        "org": "Hololive",
+        "suborg": "v_mekPark",
+        "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC0TXe_LYZ4scaW2XMyi5_kw": {
+      "video_id": "a0IyzR1zgAA",
+      "title": "【クロノ・トリガー】最終回!完全初見!時を超える名作RPG、はじめます―― #7【ホロライブ / AZKi】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Chrono_Trigger",
+      "published_at": "2026-05-31T07:47:25.000Z",
+      "available_at": "2026-05-31T11:00:00.000Z",
+      "start_scheduled": "2026-05-31T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+        "name": "AZKi Channel",
+        "english_name": "AZKi",
+        "org": "Hololive",
+        "suborg": "0z0th Generation",
+        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+      "video_id": "4rjmACpiI2c",
+      "title": "【運ゲー】第五回 サイコロ9個ゾロ目出す2時間配信。【白上フブキ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-31T03:25:36.000Z",
+      "available_at": "2026-05-31T11:00:00.000Z",
+      "start_scheduled": "2026-05-31T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "name": "フブキCh。白上フブキ",
+        "english_name": "Shirakami Fubuki",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
