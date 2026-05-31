@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780190899,
+  "cached_at": 1780190959,
   "lives": {
     "UCngBjKSLC8IhPNagQCnf2LQ": {
       "video_id": "cG4KyNfG6RU",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-30T23:10:06.000Z",
       "start_scheduled": "2026-05-30T23:00:00.000Z",
       "start_actual": "2026-05-30T23:10:06.000Z",
-      "live_viewers": 6542,
+      "live_viewers": 6545,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -50,7 +50,7 @@
       "available_at": "2026-05-31T00:01:27.000Z",
       "start_scheduled": "2026-05-31T00:00:00.000Z",
       "start_actual": "2026-05-31T00:01:27.000Z",
-      "live_viewers": 6385,
+      "live_viewers": 6279,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-31T00:14:54.000Z",
       "start_scheduled": "2026-05-31T00:00:00.000Z",
       "start_actual": "2026-05-31T00:14:54.000Z",
-      "live_viewers": 528,
+      "live_viewers": 539,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -109,7 +109,7 @@
       "available_at": "2026-05-31T01:00:16.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:00:16.000Z",
-      "live_viewers": 8550,
+      "live_viewers": 8990,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -129,7 +129,7 @@
       "available_at": "2026-05-31T01:01:00.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:01:00.000Z",
-      "live_viewers": 801,
+      "live_viewers": 810,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -149,7 +149,7 @@
       "available_at": "2026-05-31T01:03:03.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:03:03.000Z",
-      "live_viewers": 2266,
+      "live_viewers": 2448,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
