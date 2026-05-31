@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780239559,
+  "cached_at": 1780239635,
   "lives": {
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
       "video_id": "cU9gf9eI3lc",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-31T11:01:02.000Z",
       "start_scheduled": "2026-05-31T11:00:00.000Z",
       "start_actual": "2026-05-31T11:01:02.000Z",
-      "live_viewers": 11865,
+      "live_viewers": 10826,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -145,7 +145,7 @@
       "title": "【ストリートファイター6】テリー修行なのじゃが?【荒咬オウガ /ホロスターズ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "Street_Fighter",
       "published_at": "2026-05-31T11:18:51.000Z",
       "available_at": "2026-05-31T13:00:28.000Z",
       "start_scheduled": "2026-05-31T13:00:00.000Z",
@@ -250,7 +250,7 @@
       "available_at": "2026-05-31T14:33:37.000Z",
       "start_scheduled": "2026-05-31T14:30:00.000Z",
       "start_actual": "2026-05-31T14:33:37.000Z",
-      "live_viewers": 5398,
+      "live_viewers": 5692,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
