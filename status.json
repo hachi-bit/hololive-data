@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780218498,
+  "cached_at": 1780218559,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "0bVyIg8FWRc",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-31T01:40:35.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:40:35.000Z",
-      "live_viewers": 5682,
+      "live_viewers": 5611,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-31T06:01:46.000Z",
       "start_scheduled": "2026-05-31T06:00:00.000Z",
       "start_actual": "2026-05-31T06:01:46.000Z",
-      "live_viewers": 570,
+      "live_viewers": 541,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -81,25 +81,6 @@
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCFTLzh12_nrtzqBPsTCqenA": {
-      "video_id": "9bxULgaPqHs",
-      "title": "【 STREET FIGHTER 6】ガイル村決起集会!!!!!!【アキロゼ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-31T08:50:59.000Z",
-      "available_at": "2026-05-31T09:00:00.000Z",
-      "start_scheduled": "2026-05-31T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCFTLzh12_nrtzqBPsTCqenA",
-        "name": "アキロゼCh。Vtuber/ホロライブ所属",
-        "english_name": "Aki Rosenthal",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "nr_SeTA9U6k",
       "title": "#3【SFC】完全初見!ドラゴンクエストVI 幻の大地 ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
@@ -110,7 +91,7 @@
       "available_at": "2026-05-31T09:00:07.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:00:07.000Z",
-      "live_viewers": 10077,
+      "live_viewers": 11923,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -130,7 +111,7 @@
       "available_at": "2026-05-31T09:00:45.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:00:45.000Z",
-      "live_viewers": 2541,
+      "live_viewers": 3508,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -150,7 +131,7 @@
       "available_at": "2026-05-31T09:02:12.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:02:12.000Z",
-      "live_viewers": 2531,
+      "live_viewers": 3502,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -170,7 +151,7 @@
       "available_at": "2026-05-31T09:03:38.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:03:38.000Z",
-      "live_viewers": 293,
+      "live_viewers": 474,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -178,6 +159,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFTLzh12_nrtzqBPsTCqenA": {
+      "video_id": "9bxULgaPqHs",
+      "title": "【 STREET FIGHTER 6】ガイル村決起集会!!!!!!【アキロゼ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-31T08:50:59.000Z",
+      "available_at": "2026-05-31T09:06:29.000Z",
+      "start_scheduled": "2026-05-31T09:00:00.000Z",
+      "start_actual": "2026-05-31T09:06:29.000Z",
+      "live_viewers": 1617,
+      "channel": {
+        "id": "UCFTLzh12_nrtzqBPsTCqenA",
+        "name": "アキロゼCh。Vtuber/ホロライブ所属",
+        "english_name": "Aki Rosenthal",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
