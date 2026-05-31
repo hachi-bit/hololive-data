@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780192338,
+  "cached_at": 1780192399,
   "lives": {
     "UCngBjKSLC8IhPNagQCnf2LQ": {
       "video_id": "cG4KyNfG6RU",
@@ -18,26 +18,6 @@
         "org": "Twitch Independents",
         "suborg": "msMSM Talent",
         "photo": "https://yt3.ggpht.com/V_qW11JAG3gdvRWKYAfmIKwJL88hyqCIJzqIGGzJYpDPfE4kGB7IxIO2JJ6jYx0q-eqXBkZGyQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvN5h1ShZtc7nly3pezRayg": {
-      "video_id": "PryFPuyr9Lg",
-      "title": "【GUERILLA】I have awakened~ what shall we do...",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "zelda",
-      "published_at": "2026-05-30T22:26:20.000Z",
-      "available_at": "2026-05-30T23:10:06.000Z",
-      "start_scheduled": "2026-05-30T23:00:00.000Z",
-      "start_actual": "2026-05-30T23:10:06.000Z",
-      "live_viewers": 5787,
-      "channel": {
-        "id": "UCvN5h1ShZtc7nly3pezRayg",
-        "name": "Cecilia Immergreen Ch. hololive-EN",
-        "english_name": "Cecilia Immergreen",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
@@ -90,7 +70,7 @@
       "available_at": "2026-05-31T01:00:16.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:00:16.000Z",
-      "live_viewers": 10220,
+      "live_viewers": 10402,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -130,7 +110,7 @@
       "available_at": "2026-05-31T01:03:03.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:03:03.000Z",
-      "live_viewers": 2741,
+      "live_viewers": 3085,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -150,7 +130,7 @@
       "available_at": "2026-05-31T01:40:35.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:40:35.000Z",
-      "live_viewers": 6578,
+      "live_viewers": 8452,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
