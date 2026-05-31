@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780241059,
+  "cached_at": 1780241121,
   "lives": {
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
       "video_id": "cU9gf9eI3lc",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-31T11:01:02.000Z",
       "start_scheduled": "2026-05-31T11:00:00.000Z",
       "start_actual": "2026-05-31T11:01:02.000Z",
-      "live_viewers": 6496,
+      "live_viewers": 7178,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -140,26 +140,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "03Czx2QWb5U",
-      "title": "【ストリートファイター6】テリー修行なのじゃが?【荒咬オウガ /ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-05-31T11:18:51.000Z",
-      "available_at": "2026-05-31T13:00:28.000Z",
-      "start_scheduled": "2026-05-31T13:00:00.000Z",
-      "start_actual": "2026-05-31T13:00:28.000Z",
-      "live_viewers": 269,
-      "channel": {
-        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "name": "Oga Ch.荒咬オウガ",
-        "english_name": "Aragami Oga",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCYz_5n-uDuChHtLo7My1HnQ": {
       "video_id": "kN4rphxJiMw",
       "title": "【ZOMILY - FREETALK】 PROFESSIONAL YAPPER!! MAYBE- IDK- 【Kureiji Ollie】",
@@ -178,26 +158,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
-      "video_id": "cEsgxdmTLy4",
-      "title": "【飲酒マリオカ】オフコラボすうりおで爆走💨【水宮枢/ホロライブDEV_IS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mario_Kart",
-      "published_at": "2026-05-31T07:59:15.000Z",
-      "available_at": "2026-05-31T14:01:10.000Z",
-      "start_scheduled": "2026-05-31T14:00:00.000Z",
-      "start_actual": "2026-05-31T14:01:10.000Z",
-      "live_viewers": 18161,
-      "channel": {
-        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-        "name": "Su Ch. 水宮枢 - FLOW GLOW",
-        "english_name": "Mizumiya Su",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCP0BspO_AMEe3aQqqpo89Dg": {
@@ -250,7 +210,7 @@
       "available_at": "2026-05-31T14:33:37.000Z",
       "start_scheduled": "2026-05-31T14:30:00.000Z",
       "start_actual": "2026-05-31T14:33:37.000Z",
-      "live_viewers": 6194,
+      "live_viewers": 6809,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
