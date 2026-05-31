@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780204278,
+  "cached_at": 1780204339,
   "lives": {
     "UCngBjKSLC8IhPNagQCnf2LQ": {
       "video_id": "cG4KyNfG6RU",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-31T00:01:27.000Z",
       "start_scheduled": "2026-05-31T00:00:00.000Z",
       "start_actual": "2026-05-31T00:01:27.000Z",
-      "live_viewers": 7835,
+      "live_viewers": 8012,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -38,26 +38,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCajbFh6e_R8QZdHAMbbi4rQ": {
-      "video_id": "kPGSsZzb1sk",
-      "title": "World Building 202: w/ Lan Philia and PorcelainMaid!【MAPPA IMPERIUM】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-30T01:08:04.000Z",
-      "available_at": "2026-05-31T00:14:54.000Z",
-      "start_scheduled": "2026-05-31T00:00:00.000Z",
-      "start_actual": "2026-05-31T00:14:54.000Z",
-      "live_viewers": 442,
-      "channel": {
-        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-        "english_name": "Crimzon Ruze",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
@@ -70,7 +50,7 @@
       "available_at": "2026-05-31T01:40:35.000Z",
       "start_scheduled": "2026-05-31T01:00:00.000Z",
       "start_actual": "2026-05-31T01:40:35.000Z",
-      "live_viewers": 11864,
+      "live_viewers": 11549,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -90,7 +70,7 @@
       "available_at": "2026-05-31T02:02:44.000Z",
       "start_scheduled": "2026-05-31T02:00:00.000Z",
       "start_actual": "2026-05-31T02:02:44.000Z",
-      "live_viewers": 471,
+      "live_viewers": 477,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -110,7 +90,7 @@
       "available_at": "2026-05-31T02:02:53.000Z",
       "start_scheduled": "2026-05-31T02:00:00.000Z",
       "start_actual": "2026-05-31T02:02:53.000Z",
-      "live_viewers": 3744,
+      "live_viewers": 3605,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -169,7 +149,7 @@
       "available_at": "2026-05-31T04:07:52.000Z",
       "start_scheduled": "2026-05-31T04:00:00.000Z",
       "start_actual": "2026-05-31T04:07:52.000Z",
-      "live_viewers": 23048,
+      "live_viewers": 22774,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -189,7 +169,7 @@
       "available_at": "2026-05-31T04:32:35.000Z",
       "start_scheduled": "2026-05-31T04:30:00.000Z",
       "start_actual": "2026-05-31T04:32:35.000Z",
-      "live_viewers": 9656,
+      "live_viewers": 9899,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -209,7 +189,7 @@
       "available_at": "2026-05-31T04:33:00.000Z",
       "start_scheduled": "2026-05-31T04:30:00.000Z",
       "start_actual": "2026-05-31T04:33:00.000Z",
-      "live_viewers": 3467,
+      "live_viewers": 3369,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -229,7 +209,7 @@
       "available_at": "2026-05-31T05:00:14.000Z",
       "start_scheduled": "2026-05-31T05:00:00.000Z",
       "start_actual": "2026-05-31T05:00:14.000Z",
-      "live_viewers": 7936,
+      "live_viewers": 9467,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -269,7 +249,7 @@
       "available_at": "2026-05-31T05:02:12.000Z",
       "start_scheduled": "2026-05-31T05:00:00.000Z",
       "start_actual": "2026-05-31T05:02:12.000Z",
-      "live_viewers": 2694,
+      "live_viewers": 3094,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
