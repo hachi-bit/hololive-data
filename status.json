@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780222579,
+  "cached_at": 1780222639,
   "lives": {
     "UCc88OV45ICgHbn3ZqLLb52w": {
       "video_id": "fNcwmyfNN6w",
@@ -11,7 +11,7 @@
       "available_at": "2026-05-31T06:01:46.000Z",
       "start_scheduled": "2026-05-31T06:00:00.000Z",
       "start_actual": "2026-05-31T06:01:46.000Z",
-      "live_viewers": 441,
+      "live_viewers": 438,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -31,7 +31,7 @@
       "available_at": "2026-05-31T06:58:58.000Z",
       "start_scheduled": "2026-05-31T07:00:00.000Z",
       "start_actual": "2026-05-31T06:58:58.000Z",
-      "live_viewers": 776,
+      "live_viewers": 755,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -91,7 +91,7 @@
       "available_at": "2026-05-31T09:02:12.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:02:12.000Z",
-      "live_viewers": 5113,
+      "live_viewers": 4964,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -191,7 +191,7 @@
       "available_at": "2026-05-31T10:00:13.000Z",
       "start_scheduled": "2026-05-31T10:00:00.000Z",
       "start_actual": "2026-05-31T10:00:13.000Z",
-      "live_viewers": 3680,
+      "live_viewers": 3938,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -211,7 +211,7 @@
       "available_at": "2026-05-31T10:02:51.000Z",
       "start_scheduled": "2026-05-31T10:00:00.000Z",
       "start_actual": "2026-05-31T10:02:51.000Z",
-      "live_viewers": 23711,
+      "live_viewers": 26903,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -219,6 +219,25 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "oLMhUSh8C8w",
+      "title": "THE ONE & ONLY 打ち上げカラオケ🎵【 #⁠響咲リオナ生誕祭2026】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-05-31T04:48:31.000Z",
+      "available_at": "2026-05-31T10:15:00.000Z",
+      "start_scheduled": "2026-05-31T10:15:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
