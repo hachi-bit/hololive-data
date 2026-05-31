@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780219399,
+  "cached_at": 1780219459,
   "lives": {
-    "UC9p_lqQ0FEDz327Vgf5JwqA": {
-      "video_id": "0bVyIg8FWRc",
-      "title": "【Forza Horizon 6】Uh i dont know how to drive",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Forza",
-      "published_at": "2026-05-30T17:39:23.000Z",
-      "available_at": "2026-05-31T01:40:35.000Z",
-      "start_scheduled": "2026-05-31T01:00:00.000Z",
-      "start_actual": "2026-05-31T01:40:35.000Z",
-      "live_viewers": 5256,
-      "channel": {
-        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-        "name": "Koseki Bijou Ch. hololive-EN",
-        "english_name": "Koseki Bijou",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCc88OV45ICgHbn3ZqLLb52w": {
       "video_id": "fNcwmyfNN6w",
       "title": "1冊も残さず片付けるまで、絶対に終われない配信【司書のお仕事：魔導図書館を片付けろ!】- 夜十神封魔",
@@ -51,7 +31,7 @@
       "available_at": "2026-05-31T06:58:58.000Z",
       "start_scheduled": "2026-05-31T07:00:00.000Z",
       "start_actual": "2026-05-31T06:58:58.000Z",
-      "live_viewers": 738,
+      "live_viewers": 760,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -91,7 +71,7 @@
       "available_at": "2026-05-31T09:00:07.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:00:07.000Z",
-      "live_viewers": 18599,
+      "live_viewers": 20292,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +91,7 @@
       "available_at": "2026-05-31T09:00:45.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:00:45.000Z",
-      "live_viewers": 5210,
+      "live_viewers": 5399,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -131,7 +111,7 @@
       "available_at": "2026-05-31T09:02:12.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:02:12.000Z",
-      "live_viewers": 4725,
+      "live_viewers": 4584,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -151,7 +131,7 @@
       "available_at": "2026-05-31T09:03:38.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:03:38.000Z",
-      "live_viewers": 645,
+      "live_viewers": 745,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -171,7 +151,7 @@
       "available_at": "2026-05-31T09:06:29.000Z",
       "start_scheduled": "2026-05-31T09:00:00.000Z",
       "start_actual": "2026-05-31T09:06:29.000Z",
-      "live_viewers": 4055,
+      "live_viewers": 4348,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
