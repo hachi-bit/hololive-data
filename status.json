@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780189339,
+  "cached_at": 1780189399,
   "lives": {
     "UCngBjKSLC8IhPNagQCnf2LQ": {
       "video_id": "cG4KyNfG6RU",
@@ -30,7 +30,7 @@
       "available_at": "2026-05-30T22:34:29.000Z",
       "start_scheduled": "2026-05-30T22:30:00.000Z",
       "start_actual": "2026-05-30T22:34:29.000Z",
-      "live_viewers": 4858,
+      "live_viewers": 4833,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
@@ -70,7 +70,7 @@
       "available_at": "2026-05-30T23:10:06.000Z",
       "start_scheduled": "2026-05-30T23:00:00.000Z",
       "start_actual": "2026-05-30T23:10:06.000Z",
-      "live_viewers": 6541,
+      "live_viewers": 6344,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -110,7 +110,7 @@
       "available_at": "2026-05-31T00:14:54.000Z",
       "start_scheduled": "2026-05-31T00:00:00.000Z",
       "start_actual": "2026-05-31T00:14:54.000Z",
-      "live_viewers": 544,
+      "live_viewers": 541,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -118,6 +118,83 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCDqI2jOz0weumE8s7paEk6g": {
+      "video_id": "N_kV4Ke49js",
+      "title": "【 歌枠】NO24.寝起きなのでもぐもぐ雑談してから🎤ろぼめろでぃ~ RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-30T12:52:08.000Z",
+      "available_at": "2026-05-31T01:00:00.000Z",
+      "start_scheduled": "2026-05-31T01:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCDqI2jOz0weumE8s7paEk6g",
+        "name": "Roboco Ch. - ロボ子",
+        "english_name": "Robocosan",
+        "org": "Hololive",
+        "suborg": "0w0th Generation",
+        "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9p_lqQ0FEDz327Vgf5JwqA": {
+      "video_id": "0bVyIg8FWRc",
+      "title": "【Forza Horizon 6】Uh i dont know how to drive",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-05-30T17:39:23.000Z",
+      "available_at": "2026-05-31T01:00:00.000Z",
+      "start_scheduled": "2026-05-31T01:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+        "name": "Koseki Bijou Ch. hololive-EN",
+        "english_name": "Koseki Bijou",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCYz_5n-uDuChHtLo7My1HnQ": {
+      "video_id": "NAW_i4ZrErI",
+      "title": "【FREETALK】 THIS ZOMBIE WAS A TOUR GUIDE!! DID YOU KNOW~? 【Kureiji Ollie】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-05-30T13:33:36.000Z",
+      "available_at": "2026-05-31T01:00:00.000Z",
+      "start_scheduled": "2026-05-31T01:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+        "name": "Kureiji Ollie Ch. hololive-ID",
+        "english_name": "Kureiji Ollie",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdyqAaZDKHXg4Ahi7VENThQ": {
+      "video_id": "UZaTx_F_kFE",
+      "title": "【朝活雑談】母上と1泊2日のプチ旅行したりホロメンとご飯にいった話!【白銀ノエル/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "morning",
+      "published_at": "2026-05-30T14:16:14.000Z",
+      "available_at": "2026-05-31T01:00:16.000Z",
+      "start_scheduled": "2026-05-31T01:00:00.000Z",
+      "start_actual": "2026-05-31T01:00:16.000Z",
+      "live_viewers": 1584,
+      "channel": {
+        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+        "name": "Noel Ch. 白銀ノエル",
+        "english_name": "Shirogane Noel",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
