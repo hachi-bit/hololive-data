@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780279279,
+  "cached_at": 1780279339,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "KX5dcZ45fXc",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-01T00:55:40.000Z",
       "start_scheduled": "2026-06-01T01:00:00.000Z",
       "start_actual": "2026-06-01T00:55:40.000Z",
-      "live_viewers": 5564,
+      "live_viewers": 5785,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-01T01:03:42.000Z",
       "start_scheduled": "2026-06-01T01:00:00.000Z",
       "start_actual": "2026-06-01T01:03:42.000Z",
-      "live_viewers": 4607,
+      "live_viewers": 4656,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -58,6 +58,26 @@
         "org": "Hololive",
         "suborg": "ibEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7gxU6NXjKF1LrgOddPzgTw": {
+      "video_id": "JgDDuSSESbE",
+      "title": "【HANDCAM】WHO CAME FIRST THE CHICKEN OR THE- YOU KNOW WHAT OYAKODON TIME 🐣🥚✨【HAKKAFE SPECIAL】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-31T14:31:06.000Z",
+      "available_at": "2026-06-01T01:58:52.000Z",
+      "start_scheduled": "2026-06-01T02:00:00.000Z",
+      "start_actual": "2026-06-01T01:58:52.000Z",
+      "live_viewers": 171,
+      "channel": {
+        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+        "english_name": "Banzoin Hakka",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
