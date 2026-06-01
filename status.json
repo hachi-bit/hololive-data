@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780311869,
+  "cached_at": 1780311919,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "LO-iN8cFKQU",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-01T07:54:04.000Z",
       "start_scheduled": "2026-06-01T07:00:00.000Z",
       "start_actual": "2026-06-01T07:54:04.000Z",
-      "live_viewers": 552,
+      "live_viewers": 526,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -100,66 +100,9 @@
         "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "kqytVfwz2jE",
-      "title": "【DBD】ホロスタで最後のDBD!!【花咲みやび/岸堂天真/羽継烏有/水無世燐央/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "dbd",
-      "published_at": "2026-06-01T09:21:09.000Z",
-      "available_at": "2026-06-01T11:00:00.000Z",
-      "start_scheduled": "2026-06-01T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "eY1WxuyVqLo",
-      "title": "【Dead by Daylight】終活!ホロスタ4人でやる最後のDBD!【岸堂天真/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "dbd",
-      "published_at": "2026-06-01T06:11:44.000Z",
-      "available_at": "2026-06-01T11:00:00.000Z",
-      "start_scheduled": "2026-06-01T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCUKD-uaobj9jiqB-VXt71mA": {
-      "video_id": "n1aSKg9r6MQ",
-      "title": "【#ホロ金策サバイバル2】6/1 初日の日報！Day1 daily report【獅白ぼたん/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-31T14:53:24.000Z",
-      "available_at": "2026-06-01T11:00:00.000Z",
-      "start_scheduled": "2026-06-01T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCUKD-uaobj9jiqB-VXt71mA",
-        "name": "Botan Ch.獅白ぼたん",
-        "english_name": "Shishiro Botan",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCgRqGV1gBf2Esxh0Tz1vxzw": {
       "video_id": "6mYOVcUwBOI",
-      "title": "ホロスタメンバーでフルパDBD!!【 ホロスターズ 】",
+      "title": "ホロスタメンバーでフルパDBD！！【 ホロスターズ 】",
       "type": "stream",
       "status": "live",
       "topic_id": "dbd",
@@ -186,7 +129,7 @@
       "available_at": "2026-06-01T11:00:51.000Z",
       "start_scheduled": "2026-06-01T11:00:00.000Z",
       "start_actual": "2026-06-01T11:00:51.000Z",
-      "live_viewers": 71,
+      "live_viewers": 162,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -194,6 +137,66 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "n1aSKg9r6MQ",
+      "title": "【#ホロ金策サバイバル2】6/1 初日の日報!Day1 daily report【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-31T14:53:24.000Z",
+      "available_at": "2026-06-01T11:01:05.000Z",
+      "start_scheduled": "2026-06-01T11:00:00.000Z",
+      "start_actual": "2026-06-01T11:01:05.000Z",
+      "live_viewers": 40988,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6t3-_N8A6ME1JShZHHqOMw": {
+      "video_id": "kqytVfwz2jE",
+      "title": "【DBD】ホロスタで最後のDBD!!【花咲みやび/岸堂天真/羽継烏有/水無世燐央/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "dbd",
+      "published_at": "2026-06-01T09:21:09.000Z",
+      "available_at": "2026-06-01T11:02:18.000Z",
+      "start_scheduled": "2026-06-01T11:00:00.000Z",
+      "start_actual": "2026-06-01T11:02:18.000Z",
+      "live_viewers": 180,
+      "channel": {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "english_name": "Hanasaki Miyabi",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGNI4MENvnsymYjKiZwv9eg": {
+      "video_id": "eY1WxuyVqLo",
+      "title": "【Dead by Daylight】終活!ホロスタ4人でやる最後のDBD!【岸堂天真/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "dbd",
+      "published_at": "2026-06-01T06:11:44.000Z",
+      "available_at": "2026-06-01T11:02:37.000Z",
+      "start_scheduled": "2026-06-01T11:00:00.000Z",
+      "start_actual": "2026-06-01T11:02:37.000Z",
+      "live_viewers": 186,
+      "channel": {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "english_name": "Kishido Temma",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
