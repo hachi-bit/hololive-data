@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780297399,
+  "cached_at": 1780297459,
   "lives": {
     "UCONtwJdE7A68l1eCjf8k4jQ": {
       "video_id": "Sgy8bdIH8Uk",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-01T04:59:30.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T04:59:30.000Z",
-      "live_viewers": 308,
+      "live_viewers": 301,
       "channel": {
         "id": "UCONtwJdE7A68l1eCjf8k4jQ",
         "name": "儚牙紺 - Kurage Kon -",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-01T04:59:52.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T04:59:52.000Z",
-      "live_viewers": 1296,
+      "live_viewers": 1340,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-01T05:01:14.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:01:14.000Z",
-      "live_viewers": 2287,
+      "live_viewers": 2312,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-01T05:01:36.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:01:36.000Z",
-      "live_viewers": 321,
+      "live_viewers": 319,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-01T05:01:49.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:01:49.000Z",
-      "live_viewers": 33,
+      "live_viewers": 32,
       "channel": {
         "id": "UC7Ft50QAmUGWE6-ZfrHOG5Q",
         "name": "扇名いだ",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-01T05:01:56.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:01:56.000Z",
-      "live_viewers": 536,
+      "live_viewers": 548,
       "channel": {
         "id": "UCasKmptouCrwWLl8SlQU2tQ",
         "name": "おなつのにびたし / Onatsu no Nibitashi",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-01T05:02:01.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:02:01.000Z",
-      "live_viewers": 8,
+      "live_viewers": 16,
       "channel": {
         "id": "UC_lfOFwTCIvZsuaSvJQpNXg",
         "name": "翠星アスト / Asuto Suiboshi",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-01T05:02:02.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:02:02.000Z",
-      "live_viewers": 23,
+      "live_viewers": 28,
       "channel": {
         "id": "UC1_HUmjQShLtT_MuZjry3hQ",
         "name": "グラニット / Granite",
@@ -231,7 +231,7 @@
       "available_at": "2026-06-01T05:02:17.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:02:17.000Z",
-      "live_viewers": 64,
+      "live_viewers": 62,
       "channel": {
         "id": "UCElYE3bfzjjmJ9xwjvro9Yw",
         "name": "日裏クロ / Hiura Kuro",
@@ -271,7 +271,7 @@
       "available_at": "2026-06-01T05:04:37.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:04:37.000Z",
-      "live_viewers": 18,
+      "live_viewers": 17,
       "channel": {
         "id": "UC7W6gEF88kzL-mN8V_QxzVg",
         "name": "埼凰リンネ / rinne_saio",
@@ -279,6 +279,25 @@
         "org": "YUMENOS",
         "suborg": "1bGen 2",
         "photo": "https://yt3.ggpht.com/azLV3196MlCaaX5QWRVzhIfMCD7LOrAcsSDQuufYtafmUO043qE40kTJqogZiIZaM0WXiShYQA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "BDpE0X_lMNo",
+      "title": "【LoL】LTK DDnext  Day5 VS LR   / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeoコーチ わしだいコーチ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-01T06:54:49.000Z",
+      "available_at": "2026-06-01T07:00:00.000Z",
+      "start_scheduled": "2026-06-01T07:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
