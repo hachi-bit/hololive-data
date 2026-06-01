@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780351699,
+  "cached_at": 1780351759,
   "lives": {
-    "UCajbFh6e_R8QZdHAMbbi4rQ": {
-      "video_id": "t9Zi7P7RiXU",
-      "title": "Into the Unknown【TAINTED GRAIL | Part 7】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-06-01T14:19:53.000Z",
-      "available_at": "2026-06-01T17:05:08.000Z",
-      "start_scheduled": "2026-06-01T17:00:00.000Z",
-      "start_actual": "2026-06-01T17:05:08.000Z",
-      "live_viewers": 1026,
-      "channel": {
-        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-        "english_name": "Crimzon Ruze",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "LYSjnrsu6So",
       "title": "BLUFFING MY WAY TO VICTORY【007 FIRST LIGHT】",
@@ -31,7 +11,7 @@
       "available_at": "2026-06-01T21:04:24.000Z",
       "start_scheduled": "2026-06-01T21:00:00.000Z",
       "start_actual": "2026-06-01T21:04:24.000Z",
-      "live_viewers": 220,
+      "live_viewers": 791,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -51,7 +31,7 @@
       "available_at": "2026-06-01T22:01:19.000Z",
       "start_scheduled": "2026-06-01T22:00:00.000Z",
       "start_actual": "2026-06-01T22:01:19.000Z",
-      "live_viewers": 79,
+      "live_viewers": 87,
       "channel": {
         "id": "UCA8nozgxzH7O_w5I_1l0JXg",
         "name": "鴉羽そら",
