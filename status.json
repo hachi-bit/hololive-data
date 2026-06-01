@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780314379,
+  "cached_at": 1780314439,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "LO-iN8cFKQU",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-01T04:59:52.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T04:59:52.000Z",
-      "live_viewers": 1189,
+      "live_viewers": 1166,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-01T11:00:51.000Z",
       "start_scheduled": "2026-06-01T11:00:00.000Z",
       "start_actual": "2026-06-01T11:00:51.000Z",
-      "live_viewers": 266,
+      "live_viewers": 291,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-01T11:01:05.000Z",
       "start_scheduled": "2026-06-01T11:00:00.000Z",
       "start_actual": "2026-06-01T11:01:05.000Z",
-      "live_viewers": 82781,
+      "live_viewers": 83018,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-01T11:02:18.000Z",
       "start_scheduled": "2026-06-01T11:00:00.000Z",
       "start_actual": "2026-06-01T11:02:18.000Z",
-      "live_viewers": 390,
+      "live_viewers": 399,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -179,6 +179,180 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAWSyEs_Io8MtpY3m-zqILA": {
+      "video_id": "pHthrTE2WWQ",
+      "title": "【 #ホロ金策サバイバル2 】俺の金だあぁあああああああああああ!!!!!!!!!!!【 桃鈴ねね / hololive 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-01T03:12:06.000Z",
+      "available_at": "2026-06-01T11:44:43.000Z",
+      "start_scheduled": "2026-06-01T11:45:00.000Z",
+      "start_actual": "2026-06-01T11:44:43.000Z",
+      "live_viewers": 1063,
+      "channel": {
+        "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+        "name": "Nene Ch.桃鈴ねね",
+        "english_name": "Momosuzu Nene",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvzGlP9oQwU--Y0r9id_jnA": {
+      "video_id": "DQUFkgco1RQ",
+      "title": "【#ホロ金策サバイバル2】金策マイクラやるしゅばあああああああああああああああああああああああああああああああああああ!!!!!!：MINECRAFT【ホロライブ/大空スバル】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-01T06:24:19.000Z",
+      "available_at": "2026-06-01T11:45:00.000Z",
+      "start_scheduled": "2026-06-01T11:45:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+        "name": "Subaru Ch. 大空スバル",
+        "english_name": "Oozora Subaru",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC-hM6YJuNYVAmUWxeIr9FeA": {
+      "video_id": "fDoLjkofj7k",
+      "title": "【#ホロ金策サバイバル2】初日にぇええええええええええ‼【ホロライブ/さくらみこ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-31T14:17:43.000Z",
+      "available_at": "2026-06-01T11:45:00.000Z",
+      "start_scheduled": "2026-06-01T11:45:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+        "name": "Miko Ch. さくらみこ",
+        "english_name": "Sakura Miko",
+        "org": "Hololive",
+        "suborg": "0y0th Generation",
+        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "frGM6WNwHZk",
+      "title": "【 #ホロ金策サバイバル2 】ねねちハウスから参加っ!稼ぎまくる✨【ホロライブ DEV_IS 響咲リオナ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-01T06:21:59.000Z",
+      "available_at": "2026-06-01T11:45:00.000Z",
+      "start_scheduled": "2026-06-01T11:45:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+      "video_id": "8KSdbclbS0c",
+      "title": "【#ホロ金策サバイバル2】 アスレチック踏破を目指しながら生活をする。 【ホロライブ/白上フブキ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-01T06:24:46.000Z",
+      "available_at": "2026-06-01T11:45:00.000Z",
+      "start_scheduled": "2026-06-01T11:45:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "name": "フブキCh。白上フブキ",
+        "english_name": "Shirakami Fubuki",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFTLzh12_nrtzqBPsTCqenA": {
+      "video_id": "g7JRzrSiFsE",
+      "title": "【  #ホロ金策サバイバル2 】完全に初参加だし8周年なのでください!金!【アキロゼ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-01T09:31:38.000Z",
+      "available_at": "2026-06-01T11:45:00.000Z",
+      "start_scheduled": "2026-06-01T11:45:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCFTLzh12_nrtzqBPsTCqenA",
+        "name": "アキロゼCh。Vtuber/ホロライブ所属",
+        "english_name": "Aki Rosenthal",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_vMYWcDjmfdpH6r4TTn1MQ": {
+      "video_id": "7MPnwt9rkeQ",
+      "title": "【#ホロ金策サバイバル2 】マイクラだいすきキッズです。\"賢く\"稼ぎます💰【風真いろは/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-31T17:18:13.000Z",
+      "available_at": "2026-06-01T11:45:00.000Z",
+      "start_scheduled": "2026-06-01T11:45:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "name": "Iroha ch. 風真いろは - holoX -",
+        "english_name": "Kazama Iroha",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "gAas3bTlzuU",
+      "title": "【Minecraft】#ホロ金策サバイバル2 お金を稼ぎたい( ^ω^ ) DAY1 ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-31T13:55:24.000Z",
+      "available_at": "2026-06-01T11:45:14.000Z",
+      "start_scheduled": "2026-06-01T11:45:00.000Z",
+      "start_actual": "2026-06-01T11:45:14.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvaTdHTWBGv3MKj3KVqJVCw": {
+      "video_id": "k90IFjIyShY",
+      "title": "【 #ホロ金策サバイバル2 | DAY1 】がっぽ がっぽ 儲けたいのです💸 【 猫又おかゆ/ホロライブ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-05-31T14:43:46.000Z",
+      "available_at": "2026-06-01T11:45:22.000Z",
+      "start_scheduled": "2026-06-01T11:45:00.000Z",
+      "start_actual": "2026-06-01T11:45:22.000Z",
+      "live_viewers": 2599,
+      "channel": {
+        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+        "name": "Okayu Ch. 猫又おかゆ",
+        "english_name": "Nekomata Okayu",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
