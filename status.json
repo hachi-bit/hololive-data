@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780324039,
+  "cached_at": 1780324100,
   "lives": {
-    "UCAHQGIKolfBfoeXXMY79SBA": {
-      "video_id": "LO-iN8cFKQU",
-      "title": "【 League of Legends #LTK 】14時からBOT 2v2練習➡16時からスクリム➡18時から本番5日目【白那しずく / ネオポルテ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-06-01T00:32:27.000Z",
-      "available_at": "2026-06-01T04:59:52.000Z",
-      "start_scheduled": "2026-06-01T05:00:00.000Z",
-      "start_actual": "2026-06-01T04:59:52.000Z",
-      "live_viewers": 57,
-      "channel": {
-        "id": "UCAHQGIKolfBfoeXXMY79SBA",
-        "name": "白那しずく",
-        "english_name": "Shirona Shizuku",
-        "org": "Neo-Porte",
-        "suborg": "0k5th Generation",
-        "photo": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "9OKTBL0xy0U",
       "title": "【 Dead by Daylight | ホロスタコラボ 】玄人に囲まれる万年初心者視点はここさ!【 水無世燐央 | UPROAR!! 】",
@@ -51,7 +31,7 @@
       "available_at": "2026-06-01T11:02:18.000Z",
       "start_scheduled": "2026-06-01T11:00:00.000Z",
       "start_actual": "2026-06-01T11:02:18.000Z",
-      "live_viewers": 480,
+      "live_viewers": 479,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -171,7 +151,7 @@
       "available_at": "2026-06-01T11:45:43.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:45:43.000Z",
-      "live_viewers": 30827,
+      "live_viewers": 30079,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -211,7 +191,7 @@
       "available_at": "2026-06-01T11:46:11.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:46:11.000Z",
-      "live_viewers": 3193,
+      "live_viewers": 3138,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -231,7 +211,7 @@
       "available_at": "2026-06-01T11:46:37.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:46:37.000Z",
-      "live_viewers": 7761,
+      "live_viewers": 7710,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -251,7 +231,7 @@
       "available_at": "2026-06-01T11:47:02.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:47:02.000Z",
-      "live_viewers": 13621,
+      "live_viewers": 13714,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -271,7 +251,7 @@
       "available_at": "2026-06-01T11:49:41.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:49:41.000Z",
-      "live_viewers": 5012,
+      "live_viewers": 4979,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -291,7 +271,7 @@
       "available_at": "2026-06-01T11:53:22.000Z",
       "start_scheduled": "2026-06-01T12:00:00.000Z",
       "start_actual": "2026-06-01T11:53:22.000Z",
-      "live_viewers": 1377,
+      "live_viewers": 1318,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -331,7 +311,7 @@
       "available_at": "2026-06-01T11:54:31.000Z",
       "start_scheduled": "2026-06-01T11:55:00.000Z",
       "start_actual": "2026-06-01T11:54:31.000Z",
-      "live_viewers": 5534,
+      "live_viewers": 5540,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -371,7 +351,7 @@
       "available_at": "2026-06-01T11:57:31.000Z",
       "start_scheduled": "2026-06-01T11:59:00.000Z",
       "start_actual": "2026-06-01T11:57:31.000Z",
-      "live_viewers": 13173,
+      "live_viewers": 12830,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -431,7 +411,7 @@
       "available_at": "2026-06-01T12:00:11.000Z",
       "start_scheduled": "2026-06-01T12:00:00.000Z",
       "start_actual": "2026-06-01T12:00:11.000Z",
-      "live_viewers": 7784,
+      "live_viewers": 7640,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -511,7 +491,7 @@
       "available_at": "2026-06-01T12:03:09.000Z",
       "start_scheduled": "2026-06-01T12:00:00.000Z",
       "start_actual": "2026-06-01T12:03:09.000Z",
-      "live_viewers": 3450,
+      "live_viewers": 3433,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -571,7 +551,7 @@
       "available_at": "2026-06-01T13:25:54.000Z",
       "start_scheduled": "2026-06-01T13:30:00.000Z",
       "start_actual": "2026-06-01T13:25:54.000Z",
-      "live_viewers": 2207,
+      "live_viewers": 2167,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -631,7 +611,7 @@
       "available_at": "2026-06-01T14:02:00.000Z",
       "start_scheduled": "2026-06-01T14:00:00.000Z",
       "start_actual": "2026-06-01T14:02:00.000Z",
-      "live_viewers": 488,
+      "live_viewers": 457,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -651,7 +631,7 @@
       "available_at": "2026-06-01T14:02:09.000Z",
       "start_scheduled": "2026-06-01T14:00:00.000Z",
       "start_actual": "2026-06-01T14:02:09.000Z",
-      "live_viewers": 436,
+      "live_viewers": 431,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -671,7 +651,7 @@
       "available_at": "2026-06-01T14:02:17.000Z",
       "start_scheduled": "2026-06-01T14:00:00.000Z",
       "start_actual": "2026-06-01T14:02:17.000Z",
-      "live_viewers": 827,
+      "live_viewers": 846,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -691,7 +671,7 @@
       "available_at": "2026-06-01T14:02:27.000Z",
       "start_scheduled": "2026-06-01T14:00:00.000Z",
       "start_actual": "2026-06-01T14:02:27.000Z",
-      "live_viewers": 1763,
+      "live_viewers": 1775,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -711,7 +691,7 @@
       "available_at": "2026-06-01T14:02:30.000Z",
       "start_scheduled": "2026-06-01T14:00:00.000Z",
       "start_actual": "2026-06-01T14:02:30.000Z",
-      "live_viewers": 433,
+      "live_viewers": 447,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -731,7 +711,7 @@
       "available_at": "2026-06-01T14:02:54.000Z",
       "start_scheduled": "2026-06-01T14:00:00.000Z",
       "start_actual": "2026-06-01T14:02:54.000Z",
-      "live_viewers": 466,
+      "live_viewers": 454,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -751,7 +731,7 @@
       "available_at": "2026-06-01T14:05:57.000Z",
       "start_scheduled": "2026-06-01T14:00:00.000Z",
       "start_actual": "2026-06-01T14:05:57.000Z",
-      "live_viewers": 1274,
+      "live_viewers": 1252,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
