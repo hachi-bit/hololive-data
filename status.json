@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780314799,
+  "cached_at": 1780314859,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "LO-iN8cFKQU",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-01T11:01:05.000Z",
       "start_scheduled": "2026-06-01T11:00:00.000Z",
       "start_actual": "2026-06-01T11:01:05.000Z",
-      "live_viewers": 73785,
+      "live_viewers": 70432,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-01T11:02:37.000Z",
       "start_scheduled": "2026-06-01T11:00:00.000Z",
       "start_actual": "2026-06-01T11:02:37.000Z",
-      "live_viewers": 393,
+      "live_viewers": 388,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-01T11:44:43.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:44:43.000Z",
-      "live_viewers": 3817,
+      "live_viewers": 4169,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-01T11:45:20.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:45:20.000Z",
-      "live_viewers": 21351,
+      "live_viewers": 24012,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -231,7 +231,7 @@
       "available_at": "2026-06-01T11:45:22.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:45:22.000Z",
-      "live_viewers": 5271,
+      "live_viewers": 5863,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-01T11:45:43.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:45:43.000Z",
-      "live_viewers": 14012,
+      "live_viewers": 17077,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -271,7 +271,7 @@
       "available_at": "2026-06-01T11:45:54.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:45:54.000Z",
-      "live_viewers": 15005,
+      "live_viewers": 17516,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -291,7 +291,7 @@
       "available_at": "2026-06-01T11:46:11.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:46:11.000Z",
-      "live_viewers": 2629,
+      "live_viewers": 3394,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -311,7 +311,7 @@
       "available_at": "2026-06-01T11:46:37.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:46:37.000Z",
-      "live_viewers": 4049,
+      "live_viewers": 4547,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -331,7 +331,7 @@
       "available_at": "2026-06-01T11:47:02.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:47:02.000Z",
-      "live_viewers": 6991,
+      "live_viewers": 8044,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -351,7 +351,7 @@
       "available_at": "2026-06-01T11:49:41.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:49:41.000Z",
-      "live_viewers": 1695,
+      "live_viewers": 2860,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
