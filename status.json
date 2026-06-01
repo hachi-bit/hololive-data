@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780296739,
+  "cached_at": 1780296799,
   "lives": {
     "UCONtwJdE7A68l1eCjf8k4jQ": {
       "video_id": "Sgy8bdIH8Uk",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-01T04:59:52.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T04:59:52.000Z",
-      "live_viewers": 1291,
+      "live_viewers": 1330,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-01T05:01:33.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:01:33.000Z",
-      "live_viewers": 50,
+      "live_viewers": 51,
       "channel": {
         "id": "UC_a00ml_EVDXSrtY8ZuyqGQ",
         "name": "夏渚まはろ / Nanagisa Mahalo【パレプロ】",
@@ -106,7 +106,7 @@
       "title": "俺は人狼じゃないと思います『Goose Goose Duck』 【扇名いだ / ゆにれいど】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "Goose_Goose_Duck",
       "published_at": "2026-06-01T04:37:37.000Z",
       "available_at": "2026-06-01T05:01:49.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
@@ -126,12 +126,12 @@
       "title": "【Goose Goose Duck】アルさんとみんなで遊ぼうの会【柚原いづみ / ななしいんく】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "Goose_Goose_Duck",
       "published_at": "2026-05-29T22:20:05.000Z",
       "available_at": "2026-06-01T05:01:50.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:01:50.000Z",
-      "live_viewers": 203,
+      "live_viewers": 216,
       "channel": {
         "id": "UCW8WKciBixmaqaGqrlTITRQ",
         "name": "柚原いづみ / Izumi Channel 【ななしいんく】",
@@ -186,7 +186,7 @@
       "title": "【Goose Goose Duck】総勢16人でわいわいアヒル人狼!【ゆにれいど!/ 翠星アスト】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "Goose_Goose_Duck",
       "published_at": "2026-05-31T17:26:12.000Z",
       "available_at": "2026-06-01T05:02:01.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-01T05:04:36.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:04:36.000Z",
-      "live_viewers": 4350,
+      "live_viewers": 4466,
       "channel": {
         "id": "UC6WFKwYptsxVue56Lx218vg",
         "name": "小柳ロウ / Koyanagi Rou【にじさんじ】",
