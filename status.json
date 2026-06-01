@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780330459,
+  "cached_at": 1780330519,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "9OKTBL0xy0U",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-01T11:02:18.000Z",
       "start_scheduled": "2026-06-01T11:00:00.000Z",
       "start_actual": "2026-06-01T11:02:18.000Z",
-      "live_viewers": 464,
+      "live_viewers": 449,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-01T11:45:43.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:45:43.000Z",
-      "live_viewers": 24151,
+      "live_viewers": 23442,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-01T11:45:54.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:45:54.000Z",
-      "live_viewers": 19027,
+      "live_viewers": 18805,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -139,46 +139,6 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC_vMYWcDjmfdpH6r4TTn1MQ": {
-      "video_id": "7MPnwt9rkeQ",
-      "title": "【#ホロ金策サバイバル2 】マイクラだいすきキッズです。\"賢く\"稼ぎます💰【風真いろは/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-31T17:18:13.000Z",
-      "available_at": "2026-06-01T11:46:37.000Z",
-      "start_scheduled": "2026-06-01T11:45:00.000Z",
-      "start_actual": "2026-06-01T11:46:37.000Z",
-      "live_viewers": 5276,
-      "channel": {
-        "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "name": "Iroha ch. 風真いろは - holoX -",
-        "english_name": "Kazama Iroha",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCFTLzh12_nrtzqBPsTCqenA": {
-      "video_id": "g7JRzrSiFsE",
-      "title": "【  #ホロ金策サバイバル2 】完全に初参加だし8周年なのでください!金!【アキロゼ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-01T09:31:38.000Z",
-      "available_at": "2026-06-01T11:49:41.000Z",
-      "start_scheduled": "2026-06-01T11:45:00.000Z",
-      "start_actual": "2026-06-01T11:49:41.000Z",
-      "live_viewers": 2852,
-      "channel": {
-        "id": "UCFTLzh12_nrtzqBPsTCqenA",
-        "name": "アキロゼCh。Vtuber/ホロライブ所属",
-        "english_name": "Aki Rosenthal",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
@@ -211,7 +171,7 @@
       "available_at": "2026-06-01T11:54:31.000Z",
       "start_scheduled": "2026-06-01T11:55:00.000Z",
       "start_actual": "2026-06-01T11:54:31.000Z",
-      "live_viewers": 4999,
+      "live_viewers": 4835,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -219,26 +179,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCa9Y57gfeY0Zro_noHRVrnw": {
-      "video_id": "Po-UaxIVsdo",
-      "title": "【 #ホロ金策サバイバル2 】今度こそマイクラFIRE生活を目指すのら！！！Day1【姫森ルーナ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-05-31T13:57:29.000Z",
-      "available_at": "2026-06-01T11:57:31.000Z",
-      "start_scheduled": "2026-06-01T12:00:00.000Z",
-      "start_actual": "2026-06-01T11:57:31.000Z",
-      "live_viewers": 2741,
-      "channel": {
-        "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-        "name": "Luna Ch. 姫森ルーナ",
-        "english_name": "Himemori Luna",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChAnqc_AY5_I3Px5dig3X1Q": {
@@ -251,7 +191,7 @@
       "available_at": "2026-06-01T11:57:31.000Z",
       "start_scheduled": "2026-06-01T11:59:00.000Z",
       "start_actual": "2026-06-01T11:57:31.000Z",
-      "live_viewers": 9497,
+      "live_viewers": 377,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -271,7 +211,7 @@
       "available_at": "2026-06-01T11:59:23.000Z",
       "start_scheduled": "2026-06-01T12:00:00.000Z",
       "start_actual": "2026-06-01T11:59:23.000Z",
-      "live_viewers": 2089,
+      "live_viewers": 2282,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -299,26 +239,6 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp6993wxpyDPHUpavwDFqgg": {
-      "video_id": "Sbe8izm53og",
-      "title": "【 #ホロ金策サバイバル2 】1日目!楽しんでいこう♪【ホロライブ/ときのそら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-01T13:06:13.000Z",
-      "available_at": "2026-06-01T13:25:54.000Z",
-      "start_scheduled": "2026-06-01T13:30:00.000Z",
-      "start_actual": "2026-06-01T13:25:54.000Z",
-      "live_viewers": 1841,
-      "channel": {
-        "id": "UCp6993wxpyDPHUpavwDFqgg",
-        "name": "SoraCh. ときのそらチャンネル",
-        "english_name": "Tokino Sora",
-        "org": "Hololive",
-        "suborg": "0v0th Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1suqwovbL1kzsoaZgFZLKg": {
