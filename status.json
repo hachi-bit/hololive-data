@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780294639,
+  "cached_at": 1780294699,
   "lives": {
     "UCONtwJdE7A68l1eCjf8k4jQ": {
       "video_id": "Sgy8bdIH8Uk",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-01T04:59:30.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T04:59:30.000Z",
-      "live_viewers": 324,
+      "live_viewers": 309,
       "channel": {
         "id": "UCONtwJdE7A68l1eCjf8k4jQ",
         "name": "儚牙紺 - Kurage Kon -",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-01T04:59:52.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T04:59:52.000Z",
-      "live_viewers": 1185,
+      "live_viewers": 1201,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-01T05:01:49.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:01:49.000Z",
-      "live_viewers": 30,
+      "live_viewers": 35,
       "channel": {
         "id": "UC7Ft50QAmUGWE6-ZfrHOG5Q",
         "name": "扇名いだ",
@@ -141,26 +141,6 @@
         "photo": "https://yt3.ggpht.com/KaDu_P5Tna6PWz5P_yfAdFXRsdo69NULoE-pFY39fX9Jm0IgXb6zsBHfkbPG9nJh5TozQo9ur8A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCrt4cTM_sWH0iySLMkwwYLQ": {
-      "video_id": "x-Oj3tKrvjk",
-      "title": "【 Goose Goose DUCK 】アルさんとNEWTOWNメンバーで遊ぼうの会🦆【蛇宵ティア視点 / ななしいんく】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-31T20:05:34.000Z",
-      "available_at": "2026-06-01T05:01:56.000Z",
-      "start_scheduled": "2026-06-01T05:00:00.000Z",
-      "start_actual": "2026-06-01T05:01:56.000Z",
-      "live_viewers": 168,
-      "channel": {
-        "id": "UCrt4cTM_sWH0iySLMkwwYLQ",
-        "name": "蛇宵ティア / Tier Channel【ななしいんく】",
-        "english_name": "Hebiyoi Tier",
-        "org": "774inc",
-        "suborg": "0 Ex-SugarLyric",
-        "photo": "https://yt3.ggpht.com/AfpISUcGYngk2GdQsUu1KA5iPcihgBQV8cdByfYT4DYDewZiHdrzXxtbxp8jMlM_BQC4-5VI=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCasKmptouCrwWLl8SlQU2tQ": {
       "video_id": "EHLo-hmBukE",
       "title": "【Goose Goose Duck】アルさんと遊ぼうの会🍕【おなつのにびたし/個人勢Vtuber/#おなつのなま】",
@@ -179,6 +159,26 @@
         "org": "Twitch Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/xWy_Afq5-hYE0riz6wByr6HGlxSMBSabKju2lwHmXld7lttEsMW4D5BLvoykoWQ-_drmCi5UO7E=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCrt4cTM_sWH0iySLMkwwYLQ": {
+      "video_id": "x-Oj3tKrvjk",
+      "title": "【 Goose Goose DUCK 】アルさんとNEWTOWNメンバーで遊ぼうの会🦆【蛇宵ティア視点 / ななしいんく】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-05-31T20:05:34.000Z",
+      "available_at": "2026-06-01T05:01:56.000Z",
+      "start_scheduled": "2026-06-01T05:00:00.000Z",
+      "start_actual": "2026-06-01T05:01:56.000Z",
+      "live_viewers": 164,
+      "channel": {
+        "id": "UCrt4cTM_sWH0iySLMkwwYLQ",
+        "name": "蛇宵ティア / Tier Channel【ななしいんく】",
+        "english_name": "Hebiyoi Tier",
+        "org": "774inc",
+        "suborg": "0 Ex-SugarLyric",
+        "photo": "https://yt3.ggpht.com/AfpISUcGYngk2GdQsUu1KA5iPcihgBQV8cdByfYT4DYDewZiHdrzXxtbxp8jMlM_BQC4-5VI=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC_lfOFwTCIvZsuaSvJQpNXg": {
@@ -211,7 +211,7 @@
       "available_at": "2026-06-01T05:02:02.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:02:02.000Z",
-      "live_viewers": 31,
+      "live_viewers": 27,
       "channel": {
         "id": "UC1_HUmjQShLtT_MuZjry3hQ",
         "name": "グラニット / Granite",
@@ -231,7 +231,7 @@
       "available_at": "2026-06-01T05:02:17.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:02:17.000Z",
-      "live_viewers": 45,
+      "live_viewers": 54,
       "channel": {
         "id": "UCElYE3bfzjjmJ9xwjvro9Yw",
         "name": "日裏クロ / Hiura Kuro",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-01T05:04:36.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:04:36.000Z",
-      "live_viewers": 4239,
+      "live_viewers": 4274,
       "channel": {
         "id": "UC6WFKwYptsxVue56Lx218vg",
         "name": "小柳ロウ / Koyanagi Rou【にじさんじ】",
@@ -271,7 +271,7 @@
       "available_at": "2026-06-01T05:04:37.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:04:37.000Z",
-      "live_viewers": 20,
+      "live_viewers": 26,
       "channel": {
         "id": "UC7W6gEF88kzL-mN8V_QxzVg",
         "name": "埼凰リンネ / rinne_saio",
