@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780328900,
+  "cached_at": 1780328959,
   "lives": {
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "9OKTBL0xy0U",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-01T11:45:20.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:45:20.000Z",
-      "live_viewers": 36186,
+      "live_viewers": 36319,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-01T11:45:43.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:45:43.000Z",
-      "live_viewers": 26863,
+      "live_viewers": 26735,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-01T11:45:54.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:45:54.000Z",
-      "live_viewers": 20560,
+      "live_viewers": 19957,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-01T11:46:11.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:46:11.000Z",
-      "live_viewers": 2854,
+      "live_viewers": 2816,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-01T11:46:37.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:46:37.000Z",
-      "live_viewers": 5999,
+      "live_viewers": 5737,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-01T11:47:02.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:47:02.000Z",
-      "live_viewers": 11781,
+      "live_viewers": 11456,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-01T11:53:22.000Z",
       "start_scheduled": "2026-06-01T12:00:00.000Z",
       "start_actual": "2026-06-01T11:53:22.000Z",
-      "live_viewers": 1120,
+      "live_viewers": 1164,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -291,7 +291,7 @@
       "available_at": "2026-06-01T11:54:31.000Z",
       "start_scheduled": "2026-06-01T11:55:00.000Z",
       "start_actual": "2026-06-01T11:54:31.000Z",
-      "live_viewers": 4835,
+      "live_viewers": 4779,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -411,7 +411,7 @@
       "available_at": "2026-06-01T12:00:55.000Z",
       "start_scheduled": "2026-06-01T12:00:00.000Z",
       "start_actual": "2026-06-01T12:00:55.000Z",
-      "live_viewers": 12813,
+      "live_viewers": 12654,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -499,46 +499,6 @@
         "org": "Hololive",
         "suborg": "0v0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCOyYb1c43VlX9rc_lT6NKQw": {
-      "video_id": "uw52E9yRVJ0",
-      "title": "SUPER SUPER SUPER SEKALI #holoID",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Super_Battle_Golf",
-      "published_at": "2026-06-01T08:04:14.000Z",
-      "available_at": "2026-06-01T14:02:17.000Z",
-      "start_scheduled": "2026-06-01T14:00:00.000Z",
-      "start_actual": "2026-06-01T14:02:17.000Z",
-      "live_viewers": 512,
-      "channel": {
-        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-        "name": "Ayunda Risu Ch. hololive-ID",
-        "english_name": "Ayunda Risu",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCZLZ8Jjx_RN2CXloOmgTHVg": {
-      "video_id": "IG-x4xI3WB0",
-      "title": "【Super Battle Golf】touching grass together after ten thousand years ⛳【hololiveID】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Super_Battle_Golf",
-      "published_at": "2026-05-30T15:02:33.000Z",
-      "available_at": "2026-06-01T14:02:27.000Z",
-      "start_scheduled": "2026-06-01T14:00:00.000Z",
-      "start_actual": "2026-06-01T14:02:27.000Z",
-      "live_viewers": 2042,
-      "channel": {
-        "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "name": "Kaela Kovalskia Ch. hololive-ID",
-        "english_name": "Kaela Kovalskia",
-        "org": "Hololive",
-        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-        "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
