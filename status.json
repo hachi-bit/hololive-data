@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780320559,
+  "cached_at": 1780320619,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "LO-iN8cFKQU",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-01T11:03:28.000Z",
       "start_scheduled": "2026-06-01T11:00:00.000Z",
       "start_actual": "2026-06-01T11:03:28.000Z",
-      "live_viewers": 165,
+      "live_viewers": 168,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-01T11:44:43.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:44:43.000Z",
-      "live_viewers": 5383,
+      "live_viewers": 4929,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-01T11:45:22.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:45:22.000Z",
-      "live_viewers": 10463,
+      "live_viewers": 10478,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-01T11:46:11.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:46:11.000Z",
-      "live_viewers": 3941,
+      "live_viewers": 3960,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -381,26 +381,6 @@
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UChAnqc_AY5_I3Px5dig3X1Q": {
-      "video_id": "4nSaDeXjKLI",
-      "title": "【#ホロ金策サバイバル2】ころね支店 ~1日目~ 【Minecraft】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-01T07:28:29.000Z",
-      "available_at": "2026-06-01T11:57:31.000Z",
-      "start_scheduled": "2026-06-01T11:59:00.000Z",
-      "start_actual": "2026-06-01T11:57:31.000Z",
-      "live_viewers": 13581,
-      "channel": {
-        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
-        "name": "Korone Ch. 戌神ころね",
-        "english_name": "Inugami Korone",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "Po-UaxIVsdo",
       "title": "【 #ホロ金策サバイバル2 】今度こそマイクラFIRE生活を目指すのら!!!Day1【姫森ルーナ/ホロライブ】",
@@ -421,6 +401,26 @@
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UChAnqc_AY5_I3Px5dig3X1Q": {
+      "video_id": "4nSaDeXjKLI",
+      "title": "【#ホロ金策サバイバル2】ころね支店 ~1日目~ 【Minecraft】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-01T07:28:29.000Z",
+      "available_at": "2026-06-01T11:57:31.000Z",
+      "start_scheduled": "2026-06-01T11:59:00.000Z",
+      "start_actual": "2026-06-01T11:57:31.000Z",
+      "live_viewers": 13516,
+      "channel": {
+        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
+        "name": "Korone Ch. 戌神ころね",
+        "english_name": "Inugami Korone",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UC3OH5FKQ3qtl4uRme_vZTgA": {
       "video_id": "wwtA4YFT7CU",
       "title": "【月曜の夜に】 私の歌でアゲてけ〜?【 #UNIT_B / #宵凪ネオン】",
@@ -431,7 +431,7 @@
       "available_at": "2026-06-01T11:59:20.000Z",
       "start_scheduled": "2026-06-01T12:00:00.000Z",
       "start_actual": "2026-06-01T11:59:20.000Z",
-      "live_viewers": 4160,
+      "live_viewers": 4166,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -471,7 +471,7 @@
       "available_at": "2026-06-01T12:00:07.000Z",
       "start_scheduled": "2026-06-01T12:00:00.000Z",
       "start_actual": "2026-06-01T12:00:07.000Z",
-      "live_viewers": 3479,
+      "live_viewers": 3429,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -611,7 +611,7 @@
       "available_at": "2026-06-01T13:00:59.000Z",
       "start_scheduled": "2026-06-01T13:00:00.000Z",
       "start_actual": "2026-06-01T13:00:59.000Z",
-      "live_viewers": 1235,
+      "live_viewers": 1179,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -619,6 +619,26 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp6993wxpyDPHUpavwDFqgg": {
+      "video_id": "Sbe8izm53og",
+      "title": "【 #ホロ金策サバイバル2 】1日目!楽しんでいこう♪【ホロライブ/ときのそら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-01T13:06:13.000Z",
+      "available_at": "2026-06-01T13:25:54.000Z",
+      "start_scheduled": "2026-06-01T13:30:00.000Z",
+      "start_actual": "2026-06-01T13:25:54.000Z",
+      "live_viewers": 993,
+      "channel": {
+        "id": "UCp6993wxpyDPHUpavwDFqgg",
+        "name": "SoraCh. ときのそらチャンネル",
+        "english_name": "Tokino Sora",
+        "org": "Hololive",
+        "suborg": "0v0th Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
