@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780352359,
+  "cached_at": 1780352419,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "LYSjnrsu6So",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-01T22:01:19.000Z",
       "start_scheduled": "2026-06-01T22:00:00.000Z",
       "start_actual": "2026-06-01T22:01:19.000Z",
-      "live_viewers": 111,
+      "live_viewers": 115,
       "channel": {
         "id": "UCA8nozgxzH7O_w5I_1l0JXg",
         "name": "鴉羽そら",
@@ -41,25 +41,6 @@
         "photo": "https://yt3.ggpht.com/_X6gSgGZj-j-Lq96mY9rJ7jz4TemIVWkzaWgTuiDlheXV7izmwMZK7WM5hbi81OYT_fmx2gg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
-      "video_id": "I8-f27_4sUA",
-      "title": "【PoE】完全初見でやる w/ けっつん 日向まる 夜よいち U者【 #奏手イヅル 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Path_of_Exile",
-      "published_at": "2026-06-01T22:10:31.000Z",
-      "available_at": "2026-06-01T22:10:00.000Z",
-      "start_scheduled": "2026-06-01T22:10:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "name": "Izuru Ch. 奏手イヅル",
-        "english_name": "Kanade Izuru",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1suqwovbL1kzsoaZgFZLKg": {
       "video_id": "JjINEorDtEk",
       "title": "【Freetalk】早起き悪魔の朝ちょこ雑談📣 【ホロライブ/癒月ちょこ】",
@@ -67,9 +48,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-06-01T22:05:01.000Z",
-      "available_at": "2026-06-01T22:15:00.000Z",
+      "available_at": "2026-06-01T22:16:37.000Z",
       "start_scheduled": "2026-06-01T22:15:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-01T22:16:37.000Z",
+      "live_viewers": 725,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
