@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780296559,
+  "cached_at": 1780296619,
   "lives": {
     "UCONtwJdE7A68l1eCjf8k4jQ": {
       "video_id": "Sgy8bdIH8Uk",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-01T05:01:14.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:01:14.000Z",
-      "live_viewers": 2023,
+      "live_viewers": 2285,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-01T05:01:50.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:01:50.000Z",
-      "live_viewers": 195,
+      "live_viewers": 203,
       "channel": {
         "id": "UCW8WKciBixmaqaGqrlTITRQ",
         "name": "柚原いづみ / Izumi Channel 【ななしいんく】",
@@ -139,26 +139,6 @@
         "org": "774inc",
         "suborg": "0 Ex-AniMare",
         "photo": "https://yt3.ggpht.com/KaDu_P5Tna6PWz5P_yfAdFXRsdo69NULoE-pFY39fX9Jm0IgXb6zsBHfkbPG9nJh5TozQo9ur8A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCrt4cTM_sWH0iySLMkwwYLQ": {
-      "video_id": "x-Oj3tKrvjk",
-      "title": "【 Goose Goose DUCK 】アルさんとNEWTOWNメンバーで遊ぼうの会🦆【蛇宵ティア視点 / ななしいんく】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-05-31T20:05:34.000Z",
-      "available_at": "2026-06-01T05:01:56.000Z",
-      "start_scheduled": "2026-06-01T05:00:00.000Z",
-      "start_actual": "2026-06-01T05:01:56.000Z",
-      "live_viewers": 142,
-      "channel": {
-        "id": "UCrt4cTM_sWH0iySLMkwwYLQ",
-        "name": "蛇宵ティア / Tier Channel【ななしいんく】",
-        "english_name": "Hebiyoi Tier",
-        "org": "774inc",
-        "suborg": "0 Ex-SugarLyric",
-        "photo": "https://yt3.ggpht.com/AfpISUcGYngk2GdQsUu1KA5iPcihgBQV8cdByfYT4DYDewZiHdrzXxtbxp8jMlM_BQC4-5VI=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCasKmptouCrwWLl8SlQU2tQ": {
@@ -181,6 +161,26 @@
         "photo": "https://yt3.ggpht.com/xWy_Afq5-hYE0riz6wByr6HGlxSMBSabKju2lwHmXld7lttEsMW4D5BLvoykoWQ-_drmCi5UO7E=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCrt4cTM_sWH0iySLMkwwYLQ": {
+      "video_id": "x-Oj3tKrvjk",
+      "title": "【 Goose Goose DUCK 】アルさんとNEWTOWNメンバーで遊ぼうの会🦆【蛇宵ティア視点 / ななしいんく】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Goose_Goose_Duck",
+      "published_at": "2026-05-31T20:05:34.000Z",
+      "available_at": "2026-06-01T05:01:56.000Z",
+      "start_scheduled": "2026-06-01T05:00:00.000Z",
+      "start_actual": "2026-06-01T05:01:56.000Z",
+      "live_viewers": 143,
+      "channel": {
+        "id": "UCrt4cTM_sWH0iySLMkwwYLQ",
+        "name": "蛇宵ティア / Tier Channel【ななしいんく】",
+        "english_name": "Hebiyoi Tier",
+        "org": "774inc",
+        "suborg": "0 Ex-SugarLyric",
+        "photo": "https://yt3.ggpht.com/AfpISUcGYngk2GdQsUu1KA5iPcihgBQV8cdByfYT4DYDewZiHdrzXxtbxp8jMlM_BQC4-5VI=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UC_lfOFwTCIvZsuaSvJQpNXg": {
       "video_id": "lm6J4fvaZLA",
       "title": "【Goose Goose Duck】総勢16人でわいわいアヒル人狼!【ゆにれいど!/ 翠星アスト】",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-01T05:02:01.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:02:01.000Z",
-      "live_viewers": 11,
+      "live_viewers": 12,
       "channel": {
         "id": "UC_lfOFwTCIvZsuaSvJQpNXg",
         "name": "翠星アスト / Asuto Suiboshi",
@@ -206,7 +206,7 @@
       "title": "【 #グースグースダック 】アルさんありがとう会 縁は続いていくよどこまでも【グラニット/ゆにれいど!】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "Goose_Goose_Duck",
       "published_at": "2026-06-01T04:26:48.000Z",
       "available_at": "2026-06-01T05:02:02.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
@@ -226,7 +226,7 @@
       "title": "【Goose Goose Duck】アルさんありがとうの会!みんなで遊ぶ【日裏クロ / ネオポルテ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "Goose_Goose_Duck",
       "published_at": "2026-06-01T03:29:12.000Z",
       "available_at": "2026-06-01T05:02:17.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
@@ -246,7 +246,7 @@
       "title": "【goose goose duck】アルちゃん会【小柳ロウ/にじさんじ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "Goose_Goose_Duck",
       "published_at": "2026-06-01T04:50:39.000Z",
       "available_at": "2026-06-01T05:04:36.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
