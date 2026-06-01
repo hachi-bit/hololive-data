@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780333639,
+  "cached_at": 1780333699,
   "lives": {
     "UC-hM6YJuNYVAmUWxeIr9FeA": {
       "video_id": "fDoLjkofj7k",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-01T11:45:43.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:45:43.000Z",
-      "live_viewers": 22408,
+      "live_viewers": 22428,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-01T11:54:31.000Z",
       "start_scheduled": "2026-06-01T11:55:00.000Z",
       "start_actual": "2026-06-01T11:54:31.000Z",
-      "live_viewers": 3725,
+      "live_viewers": 3529,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-01T13:00:59.000Z",
       "start_scheduled": "2026-06-01T13:00:00.000Z",
       "start_actual": "2026-06-01T13:00:59.000Z",
-      "live_viewers": 1478,
+      "live_viewers": 1468,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -88,9 +88,10 @@
       "status": "live",
       "topic_id": "none",
       "published_at": "2026-06-01T14:19:53.000Z",
-      "available_at": "2026-06-01T17:00:00.000Z",
+      "available_at": "2026-06-01T17:05:08.000Z",
       "start_scheduled": "2026-06-01T17:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-01T17:05:08.000Z",
+      "live_viewers": 187,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
