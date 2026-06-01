@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780294819,
+  "cached_at": 1780294879,
   "lives": {
     "UCONtwJdE7A68l1eCjf8k4jQ": {
       "video_id": "Sgy8bdIH8Uk",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-01T05:01:33.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:01:33.000Z",
-      "live_viewers": 48,
+      "live_viewers": 44,
       "channel": {
         "id": "UC_a00ml_EVDXSrtY8ZuyqGQ",
         "name": "夏渚まはろ / Nanagisa Mahalo【パレプロ】",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-01T05:01:50.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:01:50.000Z",
-      "live_viewers": 194,
+      "live_viewers": 192,
       "channel": {
         "id": "UCW8WKciBixmaqaGqrlTITRQ",
         "name": "柚原いづみ / Izumi Channel 【ななしいんく】",
@@ -139,26 +139,6 @@
         "org": "774inc",
         "suborg": "0 Ex-AniMare",
         "photo": "https://yt3.ggpht.com/KaDu_P5Tna6PWz5P_yfAdFXRsdo69NULoE-pFY39fX9Jm0IgXb6zsBHfkbPG9nJh5TozQo9ur8A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCasKmptouCrwWLl8SlQU2tQ": {
-      "video_id": "EHLo-hmBukE",
-      "title": "【Goose Goose Duck】アルさんと遊ぼうの会🍕【おなつのにびたし/個人勢Vtuber/#おなつのなま】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Goose_Goose_Duck",
-      "published_at": "2026-05-30T07:47:46.000Z",
-      "available_at": "2026-06-01T05:01:56.000Z",
-      "start_scheduled": "2026-06-01T05:00:00.000Z",
-      "start_actual": "2026-06-01T05:01:56.000Z",
-      "live_viewers": 527,
-      "channel": {
-        "id": "UCasKmptouCrwWLl8SlQU2tQ",
-        "name": "おなつのにびたし / Onatsu no Nibitashi",
-        "english_name": "Onatsu No Nibitashi",
-        "org": "Twitch Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/xWy_Afq5-hYE0riz6wByr6HGlxSMBSabKju2lwHmXld7lttEsMW4D5BLvoykoWQ-_drmCi5UO7E=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCrt4cTM_sWH0iySLMkwwYLQ": {
@@ -181,6 +161,26 @@
         "photo": "https://yt3.ggpht.com/AfpISUcGYngk2GdQsUu1KA5iPcihgBQV8cdByfYT4DYDewZiHdrzXxtbxp8jMlM_BQC4-5VI=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCasKmptouCrwWLl8SlQU2tQ": {
+      "video_id": "EHLo-hmBukE",
+      "title": "【Goose Goose Duck】アルさんと遊ぼうの会🍕【おなつのにびたし/個人勢Vtuber/#おなつのなま】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Goose_Goose_Duck",
+      "published_at": "2026-05-30T07:47:46.000Z",
+      "available_at": "2026-06-01T05:01:56.000Z",
+      "start_scheduled": "2026-06-01T05:00:00.000Z",
+      "start_actual": "2026-06-01T05:01:56.000Z",
+      "live_viewers": 542,
+      "channel": {
+        "id": "UCasKmptouCrwWLl8SlQU2tQ",
+        "name": "おなつのにびたし / Onatsu no Nibitashi",
+        "english_name": "Onatsu No Nibitashi",
+        "org": "Twitch Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/xWy_Afq5-hYE0riz6wByr6HGlxSMBSabKju2lwHmXld7lttEsMW4D5BLvoykoWQ-_drmCi5UO7E=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UC_lfOFwTCIvZsuaSvJQpNXg": {
       "video_id": "lm6J4fvaZLA",
       "title": "【Goose Goose Duck】総勢16人でわいわいアヒル人狼!【ゆにれいど!/ 翠星アスト】",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-01T05:02:01.000Z",
       "start_scheduled": "2026-06-01T05:00:00.000Z",
       "start_actual": "2026-06-01T05:02:01.000Z",
-      "live_viewers": 10,
+      "live_viewers": 12,
       "channel": {
         "id": "UC_lfOFwTCIvZsuaSvJQpNXg",
         "name": "翠星アスト / Asuto Suiboshi",
