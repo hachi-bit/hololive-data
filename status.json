@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780314679,
+  "cached_at": 1780314739,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "LO-iN8cFKQU",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-01T11:00:51.000Z",
       "start_scheduled": "2026-06-01T11:00:00.000Z",
       "start_actual": "2026-06-01T11:00:51.000Z",
-      "live_viewers": 291,
+      "live_viewers": 281,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-01T11:01:05.000Z",
       "start_scheduled": "2026-06-01T11:00:00.000Z",
       "start_actual": "2026-06-01T11:01:05.000Z",
-      "live_viewers": 79350,
+      "live_viewers": 73785,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-01T11:02:18.000Z",
       "start_scheduled": "2026-06-01T11:00:00.000Z",
       "start_actual": "2026-06-01T11:02:18.000Z",
-      "live_viewers": 399,
+      "live_viewers": 411,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-01T11:02:37.000Z",
       "start_scheduled": "2026-06-01T11:00:00.000Z",
       "start_actual": "2026-06-01T11:02:37.000Z",
-      "live_viewers": 384,
+      "live_viewers": 393,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-01T11:03:28.000Z",
       "start_scheduled": "2026-06-01T11:00:00.000Z",
       "start_actual": "2026-06-01T11:03:28.000Z",
-      "live_viewers": 182,
+      "live_viewers": 188,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-01T11:44:43.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:44:43.000Z",
-      "live_viewers": 2588,
+      "live_viewers": 3817,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -199,25 +199,6 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCFTLzh12_nrtzqBPsTCqenA": {
-      "video_id": "g7JRzrSiFsE",
-      "title": "【  #ホロ金策サバイバル2 】完全に初参加だし8周年なのでください!金!【アキロゼ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-01T09:31:38.000Z",
-      "available_at": "2026-06-01T11:45:00.000Z",
-      "start_scheduled": "2026-06-01T11:45:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCFTLzh12_nrtzqBPsTCqenA",
-        "name": "アキロゼCh。Vtuber/ホロライブ所属",
-        "english_name": "Aki Rosenthal",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1DCedRgGHBdm81E1llLhOQ": {
@@ -230,7 +211,7 @@
       "available_at": "2026-06-01T11:45:20.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:45:20.000Z",
-      "live_viewers": 14000,
+      "live_viewers": 21351,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -250,7 +231,7 @@
       "available_at": "2026-06-01T11:45:22.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:45:22.000Z",
-      "live_viewers": 3676,
+      "live_viewers": 5271,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -270,7 +251,7 @@
       "available_at": "2026-06-01T11:45:43.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:45:43.000Z",
-      "live_viewers": 8816,
+      "live_viewers": 14012,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -290,7 +271,7 @@
       "available_at": "2026-06-01T11:45:54.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:45:54.000Z",
-      "live_viewers": 9377,
+      "live_viewers": 15005,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -310,7 +291,7 @@
       "available_at": "2026-06-01T11:46:11.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:46:11.000Z",
-      "live_viewers": 1680,
+      "live_viewers": 2629,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -330,7 +311,7 @@
       "available_at": "2026-06-01T11:46:37.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:46:37.000Z",
-      "live_viewers": 2038,
+      "live_viewers": 4049,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -350,7 +331,7 @@
       "available_at": "2026-06-01T11:47:02.000Z",
       "start_scheduled": "2026-06-01T11:45:00.000Z",
       "start_actual": "2026-06-01T11:47:02.000Z",
-      "live_viewers": 4290,
+      "live_viewers": 6991,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -358,6 +339,26 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFTLzh12_nrtzqBPsTCqenA": {
+      "video_id": "g7JRzrSiFsE",
+      "title": "【  #ホロ金策サバイバル2 】完全に初参加だし8周年なのでください!金!【アキロゼ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-01T09:31:38.000Z",
+      "available_at": "2026-06-01T11:49:41.000Z",
+      "start_scheduled": "2026-06-01T11:45:00.000Z",
+      "start_actual": "2026-06-01T11:49:41.000Z",
+      "live_viewers": 1695,
+      "channel": {
+        "id": "UCFTLzh12_nrtzqBPsTCqenA",
+        "name": "アキロゼCh。Vtuber/ホロライブ所属",
+        "english_name": "Aki Rosenthal",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
