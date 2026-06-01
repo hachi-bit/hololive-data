@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780356499,
+  "cached_at": 1780356559,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "LYSjnrsu6So",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-01T21:04:24.000Z",
       "start_scheduled": "2026-06-01T21:00:00.000Z",
       "start_actual": "2026-06-01T21:04:24.000Z",
-      "live_viewers": 655,
+      "live_viewers": 665,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-01T22:01:19.000Z",
       "start_scheduled": "2026-06-01T22:00:00.000Z",
       "start_actual": "2026-06-01T22:01:19.000Z",
-      "live_viewers": 146,
+      "live_viewers": 142,
       "channel": {
         "id": "UCA8nozgxzH7O_w5I_1l0JXg",
         "name": "鴉羽そら",
@@ -39,26 +39,6 @@
         "org": "REJECT",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/_X6gSgGZj-j-Lq96mY9rJ7jz4TemIVWkzaWgTuiDlheXV7izmwMZK7WM5hbi81OYT_fmx2gg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1suqwovbL1kzsoaZgFZLKg": {
-      "video_id": "JjINEorDtEk",
-      "title": "【Freetalk】早起き悪魔の朝ちょこ雑談📣 【ホロライブ/癒月ちょこ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-01T22:05:01.000Z",
-      "available_at": "2026-06-01T22:16:37.000Z",
-      "start_scheduled": "2026-06-01T22:15:00.000Z",
-      "start_actual": "2026-06-01T22:16:37.000Z",
-      "live_viewers": 3756,
-      "channel": {
-        "id": "UC1suqwovbL1kzsoaZgFZLKg",
-        "name": "Choco Ch. 癒月ちょこ",
-        "english_name": "Yuzuki Choco",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCZgOv3YDEs-ZnZWDYVwJdmA": {
@@ -71,7 +51,7 @@
       "available_at": "2026-06-01T22:37:07.000Z",
       "start_scheduled": "2026-06-01T22:30:00.000Z",
       "start_actual": "2026-06-01T22:37:07.000Z",
-      "live_viewers": 303,
+      "live_viewers": 317,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -91,7 +71,7 @@
       "available_at": "2026-06-01T22:37:36.000Z",
       "start_scheduled": "2026-06-01T22:30:00.000Z",
       "start_actual": "2026-06-01T22:37:36.000Z",
-      "live_viewers": 386,
+      "live_viewers": 369,
       "channel": {
         "id": "UCKF9kMEyUzID3-P7GbxmT6w",
         "name": "hm",
