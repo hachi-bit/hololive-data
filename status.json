@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780351519,
+  "cached_at": 1780351580,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "t9Zi7P7RiXU",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-01T21:04:24.000Z",
       "start_scheduled": "2026-06-01T21:00:00.000Z",
       "start_actual": "2026-06-01T21:04:24.000Z",
-      "live_viewers": 210,
+      "live_viewers": 220,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -48,9 +48,10 @@
       "status": "live",
       "topic_id": "drawing",
       "published_at": "2026-06-01T09:51:15.000Z",
-      "available_at": "2026-06-01T22:00:00.000Z",
+      "available_at": "2026-06-01T22:01:19.000Z",
       "start_scheduled": "2026-06-01T22:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-01T22:01:19.000Z",
+      "live_viewers": 79,
       "channel": {
         "id": "UCA8nozgxzH7O_w5I_1l0JXg",
         "name": "鴉羽そら",
