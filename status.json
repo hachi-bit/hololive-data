@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780362859,
+  "cached_at": 1780362918,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "LYSjnrsu6So",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-01T21:04:24.000Z",
       "start_scheduled": "2026-06-01T21:00:00.000Z",
       "start_actual": "2026-06-01T21:04:24.000Z",
-      "live_viewers": 520,
+      "live_viewers": 487,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-01T22:37:07.000Z",
       "start_scheduled": "2026-06-01T22:30:00.000Z",
       "start_actual": "2026-06-01T22:37:07.000Z",
-      "live_viewers": 352,
+      "live_viewers": 407,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-01T22:37:36.000Z",
       "start_scheduled": "2026-06-01T22:30:00.000Z",
       "start_actual": "2026-06-01T22:37:36.000Z",
-      "live_viewers": 627,
+      "live_viewers": 623,
       "channel": {
         "id": "UCKF9kMEyUzID3-P7GbxmT6w",
         "name": "hm",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-02T01:00:19.000Z",
       "start_scheduled": "2026-06-02T01:00:00.000Z",
       "start_actual": "2026-06-02T01:00:19.000Z",
-      "live_viewers": 2894,
+      "live_viewers": 3192,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-02T01:00:37.000Z",
       "start_scheduled": "2026-06-02T01:00:00.000Z",
       "start_actual": "2026-06-02T01:00:37.000Z",
-      "live_viewers": 4056,
+      "live_viewers": 4734,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -126,12 +126,12 @@
       "title": "【ANSWERING HOLOQ】 ANSWERING MORE QUESTIONS SO THAT YOU GUYS DOWNLOAD HOLOPLUS 【Kureiji Ollie】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "talk",
       "published_at": "2026-06-01T16:28:44.000Z",
       "available_at": "2026-06-02T01:01:44.000Z",
       "start_scheduled": "2026-06-02T01:00:00.000Z",
       "start_actual": "2026-06-02T01:01:44.000Z",
-      "live_viewers": 503,
+      "live_viewers": 562,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
