@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780392619,
+  "cached_at": 1780392679,
   "lives": {
     "UC8rcEBzJSleTkf_-agPM20g": {
       "video_id": "g8YUSVKGFlw",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-02T03:01:40.000Z",
       "start_scheduled": "2026-06-02T03:00:00.000Z",
       "start_actual": "2026-06-02T03:01:40.000Z",
-      "live_viewers": 8650,
+      "live_viewers": 8534,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-02T06:59:41.000Z",
       "start_scheduled": "2026-06-02T07:00:00.000Z",
       "start_actual": "2026-06-02T06:59:41.000Z",
-      "live_viewers": 1007,
+      "live_viewers": 986,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -99,6 +99,26 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC3OH5FKQ3qtl4uRme_vZTgA": {
+      "video_id": "nBPlJL6kydA",
+      "title": "【天才に挑戦】今日は巨匠の楽曲に挑みます。【 #UNIT_B / #玲銘ミラ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Musical_Instrument",
+      "published_at": "2026-06-02T07:12:11.000Z",
+      "available_at": "2026-06-02T09:28:18.000Z",
+      "start_scheduled": "2026-06-02T09:30:00.000Z",
+      "start_actual": "2026-06-02T09:28:18.000Z",
+      "live_viewers": 1224,
+      "channel": {
+        "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
+        "name": "UNIT B (Pre-Debut) - mekPark",
+        "english_name": "UNIT B [Pre-Debut]",
+        "org": "Hololive",
+        "suborg": "v_mekPark",
+        "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
