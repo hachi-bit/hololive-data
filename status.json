@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780411219,
+  "cached_at": 1780411280,
   "lives": {
     "UCl69AEx4MdqMZH7Jtsm7Tig": {
       "video_id": "HDBAUJCkIEw",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-02T09:59:14.000Z",
       "start_scheduled": "2026-06-02T10:00:00.000Z",
       "start_actual": "2026-06-02T09:59:14.000Z",
-      "live_viewers": 37700,
+      "live_viewers": 37231,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-02T10:00:23.000Z",
       "start_scheduled": "2026-06-02T10:00:00.000Z",
       "start_actual": "2026-06-02T10:00:23.000Z",
-      "live_viewers": 29842,
+      "live_viewers": 29667,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-02T10:45:17.000Z",
       "start_scheduled": "2026-06-02T10:45:00.000Z",
       "start_actual": "2026-06-02T10:45:17.000Z",
-      "live_viewers": 8435,
+      "live_viewers": 8299,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -231,7 +231,7 @@
       "available_at": "2026-06-02T10:50:37.000Z",
       "start_scheduled": "2026-06-02T10:45:00.000Z",
       "start_actual": "2026-06-02T10:50:37.000Z",
-      "live_viewers": 3207,
+      "live_viewers": 3214,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-02T10:53:39.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T10:53:39.000Z",
-      "live_viewers": 1030,
+      "live_viewers": 943,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -351,7 +351,7 @@
       "available_at": "2026-06-02T11:00:13.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T11:00:13.000Z",
-      "live_viewers": 6699,
+      "live_viewers": 6631,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -551,7 +551,7 @@
       "available_at": "2026-06-02T14:00:20.000Z",
       "start_scheduled": "2026-06-02T14:00:00.000Z",
       "start_actual": "2026-06-02T14:00:20.000Z",
-      "live_viewers": 365,
+      "live_viewers": 374,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
