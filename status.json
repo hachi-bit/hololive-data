@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780417160,
+  "cached_at": 1780417223,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "308KkZ1RuTw",
@@ -107,9 +107,10 @@
       "status": "live",
       "topic_id": "none",
       "published_at": "2026-06-02T14:54:46.000Z",
-      "available_at": "2026-06-02T16:15:00.000Z",
+      "available_at": "2026-06-02T16:15:54.000Z",
       "start_scheduled": "2026-06-02T16:15:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-02T16:15:54.000Z",
+      "live_viewers": 1221,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
