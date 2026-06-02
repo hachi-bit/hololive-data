@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780413199,
+  "cached_at": 1780413259,
   "lives": {
     "UCl69AEx4MdqMZH7Jtsm7Tig": {
       "video_id": "HDBAUJCkIEw",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-02T10:44:40.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T10:44:40.000Z",
-      "live_viewers": 2072,
+      "live_viewers": 2129,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-02T10:45:50.000Z",
       "start_scheduled": "2026-06-02T10:45:00.000Z",
       "start_actual": "2026-06-02T10:45:50.000Z",
-      "live_viewers": 6668,
+      "live_viewers": 6179,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-02T10:46:43.000Z",
       "start_scheduled": "2026-06-02T10:45:00.000Z",
       "start_actual": "2026-06-02T10:46:43.000Z",
-      "live_viewers": 6126,
+      "live_viewers": 5805,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-02T10:49:37.000Z",
       "start_scheduled": "2026-06-02T10:50:00.000Z",
       "start_actual": "2026-06-02T10:49:37.000Z",
-      "live_viewers": 4411,
+      "live_viewers": 4090,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -231,7 +231,7 @@
       "available_at": "2026-06-02T10:55:20.000Z",
       "start_scheduled": "2026-06-02T10:55:00.000Z",
       "start_actual": "2026-06-02T10:55:20.000Z",
-      "live_viewers": 8887,
+      "live_viewers": 8743,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-02T11:00:57.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T11:00:57.000Z",
-      "live_viewers": 856,
+      "live_viewers": 863,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -279,26 +279,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKMWFR6lAstLa7Vbf5dH7ig": {
-      "video_id": "IM5z-MSx9vM",
-      "title": "【メン限】復活ぜんや【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-02T12:30:45.000Z",
-      "available_at": "2026-06-02T13:04:54.000Z",
-      "start_scheduled": "2026-06-02T13:00:00.000Z",
-      "start_actual": "2026-06-02T13:04:54.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "english_name": "Rindo Chihaya",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
@@ -331,7 +311,7 @@
       "available_at": "2026-06-02T14:48:31.000Z",
       "start_scheduled": "2026-06-02T14:45:00.000Z",
       "start_actual": "2026-06-02T14:48:31.000Z",
-      "live_viewers": 203,
+      "live_viewers": 204,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
