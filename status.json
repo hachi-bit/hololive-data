@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780433959,
+  "cached_at": 1780434019,
   "lives": {
     "UCHsx4Hqa-1ORjQTh9TYDhww": {
       "video_id": "SlzCmzOgujg",
@@ -59,6 +59,26 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCL_qhgtOy0dy1Agp8vkySQg": {
+      "video_id": "-Ps5pxGJNEQ",
+      "title": "【STATE OF PLAY WATCH PARTY】here comes the runback...with @KosekiBijou  #calliolive",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-05-31T08:37:53.000Z",
+      "available_at": "2026-06-02T20:56:36.000Z",
+      "start_scheduled": "2026-06-02T21:00:00.000Z",
+      "start_actual": "2026-06-02T20:56:36.000Z",
+      "live_viewers": 2736,
+      "channel": {
+        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+        "name": "Mori Calliope Ch. hololive-EN",
+        "english_name": "Mori Calliope",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
