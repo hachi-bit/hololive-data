@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780408879,
+  "cached_at": 1780408940,
   "lives": {
     "UCl69AEx4MdqMZH7Jtsm7Tig": {
       "video_id": "HDBAUJCkIEw",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-02T10:00:31.000Z",
       "start_scheduled": "2026-06-02T10:00:00.000Z",
       "start_actual": "2026-06-02T10:00:31.000Z",
-      "live_viewers": 23486,
+      "live_viewers": 23382,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-02T10:44:40.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T10:44:40.000Z",
-      "live_viewers": 2313,
+      "live_viewers": 2299,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-02T10:45:02.000Z",
       "start_scheduled": "2026-06-02T10:45:00.000Z",
       "start_actual": "2026-06-02T10:45:02.000Z",
-      "live_viewers": 14829,
+      "live_viewers": 14233,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-02T10:45:24.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T10:45:24.000Z",
-      "live_viewers": 6277,
+      "live_viewers": 6425,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-02T10:46:43.000Z",
       "start_scheduled": "2026-06-02T10:45:00.000Z",
       "start_actual": "2026-06-02T10:46:43.000Z",
-      "live_viewers": 7651,
+      "live_viewers": 7646,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -291,7 +291,7 @@
       "available_at": "2026-06-02T10:55:20.000Z",
       "start_scheduled": "2026-06-02T10:55:00.000Z",
       "start_actual": "2026-06-02T10:55:20.000Z",
-      "live_viewers": 11826,
+      "live_viewers": 11730,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -311,7 +311,7 @@
       "available_at": "2026-06-02T10:56:14.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T10:56:14.000Z",
-      "live_viewers": 4145,
+      "live_viewers": 3986,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -331,7 +331,7 @@
       "available_at": "2026-06-02T10:57:16.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T10:57:16.000Z",
-      "live_viewers": 4643,
+      "live_viewers": 4535,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -431,7 +431,7 @@
       "available_at": "2026-06-02T11:02:46.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T11:02:46.000Z",
-      "live_viewers": 3225,
+      "live_viewers": 3170,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -511,7 +511,7 @@
       "available_at": "2026-06-02T11:40:12.000Z",
       "start_scheduled": "2026-06-02T11:30:00.000Z",
       "start_actual": "2026-06-02T11:40:12.000Z",
-      "live_viewers": 1814,
+      "live_viewers": 1827,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -551,7 +551,7 @@
       "available_at": "2026-06-02T13:01:15.000Z",
       "start_scheduled": "2026-06-02T13:00:00.000Z",
       "start_actual": "2026-06-02T13:01:15.000Z",
-      "live_viewers": 7807,
+      "live_viewers": 7662,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -619,6 +619,26 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "wCZyDJ3Xx9E",
+      "title": "#3【GNOSIA】 emotional manipulation tactics will lead us to victory【Pavolia Reine/hololiveID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Gnosia",
+      "published_at": "2026-06-02T12:23:04.000Z",
+      "available_at": "2026-06-02T14:00:20.000Z",
+      "start_scheduled": "2026-06-02T14:00:00.000Z",
+      "start_actual": "2026-06-02T14:00:20.000Z",
+      "live_viewers": 176,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
