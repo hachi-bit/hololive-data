@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780441699,
+  "cached_at": 1780441759,
   "lives": {
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
       "video_id": "SmHxA5XyhGQ",
@@ -28,9 +28,10 @@
       "status": "live",
       "topic_id": "none",
       "published_at": "2026-06-02T14:37:11.000Z",
-      "available_at": "2026-06-02T23:00:00.000Z",
+      "available_at": "2026-06-02T23:05:44.000Z",
       "start_scheduled": "2026-06-02T23:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-02T23:05:44.000Z",
+      "live_viewers": 472,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
