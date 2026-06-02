@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780402099,
+  "cached_at": 1780402159,
   "lives": {
     "UCl69AEx4MdqMZH7Jtsm7Tig": {
       "video_id": "HDBAUJCkIEw",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-02T10:00:31.000Z",
       "start_scheduled": "2026-06-02T10:00:00.000Z",
       "start_actual": "2026-06-02T10:00:31.000Z",
-      "live_viewers": 28709,
+      "live_viewers": 23127,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-02T10:45:24.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T10:45:24.000Z",
-      "live_viewers": 7185,
+      "live_viewers": 7563,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -231,7 +231,7 @@
       "available_at": "2026-06-02T10:46:43.000Z",
       "start_scheduled": "2026-06-02T10:45:00.000Z",
       "start_actual": "2026-06-02T10:46:43.000Z",
-      "live_viewers": 8035,
+      "live_viewers": 8094,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -331,7 +331,7 @@
       "available_at": "2026-06-02T10:55:06.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T10:55:06.000Z",
-      "live_viewers": 2878,
+      "live_viewers": 3004,
       "channel": {
         "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
         "name": "FUWAMOCO Ch. hololive-EN",
@@ -351,7 +351,7 @@
       "available_at": "2026-06-02T10:55:20.000Z",
       "start_scheduled": "2026-06-02T10:55:00.000Z",
       "start_actual": "2026-06-02T10:55:20.000Z",
-      "live_viewers": 11745,
+      "live_viewers": 12089,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -371,7 +371,7 @@
       "available_at": "2026-06-02T10:56:14.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T10:56:14.000Z",
-      "live_viewers": 4135,
+      "live_viewers": 4066,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -411,7 +411,7 @@
       "available_at": "2026-06-02T11:00:13.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T11:00:13.000Z",
-      "live_viewers": 4811,
+      "live_viewers": 5181,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -431,7 +431,7 @@
       "available_at": "2026-06-02T11:00:15.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T11:00:15.000Z",
-      "live_viewers": 15203,
+      "live_viewers": 14858,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -481,26 +481,6 @@
         "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCWQtYtq9EOB4-I5P-3fh8lA": {
-      "video_id": "vCtR9eX20wo",
-      "title": "【 #ホロ金策サバイバル2 】2日目も完全エンジョイする勢!!!!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-02T07:36:45.000Z",
-      "available_at": "2026-06-02T11:01:27.000Z",
-      "start_scheduled": "2026-06-02T11:00:00.000Z",
-      "start_actual": "2026-06-02T11:01:27.000Z",
-      "live_viewers": 3081,
-      "channel": {
-        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-        "english_name": "Otonose Kanade",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1uv2Oq6kNxgATlCiez59hw": {
       "video_id": "ZgbuEsudGdk",
       "title": "【 STREET FIGHTER 6 】V最でます!!!!のでれんしゅう【常闇トワ/ホロライブ】",
@@ -511,7 +491,7 @@
       "available_at": "2026-06-02T11:02:46.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T11:02:46.000Z",
-      "live_viewers": 3733,
+      "live_viewers": 3559,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -531,7 +511,7 @@
       "available_at": "2026-06-02T11:03:17.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T11:03:17.000Z",
-      "live_viewers": 2274,
+      "live_viewers": 2298,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -551,7 +531,7 @@
       "available_at": "2026-06-02T11:03:54.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T11:03:54.000Z",
-      "live_viewers": 799,
+      "live_viewers": 819,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -611,7 +591,7 @@
       "available_at": "2026-06-02T11:40:12.000Z",
       "start_scheduled": "2026-06-02T11:30:00.000Z",
       "start_actual": "2026-06-02T11:40:12.000Z",
-      "live_viewers": 1663,
+      "live_viewers": 1700,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -631,7 +611,7 @@
       "available_at": "2026-06-02T11:59:59.000Z",
       "start_scheduled": "2026-06-02T12:00:00.000Z",
       "start_actual": "2026-06-02T11:59:59.000Z",
-      "live_viewers": 187,
+      "live_viewers": 228,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -651,7 +631,7 @@
       "available_at": "2026-06-02T12:00:12.000Z",
       "start_scheduled": "2026-06-02T12:00:00.000Z",
       "start_actual": "2026-06-02T12:00:12.000Z",
-      "live_viewers": 3531,
+      "live_viewers": 3973,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
