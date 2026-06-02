@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780396459,
+  "cached_at": 1780396519,
   "lives": {
     "UC8rcEBzJSleTkf_-agPM20g": {
       "video_id": "g8YUSVKGFlw",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-02T09:59:14.000Z",
       "start_scheduled": "2026-06-02T10:00:00.000Z",
       "start_actual": "2026-06-02T09:59:14.000Z",
-      "live_viewers": 27309,
+      "live_viewers": 28095,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-02T10:00:23.000Z",
       "start_scheduled": "2026-06-02T10:00:00.000Z",
       "start_actual": "2026-06-02T10:00:23.000Z",
-      "live_viewers": 25175,
+      "live_viewers": 25421,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-02T10:00:31.000Z",
       "start_scheduled": "2026-06-02T10:00:00.000Z",
       "start_actual": "2026-06-02T10:00:31.000Z",
-      "live_viewers": 17214,
+      "live_viewers": 18098,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-02T10:01:10.000Z",
       "start_scheduled": "2026-06-02T10:00:00.000Z",
       "start_actual": "2026-06-02T10:01:10.000Z",
-      "live_viewers": 62886,
+      "live_viewers": 61072,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -148,9 +148,10 @@
       "status": "live",
       "topic_id": "Street_Fighter",
       "published_at": "2026-06-02T09:38:43.000Z",
-      "available_at": "2026-06-02T10:30:00.000Z",
+      "available_at": "2026-06-02T10:30:46.000Z",
       "start_scheduled": "2026-06-02T10:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-02T10:30:46.000Z",
+      "live_viewers": 240,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
