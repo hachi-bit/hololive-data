@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780417039,
+  "cached_at": 1780417099,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "308KkZ1RuTw",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-02T10:49:37.000Z",
       "start_scheduled": "2026-06-02T10:50:00.000Z",
       "start_actual": "2026-06-02T10:49:37.000Z",
-      "live_viewers": 5168,
+      "live_viewers": 4468,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -98,6 +98,25 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZLZ8Jjx_RN2CXloOmgTHVg": {
+      "video_id": "JKKW6o5AAhw",
+      "title": "【An Automaton's Journey】checking out a game thatt will be released on June 4th 😏",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-02T14:54:46.000Z",
+      "available_at": "2026-06-02T16:15:00.000Z",
+      "start_scheduled": "2026-06-02T16:15:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "name": "Kaela Kovalskia Ch. hololive-ID",
+        "english_name": "Kaela Kovalskia",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
