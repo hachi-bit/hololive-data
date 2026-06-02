@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780372999,
+  "cached_at": 1780373059,
   "lives": {
-    "UCA8nozgxzH7O_w5I_1l0JXg": {
-      "video_id": "z44HnDxMfXw",
-      "title": "【朝活お絵描き🌞】こっそり【REJECT/鴉羽そら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "drawing",
-      "published_at": "2026-06-01T09:51:15.000Z",
-      "available_at": "2026-06-01T22:01:19.000Z",
-      "start_scheduled": "2026-06-01T22:00:00.000Z",
-      "start_actual": "2026-06-01T22:01:19.000Z",
-      "live_viewers": 170,
-      "channel": {
-        "id": "UCA8nozgxzH7O_w5I_1l0JXg",
-        "name": "鴉羽そら",
-        "english_name": "Karasuba Sora",
-        "org": "REJECT",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/_X6gSgGZj-j-Lq96mY9rJ7jz4TemIVWkzaWgTuiDlheXV7izmwMZK7WM5hbi81OYT_fmx2gg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "VZC1rYPuvM0",
       "title": "【SUPER MARIO MAKER 2】looks easy #calliolive",
@@ -31,7 +11,7 @@
       "available_at": "2026-06-02T01:00:19.000Z",
       "start_scheduled": "2026-06-02T01:00:00.000Z",
       "start_actual": "2026-06-02T01:00:19.000Z",
-      "live_viewers": 6717,
+      "live_viewers": 6610,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -51,7 +31,7 @@
       "available_at": "2026-06-02T02:02:02.000Z",
       "start_scheduled": "2026-06-02T02:00:00.000Z",
       "start_actual": "2026-06-02T02:02:02.000Z",
-      "live_viewers": 473,
+      "live_viewers": 487,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -91,7 +71,7 @@
       "available_at": "2026-06-02T03:01:40.000Z",
       "start_scheduled": "2026-06-02T03:00:00.000Z",
       "start_actual": "2026-06-02T03:01:40.000Z",
-      "live_viewers": 7661,
+      "live_viewers": 7826,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
