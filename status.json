@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780417639,
+  "cached_at": 1780417699,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "wCZyDJ3Xx9E",
@@ -41,25 +41,6 @@
         "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCHsx4Hqa-1ORjQTh9TYDhww": {
-      "video_id": "SlzCmzOgujg",
-      "title": "【ARKNIGHTS: ENDFIELD】finishing the last chapter !!!! #kfp",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Arknights:_Endfield",
-      "published_at": "2026-06-02T09:52:36.000Z",
-      "available_at": "2026-06-02T16:00:00.000Z",
-      "start_scheduled": "2026-06-02T16:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
-        "name": "Takanashi Kiara Ch. hololive-EN",
-        "english_name": "Takanashi Kiara",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
       "video_id": "JKKW6o5AAhw",
       "title": "【An Automaton's Journey】checking out a game thatt will be released on June 4th 😏",
@@ -70,7 +51,7 @@
       "available_at": "2026-06-02T16:15:54.000Z",
       "start_scheduled": "2026-06-02T16:15:00.000Z",
       "start_actual": "2026-06-02T16:15:54.000Z",
-      "live_viewers": 2495,
+      "live_viewers": 2640,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -78,6 +59,26 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCHsx4Hqa-1ORjQTh9TYDhww": {
+      "video_id": "SlzCmzOgujg",
+      "title": "【ARKNIGHTS: ENDFIELD】finishing the last chapter !!!! #kfp",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Arknights:_Endfield",
+      "published_at": "2026-06-02T09:52:36.000Z",
+      "available_at": "2026-06-02T16:23:23.000Z",
+      "start_scheduled": "2026-06-02T16:00:00.000Z",
+      "start_actual": "2026-06-02T16:23:23.000Z",
+      "live_viewers": 1391,
+      "channel": {
+        "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+        "name": "Takanashi Kiara Ch. hololive-EN",
+        "english_name": "Takanashi Kiara",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
