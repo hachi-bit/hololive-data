@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780408099,
+  "cached_at": 1780408160,
   "lives": {
     "UCl69AEx4MdqMZH7Jtsm7Tig": {
       "video_id": "HDBAUJCkIEw",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-02T09:59:14.000Z",
       "start_scheduled": "2026-06-02T10:00:00.000Z",
       "start_actual": "2026-06-02T09:59:14.000Z",
-      "live_viewers": 40407,
+      "live_viewers": 39916,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-02T10:00:23.000Z",
       "start_scheduled": "2026-06-02T10:00:00.000Z",
       "start_actual": "2026-06-02T10:00:23.000Z",
-      "live_viewers": 31325,
+      "live_viewers": 31070,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-02T10:00:31.000Z",
       "start_scheduled": "2026-06-02T10:00:00.000Z",
       "start_actual": "2026-06-02T10:00:31.000Z",
-      "live_viewers": 24557,
+      "live_viewers": 24817,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-02T10:45:50.000Z",
       "start_scheduled": "2026-06-02T10:45:00.000Z",
       "start_actual": "2026-06-02T10:45:50.000Z",
-      "live_viewers": 7074,
+      "live_viewers": 7108,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -351,7 +351,7 @@
       "available_at": "2026-06-02T11:00:13.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T11:00:13.000Z",
-      "live_viewers": 5814,
+      "live_viewers": 6764,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -391,7 +391,7 @@
       "available_at": "2026-06-02T11:00:27.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T11:00:27.000Z",
-      "live_viewers": 1810,
+      "live_viewers": 1750,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -451,7 +451,7 @@
       "available_at": "2026-06-02T11:03:17.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T11:03:17.000Z",
-      "live_viewers": 2523,
+      "live_viewers": 2384,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -511,7 +511,7 @@
       "available_at": "2026-06-02T11:16:29.000Z",
       "start_scheduled": "2026-06-02T11:00:00.000Z",
       "start_actual": "2026-06-02T11:16:29.000Z",
-      "live_viewers": 111,
+      "live_viewers": 128,
       "channel": {
         "id": "UCA8nozgxzH7O_w5I_1l0JXg",
         "name": "鴉羽そら",
@@ -590,7 +590,7 @@
       "available_at": "2026-06-02T13:01:15.000Z",
       "start_scheduled": "2026-06-02T13:00:00.000Z",
       "start_actual": "2026-06-02T13:01:15.000Z",
-      "live_viewers": 8048,
+      "live_viewers": 8249,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -610,7 +610,7 @@
       "available_at": "2026-06-02T13:02:08.000Z",
       "start_scheduled": "2026-06-02T13:00:00.000Z",
       "start_actual": "2026-06-02T13:02:08.000Z",
-      "live_viewers": 531,
+      "live_viewers": 525,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -630,7 +630,7 @@
       "available_at": "2026-06-02T13:09:49.000Z",
       "start_scheduled": "2026-06-02T13:10:00.000Z",
       "start_actual": "2026-06-02T13:09:49.000Z",
-      "live_viewers": 797,
+      "live_viewers": 815,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
