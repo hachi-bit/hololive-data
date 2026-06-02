@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780394479,
+  "cached_at": 1780394539,
   "lives": {
     "UC8rcEBzJSleTkf_-agPM20g": {
       "video_id": "g8YUSVKGFlw",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-02T03:01:40.000Z",
       "start_scheduled": "2026-06-02T03:00:00.000Z",
       "start_actual": "2026-06-02T03:01:40.000Z",
-      "live_viewers": 6552,
+      "live_viewers": 6360,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-02T06:59:41.000Z",
       "start_scheduled": "2026-06-02T07:00:00.000Z",
       "start_actual": "2026-06-02T06:59:41.000Z",
-      "live_viewers": 943,
+      "live_viewers": 953,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-02T09:28:18.000Z",
       "start_scheduled": "2026-06-02T09:30:00.000Z",
       "start_actual": "2026-06-02T09:28:18.000Z",
-      "live_viewers": 6382,
+      "live_viewers": 6507,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -119,6 +119,26 @@
         "org": "Hololive",
         "suborg": "v_mekPark",
         "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "okn1ycdJ4LI",
+      "title": "【Minecraft】#ホロ金策サバイバル2 お金を稼ぎたい( ^ω^ ) DAY2 ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-01T16:14:26.000Z",
+      "available_at": "2026-06-02T09:59:14.000Z",
+      "start_scheduled": "2026-06-02T10:00:00.000Z",
+      "start_actual": "2026-06-02T09:59:14.000Z",
+      "live_viewers": 5783,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
