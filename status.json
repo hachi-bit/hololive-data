@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780362319,
+  "cached_at": 1780362379,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "LYSjnrsu6So",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-01T22:37:07.000Z",
       "start_scheduled": "2026-06-01T22:30:00.000Z",
       "start_actual": "2026-06-01T22:37:07.000Z",
-      "live_viewers": 345,
+      "live_viewers": 352,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -81,44 +81,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k1CPaOgRI2Mu5IEri_BZInMpG8xGyCi-koUo8GUJQ3ibxdodVjGLAG_bd8zdnFKpqUPQ0=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCYz_5n-uDuChHtLo7My1HnQ": {
-      "video_id": "yJqz0J99Dv0",
-      "title": "【ANSWERING HOLOQ】 ANSWERING MORE QUESTIONS SO THAT YOU GUYS DOWNLOAD HOLOPLUS 【Kureiji Ollie】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-06-01T16:28:44.000Z",
-      "available_at": "2026-06-02T01:00:00.000Z",
-      "start_scheduled": "2026-06-02T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
-        "name": "Kureiji Ollie Ch. hololive-ID",
-        "english_name": "Kureiji Ollie",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9p_lqQ0FEDz327Vgf5JwqA": {
-      "video_id": "buGF0UuutuA",
-      "title": "【STREET FIGHTER 6】ENTERING MY TRAINING ARC! Getting Coached by a PRO!! #sponsored",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-01T16:20:18.000Z",
-      "available_at": "2026-06-02T01:00:00.000Z",
-      "start_scheduled": "2026-06-02T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-        "name": "Koseki Bijou Ch. hololive-EN",
-        "english_name": "Koseki Bijou",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "VZC1rYPuvM0",
       "title": "【SUPER MARIO MAKER 2】looks easy #calliolive",
@@ -129,7 +91,7 @@
       "available_at": "2026-06-02T01:00:19.000Z",
       "start_scheduled": "2026-06-02T01:00:00.000Z",
       "start_actual": "2026-06-02T01:00:19.000Z",
-      "live_viewers": 988,
+      "live_viewers": 1967,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -137,6 +99,46 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9p_lqQ0FEDz327Vgf5JwqA": {
+      "video_id": "buGF0UuutuA",
+      "title": "【STREET FIGHTER 6】ENTERING MY TRAINING ARC! Getting Coached by a PRO!! #sponsored",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-06-01T16:20:18.000Z",
+      "available_at": "2026-06-02T01:00:37.000Z",
+      "start_scheduled": "2026-06-02T01:00:00.000Z",
+      "start_actual": "2026-06-02T01:00:37.000Z",
+      "live_viewers": 2949,
+      "channel": {
+        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+        "name": "Koseki Bijou Ch. hololive-EN",
+        "english_name": "Koseki Bijou",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCYz_5n-uDuChHtLo7My1HnQ": {
+      "video_id": "yJqz0J99Dv0",
+      "title": "【ANSWERING HOLOQ】 ANSWERING MORE QUESTIONS SO THAT YOU GUYS DOWNLOAD HOLOPLUS 【Kureiji Ollie】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-01T16:28:44.000Z",
+      "available_at": "2026-06-02T01:01:44.000Z",
+      "start_scheduled": "2026-06-02T01:00:00.000Z",
+      "start_actual": "2026-06-02T01:01:44.000Z",
+      "live_viewers": 360,
+      "channel": {
+        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+        "name": "Kureiji Ollie Ch. hololive-ID",
+        "english_name": "Kureiji Ollie",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
