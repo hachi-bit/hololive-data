@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780414099,
+  "cached_at": 1780414159,
   "lives": {
     "UCl69AEx4MdqMZH7Jtsm7Tig": {
       "video_id": "HDBAUJCkIEw",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-02T10:00:23.000Z",
       "start_scheduled": "2026-06-02T10:00:00.000Z",
       "start_actual": "2026-06-02T10:00:23.000Z",
-      "live_viewers": 25538,
+      "live_viewers": 25105,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-02T10:49:37.000Z",
       "start_scheduled": "2026-06-02T10:50:00.000Z",
       "start_actual": "2026-06-02T10:49:37.000Z",
-      "live_viewers": 3753,
+      "live_viewers": 3450,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -199,26 +199,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC727SQYUvx5pDDGQpTICNWg": {
-      "video_id": "oWkaPYjtzf4",
-      "title": "【#ホロ金策サバイバル2】Episode 1: Crazy for Money とりあえず稼ぐ稼ぐ稼ぐ【hololive ID 2nd Generation | Anya Melfissa】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-01T17:38:24.000Z",
-      "available_at": "2026-06-02T11:00:57.000Z",
-      "start_scheduled": "2026-06-02T11:00:00.000Z",
-      "start_actual": "2026-06-02T11:00:57.000Z",
-      "live_viewers": 833,
-      "channel": {
-        "id": "UC727SQYUvx5pDDGQpTICNWg",
-        "name": "Anya Melfissa Ch. hololive-ID",
-        "english_name": "Anya Melfissa",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCYz_5n-uDuChHtLo7My1HnQ": {
@@ -251,7 +231,7 @@
       "available_at": "2026-06-02T14:00:20.000Z",
       "start_scheduled": "2026-06-02T14:00:00.000Z",
       "start_actual": "2026-06-02T14:00:20.000Z",
-      "live_viewers": 698,
+      "live_viewers": 1139,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -271,7 +251,7 @@
       "available_at": "2026-06-02T14:48:31.000Z",
       "start_scheduled": "2026-06-02T14:45:00.000Z",
       "start_actual": "2026-06-02T14:48:31.000Z",
-      "live_viewers": 271,
+      "live_viewers": 278,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
