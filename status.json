@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780420159,
+  "cached_at": 1780420219,
   "lives": {
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "wCZyDJ3Xx9E",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-02T14:48:31.000Z",
       "start_scheduled": "2026-06-02T14:45:00.000Z",
       "start_actual": "2026-06-02T14:48:31.000Z",
-      "live_viewers": 336,
+      "live_viewers": 337,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -88,9 +88,10 @@
       "status": "live",
       "topic_id": "none",
       "published_at": "2026-06-02T14:08:05.000Z",
-      "available_at": "2026-06-02T17:00:00.000Z",
+      "available_at": "2026-06-02T17:04:41.000Z",
       "start_scheduled": "2026-06-02T17:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-02T17:04:41.000Z",
+      "live_viewers": 227,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
