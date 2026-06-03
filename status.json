@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780477519,
+  "cached_at": 1780477579,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "y-m0EdU9aEg",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-03T08:46:27.000Z",
       "start_scheduled": "2026-06-03T08:45:00.000Z",
       "start_actual": "2026-06-03T08:46:27.000Z",
-      "live_viewers": 3748,
+      "live_viewers": 5962,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-03T08:59:34.000Z",
       "start_scheduled": "2026-06-03T09:00:00.000Z",
       "start_actual": "2026-06-03T08:59:34.000Z",
-      "live_viewers": 1418,
+      "live_viewers": 2669,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -61,25 +61,6 @@
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC_82HBGtvwN1hcGeOGHzUBQ": {
-      "video_id": "565GTwLPyG4",
-      "title": "【#漢義リーグ ¦ 第2節】第6試合、トップがほしい!【にじさんじ/空星きらめ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-02T20:06:05.000Z",
-      "available_at": "2026-06-03T09:00:00.000Z",
-      "start_scheduled": "2026-06-03T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
-        "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
-        "english_name": "Sorahoshi Kirame",
-        "org": "Nijisanji",
-        "suborg": "1cKiramero",
-        "photo": "https://yt3.ggpht.com/0hwFUTExbP8nb6TT5iRURYq3WJTlotAdcbRohnVGh4ppEnZjKR0l4Qt4oz0KWrOXF0y-ye6LFQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCwXfrtn26oj7JW9fwB_z1bw": {
       "video_id": "xOfCb20922Y",
       "title": "【#漢義リーグ】第2節応援&対局視点配信 #秋麗宝燈",
@@ -87,9 +68,10 @@
       "status": "live",
       "topic_id": "Mahjong",
       "published_at": "2026-06-03T08:29:44.000Z",
-      "available_at": "2026-06-03T09:00:00.000Z",
+      "available_at": "2026-06-03T09:00:53.000Z",
       "start_scheduled": "2026-06-03T09:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-03T09:00:53.000Z",
+      "live_viewers": 494,
       "channel": {
         "id": "UCwXfrtn26oj7JW9fwB_z1bw",
         "name": "咲乃もこ【SakinoMoco】",
@@ -97,6 +79,26 @@
         "org": "Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/PU1Ptl5GyhcWRD3deTCx5XpQBFoMZdLa808TYJG1yIkVLjNq0kCdiGEe11W92RsjGouaQi5u-Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_82HBGtvwN1hcGeOGHzUBQ": {
+      "video_id": "565GTwLPyG4",
+      "title": "【#漢義リーグ ¦ 第2節】第6試合、トップがほしい!【にじさんじ/空星きらめ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-02T20:06:05.000Z",
+      "available_at": "2026-06-03T09:02:28.000Z",
+      "start_scheduled": "2026-06-03T09:00:00.000Z",
+      "start_actual": "2026-06-03T09:02:28.000Z",
+      "live_viewers": 177,
+      "channel": {
+        "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
+        "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
+        "english_name": "Sorahoshi Kirame",
+        "org": "Nijisanji",
+        "suborg": "1cKiramero",
+        "photo": "https://yt3.ggpht.com/0hwFUTExbP8nb6TT5iRURYq3WJTlotAdcbRohnVGh4ppEnZjKR0l4Qt4oz0KWrOXF0y-ye6LFQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
