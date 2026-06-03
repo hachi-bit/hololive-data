@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780491380,
+  "cached_at": 1780491439,
   "lives": {
     "UC7-N7MvN5muVIHqyQx9LFbA": {
       "video_id": "Sd5sWQar_3c",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-03T10:01:08.000Z",
       "start_scheduled": "2026-06-03T10:00:00.000Z",
       "start_actual": "2026-06-03T10:01:08.000Z",
-      "live_viewers": 42604,
+      "live_viewers": 42053,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-03T11:01:11.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:11.000Z",
-      "live_viewers": 268,
+      "live_viewers": 263,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-03T11:01:44.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:44.000Z",
-      "live_viewers": 596,
+      "live_viewers": 587,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -221,6 +221,26 @@
         "photo": "https://yt3.ggpht.com/rR9dRuBICG0hHZMAOgv3-j3qtpbb2e9L18eroJA-qGhqnHTcIvkrW-sFWp9sdWcYR-yKVf50kog=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "zlf5ffUBnfM",
+      "title": "【LoL】League of Legends 親子カスタム  パパはパパじゃありません。/ アステル",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-06-03T10:40:32.000Z",
+      "available_at": "2026-06-03T11:03:05.000Z",
+      "start_scheduled": "2026-06-03T11:00:00.000Z",
+      "start_actual": "2026-06-03T11:03:05.000Z",
+      "live_viewers": 532,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UC4Xuz67FNRr69ILv2b7ZRBA": {
       "video_id": "il_CbYOBXqs",
       "title": "【LOLカスタム】初心者同士たたかわせてくれるらしい久しぶりや w/陵本なぎ 古神子まる 柚鳥ペケ 若魔陽エル【青桐エイト/ネオポルテ】",
@@ -239,26 +259,6 @@
         "org": "Neo-Porte",
         "suborg": "0i4th Generation",
         "photo": "https://yt3.ggpht.com/2WmVTC2WWUeTzxiLpgiC25juIuJkF4CfVaoD0IksRQxUWH2GVcmGUb0tx0P45wvv0VW3MT6aXg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "zlf5ffUBnfM",
-      "title": "【LoL】League of Legends 親子カスタム  パパはパパじゃありません。/ アステル",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-06-03T10:40:32.000Z",
-      "available_at": "2026-06-03T11:03:05.000Z",
-      "start_scheduled": "2026-06-03T11:00:00.000Z",
-      "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 509,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCwhH8ZM5aNdMo8XzkY2b-AA": {
@@ -351,7 +351,7 @@
       "available_at": "2026-06-03T11:48:33.000Z",
       "start_scheduled": "2026-06-03T11:30:00.000Z",
       "start_actual": "2026-06-03T11:48:33.000Z",
-      "live_viewers": 8011,
+      "live_viewers": 8297,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
