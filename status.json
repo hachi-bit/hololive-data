@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780489159,
+  "cached_at": 1780489219,
   "lives": {
     "UC7-N7MvN5muVIHqyQx9LFbA": {
       "video_id": "Sd5sWQar_3c",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-03T09:02:28.000Z",
       "start_scheduled": "2026-06-03T09:00:00.000Z",
       "start_actual": "2026-06-03T09:02:28.000Z",
-      "live_viewers": 770,
+      "live_viewers": 831,
       "channel": {
         "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
         "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-03T09:59:15.000Z",
       "start_scheduled": "2026-06-03T10:00:00.000Z",
       "start_actual": "2026-06-03T09:59:15.000Z",
-      "live_viewers": 29459,
+      "live_viewers": 30330,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-03T10:01:37.000Z",
       "start_scheduled": "2026-06-03T10:00:00.000Z",
       "start_actual": "2026-06-03T10:01:37.000Z",
-      "live_viewers": 34571,
+      "live_viewers": 34252,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-03T11:01:59.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:59.000Z",
-      "live_viewers": 122,
+      "live_viewers": 128,
       "channel": {
         "id": "UCUtKkGKef8BYMs3h-3zQm9A",
         "name": "Suha Channel 【NIJISANJI】",
@@ -301,26 +301,6 @@
         "photo": "https://yt3.ggpht.com/I0zPHx5XLBUFqXbp37xXdzNkGa_celV1OuHC4dzBu8T9XnFc6xqzdlZ1Bukw655PNEww98zU5SM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "zlf5ffUBnfM",
-      "title": "【LoL】League of Legends 親子カスタム  パパはパパじゃありません。/ アステル",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-06-03T10:40:32.000Z",
-      "available_at": "2026-06-03T11:03:05.000Z",
-      "start_scheduled": "2026-06-03T11:00:00.000Z",
-      "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 463,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC4Xuz67FNRr69ILv2b7ZRBA": {
       "video_id": "il_CbYOBXqs",
       "title": "【LOLカスタム】初心者同士たたかわせてくれるらしい久しぶりや w/陵本なぎ 古神子まる 柚鳥ペケ 若魔陽エル【青桐エイト/ネオポルテ】",
@@ -341,6 +321,26 @@
         "photo": "https://yt3.ggpht.com/2WmVTC2WWUeTzxiLpgiC25juIuJkF4CfVaoD0IksRQxUWH2GVcmGUb0tx0P45wvv0VW3MT6aXg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "zlf5ffUBnfM",
+      "title": "【LoL】League of Legends 親子カスタム  パパはパパじゃありません。/ アステル",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-06-03T10:40:32.000Z",
+      "available_at": "2026-06-03T11:03:05.000Z",
+      "start_scheduled": "2026-06-03T11:00:00.000Z",
+      "start_actual": "2026-06-03T11:03:05.000Z",
+      "live_viewers": 463,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCgRqGV1gBf2Esxh0Tz1vxzw": {
       "video_id": "DPYS5vLM1vs",
       "title": "【League of Legends 親子カスタム】チーム1で勝つぞ!!【 #ホロスターズ 】",
@@ -351,7 +351,7 @@
       "available_at": "2026-06-03T11:07:55.000Z",
       "start_scheduled": "2026-06-03T11:05:00.000Z",
       "start_actual": "2026-06-03T11:07:55.000Z",
-      "live_viewers": 96,
+      "live_viewers": 92,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -429,7 +429,7 @@
       "available_at": "2026-06-03T11:47:16.000Z",
       "start_scheduled": "2026-06-03T11:45:00.000Z",
       "start_actual": "2026-06-03T11:47:16.000Z",
-      "live_viewers": 16214,
+      "live_viewers": 16871,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -449,7 +449,7 @@
       "available_at": "2026-06-03T11:48:33.000Z",
       "start_scheduled": "2026-06-03T11:30:00.000Z",
       "start_actual": "2026-06-03T11:48:33.000Z",
-      "live_viewers": 7708,
+      "live_viewers": 7715,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -469,7 +469,7 @@
       "available_at": "2026-06-03T11:49:34.000Z",
       "start_scheduled": "2026-06-03T11:50:00.000Z",
       "start_actual": "2026-06-03T11:49:34.000Z",
-      "live_viewers": 3174,
+      "live_viewers": 3330,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -489,7 +489,7 @@
       "available_at": "2026-06-03T11:51:36.000Z",
       "start_scheduled": "2026-06-03T11:30:00.000Z",
       "start_actual": "2026-06-03T11:51:36.000Z",
-      "live_viewers": 2404,
+      "live_viewers": 2481,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -547,7 +547,7 @@
       "available_at": "2026-06-03T12:12:36.000Z",
       "start_scheduled": "2026-06-03T12:00:00.000Z",
       "start_actual": "2026-06-03T12:12:36.000Z",
-      "live_viewers": 2302,
+      "live_viewers": 2816,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
