@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780500859,
+  "cached_at": 1780500919,
   "lives": {
     "UCtMiyDQJ97iax5wuwGhLzGg": {
       "video_id": "bPl4FtvAQyk",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-03T11:03:05.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 48,
+      "live_viewers": 40,
       "channel": {
         "id": "UCwhH8ZM5aNdMo8XzkY2b-AA",
         "name": "真白ぽん -Mashiro Pon-",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-03T12:12:36.000Z",
       "start_scheduled": "2026-06-03T12:00:00.000Z",
       "start_actual": "2026-06-03T12:12:36.000Z",
-      "live_viewers": 11209,
+      "live_viewers": 11153,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -121,86 +121,6 @@
         "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCP0BspO_AMEe3aQqqpo89Dg": {
-      "video_id": "n-eNTFOdxms",
-      "title": "【Escape Simulator 2】\"Team\" Work.【hololive | moona】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Escape_Simulator",
-      "published_at": "2026-06-03T11:00:08.000Z",
-      "available_at": "2026-06-03T13:04:13.000Z",
-      "start_scheduled": "2026-06-03T13:00:00.000Z",
-      "start_actual": "2026-06-03T13:04:13.000Z",
-      "live_viewers": 1089,
-      "channel": {
-        "id": "UCP0BspO_AMEe3aQqqpo89Dg",
-        "name": "Moona Hoshinova hololive-ID",
-        "english_name": "Moona Hoshinova",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCOyYb1c43VlX9rc_lT6NKQw": {
-      "video_id": "9unyxtYS7kk",
-      "title": "KABUR SIMULATOR 2 with Area15.1",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Escape_Simulator",
-      "published_at": "2026-06-03T11:50:34.000Z",
-      "available_at": "2026-06-03T13:04:32.000Z",
-      "start_scheduled": "2026-06-03T13:00:00.000Z",
-      "start_actual": "2026-06-03T13:04:32.000Z",
-      "live_viewers": 1010,
-      "channel": {
-        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-        "name": "Ayunda Risu Ch. hololive-ID",
-        "english_name": "Ayunda Risu",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCYz_5n-uDuChHtLo7My1HnQ": {
-      "video_id": "z7FUwOQIV-k",
-      "title": "【Escape Simulator 2】 THEY'RE STUCK IN THE ROOM WITH ME... HEHEH... 【Kureiji Ollie】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Escape_Simulator",
-      "published_at": "2026-05-30T13:41:49.000Z",
-      "available_at": "2026-06-03T13:06:34.000Z",
-      "start_scheduled": "2026-06-03T13:00:00.000Z",
-      "start_actual": "2026-06-03T13:06:34.000Z",
-      "live_viewers": 735,
-      "channel": {
-        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
-        "name": "Kureiji Ollie Ch. hololive-ID",
-        "english_name": "Kureiji Ollie",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCAoy6rzhSf4ydcYjJw3WoVg": {
-      "video_id": "ok7hMSBn4gE",
-      "title": "【Escape Simultaor 2】Kerja \"Kelompok\"【iofi / ホロライブID】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Escape_Simulator",
-      "published_at": "2026-06-03T05:31:58.000Z",
-      "available_at": "2026-06-03T13:06:47.000Z",
-      "start_scheduled": "2026-06-03T13:00:00.000Z",
-      "start_actual": "2026-06-03T13:06:47.000Z",
-      "live_viewers": 789,
-      "channel": {
-        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-        "name": "Airani Iofifteen Channel hololive-ID",
-        "english_name": "Airani Iofifteen",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC6t3-_N8A6ME1JShZHHqOMw": {
       "video_id": "AjreTQLkQOA",
       "title": "【雑談】最後のマシュマロ読み【花咲みやび/ホロスターズ】",
@@ -211,7 +131,7 @@
       "available_at": "2026-06-03T13:10:30.000Z",
       "start_scheduled": "2026-06-03T13:10:00.000Z",
       "start_actual": "2026-06-03T13:10:30.000Z",
-      "live_viewers": 913,
+      "live_viewers": 964,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -231,7 +151,7 @@
       "available_at": "2026-06-03T13:21:54.000Z",
       "start_scheduled": "2026-06-03T13:10:00.000Z",
       "start_actual": "2026-06-03T13:21:54.000Z",
-      "live_viewers": 5435,
+      "live_viewers": 5240,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
