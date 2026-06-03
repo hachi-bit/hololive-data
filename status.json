@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780459819,
+  "cached_at": 1780459880,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "KFvwq8p3BC0",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-03T02:59:43.000Z",
       "start_scheduled": "2026-06-03T03:00:00.000Z",
       "start_actual": "2026-06-03T02:59:43.000Z",
-      "live_viewers": 554,
+      "live_viewers": 563,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-03T03:01:38.000Z",
       "start_scheduled": "2026-06-03T03:00:00.000Z",
       "start_actual": "2026-06-03T03:01:38.000Z",
-      "live_viewers": 689,
+      "live_viewers": 702,
       "channel": {
         "id": "UCasKmptouCrwWLl8SlQU2tQ",
         "name": "おなつのにびたし / Onatsu no Nibitashi",
@@ -119,6 +119,26 @@
         "org": "Twitch Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/xWy_Afq5-hYE0riz6wByr6HGlxSMBSabKju2lwHmXld7lttEsMW4D5BLvoykoWQ-_drmCi5UO7E=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKF9kMEyUzID3-P7GbxmT6w": {
+      "video_id": "Ea8krM_dRd0",
+      "title": "【 Vtuber農業部 】農業部最終回だ!【 日向まる / 個人 / #stardewvalley  】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Stardew_Valley",
+      "published_at": "2026-06-02T12:27:45.000Z",
+      "available_at": "2026-06-03T03:01:49.000Z",
+      "start_scheduled": "2026-06-03T03:00:00.000Z",
+      "start_actual": "2026-06-03T03:01:49.000Z",
+      "live_viewers": 584,
+      "channel": {
+        "id": "UCKF9kMEyUzID3-P7GbxmT6w",
+        "name": "hm",
+        "english_name": "Hinata Maru",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_k1CPaOgRI2Mu5IEri_BZInMpG8xGyCi-koUo8GUJQ3ibxdodVjGLAG_bd8zdnFKpqUPQ0=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCZgOv3YDEs-ZnZWDYVwJdmA": {
@@ -141,26 +161,6 @@
         "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCKF9kMEyUzID3-P7GbxmT6w": {
-      "video_id": "Ea8krM_dRd0",
-      "title": "【 Vtuber農業部 】農業部最終回だ!【 日向まる / 個人 / #stardewvalley  】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Stardew_Valley",
-      "published_at": "2026-06-02T12:27:45.000Z",
-      "available_at": "2026-06-03T03:01:49.000Z",
-      "start_scheduled": "2026-06-03T03:00:00.000Z",
-      "start_actual": "2026-06-03T03:01:49.000Z",
-      "live_viewers": 567,
-      "channel": {
-        "id": "UCKF9kMEyUzID3-P7GbxmT6w",
-        "name": "hm",
-        "english_name": "Hinata Maru",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_k1CPaOgRI2Mu5IEri_BZInMpG8xGyCi-koUo8GUJQ3ibxdodVjGLAG_bd8zdnFKpqUPQ0=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCEy9cYULQrC2cRlVqJPCcSw": {
       "video_id": "KjlzFZYPlvU",
       "title": "【 Stardew Valley 】最後の冬、Vtuber農業部￤#最終回【 NeoPorte / 水無瀬 】",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-03T03:03:58.000Z",
       "start_scheduled": "2026-06-03T03:00:00.000Z",
       "start_actual": "2026-06-03T03:03:58.000Z",
-      "live_viewers": 507,
+      "live_viewers": 496,
       "channel": {
         "id": "UCEy9cYULQrC2cRlVqJPCcSw",
         "name": "水無瀬 / Minase",
