@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780491499,
+  "cached_at": 1780491559,
   "lives": {
     "UC7-N7MvN5muVIHqyQx9LFbA": {
       "video_id": "Sd5sWQar_3c",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-03T08:46:27.000Z",
       "start_scheduled": "2026-06-03T08:45:00.000Z",
       "start_actual": "2026-06-03T08:46:27.000Z",
-      "live_viewers": 11791,
+      "live_viewers": 7134,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -61,26 +61,6 @@
         "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "gSV9jaXfW6w",
-      "title": "【Minecraft】#ホロ金策サバイバル2 お金を稼ぎたい( ^ω^ ) DAY3 ぺこ!【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-02T15:27:54.000Z",
-      "available_at": "2026-06-03T10:01:08.000Z",
-      "start_scheduled": "2026-06-03T10:00:00.000Z",
-      "start_actual": "2026-06-03T10:01:08.000Z",
-      "live_viewers": 42053,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
       "video_id": "oUCuGnWNq2w",
       "title": "【ストリートファイター6】テリー修行【荒咬オウガ /ホロスターズ】",
@@ -91,7 +71,7 @@
       "available_at": "2026-06-03T11:00:20.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:00:20.000Z",
-      "live_viewers": 205,
+      "live_viewers": 204,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -111,7 +91,7 @@
       "available_at": "2026-06-03T11:01:11.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:11.000Z",
-      "live_viewers": 263,
+      "live_viewers": 277,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -171,7 +151,7 @@
       "available_at": "2026-06-03T11:02:03.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:02:03.000Z",
-      "live_viewers": 15,
+      "live_viewers": 19,
       "channel": {
         "id": "UCtMiyDQJ97iax5wuwGhLzGg",
         "name": "柚鳥ペケ YUTORI PEKE",
@@ -191,7 +171,7 @@
       "available_at": "2026-06-03T11:02:04.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:02:04.000Z",
-      "live_viewers": 17,
+      "live_viewers": 12,
       "channel": {
         "id": "UCPI-eyzOIfQiGE3JK7H8XEw",
         "name": "陵本なぎ Okamoto Nagi",
@@ -211,7 +191,7 @@
       "available_at": "2026-06-03T11:02:51.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:02:51.000Z",
-      "live_viewers": 277,
+      "live_viewers": 282,
       "channel": {
         "id": "UCTEoGGp5G9AFbNOb3nmrY3w",
         "name": "ニャマシュヴァ・ルッツ",
@@ -219,6 +199,26 @@
         "org": "Nyantasia!",
         "suborg": "zz",
         "photo": "https://yt3.ggpht.com/rR9dRuBICG0hHZMAOgv3-j3qtpbb2e9L18eroJA-qGhqnHTcIvkrW-sFWp9sdWcYR-yKVf50kog=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCwhH8ZM5aNdMo8XzkY2b-AA": {
+      "video_id": "XdtjXSuIpXI",
+      "title": "【League of Legends】 コーチング付き親子カスタム!みんなでがんばるぞー!!! 【真白ぽん / Vtuber】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-06-03T10:51:22.000Z",
+      "available_at": "2026-06-03T11:03:05.000Z",
+      "start_scheduled": "2026-06-03T11:00:00.000Z",
+      "start_actual": "2026-06-03T11:03:05.000Z",
+      "live_viewers": 53,
+      "channel": {
+        "id": "UCwhH8ZM5aNdMo8XzkY2b-AA",
+        "name": "真白ぽん -Mashiro Pon-",
+        "english_name": "Mashiro Pon",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/I0zPHx5XLBUFqXbp37xXdzNkGa_celV1OuHC4dzBu8T9XnFc6xqzdlZ1Bukw655PNEww98zU5SM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
@@ -259,26 +259,6 @@
         "org": "Neo-Porte",
         "suborg": "0i4th Generation",
         "photo": "https://yt3.ggpht.com/2WmVTC2WWUeTzxiLpgiC25juIuJkF4CfVaoD0IksRQxUWH2GVcmGUb0tx0P45wvv0VW3MT6aXg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwhH8ZM5aNdMo8XzkY2b-AA": {
-      "video_id": "XdtjXSuIpXI",
-      "title": "【League of Legends】 コーチング付き親子カスタム!みんなでがんばるぞー!!! 【真白ぽん / Vtuber】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-06-03T10:51:22.000Z",
-      "available_at": "2026-06-03T11:03:05.000Z",
-      "start_scheduled": "2026-06-03T11:00:00.000Z",
-      "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 33,
-      "channel": {
-        "id": "UCwhH8ZM5aNdMo8XzkY2b-AA",
-        "name": "真白ぽん -Mashiro Pon-",
-        "english_name": "Mashiro Pon",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/I0zPHx5XLBUFqXbp37xXdzNkGa_celV1OuHC4dzBu8T9XnFc6xqzdlZ1Bukw655PNEww98zU5SM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCgRqGV1gBf2Esxh0Tz1vxzw": {
@@ -391,7 +371,7 @@
       "available_at": "2026-06-03T11:51:36.000Z",
       "start_scheduled": "2026-06-03T11:30:00.000Z",
       "start_actual": "2026-06-03T11:51:36.000Z",
-      "live_viewers": 2754,
+      "live_viewers": 3848,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
