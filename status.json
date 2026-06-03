@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780487779,
+  "cached_at": 1780487839,
   "lives": {
     "UC7-N7MvN5muVIHqyQx9LFbA": {
       "video_id": "Sd5sWQar_3c",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-03T08:46:27.000Z",
       "start_scheduled": "2026-06-03T08:45:00.000Z",
       "start_actual": "2026-06-03T08:46:27.000Z",
-      "live_viewers": 14244,
+      "live_viewers": 14045,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-03T09:00:53.000Z",
       "start_scheduled": "2026-06-03T09:00:00.000Z",
       "start_actual": "2026-06-03T09:00:53.000Z",
-      "live_viewers": 619,
+      "live_viewers": 693,
       "channel": {
         "id": "UCwXfrtn26oj7JW9fwB_z1bw",
         "name": "咲乃もこ【SakinoMoco】",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-03T09:19:25.000Z",
       "start_scheduled": "2026-06-03T09:15:00.000Z",
       "start_actual": "2026-06-03T09:19:25.000Z",
-      "live_viewers": 2082,
+      "live_viewers": 2035,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-03T10:01:08.000Z",
       "start_scheduled": "2026-06-03T10:00:00.000Z",
       "start_actual": "2026-06-03T10:01:08.000Z",
-      "live_viewers": 53095,
+      "live_viewers": 51847,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-03T10:01:37.000Z",
       "start_scheduled": "2026-06-03T10:00:00.000Z",
       "start_actual": "2026-06-03T10:01:37.000Z",
-      "live_viewers": 35451,
+      "live_viewers": 35466,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-03T11:01:59.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:59.000Z",
-      "live_viewers": 117,
+      "live_viewers": 120,
       "channel": {
         "id": "UCUtKkGKef8BYMs3h-3zQm9A",
         "name": "Suha Channel 【NIJISANJI】",
@@ -281,26 +281,6 @@
         "photo": "https://yt3.ggpht.com/rR9dRuBICG0hHZMAOgv3-j3qtpbb2e9L18eroJA-qGhqnHTcIvkrW-sFWp9sdWcYR-yKVf50kog=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "zlf5ffUBnfM",
-      "title": "【LoL】League of Legends 親子カスタム  パパはパパじゃありません。/ アステル",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-06-03T10:40:32.000Z",
-      "available_at": "2026-06-03T11:03:05.000Z",
-      "start_scheduled": "2026-06-03T11:00:00.000Z",
-      "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 437,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCwhH8ZM5aNdMo8XzkY2b-AA": {
       "video_id": "XdtjXSuIpXI",
       "title": "【League of Legends】 コーチング付き親子カスタム!みんなでがんばるぞー!!! 【真白ぽん / Vtuber】",
@@ -311,7 +291,7 @@
       "available_at": "2026-06-03T11:03:05.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 40,
+      "live_viewers": 38,
       "channel": {
         "id": "UCwhH8ZM5aNdMo8XzkY2b-AA",
         "name": "真白ぽん -Mashiro Pon-",
@@ -341,6 +321,26 @@
         "photo": "https://yt3.ggpht.com/2WmVTC2WWUeTzxiLpgiC25juIuJkF4CfVaoD0IksRQxUWH2GVcmGUb0tx0P45wvv0VW3MT6aXg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "zlf5ffUBnfM",
+      "title": "【LoL】League of Legends 親子カスタム  パパはパパじゃありません。/ アステル",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-06-03T10:40:32.000Z",
+      "available_at": "2026-06-03T11:03:05.000Z",
+      "start_scheduled": "2026-06-03T11:00:00.000Z",
+      "start_actual": "2026-06-03T11:03:05.000Z",
+      "live_viewers": 433,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCgRqGV1gBf2Esxh0Tz1vxzw": {
       "video_id": "DPYS5vLM1vs",
       "title": "【League of Legends 親子カスタム】チーム1で勝つぞ!!【 #ホロスターズ 】",
@@ -351,7 +351,7 @@
       "available_at": "2026-06-03T11:07:55.000Z",
       "start_scheduled": "2026-06-03T11:05:00.000Z",
       "start_actual": "2026-06-03T11:07:55.000Z",
-      "live_viewers": 92,
+      "live_viewers": 96,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -381,25 +381,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCAWSyEs_Io8MtpY3m-zqILA": {
-      "video_id": "abrqGwk2B5Q",
-      "title": "【 #ホロ金策サバイバル2 】ヲレらはファームで勝つんだ!!!!!!!!!【 桃鈴ねね / hololive 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-03T07:43:10.000Z",
-      "available_at": "2026-06-03T11:45:00.000Z",
-      "start_scheduled": "2026-06-03T11:45:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-        "name": "Nene Ch.桃鈴ねね",
-        "english_name": "Momosuzu Nene",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC_vMYWcDjmfdpH6r4TTn1MQ": {
       "video_id": "9EbLakjJqYs",
       "title": "【#ホロ金策サバイバル2 】戦闘を信じろ___マイクラ玄人っぽい思考💭【風真いろは/ホロライブ】",
@@ -419,6 +400,25 @@
         "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCAWSyEs_Io8MtpY3m-zqILA": {
+      "video_id": "abrqGwk2B5Q",
+      "title": "【 #ホロ金策サバイバル2 】ヲレらはファームで勝つんだ!!!!!!!!!【 桃鈴ねね / hololive 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-03T07:43:10.000Z",
+      "available_at": "2026-06-03T11:45:00.000Z",
+      "start_scheduled": "2026-06-03T11:45:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+        "name": "Nene Ch.桃鈴ねね",
+        "english_name": "Momosuzu Nene",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
       "video_id": "GSMyPNRANvc",
       "title": "【#ホロ金策サバイバル2】 狐の錬金術師/FOXALCHEMIST DAY3 【ホロライブ/白上フブキ】",
@@ -429,7 +429,7 @@
       "available_at": "2026-06-03T11:47:16.000Z",
       "start_scheduled": "2026-06-03T11:45:00.000Z",
       "start_actual": "2026-06-03T11:47:16.000Z",
-      "live_viewers": 10103,
+      "live_viewers": 11478,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -449,7 +449,7 @@
       "available_at": "2026-06-03T11:48:33.000Z",
       "start_scheduled": "2026-06-03T11:30:00.000Z",
       "start_actual": "2026-06-03T11:48:33.000Z",
-      "live_viewers": 4662,
+      "live_viewers": 5097,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -469,7 +469,7 @@
       "available_at": "2026-06-03T11:49:34.000Z",
       "start_scheduled": "2026-06-03T11:50:00.000Z",
       "start_actual": "2026-06-03T11:49:34.000Z",
-      "live_viewers": 1973,
+      "live_viewers": 2158,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -489,7 +489,7 @@
       "available_at": "2026-06-03T11:51:36.000Z",
       "start_scheduled": "2026-06-03T11:30:00.000Z",
       "start_actual": "2026-06-03T11:51:36.000Z",
-      "live_viewers": 1078,
+      "live_viewers": 1334,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -497,6 +497,44 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "jAjoi36Eud0",
+      "title": "【 #ホロ金策サバイバル2 】インダねねちハウス❤ハードのダンジョンはいかほど!?【ホロライブ DEV_IS 響咲リオナ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-02T16:46:34.000Z",
+      "available_at": "2026-06-03T11:55:00.000Z",
+      "start_scheduled": "2026-06-03T11:55:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFTLzh12_nrtzqBPsTCqenA": {
+      "video_id": "cy3rSdrJ4R0",
+      "title": "【  #ホロ金策サバイバル2 】3日目!ファイターの時代がきた!!【アキロゼ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-03T08:54:16.000Z",
+      "available_at": "2026-06-03T11:55:00.000Z",
+      "start_scheduled": "2026-06-03T11:55:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCFTLzh12_nrtzqBPsTCqenA",
+        "name": "アキロゼCh。Vtuber/ホロライブ所属",
+        "english_name": "Aki Rosenthal",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
