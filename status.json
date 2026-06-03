@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780491259,
+  "cached_at": 1780491319,
   "lives": {
     "UC7-N7MvN5muVIHqyQx9LFbA": {
       "video_id": "Sd5sWQar_3c",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-03T09:19:25.000Z",
       "start_scheduled": "2026-06-03T09:15:00.000Z",
       "start_actual": "2026-06-03T09:19:25.000Z",
-      "live_viewers": 1821,
+      "live_viewers": 1980,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "0w0th Generation",
         "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC-hM6YJuNYVAmUWxeIr9FeA": {
-      "video_id": "jrDnHQoYEFk",
-      "title": "【#ホロ金策サバイバル2】3日目!!!!養蜂家に俺はなるにぇええええええええええ‼【ホロライブ/さくらみこ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-02T17:47:34.000Z",
-      "available_at": "2026-06-03T09:59:15.000Z",
-      "start_scheduled": "2026-06-03T10:00:00.000Z",
-      "start_actual": "2026-06-03T09:59:15.000Z",
-      "live_viewers": 29353,
-      "channel": {
-        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-        "name": "Miko Ch. さくらみこ",
-        "english_name": "Sakura Miko",
-        "org": "Hololive",
-        "suborg": "0y0th Generation",
-        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1DCedRgGHBdm81E1llLhOQ": {
@@ -111,7 +91,7 @@
       "available_at": "2026-06-03T11:00:20.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:00:20.000Z",
-      "live_viewers": 209,
+      "live_viewers": 205,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -131,7 +111,7 @@
       "available_at": "2026-06-03T11:01:11.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:11.000Z",
-      "live_viewers": 284,
+      "live_viewers": 268,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -171,7 +151,7 @@
       "available_at": "2026-06-03T11:01:59.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:59.000Z",
-      "live_viewers": 139,
+      "live_viewers": 144,
       "channel": {
         "id": "UCUtKkGKef8BYMs3h-3zQm9A",
         "name": "Suha Channel 【NIJISANJI】",
@@ -291,7 +271,7 @@
       "available_at": "2026-06-03T11:03:05.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 31,
+      "live_viewers": 33,
       "channel": {
         "id": "UCwhH8ZM5aNdMo8XzkY2b-AA",
         "name": "真白ぽん -Mashiro Pon-",
@@ -421,25 +401,6 @@
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCQ0UDLQCjY0rmuxCDE38FGg": {
-      "video_id": "ddxpj-7hBxs",
-      "title": "【#ホロ金策サバイバル2】毎日転職屋さん!!【ホロライブ/夏色まつり】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-03T07:12:52.000Z",
-      "available_at": "2026-06-03T12:00:00.000Z",
-      "start_scheduled": "2026-06-03T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-        "name": "Matsuri Channel 夏色まつり",
-        "english_name": "Natsuiro Matsuri",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "9DCnEKBh2Xw",
       "title": "【Forza Horizon 6】久しぶりのドライブだ~~~~!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
@@ -450,7 +411,7 @@
       "available_at": "2026-06-03T12:12:36.000Z",
       "start_scheduled": "2026-06-03T12:00:00.000Z",
       "start_actual": "2026-06-03T12:12:36.000Z",
-      "live_viewers": 8241,
+      "live_viewers": 8583,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
