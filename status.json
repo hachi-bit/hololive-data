@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780489519,
+  "cached_at": 1780489579,
   "lives": {
     "UC7-N7MvN5muVIHqyQx9LFbA": {
       "video_id": "Sd5sWQar_3c",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-03T09:59:15.000Z",
       "start_scheduled": "2026-06-03T10:00:00.000Z",
       "start_actual": "2026-06-03T09:59:15.000Z",
-      "live_viewers": 30330,
+      "live_viewers": 30497,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-03T10:01:37.000Z",
       "start_scheduled": "2026-06-03T10:00:00.000Z",
       "start_actual": "2026-06-03T10:01:37.000Z",
-      "live_viewers": 34252,
+      "live_viewers": 33746,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-03T11:01:44.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:44.000Z",
-      "live_viewers": 570,
+      "live_viewers": 587,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-03T11:01:59.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:59.000Z",
-      "live_viewers": 123,
+      "live_viewers": 129,
       "channel": {
         "id": "UCUtKkGKef8BYMs3h-3zQm9A",
         "name": "Suha Channel 【NIJISANJI】",
@@ -231,7 +231,7 @@
       "available_at": "2026-06-03T11:02:03.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:02:03.000Z",
-      "live_viewers": 11,
+      "live_viewers": 9,
       "channel": {
         "id": "UCtMiyDQJ97iax5wuwGhLzGg",
         "name": "柚鳥ペケ YUTORI PEKE",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-03T11:02:04.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:02:04.000Z",
-      "live_viewers": 13,
+      "live_viewers": 16,
       "channel": {
         "id": "UCPI-eyzOIfQiGE3JK7H8XEw",
         "name": "陵本なぎ Okamoto Nagi",
@@ -281,26 +281,6 @@
         "photo": "https://yt3.ggpht.com/rR9dRuBICG0hHZMAOgv3-j3qtpbb2e9L18eroJA-qGhqnHTcIvkrW-sFWp9sdWcYR-yKVf50kog=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCwhH8ZM5aNdMo8XzkY2b-AA": {
-      "video_id": "XdtjXSuIpXI",
-      "title": "【League of Legends】 コーチング付き親子カスタム!みんなでがんばるぞー!!! 【真白ぽん / Vtuber】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-06-03T10:51:22.000Z",
-      "available_at": "2026-06-03T11:03:05.000Z",
-      "start_scheduled": "2026-06-03T11:00:00.000Z",
-      "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 43,
-      "channel": {
-        "id": "UCwhH8ZM5aNdMo8XzkY2b-AA",
-        "name": "真白ぽん -Mashiro Pon-",
-        "english_name": "Mashiro Pon",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/I0zPHx5XLBUFqXbp37xXdzNkGa_celV1OuHC4dzBu8T9XnFc6xqzdlZ1Bukw655PNEww98zU5SM=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "zlf5ffUBnfM",
       "title": "【LoL】League of Legends 親子カスタム  パパはパパじゃありません。/ アステル",
@@ -311,7 +291,7 @@
       "available_at": "2026-06-03T11:03:05.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 463,
+      "live_viewers": 464,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -341,6 +321,26 @@
         "photo": "https://yt3.ggpht.com/2WmVTC2WWUeTzxiLpgiC25juIuJkF4CfVaoD0IksRQxUWH2GVcmGUb0tx0P45wvv0VW3MT6aXg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCwhH8ZM5aNdMo8XzkY2b-AA": {
+      "video_id": "XdtjXSuIpXI",
+      "title": "【League of Legends】 コーチング付き親子カスタム!みんなでがんばるぞー!!! 【真白ぽん / Vtuber】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-06-03T10:51:22.000Z",
+      "available_at": "2026-06-03T11:03:05.000Z",
+      "start_scheduled": "2026-06-03T11:00:00.000Z",
+      "start_actual": "2026-06-03T11:03:05.000Z",
+      "live_viewers": 43,
+      "channel": {
+        "id": "UCwhH8ZM5aNdMo8XzkY2b-AA",
+        "name": "真白ぽん -Mashiro Pon-",
+        "english_name": "Mashiro Pon",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/I0zPHx5XLBUFqXbp37xXdzNkGa_celV1OuHC4dzBu8T9XnFc6xqzdlZ1Bukw655PNEww98zU5SM=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCgRqGV1gBf2Esxh0Tz1vxzw": {
       "video_id": "DPYS5vLM1vs",
       "title": "【League of Legends 親子カスタム】チーム1で勝つぞ!!【 #ホロスターズ 】",
@@ -351,7 +351,7 @@
       "available_at": "2026-06-03T11:07:55.000Z",
       "start_scheduled": "2026-06-03T11:05:00.000Z",
       "start_actual": "2026-06-03T11:07:55.000Z",
-      "live_viewers": 92,
+      "live_viewers": 93,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -371,7 +371,7 @@
       "available_at": "2026-06-03T11:27:02.000Z",
       "start_scheduled": "2026-06-03T11:30:00.000Z",
       "start_actual": "2026-06-03T11:27:02.000Z",
-      "live_viewers": 4775,
+      "live_viewers": 4671,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -379,25 +379,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC_vMYWcDjmfdpH6r4TTn1MQ": {
-      "video_id": "9EbLakjJqYs",
-      "title": "【#ホロ金策サバイバル2 】戦闘を信じろ___マイクラ玄人っぽい思考💭【風真いろは/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-03T03:52:44.000Z",
-      "available_at": "2026-06-03T11:45:00.000Z",
-      "start_scheduled": "2026-06-03T11:45:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "name": "Iroha ch. 風真いろは - holoX -",
-        "english_name": "Kazama Iroha",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCAWSyEs_Io8MtpY3m-zqILA": {
@@ -419,6 +400,25 @@
         "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UC_vMYWcDjmfdpH6r4TTn1MQ": {
+      "video_id": "9EbLakjJqYs",
+      "title": "【#ホロ金策サバイバル2 】戦闘を信じろ___マイクラ玄人っぽい思考💭【風真いろは/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-03T03:52:44.000Z",
+      "available_at": "2026-06-03T11:45:00.000Z",
+      "start_scheduled": "2026-06-03T11:45:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "name": "Iroha ch. 風真いろは - holoX -",
+        "english_name": "Kazama Iroha",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
       "video_id": "GSMyPNRANvc",
       "title": "【#ホロ金策サバイバル2】 狐の錬金術師/FOXALCHEMIST DAY3 【ホロライブ/白上フブキ】",
@@ -429,7 +429,7 @@
       "available_at": "2026-06-03T11:47:16.000Z",
       "start_scheduled": "2026-06-03T11:45:00.000Z",
       "start_actual": "2026-06-03T11:47:16.000Z",
-      "live_viewers": 16871,
+      "live_viewers": 17223,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -469,7 +469,7 @@
       "available_at": "2026-06-03T11:49:34.000Z",
       "start_scheduled": "2026-06-03T11:50:00.000Z",
       "start_actual": "2026-06-03T11:49:34.000Z",
-      "live_viewers": 3346,
+      "live_viewers": 3443,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -547,7 +547,7 @@
       "available_at": "2026-06-03T12:12:36.000Z",
       "start_scheduled": "2026-06-03T12:00:00.000Z",
       "start_actual": "2026-06-03T12:12:36.000Z",
-      "live_viewers": 3489,
+      "live_viewers": 3919,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
