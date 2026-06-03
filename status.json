@@ -1,49 +1,9 @@
 {
-  "cached_at": 1780491859,
+  "cached_at": 1780491919,
   "lives": {
-    "UC7-N7MvN5muVIHqyQx9LFbA": {
-      "video_id": "Sd5sWQar_3c",
-      "title": "【雀魂】#漢義リーグ 第2節",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mahjong",
-      "published_at": "2026-06-02T09:37:31.000Z",
-      "available_at": "2026-06-03T08:46:27.000Z",
-      "start_scheduled": "2026-06-03T08:45:00.000Z",
-      "start_actual": "2026-06-03T08:46:27.000Z",
-      "live_viewers": 3585,
-      "channel": {
-        "id": "UC7-N7MvN5muVIHqyQx9LFbA",
-        "name": "メイカちゃんねる",
-        "english_name": "Utai Meika",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mq4PLSnpYy83ZUfXHKZVIVXsU8VnFE5xpzLcVXrmImnAg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC_82HBGtvwN1hcGeOGHzUBQ": {
-      "video_id": "565GTwLPyG4",
-      "title": "【#漢義リーグ ¦ 第2節】第6試合、トップがほしい!【にじさんじ/空星きらめ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mahjong",
-      "published_at": "2026-06-02T20:06:05.000Z",
-      "available_at": "2026-06-03T09:02:28.000Z",
-      "start_scheduled": "2026-06-03T09:00:00.000Z",
-      "start_actual": "2026-06-03T09:02:28.000Z",
-      "live_viewers": 783,
-      "channel": {
-        "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
-        "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
-        "english_name": "Sorahoshi Kirame",
-        "org": "Nijisanji",
-        "suborg": "1cKiramero",
-        "photo": "https://yt3.ggpht.com/0hwFUTExbP8nb6TT5iRURYq3WJTlotAdcbRohnVGh4ppEnZjKR0l4Qt4oz0KWrOXF0y-ye6LFQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCDqI2jOz0weumE8s7paEk6g": {
       "video_id": "EWcbnKTe3jk",
-      "title": "【 #漢義リーグ 第2節】今日も自分を信じて美しくPON!!!!   #秋麗宝燈  w.咲乃もこ/空星きらめ/アキロゼ【ホロライブ/ ロボ子さん 】",
+      "title": "【 #漢義リーグ 第2節】今日も自分を信じて美しくPON!!!! #秋麗宝燈 w.咲乃もこ/空星きらめ/アキロゼ【ホロライブ/ ロボ子さん 】",
       "type": "stream",
       "status": "live",
       "topic_id": "Mahjong",
@@ -111,7 +71,7 @@
       "available_at": "2026-06-03T11:01:44.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:44.000Z",
-      "live_viewers": 587,
+      "live_viewers": 625,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -131,7 +91,7 @@
       "available_at": "2026-06-03T11:01:59.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:59.000Z",
-      "live_viewers": 144,
+      "live_viewers": 135,
       "channel": {
         "id": "UCUtKkGKef8BYMs3h-3zQm9A",
         "name": "Suha Channel 【NIJISANJI】",
@@ -151,7 +111,7 @@
       "available_at": "2026-06-03T11:02:03.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:02:03.000Z",
-      "live_viewers": 19,
+      "live_viewers": 20,
       "channel": {
         "id": "UCtMiyDQJ97iax5wuwGhLzGg",
         "name": "柚鳥ペケ YUTORI PEKE",
@@ -191,7 +151,7 @@
       "available_at": "2026-06-03T11:02:51.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:02:51.000Z",
-      "live_viewers": 282,
+      "live_viewers": 286,
       "channel": {
         "id": "UCTEoGGp5G9AFbNOb3nmrY3w",
         "name": "ニャマシュヴァ・ルッツ",
@@ -199,26 +159,6 @@
         "org": "Nyantasia!",
         "suborg": "zz",
         "photo": "https://yt3.ggpht.com/rR9dRuBICG0hHZMAOgv3-j3qtpbb2e9L18eroJA-qGhqnHTcIvkrW-sFWp9sdWcYR-yKVf50kog=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "zlf5ffUBnfM",
-      "title": "【LoL】League of Legends 親子カスタム  パパはパパじゃありません。/ アステル",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-06-03T10:40:32.000Z",
-      "available_at": "2026-06-03T11:03:05.000Z",
-      "start_scheduled": "2026-06-03T11:00:00.000Z",
-      "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 532,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCwhH8ZM5aNdMo8XzkY2b-AA": {
@@ -239,6 +179,26 @@
         "org": "Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/I0zPHx5XLBUFqXbp37xXdzNkGa_celV1OuHC4dzBu8T9XnFc6xqzdlZ1Bukw655PNEww98zU5SM=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "zlf5ffUBnfM",
+      "title": "【LoL】League of Legends 親子カスタム  パパはパパじゃありません。/ アステル",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-06-03T10:40:32.000Z",
+      "available_at": "2026-06-03T11:03:05.000Z",
+      "start_scheduled": "2026-06-03T11:00:00.000Z",
+      "start_actual": "2026-06-03T11:03:05.000Z",
+      "live_viewers": 532,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC4Xuz67FNRr69ILv2b7ZRBA": {
@@ -271,7 +231,7 @@
       "available_at": "2026-06-03T11:07:55.000Z",
       "start_scheduled": "2026-06-03T11:05:00.000Z",
       "start_actual": "2026-06-03T11:07:55.000Z",
-      "live_viewers": 92,
+      "live_viewers": 91,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -331,7 +291,7 @@
       "available_at": "2026-06-03T11:49:34.000Z",
       "start_scheduled": "2026-06-03T11:50:00.000Z",
       "start_actual": "2026-06-03T11:49:34.000Z",
-      "live_viewers": 4099,
+      "live_viewers": 7961,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -411,7 +371,7 @@
       "available_at": "2026-06-03T12:58:48.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T12:58:48.000Z",
-      "live_viewers": 1354,
+      "live_viewers": 2129,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -421,42 +381,23 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCYz_5n-uDuChHtLo7My1HnQ": {
-      "video_id": "z7FUwOQIV-k",
-      "title": "【Escape Simulator 2】 THEY'RE STUCK IN THE ROOM WITH ME... HEHEH... 【Kureiji Ollie】",
+    "UC0TXe_LYZ4scaW2XMyi5_kw": {
+      "video_id": "VkKeJgBkeCg",
+      "title": "【メン限】月イチみんなとまったり雑談!6月ここだけの話!【ホロライブ / AZKi】",
       "type": "stream",
       "status": "live",
-      "topic_id": "Escape_Simulator",
-      "published_at": "2026-05-30T13:41:49.000Z",
+      "topic_id": "membersonly",
+      "published_at": "2026-06-03T12:46:11.000Z",
       "available_at": "2026-06-03T13:00:00.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "live_viewers": 0,
       "channel": {
-        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
-        "name": "Kureiji Ollie Ch. hololive-ID",
-        "english_name": "Kureiji Ollie",
+        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+        "name": "AZKi Channel",
+        "english_name": "AZKi",
         "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvaTdHTWBGv3MKj3KVqJVCw": {
-      "video_id": "2DKj_Fqy7SE",
-      "title": "ざつだんなのですﾖ🟡🟡",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-03T12:44:16.000Z",
-      "available_at": "2026-06-03T13:00:00.000Z",
-      "start_scheduled": "2026-06-03T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-        "name": "Okayu Ch. 猫又おかゆ",
-        "english_name": "Nekomata Okayu",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "0z0th Generation",
+        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCOyYb1c43VlX9rc_lT6NKQw": {
@@ -554,23 +495,43 @@
         "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC0TXe_LYZ4scaW2XMyi5_kw": {
-      "video_id": "VkKeJgBkeCg",
-      "title": "【メン限】月イチみんなとまったり雑談!6月ここだけの話!【ホロライブ / AZKi】",
+    "UCYz_5n-uDuChHtLo7My1HnQ": {
+      "video_id": "z7FUwOQIV-k",
+      "title": "【Escape Simulator 2】 THEY'RE STUCK IN THE ROOM WITH ME... HEHEH... 【Kureiji Ollie】",
       "type": "stream",
       "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-03T12:46:11.000Z",
+      "topic_id": "Escape_Simulator",
+      "published_at": "2026-05-30T13:41:49.000Z",
       "available_at": "2026-06-03T13:00:00.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "live_viewers": 0,
       "channel": {
-        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-        "name": "AZKi Channel",
-        "english_name": "AZKi",
+        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+        "name": "Kureiji Ollie Ch. hololive-ID",
+        "english_name": "Kureiji Ollie",
         "org": "Hololive",
-        "suborg": "0z0th Generation",
-        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvaTdHTWBGv3MKj3KVqJVCw": {
+      "video_id": "2DKj_Fqy7SE",
+      "title": "ざつだんなのですﾖ🟡🟡",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-06-03T12:44:16.000Z",
+      "available_at": "2026-06-03T13:01:41.000Z",
+      "start_scheduled": "2026-06-03T13:00:00.000Z",
+      "start_actual": "2026-06-03T13:01:41.000Z",
+      "live_viewers": 6450,
+      "channel": {
+        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+        "name": "Okayu Ch. 猫又おかゆ",
+        "english_name": "Nekomata Okayu",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1uv2Oq6kNxgATlCiez59hw": {
@@ -580,9 +541,10 @@
       "status": "live",
       "topic_id": "Street_Fighter",
       "published_at": "2026-06-03T12:33:02.000Z",
-      "available_at": "2026-06-03T13:00:00.000Z",
+      "available_at": "2026-06-03T13:01:45.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-03T13:01:45.000Z",
+      "live_viewers": 1708,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
