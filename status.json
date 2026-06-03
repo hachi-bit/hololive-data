@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780474279,
+  "cached_at": 1780474339,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "y-m0EdU9aEg",
@@ -19,6 +19,25 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCwXfrtn26oj7JW9fwB_z1bw": {
+      "video_id": "_obJTRn_j_E",
+      "title": "【#漢義リーグ】第1節応援&対局視点配信 ついに…はじまる!#秋麗宝燈",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-03T08:07:57.000Z",
+      "available_at": "2026-06-03T08:10:00.000Z",
+      "start_scheduled": "2026-06-03T08:10:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCwXfrtn26oj7JW9fwB_z1bw",
+        "name": "咲乃もこ【SakinoMoco】",
+        "english_name": "Sakino Moco",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/PU1Ptl5GyhcWRD3deTCx5XpQBFoMZdLa808TYJG1yIkVLjNq0kCdiGEe11W92RsjGouaQi5u-Q=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
