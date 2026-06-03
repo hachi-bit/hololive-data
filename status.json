@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780500379,
+  "cached_at": 1780500439,
   "lives": {
     "UCUtKkGKef8BYMs3h-3zQm9A": {
       "video_id": "ggisanwKDS8",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-03T11:02:51.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:02:51.000Z",
-      "live_viewers": 178,
+      "live_viewers": 153,
       "channel": {
         "id": "UCTEoGGp5G9AFbNOb3nmrY3w",
         "name": "ニャマシュヴァ・ルッツ",
@@ -79,46 +79,6 @@
         "org": "Nyantasia!",
         "suborg": "zz",
         "photo": "https://yt3.ggpht.com/rR9dRuBICG0hHZMAOgv3-j3qtpbb2e9L18eroJA-qGhqnHTcIvkrW-sFWp9sdWcYR-yKVf50kog=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC4Xuz67FNRr69ILv2b7ZRBA": {
-      "video_id": "il_CbYOBXqs",
-      "title": "【LOLカスタム】初心者同士たたかわせてくれるらしい久しぶりや w/陵本なぎ 古神子まる 柚鳥ペケ 若魔陽エル【青桐エイト/ネオポルテ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-06-03T10:44:22.000Z",
-      "available_at": "2026-06-03T11:03:05.000Z",
-      "start_scheduled": "2026-06-03T11:00:00.000Z",
-      "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 51,
-      "channel": {
-        "id": "UC4Xuz67FNRr69ILv2b7ZRBA",
-        "name": "青桐エイト",
-        "english_name": "Aogiri Eito",
-        "org": "Neo-Porte",
-        "suborg": "0i4th Generation",
-        "photo": "https://yt3.ggpht.com/2WmVTC2WWUeTzxiLpgiC25juIuJkF4CfVaoD0IksRQxUWH2GVcmGUb0tx0P45wvv0VW3MT6aXg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwhH8ZM5aNdMo8XzkY2b-AA": {
-      "video_id": "XdtjXSuIpXI",
-      "title": "【League of Legends】 コーチング付き親子カスタム!みんなでがんばるぞー!!! 【真白ぽん / Vtuber】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-06-03T10:51:22.000Z",
-      "available_at": "2026-06-03T11:03:05.000Z",
-      "start_scheduled": "2026-06-03T11:00:00.000Z",
-      "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 48,
-      "channel": {
-        "id": "UCwhH8ZM5aNdMo8XzkY2b-AA",
-        "name": "真白ぽん -Mashiro Pon-",
-        "english_name": "Mashiro Pon",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/I0zPHx5XLBUFqXbp37xXdzNkGa_celV1OuHC4dzBu8T9XnFc6xqzdlZ1Bukw655PNEww98zU5SM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
@@ -141,24 +101,24 @@
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
-      "video_id": "DPYS5vLM1vs",
-      "title": "【League of Legends 親子カスタム】チーム1で勝つぞ!!【 #ホロスターズ 】",
+    "UCwhH8ZM5aNdMo8XzkY2b-AA": {
+      "video_id": "XdtjXSuIpXI",
+      "title": "【League of Legends】 コーチング付き親子カスタム!みんなでがんばるぞー!!! 【真白ぽん / Vtuber】",
       "type": "stream",
       "status": "live",
       "topic_id": "League_of_Legends",
-      "published_at": "2026-06-03T11:04:28.000Z",
-      "available_at": "2026-06-03T11:07:55.000Z",
-      "start_scheduled": "2026-06-03T11:05:00.000Z",
-      "start_actual": "2026-06-03T11:07:55.000Z",
-      "live_viewers": 99,
+      "published_at": "2026-06-03T10:51:22.000Z",
+      "available_at": "2026-06-03T11:03:05.000Z",
+      "start_scheduled": "2026-06-03T11:00:00.000Z",
+      "start_actual": "2026-06-03T11:03:05.000Z",
+      "live_viewers": 48,
       "channel": {
-        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
-        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
-        "english_name": "Utsugi Uyu",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
+        "id": "UCwhH8ZM5aNdMo8XzkY2b-AA",
+        "name": "真白ぽん -Mashiro Pon-",
+        "english_name": "Mashiro Pon",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/I0zPHx5XLBUFqXbp37xXdzNkGa_celV1OuHC4dzBu8T9XnFc6xqzdlZ1Bukw655PNEww98zU5SM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
@@ -181,26 +141,6 @@
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCvaTdHTWBGv3MKj3KVqJVCw": {
-      "video_id": "2DKj_Fqy7SE",
-      "title": "ざつだんなのですﾖ🟡🟡",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-03T12:44:16.000Z",
-      "available_at": "2026-06-03T13:01:41.000Z",
-      "start_scheduled": "2026-06-03T13:00:00.000Z",
-      "start_actual": "2026-06-03T13:01:41.000Z",
-      "live_viewers": 10246,
-      "channel": {
-        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-        "name": "Okayu Ch. 猫又おかゆ",
-        "english_name": "Nekomata Okayu",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1uv2Oq6kNxgATlCiez59hw": {
       "video_id": "wi_EwiYsWzw",
       "title": "【 STREET FIGHTER 6 】ホロライブの◯東【常闇トワ/ホロライブ】",
@@ -211,7 +151,7 @@
       "available_at": "2026-06-03T13:01:45.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:01:45.000Z",
-      "live_viewers": 4124,
+      "live_viewers": 4152,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -251,7 +191,7 @@
       "available_at": "2026-06-03T13:04:13.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:04:13.000Z",
-      "live_viewers": 1079,
+      "live_viewers": 1089,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -291,7 +231,7 @@
       "available_at": "2026-06-03T13:06:34.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:06:34.000Z",
-      "live_viewers": 737,
+      "live_viewers": 746,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -311,7 +251,7 @@
       "available_at": "2026-06-03T13:06:47.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:06:47.000Z",
-      "live_viewers": 759,
+      "live_viewers": 789,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -351,7 +291,7 @@
       "available_at": "2026-06-03T13:21:54.000Z",
       "start_scheduled": "2026-06-03T13:10:00.000Z",
       "start_actual": "2026-06-03T13:21:54.000Z",
-      "live_viewers": 5435,
+      "live_viewers": 5373,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
