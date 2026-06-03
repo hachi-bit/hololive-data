@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780480879,
+  "cached_at": 1780480939,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "y-m0EdU9aEg",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-03T08:46:27.000Z",
       "start_scheduled": "2026-06-03T08:45:00.000Z",
       "start_actual": "2026-06-03T08:46:27.000Z",
-      "live_viewers": 13564,
+      "live_viewers": 14216,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-03T09:19:25.000Z",
       "start_scheduled": "2026-06-03T09:15:00.000Z",
       "start_actual": "2026-06-03T09:19:25.000Z",
-      "live_viewers": 2224,
+      "live_viewers": 2238,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -119,6 +119,121 @@
         "org": "Hololive",
         "suborg": "0w0th Generation",
         "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC-hM6YJuNYVAmUWxeIr9FeA": {
+      "video_id": "jrDnHQoYEFk",
+      "title": "【#ホロ金策サバイバル2】3日目!!!!養蜂家に俺はなるにぇええええええええええ‼【ホロライブ/さくらみこ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-02T17:47:34.000Z",
+      "available_at": "2026-06-03T09:59:15.000Z",
+      "start_scheduled": "2026-06-03T10:00:00.000Z",
+      "start_actual": "2026-06-03T09:59:15.000Z",
+      "live_viewers": 3940,
+      "channel": {
+        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+        "name": "Miko Ch. さくらみこ",
+        "english_name": "Sakura Miko",
+        "org": "Hololive",
+        "suborg": "0y0th Generation",
+        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "EYIAwX_NvcU",
+      "title": "【#ホロ金策サバイバル2】6/3 -3日目の日報!Day3 daily report【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-02T19:11:13.000Z",
+      "available_at": "2026-06-03T10:00:00.000Z",
+      "start_scheduled": "2026-06-03T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "gSV9jaXfW6w",
+      "title": "【Minecraft】#ホロ金策サバイバル2 お金を稼ぎたい( ^ω^ ) DAY3 ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-02T15:27:54.000Z",
+      "available_at": "2026-06-03T10:00:00.000Z",
+      "start_scheduled": "2026-06-03T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvzGlP9oQwU--Y0r9id_jnA": {
+      "video_id": "IygB_BVdUTg",
+      "title": "【#ホロ金策サバイバル2】ファーマー、覚悟のDAY3 金策マイクラやるしゅばあああああああああああああああああああああああああ!!!!!!：MINECRAFT【ホロライブ/大空スバル】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-02T15:47:19.000Z",
+      "available_at": "2026-06-03T10:00:00.000Z",
+      "start_scheduled": "2026-06-03T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+        "name": "Subaru Ch. 大空スバル",
+        "english_name": "Oozora Subaru",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKeAhJvy8zgXWbh9duVjIaQ": {
+      "video_id": "L9yiFRIcbX8",
+      "title": "【 DDFF 】フルパで視聴者参加型だぞ!【アルランディス/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Final_fantasy",
+      "published_at": "2026-06-02T14:48:45.000Z",
+      "available_at": "2026-06-03T10:00:00.000Z",
+      "start_scheduled": "2026-06-03T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "english_name": "Arurandeisu",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCo6mwsozDGMW0UNGowBJGhg": {
+      "video_id": "9TbRlvtEdZs",
+      "title": "【 DDFF 】アルさんに教えてもらう!3v3のボス討伐バトル🔥 #ピザ屋最高 🍕【昏昏アリア/ネオポルテ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Final_fantasy",
+      "published_at": "2026-06-02T11:40:53.000Z",
+      "available_at": "2026-06-03T10:00:00.000Z",
+      "start_scheduled": "2026-06-03T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCo6mwsozDGMW0UNGowBJGhg",
+        "name": "昏昏アリア / Konkon Aria",
+        "english_name": "Konkon Aria",
+        "org": "Neo-Porte",
+        "suborg": "0g3rd Generation",
+        "photo": "https://yt3.ggpht.com/0tvpfHLnPtiDpBkKNqWnggOh5Me7aO4EHLcvzZAJUmZLGRGwa5Ak1HV2GO8PwmH5b3XD5BolhA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
