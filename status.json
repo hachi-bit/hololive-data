@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780496659,
+  "cached_at": 1780496719,
   "lives": {
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
       "video_id": "oUCuGnWNq2w",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-03T11:01:11.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:11.000Z",
-      "live_viewers": 278,
+      "live_viewers": 283,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-03T11:01:59.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:59.000Z",
-      "live_viewers": 126,
+      "live_viewers": 117,
       "channel": {
         "id": "UCUtKkGKef8BYMs3h-3zQm9A",
         "name": "Suha Channel 【NIJISANJI】",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-03T11:02:51.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:02:51.000Z",
-      "live_viewers": 241,
+      "live_viewers": 211,
       "channel": {
         "id": "UCTEoGGp5G9AFbNOb3nmrY3w",
         "name": "ニャマシュヴァ・ルッツ",
@@ -141,24 +141,24 @@
         "photo": "https://yt3.ggpht.com/rR9dRuBICG0hHZMAOgv3-j3qtpbb2e9L18eroJA-qGhqnHTcIvkrW-sFWp9sdWcYR-yKVf50kog=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC4Xuz67FNRr69ILv2b7ZRBA": {
-      "video_id": "il_CbYOBXqs",
-      "title": "【LOLカスタム】初心者同士たたかわせてくれるらしい久しぶりや w/陵本なぎ 古神子まる 柚鳥ペケ 若魔陽エル【青桐エイト/ネオポルテ】",
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "zlf5ffUBnfM",
+      "title": "【LoL】League of Legends 親子カスタム  パパはパパじゃありません。/ アステル",
       "type": "stream",
       "status": "live",
       "topic_id": "League_of_Legends",
-      "published_at": "2026-06-03T10:44:22.000Z",
+      "published_at": "2026-06-03T10:40:32.000Z",
       "available_at": "2026-06-03T11:03:05.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 56,
+      "live_viewers": 536,
       "channel": {
-        "id": "UC4Xuz67FNRr69ILv2b7ZRBA",
-        "name": "青桐エイト",
-        "english_name": "Aogiri Eito",
-        "org": "Neo-Porte",
-        "suborg": "0i4th Generation",
-        "photo": "https://yt3.ggpht.com/2WmVTC2WWUeTzxiLpgiC25juIuJkF4CfVaoD0IksRQxUWH2GVcmGUb0tx0P45wvv0VW3MT6aXg=s800-c-k-c0x00ffffff-no-rj"
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCwhH8ZM5aNdMo8XzkY2b-AA": {
@@ -181,24 +181,24 @@
         "photo": "https://yt3.ggpht.com/I0zPHx5XLBUFqXbp37xXdzNkGa_celV1OuHC4dzBu8T9XnFc6xqzdlZ1Bukw655PNEww98zU5SM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "zlf5ffUBnfM",
-      "title": "【LoL】League of Legends 親子カスタム  パパはパパじゃありません。/ アステル",
+    "UC4Xuz67FNRr69ILv2b7ZRBA": {
+      "video_id": "il_CbYOBXqs",
+      "title": "【LOLカスタム】初心者同士たたかわせてくれるらしい久しぶりや w/陵本なぎ 古神子まる 柚鳥ペケ 若魔陽エル【青桐エイト/ネオポルテ】",
       "type": "stream",
       "status": "live",
       "topic_id": "League_of_Legends",
-      "published_at": "2026-06-03T10:40:32.000Z",
+      "published_at": "2026-06-03T10:44:22.000Z",
       "available_at": "2026-06-03T11:03:05.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 536,
+      "live_viewers": 56,
       "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+        "id": "UC4Xuz67FNRr69ILv2b7ZRBA",
+        "name": "青桐エイト",
+        "english_name": "Aogiri Eito",
+        "org": "Neo-Porte",
+        "suborg": "0i4th Generation",
+        "photo": "https://yt3.ggpht.com/2WmVTC2WWUeTzxiLpgiC25juIuJkF4CfVaoD0IksRQxUWH2GVcmGUb0tx0P45wvv0VW3MT6aXg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCgRqGV1gBf2Esxh0Tz1vxzw": {
@@ -271,7 +271,7 @@
       "available_at": "2026-06-03T12:14:31.000Z",
       "start_scheduled": "2026-06-03T12:15:00.000Z",
       "start_actual": "2026-06-03T12:14:31.000Z",
-      "live_viewers": 1426,
+      "live_viewers": 1315,
       "channel": {
         "id": "UCqe0-vqZwAvZUb22wCMu1fA",
         "name": "音ノ乃のの / NononoNono",
@@ -331,7 +331,7 @@
       "available_at": "2026-06-03T13:01:45.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:01:45.000Z",
-      "live_viewers": 4916,
+      "live_viewers": 4602,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -371,7 +371,7 @@
       "available_at": "2026-06-03T13:04:13.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:04:13.000Z",
-      "live_viewers": 982,
+      "live_viewers": 1015,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -431,7 +431,7 @@
       "available_at": "2026-06-03T13:06:47.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:06:47.000Z",
-      "live_viewers": 726,
+      "live_viewers": 719,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -471,7 +471,7 @@
       "available_at": "2026-06-03T13:21:54.000Z",
       "start_scheduled": "2026-06-03T13:10:00.000Z",
       "start_actual": "2026-06-03T13:21:54.000Z",
-      "live_viewers": 5657,
+      "live_viewers": 5328,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -491,7 +491,7 @@
       "available_at": "2026-06-03T13:59:04.000Z",
       "start_scheduled": "2026-06-03T14:00:00.000Z",
       "start_actual": "2026-06-03T13:59:04.000Z",
-      "live_viewers": 833,
+      "live_viewers": 952,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -511,7 +511,7 @@
       "available_at": "2026-06-03T14:00:36.000Z",
       "start_scheduled": "2026-06-03T14:00:00.000Z",
       "start_actual": "2026-06-03T14:00:36.000Z",
-      "live_viewers": 442,
+      "live_viewers": 473,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
