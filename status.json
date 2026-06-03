@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780501879,
+  "cached_at": 1780501939,
   "lives": {
     "UCtMiyDQJ97iax5wuwGhLzGg": {
       "video_id": "bPl4FtvAQyk",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-03T11:02:03.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:02:03.000Z",
-      "live_viewers": 20,
+      "live_viewers": 13,
       "channel": {
         "id": "UCtMiyDQJ97iax5wuwGhLzGg",
         "name": "柚鳥ペケ YUTORI PEKE",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-03T12:12:36.000Z",
       "start_scheduled": "2026-06-03T12:00:00.000Z",
       "start_actual": "2026-06-03T12:12:36.000Z",
-      "live_viewers": 11033,
+      "live_viewers": 10798,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1uv2Oq6kNxgATlCiez59hw": {
-      "video_id": "wi_EwiYsWzw",
-      "title": "【 STREET FIGHTER 6 】ホロライブの◯東【常闇トワ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-03T12:33:02.000Z",
-      "available_at": "2026-06-03T13:01:45.000Z",
-      "start_scheduled": "2026-06-03T13:00:00.000Z",
-      "start_actual": "2026-06-03T13:01:45.000Z",
-      "live_viewers": 3992,
-      "channel": {
-        "id": "UC1uv2Oq6kNxgATlCiez59hw",
-        "name": "Towa Ch. 常闇トワ",
-        "english_name": "Tokoyami Towa",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC0TXe_LYZ4scaW2XMyi5_kw": {
@@ -91,7 +71,7 @@
       "available_at": "2026-06-03T13:10:30.000Z",
       "start_scheduled": "2026-06-03T13:10:00.000Z",
       "start_actual": "2026-06-03T13:10:30.000Z",
-      "live_viewers": 1048,
+      "live_viewers": 1004,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -111,7 +91,7 @@
       "available_at": "2026-06-03T13:21:54.000Z",
       "start_scheduled": "2026-06-03T13:10:00.000Z",
       "start_actual": "2026-06-03T13:21:54.000Z",
-      "live_viewers": 5165,
+      "live_viewers": 5120,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
