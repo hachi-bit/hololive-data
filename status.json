@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780481179,
+  "cached_at": 1780481239,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "y-m0EdU9aEg",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-03T08:46:27.000Z",
       "start_scheduled": "2026-06-03T08:45:00.000Z",
       "start_actual": "2026-06-03T08:46:27.000Z",
-      "live_viewers": 14216,
+      "live_viewers": 13007,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-03T08:59:34.000Z",
       "start_scheduled": "2026-06-03T09:00:00.000Z",
       "start_actual": "2026-06-03T08:59:34.000Z",
-      "live_viewers": 7843,
+      "live_viewers": 6563,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-03T09:59:15.000Z",
       "start_scheduled": "2026-06-03T10:00:00.000Z",
       "start_actual": "2026-06-03T09:59:15.000Z",
-      "live_viewers": 6357,
+      "live_viewers": 8531,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -139,25 +139,6 @@
         "org": "Hololive",
         "suborg": "0y0th Generation",
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvzGlP9oQwU--Y0r9id_jnA": {
-      "video_id": "IygB_BVdUTg",
-      "title": "【#ホロ金策サバイバル2】ファーマー、覚悟のDAY3 金策マイクラやるしゅばあああああああああああああああああああああああああ!!!!!!：MINECRAFT【ホロライブ/大空スバル】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-02T15:47:19.000Z",
-      "available_at": "2026-06-03T10:00:00.000Z",
-      "start_scheduled": "2026-06-03T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-        "name": "Subaru Ch. 大空スバル",
-        "english_name": "Oozora Subaru",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCUKD-uaobj9jiqB-VXt71mA": {
@@ -170,7 +151,7 @@
       "available_at": "2026-06-03T10:01:01.000Z",
       "start_scheduled": "2026-06-03T10:00:00.000Z",
       "start_actual": "2026-06-03T10:01:01.000Z",
-      "live_viewers": 23483,
+      "live_viewers": 43545,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -190,7 +171,7 @@
       "available_at": "2026-06-03T10:01:08.000Z",
       "start_scheduled": "2026-06-03T10:00:00.000Z",
       "start_actual": "2026-06-03T10:01:08.000Z",
-      "live_viewers": 8740,
+      "live_viewers": 15718,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -210,7 +191,7 @@
       "available_at": "2026-06-03T10:01:14.000Z",
       "start_scheduled": "2026-06-03T10:00:00.000Z",
       "start_actual": "2026-06-03T10:01:14.000Z",
-      "live_viewers": 510,
+      "live_viewers": 926,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -218,6 +199,26 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvzGlP9oQwU--Y0r9id_jnA": {
+      "video_id": "IygB_BVdUTg",
+      "title": "【#ホロ金策サバイバル2】ファーマー、覚悟のDAY3 金策マイクラやるしゅばあああああああああああああああああああああああああ!!!!!!：MINECRAFT【ホロライブ/大空スバル】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-02T15:47:19.000Z",
+      "available_at": "2026-06-03T10:01:37.000Z",
+      "start_scheduled": "2026-06-03T10:00:00.000Z",
+      "start_actual": "2026-06-03T10:01:37.000Z",
+      "live_viewers": 11693,
+      "channel": {
+        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+        "name": "Subaru Ch. 大空スバル",
+        "english_name": "Oozora Subaru",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCo6mwsozDGMW0UNGowBJGhg": {
@@ -230,7 +231,7 @@
       "available_at": "2026-06-03T10:01:53.000Z",
       "start_scheduled": "2026-06-03T10:00:00.000Z",
       "start_actual": "2026-06-03T10:01:53.000Z",
-      "live_viewers": 158,
+      "live_viewers": 310,
       "channel": {
         "id": "UCo6mwsozDGMW0UNGowBJGhg",
         "name": "昏昏アリア / Konkon Aria",
