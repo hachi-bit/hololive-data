@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780492459,
+  "cached_at": 1780492519,
   "lives": {
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
       "video_id": "oUCuGnWNq2w",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-03T11:00:20.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:00:20.000Z",
-      "live_viewers": 204,
+      "live_viewers": 219,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-03T11:01:44.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:44.000Z",
-      "live_viewers": 625,
+      "live_viewers": 609,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -141,6 +141,26 @@
         "photo": "https://yt3.ggpht.com/rR9dRuBICG0hHZMAOgv3-j3qtpbb2e9L18eroJA-qGhqnHTcIvkrW-sFWp9sdWcYR-yKVf50kog=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "zlf5ffUBnfM",
+      "title": "【LoL】League of Legends 親子カスタム  パパはパパじゃありません。/ アステル",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-06-03T10:40:32.000Z",
+      "available_at": "2026-06-03T11:03:05.000Z",
+      "start_scheduled": "2026-06-03T11:00:00.000Z",
+      "start_actual": "2026-06-03T11:03:05.000Z",
+      "live_viewers": 477,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCwhH8ZM5aNdMo8XzkY2b-AA": {
       "video_id": "XdtjXSuIpXI",
       "title": "【League of Legends】 コーチング付き親子カスタム!みんなでがんばるぞー!!! 【真白ぽん / Vtuber】",
@@ -159,26 +179,6 @@
         "org": "Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/I0zPHx5XLBUFqXbp37xXdzNkGa_celV1OuHC4dzBu8T9XnFc6xqzdlZ1Bukw655PNEww98zU5SM=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "zlf5ffUBnfM",
-      "title": "【LoL】League of Legends 親子カスタム  パパはパパじゃありません。/ アステル",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-06-03T10:40:32.000Z",
-      "available_at": "2026-06-03T11:03:05.000Z",
-      "start_scheduled": "2026-06-03T11:00:00.000Z",
-      "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 514,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC4Xuz67FNRr69ILv2b7ZRBA": {
@@ -251,7 +251,7 @@
       "available_at": "2026-06-03T11:48:33.000Z",
       "start_scheduled": "2026-06-03T11:30:00.000Z",
       "start_actual": "2026-06-03T11:48:33.000Z",
-      "live_viewers": 9630,
+      "live_viewers": 9668,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -311,7 +311,7 @@
       "available_at": "2026-06-03T12:12:36.000Z",
       "start_scheduled": "2026-06-03T12:00:00.000Z",
       "start_actual": "2026-06-03T12:12:36.000Z",
-      "live_viewers": 10945,
+      "live_viewers": 11514,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -351,7 +351,7 @@
       "available_at": "2026-06-03T12:58:48.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T12:58:48.000Z",
-      "live_viewers": 2858,
+      "live_viewers": 2969,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -371,7 +371,7 @@
       "available_at": "2026-06-03T13:01:41.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:01:41.000Z",
-      "live_viewers": 12918,
+      "live_viewers": 13697,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -391,7 +391,7 @@
       "available_at": "2026-06-03T13:01:45.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:01:45.000Z",
-      "live_viewers": 3705,
+      "live_viewers": 4074,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -431,7 +431,7 @@
       "available_at": "2026-06-03T13:04:13.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:04:13.000Z",
-      "live_viewers": 580,
+      "live_viewers": 656,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -451,7 +451,7 @@
       "available_at": "2026-06-03T13:04:32.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:04:32.000Z",
-      "live_viewers": 670,
+      "live_viewers": 731,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -471,7 +471,7 @@
       "available_at": "2026-06-03T13:06:34.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:06:34.000Z",
-      "live_viewers": 390,
+      "live_viewers": 472,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -491,7 +491,7 @@
       "available_at": "2026-06-03T13:06:47.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:06:47.000Z",
-      "live_viewers": 438,
+      "live_viewers": 471,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -527,10 +527,10 @@
       "status": "live",
       "topic_id": "Marshmallow",
       "published_at": "2026-06-03T12:37:51.000Z",
-      "available_at": "2026-06-03T13:10:26.000Z",
+      "available_at": "2026-06-03T13:10:30.000Z",
       "start_scheduled": "2026-06-03T13:10:00.000Z",
-      "start_actual": "2026-06-03T13:10:26.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-03T13:10:30.000Z",
+      "live_viewers": 324,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
