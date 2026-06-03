@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780455679,
+  "cached_at": 1780455739,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "mo4XRT84Jo8",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-03T00:01:58.000Z",
       "start_scheduled": "2026-06-03T00:15:00.000Z",
       "start_actual": "2026-06-03T00:01:58.000Z",
-      "live_viewers": 362,
+      "live_viewers": 363,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -79,6 +79,121 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTVSOgYuSWmNAt-lnJPkEEw": {
+      "video_id": "y-m0EdU9aEg",
+      "title": "【PARALIVES】MY LITTLE PLAY THINGS",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-02T06:10:52.000Z",
+      "available_at": "2026-06-03T02:59:43.000Z",
+      "start_scheduled": "2026-06-03T03:00:00.000Z",
+      "start_actual": "2026-06-03T02:59:43.000Z",
+      "live_viewers": 105,
+      "channel": {
+        "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
+        "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
+        "english_name": "Jurard T Rexford",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
+      "video_id": "IrYn_nni_98",
+      "title": "【スタバレマルチ】4日目 最後の冬 w/ 日向まる, 小柳ロウ, アルランディス, 水無瀬, おなつのにびたし【 #奏手イヅル 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Stardew_Valley",
+      "published_at": "2026-06-02T15:05:13.000Z",
+      "available_at": "2026-06-03T03:00:00.000Z",
+      "start_scheduled": "2026-06-03T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "english_name": "Kanade Izuru",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKF9kMEyUzID3-P7GbxmT6w": {
+      "video_id": "Ea8krM_dRd0",
+      "title": "【 Vtuber農業部 】農業部最終回だ!【 日向まる / 個人 / #stardewvalley  】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Stardew_Valley",
+      "published_at": "2026-06-02T12:27:45.000Z",
+      "available_at": "2026-06-03T03:00:00.000Z",
+      "start_scheduled": "2026-06-03T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCKF9kMEyUzID3-P7GbxmT6w",
+        "name": "hm",
+        "english_name": "Hinata Maru",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_k1CPaOgRI2Mu5IEri_BZInMpG8xGyCi-koUo8GUJQ3ibxdodVjGLAG_bd8zdnFKpqUPQ0=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCEy9cYULQrC2cRlVqJPCcSw": {
+      "video_id": "KjlzFZYPlvU",
+      "title": "【 Stardew Valley 】最後の冬、Vtuber農業部￤#最終回【 NeoPorte / 水無瀬 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Stardew_Valley",
+      "published_at": "2026-06-03T02:53:36.000Z",
+      "available_at": "2026-06-03T03:00:00.000Z",
+      "start_scheduled": "2026-06-03T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCEy9cYULQrC2cRlVqJPCcSw",
+        "name": "水無瀬 / Minase",
+        "english_name": "Minase",
+        "org": "Neo-Porte",
+        "suborg": "0c1st Generation",
+        "photo": "https://yt3.ggpht.com/2_oZVHlOMZFxa6SD8qqnPScF7dr67XkC-ak5wRtr_0BRsY5ogmMkjzNcAZKNPj6SaCQRuNg0vUk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCasKmptouCrwWLl8SlQU2tQ": {
+      "video_id": "XJ9SlOaz1Ec",
+      "title": "【Stardew Valley】VTuber農業部 ☃冬の部❄【おなつのにびたし/個人勢Vtuber/#おなつのなま】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Stardew_Valley",
+      "published_at": "2026-06-02T12:26:08.000Z",
+      "available_at": "2026-06-03T03:00:00.000Z",
+      "start_scheduled": "2026-06-03T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCasKmptouCrwWLl8SlQU2tQ",
+        "name": "おなつのにびたし / Onatsu no Nibitashi",
+        "english_name": "Onatsu No Nibitashi",
+        "org": "Twitch Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/xWy_Afq5-hYE0riz6wByr6HGlxSMBSabKju2lwHmXld7lttEsMW4D5BLvoykoWQ-_drmCi5UO7E=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKeAhJvy8zgXWbh9duVjIaQ": {
+      "video_id": "YEwtSGkU7HM",
+      "title": "【Stardew Valley】今日で最後!みんなで進めるVtuber農業部牧場【アルランディス/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Stardew_Valley",
+      "published_at": "2026-06-02T14:45:58.000Z",
+      "available_at": "2026-06-03T03:00:00.000Z",
+      "start_scheduled": "2026-06-03T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "english_name": "Arurandeisu",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
