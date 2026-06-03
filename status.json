@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780457479,
+  "cached_at": 1780457539,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "KFvwq8p3BC0",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-03T00:01:58.000Z",
       "start_scheduled": "2026-06-03T00:15:00.000Z",
       "start_actual": "2026-06-03T00:01:58.000Z",
-      "live_viewers": 380,
+      "live_viewers": 359,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-03T02:59:43.000Z",
       "start_scheduled": "2026-06-03T03:00:00.000Z",
       "start_actual": "2026-06-03T02:59:43.000Z",
-      "live_viewers": 402,
+      "live_viewers": 416,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-03T03:01:29.000Z",
       "start_scheduled": "2026-06-03T03:00:00.000Z",
       "start_actual": "2026-06-03T03:01:29.000Z",
-      "live_viewers": 2081,
+      "live_viewers": 2221,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-03T03:01:38.000Z",
       "start_scheduled": "2026-06-03T03:00:00.000Z",
       "start_actual": "2026-06-03T03:01:38.000Z",
-      "live_viewers": 572,
+      "live_viewers": 561,
       "channel": {
         "id": "UCasKmptouCrwWLl8SlQU2tQ",
         "name": "おなつのにびたし / Onatsu no Nibitashi",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-03T03:01:49.000Z",
       "start_scheduled": "2026-06-03T03:00:00.000Z",
       "start_actual": "2026-06-03T03:01:49.000Z",
-      "live_viewers": 497,
+      "live_viewers": 501,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-03T03:01:49.000Z",
       "start_scheduled": "2026-06-03T03:00:00.000Z",
       "start_actual": "2026-06-03T03:01:49.000Z",
-      "live_viewers": 399,
+      "live_viewers": 432,
       "channel": {
         "id": "UCKF9kMEyUzID3-P7GbxmT6w",
         "name": "hm",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-03T03:03:58.000Z",
       "start_scheduled": "2026-06-03T03:00:00.000Z",
       "start_actual": "2026-06-03T03:03:58.000Z",
-      "live_viewers": 398,
+      "live_viewers": 390,
       "channel": {
         "id": "UCEy9cYULQrC2cRlVqJPCcSw",
         "name": "水無瀬 / Minase",
@@ -179,6 +179,26 @@
         "org": "Neo-Porte",
         "suborg": "0c1st Generation",
         "photo": "https://yt3.ggpht.com/2_oZVHlOMZFxa6SD8qqnPScF7dr67XkC-ak5wRtr_0BRsY5ogmMkjzNcAZKNPj6SaCQRuNg0vUk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCtyWhCj3AqKh2dXctLkDtng": {
+      "video_id": "_K5Sy26-xsM",
+      "title": "ーーーーーーーん♥【#一条莉々華の限界飯】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Cooking_Stream",
+      "published_at": "2026-06-03T03:30:06.000Z",
+      "available_at": "2026-06-03T03:30:06.000Z",
+      "start_scheduled": "2026-06-03T03:30:00.000Z",
+      "start_actual": "2026-06-03T03:30:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCtyWhCj3AqKh2dXctLkDtng",
+        "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+        "english_name": "Ichijou Ririka",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
