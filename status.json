@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780500683,
+  "cached_at": 1780500740,
   "lives": {
     "UCtMiyDQJ97iax5wuwGhLzGg": {
       "video_id": "bPl4FtvAQyk",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-03T11:02:03.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:02:03.000Z",
-      "live_viewers": 13,
+      "live_viewers": 20,
       "channel": {
         "id": "UCtMiyDQJ97iax5wuwGhLzGg",
         "name": "柚鳥ペケ YUTORI PEKE",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-03T13:04:32.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:04:32.000Z",
-      "live_viewers": 1106,
+      "live_viewers": 1010,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-03T13:06:34.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:06:34.000Z",
-      "live_viewers": 746,
+      "live_viewers": 735,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-03T13:59:04.000Z",
       "start_scheduled": "2026-06-03T14:00:00.000Z",
       "start_actual": "2026-06-03T13:59:04.000Z",
-      "live_viewers": 1388,
+      "live_viewers": 1515,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
