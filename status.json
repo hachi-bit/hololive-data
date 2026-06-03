@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780498699,
+  "cached_at": 1780498759,
   "lives": {
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
       "video_id": "oUCuGnWNq2w",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-03T11:01:44.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:44.000Z",
-      "live_viewers": 512,
+      "live_viewers": 483,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-03T11:02:04.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:02:04.000Z",
-      "live_viewers": 11,
+      "live_viewers": 14,
       "channel": {
         "id": "UCPI-eyzOIfQiGE3JK7H8XEw",
         "name": "陵本なぎ Okamoto Nagi",
@@ -141,6 +141,26 @@
         "photo": "https://yt3.ggpht.com/rR9dRuBICG0hHZMAOgv3-j3qtpbb2e9L18eroJA-qGhqnHTcIvkrW-sFWp9sdWcYR-yKVf50kog=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "zlf5ffUBnfM",
+      "title": "【LoL】League of Legends 親子カスタム  パパはパパじゃありません。/ アステル",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-06-03T10:40:32.000Z",
+      "available_at": "2026-06-03T11:03:05.000Z",
+      "start_scheduled": "2026-06-03T11:00:00.000Z",
+      "start_actual": "2026-06-03T11:03:05.000Z",
+      "live_viewers": 478,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCwhH8ZM5aNdMo8XzkY2b-AA": {
       "video_id": "XdtjXSuIpXI",
       "title": "【League of Legends】 コーチング付き親子カスタム!みんなでがんばるぞー!!! 【真白ぽん / Vtuber】",
@@ -161,26 +181,6 @@
         "photo": "https://yt3.ggpht.com/I0zPHx5XLBUFqXbp37xXdzNkGa_celV1OuHC4dzBu8T9XnFc6xqzdlZ1Bukw655PNEww98zU5SM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "zlf5ffUBnfM",
-      "title": "【LoL】League of Legends 親子カスタム  パパはパパじゃありません。/ アステル",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-06-03T10:40:32.000Z",
-      "available_at": "2026-06-03T11:03:05.000Z",
-      "start_scheduled": "2026-06-03T11:00:00.000Z",
-      "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 462,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC4Xuz67FNRr69ILv2b7ZRBA": {
       "video_id": "il_CbYOBXqs",
       "title": "【LOLカスタム】初心者同士たたかわせてくれるらしい久しぶりや w/陵本なぎ 古神子まる 柚鳥ペケ 若魔陽エル【青桐エイト/ネオポルテ】",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-03T11:03:05.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 47,
+      "live_viewers": 56,
       "channel": {
         "id": "UC4Xuz67FNRr69ILv2b7ZRBA",
         "name": "青桐エイト",
@@ -271,7 +271,7 @@
       "available_at": "2026-06-03T13:01:41.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:01:41.000Z",
-      "live_viewers": 14316,
+      "live_viewers": 13774,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -351,7 +351,7 @@
       "available_at": "2026-06-03T13:04:32.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:04:32.000Z",
-      "live_viewers": 1110,
+      "live_viewers": 1129,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -371,7 +371,7 @@
       "available_at": "2026-06-03T13:06:34.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:06:34.000Z",
-      "live_viewers": 734,
+      "live_viewers": 677,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -411,7 +411,7 @@
       "available_at": "2026-06-03T13:10:30.000Z",
       "start_scheduled": "2026-06-03T13:10:00.000Z",
       "start_actual": "2026-06-03T13:10:30.000Z",
-      "live_viewers": 835,
+      "live_viewers": 811,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
