@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780490779,
+  "cached_at": 1780490840,
   "lives": {
     "UC7-N7MvN5muVIHqyQx9LFbA": {
       "video_id": "Sd5sWQar_3c",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-03T11:01:11.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:11.000Z",
-      "live_viewers": 290,
+      "live_viewers": 270,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -271,7 +271,7 @@
       "available_at": "2026-06-03T11:02:51.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:02:51.000Z",
-      "live_viewers": 274,
+      "live_viewers": 277,
       "channel": {
         "id": "UCTEoGGp5G9AFbNOb3nmrY3w",
         "name": "ニャマシュヴァ・ルッツ",
@@ -410,7 +410,7 @@
       "available_at": "2026-06-03T11:47:16.000Z",
       "start_scheduled": "2026-06-03T11:45:00.000Z",
       "start_actual": "2026-06-03T11:47:16.000Z",
-      "live_viewers": 18188,
+      "live_viewers": 16004,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -480,25 +480,6 @@
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "jAjoi36Eud0",
-      "title": "【 #ホロ金策サバイバル2 】インダねねちハウス❤ハードのダンジョンはいかほど!?【ホロライブ DEV_IS 響咲リオナ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-02T16:46:34.000Z",
-      "available_at": "2026-06-03T11:55:00.000Z",
-      "start_scheduled": "2026-06-03T11:55:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCQ0UDLQCjY0rmuxCDE38FGg": {
       "video_id": "ddxpj-7hBxs",
       "title": "【#ホロ金策サバイバル2】毎日転職屋さん!!【ホロライブ/夏色まつり】",
@@ -556,25 +537,6 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC0TXe_LYZ4scaW2XMyi5_kw": {
-      "video_id": "Y5pkKY1KUCU",
-      "title": "【Minecraft】#ホロ金策サバイバル2 今日から始めるホロ金策生活!!!!!!DAY3💰【ホロライブ / AZKi】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-03T06:09:21.000Z",
-      "available_at": "2026-06-03T12:30:00.000Z",
-      "start_scheduled": "2026-06-03T12:30:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-        "name": "AZKi Channel",
-        "english_name": "AZKi",
-        "org": "Hololive",
-        "suborg": "0z0th Generation",
-        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
