@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780461738,
+  "cached_at": 1780461799,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "KFvwq8p3BC0",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-03T00:01:58.000Z",
       "start_scheduled": "2026-06-03T00:15:00.000Z",
       "start_actual": "2026-06-03T00:01:58.000Z",
-      "live_viewers": 335,
+      "live_viewers": 334,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCEy9cYULQrC2cRlVqJPCcSw": {
-      "video_id": "KjlzFZYPlvU",
-      "title": "【 Stardew Valley 】最後の冬、Vtuber農業部￤#最終回【 NeoPorte / 水無瀬 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Stardew_Valley",
-      "published_at": "2026-06-03T02:53:36.000Z",
-      "available_at": "2026-06-03T03:03:58.000Z",
-      "start_scheduled": "2026-06-03T03:00:00.000Z",
-      "start_actual": "2026-06-03T03:03:58.000Z",
-      "live_viewers": 775,
-      "channel": {
-        "id": "UCEy9cYULQrC2cRlVqJPCcSw",
-        "name": "水無瀬 / Minase",
-        "english_name": "Minase",
-        "org": "Neo-Porte",
-        "suborg": "0c1st Generation",
-        "photo": "https://yt3.ggpht.com/2_oZVHlOMZFxa6SD8qqnPScF7dr67XkC-ak5wRtr_0BRsY5ogmMkjzNcAZKNPj6SaCQRuNg0vUk=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
