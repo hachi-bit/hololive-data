@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780491979,
+  "cached_at": 1780492039,
   "lives": {
-    "UCDqI2jOz0weumE8s7paEk6g": {
-      "video_id": "EWcbnKTe3jk",
-      "title": "【 #漢義リーグ 第2節】今日も自分を信じて美しくPON!!!! #秋麗宝燈 w.咲乃もこ/空星きらめ/アキロゼ【ホロライブ/ ロボ子さん 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mahjong",
-      "published_at": "2026-06-02T11:45:40.000Z",
-      "available_at": "2026-06-03T09:19:25.000Z",
-      "start_scheduled": "2026-06-03T09:15:00.000Z",
-      "start_actual": "2026-06-03T09:19:25.000Z",
-      "live_viewers": 1658,
-      "channel": {
-        "id": "UCDqI2jOz0weumE8s7paEk6g",
-        "name": "Roboco Ch. - ロボ子",
-        "english_name": "Robocosan",
-        "org": "Hololive",
-        "suborg": "0w0th Generation",
-        "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
       "video_id": "oUCuGnWNq2w",
       "title": "【ストリートファイター6】テリー修行【荒咬オウガ /ホロスターズ】",
@@ -151,7 +131,7 @@
       "available_at": "2026-06-03T11:02:51.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:02:51.000Z",
-      "live_viewers": 286,
+      "live_viewers": 263,
       "channel": {
         "id": "UCTEoGGp5G9AFbNOb3nmrY3w",
         "name": "ニャマシュヴァ・ルッツ",
@@ -159,26 +139,6 @@
         "org": "Nyantasia!",
         "suborg": "zz",
         "photo": "https://yt3.ggpht.com/rR9dRuBICG0hHZMAOgv3-j3qtpbb2e9L18eroJA-qGhqnHTcIvkrW-sFWp9sdWcYR-yKVf50kog=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwhH8ZM5aNdMo8XzkY2b-AA": {
-      "video_id": "XdtjXSuIpXI",
-      "title": "【League of Legends】 コーチング付き親子カスタム!みんなでがんばるぞー!!! 【真白ぽん / Vtuber】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-06-03T10:51:22.000Z",
-      "available_at": "2026-06-03T11:03:05.000Z",
-      "start_scheduled": "2026-06-03T11:00:00.000Z",
-      "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 53,
-      "channel": {
-        "id": "UCwhH8ZM5aNdMo8XzkY2b-AA",
-        "name": "真白ぽん -Mashiro Pon-",
-        "english_name": "Mashiro Pon",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/I0zPHx5XLBUFqXbp37xXdzNkGa_celV1OuHC4dzBu8T9XnFc6xqzdlZ1Bukw655PNEww98zU5SM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
@@ -191,7 +151,7 @@
       "available_at": "2026-06-03T11:03:05.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 532,
+      "live_viewers": 514,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -219,6 +179,26 @@
         "org": "Neo-Porte",
         "suborg": "0i4th Generation",
         "photo": "https://yt3.ggpht.com/2WmVTC2WWUeTzxiLpgiC25juIuJkF4CfVaoD0IksRQxUWH2GVcmGUb0tx0P45wvv0VW3MT6aXg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCwhH8ZM5aNdMo8XzkY2b-AA": {
+      "video_id": "XdtjXSuIpXI",
+      "title": "【League of Legends】 コーチング付き親子カスタム!みんなでがんばるぞー!!! 【真白ぽん / Vtuber】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-06-03T10:51:22.000Z",
+      "available_at": "2026-06-03T11:03:05.000Z",
+      "start_scheduled": "2026-06-03T11:00:00.000Z",
+      "start_actual": "2026-06-03T11:03:05.000Z",
+      "live_viewers": 40,
+      "channel": {
+        "id": "UCwhH8ZM5aNdMo8XzkY2b-AA",
+        "name": "真白ぽん -Mashiro Pon-",
+        "english_name": "Mashiro Pon",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/I0zPHx5XLBUFqXbp37xXdzNkGa_celV1OuHC4dzBu8T9XnFc6xqzdlZ1Bukw655PNEww98zU5SM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCgRqGV1gBf2Esxh0Tz1vxzw": {
@@ -291,7 +271,7 @@
       "available_at": "2026-06-03T11:49:34.000Z",
       "start_scheduled": "2026-06-03T11:50:00.000Z",
       "start_actual": "2026-06-03T11:49:34.000Z",
-      "live_viewers": 7961,
+      "live_viewers": 7871,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -371,7 +351,7 @@
       "available_at": "2026-06-03T12:58:48.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T12:58:48.000Z",
-      "live_viewers": 2129,
+      "live_viewers": 2284,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -379,120 +359,6 @@
         "org": "Hololive",
         "suborg": "0v0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC0TXe_LYZ4scaW2XMyi5_kw": {
-      "video_id": "VkKeJgBkeCg",
-      "title": "【メン限】月イチみんなとまったり雑談!6月ここだけの話!【ホロライブ / AZKi】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-03T12:46:11.000Z",
-      "available_at": "2026-06-03T13:00:00.000Z",
-      "start_scheduled": "2026-06-03T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-        "name": "AZKi Channel",
-        "english_name": "AZKi",
-        "org": "Hololive",
-        "suborg": "0z0th Generation",
-        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCOyYb1c43VlX9rc_lT6NKQw": {
-      "video_id": "9unyxtYS7kk",
-      "title": "KABUR SIMULATOR 2 with Area15.1",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Escape_Simulator",
-      "published_at": "2026-06-03T11:50:34.000Z",
-      "available_at": "2026-06-03T13:00:00.000Z",
-      "start_scheduled": "2026-06-03T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-        "name": "Ayunda Risu Ch. hololive-ID",
-        "english_name": "Ayunda Risu",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "AjreTQLkQOA",
-      "title": "【雑談】最後のマシュマロ読み【花咲みやび/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Marshmallow",
-      "published_at": "2026-06-03T12:37:51.000Z",
-      "available_at": "2026-06-03T13:00:00.000Z",
-      "start_scheduled": "2026-06-03T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC3OH5FKQ3qtl4uRme_vZTgA": {
-      "video_id": "g8EvTmFgPlY",
-      "title": "【弾き語り】おやすみ前の時間、ご一緒しませんか?【 #UNIT_B / #清澄ライラ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-06-03T03:00:14.000Z",
-      "available_at": "2026-06-03T13:00:00.000Z",
-      "start_scheduled": "2026-06-03T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
-        "name": "UNIT B (Pre-Debut) - mekPark",
-        "english_name": "UNIT B [Pre-Debut]",
-        "org": "Hololive",
-        "suborg": "v_mekPark",
-        "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCP0BspO_AMEe3aQqqpo89Dg": {
-      "video_id": "n-eNTFOdxms",
-      "title": "【Escape Simulator 2】\"Team\" Work.【hololive | moona】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Escape_Simulator",
-      "published_at": "2026-06-03T11:00:08.000Z",
-      "available_at": "2026-06-03T13:00:00.000Z",
-      "start_scheduled": "2026-06-03T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCP0BspO_AMEe3aQqqpo89Dg",
-        "name": "Moona Hoshinova hololive-ID",
-        "english_name": "Moona Hoshinova",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCAoy6rzhSf4ydcYjJw3WoVg": {
-      "video_id": "ok7hMSBn4gE",
-      "title": "【Escape Simultaor 2】Kerja \"Kelompok\"【iofi / ホロライブID】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Escape_Simulator",
-      "published_at": "2026-06-03T05:31:58.000Z",
-      "available_at": "2026-06-03T13:00:00.000Z",
-      "start_scheduled": "2026-06-03T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-        "name": "Airani Iofifteen Channel hololive-ID",
-        "english_name": "Airani Iofifteen",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCYz_5n-uDuChHtLo7My1HnQ": {
@@ -514,6 +380,63 @@
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCP0BspO_AMEe3aQqqpo89Dg": {
+      "video_id": "n-eNTFOdxms",
+      "title": "【Escape Simulator 2】\"Team\" Work.【hololive | moona】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Escape_Simulator",
+      "published_at": "2026-06-03T11:00:08.000Z",
+      "available_at": "2026-06-03T13:00:00.000Z",
+      "start_scheduled": "2026-06-03T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+        "name": "Moona Hoshinova hololive-ID",
+        "english_name": "Moona Hoshinova",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCOyYb1c43VlX9rc_lT6NKQw": {
+      "video_id": "9unyxtYS7kk",
+      "title": "KABUR SIMULATOR 2 with Area15.1",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Escape_Simulator",
+      "published_at": "2026-06-03T11:50:34.000Z",
+      "available_at": "2026-06-03T13:00:00.000Z",
+      "start_scheduled": "2026-06-03T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+        "name": "Ayunda Risu Ch. hololive-ID",
+        "english_name": "Ayunda Risu",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAoy6rzhSf4ydcYjJw3WoVg": {
+      "video_id": "ok7hMSBn4gE",
+      "title": "【Escape Simultaor 2】Kerja \"Kelompok\"【iofi / ホロライブID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Escape_Simulator",
+      "published_at": "2026-06-03T05:31:58.000Z",
+      "available_at": "2026-06-03T13:00:00.000Z",
+      "start_scheduled": "2026-06-03T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+        "name": "Airani Iofifteen Channel hololive-ID",
+        "english_name": "Airani Iofifteen",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
       "video_id": "2DKj_Fqy7SE",
       "title": "ざつだんなのですﾖ🟡🟡",
@@ -524,7 +447,7 @@
       "available_at": "2026-06-03T13:01:41.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:01:41.000Z",
-      "live_viewers": 6450,
+      "live_viewers": 8485,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -544,7 +467,7 @@
       "available_at": "2026-06-03T13:01:45.000Z",
       "start_scheduled": "2026-06-03T13:00:00.000Z",
       "start_actual": "2026-06-03T13:01:45.000Z",
-      "live_viewers": 1708,
+      "live_viewers": 2119,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -552,6 +475,26 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC0TXe_LYZ4scaW2XMyi5_kw": {
+      "video_id": "VkKeJgBkeCg",
+      "title": "【メン限】月イチみんなとまったり雑談!6月ここだけの話!【ホロライブ / AZKi】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-06-03T12:46:11.000Z",
+      "available_at": "2026-06-03T13:02:02.000Z",
+      "start_scheduled": "2026-06-03T13:00:00.000Z",
+      "start_actual": "2026-06-03T13:02:02.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+        "name": "AZKi Channel",
+        "english_name": "AZKi",
+        "org": "Hololive",
+        "suborg": "0z0th Generation",
+        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
