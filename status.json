@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780486939,
+  "cached_at": 1780487000,
   "lives": {
     "UC7-N7MvN5muVIHqyQx9LFbA": {
       "video_id": "Sd5sWQar_3c",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-03T08:46:27.000Z",
       "start_scheduled": "2026-06-03T08:45:00.000Z",
       "start_actual": "2026-06-03T08:46:27.000Z",
-      "live_viewers": 15917,
+      "live_viewers": 15221,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-03T11:00:20.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:00:20.000Z",
-      "live_viewers": 218,
+      "live_viewers": 211,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-03T11:01:44.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:44.000Z",
-      "live_viewers": 535,
+      "live_viewers": 514,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-03T11:01:59.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:59.000Z",
-      "live_viewers": 127,
+      "live_viewers": 128,
       "channel": {
         "id": "UCUtKkGKef8BYMs3h-3zQm9A",
         "name": "Suha Channel 【NIJISANJI】",
@@ -271,7 +271,7 @@
       "available_at": "2026-06-03T11:02:51.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:02:51.000Z",
-      "live_viewers": 257,
+      "live_viewers": 242,
       "channel": {
         "id": "UCTEoGGp5G9AFbNOb3nmrY3w",
         "name": "ニャマシュヴァ・ルッツ",
@@ -291,7 +291,7 @@
       "available_at": "2026-06-03T11:03:05.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 460,
+      "live_viewers": 461,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -299,26 +299,6 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwhH8ZM5aNdMo8XzkY2b-AA": {
-      "video_id": "XdtjXSuIpXI",
-      "title": "【League of Legends】 コーチング付き親子カスタム!みんなでがんばるぞー!!! 【真白ぽん / Vtuber】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-06-03T10:51:22.000Z",
-      "available_at": "2026-06-03T11:03:05.000Z",
-      "start_scheduled": "2026-06-03T11:00:00.000Z",
-      "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 36,
-      "channel": {
-        "id": "UCwhH8ZM5aNdMo8XzkY2b-AA",
-        "name": "真白ぽん -Mashiro Pon-",
-        "english_name": "Mashiro Pon",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/I0zPHx5XLBUFqXbp37xXdzNkGa_celV1OuHC4dzBu8T9XnFc6xqzdlZ1Bukw655PNEww98zU5SM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC4Xuz67FNRr69ILv2b7ZRBA": {
@@ -341,6 +321,26 @@
         "photo": "https://yt3.ggpht.com/2WmVTC2WWUeTzxiLpgiC25juIuJkF4CfVaoD0IksRQxUWH2GVcmGUb0tx0P45wvv0VW3MT6aXg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCwhH8ZM5aNdMo8XzkY2b-AA": {
+      "video_id": "XdtjXSuIpXI",
+      "title": "【League of Legends】 コーチング付き親子カスタム!みんなでがんばるぞー!!! 【真白ぽん / Vtuber】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-06-03T10:51:22.000Z",
+      "available_at": "2026-06-03T11:03:05.000Z",
+      "start_scheduled": "2026-06-03T11:00:00.000Z",
+      "start_actual": "2026-06-03T11:03:05.000Z",
+      "live_viewers": 30,
+      "channel": {
+        "id": "UCwhH8ZM5aNdMo8XzkY2b-AA",
+        "name": "真白ぽん -Mashiro Pon-",
+        "english_name": "Mashiro Pon",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/I0zPHx5XLBUFqXbp37xXdzNkGa_celV1OuHC4dzBu8T9XnFc6xqzdlZ1Bukw655PNEww98zU5SM=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCgRqGV1gBf2Esxh0Tz1vxzw": {
       "video_id": "DPYS5vLM1vs",
       "title": "【League of Legends 親子カスタム】チーム1で勝つぞ!!【 #ホロスターズ 】",
@@ -351,7 +351,7 @@
       "available_at": "2026-06-03T11:07:55.000Z",
       "start_scheduled": "2026-06-03T11:05:00.000Z",
       "start_actual": "2026-06-03T11:07:55.000Z",
-      "live_viewers": 92,
+      "live_viewers": 84,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -371,7 +371,7 @@
       "available_at": "2026-06-03T11:27:02.000Z",
       "start_scheduled": "2026-06-03T11:30:00.000Z",
       "start_actual": "2026-06-03T11:27:02.000Z",
-      "live_viewers": 4482,
+      "live_viewers": 4369,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
