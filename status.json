@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780477339,
+  "cached_at": 1780477399,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "y-m0EdU9aEg",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-03T02:59:43.000Z",
       "start_scheduled": "2026-06-03T03:00:00.000Z",
       "start_actual": "2026-06-03T02:59:43.000Z",
-      "live_viewers": 836,
+      "live_viewers": 806,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-03T08:46:27.000Z",
       "start_scheduled": "2026-06-03T08:45:00.000Z",
       "start_actual": "2026-06-03T08:46:27.000Z",
-      "live_viewers": 3057,
+      "live_viewers": 3748,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -39,6 +39,64 @@
         "org": "Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mq4PLSnpYy83ZUfXHKZVIVXsU8VnFE5xpzLcVXrmImnAg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "NwTfbnFwDUY",
+      "title": "【 ドラゴンクエストヒーローズ 闇竜と世界樹の城 】完全初見!初めてのヒーローズ!!!【鷹嶺ルイ/ホロライブ】ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dragon_Quest",
+      "published_at": "2026-06-03T03:31:13.000Z",
+      "available_at": "2026-06-03T08:59:34.000Z",
+      "start_scheduled": "2026-06-03T09:00:00.000Z",
+      "start_actual": "2026-06-03T08:59:34.000Z",
+      "live_viewers": 1418,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_82HBGtvwN1hcGeOGHzUBQ": {
+      "video_id": "565GTwLPyG4",
+      "title": "【#漢義リーグ ¦ 第2節】第6試合、トップがほしい!【にじさんじ/空星きらめ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-02T20:06:05.000Z",
+      "available_at": "2026-06-03T09:00:00.000Z",
+      "start_scheduled": "2026-06-03T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
+        "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
+        "english_name": "Sorahoshi Kirame",
+        "org": "Nijisanji",
+        "suborg": "1cKiramero",
+        "photo": "https://yt3.ggpht.com/0hwFUTExbP8nb6TT5iRURYq3WJTlotAdcbRohnVGh4ppEnZjKR0l4Qt4oz0KWrOXF0y-ye6LFQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCwXfrtn26oj7JW9fwB_z1bw": {
+      "video_id": "xOfCb20922Y",
+      "title": "【#漢義リーグ】第2節応援&対局視点配信 #秋麗宝燈",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mahjong",
+      "published_at": "2026-06-03T08:29:44.000Z",
+      "available_at": "2026-06-03T09:00:00.000Z",
+      "start_scheduled": "2026-06-03T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCwXfrtn26oj7JW9fwB_z1bw",
+        "name": "咲乃もこ【SakinoMoco】",
+        "english_name": "Sakino Moco",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/PU1Ptl5GyhcWRD3deTCx5XpQBFoMZdLa808TYJG1yIkVLjNq0kCdiGEe11W92RsjGouaQi5u-Q=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
