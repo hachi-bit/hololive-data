@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780476438,
+  "cached_at": 1780476499,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "y-m0EdU9aEg",
@@ -19,6 +19,25 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7-N7MvN5muVIHqyQx9LFbA": {
+      "video_id": "Sd5sWQar_3c",
+      "title": "【雀魂】#漢義リーグ 第２節",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mahjong",
+      "published_at": "2026-06-02T09:37:31.000Z",
+      "available_at": "2026-06-03T08:45:00.000Z",
+      "start_scheduled": "2026-06-03T08:45:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC7-N7MvN5muVIHqyQx9LFbA",
+        "name": "メイカちゃんねる",
+        "english_name": "Utai Meika",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mq4PLSnpYy83ZUfXHKZVIVXsU8VnFE5xpzLcVXrmImnAg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
