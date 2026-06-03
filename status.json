@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780484239,
+  "cached_at": 1780484299,
   "lives": {
     "UC7-N7MvN5muVIHqyQx9LFbA": {
       "video_id": "Sd5sWQar_3c",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-03T08:46:27.000Z",
       "start_scheduled": "2026-06-03T08:45:00.000Z",
       "start_actual": "2026-06-03T08:46:27.000Z",
-      "live_viewers": 15672,
+      "live_viewers": 17263,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-03T09:19:25.000Z",
       "start_scheduled": "2026-06-03T09:15:00.000Z",
       "start_actual": "2026-06-03T09:19:25.000Z",
-      "live_viewers": 1350,
+      "live_viewers": 1711,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-03T09:59:15.000Z",
       "start_scheduled": "2026-06-03T10:00:00.000Z",
       "start_actual": "2026-06-03T09:59:15.000Z",
-      "live_viewers": 20951,
+      "live_viewers": 20994,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-03T10:01:08.000Z",
       "start_scheduled": "2026-06-03T10:00:00.000Z",
       "start_actual": "2026-06-03T10:01:08.000Z",
-      "live_viewers": 35569,
+      "live_viewers": 35327,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-03T10:01:53.000Z",
       "start_scheduled": "2026-06-03T10:00:00.000Z",
       "start_actual": "2026-06-03T10:01:53.000Z",
-      "live_viewers": 508,
+      "live_viewers": 483,
       "channel": {
         "id": "UCo6mwsozDGMW0UNGowBJGhg",
         "name": "昏昏アリア / Konkon Aria",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-03T10:03:22.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T10:03:22.000Z",
-      "live_viewers": 372,
+      "live_viewers": 359,
       "channel": {
         "id": "UCt5-0i4AVHXaWJrL8Wql3mw",
         "name": "緑仙 / Ryushen",
@@ -219,6 +219,25 @@
         "org": "Nijisanji",
         "suborg": "08Ex-SEEDs",
         "photo": "https://yt3.ggpht.com/gqKMT95qDCACrpgG3iGrTOfELcpwIkIao4PFK-3vnmQusaS_1RW7yxjBXOVpXs3B_iNOegIT=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "jAjoi36Eud0",
+      "title": "【 #ホロ金策サバイバル2 】インダねねちハウス❤ハードのダンジョンはいかほど!?【ホロライブ DEV_IS 響咲リオナ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-02T16:46:34.000Z",
+      "available_at": "2026-06-03T10:55:00.000Z",
+      "start_scheduled": "2026-06-03T10:55:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
