@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780464499,
+  "cached_at": 1780464559,
   "lives": {
-    "UC7gxU6NXjKF1LrgOddPzgTw": {
-      "video_id": "KFvwq8p3BC0",
-      "title": "【TENGU TALK】DON'T WORRY HAKKITO, MY CURSED EYE WILL LEAD THE WAY. LEAVE IT TO ME  ( ๑‾̀◡‾́)✨",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-02T14:23:26.000Z",
-      "available_at": "2026-06-03T00:01:58.000Z",
-      "start_scheduled": "2026-06-03T00:15:00.000Z",
-      "start_actual": "2026-06-03T00:01:58.000Z",
-      "live_viewers": 354,
-      "channel": {
-        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-        "english_name": "Banzoin Hakka",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "46cie_52P8o",
       "title": "【StarSavior】Wedding bells are ringing?! #sponsored #ad",
@@ -51,7 +31,7 @@
       "available_at": "2026-06-03T02:59:43.000Z",
       "start_scheduled": "2026-06-03T03:00:00.000Z",
       "start_actual": "2026-06-03T02:59:43.000Z",
-      "live_viewers": 618,
+      "live_viewers": 620,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
