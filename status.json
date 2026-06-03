@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780478179,
+  "cached_at": 1780478240,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "y-m0EdU9aEg",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-03T08:59:34.000Z",
       "start_scheduled": "2026-06-03T09:00:00.000Z",
       "start_actual": "2026-06-03T08:59:34.000Z",
-      "live_viewers": 4707,
+      "live_viewers": 5334,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-03T09:00:53.000Z",
       "start_scheduled": "2026-06-03T09:00:00.000Z",
       "start_actual": "2026-06-03T09:00:53.000Z",
-      "live_viewers": 620,
+      "live_viewers": 748,
       "channel": {
         "id": "UCwXfrtn26oj7JW9fwB_z1bw",
         "name": "咲乃もこ【SakinoMoco】",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-03T09:02:28.000Z",
       "start_scheduled": "2026-06-03T09:00:00.000Z",
       "start_actual": "2026-06-03T09:02:28.000Z",
-      "live_viewers": 312,
+      "live_viewers": 337,
       "channel": {
         "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
         "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
@@ -99,6 +99,25 @@
         "org": "Nijisanji",
         "suborg": "1cKiramero",
         "photo": "https://yt3.ggpht.com/0hwFUTExbP8nb6TT5iRURYq3WJTlotAdcbRohnVGh4ppEnZjKR0l4Qt4oz0KWrOXF0y-ye6LFQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCDqI2jOz0weumE8s7paEk6g": {
+      "video_id": "EWcbnKTe3jk",
+      "title": "【 #漢義リーグ 第2節】今日も自分を信じて美しくPON!!!!   #秋麗宝燈  w.咲乃もこ/空星きらめ/アキロゼ【ホロライブ/ ロボ子さん 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mahjong",
+      "published_at": "2026-06-02T11:45:40.000Z",
+      "available_at": "2026-06-03T09:15:00.000Z",
+      "start_scheduled": "2026-06-03T09:15:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCDqI2jOz0weumE8s7paEk6g",
+        "name": "Roboco Ch. - ロボ子",
+        "english_name": "Robocosan",
+        "org": "Hololive",
+        "suborg": "0w0th Generation",
+        "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
