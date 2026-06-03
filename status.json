@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780458079,
+  "cached_at": 1780458139,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "KFvwq8p3BC0",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-03T00:59:43.000Z",
       "start_scheduled": "2026-06-03T01:00:00.000Z",
       "start_actual": "2026-06-03T00:59:43.000Z",
-      "live_viewers": 5170,
+      "live_viewers": 5117,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-03T02:59:43.000Z",
       "start_scheduled": "2026-06-03T03:00:00.000Z",
       "start_actual": "2026-06-03T02:59:43.000Z",
-      "live_viewers": 453,
+      "live_viewers": 459,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-03T03:01:29.000Z",
       "start_scheduled": "2026-06-03T03:00:00.000Z",
       "start_actual": "2026-06-03T03:01:29.000Z",
-      "live_viewers": 2233,
+      "live_viewers": 2382,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-03T03:01:38.000Z",
       "start_scheduled": "2026-06-03T03:00:00.000Z",
       "start_actual": "2026-06-03T03:01:38.000Z",
-      "live_viewers": 602,
+      "live_viewers": 640,
       "channel": {
         "id": "UCasKmptouCrwWLl8SlQU2tQ",
         "name": "おなつのにびたし / Onatsu no Nibitashi",
@@ -119,26 +119,6 @@
         "org": "Twitch Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/xWy_Afq5-hYE0riz6wByr6HGlxSMBSabKju2lwHmXld7lttEsMW4D5BLvoykoWQ-_drmCi5UO7E=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
-      "video_id": "IrYn_nni_98",
-      "title": "【スタバレマルチ】4日目 最後の冬 w/ 日向まる, 小柳ロウ, アルランディス, 水無瀬, おなつのにびたし【 #奏手イヅル 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Stardew_Valley",
-      "published_at": "2026-06-02T15:05:13.000Z",
-      "available_at": "2026-06-03T03:01:49.000Z",
-      "start_scheduled": "2026-06-03T03:00:00.000Z",
-      "start_actual": "2026-06-03T03:01:49.000Z",
-      "live_viewers": 514,
-      "channel": {
-        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "name": "Izuru Ch. 奏手イヅル",
-        "english_name": "Kanade Izuru",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKF9kMEyUzID3-P7GbxmT6w": {
@@ -151,7 +131,7 @@
       "available_at": "2026-06-03T03:01:49.000Z",
       "start_scheduled": "2026-06-03T03:00:00.000Z",
       "start_actual": "2026-06-03T03:01:49.000Z",
-      "live_viewers": 475,
+      "live_viewers": 485,
       "channel": {
         "id": "UCKF9kMEyUzID3-P7GbxmT6w",
         "name": "hm",
@@ -159,6 +139,26 @@
         "org": "Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k1CPaOgRI2Mu5IEri_BZInMpG8xGyCi-koUo8GUJQ3ibxdodVjGLAG_bd8zdnFKpqUPQ0=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
+      "video_id": "IrYn_nni_98",
+      "title": "【スタバレマルチ】4日目 最後の冬 w/ 日向まる, 小柳ロウ, アルランディス, 水無瀬, おなつのにびたし【 #奏手イヅル 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Stardew_Valley",
+      "published_at": "2026-06-02T15:05:13.000Z",
+      "available_at": "2026-06-03T03:01:49.000Z",
+      "start_scheduled": "2026-06-03T03:00:00.000Z",
+      "start_actual": "2026-06-03T03:01:49.000Z",
+      "live_viewers": 532,
+      "channel": {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "english_name": "Kanade Izuru",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCEy9cYULQrC2cRlVqJPCcSw": {
@@ -171,7 +171,7 @@
       "available_at": "2026-06-03T03:03:58.000Z",
       "start_scheduled": "2026-06-03T03:00:00.000Z",
       "start_actual": "2026-06-03T03:03:58.000Z",
-      "live_viewers": 403,
+      "live_viewers": 429,
       "channel": {
         "id": "UCEy9cYULQrC2cRlVqJPCcSw",
         "name": "水無瀬 / Minase",
