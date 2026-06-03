@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780502779,
+  "cached_at": 1780502839,
   "lives": {
     "UCtMiyDQJ97iax5wuwGhLzGg": {
       "video_id": "bPl4FtvAQyk",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-03T11:02:03.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:02:03.000Z",
-      "live_viewers": 14,
+      "live_viewers": 12,
       "channel": {
         "id": "UCtMiyDQJ97iax5wuwGhLzGg",
         "name": "柚鳥ペケ YUTORI PEKE",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-03T12:12:36.000Z",
       "start_scheduled": "2026-06-03T12:00:00.000Z",
       "start_actual": "2026-06-03T12:12:36.000Z",
-      "live_viewers": 10612,
+      "live_viewers": 10580,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-03T13:21:54.000Z",
       "start_scheduled": "2026-06-03T13:10:00.000Z",
       "start_actual": "2026-06-03T13:21:54.000Z",
-      "live_viewers": 4936,
+      "live_viewers": 5025,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -128,9 +128,10 @@
       "status": "live",
       "topic_id": "Yoshi",
       "published_at": "2026-06-02T22:45:22.000Z",
-      "available_at": "2026-06-03T16:00:00.000Z",
+      "available_at": "2026-06-03T16:01:28.000Z",
       "start_scheduled": "2026-06-03T16:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-03T16:01:28.000Z",
+      "live_viewers": 1759,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
