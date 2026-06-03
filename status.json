@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780485559,
+  "cached_at": 1780485619,
   "lives": {
     "UC7-N7MvN5muVIHqyQx9LFbA": {
       "video_id": "Sd5sWQar_3c",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-03T08:46:27.000Z",
       "start_scheduled": "2026-06-03T08:45:00.000Z",
       "start_actual": "2026-06-03T08:46:27.000Z",
-      "live_viewers": 13324,
+      "live_viewers": 13704,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-03T08:59:34.000Z",
       "start_scheduled": "2026-06-03T09:00:00.000Z",
       "start_actual": "2026-06-03T08:59:34.000Z",
-      "live_viewers": 5485,
+      "live_viewers": 5436,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-03T09:00:53.000Z",
       "start_scheduled": "2026-06-03T09:00:00.000Z",
       "start_actual": "2026-06-03T09:00:53.000Z",
-      "live_viewers": 721,
+      "live_viewers": 756,
       "channel": {
         "id": "UCwXfrtn26oj7JW9fwB_z1bw",
         "name": "咲乃もこ【SakinoMoco】",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-03T09:02:28.000Z",
       "start_scheduled": "2026-06-03T09:00:00.000Z",
       "start_actual": "2026-06-03T09:02:28.000Z",
-      "live_viewers": 489,
+      "live_viewers": 378,
       "channel": {
         "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
         "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
@@ -141,26 +141,6 @@
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCKeAhJvy8zgXWbh9duVjIaQ": {
-      "video_id": "L9yiFRIcbX8",
-      "title": "【 DDFF 】フルパで視聴者参加型だぞ!【アルランディス/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Final_fantasy",
-      "published_at": "2026-06-02T14:48:45.000Z",
-      "available_at": "2026-06-03T10:01:14.000Z",
-      "start_scheduled": "2026-06-03T10:00:00.000Z",
-      "start_actual": "2026-06-03T10:01:14.000Z",
-      "live_viewers": 1499,
-      "channel": {
-        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
-        "name": "Aruran Ch. アルランディス",
-        "english_name": "Arurandeisu",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCvzGlP9oQwU--Y0r9id_jnA": {
       "video_id": "IygB_BVdUTg",
       "title": "【#ホロ金策サバイバル2】ファーマー、覚悟のDAY3 金策マイクラやるしゅばあああああああああああああああああああああああああ!!!!!!：MINECRAFT【ホロライブ/大空スバル】",
@@ -179,26 +159,6 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCo6mwsozDGMW0UNGowBJGhg": {
-      "video_id": "9TbRlvtEdZs",
-      "title": "【 DDFF 】アルさんに教えてもらう!3v3のボス討伐バトル🔥 #ピザ屋最高 🍕【昏昏アリア/ネオポルテ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Final_fantasy",
-      "published_at": "2026-06-02T11:40:53.000Z",
-      "available_at": "2026-06-03T10:01:53.000Z",
-      "start_scheduled": "2026-06-03T10:00:00.000Z",
-      "start_actual": "2026-06-03T10:01:53.000Z",
-      "live_viewers": 468,
-      "channel": {
-        "id": "UCo6mwsozDGMW0UNGowBJGhg",
-        "name": "昏昏アリア / Konkon Aria",
-        "english_name": "Konkon Aria",
-        "org": "Neo-Porte",
-        "suborg": "0g3rd Generation",
-        "photo": "https://yt3.ggpht.com/0tvpfHLnPtiDpBkKNqWnggOh5Me7aO4EHLcvzZAJUmZLGRGwa5Ak1HV2GO8PwmH5b3XD5BolhA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvN5h1ShZtc7nly3pezRayg": {
@@ -230,7 +190,7 @@
       "available_at": "2026-06-03T11:00:20.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:00:20.000Z",
-      "live_viewers": 159,
+      "live_viewers": 178,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -250,7 +210,7 @@
       "available_at": "2026-06-03T11:01:11.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:11.000Z",
-      "live_viewers": 213,
+      "live_viewers": 244,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -270,7 +230,7 @@
       "available_at": "2026-06-03T11:01:44.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:44.000Z",
-      "live_viewers": 409,
+      "live_viewers": 452,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -290,7 +250,7 @@
       "available_at": "2026-06-03T11:01:59.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:01:59.000Z",
-      "live_viewers": 121,
+      "live_viewers": 119,
       "channel": {
         "id": "UCUtKkGKef8BYMs3h-3zQm9A",
         "name": "Suha Channel 【NIJISANJI】",
@@ -310,7 +270,7 @@
       "available_at": "2026-06-03T11:02:03.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:02:03.000Z",
-      "live_viewers": 9,
+      "live_viewers": 13,
       "channel": {
         "id": "UCtMiyDQJ97iax5wuwGhLzGg",
         "name": "柚鳥ペケ YUTORI PEKE",
@@ -350,7 +310,7 @@
       "available_at": "2026-06-03T11:02:51.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:02:51.000Z",
-      "live_viewers": 222,
+      "live_viewers": 245,
       "channel": {
         "id": "UCTEoGGp5G9AFbNOb3nmrY3w",
         "name": "ニャマシュヴァ・ルッツ",
@@ -358,26 +318,6 @@
         "org": "Nyantasia!",
         "suborg": "zz",
         "photo": "https://yt3.ggpht.com/rR9dRuBICG0hHZMAOgv3-j3qtpbb2e9L18eroJA-qGhqnHTcIvkrW-sFWp9sdWcYR-yKVf50kog=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC4Xuz67FNRr69ILv2b7ZRBA": {
-      "video_id": "il_CbYOBXqs",
-      "title": "【LOLカスタム】初心者同士たたかわせてくれるらしい久しぶりや w/陵本なぎ 古神子まる 柚鳥ペケ 若魔陽エル【青桐エイト/ネオポルテ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-06-03T10:44:22.000Z",
-      "available_at": "2026-06-03T11:03:05.000Z",
-      "start_scheduled": "2026-06-03T11:00:00.000Z",
-      "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 54,
-      "channel": {
-        "id": "UC4Xuz67FNRr69ILv2b7ZRBA",
-        "name": "青桐エイト",
-        "english_name": "Aogiri Eito",
-        "org": "Neo-Porte",
-        "suborg": "0i4th Generation",
-        "photo": "https://yt3.ggpht.com/2WmVTC2WWUeTzxiLpgiC25juIuJkF4CfVaoD0IksRQxUWH2GVcmGUb0tx0P45wvv0VW3MT6aXg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCwhH8ZM5aNdMo8XzkY2b-AA": {
@@ -390,7 +330,7 @@
       "available_at": "2026-06-03T11:03:05.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 26,
+      "live_viewers": 27,
       "channel": {
         "id": "UCwhH8ZM5aNdMo8XzkY2b-AA",
         "name": "真白ぽん -Mashiro Pon-",
@@ -398,6 +338,26 @@
         "org": "Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/I0zPHx5XLBUFqXbp37xXdzNkGa_celV1OuHC4dzBu8T9XnFc6xqzdlZ1Bukw655PNEww98zU5SM=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC4Xuz67FNRr69ILv2b7ZRBA": {
+      "video_id": "il_CbYOBXqs",
+      "title": "【LOLカスタム】初心者同士たたかわせてくれるらしい久しぶりや w/陵本なぎ 古神子まる 柚鳥ペケ 若魔陽エル【青桐エイト/ネオポルテ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-06-03T10:44:22.000Z",
+      "available_at": "2026-06-03T11:03:05.000Z",
+      "start_scheduled": "2026-06-03T11:00:00.000Z",
+      "start_actual": "2026-06-03T11:03:05.000Z",
+      "live_viewers": 67,
+      "channel": {
+        "id": "UC4Xuz67FNRr69ILv2b7ZRBA",
+        "name": "青桐エイト",
+        "english_name": "Aogiri Eito",
+        "org": "Neo-Porte",
+        "suborg": "0i4th Generation",
+        "photo": "https://yt3.ggpht.com/2WmVTC2WWUeTzxiLpgiC25juIuJkF4CfVaoD0IksRQxUWH2GVcmGUb0tx0P45wvv0VW3MT6aXg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
@@ -410,7 +370,7 @@
       "available_at": "2026-06-03T11:03:05.000Z",
       "start_scheduled": "2026-06-03T11:00:00.000Z",
       "start_actual": "2026-06-03T11:03:05.000Z",
-      "live_viewers": 358,
+      "live_viewers": 394,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -430,7 +390,7 @@
       "available_at": "2026-06-03T11:07:55.000Z",
       "start_scheduled": "2026-06-03T11:05:00.000Z",
       "start_actual": "2026-06-03T11:07:55.000Z",
-      "live_viewers": 63,
+      "live_viewers": 81,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
