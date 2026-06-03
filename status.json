@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780475119,
+  "cached_at": 1780475179,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "y-m0EdU9aEg",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-03T02:59:43.000Z",
       "start_scheduled": "2026-06-03T03:00:00.000Z",
       "start_actual": "2026-06-03T02:59:43.000Z",
-      "live_viewers": 829,
+      "live_viewers": 811,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -28,9 +28,10 @@
       "status": "live",
       "topic_id": "Mahjong",
       "published_at": "2026-06-03T08:07:57.000Z",
-      "available_at": "2026-06-03T08:10:00.000Z",
+      "available_at": "2026-06-03T08:22:56.000Z",
       "start_scheduled": "2026-06-03T08:10:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-03T08:22:56.000Z",
+      "live_viewers": 8,
       "channel": {
         "id": "UCwXfrtn26oj7JW9fwB_z1bw",
         "name": "咲乃もこ【SakinoMoco】",
