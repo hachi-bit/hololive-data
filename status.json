@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780567520,
+  "cached_at": 1780567579,
   "lives": {
     "UCAoy6rzhSf4ydcYjJw3WoVg": {
       "video_id": "xCYCeF8oU4Y",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-04T09:52:40.000Z",
       "start_scheduled": "2026-06-04T09:45:00.000Z",
       "start_actual": "2026-06-04T09:52:40.000Z",
-      "live_viewers": 8149,
+      "live_viewers": 8887,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -59,44 +59,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCv3EicDtxObcZZmnFcHvNnw": {
-      "video_id": "B0kNVhoRhAI",
-      "title": "【Goose Goose Duck】うゆちゃん主催のアヒル人狼!【鬼ヶ谷テン/ネオポルテ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Goose_Goose_Duck",
-      "published_at": "2026-06-04T09:39:28.000Z",
-      "available_at": "2026-06-04T10:00:00.000Z",
-      "start_scheduled": "2026-06-04T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCv3EicDtxObcZZmnFcHvNnw",
-        "name": "鬼ヶ谷 テン / Onigaya Ten",
-        "english_name": "Onigaya Ten",
-        "org": "Neo-Porte",
-        "suborg": "0m6th Generation",
-        "photo": "https://yt3.ggpht.com/ApKOz7sH6YpKWtzBQVaZGVc9N4KHJSlT3MUEVukFphSTTnJMEl_dplx6b3EI5n1pW_heDH4aCQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
-      "video_id": "gbVP30hJu2g",
-      "title": "絶対楽しいメンバーで Goose Goose Duck !!【 ホロスターズ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Goose_Goose_Duck",
-      "published_at": "2026-06-03T18:07:17.000Z",
-      "available_at": "2026-06-04T10:00:00.000Z",
-      "start_scheduled": "2026-06-04T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
-        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
-        "english_name": "Utsugi Uyu",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCrOK22InJkQCsKZC6Bq0Bcg": {
@@ -200,12 +162,12 @@
       "title": "【夜のお供に】今日はチルい感じでいくよ〜!【 #UNIT_B / #宵凪ネオン】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "singing",
       "published_at": "2026-06-04T06:19:05.000Z",
       "available_at": "2026-06-04T10:01:17.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:01:17.000Z",
-      "live_viewers": 834,
+      "live_viewers": 1700,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -225,7 +187,7 @@
       "available_at": "2026-06-04T10:02:03.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:02:03.000Z",
-      "live_viewers": 19,
+      "live_viewers": 37,
       "channel": {
         "id": "UCe5mbpYA9Yym4lZTdj06G6Q",
         "name": "氷乃渚 / Hino Nagisa",
@@ -233,6 +195,46 @@
         "org": "Uniraid!",
         "suborg": "10EINS",
         "photo": "https://yt3.ggpht.com/ocMFCh-neckH9bGCoPjlnFivIBJWRer8Xr2sxjP-9mfscPiui3uJZlodCq4Ek1COKA7nsfylYII=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCv3EicDtxObcZZmnFcHvNnw": {
+      "video_id": "B0kNVhoRhAI",
+      "title": "【Goose Goose Duck】うゆちゃん主催のアヒル人狼!【鬼ヶ谷テン/ネオポルテ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Goose_Goose_Duck",
+      "published_at": "2026-06-04T09:39:28.000Z",
+      "available_at": "2026-06-04T10:02:09.000Z",
+      "start_scheduled": "2026-06-04T10:00:00.000Z",
+      "start_actual": "2026-06-04T10:02:09.000Z",
+      "live_viewers": 99,
+      "channel": {
+        "id": "UCv3EicDtxObcZZmnFcHvNnw",
+        "name": "鬼ヶ谷 テン / Onigaya Ten",
+        "english_name": "Onigaya Ten",
+        "org": "Neo-Porte",
+        "suborg": "0m6th Generation",
+        "photo": "https://yt3.ggpht.com/ApKOz7sH6YpKWtzBQVaZGVc9N4KHJSlT3MUEVukFphSTTnJMEl_dplx6b3EI5n1pW_heDH4aCQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
+      "video_id": "gbVP30hJu2g",
+      "title": "絶対楽しいメンバーで Goose Goose Duck !!【 ホロスターズ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Goose_Goose_Duck",
+      "published_at": "2026-06-03T18:07:17.000Z",
+      "available_at": "2026-06-04T10:03:47.000Z",
+      "start_scheduled": "2026-06-04T10:00:00.000Z",
+      "start_actual": "2026-06-04T10:03:47.000Z",
+      "live_viewers": 46,
+      "channel": {
+        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
+        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
+        "english_name": "Utsugi Uyu",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
