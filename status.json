@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780576339,
+  "cached_at": 1780576399,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "IZozKvDhp5s",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-04T10:30:51.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:30:51.000Z",
-      "live_viewers": 16772,
+      "live_viewers": 16272,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-04T10:31:57.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:31:57.000Z",
-      "live_viewers": 11140,
+      "live_viewers": 10710,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-04T10:46:58.000Z",
       "start_scheduled": "2026-06-04T11:00:00.000Z",
       "start_actual": "2026-06-04T10:46:58.000Z",
-      "live_viewers": 6435,
+      "live_viewers": 6933,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -271,7 +271,7 @@
       "available_at": "2026-06-04T10:51:38.000Z",
       "start_scheduled": "2026-06-04T10:55:00.000Z",
       "start_actual": "2026-06-04T10:51:38.000Z",
-      "live_viewers": 3778,
+      "live_viewers": 3649,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -291,7 +291,7 @@
       "available_at": "2026-06-04T10:56:07.000Z",
       "start_scheduled": "2026-06-04T10:55:00.000Z",
       "start_actual": "2026-06-04T10:56:07.000Z",
-      "live_viewers": 3823,
+      "live_viewers": 3895,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -431,7 +431,7 @@
       "available_at": "2026-06-04T11:01:38.000Z",
       "start_scheduled": "2026-06-04T11:00:00.000Z",
       "start_actual": "2026-06-04T11:01:38.000Z",
-      "live_viewers": 272,
+      "live_viewers": 301,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -491,7 +491,7 @@
       "available_at": "2026-06-04T12:08:57.000Z",
       "start_scheduled": "2026-06-04T12:10:00.000Z",
       "start_actual": "2026-06-04T12:08:57.000Z",
-      "live_viewers": 2948,
+      "live_viewers": 3445,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -499,6 +499,25 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCWQtYtq9EOB4-I5P-3fh8lA": {
+      "video_id": "DdguzzIq2nM",
+      "title": "【 #ホロ金策サバイバル2 】4日目も完全エンジョイする勢！！！！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-04T12:00:57.000Z",
+      "available_at": "2026-06-04T12:30:00.000Z",
+      "start_scheduled": "2026-06-04T12:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "english_name": "Otonose Kanade",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
