@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780590799,
+  "cached_at": 1780590860,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "IZozKvDhp5s",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-04T10:29:51.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:29:51.000Z",
-      "live_viewers": 26970,
+      "live_viewers": 26440,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-04T10:30:15.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:30:15.000Z",
-      "live_viewers": 18750,
+      "live_viewers": 18770,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-04T10:31:32.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:31:32.000Z",
-      "live_viewers": 11181,
+      "live_viewers": 11867,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -101,26 +101,6 @@
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
-      "video_id": "DW0dMaE8vS8",
-      "title": "【 #ホロ金策サバイバル2 】day3 ファイターでドリームを!【水宮枢/ホロライブDEV_IS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-03T14:14:12.000Z",
-      "available_at": "2026-06-04T10:48:19.000Z",
-      "start_scheduled": "2026-06-04T11:00:00.000Z",
-      "start_actual": "2026-06-04T10:48:19.000Z",
-      "live_viewers": 1647,
-      "channel": {
-        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-        "name": "Su Ch. 水宮枢 - FLOW GLOW",
-        "english_name": "Mizumiya Su",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCD5W21JqNMv_tV9nfjvF9sw": {
       "video_id": "7sClGr1bUio",
       "title": "【 スト6】V最顔合わせ~!【 ぶいすぽっ!/紫宮るな 】",
@@ -131,7 +111,7 @@
       "available_at": "2026-06-04T13:05:34.000Z",
       "start_scheduled": "2026-06-04T13:00:00.000Z",
       "start_actual": "2026-06-04T13:05:34.000Z",
-      "live_viewers": 2808,
+      "live_viewers": 2363,
       "channel": {
         "id": "UCD5W21JqNMv_tV9nfjvF9sw",
         "name": "紫宮るな /shinomiya runa",
@@ -151,7 +131,7 @@
       "available_at": "2026-06-04T13:05:43.000Z",
       "start_scheduled": "2026-06-04T13:00:00.000Z",
       "start_actual": "2026-06-04T13:05:43.000Z",
-      "live_viewers": 1464,
+      "live_viewers": 1406,
       "channel": {
         "id": "UChLfthKoUV502J7gU9STArg",
         "name": "渋谷ハル",
