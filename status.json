@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780569619,
+  "cached_at": 1780569681,
   "lives": {
-    "UCDqI2jOz0weumE8s7paEk6g": {
-      "video_id": "P5q9YTNvlVI",
-      "title": "【Forza Horizon 6】ドライブしよおお💗ボクが運転してあ・げ・るううう💗【ホロライブ/ ロボ子さん 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Forza",
-      "published_at": "2026-06-04T05:10:55.000Z",
-      "available_at": "2026-06-04T09:02:39.000Z",
-      "start_scheduled": "2026-06-04T09:00:00.000Z",
-      "start_actual": "2026-06-04T09:02:39.000Z",
-      "live_viewers": 3923,
-      "channel": {
-        "id": "UCDqI2jOz0weumE8s7paEk6g",
-        "name": "Roboco Ch. - ロボ子",
-        "english_name": "Robocosan",
-        "org": "Hololive",
-        "suborg": "0w0th Generation",
-        "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCuI_opAVX6qbxZY-a-AxFuQ": {
       "video_id": "XFfKSDzUfA0",
       "title": "【3Dオフコラボ】犬猿の仲ですから(笑)ドキドキなんかしないですけど(笑)【ちはニコ】",
@@ -31,7 +11,7 @@
       "available_at": "2026-06-04T09:52:40.000Z",
       "start_scheduled": "2026-06-04T09:45:00.000Z",
       "start_actual": "2026-06-04T09:52:40.000Z",
-      "live_viewers": 10846,
+      "live_viewers": 8020,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -70,7 +50,7 @@
       "available_at": "2026-06-04T10:01:17.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:01:17.000Z",
-      "live_viewers": 3612,
+      "live_viewers": 3813,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -90,7 +70,7 @@
       "available_at": "2026-06-04T10:02:03.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:02:03.000Z",
-      "live_viewers": 51,
+      "live_viewers": 50,
       "channel": {
         "id": "UCe5mbpYA9Yym4lZTdj06G6Q",
         "name": "氷乃渚 / Hino Nagisa",
@@ -130,7 +110,7 @@
       "available_at": "2026-06-04T10:03:38.000Z",
       "start_scheduled": "2026-06-04T10:00:04.000Z",
       "start_actual": "2026-06-04T10:03:38.000Z",
-      "live_viewers": 66,
+      "live_viewers": 67,
       "channel": {
         "id": "UC7r_ajmyUak6yNDhQe2mCMw",
         "name": "夢咲ひぽぽ / Yumesaki Hipopo",
@@ -150,7 +130,7 @@
       "available_at": "2026-06-04T10:03:47.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:03:47.000Z",
-      "live_viewers": 196,
+      "live_viewers": 195,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -170,7 +150,7 @@
       "available_at": "2026-06-04T10:03:56.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:03:56.000Z",
-      "live_viewers": 82,
+      "live_viewers": 90,
       "channel": {
         "id": "UCxpmipyCaJ07EHwKlrIKHkA",
         "name": "鴉紋ゆうく / Amon Yuuku",
@@ -190,7 +170,7 @@
       "available_at": "2026-06-04T10:09:27.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:09:27.000Z",
-      "live_viewers": 31,
+      "live_viewers": 38,
       "channel": {
         "id": "UCrOK22InJkQCsKZC6Bq0Bcg",
         "name": "游禅ウラト / Urato Yuzen",
@@ -210,7 +190,7 @@
       "available_at": "2026-06-04T10:27:25.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:27:25.000Z",
-      "live_viewers": 1893,
+      "live_viewers": 1968,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -230,7 +210,7 @@
       "available_at": "2026-06-04T10:29:51.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:29:51.000Z",
-      "live_viewers": 19651,
+      "live_viewers": 21826,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -250,7 +230,7 @@
       "available_at": "2026-06-04T10:30:15.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:30:15.000Z",
-      "live_viewers": 13658,
+      "live_viewers": 15908,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -270,7 +250,7 @@
       "available_at": "2026-06-04T10:30:51.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:30:51.000Z",
-      "live_viewers": 43900,
+      "live_viewers": 50579,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -290,7 +270,7 @@
       "available_at": "2026-06-04T10:31:32.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:31:32.000Z",
-      "live_viewers": 5073,
+      "live_viewers": 6281,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -310,7 +290,7 @@
       "available_at": "2026-06-04T10:31:57.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:31:57.000Z",
-      "live_viewers": 8440,
+      "live_viewers": 9090,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
