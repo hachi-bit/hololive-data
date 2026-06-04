@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780538539,
+  "cached_at": 1780538660,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "8QXk8-t-Hf0",
@@ -21,26 +21,6 @@
         "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC9p_lqQ0FEDz327Vgf5JwqA": {
-      "video_id": "28mwJEFX_rg",
-      "title": "【STREET FIGHTER 6】TRIAL BY FIRE! TRAIN ME PEBBLES",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-03T15:26:49.000Z",
-      "available_at": "2026-06-03T22:55:44.000Z",
-      "start_scheduled": "2026-06-03T23:00:00.000Z",
-      "start_actual": "2026-06-03T22:55:44.000Z",
-      "live_viewers": 8051,
-      "channel": {
-        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-        "name": "Koseki Bijou Ch. hololive-EN",
-        "english_name": "Koseki Bijou",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "8QGtHAat9q8",
       "title": "【 Zelda: The Minish Cap】IS THIS THE END OF OUR GREAT HAKKITO ADVENTURE... WE WILL SEE 🗡️✨【4】",
@@ -51,7 +31,7 @@
       "available_at": "2026-06-04T00:08:19.000Z",
       "start_scheduled": "2026-06-04T00:15:00.000Z",
       "start_actual": "2026-06-04T00:08:19.000Z",
-      "live_viewers": 353,
+      "live_viewers": 344,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -80,26 +60,6 @@
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCMqGG8BRAiI1lJfKOpETM_w": {
-      "video_id": "giedWUUlCao",
-      "title": "【Subnautica 2 】Part 6 - you know what? we're in a subnautica groove, let's do just one more~!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Subnautica",
-      "published_at": "2026-06-03T13:29:46.000Z",
-      "available_at": "2026-06-04T01:59:07.000Z",
-      "start_scheduled": "2026-06-04T02:00:00.000Z",
-      "start_actual": "2026-06-04T01:59:07.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCMqGG8BRAiI1lJfKOpETM_w",
-        "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
-        "english_name": "Josuiji Shinri",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCL_qhgtOy0dy1Agp8vkySQg": {
       "video_id": "DnvFJLi60sM",
       "title": "【PaRappa the Rapper 2】anything goes!! featuring @holoen_gigimurin #calliolive",
@@ -110,7 +70,7 @@
       "available_at": "2026-06-04T01:59:15.000Z",
       "start_scheduled": "2026-06-04T02:00:00.000Z",
       "start_actual": "2026-06-04T01:59:15.000Z",
-      "live_viewers": 2740,
+      "live_viewers": 4342,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -118,6 +78,46 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCMqGG8BRAiI1lJfKOpETM_w": {
+      "video_id": "giedWUUlCao",
+      "title": "【Subnautica 2 】Part 6 - you know what? we're in a subnautica groove, let's do just one more~!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Subnautica",
+      "published_at": "2026-06-03T13:29:46.000Z",
+      "available_at": "2026-06-04T02:00:40.000Z",
+      "start_scheduled": "2026-06-04T02:00:00.000Z",
+      "start_actual": "2026-06-04T02:00:40.000Z",
+      "live_viewers": 105,
+      "channel": {
+        "id": "UCMqGG8BRAiI1lJfKOpETM_w",
+        "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
+        "english_name": "Josuiji Shinri",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC060r4zABV18vcahAWR1n7w": {
+      "video_id": "dvZlCAgzWhs",
+      "title": "Sleepy Chat B4 2026 Birthday!?【CHAT】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-06-03T16:29:50.000Z",
+      "available_at": "2026-06-04T02:00:54.000Z",
+      "start_scheduled": "2026-06-04T02:00:00.000Z",
+      "start_actual": "2026-06-04T02:00:54.000Z",
+      "live_viewers": 142,
+      "channel": {
+        "id": "UC060r4zABV18vcahAWR1n7w",
+        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
+        "english_name": "Machina X Flayon",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
