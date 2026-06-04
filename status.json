@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780560619,
+  "cached_at": 1780560679,
   "lives": {
-    "UCmbs8T6MWqUHP1tIQvSgKrg": {
-      "video_id": "nSUN8QB8LB0",
-      "title": "【Thank Goodness You're Here!】Heh Oh Stop",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Thank_Goodness_You're_Here!",
-      "published_at": "2026-06-04T02:33:46.000Z",
-      "available_at": "2026-06-04T03:00:15.000Z",
-      "start_scheduled": "2026-06-04T03:00:00.000Z",
-      "start_actual": "2026-06-04T03:00:15.000Z",
-      "live_viewers": 4957,
-      "channel": {
-        "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
-        "name": "Ouro Kronii Ch. hololive-EN",
-        "english_name": "Ouro Kronii",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "ntGbdMVGSeQ",
       "title": "【 Zelda: The Minish Cap】THE STREAM ENDED LOL ? ? ? 🗡️✨【4.5】",
@@ -71,7 +51,7 @@
       "available_at": "2026-06-04T06:58:37.000Z",
       "start_scheduled": "2026-06-04T07:00:00.000Z",
       "start_actual": "2026-06-04T06:58:37.000Z",
-      "live_viewers": 1140,
+      "live_viewers": 3217,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -131,7 +111,7 @@
       "available_at": "2026-06-04T07:12:59.000Z",
       "start_scheduled": "2026-06-04T07:00:00.000Z",
       "start_actual": "2026-06-04T07:12:59.000Z",
-      "live_viewers": 4796,
+      "live_viewers": 4935,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
