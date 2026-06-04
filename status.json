@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780575919,
+  "cached_at": 1780575987,
   "lives": {
     "UCe5mbpYA9Yym4lZTdj06G6Q": {
       "video_id": "Bc-sbiiewoM",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-04T10:02:09.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:02:09.000Z",
-      "live_viewers": 146,
+      "live_viewers": 129,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -61,26 +61,6 @@
         "photo": "https://yt3.ggpht.com/u7ixUcHAEqwe7DtJvdk4FdfWVRXbnV9AahRFEPOOVPyqApICm6qa94LxJazyWVam8DDH5nOdJHE=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
-      "video_id": "gbVP30hJu2g",
-      "title": "絶対楽しいメンバーで Goose Goose Duck !!【 ホロスターズ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Goose_Goose_Duck",
-      "published_at": "2026-06-03T18:07:17.000Z",
-      "available_at": "2026-06-04T10:03:47.000Z",
-      "start_scheduled": "2026-06-04T10:00:00.000Z",
-      "start_actual": "2026-06-04T10:03:47.000Z",
-      "live_viewers": 219,
-      "channel": {
-        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
-        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
-        "english_name": "Utsugi Uyu",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCxpmipyCaJ07EHwKlrIKHkA": {
       "video_id": "AeRQMCHrYBw",
       "title": "【Goose Goose Duck】人狼は苦手だけど楽しそう!!!大人数コラボ!【 鴉紋ゆうく/のなめぷろだくしょん 】",
@@ -91,7 +71,7 @@
       "available_at": "2026-06-04T10:03:56.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:03:56.000Z",
-      "live_viewers": 95,
+      "live_viewers": 58,
       "channel": {
         "id": "UCxpmipyCaJ07EHwKlrIKHkA",
         "name": "鴉紋ゆうく / Amon Yuuku",
@@ -131,7 +111,7 @@
       "available_at": "2026-06-04T10:29:51.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:29:51.000Z",
-      "live_viewers": 40186,
+      "live_viewers": 40114,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +131,7 @@
       "available_at": "2026-06-04T10:30:15.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:30:15.000Z",
-      "live_viewers": 27483,
+      "live_viewers": 26596,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -171,7 +151,7 @@
       "available_at": "2026-06-04T10:30:51.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:30:51.000Z",
-      "live_viewers": 17480,
+      "live_viewers": 17372,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -191,7 +171,7 @@
       "available_at": "2026-06-04T10:31:32.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:31:32.000Z",
-      "live_viewers": 13084,
+      "live_viewers": 12034,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -211,7 +191,7 @@
       "available_at": "2026-06-04T10:31:57.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:31:57.000Z",
-      "live_viewers": 11635,
+      "live_viewers": 11022,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -351,7 +331,7 @@
       "available_at": "2026-06-04T10:47:15.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:47:15.000Z",
-      "live_viewers": 5898,
+      "live_viewers": 5857,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -371,7 +351,7 @@
       "available_at": "2026-06-04T10:47:31.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:47:31.000Z",
-      "live_viewers": 33409,
+      "live_viewers": 32159,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -471,7 +451,7 @@
       "available_at": "2026-06-04T10:56:48.000Z",
       "start_scheduled": "2026-06-04T10:50:00.000Z",
       "start_actual": "2026-06-04T10:56:48.000Z",
-      "live_viewers": 2768,
+      "live_viewers": 2796,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -491,7 +471,7 @@
       "available_at": "2026-06-04T10:58:51.000Z",
       "start_scheduled": "2026-06-04T10:59:00.000Z",
       "start_actual": "2026-06-04T10:58:51.000Z",
-      "live_viewers": 10042,
+      "live_viewers": 9897,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -511,7 +491,7 @@
       "available_at": "2026-06-04T10:59:35.000Z",
       "start_scheduled": "2026-06-04T11:00:00.000Z",
       "start_actual": "2026-06-04T10:59:35.000Z",
-      "live_viewers": 1883,
+      "live_viewers": 1904,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -571,7 +551,7 @@
       "available_at": "2026-06-04T11:01:38.000Z",
       "start_scheduled": "2026-06-04T11:00:00.000Z",
       "start_actual": "2026-06-04T11:01:38.000Z",
-      "live_viewers": 275,
+      "live_viewers": 272,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -631,7 +611,7 @@
       "available_at": "2026-06-04T12:08:57.000Z",
       "start_scheduled": "2026-06-04T12:10:00.000Z",
       "start_actual": "2026-06-04T12:08:57.000Z",
-      "live_viewers": 2700,
+      "live_viewers": 2890,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
