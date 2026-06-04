@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780591219,
+  "cached_at": 1780591280,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "IZozKvDhp5s",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-04T10:29:51.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:29:51.000Z",
-      "live_viewers": 25793,
+      "live_viewers": 24994,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-04T10:30:15.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:30:15.000Z",
-      "live_viewers": 18252,
+      "live_viewers": 17774,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -61,26 +61,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC0TXe_LYZ4scaW2XMyi5_kw": {
-      "video_id": "Y5pkKY1KUCU",
-      "title": "【Minecraft】#ホロ金策サバイバル2 今日から始めるホロ金策生活!!!!!!DAY4💰【ホロライブ / AZKi】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-03T06:09:21.000Z",
-      "available_at": "2026-06-04T10:44:45.000Z",
-      "start_scheduled": "2026-06-04T10:45:00.000Z",
-      "start_actual": "2026-06-04T10:44:45.000Z",
-      "live_viewers": 5533,
-      "channel": {
-        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-        "name": "AZKi Channel",
-        "english_name": "AZKi",
-        "org": "Hololive",
-        "suborg": "0z0th Generation",
-        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "mPwhykroPAI",
       "title": "【 #ホロ金策サバイバル2 】伝説の農婦帰還!ファーマーの時代きたあああああ【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
@@ -91,7 +71,7 @@
       "available_at": "2026-06-04T10:45:11.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:45:11.000Z",
-      "live_viewers": 4462,
+      "live_viewers": 4528,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -151,7 +131,7 @@
       "available_at": "2026-06-04T16:33:47.000Z",
       "start_scheduled": "2026-06-04T16:30:00.000Z",
       "start_actual": "2026-06-04T16:33:47.000Z",
-      "live_viewers": 310,
+      "live_viewers": 347,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
