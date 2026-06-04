@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780531879,
+  "cached_at": 1780531939,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "8QXk8-t-Hf0",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-03T23:09:26.000Z",
       "start_scheduled": "2026-06-03T23:00:00.000Z",
       "start_actual": "2026-06-03T23:09:26.000Z",
-      "live_viewers": 9730,
+      "live_viewers": 9595,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -79,6 +79,26 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7gxU6NXjKF1LrgOddPzgTw": {
+      "video_id": "8QGtHAat9q8",
+      "title": "【 Zelda: The Minish Cap】IS THIS THE END OF OUR GREAT HAKKITO ADVENTURE... WE WILL SEE 🗡️✨【4】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-03T14:56:14.000Z",
+      "available_at": "2026-06-04T00:08:19.000Z",
+      "start_scheduled": "2026-06-04T00:15:00.000Z",
+      "start_actual": "2026-06-04T00:08:19.000Z",
+      "live_viewers": 92,
+      "channel": {
+        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+        "english_name": "Banzoin Hakka",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
