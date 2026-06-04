@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780554259,
+  "cached_at": 1780554319,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "8QGtHAat9q8",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-04T00:08:19.000Z",
       "start_scheduled": "2026-06-04T00:15:00.000Z",
       "start_actual": "2026-06-04T00:08:19.000Z",
-      "live_viewers": 425,
+      "live_viewers": 403,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-04T03:00:15.000Z",
       "start_scheduled": "2026-06-04T03:00:00.000Z",
       "start_actual": "2026-06-04T03:00:15.000Z",
-      "live_viewers": 6421,
+      "live_viewers": 6326,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-04T04:01:01.000Z",
       "start_scheduled": "2026-06-04T04:00:00.000Z",
       "start_actual": "2026-06-04T04:01:01.000Z",
-      "live_viewers": 1312,
+      "live_viewers": 1328,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-04T04:03:42.000Z",
       "start_scheduled": "2026-06-04T04:00:00.000Z",
       "start_actual": "2026-06-04T04:03:42.000Z",
-      "live_viewers": 117,
+      "live_viewers": 113,
       "channel": {
         "id": "UC7rCW7EL6i3XKKaD1M6gdPw",
         "name": "杏乃みはる /Ano Miharu",
