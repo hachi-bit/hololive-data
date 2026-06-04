@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780566979,
+  "cached_at": 1780567039,
   "lives": {
-    "UC7gxU6NXjKF1LrgOddPzgTw": {
-      "video_id": "ntGbdMVGSeQ",
-      "title": "【 Zelda: The Minish Cap】THE STREAM ENDED LOL ? ? ? 🗡️✨【4.5】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "zelda",
-      "published_at": "2026-06-04T06:34:49.000Z",
-      "available_at": "2026-06-04T06:35:23.000Z",
-      "start_scheduled": "2026-06-04T06:35:00.000Z",
-      "start_actual": "2026-06-04T06:35:23.000Z",
-      "live_viewers": 315,
-      "channel": {
-        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-        "english_name": "Banzoin Hakka",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCAoy6rzhSf4ydcYjJw3WoVg": {
       "video_id": "xCYCeF8oU4Y",
       "title": "【Windrose】AHOY! AREA15 vs Babi Hutan【 iofi / hololiveID 】",
@@ -71,7 +51,7 @@
       "available_at": "2026-06-04T09:30:27.000Z",
       "start_scheduled": "2026-06-04T09:30:00.000Z",
       "start_actual": "2026-06-04T09:30:27.000Z",
-      "live_viewers": 1890,
+      "live_viewers": 1903,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -88,9 +68,10 @@
       "status": "live",
       "topic_id": "3D_Stream",
       "published_at": "2026-06-03T08:14:39.000Z",
-      "available_at": "2026-06-04T09:45:00.000Z",
+      "available_at": "2026-06-04T09:52:40.000Z",
       "start_scheduled": "2026-06-04T09:45:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-04T09:52:40.000Z",
+      "live_viewers": 4461,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
