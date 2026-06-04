@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780607059,
+  "cached_at": 1780607120,
   "lives": {
     "UCHsx4Hqa-1ORjQTh9TYDhww": {
       "video_id": "jz545PpR4uo",
@@ -28,9 +28,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-06-04T20:16:33.000Z",
-      "available_at": "2026-06-04T21:00:00.000Z",
+      "available_at": "2026-06-04T21:01:07.000Z",
       "start_scheduled": "2026-06-04T21:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-04T21:01:07.000Z",
+      "live_viewers": 422,
       "channel": {
         "id": "UCHP4f7G2dWD4qib7BMatGAw",
         "name": "Gavis Bettel Ch. HOLOSTARS-EN",
