@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780590079,
+  "cached_at": 1780590139,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "IZozKvDhp5s",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-04T10:29:51.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:29:51.000Z",
-      "live_viewers": 27523,
+      "live_viewers": 26547,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-04T10:48:19.000Z",
       "start_scheduled": "2026-06-04T11:00:00.000Z",
       "start_actual": "2026-06-04T10:48:19.000Z",
-      "live_viewers": 1711,
+      "live_viewers": 1715,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -139,26 +139,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC727SQYUvx5pDDGQpTICNWg": {
-      "video_id": "NvzCkqRfMc0",
-      "title": "【#ホロ金策サバイバル2】Episode 2: FIGHTING for Money この世界にはまだ知らないものたくさん!色んな事やって稼ぐぞ!【hololive | Anya Melfissa】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-02T18:11:06.000Z",
-      "available_at": "2026-06-04T11:01:37.000Z",
-      "start_scheduled": "2026-06-04T11:00:00.000Z",
-      "start_actual": "2026-06-04T11:01:37.000Z",
-      "live_viewers": 754,
-      "channel": {
-        "id": "UC727SQYUvx5pDDGQpTICNWg",
-        "name": "Anya Melfissa Ch. hololive-ID",
-        "english_name": "Anya Melfissa",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCD5W21JqNMv_tV9nfjvF9sw": {
@@ -211,7 +191,7 @@
       "available_at": "2026-06-04T14:00:22.000Z",
       "start_scheduled": "2026-06-04T14:00:00.000Z",
       "start_actual": "2026-06-04T14:00:22.000Z",
-      "live_viewers": 1854,
+      "live_viewers": 2025,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
