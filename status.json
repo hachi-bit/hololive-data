@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780587499,
+  "cached_at": 1780587559,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "IZozKvDhp5s",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-04T10:30:15.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:30:15.000Z",
-      "live_viewers": 21248,
+      "live_viewers": 20756,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-04T10:30:51.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:30:51.000Z",
-      "live_viewers": 12936,
+      "live_viewers": 12666,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-04T10:31:32.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:31:32.000Z",
-      "live_viewers": 9894,
+      "live_viewers": 9886,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-04T10:45:11.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:45:11.000Z",
-      "live_viewers": 7981,
+      "live_viewers": 3901,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-04T10:45:37.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:45:37.000Z",
-      "live_viewers": 6948,
+      "live_viewers": 6231,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-04T10:46:58.000Z",
       "start_scheduled": "2026-06-04T11:00:00.000Z",
       "start_actual": "2026-06-04T10:46:58.000Z",
-      "live_viewers": 6045,
+      "live_viewers": 5983,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-04T10:47:15.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:47:15.000Z",
-      "live_viewers": 6055,
+      "live_viewers": 6127,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-04T10:47:31.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:47:31.000Z",
-      "live_viewers": 52150,
+      "live_viewers": 53732,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-04T10:56:30.000Z",
       "start_scheduled": "2026-06-04T10:55:00.000Z",
       "start_actual": "2026-06-04T10:56:30.000Z",
-      "live_viewers": 1583,
+      "live_viewers": 1591,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -371,7 +371,7 @@
       "available_at": "2026-06-04T11:02:19.000Z",
       "start_scheduled": "2026-06-04T11:00:00.000Z",
       "start_actual": "2026-06-04T11:02:19.000Z",
-      "live_viewers": 1253,
+      "live_viewers": 1187,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -403,7 +403,7 @@
     },
     "UCFKOVgVbGmX65RxO3EtH3iw": {
       "video_id": "2kV8S8pLTTU",
-      "title": "【#ホロ金策サバイバル2】人参に未来はありますか?【雪花ラミィ /ホロライブ】",
+      "title": "【#ホロ金策サバイバル2】みんなで一緒にミニゲームで遊ぶ!!【雪花ラミィ /ホロライブ】",
       "type": "stream",
       "status": "live",
       "topic_id": "minecraft",
@@ -411,7 +411,7 @@
       "available_at": "2026-06-04T13:01:07.000Z",
       "start_scheduled": "2026-06-04T13:00:00.000Z",
       "start_actual": "2026-06-04T13:01:07.000Z",
-      "live_viewers": 3537,
+      "live_viewers": 3456,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -459,26 +459,6 @@
         "org": "Neo-Porte",
         "suborg": "0a0th Generation",
         "photo": "https://yt3.ggpht.com/TdoTY1zdj6MkO4hJEgdjAs3CLqjDFQsWylCeslTVTgUbNO8Zj4METNPE3AJLAxtQZ2XSC7Sq=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1uv2Oq6kNxgATlCiez59hw": {
-      "video_id": "0wP08uDKjN4",
-      "title": "【 STREET FIGHTER 6 】V最第二幕チーム1初顔合わせ✨️【常闇トワ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-04T11:51:01.000Z",
-      "available_at": "2026-06-04T13:05:45.000Z",
-      "start_scheduled": "2026-06-04T13:00:00.000Z",
-      "start_actual": "2026-06-04T13:05:45.000Z",
-      "live_viewers": 3910,
-      "channel": {
-        "id": "UC1uv2Oq6kNxgATlCiez59hw",
-        "name": "Towa Ch. 常闇トワ",
-        "english_name": "Tokoyami Towa",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
