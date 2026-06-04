@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780563740,
+  "cached_at": 1780563799,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "ntGbdMVGSeQ",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-04T06:58:25.000Z",
       "start_scheduled": "2026-06-04T07:00:00.000Z",
       "start_actual": "2026-06-04T06:58:25.000Z",
-      "live_viewers": 1227,
+      "live_viewers": 1237,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -99,6 +99,45 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCDqI2jOz0weumE8s7paEk6g": {
+      "video_id": "P5q9YTNvlVI",
+      "title": "【Forza Horizon 6】ドライブしよおお💗ボクが運転してあ・げ・るううう💗【ホロライブ/ ロボ子さん 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-06-04T05:10:55.000Z",
+      "available_at": "2026-06-04T09:00:00.000Z",
+      "start_scheduled": "2026-06-04T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCDqI2jOz0weumE8s7paEk6g",
+        "name": "Roboco Ch. - ロボ子",
+        "english_name": "Robocosan",
+        "org": "Hololive",
+        "suborg": "0w0th Generation",
+        "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCJFZiqLMntJufDCHc6bQixg": {
+      "video_id": "04-zp-oW55s",
+      "title": "【新ボイス】ようこそ、雨降る不思議な温泉宿へ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Teaser",
+      "published_at": "2026-06-04T09:00:07.000Z",
+      "available_at": "2026-06-04T09:00:07.000Z",
+      "start_scheduled": "2026-06-04T09:00:00.000Z",
+      "start_actual": "2026-06-04T09:00:07.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCJFZiqLMntJufDCHc6bQixg",
+        "name": "hololive ホロライブ - VTuber Group",
+        "english_name": "hololive VTuber Group",
+        "org": "Hololive",
+        "suborg": "0aOfficial",
+        "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
