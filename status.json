@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780566439,
+  "cached_at": 1780566500,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "ntGbdMVGSeQ",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-04T09:02:39.000Z",
       "start_scheduled": "2026-06-04T09:00:00.000Z",
       "start_actual": "2026-06-04T09:02:39.000Z",
-      "live_viewers": 6887,
+      "live_viewers": 6734,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-04T09:30:27.000Z",
       "start_scheduled": "2026-06-04T09:30:00.000Z",
       "start_actual": "2026-06-04T09:30:27.000Z",
-      "live_viewers": 1650,
+      "live_viewers": 1710,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -79,6 +79,25 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCuI_opAVX6qbxZY-a-AxFuQ": {
+      "video_id": "XFfKSDzUfA0",
+      "title": "【3Dオフコラボ】犬猿の仲ですから(笑)ドキドキなんかしないですけど(笑)【ちはニコ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "3D_Stream",
+      "published_at": "2026-06-03T08:14:39.000Z",
+      "available_at": "2026-06-04T09:45:00.000Z",
+      "start_scheduled": "2026-06-04T09:45:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+        "english_name": "Koganei Niko",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
