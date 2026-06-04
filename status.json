@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780589359,
+  "cached_at": 1780589419,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "IZozKvDhp5s",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-04T10:30:15.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:30:15.000Z",
-      "live_viewers": 18669,
+      "live_viewers": 17669,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-04T10:31:32.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:31:32.000Z",
-      "live_viewers": 8684,
+      "live_viewers": 9240,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-04T10:44:45.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:44:45.000Z",
-      "live_viewers": 6446,
+      "live_viewers": 6313,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-04T10:45:37.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:45:37.000Z",
-      "live_viewers": 5539,
+      "live_viewers": 5544,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-04T10:47:31.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:47:31.000Z",
-      "live_viewers": 47499,
+      "live_viewers": 47180,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-04T10:48:19.000Z",
       "start_scheduled": "2026-06-04T11:00:00.000Z",
       "start_actual": "2026-06-04T10:48:19.000Z",
-      "live_viewers": 1750,
+      "live_viewers": 1727,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -201,26 +201,6 @@
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCFTLzh12_nrtzqBPsTCqenA": {
-      "video_id": "cy3rSdrJ4R0",
-      "title": "【  #ホロ金策サバイバル2 】3日目!ファイターの時代がきた!!【アキロゼ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-03T08:54:16.000Z",
-      "available_at": "2026-06-04T10:56:48.000Z",
-      "start_scheduled": "2026-06-04T10:50:00.000Z",
-      "start_actual": "2026-06-04T10:56:48.000Z",
-      "live_viewers": 2015,
-      "channel": {
-        "id": "UCFTLzh12_nrtzqBPsTCqenA",
-        "name": "アキロゼCh。Vtuber/ホロライブ所属",
-        "english_name": "Aki Rosenthal",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC727SQYUvx5pDDGQpTICNWg": {
       "video_id": "NvzCkqRfMc0",
       "title": "【#ホロ金策サバイバル2】Episode 2: FIGHTING for Money この世界にはまだ知らないものたくさん!色んな事やって稼ぐぞ!【hololive | Anya Melfissa】",
@@ -241,26 +221,6 @@
         "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdyqAaZDKHXg4Ahi7VENThQ": {
-      "video_id": "o66M13JfQjM",
-      "title": "【Minecraft】#ホロ金策サバイバル2 !DAY4なのにまだ無職...まだ入れる職場ありますか?【白銀ノエル/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-03T13:14:45.000Z",
-      "available_at": "2026-06-04T12:08:57.000Z",
-      "start_scheduled": "2026-06-04T12:10:00.000Z",
-      "start_actual": "2026-06-04T12:08:57.000Z",
-      "live_viewers": 1817,
-      "channel": {
-        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-        "name": "Noel Ch. 白銀ノエル",
-        "english_name": "Shirogane Noel",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCD5W21JqNMv_tV9nfjvF9sw": {
       "video_id": "7sClGr1bUio",
       "title": "【 スト6】V最顔合わせ~!【 ぶいすぽっ!/紫宮るな 】",
@@ -271,7 +231,7 @@
       "available_at": "2026-06-04T13:05:34.000Z",
       "start_scheduled": "2026-06-04T13:00:00.000Z",
       "start_actual": "2026-06-04T13:05:34.000Z",
-      "live_viewers": 2376,
+      "live_viewers": 2408,
       "channel": {
         "id": "UCD5W21JqNMv_tV9nfjvF9sw",
         "name": "紫宮るな /shinomiya runa",
@@ -291,7 +251,7 @@
       "available_at": "2026-06-04T13:05:43.000Z",
       "start_scheduled": "2026-06-04T13:00:00.000Z",
       "start_actual": "2026-06-04T13:05:43.000Z",
-      "live_viewers": 1603,
+      "live_viewers": 1561,
       "channel": {
         "id": "UChLfthKoUV502J7gU9STArg",
         "name": "渋谷ハル",
@@ -311,7 +271,7 @@
       "available_at": "2026-06-04T14:00:22.000Z",
       "start_scheduled": "2026-06-04T14:00:00.000Z",
       "start_actual": "2026-06-04T14:00:22.000Z",
-      "live_viewers": 1796,
+      "live_viewers": 1854,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
