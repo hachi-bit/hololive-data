@@ -1,66 +1,6 @@
 {
-  "cached_at": 1780576099,
+  "cached_at": 1780576159,
   "lives": {
-    "UCe5mbpYA9Yym4lZTdj06G6Q": {
-      "video_id": "Bc-sbiiewoM",
-      "title": "【Goose Goose Duck】激アツメンバーでアヒル人狼するよ【氷乃渚 / ゆにれいど!】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Goose_Goose_Duck",
-      "published_at": "2026-06-03T12:03:04.000Z",
-      "available_at": "2026-06-04T10:02:03.000Z",
-      "start_scheduled": "2026-06-04T10:00:00.000Z",
-      "start_actual": "2026-06-04T10:02:03.000Z",
-      "live_viewers": 48,
-      "channel": {
-        "id": "UCe5mbpYA9Yym4lZTdj06G6Q",
-        "name": "氷乃渚 / Hino Nagisa",
-        "english_name": "Hino Nagisa",
-        "org": "Uniraid!",
-        "suborg": "10EINS",
-        "photo": "https://yt3.ggpht.com/ocMFCh-neckH9bGCoPjlnFivIBJWRer8Xr2sxjP-9mfscPiui3uJZlodCq4Ek1COKA7nsfylYII=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCv3EicDtxObcZZmnFcHvNnw": {
-      "video_id": "B0kNVhoRhAI",
-      "title": "【Goose Goose Duck】うゆちゃん主催のアヒル人狼!【鬼ヶ谷テン/ネオポルテ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Goose_Goose_Duck",
-      "published_at": "2026-06-04T09:39:28.000Z",
-      "available_at": "2026-06-04T10:02:09.000Z",
-      "start_scheduled": "2026-06-04T10:00:00.000Z",
-      "start_actual": "2026-06-04T10:02:09.000Z",
-      "live_viewers": 129,
-      "channel": {
-        "id": "UCv3EicDtxObcZZmnFcHvNnw",
-        "name": "鬼ヶ谷 テン / Onigaya Ten",
-        "english_name": "Onigaya Ten",
-        "org": "Neo-Porte",
-        "suborg": "0m6th Generation",
-        "photo": "https://yt3.ggpht.com/ApKOz7sH6YpKWtzBQVaZGVc9N4KHJSlT3MUEVukFphSTTnJMEl_dplx6b3EI5n1pW_heDH4aCQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC7r_ajmyUak6yNDhQe2mCMw": {
-      "video_id": "YzAYpLx3-UE",
-      "title": "【GooseGooseDuck】何が起こるかわからないアヒル人狼コラボ!【夢咲ひぽぽ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Goose_Goose_Duck",
-      "published_at": "2026-06-04T06:38:53.000Z",
-      "available_at": "2026-06-04T10:03:38.000Z",
-      "start_scheduled": "2026-06-04T10:00:04.000Z",
-      "start_actual": "2026-06-04T10:03:38.000Z",
-      "live_viewers": 45,
-      "channel": {
-        "id": "UC7r_ajmyUak6yNDhQe2mCMw",
-        "name": "夢咲ひぽぽ / Yumesaki Hipopo",
-        "english_name": "Yumesaki Hipopo",
-        "org": "Twitch Independents",
-        "suborg": "",
-        "photo": "https://yt3.ggpht.com/u7ixUcHAEqwe7DtJvdk4FdfWVRXbnV9AahRFEPOOVPyqApICm6qa94LxJazyWVam8DDH5nOdJHE=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCxpmipyCaJ07EHwKlrIKHkA": {
       "video_id": "AeRQMCHrYBw",
       "title": "【Goose Goose Duck】人狼は苦手だけど楽しそう!!!大人数コラボ!【 鴉紋ゆうく/のなめぷろだくしょん 】",
@@ -79,26 +19,6 @@
         "org": "Independents",
         "suborg": "noNoname production",
         "photo": "https://yt3.ggpht.com/geU635YM8oHXKLWNOn1gTiGfIprsDaVQAIwUzXmPW9u9Hm2Uegme9VrjH-_Yucrx3JQ9BBWv=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCrOK22InJkQCsKZC6Bq0Bcg": {
-      "video_id": "S4B_XvaLVq8",
-      "title": "【 Goose Goose Duck 】正直者です、通してください。ホットな人達とアヒル人狼【游禅ウラト / YUMENOS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Goose_Goose_Duck",
-      "published_at": "2026-06-04T08:15:58.000Z",
-      "available_at": "2026-06-04T10:09:27.000Z",
-      "start_scheduled": "2026-06-04T10:00:00.000Z",
-      "start_actual": "2026-06-04T10:09:27.000Z",
-      "live_viewers": 27,
-      "channel": {
-        "id": "UCrOK22InJkQCsKZC6Bq0Bcg",
-        "name": "游禅ウラト / Urato Yuzen",
-        "english_name": "Yuzen Urato",
-        "org": "YUMENOS",
-        "suborg": "1bGen 2",
-        "photo": "https://yt3.ggpht.com/hjRm0CVrwF34aDscdrmyPnWEciGpmkH_ip-BsK187OvZMik_CQP39vd3GAnVaMZLdEvUo2g-7A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1DCedRgGHBdm81E1llLhOQ": {
@@ -151,7 +71,7 @@
       "available_at": "2026-06-04T10:30:51.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:30:51.000Z",
-      "live_viewers": 17372,
+      "live_viewers": 16772,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -171,7 +91,7 @@
       "available_at": "2026-06-04T10:31:32.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:31:32.000Z",
-      "live_viewers": 12034,
+      "live_viewers": 12341,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -191,7 +111,7 @@
       "available_at": "2026-06-04T10:31:57.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:31:57.000Z",
-      "live_viewers": 11022,
+      "live_viewers": 11140,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -199,26 +119,6 @@
         "org": "Hololive",
         "suborg": "0x0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCW8WKciBixmaqaGqrlTITRQ": {
-      "video_id": "AdKVYaGKnMw",
-      "title": "【Goose Goose Duck】ガチョウとアヒルにまぎれ込むカピバラ【柚原いづみ / ななしいんく】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Goose_Goose_Duck",
-      "published_at": "2026-05-27T06:45:37.000Z",
-      "available_at": "2026-06-04T10:41:23.000Z",
-      "start_scheduled": "2026-06-04T10:00:00.000Z",
-      "start_actual": "2026-06-04T10:41:23.000Z",
-      "live_viewers": 116,
-      "channel": {
-        "id": "UCW8WKciBixmaqaGqrlTITRQ",
-        "name": "柚原いづみ / Izumi Channel 【ななしいんく】",
-        "english_name": "Yunohara Izumi",
-        "org": "774inc",
-        "suborg": "0 Ex-AniMare",
-        "photo": "https://yt3.ggpht.com/KaDu_P5Tna6PWz5P_yfAdFXRsdo69NULoE-pFY39fX9Jm0IgXb6zsBHfkbPG9nJh5TozQo9ur8A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC0TXe_LYZ4scaW2XMyi5_kw": {
@@ -231,7 +131,7 @@
       "available_at": "2026-06-04T10:44:45.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:44:45.000Z",
-      "live_viewers": 7130,
+      "live_viewers": 7721,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -271,7 +171,7 @@
       "available_at": "2026-06-04T10:45:37.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:45:37.000Z",
-      "live_viewers": 7030,
+      "live_viewers": 6970,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -331,7 +231,7 @@
       "available_at": "2026-06-04T10:47:15.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:47:15.000Z",
-      "live_viewers": 5857,
+      "live_viewers": 5941,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -391,7 +291,7 @@
       "available_at": "2026-06-04T10:51:38.000Z",
       "start_scheduled": "2026-06-04T10:55:00.000Z",
       "start_actual": "2026-06-04T10:51:38.000Z",
-      "live_viewers": 3560,
+      "live_viewers": 3778,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -471,7 +371,7 @@
       "available_at": "2026-06-04T10:58:51.000Z",
       "start_scheduled": "2026-06-04T10:59:00.000Z",
       "start_actual": "2026-06-04T10:58:51.000Z",
-      "live_viewers": 9897,
+      "live_viewers": 9941,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -571,7 +471,7 @@
       "available_at": "2026-06-04T11:02:19.000Z",
       "start_scheduled": "2026-06-04T11:00:00.000Z",
       "start_actual": "2026-06-04T11:02:19.000Z",
-      "live_viewers": 908,
+      "live_viewers": 923,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -611,7 +511,7 @@
       "available_at": "2026-06-04T12:08:57.000Z",
       "start_scheduled": "2026-06-04T12:10:00.000Z",
       "start_actual": "2026-06-04T12:08:57.000Z",
-      "live_viewers": 2890,
+      "live_viewers": 2873,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
