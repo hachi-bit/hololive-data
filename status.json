@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780576221,
+  "cached_at": 1780576279,
   "lives": {
-    "UCxpmipyCaJ07EHwKlrIKHkA": {
-      "video_id": "AeRQMCHrYBw",
-      "title": "【Goose Goose Duck】人狼は苦手だけど楽しそう!!!大人数コラボ!【 鴉紋ゆうく/のなめぷろだくしょん 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Goose_Goose_Duck",
-      "published_at": "2026-06-04T09:24:01.000Z",
-      "available_at": "2026-06-04T10:03:56.000Z",
-      "start_scheduled": "2026-06-04T10:00:00.000Z",
-      "start_actual": "2026-06-04T10:03:56.000Z",
-      "live_viewers": 58,
-      "channel": {
-        "id": "UCxpmipyCaJ07EHwKlrIKHkA",
-        "name": "鴉紋ゆうく / Amon Yuuku",
-        "english_name": "Amon Yuuku",
-        "org": "Independents",
-        "suborg": "noNoname production",
-        "photo": "https://yt3.ggpht.com/geU635YM8oHXKLWNOn1gTiGfIprsDaVQAIwUzXmPW9u9Hm2Uegme9VrjH-_Yucrx3JQ9BBWv=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "IZozKvDhp5s",
       "title": "【Minecraft】#ホロ金策サバイバル2 お金を稼ぎたい( ^ω^ ) DAY4 ぺこ!【ホロライブ/兎田ぺこら】",
@@ -31,7 +11,7 @@
       "available_at": "2026-06-04T10:29:51.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:29:51.000Z",
-      "live_viewers": 40114,
+      "live_viewers": 38457,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -51,7 +31,7 @@
       "available_at": "2026-06-04T10:30:15.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:30:15.000Z",
-      "live_viewers": 26596,
+      "live_viewers": 25317,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -91,7 +71,7 @@
       "available_at": "2026-06-04T10:31:32.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:31:32.000Z",
-      "live_viewers": 12341,
+      "live_viewers": 11966,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -171,7 +151,7 @@
       "available_at": "2026-06-04T10:45:37.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:45:37.000Z",
-      "live_viewers": 6970,
+      "live_viewers": 6922,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -251,7 +231,7 @@
       "available_at": "2026-06-04T10:47:31.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:47:31.000Z",
-      "live_viewers": 32159,
+      "live_viewers": 32882,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -411,7 +391,7 @@
       "available_at": "2026-06-04T11:00:01.000Z",
       "start_scheduled": "2026-06-04T11:00:00.000Z",
       "start_actual": "2026-06-04T11:00:01.000Z",
-      "live_viewers": 5439,
+      "live_viewers": 5673,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -431,7 +411,7 @@
       "available_at": "2026-06-04T11:01:37.000Z",
       "start_scheduled": "2026-06-04T11:00:00.000Z",
       "start_actual": "2026-06-04T11:01:37.000Z",
-      "live_viewers": 956,
+      "live_viewers": 952,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -491,7 +471,7 @@
       "available_at": "2026-06-04T11:03:43.000Z",
       "start_scheduled": "2026-06-04T11:00:00.000Z",
       "start_actual": "2026-06-04T11:03:43.000Z",
-      "live_viewers": 1068,
+      "live_viewers": 1050,
       "channel": {
         "id": "UClhLb5qSZy0Gvn3c-HuaInQ",
         "name": "斜落せつな / Sharaku Setsuna",
@@ -511,7 +491,7 @@
       "available_at": "2026-06-04T12:08:57.000Z",
       "start_scheduled": "2026-06-04T12:10:00.000Z",
       "start_actual": "2026-06-04T12:08:57.000Z",
-      "live_viewers": 2873,
+      "live_viewers": 2948,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
