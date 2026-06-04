@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780614499,
+  "cached_at": 1780614559,
   "lives": {
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
       "video_id": "pMiDV5XOrSo",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-04T22:56:12.000Z",
       "start_scheduled": "2026-06-04T23:00:00.000Z",
       "start_actual": "2026-06-04T22:56:12.000Z",
-      "live_viewers": 2044,
+      "live_viewers": 2249,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -39,25 +39,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
-      "video_id": "44j60ihX9cA",
-      "title": "Let's make a song with guitar!【T2 Members Only】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-04T11:38:37.000Z",
-      "available_at": "2026-06-04T23:00:00.000Z",
-      "start_scheduled": "2026-06-04T23:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-        "name": "Octavio Ch. HOLOSTARS-EN",
-        "english_name": "Octavio",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
@@ -89,7 +70,7 @@
       "available_at": "2026-06-04T23:00:03.000Z",
       "start_scheduled": "2026-06-04T23:00:00.000Z",
       "start_actual": "2026-06-04T23:00:03.000Z",
-      "live_viewers": 643,
+      "live_viewers": 695,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -97,6 +78,26 @@
         "org": "Neo-Porte",
         "suborg": "0k5th Generation",
         "photo": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
+      "video_id": "44j60ihX9cA",
+      "title": "Let's make a song with guitar!【T2 Members Only】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-06-04T11:38:37.000Z",
+      "available_at": "2026-06-04T23:01:25.000Z",
+      "start_scheduled": "2026-06-04T23:00:00.000Z",
+      "start_actual": "2026-06-04T23:01:25.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+        "name": "Octavio Ch. HOLOSTARS-EN",
+        "english_name": "Octavio",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
@@ -109,7 +110,7 @@
       "available_at": "2026-06-04T23:02:39.000Z",
       "start_scheduled": "2026-06-04T23:00:00.000Z",
       "start_actual": "2026-06-04T23:02:39.000Z",
-      "live_viewers": 120,
+      "live_viewers": 131,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
