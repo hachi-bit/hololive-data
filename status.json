@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780567819,
+  "cached_at": 1780567882,
   "lives": {
     "UCAoy6rzhSf4ydcYjJw3WoVg": {
       "video_id": "xCYCeF8oU4Y",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-04T09:02:39.000Z",
       "start_scheduled": "2026-06-04T09:00:00.000Z",
       "start_actual": "2026-06-04T09:02:39.000Z",
-      "live_viewers": 6679,
+      "live_viewers": 6733,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-04T09:52:40.000Z",
       "start_scheduled": "2026-06-04T09:45:00.000Z",
       "start_actual": "2026-06-04T09:52:40.000Z",
-      "live_viewers": 9236,
+      "live_viewers": 10172,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -59,25 +59,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCW8WKciBixmaqaGqrlTITRQ": {
-      "video_id": "AdKVYaGKnMw",
-      "title": "【Goose Goose Duck】ガチョウとアヒルにまぎれ込むカピバラ【柚原いづみ / ななしいんく】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Goose_Goose_Duck",
-      "published_at": "2026-05-27T06:45:37.000Z",
-      "available_at": "2026-06-04T10:00:00.000Z",
-      "start_scheduled": "2026-06-04T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCW8WKciBixmaqaGqrlTITRQ",
-        "name": "柚原いづみ / Izumi Channel 【ななしいんく】",
-        "english_name": "Yunohara Izumi",
-        "org": "774inc",
-        "suborg": "0 Ex-AniMare",
-        "photo": "https://yt3.ggpht.com/KaDu_P5Tna6PWz5P_yfAdFXRsdo69NULoE-pFY39fX9Jm0IgXb6zsBHfkbPG9nJh5TozQo9ur8A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCrOK22InJkQCsKZC6Bq0Bcg": {
@@ -97,6 +78,25 @@
         "org": "YUMENOS",
         "suborg": "1bGen 2",
         "photo": "https://yt3.ggpht.com/hjRm0CVrwF34aDscdrmyPnWEciGpmkH_ip-BsK187OvZMik_CQP39vd3GAnVaMZLdEvUo2g-7A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCW8WKciBixmaqaGqrlTITRQ": {
+      "video_id": "AdKVYaGKnMw",
+      "title": "【Goose Goose Duck】ガチョウとアヒルにまぎれ込むカピバラ【柚原いづみ / ななしいんく】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Goose_Goose_Duck",
+      "published_at": "2026-05-27T06:45:37.000Z",
+      "available_at": "2026-06-04T10:00:00.000Z",
+      "start_scheduled": "2026-06-04T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCW8WKciBixmaqaGqrlTITRQ",
+        "name": "柚原いづみ / Izumi Channel 【ななしいんく】",
+        "english_name": "Yunohara Izumi",
+        "org": "774inc",
+        "suborg": "0 Ex-AniMare",
+        "photo": "https://yt3.ggpht.com/KaDu_P5Tna6PWz5P_yfAdFXRsdo69NULoE-pFY39fX9Jm0IgXb6zsBHfkbPG9nJh5TozQo9ur8A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCK9V2B22uJYu3N7eR_BT9QA": {
@@ -129,7 +129,7 @@
       "available_at": "2026-06-04T10:01:17.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:01:17.000Z",
-      "live_viewers": 2125,
+      "live_viewers": 2704,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -149,7 +149,7 @@
       "available_at": "2026-06-04T10:02:03.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:02:03.000Z",
-      "live_viewers": 41,
+      "live_viewers": 46,
       "channel": {
         "id": "UCe5mbpYA9Yym4lZTdj06G6Q",
         "name": "氷乃渚 / Hino Nagisa",
@@ -169,7 +169,7 @@
       "available_at": "2026-06-04T10:02:09.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:02:09.000Z",
-      "live_viewers": 118,
+      "live_viewers": 131,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -189,7 +189,7 @@
       "available_at": "2026-06-04T10:03:38.000Z",
       "start_scheduled": "2026-06-04T10:00:04.000Z",
       "start_actual": "2026-06-04T10:03:38.000Z",
-      "live_viewers": 41,
+      "live_viewers": 48,
       "channel": {
         "id": "UC7r_ajmyUak6yNDhQe2mCMw",
         "name": "夢咲ひぽぽ / Yumesaki Hipopo",
@@ -209,7 +209,7 @@
       "available_at": "2026-06-04T10:03:47.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:03:47.000Z",
-      "live_viewers": 104,
+      "live_viewers": 117,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -229,7 +229,7 @@
       "available_at": "2026-06-04T10:03:56.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:03:56.000Z",
-      "live_viewers": 48,
+      "live_viewers": 61,
       "channel": {
         "id": "UCxpmipyCaJ07EHwKlrIKHkA",
         "name": "鴉紋ゆうく / Amon Yuuku",
