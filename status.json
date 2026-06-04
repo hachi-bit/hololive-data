@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780578919,
+  "cached_at": 1780578992,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "IZozKvDhp5s",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-04T10:29:51.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:29:51.000Z",
-      "live_viewers": 39588,
+      "live_viewers": 38645,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-04T10:44:45.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:44:45.000Z",
-      "live_viewers": 8075,
+      "live_viewers": 8144,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -159,26 +159,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCAWSyEs_Io8MtpY3m-zqILA": {
-      "video_id": "abrqGwk2B5Q",
-      "title": "【 #ホロ金策サバイバル2 】ヲレらはファームで勝つんだ!!!!!!!!!【 桃鈴ねね / hololive 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-03T07:43:10.000Z",
-      "available_at": "2026-06-04T10:46:26.000Z",
-      "start_scheduled": "2026-06-04T10:45:00.000Z",
-      "start_actual": "2026-06-04T10:46:26.000Z",
-      "live_viewers": 8107,
-      "channel": {
-        "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-        "name": "Nene Ch.桃鈴ねね",
-        "english_name": "Momosuzu Nene",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC_vMYWcDjmfdpH6r4TTn1MQ": {
@@ -311,7 +291,7 @@
       "available_at": "2026-06-04T10:56:30.000Z",
       "start_scheduled": "2026-06-04T10:55:00.000Z",
       "start_actual": "2026-06-04T10:56:30.000Z",
-      "live_viewers": 1652,
+      "live_viewers": 1615,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -471,7 +451,7 @@
       "available_at": "2026-06-04T11:03:43.000Z",
       "start_scheduled": "2026-06-04T11:00:00.000Z",
       "start_actual": "2026-06-04T11:03:43.000Z",
-      "live_viewers": 924,
+      "live_viewers": 912,
       "channel": {
         "id": "UClhLb5qSZy0Gvn3c-HuaInQ",
         "name": "斜落せつな / Sharaku Setsuna",
@@ -511,7 +491,7 @@
       "available_at": "2026-06-04T12:30:53.000Z",
       "start_scheduled": "2026-06-04T12:30:00.000Z",
       "start_actual": "2026-06-04T12:30:53.000Z",
-      "live_viewers": 2680,
+      "live_viewers": 2786,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -531,7 +511,7 @@
       "available_at": "2026-06-04T13:01:07.000Z",
       "start_scheduled": "2026-06-04T13:00:00.000Z",
       "start_actual": "2026-06-04T13:01:07.000Z",
-      "live_viewers": 3785,
+      "live_viewers": 4379,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -551,7 +531,7 @@
       "available_at": "2026-06-04T13:03:18.000Z",
       "start_scheduled": "2026-06-04T13:00:00.000Z",
       "start_actual": "2026-06-04T13:03:18.000Z",
-      "live_viewers": 881,
+      "live_viewers": 923,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -571,7 +551,7 @@
       "available_at": "2026-06-04T13:04:17.000Z",
       "start_scheduled": "2026-06-04T13:00:00.000Z",
       "start_actual": "2026-06-04T13:04:17.000Z",
-      "live_viewers": 812,
+      "live_viewers": 850,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -591,7 +571,7 @@
       "available_at": "2026-06-04T13:05:34.000Z",
       "start_scheduled": "2026-06-04T13:00:00.000Z",
       "start_actual": "2026-06-04T13:05:34.000Z",
-      "live_viewers": 3155,
+      "live_viewers": 3541,
       "channel": {
         "id": "UCD5W21JqNMv_tV9nfjvF9sw",
         "name": "紫宮るな /shinomiya runa",
@@ -611,7 +591,7 @@
       "available_at": "2026-06-04T13:05:43.000Z",
       "start_scheduled": "2026-06-04T13:00:00.000Z",
       "start_actual": "2026-06-04T13:05:43.000Z",
-      "live_viewers": 1503,
+      "live_viewers": 1654,
       "channel": {
         "id": "UChLfthKoUV502J7gU9STArg",
         "name": "渋谷ハル",
@@ -631,7 +611,7 @@
       "available_at": "2026-06-04T13:05:45.000Z",
       "start_scheduled": "2026-06-04T13:00:00.000Z",
       "start_actual": "2026-06-04T13:05:45.000Z",
-      "live_viewers": 4654,
+      "live_viewers": 4707,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
