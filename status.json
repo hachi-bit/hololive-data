@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780547660,
+  "cached_at": 1780547719,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "8QGtHAat9q8",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-04T00:08:19.000Z",
       "start_scheduled": "2026-06-04T00:15:00.000Z",
       "start_actual": "2026-06-04T00:08:19.000Z",
-      "live_viewers": 290,
+      "live_viewers": 312,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCMqGG8BRAiI1lJfKOpETM_w": {
-      "video_id": "giedWUUlCao",
-      "title": "【Subnautica 2 】Part 6 - you know what? we're in a subnautica groove, let's do just one more~!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Subnautica",
-      "published_at": "2026-06-03T13:29:46.000Z",
-      "available_at": "2026-06-04T02:00:40.000Z",
-      "start_scheduled": "2026-06-04T02:00:00.000Z",
-      "start_actual": "2026-06-04T02:00:40.000Z",
-      "live_viewers": 450,
-      "channel": {
-        "id": "UCMqGG8BRAiI1lJfKOpETM_w",
-        "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
-        "english_name": "Josuiji Shinri",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCmbs8T6MWqUHP1tIQvSgKrg": {
@@ -71,7 +51,7 @@
       "available_at": "2026-06-04T04:01:01.000Z",
       "start_scheduled": "2026-06-04T04:00:00.000Z",
       "start_actual": "2026-06-04T04:01:01.000Z",
-      "live_viewers": 1075,
+      "live_viewers": 1063,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -91,7 +71,7 @@
       "available_at": "2026-06-04T04:03:42.000Z",
       "start_scheduled": "2026-06-04T04:00:00.000Z",
       "start_actual": "2026-06-04T04:03:42.000Z",
-      "live_viewers": 85,
+      "live_viewers": 93,
       "channel": {
         "id": "UC7rCW7EL6i3XKKaD1M6gdPw",
         "name": "杏乃みはる /Ano Miharu",
