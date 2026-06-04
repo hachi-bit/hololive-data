@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780582939,
+  "cached_at": 1780582999,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "IZozKvDhp5s",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-04T10:29:51.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:29:51.000Z",
-      "live_viewers": 34897,
+      "live_viewers": 34259,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-04T10:30:51.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:30:51.000Z",
-      "live_viewers": 14469,
+      "live_viewers": 13999,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-04T10:31:57.000Z",
       "start_scheduled": "2026-06-04T10:30:00.000Z",
       "start_actual": "2026-06-04T10:31:57.000Z",
-      "live_viewers": 11603,
+      "live_viewers": 11188,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-04T10:45:11.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:45:11.000Z",
-      "live_viewers": 9680,
+      "live_viewers": 9319,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-04T10:45:37.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:45:37.000Z",
-      "live_viewers": 7804,
+      "live_viewers": 7795,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-04T10:46:58.000Z",
       "start_scheduled": "2026-06-04T11:00:00.000Z",
       "start_actual": "2026-06-04T10:46:58.000Z",
-      "live_viewers": 6483,
+      "live_viewers": 6271,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-04T10:47:15.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:47:15.000Z",
-      "live_viewers": 6634,
+      "live_viewers": 6578,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-04T10:47:31.000Z",
       "start_scheduled": "2026-06-04T10:45:00.000Z",
       "start_actual": "2026-06-04T10:47:31.000Z",
-      "live_viewers": 54115,
+      "live_viewers": 55869,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-04T10:56:07.000Z",
       "start_scheduled": "2026-06-04T10:55:00.000Z",
       "start_actual": "2026-06-04T10:56:07.000Z",
-      "live_viewers": 4535,
+      "live_viewers": 4521,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -271,7 +271,7 @@
       "available_at": "2026-06-04T10:56:30.000Z",
       "start_scheduled": "2026-06-04T10:55:00.000Z",
       "start_actual": "2026-06-04T10:56:30.000Z",
-      "live_viewers": 1743,
+      "live_viewers": 1630,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -371,7 +371,7 @@
       "available_at": "2026-06-04T11:01:37.000Z",
       "start_scheduled": "2026-06-04T11:00:00.000Z",
       "start_actual": "2026-06-04T11:01:37.000Z",
-      "live_viewers": 895,
+      "live_viewers": 862,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -379,26 +379,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCc88OV45ICgHbn3ZqLLb52w": {
-      "video_id": "aSs7s8-YMkI",
-      "title": "#常闇祭2|顔合わせ練習会【ストリートファイター6】夜十神封魔 × 斜落せつな × 玉餅かずよ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-03T22:24:41.000Z",
-      "available_at": "2026-06-04T11:01:38.000Z",
-      "start_scheduled": "2026-06-04T11:00:00.000Z",
-      "start_actual": "2026-06-04T11:01:38.000Z",
-      "live_viewers": 232,
-      "channel": {
-        "id": "UCc88OV45ICgHbn3ZqLLb52w",
-        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-        "english_name": "Yatogami Fuma",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/wHtqHQ5LdCv_PnI-EeHUoedJgOe-fQcv9Fhkb7cod7oTo-f3rKJBJA0xSsVS4BhO9HnShdrnBA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCQ0UDLQCjY0rmuxCDE38FGg": {
@@ -411,7 +391,7 @@
       "available_at": "2026-06-04T11:02:19.000Z",
       "start_scheduled": "2026-06-04T11:00:00.000Z",
       "start_actual": "2026-06-04T11:02:19.000Z",
-      "live_viewers": 1157,
+      "live_viewers": 1327,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -419,26 +399,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UClhLb5qSZy0Gvn3c-HuaInQ": {
-      "video_id": "khibwE9TEgo",
-      "title": "【スト6】常闇祭2の顔合わせ&練習!アヤカチンチラパイア全回転団ーInvincibleー【斜落せつな/ぶいぱい】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-04T10:24:31.000Z",
-      "available_at": "2026-06-04T11:03:43.000Z",
-      "start_scheduled": "2026-06-04T11:00:00.000Z",
-      "start_actual": "2026-06-04T11:03:43.000Z",
-      "live_viewers": 719,
-      "channel": {
-        "id": "UClhLb5qSZy0Gvn3c-HuaInQ",
-        "name": "斜落せつな / Sharaku Setsuna",
-        "english_name": "Sharaku Setsuna",
-        "org": ".LIVE",
-        "suborg": "1aVPI 1st Generation",
-        "photo": "https://yt3.ggpht.com/yKiH6-DnBhBi8cAFQ0UJVmk-Roa4oJbtti_7yGOfbPbAV52Y6ImhWyzlFlMhCPQlcNC6YUy2QPk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdyqAaZDKHXg4Ahi7VENThQ": {
@@ -451,7 +411,7 @@
       "available_at": "2026-06-04T12:08:57.000Z",
       "start_scheduled": "2026-06-04T12:10:00.000Z",
       "start_actual": "2026-06-04T12:08:57.000Z",
-      "live_viewers": 2444,
+      "live_viewers": 2446,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -471,7 +431,7 @@
       "available_at": "2026-06-04T13:01:07.000Z",
       "start_scheduled": "2026-06-04T13:00:00.000Z",
       "start_actual": "2026-06-04T13:01:07.000Z",
-      "live_viewers": 5134,
+      "live_viewers": 4929,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -491,7 +451,7 @@
       "available_at": "2026-06-04T13:03:18.000Z",
       "start_scheduled": "2026-06-04T13:00:00.000Z",
       "start_actual": "2026-06-04T13:03:18.000Z",
-      "live_viewers": 1334,
+      "live_viewers": 1170,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -531,7 +491,7 @@
       "available_at": "2026-06-04T13:05:34.000Z",
       "start_scheduled": "2026-06-04T13:00:00.000Z",
       "start_actual": "2026-06-04T13:05:34.000Z",
-      "live_viewers": 4401,
+      "live_viewers": 4387,
       "channel": {
         "id": "UCD5W21JqNMv_tV9nfjvF9sw",
         "name": "紫宮るな /shinomiya runa",
@@ -591,7 +551,7 @@
       "available_at": "2026-06-04T14:00:22.000Z",
       "start_scheduled": "2026-06-04T14:00:00.000Z",
       "start_actual": "2026-06-04T14:00:22.000Z",
-      "live_viewers": 1066,
+      "live_viewers": 1149,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -611,7 +571,7 @@
       "available_at": "2026-06-04T14:00:38.000Z",
       "start_scheduled": "2026-06-04T14:00:00.000Z",
       "start_actual": "2026-06-04T14:00:38.000Z",
-      "live_viewers": 3188,
+      "live_viewers": 3401,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
