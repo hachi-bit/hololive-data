@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780568179,
+  "cached_at": 1780568239,
   "lives": {
     "UCAoy6rzhSf4ydcYjJw3WoVg": {
       "video_id": "xCYCeF8oU4Y",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-04T09:52:40.000Z",
       "start_scheduled": "2026-06-04T09:45:00.000Z",
       "start_actual": "2026-06-04T09:52:40.000Z",
-      "live_viewers": 10486,
+      "live_viewers": 11161,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -80,26 +80,6 @@
         "photo": "https://yt3.ggpht.com/KaDu_P5Tna6PWz5P_yfAdFXRsdo69NULoE-pFY39fX9Jm0IgXb6zsBHfkbPG9nJh5TozQo9ur8A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCK9V2B22uJYu3N7eR_BT9QA": {
-      "video_id": "qJwfoPKhnp8",
-      "title": "【ポルカの伝説】三文字でしか喋れなくなったら",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-04T10:00:06.000Z",
-      "available_at": "2026-06-04T10:00:06.000Z",
-      "start_scheduled": "2026-06-04T10:00:00.000Z",
-      "start_actual": "2026-06-04T10:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-        "name": "Polka Ch. 尾丸ポルカ",
-        "english_name": "Omaru Polka",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC3OH5FKQ3qtl4uRme_vZTgA": {
       "video_id": "tVGtua2YaWs",
       "title": "【夜のお供に】今日はチルい感じでいくよ〜!【 #UNIT_B / #宵凪ネオン】",
@@ -110,7 +90,7 @@
       "available_at": "2026-06-04T10:01:17.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:01:17.000Z",
-      "live_viewers": 3006,
+      "live_viewers": 3480,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -130,7 +110,7 @@
       "available_at": "2026-06-04T10:02:03.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:02:03.000Z",
-      "live_viewers": 46,
+      "live_viewers": 48,
       "channel": {
         "id": "UCe5mbpYA9Yym4lZTdj06G6Q",
         "name": "氷乃渚 / Hino Nagisa",
@@ -150,7 +130,7 @@
       "available_at": "2026-06-04T10:02:09.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:02:09.000Z",
-      "live_viewers": 146,
+      "live_viewers": 142,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -170,7 +150,7 @@
       "available_at": "2026-06-04T10:03:38.000Z",
       "start_scheduled": "2026-06-04T10:00:04.000Z",
       "start_actual": "2026-06-04T10:03:38.000Z",
-      "live_viewers": 42,
+      "live_viewers": 49,
       "channel": {
         "id": "UC7r_ajmyUak6yNDhQe2mCMw",
         "name": "夢咲ひぽぽ / Yumesaki Hipopo",
@@ -190,7 +170,7 @@
       "available_at": "2026-06-04T10:03:47.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:03:47.000Z",
-      "live_viewers": 140,
+      "live_viewers": 150,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -210,7 +190,7 @@
       "available_at": "2026-06-04T10:03:56.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:03:56.000Z",
-      "live_viewers": 64,
+      "live_viewers": 63,
       "channel": {
         "id": "UCxpmipyCaJ07EHwKlrIKHkA",
         "name": "鴉紋ゆうく / Amon Yuuku",
@@ -230,7 +210,7 @@
       "available_at": "2026-06-04T10:09:27.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:09:27.000Z",
-      "live_viewers": 25,
+      "live_viewers": 24,
       "channel": {
         "id": "UCrOK22InJkQCsKZC6Bq0Bcg",
         "name": "游禅ウラト / Urato Yuzen",
