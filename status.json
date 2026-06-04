@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780565539,
+  "cached_at": 1780565599,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "ntGbdMVGSeQ",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-04T09:02:39.000Z",
       "start_scheduled": "2026-06-04T09:00:00.000Z",
       "start_actual": "2026-06-04T09:02:39.000Z",
-      "live_viewers": 5331,
+      "live_viewers": 5753,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -59,6 +59,25 @@
         "org": "Hololive",
         "suborg": "0w0th Generation",
         "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
+      "video_id": "qFUeh-y35mg",
+      "title": "#Vtuber弾き語リレー【 #奏手イヅル 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-06-03T23:40:10.000Z",
+      "available_at": "2026-06-04T09:30:00.000Z",
+      "start_scheduled": "2026-06-04T09:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "english_name": "Kanade Izuru",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
