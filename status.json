@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780554979,
+  "cached_at": 1780555039,
   "lives": {
-    "UC7gxU6NXjKF1LrgOddPzgTw": {
-      "video_id": "8QGtHAat9q8",
-      "title": "【 Zelda: The Minish Cap】IS THIS THE END OF OUR GREAT HAKKITO ADVENTURE... WE WILL SEE 🗡️✨【4】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-06-03T14:56:14.000Z",
-      "available_at": "2026-06-04T00:08:19.000Z",
-      "start_scheduled": "2026-06-04T00:15:00.000Z",
-      "start_actual": "2026-06-04T00:08:19.000Z",
-      "live_viewers": 397,
-      "channel": {
-        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-        "english_name": "Banzoin Hakka",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCmbs8T6MWqUHP1tIQvSgKrg": {
       "video_id": "nSUN8QB8LB0",
       "title": "【Thank Goodness You're Here!】Heh Oh Stop",
@@ -31,7 +11,7 @@
       "available_at": "2026-06-04T03:00:15.000Z",
       "start_scheduled": "2026-06-04T03:00:00.000Z",
       "start_actual": "2026-06-04T03:00:15.000Z",
-      "live_viewers": 6281,
+      "live_viewers": 6140,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -79,6 +59,26 @@
         "org": "Independents",
         "suborg": "g4G4M3RZ",
         "photo": "https://yt3.ggpht.com/Yw82DR4AdTWg-ImEKafHSXYxH1jiZhof7ApR6s61WGFbShXUeJ0LRdPzvjCixlj43xV15h4vwg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7gxU6NXjKF1LrgOddPzgTw": {
+      "video_id": "ntGbdMVGSeQ",
+      "title": "【 Zelda: The Minish Cap】THE STREAM ENDED LOL ? ? ? 🗡️✨【4.5】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "zelda",
+      "published_at": "2026-06-04T06:34:49.000Z",
+      "available_at": "2026-06-04T06:35:16.000Z",
+      "start_scheduled": "2026-06-04T06:35:00.000Z",
+      "start_actual": "2026-06-04T06:35:16.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+        "english_name": "Banzoin Hakka",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
