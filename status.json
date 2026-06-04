@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780567999,
+  "cached_at": 1780568059,
   "lives": {
     "UCAoy6rzhSf4ydcYjJw3WoVg": {
       "video_id": "xCYCeF8oU4Y",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-04T09:52:40.000Z",
       "start_scheduled": "2026-06-04T09:45:00.000Z",
       "start_actual": "2026-06-04T09:52:40.000Z",
-      "live_viewers": 10172,
+      "live_viewers": 10486,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -59,25 +59,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCrOK22InJkQCsKZC6Bq0Bcg": {
-      "video_id": "S4B_XvaLVq8",
-      "title": "【 Goose Goose Duck 】正直者です、通してください。ホットな人達とアヒル人狼【游禅ウラト / YUMENOS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Goose_Goose_Duck",
-      "published_at": "2026-06-04T08:15:58.000Z",
-      "available_at": "2026-06-04T10:00:00.000Z",
-      "start_scheduled": "2026-06-04T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCrOK22InJkQCsKZC6Bq0Bcg",
-        "name": "游禅ウラト / Urato Yuzen",
-        "english_name": "Yuzen Urato",
-        "org": "YUMENOS",
-        "suborg": "1bGen 2",
-        "photo": "https://yt3.ggpht.com/hjRm0CVrwF34aDscdrmyPnWEciGpmkH_ip-BsK187OvZMik_CQP39vd3GAnVaMZLdEvUo2g-7A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCW8WKciBixmaqaGqrlTITRQ": {
@@ -129,7 +110,7 @@
       "available_at": "2026-06-04T10:01:17.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:01:17.000Z",
-      "live_viewers": 2704,
+      "live_viewers": 3006,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -169,7 +150,7 @@
       "available_at": "2026-06-04T10:02:09.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:02:09.000Z",
-      "live_viewers": 131,
+      "live_viewers": 146,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -189,7 +170,7 @@
       "available_at": "2026-06-04T10:03:38.000Z",
       "start_scheduled": "2026-06-04T10:00:04.000Z",
       "start_actual": "2026-06-04T10:03:38.000Z",
-      "live_viewers": 48,
+      "live_viewers": 42,
       "channel": {
         "id": "UC7r_ajmyUak6yNDhQe2mCMw",
         "name": "夢咲ひぽぽ / Yumesaki Hipopo",
@@ -209,7 +190,7 @@
       "available_at": "2026-06-04T10:03:47.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:03:47.000Z",
-      "live_viewers": 117,
+      "live_viewers": 140,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -229,7 +210,7 @@
       "available_at": "2026-06-04T10:03:56.000Z",
       "start_scheduled": "2026-06-04T10:00:00.000Z",
       "start_actual": "2026-06-04T10:03:56.000Z",
-      "live_viewers": 61,
+      "live_viewers": 64,
       "channel": {
         "id": "UCxpmipyCaJ07EHwKlrIKHkA",
         "name": "鴉紋ゆうく / Amon Yuuku",
@@ -237,6 +218,26 @@
         "org": "Independents",
         "suborg": "noNoname production",
         "photo": "https://yt3.ggpht.com/geU635YM8oHXKLWNOn1gTiGfIprsDaVQAIwUzXmPW9u9Hm2Uegme9VrjH-_Yucrx3JQ9BBWv=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCrOK22InJkQCsKZC6Bq0Bcg": {
+      "video_id": "S4B_XvaLVq8",
+      "title": "【 Goose Goose Duck 】正直者です、通してください。ホットな人達とアヒル人狼【游禅ウラト / YUMENOS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Goose_Goose_Duck",
+      "published_at": "2026-06-04T08:15:58.000Z",
+      "available_at": "2026-06-04T10:09:27.000Z",
+      "start_scheduled": "2026-06-04T10:00:00.000Z",
+      "start_actual": "2026-06-04T10:09:27.000Z",
+      "live_viewers": 25,
+      "channel": {
+        "id": "UCrOK22InJkQCsKZC6Bq0Bcg",
+        "name": "游禅ウラト / Urato Yuzen",
+        "english_name": "Yuzen Urato",
+        "org": "YUMENOS",
+        "suborg": "1bGen 2",
+        "photo": "https://yt3.ggpht.com/hjRm0CVrwF34aDscdrmyPnWEciGpmkH_ip-BsK187OvZMik_CQP39vd3GAnVaMZLdEvUo2g-7A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
