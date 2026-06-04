@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780596259,
+  "cached_at": 1780596320,
   "lives": {
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
       "video_id": "DH7twZG0VtY",
@@ -48,8 +48,9 @@
       "status": "live",
       "topic_id": "membersonly",
       "published_at": "2026-06-04T11:39:29.000Z",
-      "available_at": "2026-06-04T18:00:00.000Z",
+      "available_at": "2026-06-04T18:01:10.000Z",
       "start_scheduled": "2026-06-04T18:00:00.000Z",
+      "start_actual": "2026-06-04T18:01:10.000Z",
       "live_viewers": 0,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
