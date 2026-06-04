@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780545979,
+  "cached_at": 1780546039,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "8QGtHAat9q8",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-04T03:00:15.000Z",
       "start_scheduled": "2026-06-04T03:00:00.000Z",
       "start_actual": "2026-06-04T03:00:15.000Z",
-      "live_viewers": 5660,
+      "live_viewers": 5623,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -99,25 +99,6 @@
         "org": "Hololive",
         "suborg": "ibEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC7rCW7EL6i3XKKaD1M6gdPw": {
-      "video_id": "kjbuGpPF0ng",
-      "title": "【R.E.P.O.コラボ】今までありがとう!R.E.P.O.でアルランディスを送ります w/アルランディス/宙星ぱる/かしわねこ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-06-04T03:43:14.000Z",
-      "available_at": "2026-06-04T04:00:00.000Z",
-      "start_scheduled": "2026-06-04T04:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC7rCW7EL6i3XKKaD1M6gdPw",
-        "name": "杏乃みはる /Ano Miharu",
-        "english_name": "Ano Miharu",
-        "org": "Independents",
-        "suborg": "g4G4M3RZ",
-        "photo": "https://yt3.ggpht.com/Yw82DR4AdTWg-ImEKafHSXYxH1jiZhof7ApR6s61WGFbShXUeJ0LRdPzvjCixlj43xV15h4vwg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
@@ -130,7 +111,7 @@
       "available_at": "2026-06-04T04:01:01.000Z",
       "start_scheduled": "2026-06-04T04:00:00.000Z",
       "start_actual": "2026-06-04T04:01:01.000Z",
-      "live_viewers": 412,
+      "live_viewers": 671,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -138,6 +119,26 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7rCW7EL6i3XKKaD1M6gdPw": {
+      "video_id": "kjbuGpPF0ng",
+      "title": "【R.E.P.O.コラボ】今までありがとう!R.E.P.O.でアルランディスを送ります w/アルランディス/宙星ぱる/かしわねこ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-06-04T03:43:14.000Z",
+      "available_at": "2026-06-04T04:03:42.000Z",
+      "start_scheduled": "2026-06-04T04:00:00.000Z",
+      "start_actual": "2026-06-04T04:03:42.000Z",
+      "live_viewers": 46,
+      "channel": {
+        "id": "UC7rCW7EL6i3XKKaD1M6gdPw",
+        "name": "杏乃みはる /Ano Miharu",
+        "english_name": "Ano Miharu",
+        "org": "Independents",
+        "suborg": "g4G4M3RZ",
+        "photo": "https://yt3.ggpht.com/Yw82DR4AdTWg-ImEKafHSXYxH1jiZhof7ApR6s61WGFbShXUeJ0LRdPzvjCixlj43xV15h4vwg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
