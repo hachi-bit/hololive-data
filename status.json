@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780614379,
+  "cached_at": 1780614439,
   "lives": {
-    "UCHP4f7G2dWD4qib7BMatGAw": {
-      "video_id": "XaKqahY_8YU",
-      "title": "[WEEK IN REVIEW] SOMEHOW GAVIS BETTEL RETURNED",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-04T20:16:33.000Z",
-      "available_at": "2026-06-04T21:01:07.000Z",
-      "start_scheduled": "2026-06-04T21:00:00.000Z",
-      "start_actual": "2026-06-04T21:01:07.000Z",
-      "live_viewers": 878,
-      "channel": {
-        "id": "UCHP4f7G2dWD4qib7BMatGAw",
-        "name": "Gavis Bettel Ch. HOLOSTARS-EN",
-        "english_name": "Gavis Bettel",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
       "video_id": "pMiDV5XOrSo",
       "title": "Playing with Viewers as an Amateur! 【Street Fighter 6】 #ad",
@@ -51,7 +31,7 @@
       "available_at": "2026-06-04T22:56:12.000Z",
       "start_scheduled": "2026-06-04T23:00:00.000Z",
       "start_actual": "2026-06-04T22:56:12.000Z",
-      "live_viewers": 1661,
+      "live_viewers": 2044,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -59,25 +39,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "JR4Uv-0w7QU",
-      "title": "【LoL】LTK DDnext  驚異の朝練習  / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeoコーチ わしだいコーチ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-06-04T22:57:23.000Z",
-      "available_at": "2026-06-04T23:00:00.000Z",
-      "start_scheduled": "2026-06-04T23:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
@@ -128,7 +89,7 @@
       "available_at": "2026-06-04T23:00:03.000Z",
       "start_scheduled": "2026-06-04T23:00:00.000Z",
       "start_actual": "2026-06-04T23:00:03.000Z",
-      "live_viewers": 485,
+      "live_viewers": 643,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -136,6 +97,26 @@
         "org": "Neo-Porte",
         "suborg": "0k5th Generation",
         "photo": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "JR4Uv-0w7QU",
+      "title": "【LoL】LTK DDnext  驚異の朝練習  / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeoコーチ わしだいコーチ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-06-04T22:57:23.000Z",
+      "available_at": "2026-06-04T23:02:39.000Z",
+      "start_scheduled": "2026-06-04T23:00:00.000Z",
+      "start_actual": "2026-06-04T23:02:39.000Z",
+      "live_viewers": 120,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
