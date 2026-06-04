@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780563979,
+  "cached_at": 1780564040,
   "lives": {
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "ntGbdMVGSeQ",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-04T06:35:23.000Z",
       "start_scheduled": "2026-06-04T06:35:00.000Z",
       "start_actual": "2026-06-04T06:35:23.000Z",
-      "live_viewers": 314,
+      "live_viewers": 320,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-04T06:58:37.000Z",
       "start_scheduled": "2026-06-04T07:00:00.000Z",
       "start_actual": "2026-06-04T06:58:37.000Z",
-      "live_viewers": 2464,
+      "live_viewers": 2248,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-04T06:59:48.000Z",
       "start_scheduled": "2026-06-04T07:00:00.000Z",
       "start_actual": "2026-06-04T06:59:48.000Z",
-      "live_viewers": 2,
+      "live_viewers": 3,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-04T07:12:59.000Z",
       "start_scheduled": "2026-06-04T07:00:00.000Z",
       "start_actual": "2026-06-04T07:12:59.000Z",
-      "live_viewers": 5773,
+      "live_viewers": 5071,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -108,9 +108,10 @@
       "status": "live",
       "topic_id": "Forza",
       "published_at": "2026-06-04T05:10:55.000Z",
-      "available_at": "2026-06-04T09:00:00.000Z",
+      "available_at": "2026-06-04T09:02:39.000Z",
       "start_scheduled": "2026-06-04T09:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-04T09:02:39.000Z",
+      "live_viewers": 1659,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -118,26 +119,6 @@
         "org": "Hololive",
         "suborg": "0w0th Generation",
         "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCJFZiqLMntJufDCHc6bQixg": {
-      "video_id": "04-zp-oW55s",
-      "title": "【新ボイス】ようこそ、雨降る不思議な温泉宿へ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Teaser",
-      "published_at": "2026-06-04T09:00:07.000Z",
-      "available_at": "2026-06-04T09:00:07.000Z",
-      "start_scheduled": "2026-06-04T09:00:00.000Z",
-      "start_actual": "2026-06-04T09:00:07.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCJFZiqLMntJufDCHc6bQixg",
-        "name": "hololive ホロライブ - VTuber Group",
-        "english_name": "hololive VTuber Group",
-        "org": "Hololive",
-        "suborg": "0aOfficial",
-        "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
