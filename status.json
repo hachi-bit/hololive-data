@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780606879,
+  "cached_at": 1780606940,
   "lives": {
     "UCHsx4Hqa-1ORjQTh9TYDhww": {
       "video_id": "jz545PpR4uo",
@@ -19,6 +19,25 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCHP4f7G2dWD4qib7BMatGAw": {
+      "video_id": "XaKqahY_8YU",
+      "title": "[WEEK IN REVIEW] SOMEHOW GAVIS BETTEL RETURNED",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-06-04T20:16:33.000Z",
+      "available_at": "2026-06-04T21:00:00.000Z",
+      "start_scheduled": "2026-06-04T21:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCHP4f7G2dWD4qib7BMatGAw",
+        "name": "Gavis Bettel Ch. HOLOSTARS-EN",
+        "english_name": "Gavis Bettel",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
