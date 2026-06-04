@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780615099,
+  "cached_at": 1780615159,
   "lives": {
     "UCgnfPPb9JI3e9A4cXHnWbyg": {
       "video_id": "pMiDV5XOrSo",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-04T22:56:12.000Z",
       "start_scheduled": "2026-06-04T23:00:00.000Z",
       "start_actual": "2026-06-04T22:56:12.000Z",
-      "live_viewers": 3077,
+      "live_viewers": 3225,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -39,25 +39,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCajbFh6e_R8QZdHAMbbi4rQ": {
-      "video_id": "QX3FLhtdujI",
-      "title": "Part 2: A Midsummer Night's Dream【T2 MEMBER STREAM】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-04T16:06:09.000Z",
-      "available_at": "2026-06-04T23:00:00.000Z",
-      "start_scheduled": "2026-06-04T23:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-        "english_name": "Crimzon Ruze",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCAHQGIKolfBfoeXXMY79SBA": {
@@ -70,7 +51,7 @@
       "available_at": "2026-06-04T23:00:03.000Z",
       "start_scheduled": "2026-06-04T23:00:00.000Z",
       "start_actual": "2026-06-04T23:00:03.000Z",
-      "live_viewers": 916,
+      "live_viewers": 967,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -78,6 +59,26 @@
         "org": "Neo-Porte",
         "suborg": "0k5th Generation",
         "photo": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCajbFh6e_R8QZdHAMbbi4rQ": {
+      "video_id": "QX3FLhtdujI",
+      "title": "Part 2: A Midsummer Night's Dream【T2 MEMBER STREAM】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-06-04T16:06:09.000Z",
+      "available_at": "2026-06-04T23:00:51.000Z",
+      "start_scheduled": "2026-06-04T23:00:00.000Z",
+      "start_actual": "2026-06-04T23:00:51.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+        "english_name": "Crimzon Ruze",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
@@ -110,7 +111,7 @@
       "available_at": "2026-06-04T23:02:39.000Z",
       "start_scheduled": "2026-06-04T23:00:00.000Z",
       "start_actual": "2026-06-04T23:02:39.000Z",
-      "live_viewers": 195,
+      "live_viewers": 214,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
