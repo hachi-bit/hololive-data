@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780555459,
+  "cached_at": 1780555519,
   "lives": {
     "UCmbs8T6MWqUHP1tIQvSgKrg": {
       "video_id": "nSUN8QB8LB0",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-04T04:01:01.000Z",
       "start_scheduled": "2026-06-04T04:00:00.000Z",
       "start_actual": "2026-06-04T04:01:01.000Z",
-      "live_viewers": 1360,
+      "live_viewers": 1146,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC7rCW7EL6i3XKKaD1M6gdPw": {
-      "video_id": "kjbuGpPF0ng",
-      "title": "【R.E.P.O.コラボ】今までありがとう!R.E.P.O.でアルランディスを送ります w/アルランディス/宙星ぱる/かしわねこ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-06-04T03:43:14.000Z",
-      "available_at": "2026-06-04T04:03:42.000Z",
-      "start_scheduled": "2026-06-04T04:00:00.000Z",
-      "start_actual": "2026-06-04T04:03:42.000Z",
-      "live_viewers": 123,
-      "channel": {
-        "id": "UC7rCW7EL6i3XKKaD1M6gdPw",
-        "name": "杏乃みはる /Ano Miharu",
-        "english_name": "Ano Miharu",
-        "org": "Independents",
-        "suborg": "g4G4M3RZ",
-        "photo": "https://yt3.ggpht.com/Yw82DR4AdTWg-ImEKafHSXYxH1jiZhof7ApR6s61WGFbShXUeJ0LRdPzvjCixlj43xV15h4vwg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC7gxU6NXjKF1LrgOddPzgTw": {
@@ -71,7 +51,7 @@
       "available_at": "2026-06-04T06:35:23.000Z",
       "start_scheduled": "2026-06-04T06:35:00.000Z",
       "start_actual": "2026-06-04T06:35:23.000Z",
-      "live_viewers": 140,
+      "live_viewers": 148,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
