@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780653739,
+  "cached_at": 1780653799,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "zcl9BpnQo-s",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-05T09:00:24.000Z",
       "start_scheduled": "2026-06-05T09:00:00.000Z",
       "start_actual": "2026-06-05T09:00:24.000Z",
-      "live_viewers": 5436,
+      "live_viewers": 4966,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-05T09:01:53.000Z",
       "start_scheduled": "2026-06-05T09:00:00.000Z",
       "start_actual": "2026-06-05T09:01:53.000Z",
-      "live_viewers": 840,
+      "live_viewers": 850,
       "channel": {
         "id": "UCez5D_dtExDJzQOAzg1k1RQ",
         "name": "折咲もしゅch-Moshu Orisaki-",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-05T09:18:40.000Z",
       "start_scheduled": "2026-06-05T09:15:00.000Z",
       "start_actual": "2026-06-05T09:18:40.000Z",
-      "live_viewers": 220,
+      "live_viewers": 208,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -99,6 +99,142 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+      "video_id": "jHdTM6PSzRY",
+      "title": "【#ホロ金策サバイバル2】 狐の錬金術師/FOXALCHEMIST FINAL 【ホロライブ/白上フブキ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-05T05:14:24.000Z",
+      "available_at": "2026-06-05T09:59:32.000Z",
+      "start_scheduled": "2026-06-05T10:00:00.000Z",
+      "start_actual": "2026-06-05T09:59:32.000Z",
+      "live_viewers": 3838,
+      "channel": {
+        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "name": "フブキCh。白上フブキ",
+        "english_name": "Shirakami Fubuki",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "0LM1ocKQs2E",
+      "title": "【#ホロ金策サバイバル2】6/5 -5日目の日報!Day5 daily report【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-04T19:43:42.000Z",
+      "available_at": "2026-06-05T10:00:00.000Z",
+      "start_scheduled": "2026-06-05T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC-hM6YJuNYVAmUWxeIr9FeA": {
+      "video_id": "noHo7uMJnKs",
+      "title": "【#ホロ金策サバイバル2】5日目!!!みんなで最終回だにぇええええええええ!!!【ホロライブ/さくらみこ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-05T08:39:41.000Z",
+      "available_at": "2026-06-05T10:00:00.000Z",
+      "start_scheduled": "2026-06-05T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+        "name": "Miko Ch. さくらみこ",
+        "english_name": "Sakura Miko",
+        "org": "Hololive",
+        "suborg": "0y0th Generation",
+        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1uv2Oq6kNxgATlCiez59hw": {
+      "video_id": "mcfBHuFXTms",
+      "title": "【 STREET FIGHTER 6 】明日は常闇祭2‼️さはらさんと‼️【常闇トワ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-06-05T05:30:25.000Z",
+      "available_at": "2026-06-05T10:00:00.000Z",
+      "start_scheduled": "2026-06-05T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC1uv2Oq6kNxgATlCiez59hw",
+        "name": "Towa Ch. 常闇トワ",
+        "english_name": "Tokoyami Towa",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGNI4MENvnsymYjKiZwv9eg": {
+      "video_id": "_JN_ksTAiyo",
+      "title": "【Librarian】思い出のアルバムは大事にしまっておこう。【岸堂天真/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Librarian:_Tidy_Up_the_Arcane_Library!",
+      "published_at": "2026-06-04T16:12:15.000Z",
+      "available_at": "2026-06-05T10:00:00.000Z",
+      "start_scheduled": "2026-06-05T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "english_name": "Kishido Temma",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "_wRu4KL-in8",
+      "title": "【Minecraft】最終日 #ホロ金策サバイバル2 お金を稼ぎたい( ^ω^ ) DAY5 ぺこ!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-04T16:41:59.000Z",
+      "available_at": "2026-06-05T10:00:14.000Z",
+      "start_scheduled": "2026-06-05T10:00:00.000Z",
+      "start_actual": "2026-06-05T10:00:14.000Z",
+      "live_viewers": 6193,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvzGlP9oQwU--Y0r9id_jnA": {
+      "video_id": "O5HO8fHr43o",
+      "title": "【#ホロ金策サバイバル2】ファーマー、覚悟の最終日 金策マイクラやるしゅばあああああああああああああああああああああああああ!!!!!!：MINECRAFT【ホロライブ/大空スバル】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-04T17:28:01.000Z",
+      "available_at": "2026-06-05T10:01:09.000Z",
+      "start_scheduled": "2026-06-05T10:00:00.000Z",
+      "start_actual": "2026-06-05T10:01:09.000Z",
+      "live_viewers": 5333,
+      "channel": {
+        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+        "name": "Subaru Ch. 大空スバル",
+        "english_name": "Oozora Subaru",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
