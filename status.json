@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780642999,
+  "cached_at": 1780643059,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "zcl9BpnQo-s",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-05T03:00:29.000Z",
       "start_scheduled": "2026-06-05T03:00:00.000Z",
       "start_actual": "2026-06-05T03:00:29.000Z",
-      "live_viewers": 791,
+      "live_viewers": 761,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -19,6 +19,26 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgIHvyZWE6Ny7pfRpya86Yw": {
+      "video_id": "3Mw9qvYTU7k",
+      "title": "【アソビ大全】店長と最後にどっちが強いかかける【まいたけ/アルランディス】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "clubhouse51",
+      "published_at": "2026-06-04T10:33:53.000Z",
+      "available_at": "2026-06-05T07:00:39.000Z",
+      "start_scheduled": "2026-06-05T07:00:00.000Z",
+      "start_actual": "2026-06-05T07:00:39.000Z",
+      "live_viewers": 466,
+      "channel": {
+        "id": "UCgIHvyZWE6Ny7pfRpya86Yw",
+        "name": "まいたけ -Maitake-",
+        "english_name": "Maitake",
+        "org": "Twitch Independents",
+        "suborg": "",
+        "photo": "https://yt3.ggpht.com/rFroNeZoKfGn_N5Hsw9uRyYMBfSCCVtDoldlkrzOfhhaCTnWO4GkfRisqaUkCtdtxoB5CrsJ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
