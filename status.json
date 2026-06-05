@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780675521,
+  "cached_at": 1780675579,
   "lives": {
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
       "video_id": "jHdTM6PSzRY",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-05T09:59:32.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T09:59:32.000Z",
-      "live_viewers": 12130,
+      "live_viewers": 10952,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-05T10:31:08.000Z",
       "start_scheduled": "2026-06-05T11:00:00.000Z",
       "start_actual": "2026-06-05T10:31:08.000Z",
-      "live_viewers": 2969,
+      "live_viewers": 2787,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-05T10:45:24.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:45:24.000Z",
-      "live_viewers": 7538,
+      "live_viewers": 6875,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-05T10:48:54.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:48:54.000Z",
-      "live_viewers": 8709,
+      "live_viewers": 6232,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-05T10:58:45.000Z",
       "start_scheduled": "2026-06-05T10:59:00.000Z",
       "start_actual": "2026-06-05T10:58:45.000Z",
-      "live_viewers": 12795,
+      "live_viewers": 11482,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -139,46 +139,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
-      "video_id": "KVQBMhFUs2M",
-      "title": "【 #ホロ金策サバイバル2 】最終日に初参戦‼ミニゲームとギャンブルやりまくるぞ💰【鷹嶺ルイ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-05T06:13:22.000Z",
-      "available_at": "2026-06-05T11:01:19.000Z",
-      "start_scheduled": "2026-06-05T11:00:00.000Z",
-      "start_actual": "2026-06-05T11:01:19.000Z",
-      "live_viewers": 2196,
-      "channel": {
-        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "name": "Lui ch. 鷹嶺ルイ - holoX -",
-        "english_name": "Takane Lui",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp6993wxpyDPHUpavwDFqgg": {
-      "video_id": "yNHUQortMv0",
-      "title": "【 #ホロ金策サバイバル2 】最終日も楽しみつくすぞ!!【ホロライブ/ときのそら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-05T11:07:19.000Z",
-      "available_at": "2026-06-05T11:16:18.000Z",
-      "start_scheduled": "2026-06-05T11:30:00.000Z",
-      "start_actual": "2026-06-05T11:16:18.000Z",
-      "live_viewers": 2740,
-      "channel": {
-        "id": "UCp6993wxpyDPHUpavwDFqgg",
-        "name": "SoraCh. ときのそらチャンネル",
-        "english_name": "Tokino Sora",
-        "org": "Hololive",
-        "suborg": "0v0th Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC6t3-_N8A6ME1JShZHHqOMw": {
@@ -231,7 +191,7 @@
       "available_at": "2026-06-05T12:16:14.000Z",
       "start_scheduled": "2026-06-05T12:15:00.000Z",
       "start_actual": "2026-06-05T12:16:14.000Z",
-      "live_viewers": 3089,
+      "live_viewers": 2719,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -311,7 +271,7 @@
       "available_at": "2026-06-05T14:47:13.000Z",
       "start_scheduled": "2026-06-05T14:45:00.000Z",
       "start_actual": "2026-06-05T14:47:13.000Z",
-      "live_viewers": 1120,
+      "live_viewers": 1109,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
