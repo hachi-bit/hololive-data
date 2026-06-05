@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780668139,
+  "cached_at": 1780668201,
   "lives": {
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
       "video_id": "jHdTM6PSzRY",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-05T09:59:32.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T09:59:32.000Z",
-      "live_viewers": 11654,
+      "live_viewers": 11508,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-05T10:01:09.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:01:09.000Z",
-      "live_viewers": 26798,
+      "live_viewers": 25214,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-05T10:45:58.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:45:58.000Z",
-      "live_viewers": 35968,
+      "live_viewers": 36387,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-05T10:48:54.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:48:54.000Z",
-      "live_viewers": 6712,
+      "live_viewers": 6620,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -431,7 +431,7 @@
       "available_at": "2026-06-05T11:01:58.000Z",
       "start_scheduled": "2026-06-05T11:00:00.000Z",
       "start_actual": "2026-06-05T11:01:58.000Z",
-      "live_viewers": 18939,
+      "live_viewers": 20395,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -471,7 +471,7 @@
       "available_at": "2026-06-05T11:16:18.000Z",
       "start_scheduled": "2026-06-05T11:30:00.000Z",
       "start_actual": "2026-06-05T11:16:18.000Z",
-      "live_viewers": 1490,
+      "live_viewers": 1464,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -531,7 +531,7 @@
       "available_at": "2026-06-05T12:00:44.000Z",
       "start_scheduled": "2026-06-05T12:00:00.000Z",
       "start_actual": "2026-06-05T12:00:44.000Z",
-      "live_viewers": 4115,
+      "live_viewers": 4160,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -611,7 +611,7 @@
       "available_at": "2026-06-05T13:00:25.000Z",
       "start_scheduled": "2026-06-05T13:00:00.000Z",
       "start_actual": "2026-06-05T13:00:25.000Z",
-      "live_viewers": 565,
+      "live_viewers": 577,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -659,6 +659,25 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "NaAQeNBKEp4",
+      "title": "【誕生日カウントダウン】6/6は、わためのお誕生日!なんと告知もあります!【角巻わため/ホロライブ4期生】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Birthday",
+      "published_at": "2026-06-04T18:39:52.000Z",
+      "available_at": "2026-06-05T14:00:00.000Z",
+      "start_scheduled": "2026-06-05T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
