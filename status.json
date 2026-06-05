@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780674559,
+  "cached_at": 1780674619,
   "lives": {
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
       "video_id": "jHdTM6PSzRY",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-05T09:59:32.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T09:59:32.000Z",
-      "live_viewers": 12602,
+      "live_viewers": 12710,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-05T10:31:08.000Z",
       "start_scheduled": "2026-06-05T11:00:00.000Z",
       "start_actual": "2026-06-05T10:31:08.000Z",
-      "live_viewers": 3203,
+      "live_viewers": 3196,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-05T10:45:24.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:45:24.000Z",
-      "live_viewers": 7672,
+      "live_viewers": 7483,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-05T10:45:58.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:45:58.000Z",
-      "live_viewers": 34895,
+      "live_viewers": 35831,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-05T11:01:19.000Z",
       "start_scheduled": "2026-06-05T11:00:00.000Z",
       "start_actual": "2026-06-05T11:01:19.000Z",
-      "live_viewers": 1947,
+      "live_viewers": 2151,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -159,26 +159,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCFTLzh12_nrtzqBPsTCqenA": {
-      "video_id": "piigwKos6f0",
-      "title": "【  #ホロ金策サバイバル2 】4日目!今日が最終日!【アキロゼ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-05T10:59:02.000Z",
-      "available_at": "2026-06-05T11:02:42.000Z",
-      "start_scheduled": "2026-06-05T11:00:00.000Z",
-      "start_actual": "2026-06-05T11:02:42.000Z",
-      "live_viewers": 2800,
-      "channel": {
-        "id": "UCFTLzh12_nrtzqBPsTCqenA",
-        "name": "アキロゼCh。Vtuber/ホロライブ所属",
-        "english_name": "Aki Rosenthal",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCp6993wxpyDPHUpavwDFqgg": {
@@ -191,7 +171,7 @@
       "available_at": "2026-06-05T11:16:18.000Z",
       "start_scheduled": "2026-06-05T11:30:00.000Z",
       "start_actual": "2026-06-05T11:16:18.000Z",
-      "live_viewers": 2274,
+      "live_viewers": 2422,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -231,7 +211,7 @@
       "available_at": "2026-06-05T12:04:12.000Z",
       "start_scheduled": "2026-06-05T12:00:00.000Z",
       "start_actual": "2026-06-05T12:04:12.000Z",
-      "live_viewers": 436,
+      "live_viewers": 428,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -251,7 +231,7 @@
       "available_at": "2026-06-05T12:16:14.000Z",
       "start_scheduled": "2026-06-05T12:15:00.000Z",
       "start_actual": "2026-06-05T12:16:14.000Z",
-      "live_viewers": 2793,
+      "live_viewers": 2910,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -311,7 +291,7 @@
       "available_at": "2026-06-05T13:35:56.000Z",
       "start_scheduled": "2026-06-05T13:35:00.000Z",
       "start_actual": "2026-06-05T13:35:56.000Z",
-      "live_viewers": 2261,
+      "live_viewers": 2335,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -371,7 +351,7 @@
       "available_at": "2026-06-05T14:51:28.000Z",
       "start_scheduled": "2026-06-05T15:00:00.000Z",
       "start_actual": "2026-06-05T14:51:28.000Z",
-      "live_viewers": 448,
+      "live_viewers": 459,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
