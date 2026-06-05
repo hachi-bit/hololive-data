@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780656381,
+  "cached_at": 1780656439,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "zcl9BpnQo-s",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-05T09:18:40.000Z",
       "start_scheduled": "2026-06-05T09:15:00.000Z",
       "start_actual": "2026-06-05T09:18:40.000Z",
-      "live_viewers": 235,
+      "live_viewers": 254,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-05T09:59:32.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T09:59:32.000Z",
-      "live_viewers": 11410,
+      "live_viewers": 11930,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-05T10:01:15.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:01:15.000Z",
-      "live_viewers": 428,
+      "live_viewers": 435,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -190,7 +190,7 @@
       "available_at": "2026-06-05T10:08:18.000Z",
       "start_scheduled": "2026-06-05T10:05:00.000Z",
       "start_actual": "2026-06-05T10:08:18.000Z",
-      "live_viewers": 47477,
+      "live_viewers": 60719,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-05T10:31:08.000Z",
       "start_scheduled": "2026-06-05T11:00:00.000Z",
       "start_actual": "2026-06-05T10:31:08.000Z",
-      "live_viewers": 1232,
+      "live_viewers": 1305,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -238,6 +238,161 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "Rtv9qi5KS0s",
+      "title": "【 #ホロ金策サバイバル2 】アルケミスト最後まで全力で楽しむっ🌟【ホロライブ DEV_IS 響咲リオナ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-04T17:06:11.000Z",
+      "available_at": "2026-06-05T10:44:11.000Z",
+      "start_scheduled": "2026-06-05T10:45:00.000Z",
+      "start_actual": "2026-06-05T10:44:11.000Z",
+      "live_viewers": 660,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC0TXe_LYZ4scaW2XMyi5_kw": {
+      "video_id": "ZaiE3rQhCfE",
+      "title": "【Minecraft】最終日!#ホロ金策サバイバル2 今日から始めるホロ金策生活!!!!!!DAY5💰【ホロライブ / AZKi】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-05T05:48:37.000Z",
+      "available_at": "2026-06-05T10:44:54.000Z",
+      "start_scheduled": "2026-06-05T10:45:00.000Z",
+      "start_actual": "2026-06-05T10:44:54.000Z",
+      "live_viewers": 1477,
+      "channel": {
+        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+        "name": "AZKi Channel",
+        "english_name": "AZKi",
+        "org": "Hololive",
+        "suborg": "0z0th Generation",
+        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_vMYWcDjmfdpH6r4TTn1MQ": {
+      "video_id": "dZ5Qc9iblTY",
+      "title": "【#ホロ金策サバイバル2 】PSで攻めろ!!最後までRTAや!!【風真いろは/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-05T06:13:36.000Z",
+      "available_at": "2026-06-05T10:45:00.000Z",
+      "start_scheduled": "2026-06-05T10:45:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "name": "Iroha ch. 風真いろは - holoX -",
+        "english_name": "Kazama Iroha",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "UKdupnI9lUU",
+      "title": "【 #ホロ金策サバイバル2 】最終日!伝説の農婦の力出し切るぞおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-05T03:14:59.000Z",
+      "available_at": "2026-06-05T10:45:00.000Z",
+      "start_scheduled": "2026-06-05T10:45:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCQ0UDLQCjY0rmuxCDE38FGg": {
+      "video_id": "dfYX424huCA",
+      "title": "【#ホロ金策サバイバル2】株で決まる部分もあると思うんです。【ホロライブ/夏色まつり】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-05T05:48:17.000Z",
+      "available_at": "2026-06-05T10:45:00.000Z",
+      "start_scheduled": "2026-06-05T10:45:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+        "name": "Matsuri Channel 夏色まつり",
+        "english_name": "Natsuiro Matsuri",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAWSyEs_Io8MtpY3m-zqILA": {
+      "video_id": "8gTbnPSAhV4",
+      "title": "【 #ホロ金策サバイバル2 】ねねが寝てる間に革命起きたっぽくて草！【 桃鈴ねね / hololive 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-05T08:57:43.000Z",
+      "available_at": "2026-06-05T10:45:00.000Z",
+      "start_scheduled": "2026-06-05T10:45:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+        "name": "Nene Ch.桃鈴ねね",
+        "english_name": "Momosuzu Nene",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "6jshwYI7n8I",
+      "title": "【 #ホロ金策サバイバル2 】最終日：オーナー、ラムベガス(出張店)へ...!!!【角巻わため/ホロライブ4期生】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-04T18:06:05.000Z",
+      "available_at": "2026-06-05T10:45:00.000Z",
+      "start_scheduled": "2026-06-05T10:45:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvaTdHTWBGv3MKj3KVqJVCw": {
+      "video_id": "nyRqZKsc5n8",
+      "title": "【 #ホロ金策サバイバル2 | DAY4 】ついに最終日だああああ🔥 【 猫又おかゆ/ホロライブ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-04T16:46:24.000Z",
+      "available_at": "2026-06-05T10:45:18.000Z",
+      "start_scheduled": "2026-06-05T10:45:00.000Z",
+      "start_actual": "2026-06-05T10:45:18.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+        "name": "Okayu Ch. 猫又おかゆ",
+        "english_name": "Nekomata Okayu",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
