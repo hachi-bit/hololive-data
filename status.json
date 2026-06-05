@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780655899,
+  "cached_at": 1780655960,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "zcl9BpnQo-s",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-05T09:00:24.000Z",
       "start_scheduled": "2026-06-05T09:00:00.000Z",
       "start_actual": "2026-06-05T09:00:24.000Z",
-      "live_viewers": 3885,
+      "live_viewers": 4085,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCez5D_dtExDJzQOAzg1k1RQ": {
-      "video_id": "7BkjQ9TWZ-w",
-      "title": "【#コラボ雑談】律可さんと最後の音楽談義【 #折咲もしゅ #REJECT】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-03T12:56:05.000Z",
-      "available_at": "2026-06-05T09:01:53.000Z",
-      "start_scheduled": "2026-06-05T09:00:00.000Z",
-      "start_actual": "2026-06-05T09:01:53.000Z",
-      "live_viewers": 741,
-      "channel": {
-        "id": "UCez5D_dtExDJzQOAzg1k1RQ",
-        "name": "折咲もしゅch-Moshu Orisaki-",
-        "english_name": "Orisaki Moshu",
-        "org": "REJECT",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/Go2Zwoy_FnXEEYwxhVaEvJ7yIii0bc5415GAS7tpWkX-MGVvbvYfp5a6svtSC4isPBvopLbnPA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCDqI2jOz0weumE8s7paEk6g": {
@@ -150,7 +130,7 @@
       "available_at": "2026-06-05T10:00:14.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:00:14.000Z",
-      "live_viewers": 28142,
+      "live_viewers": 27616,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -190,7 +170,7 @@
       "available_at": "2026-06-05T10:01:15.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:01:15.000Z",
-      "live_viewers": 387,
+      "live_viewers": 411,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -210,7 +190,7 @@
       "available_at": "2026-06-05T10:08:18.000Z",
       "start_scheduled": "2026-06-05T10:05:00.000Z",
       "start_actual": "2026-06-05T10:08:18.000Z",
-      "live_viewers": 64399,
+      "live_viewers": 65787,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -230,7 +210,7 @@
       "available_at": "2026-06-05T10:08:51.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:08:51.000Z",
-      "live_viewers": 3359,
+      "live_viewers": 3404,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -250,7 +230,7 @@
       "available_at": "2026-06-05T10:31:08.000Z",
       "start_scheduled": "2026-06-05T11:00:00.000Z",
       "start_actual": "2026-06-05T10:31:08.000Z",
-      "live_viewers": 917,
+      "live_viewers": 968,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
