@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780672699,
+  "cached_at": 1780672759,
   "lives": {
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
       "video_id": "jHdTM6PSzRY",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-05T09:59:32.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T09:59:32.000Z",
-      "live_viewers": 11620,
+      "live_viewers": 10378,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-05T10:00:14.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:00:14.000Z",
-      "live_viewers": 42704,
+      "live_viewers": 36938,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-05T10:01:09.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:01:09.000Z",
-      "live_viewers": 30433,
+      "live_viewers": 25825,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-05T10:44:54.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:44:54.000Z",
-      "live_viewers": 4456,
+      "live_viewers": 4381,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-05T10:45:24.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:45:24.000Z",
-      "live_viewers": 6618,
+      "live_viewers": 6599,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-05T10:45:42.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:45:42.000Z",
-      "live_viewers": 931,
+      "live_viewers": 968,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -201,46 +201,6 @@
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCK9V2B22uJYu3N7eR_BT9QA": {
-      "video_id": "u3HTYJmrvo4",
-      "title": "【#ホロ金策サバイバル2 】最終日💓開こう！真理の扉！【尾丸ポルカ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-05T04:47:36.000Z",
-      "available_at": "2026-06-05T10:55:36.000Z",
-      "start_scheduled": "2026-06-05T10:55:00.000Z",
-      "start_actual": "2026-06-05T10:55:36.000Z",
-      "live_viewers": 1694,
-      "channel": {
-        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-        "name": "Polka Ch. 尾丸ポルカ",
-        "english_name": "Omaru Polka",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCa9Y57gfeY0Zro_noHRVrnw": {
-      "video_id": "ZKlgLFrM_Cw",
-      "title": "【 #ホロ金策サバイバル2 】今度こそマイクラFIRE生活を目指すのら!!!Day4 最終日【姫森ルーナ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-04T16:39:57.000Z",
-      "available_at": "2026-06-05T10:56:30.000Z",
-      "start_scheduled": "2026-06-05T10:55:00.000Z",
-      "start_actual": "2026-06-05T10:56:30.000Z",
-      "live_viewers": 3821,
-      "channel": {
-        "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-        "name": "Luna Ch. 姫森ルーナ",
-        "english_name": "Himemori Luna",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UChAnqc_AY5_I3Px5dig3X1Q": {
       "video_id": "TtFlGUBNNdY",
       "title": "【#ホロ金策サバイバル2】ころね支店 ~最終回~ 【Minecraft】",
@@ -291,7 +251,7 @@
       "available_at": "2026-06-05T11:01:19.000Z",
       "start_scheduled": "2026-06-05T11:00:00.000Z",
       "start_actual": "2026-06-05T11:01:19.000Z",
-      "live_viewers": 1320,
+      "live_viewers": 1605,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -331,7 +291,7 @@
       "available_at": "2026-06-05T11:02:42.000Z",
       "start_scheduled": "2026-06-05T11:00:00.000Z",
       "start_actual": "2026-06-05T11:02:42.000Z",
-      "live_viewers": 2387,
+      "live_viewers": 2447,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -371,7 +331,7 @@
       "available_at": "2026-06-05T11:59:05.000Z",
       "start_scheduled": "2026-06-05T12:00:00.000Z",
       "start_actual": "2026-06-05T11:59:05.000Z",
-      "live_viewers": 549,
+      "live_viewers": 560,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -391,7 +351,7 @@
       "available_at": "2026-06-05T12:04:12.000Z",
       "start_scheduled": "2026-06-05T12:00:00.000Z",
       "start_actual": "2026-06-05T12:04:12.000Z",
-      "live_viewers": 420,
+      "live_viewers": 432,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -451,7 +411,7 @@
       "available_at": "2026-06-05T13:00:32.000Z",
       "start_scheduled": "2026-06-05T13:00:00.000Z",
       "start_actual": "2026-06-05T13:00:32.000Z",
-      "live_viewers": 202,
+      "live_viewers": 174,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -511,7 +471,7 @@
       "available_at": "2026-06-05T14:47:13.000Z",
       "start_scheduled": "2026-06-05T14:45:00.000Z",
       "start_actual": "2026-06-05T14:47:13.000Z",
-      "live_viewers": 1038,
+      "live_viewers": 1010,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -531,7 +491,7 @@
       "available_at": "2026-06-05T14:51:28.000Z",
       "start_scheduled": "2026-06-05T15:00:00.000Z",
       "start_actual": "2026-06-05T14:51:28.000Z",
-      "live_viewers": 360,
+      "live_viewers": 371,
       "channel": {
         "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
         "name": "Goldbullet Ch. HOLOSTARS-EN",
