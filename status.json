@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780655419,
+  "cached_at": 1780655481,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "zcl9BpnQo-s",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-05T09:18:40.000Z",
       "start_scheduled": "2026-06-05T09:15:00.000Z",
       "start_actual": "2026-06-05T09:18:40.000Z",
-      "live_viewers": 221,
+      "live_viewers": 223,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-05T10:00:14.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:00:14.000Z",
-      "live_viewers": 26661,
+      "live_viewers": 27859,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-05T10:01:09.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:01:09.000Z",
-      "live_viewers": 17611,
+      "live_viewers": 18502,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -190,7 +190,7 @@
       "available_at": "2026-06-05T10:01:15.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:01:15.000Z",
-      "live_viewers": 377,
+      "live_viewers": 384,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -205,12 +205,12 @@
       "title": "【#ホロ金策サバイバル2】6/5 -5日目の日報!Day5 daily report【獅白ぼたん/ホロライブ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "minecraft",
       "published_at": "2026-06-05T10:06:30.000Z",
       "available_at": "2026-06-05T10:08:18.000Z",
       "start_scheduled": "2026-06-05T10:05:00.000Z",
       "start_actual": "2026-06-05T10:08:18.000Z",
-      "live_viewers": 70372,
+      "live_viewers": 73340,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-05T10:08:51.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:08:51.000Z",
-      "live_viewers": 3018,
+      "live_viewers": 3145,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
