@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780675699,
+  "cached_at": 1780675759,
   "lives": {
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
       "video_id": "jHdTM6PSzRY",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
-      "video_id": "xWRhHM5-f5Q",
-      "title": "【 #ホロ金策サバイバル2 】day4 ファイターでドリームを!【水宮枢/ホロライブDEV_IS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-04T19:32:50.000Z",
-      "available_at": "2026-06-05T10:31:08.000Z",
-      "start_scheduled": "2026-06-05T11:00:00.000Z",
-      "start_actual": "2026-06-05T10:31:08.000Z",
-      "live_viewers": 2787,
-      "channel": {
-        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-        "name": "Su Ch. 水宮枢 - FLOW GLOW",
-        "english_name": "Mizumiya Su",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
@@ -63,7 +43,7 @@
     },
     "UC-hM6YJuNYVAmUWxeIr9FeA": {
       "video_id": "noHo7uMJnKs",
-      "title": "【#ホロ金策サバイバル2】5日目!!!みんなで最終回だにぇええええええええ!!!【ホロライブ/さくらみこ】",
+      "title": "【#ホロ金策サバイバル2】５日目！！！みんなで最終回だにぇええええええええ！！！【ホロライブ/さくらみこ】",
       "type": "stream",
       "status": "live",
       "topic_id": "minecraft",
@@ -71,7 +51,7 @@
       "available_at": "2026-06-05T10:45:58.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:45:58.000Z",
-      "live_viewers": 32460,
+      "live_viewers": 14340,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -91,7 +71,7 @@
       "available_at": "2026-06-05T10:48:54.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:48:54.000Z",
-      "live_viewers": 6232,
+      "live_viewers": 5770,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -131,7 +111,7 @@
       "available_at": "2026-06-05T11:01:09.000Z",
       "start_scheduled": "2026-06-05T11:00:00.000Z",
       "start_actual": "2026-06-05T11:01:09.000Z",
-      "live_viewers": 1057,
+      "live_viewers": 978,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -191,7 +171,7 @@
       "available_at": "2026-06-05T12:16:14.000Z",
       "start_scheduled": "2026-06-05T12:15:00.000Z",
       "start_actual": "2026-06-05T12:16:14.000Z",
-      "live_viewers": 2719,
+      "live_viewers": 2710,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -231,7 +211,7 @@
       "available_at": "2026-06-05T13:35:56.000Z",
       "start_scheduled": "2026-06-05T13:35:00.000Z",
       "start_actual": "2026-06-05T13:35:56.000Z",
-      "live_viewers": 2368,
+      "live_viewers": 2427,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -279,26 +259,6 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCJv02SHZgav7Mv3V0kBOR8Q": {
-      "video_id": "qmdC9wzTqlg",
-      "title": "【Gibby Talks】Okay, lets yap.",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-04T19:55:16.000Z",
-      "available_at": "2026-06-05T14:51:28.000Z",
-      "start_scheduled": "2026-06-05T15:00:00.000Z",
-      "start_actual": "2026-06-05T14:51:28.000Z",
-      "live_viewers": 476,
-      "channel": {
-        "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
-        "name": "Goldbullet Ch. HOLOSTARS-EN",
-        "english_name": "Goldbullet",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
