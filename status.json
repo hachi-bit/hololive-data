@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780692682,
+  "cached_at": 1780692739,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "HdCvo5gaGOA",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-05T20:27:58.000Z",
       "start_scheduled": "2026-06-05T20:30:00.000Z",
       "start_actual": "2026-06-05T20:27:58.000Z",
-      "live_viewers": 312,
+      "live_viewers": 333,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -19,6 +19,25 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9p_lqQ0FEDz327Vgf5JwqA": {
+      "video_id": "ScJq8ZrD9ro",
+      "title": "【SUMMER GAME FEST】ON THE LOOKOUT WITH @MoriCalliope  【Official Co-Stream】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-06-05T10:49:51.000Z",
+      "available_at": "2026-06-05T20:50:00.000Z",
+      "start_scheduled": "2026-06-05T20:50:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+        "name": "Koseki Bijou Ch. hololive-EN",
+        "english_name": "Koseki Bijou",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
