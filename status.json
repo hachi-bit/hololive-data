@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780650319,
+  "cached_at": 1780650379,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "zcl9BpnQo-s",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-05T03:00:29.000Z",
       "start_scheduled": "2026-06-05T03:00:00.000Z",
       "start_actual": "2026-06-05T03:00:29.000Z",
-      "live_viewers": 614,
+      "live_viewers": 594,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -40,25 +40,6 @@
         "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCez5D_dtExDJzQOAzg1k1RQ": {
-      "video_id": "7BkjQ9TWZ-w",
-      "title": "【#コラボ雑談】律可さんと最後の音楽談義【 #折咲もしゅ #REJECT】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-03T12:56:05.000Z",
-      "available_at": "2026-06-05T09:00:00.000Z",
-      "start_scheduled": "2026-06-05T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCez5D_dtExDJzQOAzg1k1RQ",
-        "name": "折咲もしゅch-Moshu Orisaki-",
-        "english_name": "Orisaki Moshu",
-        "org": "REJECT",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/Go2Zwoy_FnXEEYwxhVaEvJ7yIii0bc5415GAS7tpWkX-MGVvbvYfp5a6svtSC4isPBvopLbnPA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "Su5axVFuPl0",
       "title": "【 ドラゴンクエストヒーローズ 闇竜と世界樹の城 】完全初見!アリーナとクリフト参戦!!【鷹嶺ルイ/ホロライブ】ネタバレあり",
@@ -69,7 +50,7 @@
       "available_at": "2026-06-05T09:00:24.000Z",
       "start_scheduled": "2026-06-05T09:00:00.000Z",
       "start_actual": "2026-06-05T09:00:24.000Z",
-      "live_viewers": 1177,
+      "live_viewers": 1786,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -77,6 +58,26 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCez5D_dtExDJzQOAzg1k1RQ": {
+      "video_id": "7BkjQ9TWZ-w",
+      "title": "【#コラボ雑談】律可さんと最後の音楽談義【 #折咲もしゅ #REJECT】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-06-03T12:56:05.000Z",
+      "available_at": "2026-06-05T09:01:53.000Z",
+      "start_scheduled": "2026-06-05T09:00:00.000Z",
+      "start_actual": "2026-06-05T09:01:53.000Z",
+      "live_viewers": 293,
+      "channel": {
+        "id": "UCez5D_dtExDJzQOAzg1k1RQ",
+        "name": "折咲もしゅch-Moshu Orisaki-",
+        "english_name": "Orisaki Moshu",
+        "org": "REJECT",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/Go2Zwoy_FnXEEYwxhVaEvJ7yIii0bc5415GAS7tpWkX-MGVvbvYfp5a6svtSC4isPBvopLbnPA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
