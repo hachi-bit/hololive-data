@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780649540,
+  "cached_at": 1780649599,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "zcl9BpnQo-s",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-05T03:00:29.000Z",
       "start_scheduled": "2026-06-05T03:00:00.000Z",
       "start_actual": "2026-06-05T03:00:29.000Z",
-      "live_viewers": 653,
+      "live_viewers": 632,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -39,26 +39,6 @@
         "org": "Twitch Independents",
         "suborg": "",
         "photo": "https://yt3.ggpht.com/rFroNeZoKfGn_N5Hsw9uRyYMBfSCCVtDoldlkrzOfhhaCTnWO4GkfRisqaUkCtdtxoB5CrsJ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "t0paXNyWZw4",
-      "title": "テスト配信",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-06-05T08:15:33.000Z",
-      "available_at": "2026-06-05T08:30:21.000Z",
-      "start_scheduled": "2026-06-05T08:30:00.000Z",
-      "start_actual": "2026-06-05T08:30:21.000Z",
-      "live_viewers": 7294,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
