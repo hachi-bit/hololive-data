@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780657279,
+  "cached_at": 1780657339,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "zcl9BpnQo-s",
@@ -22,16 +22,15 @@
       }
     },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
-      "video_id": "Su5axVFuPl0",
-      "title": "【 ドラゴンクエストヒーローズ 闇竜と世界樹の城 】完全初見!アリーナとクリフト参戦!!【鷹嶺ルイ/ホロライブ】ネタバレあり",
+      "video_id": "KVQBMhFUs2M",
+      "title": "【 #ホロ金策サバイバル2 】最終日に初参戦‼ミニゲームとギャンブルやりまくるぞ💰【鷹嶺ルイ/ホロライブ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "Dragon_Quest",
-      "published_at": "2026-06-05T06:09:33.000Z",
-      "available_at": "2026-06-05T09:00:24.000Z",
-      "start_scheduled": "2026-06-05T09:00:00.000Z",
-      "start_actual": "2026-06-05T09:00:24.000Z",
-      "live_viewers": 3693,
+      "topic_id": "minecraft",
+      "published_at": "2026-06-05T06:13:22.000Z",
+      "available_at": "2026-06-05T11:00:00.000Z",
+      "start_scheduled": "2026-06-05T11:00:00.000Z",
+      "live_viewers": 0,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -91,7 +90,7 @@
       "available_at": "2026-06-05T09:59:32.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T09:59:32.000Z",
-      "live_viewers": 11121,
+      "live_viewers": 11028,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -111,7 +110,7 @@
       "available_at": "2026-06-05T10:00:14.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:00:14.000Z",
-      "live_viewers": 32180,
+      "live_viewers": 32215,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +150,7 @@
       "available_at": "2026-06-05T10:01:15.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:01:15.000Z",
-      "live_viewers": 449,
+      "live_viewers": 488,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -171,7 +170,7 @@
       "available_at": "2026-06-05T10:08:51.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:08:51.000Z",
-      "live_viewers": 3626,
+      "live_viewers": 3597,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -191,7 +190,7 @@
       "available_at": "2026-06-05T10:31:08.000Z",
       "start_scheduled": "2026-06-05T11:00:00.000Z",
       "start_actual": "2026-06-05T10:31:08.000Z",
-      "live_viewers": 1614,
+      "live_viewers": 1623,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -211,7 +210,7 @@
       "available_at": "2026-06-05T10:44:11.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:44:11.000Z",
-      "live_viewers": 2083,
+      "live_viewers": 2190,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -231,7 +230,7 @@
       "available_at": "2026-06-05T10:44:54.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:44:54.000Z",
-      "live_viewers": 4486,
+      "live_viewers": 4644,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -251,7 +250,7 @@
       "available_at": "2026-06-05T10:45:24.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:45:24.000Z",
-      "live_viewers": 4360,
+      "live_viewers": 4420,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -271,7 +270,7 @@
       "available_at": "2026-06-05T10:45:40.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:45:40.000Z",
-      "live_viewers": 3657,
+      "live_viewers": 3718,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -291,7 +290,7 @@
       "available_at": "2026-06-05T10:45:42.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:45:42.000Z",
-      "live_viewers": 747,
+      "live_viewers": 723,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -311,7 +310,7 @@
       "available_at": "2026-06-05T10:45:58.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:45:58.000Z",
-      "live_viewers": 28711,
+      "live_viewers": 28918,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -331,7 +330,7 @@
       "available_at": "2026-06-05T10:46:00.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:46:00.000Z",
-      "live_viewers": 4067,
+      "live_viewers": 4280,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -351,7 +350,7 @@
       "available_at": "2026-06-05T10:47:13.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:47:13.000Z",
-      "live_viewers": 3506,
+      "live_viewers": 3590,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -371,7 +370,7 @@
       "available_at": "2026-06-05T10:48:54.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:48:54.000Z",
-      "live_viewers": 3977,
+      "live_viewers": 4849,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -391,7 +390,7 @@
       "available_at": "2026-06-05T10:55:36.000Z",
       "start_scheduled": "2026-06-05T10:55:00.000Z",
       "start_actual": "2026-06-05T10:55:36.000Z",
-      "live_viewers": 698,
+      "live_viewers": 963,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -411,7 +410,7 @@
       "available_at": "2026-06-05T10:56:30.000Z",
       "start_scheduled": "2026-06-05T10:55:00.000Z",
       "start_actual": "2026-06-05T10:56:30.000Z",
-      "live_viewers": 1824,
+      "live_viewers": 4745,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -419,6 +418,140 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChAnqc_AY5_I3Px5dig3X1Q": {
+      "video_id": "TtFlGUBNNdY",
+      "title": "【#ホロ金策サバイバル2】ころね支店 ~最終回~ 【Minecraft】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-05T06:47:45.000Z",
+      "available_at": "2026-06-05T10:58:45.000Z",
+      "start_scheduled": "2026-06-05T10:59:00.000Z",
+      "start_actual": "2026-06-05T10:58:45.000Z",
+      "live_viewers": 3788,
+      "channel": {
+        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
+        "name": "Korone Ch. 戌神ころね",
+        "english_name": "Inugami Korone",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFTLzh12_nrtzqBPsTCqenA": {
+      "video_id": "piigwKos6f0",
+      "title": "【  #ホロ金策サバイバル2 】4日目!今日が最終日!【アキロゼ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-05T10:59:02.000Z",
+      "available_at": "2026-06-05T11:00:00.000Z",
+      "start_scheduled": "2026-06-05T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCFTLzh12_nrtzqBPsTCqenA",
+        "name": "アキロゼCh。Vtuber/ホロライブ所属",
+        "english_name": "Aki Rosenthal",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "r2vb7Ibgk2M",
+      "title": "【 #ホロ金策サバイバル2 】GM視点!セカンドシーズンもホロタウンのラーメン屋ししろぼたんです：Day5【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-04T19:45:23.000Z",
+      "available_at": "2026-06-05T11:00:00.000Z",
+      "start_scheduled": "2026-06-05T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCMwGHR0BTZuLsmjY_NT5Pwg": {
+      "video_id": "FD3sVDvinXY",
+      "title": "【#ホロ金策サバイバル2】AIM FOR IT...THE NUMBER...【#5】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-05T10:38:23.000Z",
+      "available_at": "2026-06-05T11:00:00.000Z",
+      "start_scheduled": "2026-06-05T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "name": "Ninomae Ina'nis Ch. hololive-EN",
+        "english_name": "Ninomae Ina'nis",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCv3EicDtxObcZZmnFcHvNnw": {
+      "video_id": "BoXjKWA47CA",
+      "title": "【Super Bunny Man】店長、もう一度俺と舞いましょう【鬼ヶ谷テン/ネオポルテ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Super_Bunny_Man",
+      "published_at": "2026-06-05T09:42:36.000Z",
+      "available_at": "2026-06-05T11:00:00.000Z",
+      "start_scheduled": "2026-06-05T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCv3EicDtxObcZZmnFcHvNnw",
+        "name": "鬼ヶ谷 テン / Onigaya Ten",
+        "english_name": "Onigaya Ten",
+        "org": "Neo-Porte",
+        "suborg": "0m6th Generation",
+        "photo": "https://yt3.ggpht.com/ApKOz7sH6YpKWtzBQVaZGVc9N4KHJSlT3MUEVukFphSTTnJMEl_dplx6b3EI5n1pW_heDH4aCQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC727SQYUvx5pDDGQpTICNWg": {
+      "video_id": "6UUPZMEqaLQ",
+      "title": "【#ホロ金策サバイバル2】Last Episode: SPYING FOR MONEY ファイターの道のその先。【hololive | Anya Melfissa】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-05T10:42:19.000Z",
+      "available_at": "2026-06-05T11:00:00.000Z",
+      "start_scheduled": "2026-06-05T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC727SQYUvx5pDDGQpTICNWg",
+        "name": "Anya Melfissa Ch. hololive-ID",
+        "english_name": "Anya Melfissa",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCWQtYtq9EOB4-I5P-3fh8lA": {
+      "video_id": "fuiQM0U-C5k",
+      "title": "【 #ホロ金策サバイバル2 】最終日も完全エンジョイする勢！！！！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-05T10:34:20.000Z",
+      "available_at": "2026-06-05T11:00:00.000Z",
+      "start_scheduled": "2026-06-05T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "english_name": "Otonose Kanade",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
