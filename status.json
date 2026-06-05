@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780667179,
+  "cached_at": 1780667240,
   "lives": {
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
       "video_id": "jHdTM6PSzRY",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-05T10:00:14.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:00:14.000Z",
-      "live_viewers": 43726,
+      "live_viewers": 43482,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-05T10:01:09.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:01:09.000Z",
-      "live_viewers": 30179,
+      "live_viewers": 27291,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-05T10:44:11.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:44:11.000Z",
-      "live_viewers": 2748,
+      "live_viewers": 2742,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-05T10:45:42.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:45:42.000Z",
-      "live_viewers": 945,
+      "live_viewers": 971,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -231,7 +231,7 @@
       "available_at": "2026-06-05T10:46:00.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:46:00.000Z",
-      "live_viewers": 5309,
+      "live_viewers": 5151,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-05T10:48:54.000Z",
       "start_scheduled": "2026-06-05T10:45:00.000Z",
       "start_actual": "2026-06-05T10:48:54.000Z",
-      "live_viewers": 6193,
+      "live_viewers": 7009,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -271,7 +271,7 @@
       "available_at": "2026-06-05T10:55:36.000Z",
       "start_scheduled": "2026-06-05T10:55:00.000Z",
       "start_actual": "2026-06-05T10:55:36.000Z",
-      "live_viewers": 1722,
+      "live_viewers": 1668,
       "channel": {
         "id": "UCK9V2B22uJYu3N7eR_BT9QA",
         "name": "Polka Ch. 尾丸ポルカ",
@@ -311,7 +311,7 @@
       "available_at": "2026-06-05T10:58:45.000Z",
       "start_scheduled": "2026-06-05T10:59:00.000Z",
       "start_actual": "2026-06-05T10:58:45.000Z",
-      "live_viewers": 13003,
+      "live_viewers": 12496,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -371,7 +371,7 @@
       "available_at": "2026-06-05T11:00:56.000Z",
       "start_scheduled": "2026-06-05T11:00:00.000Z",
       "start_actual": "2026-06-05T11:00:56.000Z",
-      "live_viewers": 988,
+      "live_viewers": 960,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -411,7 +411,7 @@
       "available_at": "2026-06-05T11:01:19.000Z",
       "start_scheduled": "2026-06-05T11:00:00.000Z",
       "start_actual": "2026-06-05T11:01:19.000Z",
-      "live_viewers": 1519,
+      "live_viewers": 1428,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -431,7 +431,7 @@
       "available_at": "2026-06-05T11:01:58.000Z",
       "start_scheduled": "2026-06-05T11:00:00.000Z",
       "start_actual": "2026-06-05T11:01:58.000Z",
-      "live_viewers": 19294,
+      "live_viewers": 18782,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -611,7 +611,7 @@
       "available_at": "2026-06-05T12:58:57.000Z",
       "start_scheduled": "2026-06-05T13:00:00.000Z",
       "start_actual": "2026-06-05T12:58:57.000Z",
-      "live_viewers": 3530,
+      "live_viewers": 3518,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -631,7 +631,7 @@
       "available_at": "2026-06-05T13:00:25.000Z",
       "start_scheduled": "2026-06-05T13:00:00.000Z",
       "start_actual": "2026-06-05T13:00:25.000Z",
-      "live_viewers": 543,
+      "live_viewers": 552,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -651,7 +651,7 @@
       "available_at": "2026-06-05T13:00:32.000Z",
       "start_scheduled": "2026-06-05T13:00:00.000Z",
       "start_actual": "2026-06-05T13:00:32.000Z",
-      "live_viewers": 153,
+      "live_viewers": 159,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -671,7 +671,7 @@
       "available_at": "2026-06-05T13:35:56.000Z",
       "start_scheduled": "2026-06-05T13:35:00.000Z",
       "start_actual": "2026-06-05T13:35:56.000Z",
-      "live_viewers": 830,
+      "live_viewers": 894,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
