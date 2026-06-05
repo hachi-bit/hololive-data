@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780654219,
+  "cached_at": 1780654279,
   "lives": {
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "zcl9BpnQo-s",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-05T09:18:40.000Z",
       "start_scheduled": "2026-06-05T09:15:00.000Z",
       "start_actual": "2026-06-05T09:18:40.000Z",
-      "live_viewers": 226,
+      "live_viewers": 209,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-05T09:59:32.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T09:59:32.000Z",
-      "live_viewers": 7558,
+      "live_viewers": 13066,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -119,25 +119,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1uv2Oq6kNxgATlCiez59hw": {
-      "video_id": "mcfBHuFXTms",
-      "title": "【 STREET FIGHTER 6 】明日は常闇祭2‼️さはらさんと‼️【常闇トワ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-05T05:30:25.000Z",
-      "available_at": "2026-06-05T10:00:00.000Z",
-      "start_scheduled": "2026-06-05T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC1uv2Oq6kNxgATlCiez59hw",
-        "name": "Towa Ch. 常闇トワ",
-        "english_name": "Tokoyami Towa",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC-hM6YJuNYVAmUWxeIr9FeA": {
@@ -169,7 +150,7 @@
       "available_at": "2026-06-05T10:00:14.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:00:14.000Z",
-      "live_viewers": 15142,
+      "live_viewers": 19151,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -189,7 +170,7 @@
       "available_at": "2026-06-05T10:01:09.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:01:09.000Z",
-      "live_viewers": 10431,
+      "live_viewers": 15477,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -209,7 +190,7 @@
       "available_at": "2026-06-05T10:01:15.000Z",
       "start_scheduled": "2026-06-05T10:00:00.000Z",
       "start_actual": "2026-06-05T10:01:15.000Z",
-      "live_viewers": 262,
+      "live_viewers": 254,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -217,6 +198,46 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "A8n2oqRXc44",
+      "title": "【#ホロ金策サバイバル2】6/5 -5日目の日報!Day5 daily report【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-05T10:06:30.000Z",
+      "available_at": "2026-06-05T10:08:18.000Z",
+      "start_scheduled": "2026-06-05T10:05:00.000Z",
+      "start_actual": "2026-06-05T10:08:18.000Z",
+      "live_viewers": 23823,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1uv2Oq6kNxgATlCiez59hw": {
+      "video_id": "mcfBHuFXTms",
+      "title": "【 STREET FIGHTER 6 】明日は常闇祭2‼️さはらさんと‼️【常闇トワ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-06-05T05:30:25.000Z",
+      "available_at": "2026-06-05T10:08:51.000Z",
+      "start_scheduled": "2026-06-05T10:00:00.000Z",
+      "start_actual": "2026-06-05T10:08:51.000Z",
+      "live_viewers": 1086,
+      "channel": {
+        "id": "UC1uv2Oq6kNxgATlCiez59hw",
+        "name": "Towa Ch. 常闇トワ",
+        "english_name": "Tokoyami Towa",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
