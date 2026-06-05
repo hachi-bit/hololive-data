@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780675999,
+  "cached_at": 1780676059,
   "lives": {
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "jHdTM6PSzRY",
-      "title": "【#ホロ金策サバイバル2】 狐の錬金術師/FOXALCHEMIST FINAL 【ホロライブ/白上フブキ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-05T05:14:24.000Z",
-      "available_at": "2026-06-05T09:59:32.000Z",
-      "start_scheduled": "2026-06-05T10:00:00.000Z",
-      "start_actual": "2026-06-05T09:59:32.000Z",
-      "live_viewers": 11070,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "フブキCh。白上フブキ",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
       "video_id": "nyRqZKsc5n8",
       "title": "【 #ホロ金策サバイバル2 | DAY4 】ついに最終日だああああ🔥 【 猫又おかゆ/ホロライブ 】",
@@ -61,26 +41,6 @@
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UChAnqc_AY5_I3Px5dig3X1Q": {
-      "video_id": "TtFlGUBNNdY",
-      "title": "【#ホロ金策サバイバル2】ころね支店 ～最終回～ 【Minecraft】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-05T06:47:45.000Z",
-      "available_at": "2026-06-05T10:58:45.000Z",
-      "start_scheduled": "2026-06-05T10:59:00.000Z",
-      "start_actual": "2026-06-05T10:58:45.000Z",
-      "live_viewers": 11482,
-      "channel": {
-        "id": "UChAnqc_AY5_I3Px5dig3X1Q",
-        "name": "Korone Ch. 戌神ころね",
-        "english_name": "Inugami Korone",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC727SQYUvx5pDDGQpTICNWg": {
       "video_id": "6UUPZMEqaLQ",
       "title": "【#ホロ金策サバイバル2】Last Episode: SPYING FOR MONEY ファイターの道のその先。【hololive | Anya Melfissa】",
@@ -91,7 +51,7 @@
       "available_at": "2026-06-05T11:01:09.000Z",
       "start_scheduled": "2026-06-05T11:00:00.000Z",
       "start_actual": "2026-06-05T11:01:09.000Z",
-      "live_viewers": 978,
+      "live_viewers": 952,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -151,7 +111,7 @@
       "available_at": "2026-06-05T13:00:25.000Z",
       "start_scheduled": "2026-06-05T13:00:00.000Z",
       "start_actual": "2026-06-05T13:00:25.000Z",
-      "live_viewers": 899,
+      "live_viewers": 1031,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -191,7 +151,7 @@
       "available_at": "2026-06-05T14:03:53.000Z",
       "start_scheduled": "2026-06-05T14:00:00.000Z",
       "start_actual": "2026-06-05T14:03:53.000Z",
-      "live_viewers": 7134,
+      "live_viewers": 8695,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
