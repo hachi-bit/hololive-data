@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780676479,
+  "cached_at": 1780676539,
   "lives": {
-    "UCvaTdHTWBGv3MKj3KVqJVCw": {
-      "video_id": "nyRqZKsc5n8",
-      "title": "【 #ホロ金策サバイバル2 | DAY4 】ついに最終日だああああ🔥 【 猫又おかゆ/ホロライブ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "minecraft",
-      "published_at": "2026-06-04T16:46:24.000Z",
-      "available_at": "2026-06-05T10:45:24.000Z",
-      "start_scheduled": "2026-06-05T10:45:00.000Z",
-      "start_actual": "2026-06-05T10:45:24.000Z",
-      "live_viewers": 7936,
-      "channel": {
-        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-        "name": "Okayu Ch. 猫又おかゆ",
-        "english_name": "Nekomata Okayu",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "UKdupnI9lUU",
       "title": "【 #ホロ金策サバイバル2 】最終日!伝説の農婦の力出し切るぞおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
@@ -51,7 +31,7 @@
       "available_at": "2026-06-05T11:59:05.000Z",
       "start_scheduled": "2026-06-05T12:00:00.000Z",
       "start_actual": "2026-06-05T11:59:05.000Z",
-      "live_viewers": 549,
+      "live_viewers": 545,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -91,7 +71,7 @@
       "available_at": "2026-06-05T13:00:25.000Z",
       "start_scheduled": "2026-06-05T13:00:00.000Z",
       "start_actual": "2026-06-05T13:00:25.000Z",
-      "live_viewers": 1031,
+      "live_viewers": 1114,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -131,7 +111,7 @@
       "available_at": "2026-06-05T14:03:53.000Z",
       "start_scheduled": "2026-06-05T14:00:00.000Z",
       "start_actual": "2026-06-05T14:03:53.000Z",
-      "live_viewers": 9483,
+      "live_viewers": 9930,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
