@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780771339,
+  "cached_at": 1780771402,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "qn3_NVAPgaU",
@@ -48,9 +48,10 @@
       "status": "live",
       "topic_id": "none",
       "published_at": "2026-06-06T14:51:18.000Z",
-      "available_at": "2026-06-06T18:30:00.000Z",
+      "available_at": "2026-06-06T18:40:04.000Z",
       "start_scheduled": "2026-06-06T18:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-06T18:40:04.000Z",
+      "live_viewers": 140,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
