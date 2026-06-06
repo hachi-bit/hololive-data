@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780751659,
+  "cached_at": 1780751723,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-06T12:01:58.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:01:58.000Z",
-      "live_viewers": 207,
+      "live_viewers": 208,
       "channel": {
         "id": "UCW8WKciBixmaqaGqrlTITRQ",
         "name": "柚原いづみ / Izumi Channel 【ななしいんく】",
@@ -270,7 +270,7 @@
       "available_at": "2026-06-06T12:11:42.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:11:42.000Z",
-      "live_viewers": 427,
+      "live_viewers": 424,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -290,7 +290,7 @@
       "available_at": "2026-06-06T12:12:11.000Z",
       "start_scheduled": "2026-06-06T12:10:00.000Z",
       "start_actual": "2026-06-06T12:12:11.000Z",
-      "live_viewers": 6275,
+      "live_viewers": 6159,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -330,7 +330,7 @@
       "available_at": "2026-06-06T12:29:11.000Z",
       "start_scheduled": "2026-06-06T12:30:00.000Z",
       "start_actual": "2026-06-06T12:29:11.000Z",
-      "live_viewers": 1116,
+      "live_viewers": 1125,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -350,7 +350,7 @@
       "available_at": "2026-06-06T12:29:49.000Z",
       "start_scheduled": "2026-06-06T12:30:00.000Z",
       "start_actual": "2026-06-06T12:29:49.000Z",
-      "live_viewers": 1319,
+      "live_viewers": 1400,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -370,7 +370,7 @@
       "available_at": "2026-06-06T12:29:52.000Z",
       "start_scheduled": "2026-06-06T12:30:00.000Z",
       "start_actual": "2026-06-06T12:29:52.000Z",
-      "live_viewers": 3784,
+      "live_viewers": 3949,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -390,7 +390,7 @@
       "available_at": "2026-06-06T12:30:26.000Z",
       "start_scheduled": "2026-06-06T12:30:00.000Z",
       "start_actual": "2026-06-06T12:30:26.000Z",
-      "live_viewers": 110,
+      "live_viewers": 113,
       "channel": {
         "id": "UCNz4hh9wLzfB-vf8JZmVwSQ",
         "name": "Marikyuun",
@@ -420,25 +420,6 @@
         "photo": "https://yt3.ggpht.com/Uj8fUIQZcvYO1Vg4o8QBxNV7cKKyYmpdcLYGFFRfoIcI38meZFHtUrsWcaS7jSkk876r8lcUoQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "RPVQ0Oov9wE",
-      "title": "【 メンバーシップ限定 】久しぶりに色々お話しましょう❤【ホロライブ DEV_IS 響咲リオナ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-06T11:34:35.000Z",
-      "available_at": "2026-06-06T13:00:00.000Z",
-      "start_scheduled": "2026-06-06T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
       "video_id": "pK8mivQAkJw",
       "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#01 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
@@ -449,7 +430,7 @@
       "available_at": "2026-06-06T13:00:22.000Z",
       "start_scheduled": "2026-06-06T13:00:00.000Z",
       "start_actual": "2026-06-06T13:00:22.000Z",
-      "live_viewers": 19135,
+      "live_viewers": 22503,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -469,7 +450,7 @@
       "available_at": "2026-06-06T13:00:48.000Z",
       "start_scheduled": "2026-06-06T13:00:00.000Z",
       "start_actual": "2026-06-06T13:00:48.000Z",
-      "live_viewers": 10735,
+      "live_viewers": 11372,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
