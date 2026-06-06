@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780714459,
+  "cached_at": 1780714519,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-06T02:30:47.000Z",
       "start_scheduled": "2026-06-06T02:30:00.000Z",
       "start_actual": "2026-06-06T02:30:47.000Z",
-      "live_viewers": 3922,
+      "live_viewers": 4005,
       "channel": {
         "id": "UCPkKpOHxEDcwmUAnRpIu-Ng",
         "name": "藍沢エマ / Aizawa Ema",
@@ -190,7 +190,7 @@
       "available_at": "2026-06-06T02:33:42.000Z",
       "start_scheduled": "2026-06-06T02:30:00.000Z",
       "start_actual": "2026-06-06T02:33:42.000Z",
-      "live_viewers": 130,
+      "live_viewers": 140,
       "channel": {
         "id": "UCez5D_dtExDJzQOAzg1k1RQ",
         "name": "折咲もしゅch-Moshu Orisaki-",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-06T02:39:59.000Z",
       "start_scheduled": "2026-06-06T02:45:00.000Z",
       "start_actual": "2026-06-06T02:39:59.000Z",
-      "live_viewers": 343,
+      "live_viewers": 368,
       "channel": {
         "id": "UClhLb5qSZy0Gvn3c-HuaInQ",
         "name": "斜落せつな / Sharaku Setsuna",
@@ -250,7 +250,7 @@
       "available_at": "2026-06-06T02:42:11.000Z",
       "start_scheduled": "2026-06-06T03:00:00.000Z",
       "start_actual": "2026-06-06T02:42:11.000Z",
-      "live_viewers": 160,
+      "live_viewers": 174,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -270,7 +270,7 @@
       "available_at": "2026-06-06T02:45:15.000Z",
       "start_scheduled": "2026-06-06T03:00:00.000Z",
       "start_actual": "2026-06-06T02:45:15.000Z",
-      "live_viewers": 96,
+      "live_viewers": 117,
       "channel": {
         "id": "UCXUtikLthPFa5DDmgT3naGA",
         "name": "銀棘ぐみ / Gintoge Gumi",
@@ -290,7 +290,7 @@
       "available_at": "2026-06-06T02:45:26.000Z",
       "start_scheduled": "2026-06-06T02:45:00.000Z",
       "start_actual": "2026-06-06T02:45:26.000Z",
-      "live_viewers": 6398,
+      "live_viewers": 6880,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -330,7 +330,7 @@
       "available_at": "2026-06-06T02:49:12.000Z",
       "start_scheduled": "2026-06-06T02:45:00.000Z",
       "start_actual": "2026-06-06T02:49:12.000Z",
-      "live_viewers": 4,
+      "live_viewers": 9,
       "channel": {
         "id": "UCGy6-GQj6ALoCkjCLus7c0w",
         "name": "姫宮りの / MAHA5JP",
@@ -350,7 +350,7 @@
       "available_at": "2026-06-06T02:49:18.000Z",
       "start_scheduled": "2026-06-06T03:00:00.000Z",
       "start_actual": "2026-06-06T02:49:18.000Z",
-      "live_viewers": 1613,
+      "live_viewers": 2396,
       "channel": {
         "id": "UC8vKBjGY2HVfbW9GAmgikWw",
         "name": "甘結もか / Amayui Moka",
@@ -358,6 +358,26 @@
         "org": "VSpo",
         "suborg": "0iChoumusubi",
         "photo": "https://yt3.ggpht.com/e_Vc-qiRBWmj9PaysPGhh9b2bn5YDLs-FhmqDwZTiog6umosQzQEa7phbJwz4eaZsGwzfFze=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKeAhJvy8zgXWbh9duVjIaQ": {
+      "video_id": "9Gth0CUkcug",
+      "title": "【ストリートファイター6】#常闇祭2 いっくぞ~~~~!!!!【アルランディス/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-06-05T06:43:03.000Z",
+      "available_at": "2026-06-06T02:51:49.000Z",
+      "start_scheduled": "2026-06-06T03:00:00.000Z",
+      "start_actual": "2026-06-06T02:51:49.000Z",
+      "live_viewers": 246,
+      "channel": {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "english_name": "Arurandeisu",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
