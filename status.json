@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780744938,
+  "cached_at": 1780744999,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-06T07:58:30.000Z",
       "start_scheduled": "2026-06-06T08:00:00.000Z",
       "start_actual": "2026-06-06T07:58:30.000Z",
-      "live_viewers": 7335,
+      "live_viewers": 7130,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -58,26 +58,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9mf_ZVpouoILRY9NUIaK-w": {
-      "video_id": "YCpM3nx55pI",
-      "title": "【最後の弾き語り歌枠】歌【律可/ホロスターズ】#りつすた",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-06-06T03:57:11.000Z",
-      "available_at": "2026-06-06T09:59:19.000Z",
-      "start_scheduled": "2026-06-06T10:00:00.000Z",
-      "start_actual": "2026-06-06T09:59:19.000Z",
-      "live_viewers": 1902,
-      "channel": {
-        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-        "name": "Rikka ch.律可",
-        "english_name": "Rikka",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
@@ -190,7 +170,7 @@
       "available_at": "2026-06-06T10:02:02.000Z",
       "start_scheduled": "2026-06-06T10:00:00.000Z",
       "start_actual": "2026-06-06T10:02:02.000Z",
-      "live_viewers": 2229,
+      "live_viewers": 2171,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -230,7 +210,7 @@
       "available_at": "2026-06-06T11:00:14.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:00:14.000Z",
-      "live_viewers": 21239,
+      "live_viewers": 21815,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -250,7 +230,7 @@
       "available_at": "2026-06-06T11:00:59.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:00:59.000Z",
-      "live_viewers": 7538,
+      "live_viewers": 7634,
       "channel": {
         "id": "UCoztvTULBYd3WmStqYeoHcA",
         "name": "笹木咲 / Sasaki Saku",
@@ -270,7 +250,7 @@
       "available_at": "2026-06-06T11:01:04.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:01:04.000Z",
-      "live_viewers": 3509,
+      "live_viewers": 3719,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -290,7 +270,7 @@
       "available_at": "2026-06-06T11:01:34.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:01:34.000Z",
-      "live_viewers": 3639,
+      "live_viewers": 3994,
       "channel": {
         "id": "UCL9hJsdk9eQa0IlWbFB2oRg",
         "name": "蝶屋はなび / Choya Hanabi",
@@ -310,7 +290,7 @@
       "available_at": "2026-06-06T11:01:59.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:01:59.000Z",
-      "live_viewers": 7025,
+      "live_viewers": 7190,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -330,7 +310,7 @@
       "available_at": "2026-06-06T11:02:31.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:02:31.000Z",
-      "live_viewers": 6517,
+      "live_viewers": 6734,
       "channel": {
         "id": "UChdY64fJb14Nfnbs8EGdQig",
         "name": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
@@ -350,7 +330,7 @@
       "available_at": "2026-06-06T11:11:56.000Z",
       "start_scheduled": "2026-06-06T11:10:00.000Z",
       "start_actual": "2026-06-06T11:11:56.000Z",
-      "live_viewers": 4086,
+      "live_viewers": 4185,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
