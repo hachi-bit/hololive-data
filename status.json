@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780733059,
+  "cached_at": 1780733120,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-06T06:01:00.000Z",
       "start_scheduled": "2026-06-06T06:00:00.000Z",
       "start_actual": "2026-06-06T06:01:00.000Z",
-      "live_viewers": 3664,
+      "live_viewers": 3683,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-06T07:58:30.000Z",
       "start_scheduled": "2026-06-06T08:00:00.000Z",
       "start_actual": "2026-06-06T07:58:30.000Z",
-      "live_viewers": 1237,
+      "live_viewers": 2229,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -167,10 +167,10 @@
       "status": "live",
       "topic_id": "none",
       "published_at": "2026-06-06T07:29:58.000Z",
-      "available_at": "2026-06-06T08:00:09.000Z",
+      "available_at": "2026-06-06T08:00:25.000Z",
       "start_scheduled": "2026-06-06T08:00:00.000Z",
-      "start_actual": "2026-06-06T08:00:09.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-06T08:00:25.000Z",
+      "live_viewers": 365,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
