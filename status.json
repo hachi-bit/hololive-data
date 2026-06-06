@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780747579,
+  "cached_at": 1780747639,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-06T09:59:55.000Z",
       "start_scheduled": "2026-06-06T10:00:00.000Z",
       "start_actual": "2026-06-06T09:59:55.000Z",
-      "live_viewers": 11326,
+      "live_viewers": 9508,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -160,63 +160,6 @@
         "photo": "https://yt3.ggpht.com/ccsV50VKchjBHrGbVhni0RklmLctZzgQHXGcH5WgVgjzDF_DlyLwVUWOaiWfqbnAzVTvXM-ycA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCc88OV45ICgHbn3ZqLLb52w": {
-      "video_id": "4-I2YFSS7Ok",
-      "title": "丸太の上に人生を賭ける男たち【Log Riders】- 夜十神封魔 × ローレンさん",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Log_Riders",
-      "published_at": "2026-06-01T19:45:19.000Z",
-      "available_at": "2026-06-06T12:00:00.000Z",
-      "start_scheduled": "2026-06-06T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCc88OV45ICgHbn3ZqLLb52w",
-        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-        "english_name": "Yatogami Fuma",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/wHtqHQ5LdCv_PnI-EeHUoedJgOe-fQcv9Fhkb7cod7oTo-f3rKJBJA0xSsVS4BhO9HnShdrnBA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
-      "video_id": "Sbbb2OeVmUs",
-      "title": "I'll Scare The Ghosts Away【Phasmophobia w/ Ryzar Blazenfang, Mikazuki Arion, Harris Caine】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Phasmophobia",
-      "published_at": "2026-06-06T01:57:28.000Z",
-      "available_at": "2026-06-06T12:00:00.000Z",
-      "start_scheduled": "2026-06-06T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-        "name": "Octavio Ch. HOLOSTARS-EN",
-        "english_name": "Octavio",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCgmFrRcyH7d1zR9sIVQhFow": {
-      "video_id": "u2Inm4st-aY",
-      "title": "【Log Riders】夜十神封魔と丸太を転がすローレン・イロアス/にじさんじ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Log_Riders",
-      "published_at": "2026-06-06T11:30:09.000Z",
-      "available_at": "2026-06-06T12:00:00.000Z",
-      "start_scheduled": "2026-06-06T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCgmFrRcyH7d1zR9sIVQhFow",
-        "name": "ローレン・イロアス / Lauren Iroas【にじさんじ】",
-        "english_name": "Lauren Iroas",
-        "org": "Nijisanji",
-        "suborg": "1gEden-gumi",
-        "photo": "https://yt3.ggpht.com/Qquqkmt5fFj3F-dtO2J9uR7IykqlfU00Ujv0vVm5qkQdpoupnuS14FIAJP4Zkxf46SyLPJic=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCtC7olOldksX4fcl_8XKUFA": {
       "video_id": "Us8HxMd59NM",
       "title": "💀 DEAD POV 💀 GHOST HUNTING WITH @RyzarBlazenfang @Octavio_en @MikazukiArion - Phasmophobia",
@@ -255,6 +198,44 @@
         "photo": "https://yt3.ggpht.com/Dt0zSMEC-iVhIQ4MpTe-FBRUl7_wInXMtC3TklZ2rW3Sver_c8AGenK4h7QSElitTXYePqWZ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCgmFrRcyH7d1zR9sIVQhFow": {
+      "video_id": "u2Inm4st-aY",
+      "title": "【Log Riders】夜十神封魔と丸太を転がすローレン・イロアス/にじさんじ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Log_Riders",
+      "published_at": "2026-06-06T11:30:09.000Z",
+      "available_at": "2026-06-06T12:00:00.000Z",
+      "start_scheduled": "2026-06-06T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCgmFrRcyH7d1zR9sIVQhFow",
+        "name": "ローレン・イロアス / Lauren Iroas【にじさんじ】",
+        "english_name": "Lauren Iroas",
+        "org": "Nijisanji",
+        "suborg": "1gEden-gumi",
+        "photo": "https://yt3.ggpht.com/Qquqkmt5fFj3F-dtO2J9uR7IykqlfU00Ujv0vVm5qkQdpoupnuS14FIAJP4Zkxf46SyLPJic=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
+      "video_id": "Sbbb2OeVmUs",
+      "title": "I'll Scare The Ghosts Away【Phasmophobia w/ Ryzar Blazenfang, Mikazuki Arion, Harris Caine】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Phasmophobia",
+      "published_at": "2026-06-06T01:57:28.000Z",
+      "available_at": "2026-06-06T12:00:00.000Z",
+      "start_scheduled": "2026-06-06T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+        "name": "Octavio Ch. HOLOSTARS-EN",
+        "english_name": "Octavio",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCz_9zqgFPUYQBhDiZBFc00w": {
       "video_id": "DMew9w0euHo",
       "title": "【PHASMOPHOBIA】PROVING I'M A BRAVE MAN (I'M NOT) W/@Octavio_en @HarrisCaine @RyzarBlazenfang",
@@ -274,6 +255,25 @@
         "photo": "https://yt3.ggpht.com/om5r_6L00d4O4UCk03UpG6EBLY4qOR_FLyj3C5UsWNPJmz1jHKEF2rTRMFaSsWXnivPOiykY7g=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCc88OV45ICgHbn3ZqLLb52w": {
+      "video_id": "4-I2YFSS7Ok",
+      "title": "丸太の上に人生を賭ける男たち【Log Riders】- 夜十神封魔 × ローレンさん",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Log_Riders",
+      "published_at": "2026-06-01T19:45:19.000Z",
+      "available_at": "2026-06-06T12:00:00.000Z",
+      "start_scheduled": "2026-06-06T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCc88OV45ICgHbn3ZqLLb52w",
+        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+        "english_name": "Yatogami Fuma",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/wHtqHQ5LdCv_PnI-EeHUoedJgOe-fQcv9Fhkb7cod7oTo-f3rKJBJA0xSsVS4BhO9HnShdrnBA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
       "video_id": "TB1o1nprSGI",
       "title": "【 3DLIVE 】\"アニソン Night Fever2\" / 重大告知あり!【 #角巻わため生誕祭2026 】",
@@ -284,7 +284,7 @@
       "available_at": "2026-06-06T12:00:15.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:00:15.000Z",
-      "live_viewers": 43149,
+      "live_viewers": 16790,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -304,7 +304,7 @@
       "available_at": "2026-06-06T12:01:58.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:01:58.000Z",
-      "live_viewers": 98,
+      "live_viewers": 115,
       "channel": {
         "id": "UCW8WKciBixmaqaGqrlTITRQ",
         "name": "柚原いづみ / Izumi Channel 【ななしいんく】",
