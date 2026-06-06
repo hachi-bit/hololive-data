@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780758739,
+  "cached_at": 1780758799,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-06T12:05:35.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:05:35.000Z",
-      "live_viewers": 8335,
+      "live_viewers": 8559,
       "channel": {
         "id": "UCgmFrRcyH7d1zR9sIVQhFow",
         "name": "ローレン・イロアス / Lauren Iroas【にじさんじ】",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-06T12:06:59.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:06:59.000Z",
-      "live_viewers": 237,
+      "live_viewers": 206,
       "channel": {
         "id": "UCsNIVzD4AJ2FPLi9rY7I05Q",
         "name": "Ryzar Blazenfang【FIRST STAGE PRODUCTION EN】",
@@ -78,26 +78,6 @@
         "org": "FIRST STAGE PRODUCTION",
         "suborg": "3bEN Ravanis",
         "photo": "https://yt3.ggpht.com/Dt0zSMEC-iVhIQ4MpTe-FBRUl7_wInXMtC3TklZ2rW3Sver_c8AGenK4h7QSElitTXYePqWZ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCHsx4Hqa-1ORjQTh9TYDhww": {
-      "video_id": "2gWYJOtHW9I",
-      "title": "【GARTIC PHONE】stream ends when tooth falls out #kfp #キアライブ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Gartic_Phone",
-      "published_at": "2026-06-06T11:23:21.000Z",
-      "available_at": "2026-06-06T12:29:52.000Z",
-      "start_scheduled": "2026-06-06T12:30:00.000Z",
-      "start_actual": "2026-06-06T12:29:52.000Z",
-      "live_viewers": 3633,
-      "channel": {
-        "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
-        "name": "Takanashi Kiara Ch. hololive-EN",
-        "english_name": "Takanashi Kiara",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
@@ -150,7 +130,7 @@
       "available_at": "2026-06-06T13:30:37.000Z",
       "start_scheduled": "2026-06-06T13:30:00.000Z",
       "start_actual": "2026-06-06T13:30:37.000Z",
-      "live_viewers": 2687,
+      "live_viewers": 2767,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
