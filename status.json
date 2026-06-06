@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780749079,
+  "cached_at": 1780749139,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-06T07:58:30.000Z",
       "start_scheduled": "2026-06-06T08:00:00.000Z",
       "start_actual": "2026-06-06T07:58:30.000Z",
-      "live_viewers": 5931,
+      "live_viewers": 5929,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-06T10:02:38.000Z",
       "start_scheduled": "2026-06-06T10:00:00.000Z",
       "start_actual": "2026-06-06T10:02:38.000Z",
-      "live_viewers": 2829,
+      "live_viewers": 2803,
       "channel": {
         "id": "UCo6mwsozDGMW0UNGowBJGhg",
         "name": "昏昏アリア / Konkon Aria",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-06T11:00:14.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:00:14.000Z",
-      "live_viewers": 29119,
+      "live_viewers": 28753,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-06T11:00:59.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:00:59.000Z",
-      "live_viewers": 7993,
+      "live_viewers": 7360,
       "channel": {
         "id": "UCoztvTULBYd3WmStqYeoHcA",
         "name": "笹木咲 / Sasaki Saku",
@@ -190,7 +190,7 @@
       "available_at": "2026-06-06T12:04:54.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:04:54.000Z",
-      "live_viewers": 1021,
+      "live_viewers": 1011,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -250,7 +250,7 @@
       "available_at": "2026-06-06T12:11:29.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:11:29.000Z",
-      "live_viewers": 1397,
+      "live_viewers": 1494,
       "channel": {
         "id": "UCtC7olOldksX4fcl_8XKUFA",
         "name": "Harris Caine【EOS】",
@@ -270,7 +270,7 @@
       "available_at": "2026-06-06T12:11:36.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:11:36.000Z",
-      "live_viewers": 3479,
+      "live_viewers": 3687,
       "channel": {
         "id": "UCz_9zqgFPUYQBhDiZBFc00w",
         "name": "Mikazuki Arion【EOS】",
@@ -290,7 +290,7 @@
       "available_at": "2026-06-06T12:11:42.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:11:42.000Z",
-      "live_viewers": 380,
+      "live_viewers": 404,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -310,7 +310,7 @@
       "available_at": "2026-06-06T12:12:11.000Z",
       "start_scheduled": "2026-06-06T12:10:00.000Z",
       "start_actual": "2026-06-06T12:12:11.000Z",
-      "live_viewers": 4789,
+      "live_viewers": 4889,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -330,7 +330,7 @@
       "available_at": "2026-06-06T12:15:33.000Z",
       "start_scheduled": "2026-06-06T12:15:00.000Z",
       "start_actual": "2026-06-06T12:15:33.000Z",
-      "live_viewers": 3811,
+      "live_viewers": 3895,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -338,6 +338,106 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAoy6rzhSf4ydcYjJw3WoVg": {
+      "video_id": "Gw8DZvIRpvw",
+      "title": "【Gartic Phone】With my fellow girlies hehehe【iofi / ホロライブID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Gartic_Phone",
+      "published_at": "2026-06-05T23:10:46.000Z",
+      "available_at": "2026-06-06T12:29:11.000Z",
+      "start_scheduled": "2026-06-06T12:30:00.000Z",
+      "start_actual": "2026-06-06T12:29:11.000Z",
+      "live_viewers": 338,
+      "channel": {
+        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+        "name": "Airani Iofifteen Channel hololive-ID",
+        "english_name": "Airani Iofifteen",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCYz_5n-uDuChHtLo7My1HnQ": {
+      "video_id": "gj_JtB325MY",
+      "title": "【GARTIC PHONE】 FORCING MY FRIENDS TO PLAY GARTIC PHONE WITH ME  【Kureiji Ollie】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Gartic_Phone",
+      "published_at": "2026-06-03T12:40:39.000Z",
+      "available_at": "2026-06-06T12:29:49.000Z",
+      "start_scheduled": "2026-06-06T12:30:00.000Z",
+      "start_actual": "2026-06-06T12:29:49.000Z",
+      "live_viewers": 279,
+      "channel": {
+        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+        "name": "Kureiji Ollie Ch. hololive-ID",
+        "english_name": "Kureiji Ollie",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCHsx4Hqa-1ORjQTh9TYDhww": {
+      "video_id": "2gWYJOtHW9I",
+      "title": "【GARTIC PHONE】stream ends when tooth falls out #kfp #キアライブ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Gartic_Phone",
+      "published_at": "2026-06-06T11:23:21.000Z",
+      "available_at": "2026-06-06T12:29:52.000Z",
+      "start_scheduled": "2026-06-06T12:30:00.000Z",
+      "start_actual": "2026-06-06T12:29:52.000Z",
+      "live_viewers": 737,
+      "channel": {
+        "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+        "name": "Takanashi Kiara Ch. hololive-EN",
+        "english_name": "Takanashi Kiara",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCJjjeqEYMSzdsKt6vJ78WVw": {
+      "video_id": "BrUG9hmKjuA",
+      "title": "【GARTIC PHONE】 🥖 COOL ARTISTS IN THE LOBBY!!!!! 😲 #panlive",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Gartic_Phone",
+      "published_at": "2026-06-02T19:09:30.000Z",
+      "available_at": "2026-06-06T12:30:16.000Z",
+      "start_scheduled": "2026-06-06T12:30:00.000Z",
+      "start_actual": "2026-06-06T12:30:16.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCJjjeqEYMSzdsKt6vJ78WVw",
+        "name": "Pan VTuber パン",
+        "english_name": "Pan",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/Uj8fUIQZcvYO1Vg4o8QBxNV7cKKyYmpdcLYGFFRfoIcI38meZFHtUrsWcaS7jSkk876r8lcUoQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNz4hh9wLzfB-vf8JZmVwSQ": {
+      "video_id": "knCUwG2IFVo",
+      "title": "[GARTIC PHONE] ✧˖° Drawing with some Lovely Ladies!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Gartic_Phone",
+      "published_at": "2026-06-02T21:53:51.000Z",
+      "available_at": "2026-06-06T12:30:17.000Z",
+      "start_scheduled": "2026-06-06T12:30:00.000Z",
+      "start_actual": "2026-06-06T12:30:17.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCNz4hh9wLzfB-vf8JZmVwSQ",
+        "name": "Marikyuun",
+        "english_name": "Marikyuun",
+        "org": "Independents",
+        "suborg": "",
+        "photo": "https://yt3.ggpht.com/6n4YbnzsfJH2b3vP2ZlnyCrGlRMbjUZMgoNNbCXhHGNypm5S6iwY2C62XV2qrOuL7seocmXvAg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
