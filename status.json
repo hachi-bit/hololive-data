@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780743559,
+  "cached_at": 1780743619,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-06T07:58:30.000Z",
       "start_scheduled": "2026-06-06T08:00:00.000Z",
       "start_actual": "2026-06-06T07:58:30.000Z",
-      "live_viewers": 6320,
+      "live_viewers": 6372,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -105,7 +105,7 @@
       "title": "【復活!!!】1か月ぶりのただいま!!!初の長期休暇、一体どうすごしたのか───!???✨【博衣こより/ホロライブ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "none",
+      "topic_id": "talk",
       "published_at": "2026-06-06T06:39:41.000Z",
       "available_at": "2026-06-06T09:59:55.000Z",
       "start_scheduled": "2026-06-06T10:00:00.000Z",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-06T10:01:18.000Z",
       "start_scheduled": "2026-06-06T10:00:00.000Z",
       "start_actual": "2026-06-06T10:01:18.000Z",
-      "live_viewers": 6666,
+      "live_viewers": 6577,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -190,7 +190,7 @@
       "available_at": "2026-06-06T10:01:22.000Z",
       "start_scheduled": "2026-06-06T10:00:00.000Z",
       "start_actual": "2026-06-06T10:01:22.000Z",
-      "live_viewers": 10019,
+      "live_viewers": 10058,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -210,7 +210,7 @@
       "available_at": "2026-06-06T10:02:02.000Z",
       "start_scheduled": "2026-06-06T10:00:00.000Z",
       "start_actual": "2026-06-06T10:02:02.000Z",
-      "live_viewers": 2142,
+      "live_viewers": 2215,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-06T10:32:02.000Z",
       "start_scheduled": "2026-06-06T10:30:00.000Z",
       "start_actual": "2026-06-06T10:32:02.000Z",
-      "live_viewers": 8961,
+      "live_viewers": 9244,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
