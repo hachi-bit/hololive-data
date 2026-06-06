@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780735879,
+  "cached_at": 1780735939,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -20,26 +20,6 @@
         "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC1uv2Oq6kNxgATlCiez59hw": {
-      "video_id": "AX-_P6pEkRs",
-      "title": "【 #常闇祭2 】👾 STREET FIGHTER6  3on3 トーナメント👑常闇祭2 powered by ZENAIM【常闇トワ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-03T02:08:58.000Z",
-      "available_at": "2026-06-06T02:45:26.000Z",
-      "start_scheduled": "2026-06-06T02:45:00.000Z",
-      "start_actual": "2026-06-06T02:45:26.000Z",
-      "live_viewers": 20442,
-      "channel": {
-        "id": "UC1uv2Oq6kNxgATlCiez59hw",
-        "name": "Towa Ch. 常闇トワ",
-        "english_name": "Tokoyami Towa",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCGNI4MENvnsymYjKiZwv9eg": {
       "video_id": "ftx31tROiXY",
       "title": "【マイクラ】最後のソロ配信は、マイクラエンドラ討伐耐久だ!【岸堂天真/ホロスターズ】",
@@ -50,7 +30,7 @@
       "available_at": "2026-06-06T03:02:12.000Z",
       "start_scheduled": "2026-06-06T03:00:00.000Z",
       "start_actual": "2026-06-06T03:02:12.000Z",
-      "live_viewers": 856,
+      "live_viewers": 852,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -70,7 +50,7 @@
       "available_at": "2026-06-06T06:00:28.000Z",
       "start_scheduled": "2026-06-06T06:00:00.000Z",
       "start_actual": "2026-06-06T06:00:28.000Z",
-      "live_viewers": 4189,
+      "live_viewers": 4128,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -90,7 +70,7 @@
       "available_at": "2026-06-06T06:00:49.000Z",
       "start_scheduled": "2026-06-06T06:00:00.000Z",
       "start_actual": "2026-06-06T06:00:49.000Z",
-      "live_viewers": 15712,
+      "live_viewers": 16271,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -110,7 +90,7 @@
       "available_at": "2026-06-06T06:01:00.000Z",
       "start_scheduled": "2026-06-06T06:00:00.000Z",
       "start_actual": "2026-06-06T06:01:00.000Z",
-      "live_viewers": 3697,
+      "live_viewers": 3612,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -130,7 +110,7 @@
       "available_at": "2026-06-06T07:58:30.000Z",
       "start_scheduled": "2026-06-06T08:00:00.000Z",
       "start_actual": "2026-06-06T07:58:30.000Z",
-      "live_viewers": 5076,
+      "live_viewers": 5104,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -150,7 +130,7 @@
       "available_at": "2026-06-06T08:00:25.000Z",
       "start_scheduled": "2026-06-06T08:00:00.000Z",
       "start_actual": "2026-06-06T08:00:25.000Z",
-      "live_viewers": 964,
+      "live_viewers": 939,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
