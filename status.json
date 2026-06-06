@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780704379,
+  "cached_at": 1780704440,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -39,25 +39,6 @@
         "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCuI_opAVX6qbxZY-a-AxFuQ": {
-      "video_id": "I1ktduXA5uw",
-      "title": "【朝活】ニコたんの朝活! #朝ガオ に決定しました!✨【虎金妃笑虎】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "morning",
-      "published_at": "2026-06-05T10:06:28.000Z",
-      "available_at": "2026-06-06T00:00:00.000Z",
-      "start_scheduled": "2026-06-06T00:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-        "english_name": "Koganei Niko",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "uMiPAU3HF14",
       "title": "【SUBNAUTICA 2】LOOK AT MY DIVERS DAWG, WE ARE SO COOKED.. EXPLORING EACH OTHER W/ @JurardTRexford  🤿✨",
@@ -75,6 +56,26 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCuI_opAVX6qbxZY-a-AxFuQ": {
+      "video_id": "I1ktduXA5uw",
+      "title": "【朝活】ニコたんの朝活! #朝ガオ に決定しました!✨【虎金妃笑虎】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "morning",
+      "published_at": "2026-06-05T10:06:28.000Z",
+      "available_at": "2026-06-06T00:02:36.000Z",
+      "start_scheduled": "2026-06-06T00:00:00.000Z",
+      "start_actual": "2026-06-06T00:02:36.000Z",
+      "live_viewers": 2061,
+      "channel": {
+        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+        "english_name": "Koganei Niko",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
