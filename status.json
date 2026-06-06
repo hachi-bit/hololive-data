@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780754959,
+  "cached_at": 1780755019,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -20,26 +20,6 @@
         "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCo6mwsozDGMW0UNGowBJGhg": {
-      "video_id": "AHb3oGIJSyQ",
-      "title": "【 誕生日 】逆凸します…!?🍰✨ #昏昏アリア生誕祭2026 【昏昏アリア/ネオポルテ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Birthday",
-      "published_at": "2026-06-06T07:52:21.000Z",
-      "available_at": "2026-06-06T10:02:38.000Z",
-      "start_scheduled": "2026-06-06T10:00:00.000Z",
-      "start_actual": "2026-06-06T10:02:38.000Z",
-      "live_viewers": 1528,
-      "channel": {
-        "id": "UCo6mwsozDGMW0UNGowBJGhg",
-        "name": "昏昏アリア / Konkon Aria",
-        "english_name": "Konkon Aria",
-        "org": "Neo-Porte",
-        "suborg": "0g3rd Generation",
-        "photo": "https://yt3.ggpht.com/0tvpfHLnPtiDpBkKNqWnggOh5Me7aO4EHLcvzZAJUmZLGRGwa5Ak1HV2GO8PwmH5b3XD5BolhA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "umEdzuFeUNo",
       "title": "#4【SFC】完全初見!ドラゴンクエストVI 幻の大地 ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
@@ -50,7 +30,7 @@
       "available_at": "2026-06-06T11:00:14.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:00:14.000Z",
-      "live_viewers": 28452,
+      "live_viewers": 28395,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -70,7 +50,7 @@
       "available_at": "2026-06-06T11:01:34.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:01:34.000Z",
-      "live_viewers": 1500,
+      "live_viewers": 1502,
       "channel": {
         "id": "UCL9hJsdk9eQa0IlWbFB2oRg",
         "name": "蝶屋はなび / Choya Hanabi",
@@ -110,7 +90,7 @@
       "available_at": "2026-06-06T12:04:54.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:04:54.000Z",
-      "live_viewers": 846,
+      "live_viewers": 795,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -130,7 +110,7 @@
       "available_at": "2026-06-06T12:05:35.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:05:35.000Z",
-      "live_viewers": 8817,
+      "live_viewers": 8763,
       "channel": {
         "id": "UCgmFrRcyH7d1zR9sIVQhFow",
         "name": "ローレン・イロアス / Lauren Iroas【にじさんじ】",
@@ -170,7 +150,7 @@
       "available_at": "2026-06-06T12:11:29.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:11:29.000Z",
-      "live_viewers": 1187,
+      "live_viewers": 1117,
       "channel": {
         "id": "UCtC7olOldksX4fcl_8XKUFA",
         "name": "Harris Caine【EOS】",
@@ -190,7 +170,7 @@
       "available_at": "2026-06-06T12:11:36.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:11:36.000Z",
-      "live_viewers": 2560,
+      "live_viewers": 2574,
       "channel": {
         "id": "UCz_9zqgFPUYQBhDiZBFc00w",
         "name": "Mikazuki Arion【EOS】",
@@ -210,7 +190,7 @@
       "available_at": "2026-06-06T12:11:42.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:11:42.000Z",
-      "live_viewers": 407,
+      "live_viewers": 364,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -230,7 +210,7 @@
       "available_at": "2026-06-06T12:15:33.000Z",
       "start_scheduled": "2026-06-06T12:15:00.000Z",
       "start_actual": "2026-06-06T12:15:33.000Z",
-      "live_viewers": 4412,
+      "live_viewers": 4344,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -250,7 +230,7 @@
       "available_at": "2026-06-06T12:29:11.000Z",
       "start_scheduled": "2026-06-06T12:30:00.000Z",
       "start_actual": "2026-06-06T12:29:11.000Z",
-      "live_viewers": 1190,
+      "live_viewers": 1192,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -270,7 +250,7 @@
       "available_at": "2026-06-06T12:29:49.000Z",
       "start_scheduled": "2026-06-06T12:30:00.000Z",
       "start_actual": "2026-06-06T12:29:49.000Z",
-      "live_viewers": 1489,
+      "live_viewers": 1539,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -330,7 +310,7 @@
       "available_at": "2026-06-06T12:30:29.000Z",
       "start_scheduled": "2026-06-06T12:30:00.000Z",
       "start_actual": "2026-06-06T12:30:29.000Z",
-      "live_viewers": 544,
+      "live_viewers": 575,
       "channel": {
         "id": "UCJjjeqEYMSzdsKt6vJ78WVw",
         "name": "Pan VTuber パン",
@@ -350,7 +330,7 @@
       "available_at": "2026-06-06T13:00:22.000Z",
       "start_scheduled": "2026-06-06T13:00:00.000Z",
       "start_actual": "2026-06-06T13:00:22.000Z",
-      "live_viewers": 29049,
+      "live_viewers": 29237,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -370,7 +350,7 @@
       "available_at": "2026-06-06T13:00:48.000Z",
       "start_scheduled": "2026-06-06T13:00:00.000Z",
       "start_actual": "2026-06-06T13:00:48.000Z",
-      "live_viewers": 16711,
+      "live_viewers": 16474,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -430,7 +410,7 @@
       "available_at": "2026-06-06T13:30:37.000Z",
       "start_scheduled": "2026-06-06T13:30:00.000Z",
       "start_actual": "2026-06-06T13:30:37.000Z",
-      "live_viewers": 2109,
+      "live_viewers": 2134,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -450,7 +430,7 @@
       "available_at": "2026-06-06T13:59:56.000Z",
       "start_scheduled": "2026-06-06T14:00:00.000Z",
       "start_actual": "2026-06-06T13:59:56.000Z",
-      "live_viewers": 822,
+      "live_viewers": 1093,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -470,7 +450,7 @@
       "available_at": "2026-06-06T14:00:03.000Z",
       "start_scheduled": "2026-06-06T14:00:00.000Z",
       "start_actual": "2026-06-06T14:00:03.000Z",
-      "live_viewers": 320,
+      "live_viewers": 415,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -490,7 +470,7 @@
       "available_at": "2026-06-06T14:02:52.000Z",
       "start_scheduled": "2026-06-06T14:00:00.000Z",
       "start_actual": "2026-06-06T14:02:52.000Z",
-      "live_viewers": 405,
+      "live_viewers": 596,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
