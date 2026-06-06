@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780742359,
+  "cached_at": 1780742420,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-06T07:58:30.000Z",
       "start_scheduled": "2026-06-06T08:00:00.000Z",
       "start_actual": "2026-06-06T07:58:30.000Z",
-      "live_viewers": 5883,
+      "live_viewers": 6044,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-06T08:00:25.000Z",
       "start_scheduled": "2026-06-06T08:00:00.000Z",
       "start_actual": "2026-06-06T08:00:25.000Z",
-      "live_viewers": 1023,
+      "live_viewers": 1003,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -58,26 +58,6 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCUKD-uaobj9jiqB-VXt71mA": {
-      "video_id": "uPUd03hcI9A",
-      "title": "【#ホロ金策サバイバル2 / 番外編】いろんな賞を発表&お疲れ様の振り返り&切り抜きもちょこっと見る!【獅白ぼたん/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-04T19:49:04.000Z",
-      "available_at": "2026-06-06T09:00:56.000Z",
-      "start_scheduled": "2026-06-06T09:00:00.000Z",
-      "start_actual": "2026-06-06T09:00:56.000Z",
-      "live_viewers": 45147,
-      "channel": {
-        "id": "UCUKD-uaobj9jiqB-VXt71mA",
-        "name": "Botan Ch.獅白ぼたん",
-        "english_name": "Shishiro Botan",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
@@ -110,7 +90,7 @@
       "available_at": "2026-06-06T09:59:19.000Z",
       "start_scheduled": "2026-06-06T10:00:00.000Z",
       "start_actual": "2026-06-06T09:59:19.000Z",
-      "live_viewers": 1600,
+      "live_viewers": 1692,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -170,7 +150,7 @@
       "available_at": "2026-06-06T10:00:42.000Z",
       "start_scheduled": "2026-06-06T10:00:00.000Z",
       "start_actual": "2026-06-06T10:00:42.000Z",
-      "live_viewers": 11382,
+      "live_viewers": 12778,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -230,7 +210,7 @@
       "available_at": "2026-06-06T10:02:02.000Z",
       "start_scheduled": "2026-06-06T10:00:00.000Z",
       "start_actual": "2026-06-06T10:02:02.000Z",
-      "live_viewers": 1632,
+      "live_viewers": 1798,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -250,7 +230,7 @@
       "available_at": "2026-06-06T10:03:02.000Z",
       "start_scheduled": "2026-06-06T10:00:00.000Z",
       "start_actual": "2026-06-06T10:03:02.000Z",
-      "live_viewers": 6315,
+      "live_viewers": 6434,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -270,7 +250,7 @@
       "available_at": "2026-06-06T10:32:02.000Z",
       "start_scheduled": "2026-06-06T10:30:00.000Z",
       "start_actual": "2026-06-06T10:32:02.000Z",
-      "live_viewers": 4662,
+      "live_viewers": 6297,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
