@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780751839,
+  "cached_at": 1780751899,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-06T07:58:30.000Z",
       "start_scheduled": "2026-06-06T08:00:00.000Z",
       "start_actual": "2026-06-06T07:58:30.000Z",
-      "live_viewers": 2908,
+      "live_viewers": 3069,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-06T10:02:38.000Z",
       "start_scheduled": "2026-06-06T10:00:00.000Z",
       "start_actual": "2026-06-06T10:02:38.000Z",
-      "live_viewers": 97,
+      "live_viewers": 1863,
       "channel": {
         "id": "UCo6mwsozDGMW0UNGowBJGhg",
         "name": "昏昏アリア / Konkon Aria",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-06T11:00:14.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:00:14.000Z",
-      "live_viewers": 30709,
+      "live_viewers": 28036,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-06T11:01:34.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:01:34.000Z",
-      "live_viewers": 2297,
+      "live_viewers": 1919,
       "channel": {
         "id": "UCL9hJsdk9eQa0IlWbFB2oRg",
         "name": "蝶屋はなび / Choya Hanabi",
@@ -118,26 +118,6 @@
         "org": "VSpo",
         "suborg": "0iChoumusubi",
         "photo": "https://yt3.ggpht.com/N7qEUQMbq8z1lQdp4WBUz3vQ83gYiYmPt-alI5K1xMYnOh4uAxuQlUVPneZQKetzACogh6E_qA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChdY64fJb14Nfnbs8EGdQig": {
-      "video_id": "iPQGcJaAbUo",
-      "title": "【スト6】V最チーム8顔合わせ【叢雲カゲツ/にじさんじ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-06T10:11:04.000Z",
-      "available_at": "2026-06-06T11:02:31.000Z",
-      "start_scheduled": "2026-06-06T11:00:00.000Z",
-      "start_actual": "2026-06-06T11:02:31.000Z",
-      "live_viewers": 4705,
-      "channel": {
-        "id": "UChdY64fJb14Nfnbs8EGdQig",
-        "name": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
-        "english_name": "Murakumo Kagetsu",
-        "org": "Nijisanji",
-        "suborg": "1sDytica",
-        "photo": "https://yt3.ggpht.com/ccsV50VKchjBHrGbVhni0RklmLctZzgQHXGcH5WgVgjzDF_DlyLwVUWOaiWfqbnAzVTvXM-ycA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCW8WKciBixmaqaGqrlTITRQ": {
@@ -170,7 +150,7 @@
       "available_at": "2026-06-06T12:04:54.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:04:54.000Z",
-      "live_viewers": 1056,
+      "live_viewers": 835,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -230,7 +210,7 @@
       "available_at": "2026-06-06T12:11:29.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:11:29.000Z",
-      "live_viewers": 1458,
+      "live_viewers": 1355,
       "channel": {
         "id": "UCtC7olOldksX4fcl_8XKUFA",
         "name": "Harris Caine【EOS】",
@@ -250,7 +230,7 @@
       "available_at": "2026-06-06T12:11:36.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:11:36.000Z",
-      "live_viewers": 3235,
+      "live_viewers": 3055,
       "channel": {
         "id": "UCz_9zqgFPUYQBhDiZBFc00w",
         "name": "Mikazuki Arion【EOS】",
@@ -330,7 +310,7 @@
       "available_at": "2026-06-06T12:29:11.000Z",
       "start_scheduled": "2026-06-06T12:30:00.000Z",
       "start_actual": "2026-06-06T12:29:11.000Z",
-      "live_viewers": 1125,
+      "live_viewers": 1146,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -410,7 +390,7 @@
       "available_at": "2026-06-06T12:30:29.000Z",
       "start_scheduled": "2026-06-06T12:30:00.000Z",
       "start_actual": "2026-06-06T12:30:29.000Z",
-      "live_viewers": 513,
+      "live_viewers": 498,
       "channel": {
         "id": "UCJjjeqEYMSzdsKt6vJ78WVw",
         "name": "Pan VTuber パン",
@@ -430,7 +410,7 @@
       "available_at": "2026-06-06T13:00:22.000Z",
       "start_scheduled": "2026-06-06T13:00:00.000Z",
       "start_actual": "2026-06-06T13:00:22.000Z",
-      "live_viewers": 22503,
+      "live_viewers": 24622,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -450,7 +430,7 @@
       "available_at": "2026-06-06T13:00:48.000Z",
       "start_scheduled": "2026-06-06T13:00:00.000Z",
       "start_actual": "2026-06-06T13:00:48.000Z",
-      "live_viewers": 11372,
+      "live_viewers": 11940,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -478,6 +458,26 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "NMbffFuFfhI",
+      "title": "灰色の証明/角巻わため【original】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Original_Song",
+      "published_at": "2026-06-06T13:15:06.000Z",
+      "available_at": "2026-06-06T13:15:06.000Z",
+      "start_scheduled": "2026-06-06T13:15:00.000Z",
+      "start_actual": "2026-06-06T13:15:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
