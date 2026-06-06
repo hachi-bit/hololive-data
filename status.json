@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780713079,
+  "cached_at": 1780713140,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-06T00:12:58.000Z",
       "start_scheduled": "2026-06-06T00:00:00.000Z",
       "start_actual": "2026-06-06T00:12:58.000Z",
-      "live_viewers": 486,
+      "live_viewers": 478,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-06T00:13:07.000Z",
       "start_scheduled": "2026-06-06T00:00:00.000Z",
       "start_actual": "2026-06-06T00:13:07.000Z",
-      "live_viewers": 450,
+      "live_viewers": 457,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-06T01:02:55.000Z",
       "start_scheduled": "2026-06-06T01:00:00.000Z",
       "start_actual": "2026-06-06T01:02:55.000Z",
-      "live_viewers": 8784,
+      "live_viewers": 8631,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-06T02:00:44.000Z",
       "start_scheduled": "2026-06-06T02:00:00.000Z",
       "start_actual": "2026-06-06T02:00:44.000Z",
-      "live_viewers": 670,
+      "live_viewers": 686,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-06T02:02:17.000Z",
       "start_scheduled": "2026-06-06T02:00:00.000Z",
       "start_actual": "2026-06-06T02:02:17.000Z",
-      "live_viewers": 2876,
+      "live_viewers": 2966,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -158,6 +158,44 @@
         "org": "Hololive",
         "suborg": "ibEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCPkKpOHxEDcwmUAnRpIu-Ng": {
+      "video_id": "O9YQQ46FxY4",
+      "title": "【スト6】常闇祭2本番!#ねこぱんちWIN 【ぶいすぽっ!/ 藍沢エマ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-06-05T16:08:39.000Z",
+      "available_at": "2026-06-06T02:30:00.000Z",
+      "start_scheduled": "2026-06-06T02:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+        "name": "藍沢エマ / Aizawa Ema",
+        "english_name": "Aizawa Ema",
+        "org": "VSpo",
+        "suborg": "SSSolo",
+        "photo": "https://yt3.ggpht.com/5IXJSJa8Qok0rszVjkdgFUj_9yKqYt82haI-hxUroYMaBdsgcmDO7bUYle30GfTnMjg96Jk9zA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCez5D_dtExDJzQOAzg1k1RQ": {
+      "video_id": "APoqpU5H4pw",
+      "title": "【 #スト6 】勝つぞ!!常闇祭2!!w/すでたきさん.へしこさん【 #折咲もしゅ #REJECT】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-06-05T13:42:33.000Z",
+      "available_at": "2026-06-06T02:30:00.000Z",
+      "start_scheduled": "2026-06-06T02:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCez5D_dtExDJzQOAzg1k1RQ",
+        "name": "折咲もしゅch-Moshu Orisaki-",
+        "english_name": "Orisaki Moshu",
+        "org": "REJECT",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/Go2Zwoy_FnXEEYwxhVaEvJ7yIii0bc5415GAS7tpWkX-MGVvbvYfp5a6svtSC4isPBvopLbnPA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
