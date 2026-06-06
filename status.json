@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780748299,
+  "cached_at": 1780748360,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-06T07:58:30.000Z",
       "start_scheduled": "2026-06-06T08:00:00.000Z",
       "start_actual": "2026-06-06T07:58:30.000Z",
-      "live_viewers": 5977,
+      "live_viewers": 6040,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-06T11:00:59.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:00:59.000Z",
-      "live_viewers": 8127,
+      "live_viewers": 7993,
       "channel": {
         "id": "UCoztvTULBYd3WmStqYeoHcA",
         "name": "笹木咲 / Sasaki Saku",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-06T12:00:15.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:00:15.000Z",
-      "live_viewers": 46611,
+      "live_viewers": 58422,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-06T12:01:58.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:01:58.000Z",
-      "live_viewers": 168,
+      "live_viewers": 153,
       "channel": {
         "id": "UCW8WKciBixmaqaGqrlTITRQ",
         "name": "柚原いづみ / Izumi Channel 【ななしいんく】",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-06T12:04:54.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:04:54.000Z",
-      "live_viewers": 925,
+      "live_viewers": 981,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -190,7 +190,7 @@
       "available_at": "2026-06-06T12:05:35.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:05:35.000Z",
-      "live_viewers": 10774,
+      "live_viewers": 11031,
       "channel": {
         "id": "UCgmFrRcyH7d1zR9sIVQhFow",
         "name": "ローレン・イロアス / Lauren Iroas【にじさんじ】",
@@ -210,7 +210,7 @@
       "available_at": "2026-06-06T12:06:59.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:06:59.000Z",
-      "live_viewers": 247,
+      "live_viewers": 273,
       "channel": {
         "id": "UCsNIVzD4AJ2FPLi9rY7I05Q",
         "name": "Ryzar Blazenfang【FIRST STAGE PRODUCTION EN】",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-06T12:11:29.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:11:29.000Z",
-      "live_viewers": 1353,
+      "live_viewers": 1375,
       "channel": {
         "id": "UCtC7olOldksX4fcl_8XKUFA",
         "name": "Harris Caine【EOS】",
@@ -250,7 +250,7 @@
       "available_at": "2026-06-06T12:11:36.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:11:36.000Z",
-      "live_viewers": 2610,
+      "live_viewers": 3063,
       "channel": {
         "id": "UCz_9zqgFPUYQBhDiZBFc00w",
         "name": "Mikazuki Arion【EOS】",
@@ -270,7 +270,7 @@
       "available_at": "2026-06-06T12:11:42.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:11:42.000Z",
-      "live_viewers": 256,
+      "live_viewers": 338,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -290,7 +290,7 @@
       "available_at": "2026-06-06T12:12:11.000Z",
       "start_scheduled": "2026-06-06T12:10:00.000Z",
       "start_actual": "2026-06-06T12:12:11.000Z",
-      "live_viewers": 3123,
+      "live_viewers": 3918,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -298,6 +298,26 @@
         "org": "Hololive",
         "suborg": "v_mekPark",
         "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFTLzh12_nrtzqBPsTCqenA": {
+      "video_id": "qjgmsrakX8U",
+      "title": "【 STREET FIGHTER 6】リベンジ枠取り直し!V最チーム8顔合わせ!【アキロゼ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-06-06T12:13:33.000Z",
+      "available_at": "2026-06-06T12:15:33.000Z",
+      "start_scheduled": "2026-06-06T12:15:00.000Z",
+      "start_actual": "2026-06-06T12:15:33.000Z",
+      "live_viewers": 1896,
+      "channel": {
+        "id": "UCFTLzh12_nrtzqBPsTCqenA",
+        "name": "アキロゼCh。Vtuber/ホロライブ所属",
+        "english_name": "Aki Rosenthal",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
