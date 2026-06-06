@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780746859,
+  "cached_at": 1780746918,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-06T09:59:55.000Z",
       "start_scheduled": "2026-06-06T10:00:00.000Z",
       "start_actual": "2026-06-06T09:59:55.000Z",
-      "live_viewers": 11463,
+      "live_viewers": 11626,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-06T11:00:14.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:00:14.000Z",
-      "live_viewers": 27676,
+      "live_viewers": 28382,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-06T11:00:59.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:00:59.000Z",
-      "live_viewers": 9077,
+      "live_viewers": 7693,
       "channel": {
         "id": "UCoztvTULBYd3WmStqYeoHcA",
         "name": "笹木咲 / Sasaki Saku",
@@ -118,26 +118,6 @@
         "org": "Nijisanji",
         "suborg": "06Ex-Gamers",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_ndD74_Ur1076OaSlnIXzWTos2ohDX6Mxr04R2tdK78qA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1iA6_NT4mtAcIII6ygrvCw": {
-      "video_id": "u4Ek89T0o-M",
-      "title": "【明日は誕生日】ソワソワ....!!【轟はじめ/ReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Birthday",
-      "published_at": "2026-06-06T10:11:23.000Z",
-      "available_at": "2026-06-06T11:01:04.000Z",
-      "start_scheduled": "2026-06-06T11:00:00.000Z",
-      "start_actual": "2026-06-06T11:01:04.000Z",
-      "live_viewers": 5095,
-      "channel": {
-        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-        "english_name": "Todoroki Hajime",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCL9hJsdk9eQa0IlWbFB2oRg": {
@@ -150,7 +130,7 @@
       "available_at": "2026-06-06T11:01:34.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:01:34.000Z",
-      "live_viewers": 4418,
+      "live_viewers": 3879,
       "channel": {
         "id": "UCL9hJsdk9eQa0IlWbFB2oRg",
         "name": "蝶屋はなび / Choya Hanabi",
@@ -170,7 +150,7 @@
       "available_at": "2026-06-06T11:01:59.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:01:59.000Z",
-      "live_viewers": 7592,
+      "live_viewers": 8044,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -190,7 +170,7 @@
       "available_at": "2026-06-06T11:02:31.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:02:31.000Z",
-      "live_viewers": 7263,
+      "live_viewers": 6888,
       "channel": {
         "id": "UChdY64fJb14Nfnbs8EGdQig",
         "name": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
@@ -210,7 +190,7 @@
       "available_at": "2026-06-06T11:11:56.000Z",
       "start_scheduled": "2026-06-06T11:10:00.000Z",
       "start_actual": "2026-06-06T11:11:56.000Z",
-      "live_viewers": 5424,
+      "live_viewers": 5474,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
