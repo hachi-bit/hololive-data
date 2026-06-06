@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780781299,
+  "cached_at": 1780781361,
   "lives": {
-    "UCOyYb1c43VlX9rc_lT6NKQw": {
-      "video_id": "Cv_97u4qlo0",
-      "title": "#futuregamesshow Nobar Bareng Future Games Show Summer Showcase !!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-06-06T14:43:38.000Z",
-      "available_at": "2026-06-06T18:59:05.000Z",
-      "start_scheduled": "2026-06-06T19:00:00.000Z",
-      "start_actual": "2026-06-06T18:59:05.000Z",
-      "live_viewers": 952,
-      "channel": {
-        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-        "name": "Ayunda Risu Ch. hololive-ID",
-        "english_name": "Ayunda Risu",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC727SQYUvx5pDDGQpTICNWg": {
       "video_id": "CTW6MQizl7E",
       "title": "【#FutureGamesShow】OFFICIAL CO-STREAM! MORE GAMES! 同時視聴【hololive ID 2nd Generation | Anya Melfissa】",
@@ -31,7 +11,7 @@
       "available_at": "2026-06-06T19:00:37.000Z",
       "start_scheduled": "2026-06-06T19:00:00.000Z",
       "start_actual": "2026-06-06T19:00:37.000Z",
-      "live_viewers": 1662,
+      "live_viewers": 1381,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -51,7 +31,7 @@
       "available_at": "2026-06-06T20:55:00.000Z",
       "start_scheduled": "2026-06-06T21:00:00.000Z",
       "start_actual": "2026-06-06T20:55:00.000Z",
-      "live_viewers": 3445,
+      "live_viewers": 3661,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
