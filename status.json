@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780772179,
+  "cached_at": 1780772239,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "qn3_NVAPgaU",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-06T13:59:56.000Z",
       "start_scheduled": "2026-06-06T14:00:00.000Z",
       "start_actual": "2026-06-06T13:59:56.000Z",
-      "live_viewers": 3083,
+      "live_viewers": 2932,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-06T18:40:04.000Z",
       "start_scheduled": "2026-06-06T18:30:00.000Z",
       "start_actual": "2026-06-06T18:40:04.000Z",
-      "live_viewers": 262,
+      "live_viewers": 303,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -59,6 +59,26 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCL_qhgtOy0dy1Agp8vkySQg": {
+      "video_id": "l_-bR-z4uzo",
+      "title": "【FUTURE GAMES SHOW】whoah oh, biboo on a chair (full mirror watchalong) #calliolive",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-06-05T10:26:38.000Z",
+      "available_at": "2026-06-06T18:55:15.000Z",
+      "start_scheduled": "2026-06-06T19:00:00.000Z",
+      "start_actual": "2026-06-06T18:55:15.000Z",
+      "live_viewers": 3144,
+      "channel": {
+        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+        "name": "Mori Calliope Ch. hololive-EN",
+        "english_name": "Mori Calliope",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
