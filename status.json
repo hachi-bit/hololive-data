@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780733239,
+  "cached_at": 1780733300,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-06T02:45:26.000Z",
       "start_scheduled": "2026-06-06T02:45:00.000Z",
       "start_actual": "2026-06-06T02:45:26.000Z",
-      "live_viewers": 28166,
+      "live_viewers": 28330,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-06T03:02:12.000Z",
       "start_scheduled": "2026-06-06T03:00:00.000Z",
       "start_actual": "2026-06-06T03:02:12.000Z",
-      "live_viewers": 831,
+      "live_viewers": 846,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -58,26 +58,6 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC8rcEBzJSleTkf_-agPM20g": {
-      "video_id": "icVHCXtNnrA",
-      "title": "【Members Only・メン限】A short chat :D",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-06T05:32:59.000Z",
-      "available_at": "2026-06-06T05:50:10.000Z",
-      "start_scheduled": "2026-06-06T05:45:00.000Z",
-      "start_actual": "2026-06-06T05:50:10.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC8rcEBzJSleTkf_-agPM20g",
-        "name": "IRyS Ch. hololive-EN",
-        "english_name": "IRyS",
-        "org": "Hololive",
-        "suborg": "iaEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCWQtYtq9EOB4-I5P-3fh8lA": {
@@ -90,7 +70,7 @@
       "available_at": "2026-06-06T06:00:28.000Z",
       "start_scheduled": "2026-06-06T06:00:00.000Z",
       "start_actual": "2026-06-06T06:00:28.000Z",
-      "live_viewers": 4261,
+      "live_viewers": 4273,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -130,7 +110,7 @@
       "available_at": "2026-06-06T06:01:00.000Z",
       "start_scheduled": "2026-06-06T06:00:00.000Z",
       "start_actual": "2026-06-06T06:01:00.000Z",
-      "live_viewers": 3683,
+      "live_viewers": 3651,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -150,7 +130,7 @@
       "available_at": "2026-06-06T07:58:30.000Z",
       "start_scheduled": "2026-06-06T08:00:00.000Z",
       "start_actual": "2026-06-06T07:58:30.000Z",
-      "live_viewers": 2229,
+      "live_viewers": 2919,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -170,7 +150,7 @@
       "available_at": "2026-06-06T08:00:25.000Z",
       "start_scheduled": "2026-06-06T08:00:00.000Z",
       "start_actual": "2026-06-06T08:00:25.000Z",
-      "live_viewers": 365,
+      "live_viewers": 500,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
