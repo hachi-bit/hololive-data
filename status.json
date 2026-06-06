@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780725739,
+  "cached_at": 1780725799,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-06T01:02:55.000Z",
       "start_scheduled": "2026-06-06T01:00:00.000Z",
       "start_actual": "2026-06-06T01:02:55.000Z",
-      "live_viewers": 8271,
+      "live_viewers": 8240,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-06T02:51:49.000Z",
       "start_scheduled": "2026-06-06T03:00:00.000Z",
       "start_actual": "2026-06-06T02:51:49.000Z",
-      "live_viewers": 1379,
+      "live_viewers": 1355,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -178,6 +178,66 @@
         "org": "Hololive",
         "suborg": "iaEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCWQtYtq9EOB4-I5P-3fh8lA": {
+      "video_id": "KBO4kLz8ifw",
+      "title": "【 The Walking Trade #03 】久しぶりの、、、ショップ経営!!お金稼ぐー!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-06T05:17:20.000Z",
+      "available_at": "2026-06-06T06:00:28.000Z",
+      "start_scheduled": "2026-06-06T06:00:00.000Z",
+      "start_actual": "2026-06-06T06:00:28.000Z",
+      "live_viewers": 611,
+      "channel": {
+        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "english_name": "Otonose Kanade",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+      "video_id": "sk_o2zeZJmI",
+      "title": "【遊戯王 EARLY DAYS COLLECTION】 #2 遊戯王デュエルモンスターズ (1998) 【ホロライブ/白上フブキ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Yu-Gi-Oh!",
+      "published_at": "2026-06-06T04:49:06.000Z",
+      "available_at": "2026-06-06T06:00:49.000Z",
+      "start_scheduled": "2026-06-06T06:00:00.000Z",
+      "start_actual": "2026-06-06T06:00:49.000Z",
+      "live_viewers": 1144,
+      "channel": {
+        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "name": "フブキCh。白上フブキ",
+        "english_name": "Shirakami Fubuki",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp6993wxpyDPHUpavwDFqgg": {
+      "video_id": "MTKs3IH8i4w",
+      "title": "【 An automaton's journey 】セシリアちゃんが主役の2Dゲームだって!?【ホロライブ/ときのそら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-06T05:19:44.000Z",
+      "available_at": "2026-06-06T06:01:00.000Z",
+      "start_scheduled": "2026-06-06T06:00:00.000Z",
+      "start_actual": "2026-06-06T06:01:00.000Z",
+      "live_viewers": 834,
+      "channel": {
+        "id": "UCp6993wxpyDPHUpavwDFqgg",
+        "name": "SoraCh. ときのそらチャンネル",
+        "english_name": "Tokino Sora",
+        "org": "Hololive",
+        "suborg": "0v0th Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
