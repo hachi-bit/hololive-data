@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780747459,
+  "cached_at": 1780747519,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-06T07:58:30.000Z",
       "start_scheduled": "2026-06-06T08:00:00.000Z",
       "start_actual": "2026-06-06T07:58:30.000Z",
-      "live_viewers": 7010,
+      "live_viewers": 6339,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -60,26 +60,6 @@
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCL_qhgtOy0dy1Agp8vkySQg": {
-      "video_id": "gEKGTYJRVUM",
-      "title": "【元祖ホロヨイ】mixing drinks and changing my friends' lives #calliolive",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Gathering",
-      "published_at": "2026-06-02T06:32:48.000Z",
-      "available_at": "2026-06-06T10:32:02.000Z",
-      "start_scheduled": "2026-06-06T10:30:00.000Z",
-      "start_actual": "2026-06-06T10:32:02.000Z",
-      "live_viewers": 10963,
-      "channel": {
-        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-        "name": "Mori Calliope Ch. hololive-EN",
-        "english_name": "Mori Calliope",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "umEdzuFeUNo",
       "title": "#4【SFC】完全初見!ドラゴンクエストVI 幻の大地 ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
@@ -90,7 +70,7 @@
       "available_at": "2026-06-06T11:00:14.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:00:14.000Z",
-      "live_viewers": 29241,
+      "live_viewers": 28062,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -110,7 +90,7 @@
       "available_at": "2026-06-06T11:00:59.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:00:59.000Z",
-      "live_viewers": 7720,
+      "live_viewers": 7576,
       "channel": {
         "id": "UCoztvTULBYd3WmStqYeoHcA",
         "name": "笹木咲 / Sasaki Saku",
@@ -130,7 +110,7 @@
       "available_at": "2026-06-06T11:01:34.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:01:34.000Z",
-      "live_viewers": 3698,
+      "live_viewers": 3614,
       "channel": {
         "id": "UCL9hJsdk9eQa0IlWbFB2oRg",
         "name": "蝶屋はなび / Choya Hanabi",
@@ -150,7 +130,7 @@
       "available_at": "2026-06-06T11:01:59.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:01:59.000Z",
-      "live_viewers": 7899,
+      "live_viewers": 7888,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -170,7 +150,7 @@
       "available_at": "2026-06-06T11:02:31.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:02:31.000Z",
-      "live_viewers": 6866,
+      "live_viewers": 6535,
       "channel": {
         "id": "UChdY64fJb14Nfnbs8EGdQig",
         "name": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
@@ -178,25 +158,6 @@
         "org": "Nijisanji",
         "suborg": "1sDytica",
         "photo": "https://yt3.ggpht.com/ccsV50VKchjBHrGbVhni0RklmLctZzgQHXGcH5WgVgjzDF_DlyLwVUWOaiWfqbnAzVTvXM-ycA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCW8WKciBixmaqaGqrlTITRQ": {
-      "video_id": "1PEvmhYF3Z8",
-      "title": "律可ちゃんと遊ぼうの会! w/ 律可 / 羽継烏有 / 神宮寺 / 空星きらめ【柚原いづみ / ななしいんく】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-06-02T07:11:54.000Z",
-      "available_at": "2026-06-06T12:00:00.000Z",
-      "start_scheduled": "2026-06-06T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCW8WKciBixmaqaGqrlTITRQ",
-        "name": "柚原いづみ / Izumi Channel 【ななしいんく】",
-        "english_name": "Yunohara Izumi",
-        "org": "774inc",
-        "suborg": "0 Ex-AniMare",
-        "photo": "https://yt3.ggpht.com/KaDu_P5Tna6PWz5P_yfAdFXRsdo69NULoE-pFY39fX9Jm0IgXb6zsBHfkbPG9nJh5TozQo9ur8A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCc88OV45ICgHbn3ZqLLb52w": {
@@ -216,25 +177,6 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/wHtqHQ5LdCv_PnI-EeHUoedJgOe-fQcv9Fhkb7cod7oTo-f3rKJBJA0xSsVS4BhO9HnShdrnBA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCz_9zqgFPUYQBhDiZBFc00w": {
-      "video_id": "DMew9w0euHo",
-      "title": "【PHASMOPHOBIA】PROVING I'M A BRAVE MAN (I'M NOT) W/@Octavio_en @HarrisCaine @RyzarBlazenfang",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Phasmophobia",
-      "published_at": "2026-06-06T10:43:41.000Z",
-      "available_at": "2026-06-06T12:00:00.000Z",
-      "start_scheduled": "2026-06-06T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCz_9zqgFPUYQBhDiZBFc00w",
-        "name": "Mikazuki Arion【EOS】",
-        "english_name": "Mikazuki Arion",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/om5r_6L00d4O4UCk03UpG6EBLY4qOR_FLyj3C5UsWNPJmz1jHKEF2rTRMFaSsWXnivPOiykY7g=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
@@ -313,6 +255,25 @@
         "photo": "https://yt3.ggpht.com/Dt0zSMEC-iVhIQ4MpTe-FBRUl7_wInXMtC3TklZ2rW3Sver_c8AGenK4h7QSElitTXYePqWZ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCz_9zqgFPUYQBhDiZBFc00w": {
+      "video_id": "DMew9w0euHo",
+      "title": "【PHASMOPHOBIA】PROVING I'M A BRAVE MAN (I'M NOT) W/@Octavio_en @HarrisCaine @RyzarBlazenfang",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Phasmophobia",
+      "published_at": "2026-06-06T10:43:41.000Z",
+      "available_at": "2026-06-06T12:00:00.000Z",
+      "start_scheduled": "2026-06-06T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCz_9zqgFPUYQBhDiZBFc00w",
+        "name": "Mikazuki Arion【EOS】",
+        "english_name": "Mikazuki Arion",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/om5r_6L00d4O4UCk03UpG6EBLY4qOR_FLyj3C5UsWNPJmz1jHKEF2rTRMFaSsWXnivPOiykY7g=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
       "video_id": "TB1o1nprSGI",
       "title": "【 3DLIVE 】\"アニソン Night Fever2\" / 重大告知あり!【 #角巻わため生誕祭2026 】",
@@ -323,7 +284,7 @@
       "available_at": "2026-06-06T12:00:15.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:00:15.000Z",
-      "live_viewers": 28538,
+      "live_viewers": 43149,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -331,6 +292,26 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCW8WKciBixmaqaGqrlTITRQ": {
+      "video_id": "1PEvmhYF3Z8",
+      "title": "律可ちゃんと遊ぼうの会! w/ 律可 / 羽継烏有 / 神宮寺 / 空星きらめ【柚原いづみ / ななしいんく】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-02T07:11:54.000Z",
+      "available_at": "2026-06-06T12:01:58.000Z",
+      "start_scheduled": "2026-06-06T12:00:00.000Z",
+      "start_actual": "2026-06-06T12:01:58.000Z",
+      "live_viewers": 98,
+      "channel": {
+        "id": "UCW8WKciBixmaqaGqrlTITRQ",
+        "name": "柚原いづみ / Izumi Channel 【ななしいんく】",
+        "english_name": "Yunohara Izumi",
+        "org": "774inc",
+        "suborg": "0 Ex-AniMare",
+        "photo": "https://yt3.ggpht.com/KaDu_P5Tna6PWz5P_yfAdFXRsdo69NULoE-pFY39fX9Jm0IgXb6zsBHfkbPG9nJh5TozQo9ur8A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
