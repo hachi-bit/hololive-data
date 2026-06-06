@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780752199,
+  "cached_at": 1780752261,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-06T10:02:38.000Z",
       "start_scheduled": "2026-06-06T10:00:00.000Z",
       "start_actual": "2026-06-06T10:02:38.000Z",
-      "live_viewers": 1919,
+      "live_viewers": 1874,
       "channel": {
         "id": "UCo6mwsozDGMW0UNGowBJGhg",
         "name": "昏昏アリア / Konkon Aria",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-06T11:00:14.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:00:14.000Z",
-      "live_viewers": 28036,
+      "live_viewers": 26499,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-06T11:00:59.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:00:59.000Z",
-      "live_viewers": 3513,
+      "live_viewers": 2814,
       "channel": {
         "id": "UCoztvTULBYd3WmStqYeoHcA",
         "name": "笹木咲 / Sasaki Saku",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-06T12:05:35.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:05:35.000Z",
-      "live_viewers": 10292,
+      "live_viewers": 10090,
       "channel": {
         "id": "UCgmFrRcyH7d1zR9sIVQhFow",
         "name": "ローレン・イロアス / Lauren Iroas【にじさんじ】",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-06T12:06:59.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:06:59.000Z",
-      "live_viewers": 351,
+      "live_viewers": 325,
       "channel": {
         "id": "UCsNIVzD4AJ2FPLi9rY7I05Q",
         "name": "Ryzar Blazenfang【FIRST STAGE PRODUCTION EN】",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-06T12:11:42.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:11:42.000Z",
-      "live_viewers": 424,
+      "live_viewers": 434,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -238,26 +238,6 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC3OH5FKQ3qtl4uRme_vZTgA": {
-      "video_id": "0Q1kqfuGUCQ",
-      "title": "【全員集合】これまでの道のりを振り返ろう!【 #UNIT_B 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-06T07:07:57.000Z",
-      "available_at": "2026-06-06T12:12:11.000Z",
-      "start_scheduled": "2026-06-06T12:10:00.000Z",
-      "start_actual": "2026-06-06T12:12:11.000Z",
-      "live_viewers": 1357,
-      "channel": {
-        "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
-        "name": "UNIT B (Pre-Debut) - mekPark",
-        "english_name": "UNIT B [Pre-Debut]",
-        "org": "Hololive",
-        "suborg": "v_mekPark",
-        "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCFTLzh12_nrtzqBPsTCqenA": {
@@ -310,7 +290,7 @@
       "available_at": "2026-06-06T12:29:49.000Z",
       "start_scheduled": "2026-06-06T12:30:00.000Z",
       "start_actual": "2026-06-06T12:29:49.000Z",
-      "live_viewers": 1400,
+      "live_viewers": 1323,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -370,7 +350,7 @@
       "available_at": "2026-06-06T12:30:29.000Z",
       "start_scheduled": "2026-06-06T12:30:00.000Z",
       "start_actual": "2026-06-06T12:30:29.000Z",
-      "live_viewers": 498,
+      "live_viewers": 486,
       "channel": {
         "id": "UCJjjeqEYMSzdsKt6vJ78WVw",
         "name": "Pan VTuber パン",
@@ -390,7 +370,7 @@
       "available_at": "2026-06-06T13:00:22.000Z",
       "start_scheduled": "2026-06-06T13:00:00.000Z",
       "start_actual": "2026-06-06T13:00:22.000Z",
-      "live_viewers": 26401,
+      "live_viewers": 27565,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -410,7 +390,7 @@
       "available_at": "2026-06-06T13:00:48.000Z",
       "start_scheduled": "2026-06-06T13:00:00.000Z",
       "start_actual": "2026-06-06T13:00:48.000Z",
-      "live_viewers": 12484,
+      "live_viewers": 13202,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -440,24 +420,24 @@
         "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCqm3BQLlJfvkTsX_hvm0UmA": {
-      "video_id": "NMbffFuFfhI",
-      "title": "灰色の証明/角巻わため【original】",
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "RPVQ0Oov9wE",
+      "title": "【 メンバーシップ限定 】久しぶりに色々お話しましょう❤【ホロライブ DEV_IS 響咲リオナ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "Original_Song",
-      "published_at": "2026-06-06T13:15:06.000Z",
-      "available_at": "2026-06-06T13:15:06.000Z",
-      "start_scheduled": "2026-06-06T13:15:00.000Z",
-      "start_actual": "2026-06-06T13:15:06.000Z",
+      "topic_id": "membersonly",
+      "published_at": "2026-06-06T11:34:35.000Z",
+      "available_at": "2026-06-06T13:20:51.000Z",
+      "start_scheduled": "2026-06-06T13:20:00.000Z",
+      "start_actual": "2026-06-06T13:20:51.000Z",
       "live_viewers": 0,
       "channel": {
-        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-        "name": "Watame Ch. 角巻わため",
-        "english_name": "Tsunomaki Watame",
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
         "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
