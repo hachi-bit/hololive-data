@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780707919,
+  "cached_at": 1780707979,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -20,26 +20,6 @@
         "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCuI_opAVX6qbxZY-a-AxFuQ": {
-      "video_id": "I1ktduXA5uw",
-      "title": "【朝活】ニコたんの朝活! #朝ガオ に決定しました!✨【虎金妃笑虎】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "morning",
-      "published_at": "2026-06-05T10:06:28.000Z",
-      "available_at": "2026-06-06T00:02:36.000Z",
-      "start_scheduled": "2026-06-06T00:00:00.000Z",
-      "start_actual": "2026-06-06T00:02:36.000Z",
-      "live_viewers": 5254,
-      "channel": {
-        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-        "english_name": "Koganei Niko",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCTVSOgYuSWmNAt-lnJPkEEw": {
       "video_id": "gd9XxOd7Gh4",
       "title": "【Subnautica 2】WE ARE THE SEA MEN w/ @BanzoinHakka ​",
@@ -50,7 +30,7 @@
       "available_at": "2026-06-06T00:12:58.000Z",
       "start_scheduled": "2026-06-06T00:00:00.000Z",
       "start_actual": "2026-06-06T00:12:58.000Z",
-      "live_viewers": 472,
+      "live_viewers": 469,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -70,7 +50,7 @@
       "available_at": "2026-06-06T00:13:07.000Z",
       "start_scheduled": "2026-06-06T00:00:00.000Z",
       "start_actual": "2026-06-06T00:13:07.000Z",
-      "live_viewers": 425,
+      "live_viewers": 431,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -107,9 +87,10 @@
       "status": "live",
       "topic_id": "Forza",
       "published_at": "2026-06-05T20:51:14.000Z",
-      "available_at": "2026-06-06T01:00:00.000Z",
+      "available_at": "2026-06-06T01:02:55.000Z",
       "start_scheduled": "2026-06-06T01:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-06T01:02:55.000Z",
+      "live_viewers": 2795,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
