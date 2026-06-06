@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780758259,
+  "cached_at": 1780758319,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-06T12:04:54.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:04:54.000Z",
-      "live_viewers": 892,
+      "live_viewers": 841,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -100,26 +100,6 @@
         "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCJjjeqEYMSzdsKt6vJ78WVw": {
-      "video_id": "BrUG9hmKjuA",
-      "title": "【GARTIC PHONE】 🥖 COOL ARTISTS IN THE LOBBY!!!!! 😲 #panlive",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Gartic_Phone",
-      "published_at": "2026-06-02T19:09:30.000Z",
-      "available_at": "2026-06-06T12:30:29.000Z",
-      "start_scheduled": "2026-06-06T12:30:00.000Z",
-      "start_actual": "2026-06-06T12:30:29.000Z",
-      "live_viewers": 387,
-      "channel": {
-        "id": "UCJjjeqEYMSzdsKt6vJ78WVw",
-        "name": "Pan VTuber パン",
-        "english_name": "Pan",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/Uj8fUIQZcvYO1Vg4o8QBxNV7cKKyYmpdcLYGFFRfoIcI38meZFHtUrsWcaS7jSkk876r8lcUoQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
       "video_id": "pK8mivQAkJw",
       "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#01 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
@@ -130,7 +110,7 @@
       "available_at": "2026-06-06T13:00:22.000Z",
       "start_scheduled": "2026-06-06T13:00:00.000Z",
       "start_actual": "2026-06-06T13:00:22.000Z",
-      "live_viewers": 29187,
+      "live_viewers": 30323,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -210,7 +190,7 @@
       "available_at": "2026-06-06T14:00:03.000Z",
       "start_scheduled": "2026-06-06T14:00:00.000Z",
       "start_actual": "2026-06-06T14:00:03.000Z",
-      "live_viewers": 1098,
+      "live_viewers": 1163,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
