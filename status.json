@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780754539,
+  "cached_at": 1780754599,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-06T10:02:38.000Z",
       "start_scheduled": "2026-06-06T10:00:00.000Z",
       "start_actual": "2026-06-06T10:02:38.000Z",
-      "live_viewers": 1644,
+      "live_viewers": 1627,
       "channel": {
         "id": "UCo6mwsozDGMW0UNGowBJGhg",
         "name": "昏昏アリア / Konkon Aria",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-06T12:04:54.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:04:54.000Z",
-      "live_viewers": 838,
+      "live_viewers": 846,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-06T12:05:35.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:05:35.000Z",
-      "live_viewers": 9149,
+      "live_viewers": 8999,
       "channel": {
         "id": "UCgmFrRcyH7d1zR9sIVQhFow",
         "name": "ローレン・イロアス / Lauren Iroas【にじさんじ】",
@@ -190,7 +190,7 @@
       "available_at": "2026-06-06T12:11:36.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:11:36.000Z",
-      "live_viewers": 2556,
+      "live_viewers": 2560,
       "channel": {
         "id": "UCz_9zqgFPUYQBhDiZBFc00w",
         "name": "Mikazuki Arion【EOS】",
@@ -350,7 +350,7 @@
       "available_at": "2026-06-06T13:00:22.000Z",
       "start_scheduled": "2026-06-06T13:00:00.000Z",
       "start_actual": "2026-06-06T13:00:22.000Z",
-      "live_viewers": 28577,
+      "live_viewers": 29049,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -430,7 +430,7 @@
       "available_at": "2026-06-06T13:30:37.000Z",
       "start_scheduled": "2026-06-06T13:30:00.000Z",
       "start_actual": "2026-06-06T13:30:37.000Z",
-      "live_viewers": 1973,
+      "live_viewers": 2021,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -438,6 +438,65 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZLZ8Jjx_RN2CXloOmgTHVg": {
+      "video_id": "MLj-56TjSns",
+      "title": "【Deadly Dice: Menherarium】LEMME FIX THIS GIRL WITH MY LUCK. GSH!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Menherarium",
+      "published_at": "2026-06-06T12:36:25.000Z",
+      "available_at": "2026-06-06T13:59:56.000Z",
+      "start_scheduled": "2026-06-06T14:00:00.000Z",
+      "start_actual": "2026-06-06T13:59:56.000Z",
+      "live_viewers": 385,
+      "channel": {
+        "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "name": "Kaela Kovalskia Ch. hololive-ID",
+        "english_name": "Kaela Kovalskia",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "DcvIc0WMpms",
+      "title": "【歌枠 / 誕生日がおわります】 さようなら、誕生日 / アステル",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Birthday",
+      "published_at": "2026-06-06T13:32:27.000Z",
+      "available_at": "2026-06-06T14:00:00.000Z",
+      "start_scheduled": "2026-06-06T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "MPUfVbO1FAE",
+      "title": "【FORZA HORIZON 6】Winter's Here!!! And let's sniff out more hidden cars【Pavolia Reine/hololiveID】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-06-06T13:23:25.000Z",
+      "available_at": "2026-06-06T14:00:03.000Z",
+      "start_scheduled": "2026-06-06T14:00:00.000Z",
+      "start_actual": "2026-06-06T14:00:03.000Z",
+      "live_viewers": 255,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
