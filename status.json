@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780751059,
+  "cached_at": 1780751119,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-06T10:02:38.000Z",
       "start_scheduled": "2026-06-06T10:00:00.000Z",
       "start_actual": "2026-06-06T10:02:38.000Z",
-      "live_viewers": 1986,
+      "live_viewers": 1985,
       "channel": {
         "id": "UCo6mwsozDGMW0UNGowBJGhg",
         "name": "昏昏アリア / Konkon Aria",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-06T11:00:14.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:00:14.000Z",
-      "live_viewers": 32661,
+      "live_viewers": 32092,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-06T11:00:59.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:00:59.000Z",
-      "live_viewers": 5543,
+      "live_viewers": 5593,
       "channel": {
         "id": "UCoztvTULBYd3WmStqYeoHcA",
         "name": "笹木咲 / Sasaki Saku",
@@ -210,7 +210,7 @@
       "available_at": "2026-06-06T12:06:59.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:06:59.000Z",
-      "live_viewers": 333,
+      "live_viewers": 310,
       "channel": {
         "id": "UCsNIVzD4AJ2FPLi9rY7I05Q",
         "name": "Ryzar Blazenfang【FIRST STAGE PRODUCTION EN】",
@@ -250,7 +250,7 @@
       "available_at": "2026-06-06T12:11:36.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:11:36.000Z",
-      "live_viewers": 3372,
+      "live_viewers": 3374,
       "channel": {
         "id": "UCz_9zqgFPUYQBhDiZBFc00w",
         "name": "Mikazuki Arion【EOS】",
@@ -290,7 +290,7 @@
       "available_at": "2026-06-06T12:12:11.000Z",
       "start_scheduled": "2026-06-06T12:10:00.000Z",
       "start_actual": "2026-06-06T12:12:11.000Z",
-      "live_viewers": 6655,
+      "live_viewers": 6502,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -330,7 +330,7 @@
       "available_at": "2026-06-06T12:29:11.000Z",
       "start_scheduled": "2026-06-06T12:30:00.000Z",
       "start_actual": "2026-06-06T12:29:11.000Z",
-      "live_viewers": 1143,
+      "live_viewers": 1096,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -370,7 +370,7 @@
       "available_at": "2026-06-06T12:29:52.000Z",
       "start_scheduled": "2026-06-06T12:30:00.000Z",
       "start_actual": "2026-06-06T12:29:52.000Z",
-      "live_viewers": 3719,
+      "live_viewers": 3722,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -390,7 +390,7 @@
       "available_at": "2026-06-06T12:30:26.000Z",
       "start_scheduled": "2026-06-06T12:30:00.000Z",
       "start_actual": "2026-06-06T12:30:26.000Z",
-      "live_viewers": 98,
+      "live_viewers": 102,
       "channel": {
         "id": "UCNz4hh9wLzfB-vf8JZmVwSQ",
         "name": "Marikyuun",
@@ -410,7 +410,7 @@
       "available_at": "2026-06-06T12:30:29.000Z",
       "start_scheduled": "2026-06-06T12:30:00.000Z",
       "start_actual": "2026-06-06T12:30:29.000Z",
-      "live_viewers": 531,
+      "live_viewers": 537,
       "channel": {
         "id": "UCJjjeqEYMSzdsKt6vJ78WVw",
         "name": "Pan VTuber パン",
@@ -418,44 +418,6 @@
         "org": "Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/Uj8fUIQZcvYO1Vg4o8QBxNV7cKKyYmpdcLYGFFRfoIcI38meZFHtUrsWcaS7jSkk876r8lcUoQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "KVMIQ_BVzKY",
-      "title": "【メン限】最後のメン限配信【花咲みやび/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-06T10:13:22.000Z",
-      "available_at": "2026-06-06T13:00:00.000Z",
-      "start_scheduled": "2026-06-06T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvaTdHTWBGv3MKj3KVqJVCw": {
-      "video_id": "pK8mivQAkJw",
-      "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#01 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Final_fantasy",
-      "published_at": "2026-06-05T20:07:32.000Z",
-      "available_at": "2026-06-06T13:00:00.000Z",
-      "start_scheduled": "2026-06-06T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-        "name": "Okayu Ch. 猫又おかゆ",
-        "english_name": "Nekomata Okayu",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9LSiN9hXI55svYEBrrK-tw": {
@@ -477,6 +439,26 @@
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCvaTdHTWBGv3MKj3KVqJVCw": {
+      "video_id": "pK8mivQAkJw",
+      "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#01 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Final_fantasy",
+      "published_at": "2026-06-05T20:07:32.000Z",
+      "available_at": "2026-06-06T13:00:22.000Z",
+      "start_scheduled": "2026-06-06T13:00:00.000Z",
+      "start_actual": "2026-06-06T13:00:22.000Z",
+      "live_viewers": 12181,
+      "channel": {
+        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+        "name": "Okayu Ch. 猫又おかゆ",
+        "english_name": "Nekomata Okayu",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCFKOVgVbGmX65RxO3EtH3iw": {
       "video_id": "bquezhdXu2E",
       "title": "【晩酌】雪夜月で晩酌、しちゃう…?♡【雪花ラミィ /ホロライブ】",
@@ -484,9 +466,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-06-06T04:34:08.000Z",
-      "available_at": "2026-06-06T13:00:00.000Z",
+      "available_at": "2026-06-06T13:00:48.000Z",
       "start_scheduled": "2026-06-06T13:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-06T13:00:48.000Z",
+      "live_viewers": 5546,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -494,6 +477,26 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6t3-_N8A6ME1JShZHHqOMw": {
+      "video_id": "KVMIQ_BVzKY",
+      "title": "【メン限】最後のメン限配信【花咲みやび/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-06-06T10:13:22.000Z",
+      "available_at": "2026-06-06T13:02:49.000Z",
+      "start_scheduled": "2026-06-06T13:00:00.000Z",
+      "start_actual": "2026-06-06T13:02:49.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "english_name": "Hanasaki Miyabi",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
