@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780717099,
+  "cached_at": 1780717159,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-06T00:12:58.000Z",
       "start_scheduled": "2026-06-06T00:00:00.000Z",
       "start_actual": "2026-06-06T00:12:58.000Z",
-      "live_viewers": 436,
+      "live_viewers": 429,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-06T01:02:55.000Z",
       "start_scheduled": "2026-06-06T01:00:00.000Z",
       "start_actual": "2026-06-06T01:02:55.000Z",
-      "live_viewers": 7774,
+      "live_viewers": 7636,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -120,46 +120,6 @@
         "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCPkKpOHxEDcwmUAnRpIu-Ng": {
-      "video_id": "O9YQQ46FxY4",
-      "title": "【スト6】常闇祭2本番!#ねこぱんちWIN 【ぶいすぽっ!/ 藍沢エマ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-05T16:08:39.000Z",
-      "available_at": "2026-06-06T02:30:47.000Z",
-      "start_scheduled": "2026-06-06T02:30:00.000Z",
-      "start_actual": "2026-06-06T02:30:47.000Z",
-      "live_viewers": 2930,
-      "channel": {
-        "id": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-        "name": "藍沢エマ / Aizawa Ema",
-        "english_name": "Aizawa Ema",
-        "org": "VSpo",
-        "suborg": "SSSolo",
-        "photo": "https://yt3.ggpht.com/5IXJSJa8Qok0rszVjkdgFUj_9yKqYt82haI-hxUroYMaBdsgcmDO7bUYle30GfTnMjg96Jk9zA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCez5D_dtExDJzQOAzg1k1RQ": {
-      "video_id": "APoqpU5H4pw",
-      "title": "【 #スト6 】勝つぞ!! #常闇祭2 !!w/すでたきさん.へしこさん【 #折咲もしゅ #REJECT】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-05T13:42:33.000Z",
-      "available_at": "2026-06-06T02:33:42.000Z",
-      "start_scheduled": "2026-06-06T02:30:00.000Z",
-      "start_actual": "2026-06-06T02:33:42.000Z",
-      "live_viewers": 163,
-      "channel": {
-        "id": "UCez5D_dtExDJzQOAzg1k1RQ",
-        "name": "折咲もしゅch-Moshu Orisaki-",
-        "english_name": "Orisaki Moshu",
-        "org": "REJECT",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/Go2Zwoy_FnXEEYwxhVaEvJ7yIii0bc5415GAS7tpWkX-MGVvbvYfp5a6svtSC4isPBvopLbnPA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCc88OV45ICgHbn3ZqLLb52w": {
       "video_id": "4lQ5jX5Osts",
       "title": "#常闇祭2|大会本番【ストリートファイター6】夜十神封魔 × 斜落せつな × 玉餅かずよ",
@@ -190,7 +150,7 @@
       "available_at": "2026-06-06T02:39:59.000Z",
       "start_scheduled": "2026-06-06T02:45:00.000Z",
       "start_actual": "2026-06-06T02:39:59.000Z",
-      "live_viewers": 570,
+      "live_viewers": 579,
       "channel": {
         "id": "UClhLb5qSZy0Gvn3c-HuaInQ",
         "name": "斜落せつな / Sharaku Setsuna",
@@ -210,7 +170,7 @@
       "available_at": "2026-06-06T02:42:11.000Z",
       "start_scheduled": "2026-06-06T03:00:00.000Z",
       "start_actual": "2026-06-06T02:42:11.000Z",
-      "live_viewers": 201,
+      "live_viewers": 212,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -230,7 +190,7 @@
       "available_at": "2026-06-06T02:45:15.000Z",
       "start_scheduled": "2026-06-06T03:00:00.000Z",
       "start_actual": "2026-06-06T02:45:15.000Z",
-      "live_viewers": 259,
+      "live_viewers": 341,
       "channel": {
         "id": "UCXUtikLthPFa5DDmgT3naGA",
         "name": "銀棘ぐみ / Gintoge Gumi",
@@ -260,66 +220,6 @@
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCpBFfy9QFTtQ3CGThag3-Ug": {
-      "video_id": "enXLgAqj9Fg",
-      "title": "【#常闇祭2 】常闇祭2本番【ストリートファイター6】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-06T02:23:34.000Z",
-      "available_at": "2026-06-06T02:48:56.000Z",
-      "start_scheduled": "2026-06-06T03:00:00.000Z",
-      "start_actual": "2026-06-06T02:48:56.000Z",
-      "live_viewers": 6,
-      "channel": {
-        "id": "UCpBFfy9QFTtQ3CGThag3-Ug",
-        "name": "紅酉いろり -Irodori Irori-",
-        "english_name": "Irodori Irori",
-        "org": "MAHA5",
-        "suborg": "35Actors to Live!",
-        "photo": "https://yt3.ggpht.com/fEDuv8I9gaDcg4XGwr4AJLCftqqkqBM97OsLEO9JJ3S1OZ6qWAHk5LCDFJsrh5bbdJMYswWX=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGy6-GQj6ALoCkjCLus7c0w": {
-      "video_id": "SeqF1-ZcIlc",
-      "title": "【#常闇祭2 】僕がMasterに勝てるわけないじゃん、でも何本かは取ってやろうと思ってるだけ【Vtuber】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-06T02:11:42.000Z",
-      "available_at": "2026-06-06T02:49:12.000Z",
-      "start_scheduled": "2026-06-06T02:45:00.000Z",
-      "start_actual": "2026-06-06T02:49:12.000Z",
-      "live_viewers": 14,
-      "channel": {
-        "id": "UCGy6-GQj6ALoCkjCLus7c0w",
-        "name": "姫宮りの / MAHA5JP",
-        "english_name": "Himemiya Rino",
-        "org": "MAHA5",
-        "suborg": "10JP",
-        "photo": "https://yt3.ggpht.com/Hbef_n2Dyj11sfwHfjmwOFYYHN3S0Cb0DCjsrTFpbABD1Cfb0Y6e0I4IjjL7SA4AuX1wwfsrkA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC8vKBjGY2HVfbW9GAmgikWw": {
-      "video_id": "6Jym_8g7ljg",
-      "title": "【スト6】常闇祭2!おんぶにだっこ!!/KEI.Bさん、かずのこさん【 ぶいすぽっ!甘結もか 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-05T10:03:29.000Z",
-      "available_at": "2026-06-06T02:49:18.000Z",
-      "start_scheduled": "2026-06-06T03:00:00.000Z",
-      "start_actual": "2026-06-06T02:49:18.000Z",
-      "live_viewers": 11923,
-      "channel": {
-        "id": "UC8vKBjGY2HVfbW9GAmgikWw",
-        "name": "甘結もか / Amayui Moka",
-        "english_name": "Amayui Moka",
-        "org": "VSpo",
-        "suborg": "0iChoumusubi",
-        "photo": "https://yt3.ggpht.com/e_Vc-qiRBWmj9PaysPGhh9b2bn5YDLs-FhmqDwZTiog6umosQzQEa7phbJwz4eaZsGwzfFze=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
       "video_id": "9Gth0CUkcug",
       "title": "【ストリートファイター6】#常闇祭2 いっくぞ~~~~!!!!【アルランディス/ホロスターズ】",
@@ -330,7 +230,7 @@
       "available_at": "2026-06-06T02:51:49.000Z",
       "start_scheduled": "2026-06-06T03:00:00.000Z",
       "start_actual": "2026-06-06T02:51:49.000Z",
-      "live_viewers": 983,
+      "live_viewers": 1045,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -338,26 +238,6 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC7WY5VP-P-rSb2ES5npk8yA": {
-      "video_id": "ksvxJrQ1Wx0",
-      "title": "【スト6】#常闇祭2 に参戦! チーム\"ワンボタン三人衆\"で乗り込むのじゃ~!!【千羽黒乃】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-05T16:44:08.000Z",
-      "available_at": "2026-06-06T02:55:55.000Z",
-      "start_scheduled": "2026-06-06T03:00:00.000Z",
-      "start_actual": "2026-06-06T02:55:55.000Z",
-      "live_viewers": 523,
-      "channel": {
-        "id": "UC7WY5VP-P-rSb2ES5npk8yA",
-        "name": "千羽 黒乃:Senba Channel",
-        "english_name": "Senba Kurono",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kKgXX1_C3ff15DbzGZOh5ylpx_tUoPEQt52sfVrZKhAQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCotXwY6s8pWmuWd_snKYjhg": {
@@ -390,7 +270,7 @@
       "available_at": "2026-06-06T03:02:12.000Z",
       "start_scheduled": "2026-06-06T03:00:00.000Z",
       "start_actual": "2026-06-06T03:02:12.000Z",
-      "live_viewers": 307,
+      "live_viewers": 329,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
