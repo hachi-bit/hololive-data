@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780765519,
+  "cached_at": 1780765579,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "qn3_NVAPgaU",
@@ -8,9 +8,10 @@
       "status": "live",
       "topic_id": "Subnautica",
       "published_at": "2026-06-06T06:54:18.000Z",
-      "available_at": "2026-06-06T17:00:00.000Z",
+      "available_at": "2026-06-06T17:02:30.000Z",
       "start_scheduled": "2026-06-06T17:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-06T17:02:30.000Z",
+      "live_viewers": 159,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -50,7 +51,7 @@
       "available_at": "2026-06-06T14:00:03.000Z",
       "start_scheduled": "2026-06-06T14:00:00.000Z",
       "start_actual": "2026-06-06T14:00:03.000Z",
-      "live_viewers": 2033,
+      "live_viewers": 2034,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
