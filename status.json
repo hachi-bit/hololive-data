@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780726519,
+  "cached_at": 1780726579,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -38,26 +38,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCc88OV45ICgHbn3ZqLLb52w": {
-      "video_id": "4lQ5jX5Osts",
-      "title": "#常闇祭2|大会本番【ストリートファイター6】夜十神封魔 × 斜落せつな × 玉餅かずよ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-05T15:54:04.000Z",
-      "available_at": "2026-06-06T02:34:49.000Z",
-      "start_scheduled": "2026-06-06T03:00:00.000Z",
-      "start_actual": "2026-06-06T02:34:49.000Z",
-      "live_viewers": 223,
-      "channel": {
-        "id": "UCc88OV45ICgHbn3ZqLLb52w",
-        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-        "english_name": "Yatogami Fuma",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/wHtqHQ5LdCv_PnI-EeHUoedJgOe-fQcv9Fhkb7cod7oTo-f3rKJBJA0xSsVS4BhO9HnShdrnBA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UClhLb5qSZy0Gvn3c-HuaInQ": {
@@ -110,7 +90,7 @@
       "available_at": "2026-06-06T02:45:26.000Z",
       "start_scheduled": "2026-06-06T02:45:00.000Z",
       "start_actual": "2026-06-06T02:45:26.000Z",
-      "live_viewers": 18570,
+      "live_viewers": 18222,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -190,7 +170,7 @@
       "available_at": "2026-06-06T06:00:28.000Z",
       "start_scheduled": "2026-06-06T06:00:00.000Z",
       "start_actual": "2026-06-06T06:00:28.000Z",
-      "live_viewers": 2134,
+      "live_viewers": 2183,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -210,7 +190,7 @@
       "available_at": "2026-06-06T06:00:49.000Z",
       "start_scheduled": "2026-06-06T06:00:00.000Z",
       "start_actual": "2026-06-06T06:00:49.000Z",
-      "live_viewers": 6745,
+      "live_viewers": 7227,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -230,7 +210,7 @@
       "available_at": "2026-06-06T06:01:00.000Z",
       "start_scheduled": "2026-06-06T06:00:00.000Z",
       "start_actual": "2026-06-06T06:01:00.000Z",
-      "live_viewers": 2306,
+      "live_viewers": 2398,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
