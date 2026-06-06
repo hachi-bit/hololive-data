@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780753939,
+  "cached_at": 1780753999,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-06T10:02:38.000Z",
       "start_scheduled": "2026-06-06T10:00:00.000Z",
       "start_actual": "2026-06-06T10:02:38.000Z",
-      "live_viewers": 1696,
+      "live_viewers": 1640,
       "channel": {
         "id": "UCo6mwsozDGMW0UNGowBJGhg",
         "name": "昏昏アリア / Konkon Aria",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-06T11:00:14.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:00:14.000Z",
-      "live_viewers": 29180,
+      "live_viewers": 29083,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-06T11:01:34.000Z",
       "start_scheduled": "2026-06-06T11:00:00.000Z",
       "start_actual": "2026-06-06T11:01:34.000Z",
-      "live_viewers": 1603,
+      "live_viewers": 1676,
       "channel": {
         "id": "UCL9hJsdk9eQa0IlWbFB2oRg",
         "name": "蝶屋はなび / Choya Hanabi",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-06T12:04:54.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:04:54.000Z",
-      "live_viewers": 846,
+      "live_viewers": 873,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-06T12:05:35.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:05:35.000Z",
-      "live_viewers": 9254,
+      "live_viewers": 9206,
       "channel": {
         "id": "UCgmFrRcyH7d1zR9sIVQhFow",
         "name": "ローレン・イロアス / Lauren Iroas【にじさんじ】",
@@ -190,7 +190,7 @@
       "available_at": "2026-06-06T12:11:36.000Z",
       "start_scheduled": "2026-06-06T12:00:00.000Z",
       "start_actual": "2026-06-06T12:11:36.000Z",
-      "live_viewers": 2695,
+      "live_viewers": 2556,
       "channel": {
         "id": "UCz_9zqgFPUYQBhDiZBFc00w",
         "name": "Mikazuki Arion【EOS】",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-06T12:15:33.000Z",
       "start_scheduled": "2026-06-06T12:15:00.000Z",
       "start_actual": "2026-06-06T12:15:33.000Z",
-      "live_viewers": 4453,
+      "live_viewers": 4527,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -250,7 +250,7 @@
       "available_at": "2026-06-06T12:29:11.000Z",
       "start_scheduled": "2026-06-06T12:30:00.000Z",
       "start_actual": "2026-06-06T12:29:11.000Z",
-      "live_viewers": 1224,
+      "live_viewers": 1169,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -270,7 +270,7 @@
       "available_at": "2026-06-06T12:29:49.000Z",
       "start_scheduled": "2026-06-06T12:30:00.000Z",
       "start_actual": "2026-06-06T12:29:49.000Z",
-      "live_viewers": 1598,
+      "live_viewers": 1447,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -350,7 +350,7 @@
       "available_at": "2026-06-06T13:00:22.000Z",
       "start_scheduled": "2026-06-06T13:00:00.000Z",
       "start_actual": "2026-06-06T13:00:22.000Z",
-      "live_viewers": 29560,
+      "live_viewers": 28656,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -370,7 +370,7 @@
       "available_at": "2026-06-06T13:00:48.000Z",
       "start_scheduled": "2026-06-06T13:00:00.000Z",
       "start_actual": "2026-06-06T13:00:48.000Z",
-      "live_viewers": 16100,
+      "live_viewers": 16309,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -430,7 +430,7 @@
       "available_at": "2026-06-06T13:30:37.000Z",
       "start_scheduled": "2026-06-06T13:30:00.000Z",
       "start_actual": "2026-06-06T13:30:37.000Z",
-      "live_viewers": 1759,
+      "live_viewers": 1877,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
