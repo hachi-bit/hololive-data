@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780710019,
+  "cached_at": 1780710079,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "JFuQiEFZ8cw",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-06T00:12:58.000Z",
       "start_scheduled": "2026-06-06T00:00:00.000Z",
       "start_actual": "2026-06-06T00:12:58.000Z",
-      "live_viewers": 499,
+      "live_viewers": 501,
       "channel": {
         "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
         "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-06T01:02:55.000Z",
       "start_scheduled": "2026-06-06T01:00:00.000Z",
       "start_actual": "2026-06-06T01:02:55.000Z",
-      "live_viewers": 7634,
+      "live_viewers": 7600,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -107,8 +107,9 @@
       "status": "live",
       "topic_id": "membersonly",
       "published_at": "2026-06-05T07:04:54.000Z",
-      "available_at": "2026-06-06T01:30:00.000Z",
+      "available_at": "2026-06-06T01:32:15.000Z",
       "start_scheduled": "2026-06-06T01:30:00.000Z",
+      "start_actual": "2026-06-06T01:32:15.000Z",
       "live_viewers": 0,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
