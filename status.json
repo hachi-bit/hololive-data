@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780833079,
+  "cached_at": 1780833139,
   "lives": {
     "UC6t3-_N8A6ME1JShZHHqOMw": {
       "video_id": "5k6Op8OOoO0",
@@ -41,6 +41,26 @@
         "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
+      "video_id": "fozUtn9kJbU",
+      "title": "【マリオカート8DX】#ホロスタ無敵マリカ オウガ参戦【荒咬オウガ /ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_Kart",
+      "published_at": "2026-06-07T05:55:23.000Z",
+      "available_at": "2026-06-07T10:00:13.000Z",
+      "start_scheduled": "2026-06-07T10:00:00.000Z",
+      "start_actual": "2026-06-07T10:00:13.000Z",
+      "live_viewers": 398,
+      "channel": {
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "name": "Oga Ch.荒咬オウガ",
+        "english_name": "Aragami Oga",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCGNI4MENvnsymYjKiZwv9eg": {
       "video_id": "2OJjvdWfSYE",
       "title": "【#ホロスタ無敵マリカ】ホロスタ最速の男 ラストラン 岸堂天真視点【マリオカート8dx】",
@@ -51,7 +71,7 @@
       "available_at": "2026-06-07T10:00:13.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 788,
+      "live_viewers": 801,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -71,7 +91,7 @@
       "available_at": "2026-06-07T10:00:13.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 27617,
+      "live_viewers": 27692,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -79,26 +99,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "fozUtn9kJbU",
-      "title": "【マリオカート8DX】#ホロスタ無敵マリカ オウガ参戦【荒咬オウガ /ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mario_Kart",
-      "published_at": "2026-06-07T05:55:23.000Z",
-      "available_at": "2026-06-07T10:00:13.000Z",
-      "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 398,
-      "channel": {
-        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "name": "Oga Ch.荒咬オウガ",
-        "english_name": "Aragami Oga",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
@@ -222,16 +222,16 @@
       }
     },
     "UC1iA6_NT4mtAcIII6ygrvCw": {
-      "video_id": "Zcx1344XAmI",
-      "title": "【3DLIVE】Rise In Motion【轟はじめ】 #轟はじめ生誕祭2026",
+      "video_id": "oJj9VybmzaE",
+      "title": "【Original】DeepDive/轟はじめ【Official MV】",
       "type": "stream",
       "status": "live",
-      "topic_id": "Birthday",
-      "published_at": "2026-06-02T13:07:13.000Z",
-      "available_at": "2026-06-07T10:53:17.000Z",
-      "start_scheduled": "2026-06-07T11:00:00.000Z",
-      "start_actual": "2026-06-07T10:53:17.000Z",
-      "live_viewers": 91412,
+      "topic_id": "Original_Song",
+      "published_at": "2026-06-07T11:50:06.000Z",
+      "available_at": "2026-06-07T11:50:06.000Z",
+      "start_scheduled": "2026-06-07T11:50:00.000Z",
+      "start_actual": "2026-06-07T11:50:06.000Z",
+      "live_viewers": 0,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-07T11:00:19.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:00:19.000Z",
-      "live_viewers": 21226,
+      "live_viewers": 21442,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -311,7 +311,7 @@
       "available_at": "2026-06-07T11:14:21.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:14:21.000Z",
-      "live_viewers": 3592,
+      "live_viewers": 3619,
       "channel": {
         "id": "UCHVXbQzkl3rDfsXWo8xi2qw",
         "name": "アンジュ・カトリーナ - Ange Katrina -",
@@ -331,7 +331,7 @@
       "available_at": "2026-06-07T11:14:23.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:14:23.000Z",
-      "live_viewers": 662,
+      "live_viewers": 658,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -351,7 +351,7 @@
       "available_at": "2026-06-07T11:31:54.000Z",
       "start_scheduled": "2026-06-07T11:30:00.000Z",
       "start_actual": "2026-06-07T11:31:54.000Z",
-      "live_viewers": 543,
+      "live_viewers": 586,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
