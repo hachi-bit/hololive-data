@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780822819,
+  "cached_at": 1780822880,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "BQt641OEweY",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T03:07:26.000Z",
       "start_scheduled": "2026-06-07T03:00:00.000Z",
       "start_actual": "2026-06-07T03:07:26.000Z",
-      "live_viewers": 7080,
+      "live_viewers": 7145,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-07T04:03:57.000Z",
       "start_scheduled": "2026-06-07T04:00:00.000Z",
       "start_actual": "2026-06-07T04:03:57.000Z",
-      "live_viewers": 24493,
+      "live_viewers": 22429,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-07T06:00:58.000Z",
       "start_scheduled": "2026-06-07T06:00:00.000Z",
       "start_actual": "2026-06-07T06:00:58.000Z",
-      "live_viewers": 7800,
+      "live_viewers": 7830,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
-      "video_id": "93C9OK0fW80",
-      "title": "【ウマ娘プリティーダービー】完全初見#17 新人トレーナ✨️メイン編【水宮枢/ホロライブDEV_IS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "umamusume",
-      "published_at": "2026-06-06T20:24:30.000Z",
-      "available_at": "2026-06-07T06:21:28.000Z",
-      "start_scheduled": "2026-06-07T05:30:00.000Z",
-      "start_actual": "2026-06-07T06:21:28.000Z",
-      "live_viewers": 2547,
-      "channel": {
-        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-        "name": "Su Ch. 水宮枢 - FLOW GLOW",
-        "english_name": "Mizumiya Su",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCRm6lqtdxs_Qo6HeL-SRQ-w": {
@@ -151,7 +131,7 @@
       "available_at": "2026-06-07T07:01:36.000Z",
       "start_scheduled": "2026-06-07T07:00:00.000Z",
       "start_actual": "2026-06-07T07:01:36.000Z",
-      "live_viewers": 3545,
+      "live_viewers": 3566,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -231,7 +211,7 @@
       "available_at": "2026-06-07T08:33:39.000Z",
       "start_scheduled": "2026-06-07T08:30:00.000Z",
       "start_actual": "2026-06-07T08:33:39.000Z",
-      "live_viewers": 4731,
+      "live_viewers": 4924,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
