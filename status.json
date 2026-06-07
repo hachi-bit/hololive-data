@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780816039,
+  "cached_at": 1780816099,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "BQt641OEweY",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-07T04:03:57.000Z",
       "start_scheduled": "2026-06-07T04:00:00.000Z",
       "start_actual": "2026-06-07T04:03:57.000Z",
-      "live_viewers": 24376,
+      "live_viewers": 24974,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-07T04:58:37.000Z",
       "start_scheduled": "2026-06-07T05:00:00.000Z",
       "start_actual": "2026-06-07T04:58:37.000Z",
-      "live_viewers": 5444,
+      "live_viewers": 5277,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-07T05:29:30.000Z",
       "start_scheduled": "2026-06-07T05:30:00.000Z",
       "start_actual": "2026-06-07T05:29:30.000Z",
-      "live_viewers": 13180,
+      "live_viewers": 7736,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-07T06:00:58.000Z",
       "start_scheduled": "2026-06-07T06:00:00.000Z",
       "start_actual": "2026-06-07T06:00:58.000Z",
-      "live_viewers": 7903,
+      "live_viewers": 8091,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-07T06:21:28.000Z",
       "start_scheduled": "2026-06-07T05:30:00.000Z",
       "start_actual": "2026-06-07T06:21:28.000Z",
-      "live_viewers": 3996,
+      "live_viewers": 4144,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -159,44 +159,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9EjSJ8pvxtvPdxLOElv73w": {
-      "video_id": "ooxM5tUksAQ",
-      "title": "〖スプラトゥーン３〗りりむはお姉ちゃんだぞ！！！〖にじさんじ￤魔界ノりりむ〗",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Splatoon",
-      "published_at": "2026-06-07T04:58:47.000Z",
-      "available_at": "2026-06-07T07:00:00.000Z",
-      "start_scheduled": "2026-06-07T07:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC9EjSJ8pvxtvPdxLOElv73w",
-        "name": "魔界ノりりむ",
-        "english_name": "Makaino Ririmu",
-        "org": "Nijisanji",
-        "suborg": "06Ex-Gamers",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_m2c36OHhLH-aa5JcDxz2Sp34CvFAMl4i_nLTR1sQYXUYU=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp6993wxpyDPHUpavwDFqgg": {
-      "video_id": "SL0Nj1Dp8Ig",
-      "title": "【 雑談。たまにオリ曲歌枠 】最近は防災グッズと夏対策にはまってます【ホロライブ/ときのそら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-07T06:34:47.000Z",
-      "available_at": "2026-06-07T07:00:00.000Z",
-      "start_scheduled": "2026-06-07T07:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCp6993wxpyDPHUpavwDFqgg",
-        "name": "SoraCh. ときのそらチャンネル",
-        "english_name": "Tokino Sora",
-        "org": "Hololive",
-        "suborg": "0v0th Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCRm6lqtdxs_Qo6HeL-SRQ-w": {
@@ -209,7 +171,7 @@
       "available_at": "2026-06-07T07:00:21.000Z",
       "start_scheduled": "2026-06-07T07:00:00.000Z",
       "start_actual": "2026-06-07T07:00:21.000Z",
-      "live_viewers": 226,
+      "live_viewers": 331,
       "channel": {
         "id": "UCRm6lqtdxs_Qo6HeL-SRQ-w",
         "name": "レイン・パターソン／Lain Paterson【にじさんじ】",
@@ -229,7 +191,7 @@
       "available_at": "2026-06-07T07:00:28.000Z",
       "start_scheduled": "2026-06-07T07:00:00.000Z",
       "start_actual": "2026-06-07T07:00:28.000Z",
-      "live_viewers": 719,
+      "live_viewers": 1158,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -249,7 +211,7 @@
       "available_at": "2026-06-07T07:01:36.000Z",
       "start_scheduled": "2026-06-07T07:00:00.000Z",
       "start_actual": "2026-06-07T07:01:36.000Z",
-      "live_viewers": 453,
+      "live_viewers": 1363,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -257,6 +219,46 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9EjSJ8pvxtvPdxLOElv73w": {
+      "video_id": "ooxM5tUksAQ",
+      "title": "〖スプラトゥーン3〗りりむはお姉ちゃんだぞ!!!〖にじさんじ￤魔界ノりりむ〗",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Splatoon",
+      "published_at": "2026-06-07T04:58:47.000Z",
+      "available_at": "2026-06-07T07:02:01.000Z",
+      "start_scheduled": "2026-06-07T07:00:00.000Z",
+      "start_actual": "2026-06-07T07:02:01.000Z",
+      "live_viewers": 1367,
+      "channel": {
+        "id": "UC9EjSJ8pvxtvPdxLOElv73w",
+        "name": "魔界ノりりむ",
+        "english_name": "Makaino Ririmu",
+        "org": "Nijisanji",
+        "suborg": "06Ex-Gamers",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_m2c36OHhLH-aa5JcDxz2Sp34CvFAMl4i_nLTR1sQYXUYU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp6993wxpyDPHUpavwDFqgg": {
+      "video_id": "SL0Nj1Dp8Ig",
+      "title": "【 雑談。たまにオリ曲歌枠 】最近は防災グッズと夏対策にはまってます【ホロライブ/ときのそら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-06-07T06:34:47.000Z",
+      "available_at": "2026-06-07T07:02:24.000Z",
+      "start_scheduled": "2026-06-07T07:00:00.000Z",
+      "start_actual": "2026-06-07T07:02:24.000Z",
+      "live_viewers": 1226,
+      "channel": {
+        "id": "UCp6993wxpyDPHUpavwDFqgg",
+        "name": "SoraCh. ときのそらチャンネル",
+        "english_name": "Tokino Sora",
+        "org": "Hololive",
+        "suborg": "0v0th Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
