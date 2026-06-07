@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780858759,
+  "cached_at": 1780858819,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "Mr4c8mQuBdM",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-07T12:00:02.000Z",
       "start_scheduled": "2026-06-07T12:00:00.000Z",
       "start_actual": "2026-06-07T12:00:02.000Z",
-      "live_viewers": 5690,
+      "live_viewers": 5666,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T15:03:58.000Z",
       "start_scheduled": "2026-06-07T15:00:00.000Z",
       "start_actual": "2026-06-07T15:03:58.000Z",
-      "live_viewers": 1305,
+      "live_viewers": 1347,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-07T15:08:16.000Z",
       "start_scheduled": "2026-06-07T15:00:00.000Z",
       "start_actual": "2026-06-07T15:08:16.000Z",
-      "live_viewers": 166,
+      "live_viewers": 157,
       "channel": {
         "id": "UCez5D_dtExDJzQOAzg1k1RQ",
         "name": "折咲もしゅch-Moshu Orisaki-",
@@ -99,6 +99,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9p_lqQ0FEDz327Vgf5JwqA": {
+      "video_id": "-ai5EVWE1YY",
+      "title": "【PC GAMING SHOW】MORE GAMES, MORE!! WITH @MoriCalliope  【Official Co-Stream】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-06-07T11:55:20.000Z",
+      "available_at": "2026-06-07T18:55:43.000Z",
+      "start_scheduled": "2026-06-07T19:00:00.000Z",
+      "start_actual": "2026-06-07T18:55:43.000Z",
+      "live_viewers": 5052,
+      "channel": {
+        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+        "name": "Koseki Bijou Ch. hololive-EN",
+        "english_name": "Koseki Bijou",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
