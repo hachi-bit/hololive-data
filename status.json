@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780842679,
+  "cached_at": 1780842739,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "jb2K72IEubI",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T11:00:19.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:00:19.000Z",
-      "live_viewers": 21252,
+      "live_viewers": 21204,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-07T11:14:21.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:14:21.000Z",
-      "live_viewers": 3478,
+      "live_viewers": 437,
       "channel": {
         "id": "UCHVXbQzkl3rDfsXWo8xi2qw",
         "name": "アンジュ・カトリーナ - Ange Katrina -",
@@ -59,26 +59,6 @@
         "org": "Nijisanji",
         "suborg": "0iSanbaka",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_liDbr1ofzknDCW8S3ChEFTci-PGATj8zCJ1pRWlomUCWo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC7-N7MvN5muVIHqyQx9LFbA": {
-      "video_id": "gKj8RzQUoaY",
-      "title": "【REPO】あばよダチ公【歌衣メイカ/アルランディス/アンジュ/ベルモンド・バンデラス 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-06-07T10:56:19.000Z",
-      "available_at": "2026-06-07T11:14:23.000Z",
-      "start_scheduled": "2026-06-07T11:00:00.000Z",
-      "start_actual": "2026-06-07T11:14:23.000Z",
-      "live_viewers": 580,
-      "channel": {
-        "id": "UC7-N7MvN5muVIHqyQx9LFbA",
-        "name": "メイカちゃんねる",
-        "english_name": "Utai Meika",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mq4PLSnpYy83ZUfXHKZVIVXsU8VnFE5xpzLcVXrmImnAg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
@@ -91,7 +71,7 @@
       "available_at": "2026-06-07T12:00:02.000Z",
       "start_scheduled": "2026-06-07T12:00:00.000Z",
       "start_actual": "2026-06-07T12:00:02.000Z",
-      "live_viewers": 7453,
+      "live_viewers": 7166,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -131,7 +111,7 @@
       "available_at": "2026-06-07T12:00:27.000Z",
       "start_scheduled": "2026-06-07T12:00:00.000Z",
       "start_actual": "2026-06-07T12:00:27.000Z",
-      "live_viewers": 19860,
+      "live_viewers": 19958,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -191,7 +171,7 @@
       "available_at": "2026-06-07T13:00:37.000Z",
       "start_scheduled": "2026-06-07T13:00:00.000Z",
       "start_actual": "2026-06-07T13:00:37.000Z",
-      "live_viewers": 935,
+      "live_viewers": 954,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -351,7 +331,7 @@
       "available_at": "2026-06-07T14:01:19.000Z",
       "start_scheduled": "2026-06-07T14:00:00.000Z",
       "start_actual": "2026-06-07T14:01:19.000Z",
-      "live_viewers": 5939,
+      "live_viewers": 5930,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
