@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780833199,
+  "cached_at": 1780833260,
   "lives": {
     "UC6t3-_N8A6ME1JShZHHqOMw": {
       "video_id": "5k6Op8OOoO0",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-07T09:59:50.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T09:59:50.000Z",
-      "live_viewers": 918,
+      "live_viewers": 927,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "fozUtn9kJbU",
-      "title": "【マリオカート8DX】#ホロスタ無敵マリカ オウガ参戦【荒咬オウガ /ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mario_Kart",
-      "published_at": "2026-06-07T05:55:23.000Z",
-      "available_at": "2026-06-07T10:00:13.000Z",
-      "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 398,
-      "channel": {
-        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "name": "Oga Ch.荒咬オウガ",
-        "english_name": "Aragami Oga",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCGNI4MENvnsymYjKiZwv9eg": {
@@ -91,7 +71,7 @@
       "available_at": "2026-06-07T10:00:13.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 27692,
+      "live_viewers": 28092,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -99,6 +79,26 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
+      "video_id": "fozUtn9kJbU",
+      "title": "【マリオカート8DX】#ホロスタ無敵マリカ オウガ参戦【荒咬オウガ /ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_Kart",
+      "published_at": "2026-06-07T05:55:23.000Z",
+      "available_at": "2026-06-07T10:00:13.000Z",
+      "start_scheduled": "2026-06-07T10:00:00.000Z",
+      "start_actual": "2026-06-07T10:00:13.000Z",
+      "live_viewers": 398,
+      "channel": {
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "name": "Oga Ch.荒咬オウガ",
+        "english_name": "Aragami Oga",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
@@ -211,7 +211,7 @@
       "available_at": "2026-06-07T10:01:37.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:01:37.000Z",
-      "live_viewers": 203,
+      "live_viewers": 227,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -271,7 +271,7 @@
       "available_at": "2026-06-07T11:06:32.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:06:32.000Z",
-      "live_viewers": 1466,
+      "live_viewers": 1600,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -291,7 +291,7 @@
       "available_at": "2026-06-07T11:08:07.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:08:07.000Z",
-      "live_viewers": 512,
+      "live_viewers": 494,
       "channel": {
         "id": "UCbc8fwhdUNlqi-J99ISYu4A",
         "name": "ベルモンド・バンデラス",
@@ -351,7 +351,7 @@
       "available_at": "2026-06-07T11:31:54.000Z",
       "start_scheduled": "2026-06-07T11:30:00.000Z",
       "start_actual": "2026-06-07T11:31:54.000Z",
-      "live_viewers": 586,
+      "live_viewers": 585,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
