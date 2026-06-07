@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780837519,
+  "cached_at": 1780837579,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "jb2K72IEubI",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-07T10:00:13.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 29062,
+      "live_viewers": 29468,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T11:00:19.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:00:19.000Z",
-      "live_viewers": 25164,
+      "live_viewers": 25511,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-07T11:06:32.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:06:32.000Z",
-      "live_viewers": 1731,
+      "live_viewers": 1790,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-07T11:14:23.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:14:23.000Z",
-      "live_viewers": 623,
+      "live_viewers": 641,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-07T11:31:54.000Z",
       "start_scheduled": "2026-06-07T11:30:00.000Z",
       "start_actual": "2026-06-07T11:31:54.000Z",
-      "live_viewers": 873,
+      "live_viewers": 892,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-07T12:00:02.000Z",
       "start_scheduled": "2026-06-07T12:00:00.000Z",
       "start_actual": "2026-06-07T12:00:02.000Z",
-      "live_viewers": 9422,
+      "live_viewers": 9405,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-07T12:00:27.000Z",
       "start_scheduled": "2026-06-07T12:00:00.000Z",
       "start_actual": "2026-06-07T12:00:27.000Z",
-      "live_viewers": 23635,
+      "live_viewers": 23531,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-07T12:30:17.000Z",
       "start_scheduled": "2026-06-07T12:30:00.000Z",
       "start_actual": "2026-06-07T12:30:17.000Z",
-      "live_viewers": 2098,
+      "live_viewers": 2246,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -259,64 +259,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCAoy6rzhSf4ydcYjJw3WoVg": {
-      "video_id": "zM404ZQF9bw",
-      "title": "【Subnautica 2】Feesh!【 iofi / hololiveID 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Subnautica",
-      "published_at": "2026-06-07T08:32:24.000Z",
-      "available_at": "2026-06-07T12:59:35.000Z",
-      "start_scheduled": "2026-06-07T13:00:00.000Z",
-      "start_actual": "2026-06-07T12:59:35.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-        "name": "Airani Iofifteen Channel hololive-ID",
-        "english_name": "Airani Iofifteen",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCYz_5n-uDuChHtLo7My1HnQ": {
-      "video_id": "CYRIvch8nlA",
-      "title": "【ZOMILY - FREETALK】 IF YOU DON'T COME YOU HATE ME 【Kureiji Ollie】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-06T06:38:05.000Z",
-      "available_at": "2026-06-07T13:00:00.000Z",
-      "start_scheduled": "2026-06-07T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
-        "name": "Kureiji Ollie Ch. hololive-ID",
-        "english_name": "Kureiji Ollie",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCL_qhgtOy0dy1Agp8vkySQg": {
-      "video_id": "_oD9pYwd2Os",
-      "title": "【UNARCHIVED JAZZ KARAOKE】Singing Jazz Classics back in my bar! #calliolive",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-06-07T00:55:13.000Z",
-      "available_at": "2026-06-07T13:00:00.000Z",
-      "start_scheduled": "2026-06-07T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-        "name": "Mori Calliope Ch. hololive-EN",
-        "english_name": "Mori Calliope",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9LSiN9hXI55svYEBrrK-tw": {
@@ -338,6 +280,25 @@
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCYz_5n-uDuChHtLo7My1HnQ": {
+      "video_id": "CYRIvch8nlA",
+      "title": "【ZOMILY - FREETALK】 IF YOU DON'T COME YOU HATE ME 【Kureiji Ollie】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-06-06T06:38:05.000Z",
+      "available_at": "2026-06-07T13:00:00.000Z",
+      "start_scheduled": "2026-06-07T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+        "name": "Kureiji Ollie Ch. hololive-ID",
+        "english_name": "Kureiji Ollie",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCvInZx9h3jC2JzsIzoOebWg": {
       "video_id": "Khz_C3BFbWU",
       "title": "#01 【バイオハザード レクイエム】久しぶりのバイオやばいお!【不知火フレア/ホロライブ】ネタバレ注意",
@@ -348,7 +309,7 @@
       "available_at": "2026-06-07T13:00:27.000Z",
       "start_scheduled": "2026-06-07T13:00:00.000Z",
       "start_actual": "2026-06-07T13:00:27.000Z",
-      "live_viewers": 1125,
+      "live_viewers": 2933,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -368,7 +329,7 @@
       "available_at": "2026-06-07T13:00:37.000Z",
       "start_scheduled": "2026-06-07T13:00:00.000Z",
       "start_actual": "2026-06-07T13:00:37.000Z",
-      "live_viewers": 147,
+      "live_viewers": 441,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -376,6 +337,46 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCL_qhgtOy0dy1Agp8vkySQg": {
+      "video_id": "_oD9pYwd2Os",
+      "title": "【UNARCHIVED JAZZ KARAOKE】Singing Jazz Classics back in my bar! #calliolive",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-06-07T00:55:13.000Z",
+      "available_at": "2026-06-07T13:01:02.000Z",
+      "start_scheduled": "2026-06-07T13:00:00.000Z",
+      "start_actual": "2026-06-07T13:01:02.000Z",
+      "live_viewers": 3110,
+      "channel": {
+        "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+        "name": "Mori Calliope Ch. hololive-EN",
+        "english_name": "Mori Calliope",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAoy6rzhSf4ydcYjJw3WoVg": {
+      "video_id": "zM404ZQF9bw",
+      "title": "【Subnautica 2】Feesh!【 iofi / hololiveID 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Subnautica",
+      "published_at": "2026-06-07T08:32:24.000Z",
+      "available_at": "2026-06-07T13:01:03.000Z",
+      "start_scheduled": "2026-06-07T13:00:00.000Z",
+      "start_actual": "2026-06-07T13:01:03.000Z",
+      "live_viewers": 213,
+      "channel": {
+        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+        "name": "Airani Iofifteen Channel hololive-ID",
+        "english_name": "Airani Iofifteen",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCGNI4MENvnsymYjKiZwv9eg": {
