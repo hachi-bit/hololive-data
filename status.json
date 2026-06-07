@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780837039,
+  "cached_at": 1780837099,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "jb2K72IEubI",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T11:00:19.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:00:19.000Z",
-      "live_viewers": 24570,
+      "live_viewers": 25044,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-07T11:06:32.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:06:32.000Z",
-      "live_viewers": 1736,
+      "live_viewers": 1731,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-07T11:08:07.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:08:07.000Z",
-      "live_viewers": 477,
+      "live_viewers": 483,
       "channel": {
         "id": "UCbc8fwhdUNlqi-J99ISYu4A",
         "name": "ベルモンド・バンデラス",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-07T11:14:21.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:14:21.000Z",
-      "live_viewers": 3744,
+      "live_viewers": 3809,
       "channel": {
         "id": "UCHVXbQzkl3rDfsXWo8xi2qw",
         "name": "アンジュ・カトリーナ - Ange Katrina -",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-07T12:00:18.000Z",
       "start_scheduled": "2026-06-07T12:00:00.000Z",
       "start_actual": "2026-06-07T12:00:18.000Z",
-      "live_viewers": 4731,
+      "live_viewers": 4783,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-07T12:30:17.000Z",
       "start_scheduled": "2026-06-07T12:30:00.000Z",
       "start_actual": "2026-06-07T12:30:17.000Z",
-      "live_viewers": 1747,
+      "live_viewers": 1850,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -259,26 +259,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC-hM6YJuNYVAmUWxeIr9FeA": {
-      "video_id": "qtOaGqQxU3s",
-      "title": "【#1】完全初見バイオハザード リベレーションズ/Resident Evil: Revelationsやるにぇ!!!【ホロライブ/さくらみこ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-06-07T12:27:36.000Z",
-      "available_at": "2026-06-07T12:32:27.000Z",
-      "start_scheduled": "2026-06-07T12:35:00.000Z",
-      "start_actual": "2026-06-07T12:32:27.000Z",
-      "live_viewers": 1354,
-      "channel": {
-        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-        "name": "Miko Ch. さくらみこ",
-        "english_name": "Sakura Miko",
-        "org": "Hololive",
-        "suborg": "0y0th Generation",
-        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
