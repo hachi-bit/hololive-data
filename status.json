@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780823119,
+  "cached_at": 1780823179,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "BQt641OEweY",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T03:07:26.000Z",
       "start_scheduled": "2026-06-07T03:00:00.000Z",
       "start_actual": "2026-06-07T03:07:26.000Z",
-      "live_viewers": 7145,
+      "live_viewers": 7063,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-07T04:03:57.000Z",
       "start_scheduled": "2026-06-07T04:00:00.000Z",
       "start_actual": "2026-06-07T04:03:57.000Z",
-      "live_viewers": 21526,
+      "live_viewers": 17468,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-07T06:00:58.000Z",
       "start_scheduled": "2026-06-07T06:00:00.000Z",
       "start_actual": "2026-06-07T06:00:58.000Z",
-      "live_viewers": 7830,
+      "live_viewers": 7513,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-07T07:01:36.000Z",
       "start_scheduled": "2026-06-07T07:00:00.000Z",
       "start_actual": "2026-06-07T07:01:36.000Z",
-      "live_viewers": 3566,
+      "live_viewers": 3562,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-07T07:02:01.000Z",
       "start_scheduled": "2026-06-07T07:00:00.000Z",
       "start_actual": "2026-06-07T07:02:01.000Z",
-      "live_viewers": 2516,
+      "live_viewers": 2546,
       "channel": {
         "id": "UC9EjSJ8pvxtvPdxLOElv73w",
         "name": "魔界ノりりむ",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-07T07:02:24.000Z",
       "start_scheduled": "2026-06-07T07:00:00.000Z",
       "start_actual": "2026-06-07T07:02:24.000Z",
-      "live_viewers": 3217,
+      "live_viewers": 2991,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-07T08:01:46.000Z",
       "start_scheduled": "2026-06-07T08:00:00.000Z",
       "start_actual": "2026-06-07T08:01:46.000Z",
-      "live_viewers": 4564,
+      "live_viewers": 4413,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-07T08:33:39.000Z",
       "start_scheduled": "2026-06-07T08:30:00.000Z",
       "start_actual": "2026-06-07T08:33:39.000Z",
-      "live_viewers": 5101,
+      "live_viewers": 5204,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -219,25 +219,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
-      "video_id": "vXrwfphgQ4c",
-      "title": "【 告知します！！ 】手描き切り抜き鑑賞するぞぉぉぉぉぉ✨【鷹嶺ルイ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-06-07T01:38:50.000Z",
-      "available_at": "2026-06-07T09:00:00.000Z",
-      "start_scheduled": "2026-06-07T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "name": "Lui ch. 鷹嶺ルイ - holoX -",
-        "english_name": "Takane Lui",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCp-5t9SrOQwXMU7iIjQfARg": {
@@ -250,7 +231,7 @@
       "available_at": "2026-06-07T09:00:59.000Z",
       "start_scheduled": "2026-06-07T09:00:00.000Z",
       "start_actual": "2026-06-07T09:00:59.000Z",
-      "live_viewers": 2994,
+      "live_viewers": 9497,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -258,6 +239,26 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "vXrwfphgQ4c",
+      "title": "【 告知します!! 】手描き切り抜き鑑賞するぞぉぉぉぉぉ✨【鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-06-07T01:38:50.000Z",
+      "available_at": "2026-06-07T09:01:37.000Z",
+      "start_scheduled": "2026-06-07T09:00:00.000Z",
+      "start_actual": "2026-06-07T09:01:37.000Z",
+      "live_viewers": 2373,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
