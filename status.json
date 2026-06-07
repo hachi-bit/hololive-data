@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780841479,
+  "cached_at": 1780841540,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "jb2K72IEubI",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-07T10:00:13.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 26681,
+      "live_viewers": 26488,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T11:00:19.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:00:19.000Z",
-      "live_viewers": 21773,
+      "live_viewers": 21750,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-07T11:06:32.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:06:32.000Z",
-      "live_viewers": 1535,
+      "live_viewers": 1532,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-07T11:31:54.000Z",
       "start_scheduled": "2026-06-07T11:30:00.000Z",
       "start_actual": "2026-06-07T11:31:54.000Z",
-      "live_viewers": 726,
+      "live_viewers": 693,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-07T12:00:27.000Z",
       "start_scheduled": "2026-06-07T12:00:00.000Z",
       "start_actual": "2026-06-07T12:00:27.000Z",
-      "live_viewers": 19903,
+      "live_viewers": 20183,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -431,7 +431,7 @@
       "available_at": "2026-06-07T14:01:19.000Z",
       "start_scheduled": "2026-06-07T14:00:00.000Z",
       "start_actual": "2026-06-07T14:01:19.000Z",
-      "live_viewers": 3653,
+      "live_viewers": 4005,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
