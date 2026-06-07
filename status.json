@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780872619,
+  "cached_at": 1780872679,
   "lives": {
-    "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
-      "video_id": "98wolkfCnUE",
-      "title": "PC GAMING SHOW AFTER PARTY【MARATHON】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Marathon",
-      "published_at": "2026-06-07T20:52:18.000Z",
-      "available_at": "2026-06-07T20:53:32.000Z",
-      "start_scheduled": "2026-06-07T21:00:00.000Z",
-      "start_actual": "2026-06-07T20:53:32.000Z",
-      "live_viewers": 485,
-      "channel": {
-        "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-        "name": "Octavio Ch. HOLOSTARS-EN",
-        "english_name": "Octavio",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "2brONoZewtQ",
       "title": "【#朝ミオ 】お久しぶりです!おはみぉーん!",
@@ -31,7 +11,7 @@
       "available_at": "2026-06-07T22:31:30.000Z",
       "start_scheduled": "2026-06-07T22:30:00.000Z",
       "start_actual": "2026-06-07T22:31:30.000Z",
-      "live_viewers": 13582,
+      "live_viewers": 14073,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -51,7 +31,7 @@
       "available_at": "2026-06-07T22:33:53.000Z",
       "start_scheduled": "2026-06-07T22:30:00.000Z",
       "start_actual": "2026-06-07T22:33:53.000Z",
-      "live_viewers": 479,
+      "live_viewers": 560,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
