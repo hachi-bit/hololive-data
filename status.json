@@ -1,46 +1,6 @@
 {
-  "cached_at": 1780862839,
+  "cached_at": 1780862899,
   "lives": {
-    "UCKeAhJvy8zgXWbh9duVjIaQ": {
-      "video_id": "FD8Z0YDt8u0",
-      "title": "【オワ軍よさらば】一番忙しい人に予定が入ったら爆散する枠【アルランディス/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-06-06T11:37:49.000Z",
-      "available_at": "2026-06-07T15:03:58.000Z",
-      "start_scheduled": "2026-06-07T15:00:00.000Z",
-      "start_actual": "2026-06-07T15:03:58.000Z",
-      "live_viewers": 1275,
-      "channel": {
-        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
-        "name": "Aruran Ch. アルランディス",
-        "english_name": "Arurandeisu",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCez5D_dtExDJzQOAzg1k1RQ": {
-      "video_id": "mz9pg6Skqq0",
-      "title": "【 #Dreadline: Net Quota】オワ軍の時間です【#折咲もしゅ #MOSHULIVE #REJECT】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-06-07T05:42:04.000Z",
-      "available_at": "2026-06-07T15:08:16.000Z",
-      "start_scheduled": "2026-06-07T15:00:00.000Z",
-      "start_actual": "2026-06-07T15:08:16.000Z",
-      "live_viewers": 165,
-      "channel": {
-        "id": "UCez5D_dtExDJzQOAzg1k1RQ",
-        "name": "折咲もしゅch-Moshu Orisaki-",
-        "english_name": "Orisaki Moshu",
-        "org": "REJECT",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/Go2Zwoy_FnXEEYwxhVaEvJ7yIii0bc5415GAS7tpWkX-MGVvbvYfp5a6svtSC4isPBvopLbnPA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCHsx4Hqa-1ORjQTh9TYDhww": {
       "video_id": "zyjY2ECJ9s4",
       "title": "【ARKNIGHTS: ENDFIELD】NEW WIFE ROLLING pls have mercy on me gacha gods #kfp",
@@ -111,7 +71,7 @@
       "available_at": "2026-06-07T19:00:12.000Z",
       "start_scheduled": "2026-06-07T19:00:00.000Z",
       "start_actual": "2026-06-07T19:00:12.000Z",
-      "live_viewers": 845,
+      "live_viewers": 865,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -131,7 +91,7 @@
       "available_at": "2026-06-07T19:00:58.000Z",
       "start_scheduled": "2026-06-07T19:00:00.000Z",
       "start_actual": "2026-06-07T19:00:58.000Z",
-      "live_viewers": 734,
+      "live_viewers": 774,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
