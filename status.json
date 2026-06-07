@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780826659,
+  "cached_at": 1780826719,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "BQt641OEweY",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-07T06:00:58.000Z",
       "start_scheduled": "2026-06-07T06:00:00.000Z",
       "start_actual": "2026-06-07T06:00:58.000Z",
-      "live_viewers": 5754,
+      "live_viewers": 5631,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-07T07:01:36.000Z",
       "start_scheduled": "2026-06-07T07:00:00.000Z",
       "start_actual": "2026-06-07T07:01:36.000Z",
-      "live_viewers": 3422,
+      "live_viewers": 3371,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-07T08:01:46.000Z",
       "start_scheduled": "2026-06-07T08:00:00.000Z",
       "start_actual": "2026-06-07T08:01:46.000Z",
-      "live_viewers": 5066,
+      "live_viewers": 5067,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -201,26 +201,6 @@
         "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
-      "video_id": "vXrwfphgQ4c",
-      "title": "【 告知します!! 】手描き切り抜き鑑賞するぞぉぉぉぉぉ✨【鷹嶺ルイ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-06-07T01:38:50.000Z",
-      "available_at": "2026-06-07T09:01:37.000Z",
-      "start_scheduled": "2026-06-07T09:00:00.000Z",
-      "start_actual": "2026-06-07T09:01:37.000Z",
-      "live_viewers": 9222,
-      "channel": {
-        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "name": "Lui ch. 鷹嶺ルイ - holoX -",
-        "english_name": "Takane Lui",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC6t3-_N8A6ME1JShZHHqOMw": {
       "video_id": "5k6Op8OOoO0",
       "title": "【マリオカート8DX】卒業前に無敵になっちゃうか…!! #ホロスタ無敵マリカ【花咲みやび/ホロスターズ】",
@@ -231,7 +211,7 @@
       "available_at": "2026-06-07T09:59:50.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T09:59:50.000Z",
-      "live_viewers": 254,
+      "live_viewers": 585,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -239,25 +219,6 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "o78B8M05P4A",
-      "title": "【マリオカート8 DX】#ホロスターズ無敵マリカ 最後の、ホロスターズ  / アステル",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mario_Kart",
-      "published_at": "2026-06-07T09:54:46.000Z",
-      "available_at": "2026-06-07T10:00:00.000Z",
-      "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCAWSyEs_Io8MtpY3m-zqILA": {
@@ -298,82 +259,6 @@
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
-      "video_id": "Ie-fy-7yhLI",
-      "title": "【マリオカート8 DX 】ホロスターズ最強は誰だ!? #ホロスタ無敵マリカ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mario_Kart",
-      "published_at": "2026-06-07T09:27:07.000Z",
-      "available_at": "2026-06-07T10:00:00.000Z",
-      "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
-        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
-        "english_name": "Utsugi Uyu",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
-      "video_id": "OrnjnaQWtwU",
-      "title": "【#ホロスタ無敵マリカ】本当に無敵【 #奏手イヅル 視点 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mario_Kart",
-      "published_at": "2026-06-07T01:45:36.000Z",
-      "available_at": "2026-06-07T10:00:00.000Z",
-      "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "name": "Izuru Ch. 奏手イヅル",
-        "english_name": "Kanade Izuru",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC5CwaMl1eIgY8h02uZw7u8A": {
-      "video_id": "lKd07PQLCLM",
-      "title": "【活動3000日記念🎉】記念に雑談(?)【星街すいせい / #ほしまちすたじお】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-07T08:35:02.000Z",
-      "available_at": "2026-06-07T10:00:00.000Z",
-      "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-        "name": "Suisei Channel",
-        "english_name": "Hoshimachi Suisei",
-        "org": "Hololive",
-        "suborg": "0x0th Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChSvpZYRPh0FvG4SJGSga3g": {
-      "video_id": "qrQIiF8ZU5E",
-      "title": "【マリオカート8DX】滅する #ホロスタ無敵マリカ【影山シエン/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mario_Kart",
-      "published_at": "2026-06-06T12:24:59.000Z",
-      "available_at": "2026-06-07T10:00:00.000Z",
-      "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UChSvpZYRPh0FvG4SJGSga3g",
-        "name": "Shien Ch.影山シエン",
-        "english_name": "Kageyama Shien",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC9mf_ZVpouoILRY9NUIaK-w": {
       "video_id": "RnoOGCudRYs",
       "title": "【マリオカート8DX】最終滑走【律可/ホロスターズ】#ホロスタ無敵マリカ",
@@ -384,7 +269,7 @@
       "available_at": "2026-06-07T10:00:07.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:07.000Z",
-      "live_viewers": 246,
+      "live_viewers": 437,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -394,6 +279,46 @@
         "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
+      "video_id": "fozUtn9kJbU",
+      "title": "【マリオカート8DX】#ホロスタ無敵マリカ オウガ参戦【荒咬オウガ /ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_Kart",
+      "published_at": "2026-06-07T05:55:23.000Z",
+      "available_at": "2026-06-07T10:00:13.000Z",
+      "start_scheduled": "2026-06-07T10:00:00.000Z",
+      "start_actual": "2026-06-07T10:00:13.000Z",
+      "live_viewers": 296,
+      "channel": {
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "name": "Oga Ch.荒咬オウガ",
+        "english_name": "Aragami Oga",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGNI4MENvnsymYjKiZwv9eg": {
+      "video_id": "2OJjvdWfSYE",
+      "title": "【#ホロスタ無敵マリカ】ホロスタ最速の男 ラストラン 岸堂天真視点【マリオカート8dx】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_Kart",
+      "published_at": "2026-06-06T15:45:55.000Z",
+      "available_at": "2026-06-07T10:00:13.000Z",
+      "start_scheduled": "2026-06-07T10:00:00.000Z",
+      "start_actual": "2026-06-07T10:00:13.000Z",
+      "live_viewers": 513,
+      "channel": {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "english_name": "Kishido Temma",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "jb2K72IEubI",
       "title": "#5【SFC】完全初見!ドラゴンクエストVI 幻の大地 ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
@@ -401,10 +326,10 @@
       "status": "live",
       "topic_id": "Dragon_Quest",
       "published_at": "2026-06-06T17:47:08.000Z",
-      "available_at": "2026-06-07T10:00:08.000Z",
+      "available_at": "2026-06-07T10:00:13.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "start_actual": "2026-06-07T10:00:08.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-07T10:00:13.000Z",
+      "live_viewers": 9339,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -421,10 +346,10 @@
       "status": "live",
       "topic_id": "Mario_Kart",
       "published_at": "2026-06-04T10:27:18.000Z",
-      "available_at": "2026-06-07T10:00:10.000Z",
+      "available_at": "2026-06-07T10:00:15.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "start_actual": "2026-06-07T10:00:10.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-07T10:00:15.000Z",
+      "live_viewers": 447,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -434,57 +359,17 @@
         "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "2OJjvdWfSYE",
-      "title": "【#ホロスタ無敵マリカ】ホロスタ最速の男 ラストラン 岸堂天真視点【マリオカート8dx】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mario_Kart",
-      "published_at": "2026-06-06T15:45:55.000Z",
-      "available_at": "2026-06-07T10:00:13.000Z",
-      "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 281,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "fozUtn9kJbU",
-      "title": "【マリオカート8DX】#ホロスタ無敵マリカ オウガ参戦【荒咬オウガ /ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mario_Kart",
-      "published_at": "2026-06-07T05:55:23.000Z",
-      "available_at": "2026-06-07T10:00:13.000Z",
-      "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 190,
-      "channel": {
-        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "name": "Oga Ch.荒咬オウガ",
-        "english_name": "Aragami Oga",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCc88OV45ICgHbn3ZqLLb52w": {
       "video_id": "mpl2Nvy7fsc",
-      "title": "最後くらい仲良く走ろうな！（大嘘）【#ホロスタ無敵マリカ】夜十神封魔",
+      "title": "最後くらい仲良く走ろうな!(大嘘)【#ホロスタ無敵マリカ】夜十神封魔",
       "type": "stream",
       "status": "live",
       "topic_id": "Mario_Kart",
       "published_at": "2026-06-06T18:37:28.000Z",
-      "available_at": "2026-06-07T10:00:17.000Z",
+      "available_at": "2026-06-07T10:00:20.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "start_actual": "2026-06-07T10:00:17.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-07T10:00:20.000Z",
+      "live_viewers": 283,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -492,6 +377,106 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/wHtqHQ5LdCv_PnI-EeHUoedJgOe-fQcv9Fhkb7cod7oTo-f3rKJBJA0xSsVS4BhO9HnShdrnBA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
+      "video_id": "OrnjnaQWtwU",
+      "title": "【#ホロスタ無敵マリカ】本当に無敵【 #奏手イヅル 視点 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_Kart",
+      "published_at": "2026-06-07T01:45:36.000Z",
+      "available_at": "2026-06-07T10:00:39.000Z",
+      "start_scheduled": "2026-06-07T10:00:00.000Z",
+      "start_actual": "2026-06-07T10:00:39.000Z",
+      "live_viewers": 616,
+      "channel": {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "english_name": "Kanade Izuru",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChSvpZYRPh0FvG4SJGSga3g": {
+      "video_id": "qrQIiF8ZU5E",
+      "title": "【マリオカート8DX】滅する #ホロスタ無敵マリカ【影山シエン/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_Kart",
+      "published_at": "2026-06-06T12:24:59.000Z",
+      "available_at": "2026-06-07T10:00:59.000Z",
+      "start_scheduled": "2026-06-07T10:00:00.000Z",
+      "start_actual": "2026-06-07T10:00:59.000Z",
+      "live_viewers": 491,
+      "channel": {
+        "id": "UChSvpZYRPh0FvG4SJGSga3g",
+        "name": "Shien Ch.影山シエン",
+        "english_name": "Kageyama Shien",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "o78B8M05P4A",
+      "title": "【マリオカート8 DX】#ホロスタ無敵マリカ 最後の、ホロスターズ  / アステル",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_Kart",
+      "published_at": "2026-06-07T09:54:46.000Z",
+      "available_at": "2026-06-07T10:01:29.000Z",
+      "start_scheduled": "2026-06-07T10:00:00.000Z",
+      "start_actual": "2026-06-07T10:01:29.000Z",
+      "live_viewers": 319,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
+      "video_id": "Ie-fy-7yhLI",
+      "title": "【マリオカート8 DX 】ホロスターズ最強は誰だ!? #ホロスタ無敵マリカ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_Kart",
+      "published_at": "2026-06-07T09:27:07.000Z",
+      "available_at": "2026-06-07T10:01:37.000Z",
+      "start_scheduled": "2026-06-07T10:00:00.000Z",
+      "start_actual": "2026-06-07T10:01:37.000Z",
+      "live_viewers": 137,
+      "channel": {
+        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
+        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
+        "english_name": "Utsugi Uyu",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC5CwaMl1eIgY8h02uZw7u8A": {
+      "video_id": "lKd07PQLCLM",
+      "title": "【活動3000日記念🎉】記念に雑談(?)【星街すいせい / #ほしまちすたじお】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-06-07T08:35:02.000Z",
+      "available_at": "2026-06-07T10:01:53.000Z",
+      "start_scheduled": "2026-06-07T10:00:00.000Z",
+      "start_actual": "2026-06-07T10:01:53.000Z",
+      "live_viewers": 6290,
+      "channel": {
+        "id": "UC5CwaMl1eIgY8h02uZw7u8A",
+        "name": "Suisei Channel",
+        "english_name": "Hoshimachi Suisei",
+        "org": "Hololive",
+        "suborg": "0x0th Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
