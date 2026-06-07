@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780830319,
+  "cached_at": 1780830379,
   "lives": {
-    "UC8rcEBzJSleTkf_-agPM20g": {
-      "video_id": "trGnCPYAlnY",
-      "title": "【Forza Horizon 6】On the HORIZON",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Forza",
-      "published_at": "2026-06-06T19:28:50.000Z",
-      "available_at": "2026-06-07T03:07:26.000Z",
-      "start_scheduled": "2026-06-07T03:00:00.000Z",
-      "start_actual": "2026-06-07T03:07:26.000Z",
-      "live_viewers": 4306,
-      "channel": {
-        "id": "UC8rcEBzJSleTkf_-agPM20g",
-        "name": "IRyS Ch. hololive-EN",
-        "english_name": "IRyS",
-        "org": "Hololive",
-        "suborg": "iaEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC6t3-_N8A6ME1JShZHHqOMw": {
       "video_id": "5k6Op8OOoO0",
       "title": "【マリオカート8DX】卒業前に無敵になっちゃうか…!! #ホロスタ無敵マリカ【花咲みやび/ホロスターズ】",
@@ -31,7 +11,7 @@
       "available_at": "2026-06-07T09:59:50.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T09:59:50.000Z",
-      "live_viewers": 861,
+      "live_viewers": 918,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -51,7 +31,7 @@
       "available_at": "2026-06-07T10:00:07.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:07.000Z",
-      "live_viewers": 583,
+      "live_viewers": 604,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -61,24 +41,24 @@
         "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "jb2K72IEubI",
-      "title": "#5【SFC】完全初見!ドラゴンクエストVI 幻の大地 ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
+    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
+      "video_id": "fozUtn9kJbU",
+      "title": "【マリオカート8DX】#ホロスタ無敵マリカ オウガ参戦【荒咬オウガ /ホロスターズ】",
       "type": "stream",
       "status": "live",
-      "topic_id": "Dragon_Quest",
-      "published_at": "2026-06-06T17:47:08.000Z",
+      "topic_id": "Mario_Kart",
+      "published_at": "2026-06-07T05:55:23.000Z",
       "available_at": "2026-06-07T10:00:13.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 26456,
+      "live_viewers": 440,
       "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "name": "Oga Ch.荒咬オウガ",
+        "english_name": "Aragami Oga",
         "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCGNI4MENvnsymYjKiZwv9eg": {
@@ -101,24 +81,24 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "fozUtn9kJbU",
-      "title": "【マリオカート8DX】#ホロスタ無敵マリカ オウガ参戦【荒咬オウガ /ホロスターズ】",
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "jb2K72IEubI",
+      "title": "#5【SFC】完全初見!ドラゴンクエストVI 幻の大地 ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
       "type": "stream",
       "status": "live",
-      "topic_id": "Mario_Kart",
-      "published_at": "2026-06-07T05:55:23.000Z",
+      "topic_id": "Dragon_Quest",
+      "published_at": "2026-06-06T17:47:08.000Z",
       "available_at": "2026-06-07T10:00:13.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 440,
+      "live_viewers": 26733,
       "channel": {
-        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "name": "Oga Ch.荒咬オウガ",
-        "english_name": "Aragami Oga",
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
         "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
@@ -151,7 +131,7 @@
       "available_at": "2026-06-07T10:00:20.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:20.000Z",
-      "live_viewers": 430,
+      "live_viewers": 437,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -211,7 +191,7 @@
       "available_at": "2026-06-07T10:01:29.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:01:29.000Z",
-      "live_viewers": 523,
+      "live_viewers": 549,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -231,7 +211,7 @@
       "available_at": "2026-06-07T10:01:37.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:01:37.000Z",
-      "live_viewers": 175,
+      "live_viewers": 199,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -251,7 +231,7 @@
       "available_at": "2026-06-07T10:01:53.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:01:53.000Z",
-      "live_viewers": 18708,
+      "live_viewers": 15383,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -291,7 +271,7 @@
       "available_at": "2026-06-07T10:08:15.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:08:15.000Z",
-      "live_viewers": 10162,
+      "live_viewers": 10371,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -311,7 +291,7 @@
       "available_at": "2026-06-07T10:53:17.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T10:53:17.000Z",
-      "live_viewers": 42897,
+      "live_viewers": 55425,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -340,25 +320,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mq4PLSnpYy83ZUfXHKZVIVXsU8VnFE5xpzLcVXrmImnAg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCHVXbQzkl3rDfsXWo8xi2qw": {
-      "video_id": "djVNCNRqlAI",
-      "title": "最後にみんなでR.E.P.O.しよーぜ!!【にじさんじ/アンジュ・カトリーナ視点/ベルモンド・バンデラス/アルランディス/歌衣メイカ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-06-07T08:35:48.000Z",
-      "available_at": "2026-06-07T11:00:00.000Z",
-      "start_scheduled": "2026-06-07T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCHVXbQzkl3rDfsXWo8xi2qw",
-        "name": "アンジュ・カトリーナ - Ange Katrina -",
-        "english_name": "Ange Katrina",
-        "org": "Nijisanji",
-        "suborg": "0iSanbaka",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_liDbr1ofzknDCW8S3ChEFTci-PGATj8zCJ1pRWlomUCWo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
       "video_id": "Ht2oKpirTwc",
       "title": "【R.E.P.O.】アプデが神過ぎたので遊びた過ぎてこれ【アルランディス/ホロスターズ】",
@@ -376,6 +337,25 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCHVXbQzkl3rDfsXWo8xi2qw": {
+      "video_id": "djVNCNRqlAI",
+      "title": "最後にみんなでR.E.P.O.しよーぜ!!【にじさんじ/アンジュ・カトリーナ視点/ベルモンド・バンデラス/アルランディス/歌衣メイカ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-06-07T08:35:48.000Z",
+      "available_at": "2026-06-07T11:00:00.000Z",
+      "start_scheduled": "2026-06-07T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCHVXbQzkl3rDfsXWo8xi2qw",
+        "name": "アンジュ・カトリーナ - Ange Katrina -",
+        "english_name": "Ange Katrina",
+        "org": "Nijisanji",
+        "suborg": "0iSanbaka",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_liDbr1ofzknDCW8S3ChEFTci-PGATj8zCJ1pRWlomUCWo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCbc8fwhdUNlqi-J99ISYu4A": {
@@ -407,7 +387,7 @@
       "available_at": "2026-06-07T11:00:19.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:00:19.000Z",
-      "live_viewers": 3206,
+      "live_viewers": 7838,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
