@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780841059,
+  "cached_at": 1780841119,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "jb2K72IEubI",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-07T10:00:13.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 27096,
+      "live_viewers": 26777,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T11:00:19.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:00:19.000Z",
-      "live_viewers": 21808,
+      "live_viewers": 21823,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-07T11:31:54.000Z",
       "start_scheduled": "2026-06-07T11:30:00.000Z",
       "start_actual": "2026-06-07T11:31:54.000Z",
-      "live_viewers": 690,
+      "live_viewers": 726,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-07T12:00:27.000Z",
       "start_scheduled": "2026-06-07T12:00:00.000Z",
       "start_actual": "2026-06-07T12:00:27.000Z",
-      "live_viewers": 19979,
+      "live_viewers": 19855,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -311,7 +311,7 @@
       "available_at": "2026-06-07T13:01:02.000Z",
       "start_scheduled": "2026-06-07T13:00:00.000Z",
       "start_actual": "2026-06-07T13:01:02.000Z",
-      "live_viewers": 8748,
+      "live_viewers": 8758,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -391,7 +391,7 @@
       "available_at": "2026-06-07T13:12:50.000Z",
       "start_scheduled": "2026-06-07T13:10:00.000Z",
       "start_actual": "2026-06-07T13:12:50.000Z",
-      "live_viewers": 836,
+      "live_viewers": 860,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -428,10 +428,10 @@
       "status": "live",
       "topic_id": "none",
       "published_at": "2026-06-07T07:12:49.000Z",
-      "available_at": "2026-06-07T14:01:17.000Z",
+      "available_at": "2026-06-07T14:01:19.000Z",
       "start_scheduled": "2026-06-07T14:00:00.000Z",
-      "start_actual": "2026-06-07T14:01:17.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-07T14:01:19.000Z",
+      "live_viewers": 2586,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
