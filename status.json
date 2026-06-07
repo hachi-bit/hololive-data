@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780844599,
+  "cached_at": 1780844659,
   "lives": {
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
       "video_id": "848JLxwfdZk",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-07T11:00:19.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:00:19.000Z",
-      "live_viewers": 19096,
+      "live_viewers": 18852,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-07T12:00:27.000Z",
       "start_scheduled": "2026-06-07T12:00:00.000Z",
       "start_actual": "2026-06-07T12:00:27.000Z",
-      "live_viewers": 19761,
+      "live_viewers": 18570,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-07T12:30:17.000Z",
       "start_scheduled": "2026-06-07T12:30:00.000Z",
       "start_actual": "2026-06-07T12:30:17.000Z",
-      "live_viewers": 2711,
+      "live_viewers": 2738,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-07T13:04:31.000Z",
       "start_scheduled": "2026-06-07T13:00:00.000Z",
       "start_actual": "2026-06-07T13:04:31.000Z",
-      "live_viewers": 17253,
+      "live_viewers": 17498,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -259,6 +259,44 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKeAhJvy8zgXWbh9duVjIaQ": {
+      "video_id": "FD8Z0YDt8u0",
+      "title": "【オワ軍よさらば】一番忙しい人に予定が入ったら爆散する枠【アルランディス/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-06T11:37:49.000Z",
+      "available_at": "2026-06-07T15:00:00.000Z",
+      "start_scheduled": "2026-06-07T15:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "english_name": "Arurandeisu",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCez5D_dtExDJzQOAzg1k1RQ": {
+      "video_id": "mz9pg6Skqq0",
+      "title": "【 #REPO 】オワ軍の時間です【#折咲もしゅ #MOSHULIVE #REJECT】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-06-07T05:42:04.000Z",
+      "available_at": "2026-06-07T15:00:00.000Z",
+      "start_scheduled": "2026-06-07T15:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCez5D_dtExDJzQOAzg1k1RQ",
+        "name": "折咲もしゅch-Moshu Orisaki-",
+        "english_name": "Orisaki Moshu",
+        "org": "REJECT",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/Go2Zwoy_FnXEEYwxhVaEvJ7yIii0bc5415GAS7tpWkX-MGVvbvYfp5a6svtSC4isPBvopLbnPA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
