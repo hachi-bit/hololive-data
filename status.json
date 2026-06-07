@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780823299,
+  "cached_at": 1780823359,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "BQt641OEweY",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-07T02:00:41.000Z",
       "start_scheduled": "2026-06-07T02:00:00.000Z",
       "start_actual": "2026-06-07T02:00:41.000Z",
-      "live_viewers": 4373,
+      "live_viewers": 4452,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -41,26 +41,6 @@
         "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCvzGlP9oQwU--Y0r9id_jnA": {
-      "video_id": "OOTHzek6Qn0",
-      "title": "【#絢辻さん最終回】アマガミやるしゅばああああああああああああああああああああああああああああああああああああああああああああ!!!!!!!【ホロライブ/大空スバル】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Amagami",
-      "published_at": "2026-06-05T09:07:42.000Z",
-      "available_at": "2026-06-07T04:03:57.000Z",
-      "start_scheduled": "2026-06-07T04:00:00.000Z",
-      "start_actual": "2026-06-07T04:03:57.000Z",
-      "live_viewers": 17468,
-      "channel": {
-        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-        "name": "Subaru Ch. 大空スバル",
-        "english_name": "Oozora Subaru",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC_vMYWcDjmfdpH6r4TTn1MQ": {
       "video_id": "3I2cpBGN_yc",
       "title": "【Minecraft】ウォーデン100体もたおした!!大会もみた!次はおまえだ【風真いろは/ホロライブ】",
@@ -71,7 +51,7 @@
       "available_at": "2026-06-07T06:00:58.000Z",
       "start_scheduled": "2026-06-07T06:00:00.000Z",
       "start_actual": "2026-06-07T06:00:58.000Z",
-      "live_viewers": 7513,
+      "live_viewers": 7471,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -111,7 +91,7 @@
       "available_at": "2026-06-07T07:00:28.000Z",
       "start_scheduled": "2026-06-07T07:00:00.000Z",
       "start_actual": "2026-06-07T07:00:28.000Z",
-      "live_viewers": 1554,
+      "live_viewers": 1610,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -171,7 +151,7 @@
       "available_at": "2026-06-07T07:02:24.000Z",
       "start_scheduled": "2026-06-07T07:00:00.000Z",
       "start_actual": "2026-06-07T07:02:24.000Z",
-      "live_viewers": 2991,
+      "live_viewers": 2989,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -211,7 +191,7 @@
       "available_at": "2026-06-07T08:33:39.000Z",
       "start_scheduled": "2026-06-07T08:30:00.000Z",
       "start_actual": "2026-06-07T08:33:39.000Z",
-      "live_viewers": 5204,
+      "live_viewers": 5873,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -231,7 +211,7 @@
       "available_at": "2026-06-07T09:00:59.000Z",
       "start_scheduled": "2026-06-07T09:00:00.000Z",
       "start_actual": "2026-06-07T09:00:59.000Z",
-      "live_viewers": 9497,
+      "live_viewers": 12958,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -251,7 +231,7 @@
       "available_at": "2026-06-07T09:01:37.000Z",
       "start_scheduled": "2026-06-07T09:00:00.000Z",
       "start_actual": "2026-06-07T09:01:37.000Z",
-      "live_viewers": 2373,
+      "live_viewers": 4064,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
