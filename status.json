@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780829358,
+  "cached_at": 1780829419,
   "lives": {
     "UC8rcEBzJSleTkf_-agPM20g": {
       "video_id": "trGnCPYAlnY",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-07T03:07:26.000Z",
       "start_scheduled": "2026-06-07T03:00:00.000Z",
       "start_actual": "2026-06-07T03:07:26.000Z",
-      "live_viewers": 4546,
+      "live_viewers": 4432,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T06:00:58.000Z",
       "start_scheduled": "2026-06-07T06:00:00.000Z",
       "start_actual": "2026-06-07T06:00:58.000Z",
-      "live_viewers": 4435,
+      "live_viewers": 4202,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -61,26 +61,6 @@
         "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC9EjSJ8pvxtvPdxLOElv73w": {
-      "video_id": "ooxM5tUksAQ",
-      "title": "〖スプラトゥーン3〗りりむはお姉ちゃんだぞ!!!〖にじさんじ￤魔界ノりりむ〗",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Splatoon",
-      "published_at": "2026-06-07T04:58:47.000Z",
-      "available_at": "2026-06-07T07:02:01.000Z",
-      "start_scheduled": "2026-06-07T07:00:00.000Z",
-      "start_actual": "2026-06-07T07:02:01.000Z",
-      "live_viewers": 1708,
-      "channel": {
-        "id": "UC9EjSJ8pvxtvPdxLOElv73w",
-        "name": "魔界ノりりむ",
-        "english_name": "Makaino Ririmu",
-        "org": "Nijisanji",
-        "suborg": "06Ex-Gamers",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_m2c36OHhLH-aa5JcDxz2Sp34CvFAMl4i_nLTR1sQYXUYU=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "zrbnUmj1Hl8",
       "title": "【スーパーマリオ64】完全初見!初めてのマリオ64に挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
@@ -91,7 +71,7 @@
       "available_at": "2026-06-07T08:33:39.000Z",
       "start_scheduled": "2026-06-07T08:30:00.000Z",
       "start_actual": "2026-06-07T08:33:39.000Z",
-      "live_viewers": 6316,
+      "live_viewers": 6301,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -111,7 +91,7 @@
       "available_at": "2026-06-07T09:59:50.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T09:59:50.000Z",
-      "live_viewers": 819,
+      "live_viewers": 823,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -131,7 +111,7 @@
       "available_at": "2026-06-07T10:00:07.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:07.000Z",
-      "live_viewers": 596,
+      "live_viewers": 583,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -139,26 +119,6 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "jb2K72IEubI",
-      "title": "#5【SFC】完全初見!ドラゴンクエストVI 幻の大地 ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Dragon_Quest",
-      "published_at": "2026-06-06T17:47:08.000Z",
-      "available_at": "2026-06-07T10:00:13.000Z",
-      "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 25876,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
@@ -201,6 +161,26 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "jb2K72IEubI",
+      "title": "#5【SFC】完全初見!ドラゴンクエストVI 幻の大地 ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dragon_Quest",
+      "published_at": "2026-06-06T17:47:08.000Z",
+      "available_at": "2026-06-07T10:00:13.000Z",
+      "start_scheduled": "2026-06-07T10:00:00.000Z",
+      "start_actual": "2026-06-07T10:00:13.000Z",
+      "live_viewers": 26398,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "S3nD9zeBVWg",
       "title": "【マリオカート8 DX | ホロスタコラボ 】マリカ無免許視点🔰 #ホロスタ無敵マリカ【 水無世燐央 | UPROAR!! 】",
@@ -231,7 +211,7 @@
       "available_at": "2026-06-07T10:00:20.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:20.000Z",
-      "live_viewers": 428,
+      "live_viewers": 451,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -251,7 +231,7 @@
       "available_at": "2026-06-07T10:00:39.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:39.000Z",
-      "live_viewers": 781,
+      "live_viewers": 820,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -271,7 +251,7 @@
       "available_at": "2026-06-07T10:00:59.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:59.000Z",
-      "live_viewers": 678,
+      "live_viewers": 719,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -291,7 +271,7 @@
       "available_at": "2026-06-07T10:01:29.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:01:29.000Z",
-      "live_viewers": 516,
+      "live_viewers": 534,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -311,7 +291,7 @@
       "available_at": "2026-06-07T10:01:37.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:01:37.000Z",
-      "live_viewers": 178,
+      "live_viewers": 204,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -331,7 +311,7 @@
       "available_at": "2026-06-07T10:01:53.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:01:53.000Z",
-      "live_viewers": 20250,
+      "live_viewers": 20449,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -351,7 +331,7 @@
       "available_at": "2026-06-07T10:03:21.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:03:21.000Z",
-      "live_viewers": 36434,
+      "live_viewers": 36132,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -371,7 +351,7 @@
       "available_at": "2026-06-07T10:08:15.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:08:15.000Z",
-      "live_viewers": 11137,
+      "live_viewers": 10034,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
