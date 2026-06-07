@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780830499,
+  "cached_at": 1780830559,
   "lives": {
     "UC6t3-_N8A6ME1JShZHHqOMw": {
       "video_id": "5k6Op8OOoO0",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-07T09:59:50.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T09:59:50.000Z",
-      "live_viewers": 918,
+      "live_viewers": 932,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -61,26 +61,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "2OJjvdWfSYE",
-      "title": "【#ホロスタ無敵マリカ】ホロスタ最速の男 ラストラン 岸堂天真視点【マリオカート8dx】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mario_Kart",
-      "published_at": "2026-06-06T15:45:55.000Z",
-      "available_at": "2026-06-07T10:00:13.000Z",
-      "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 779,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "jb2K72IEubI",
       "title": "#5【SFC】完全初見!ドラゴンクエストVI 幻の大地 ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
@@ -101,6 +81,26 @@
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCGNI4MENvnsymYjKiZwv9eg": {
+      "video_id": "2OJjvdWfSYE",
+      "title": "【#ホロスタ無敵マリカ】ホロスタ最速の男 ラストラン 岸堂天真視点【マリオカート8dx】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_Kart",
+      "published_at": "2026-06-06T15:45:55.000Z",
+      "available_at": "2026-06-07T10:00:13.000Z",
+      "start_scheduled": "2026-06-07T10:00:00.000Z",
+      "start_actual": "2026-06-07T10:00:13.000Z",
+      "live_viewers": 854,
+      "channel": {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "english_name": "Kishido Temma",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
       "video_id": "S3nD9zeBVWg",
       "title": "【マリオカート8 DX | ホロスタコラボ 】マリカ無免許視点🔰 #ホロスタ無敵マリカ【 水無世燐央 | UPROAR!! 】",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-07T10:00:15.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:15.000Z",
-      "live_viewers": 605,
+      "live_viewers": 634,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-07T10:00:59.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:59.000Z",
-      "live_viewers": 712,
+      "live_viewers": 716,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -241,46 +241,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC-hM6YJuNYVAmUWxeIr9FeA": {
-      "video_id": "de55PoGcBZY",
-      "title": "【雑談】うおおおおおおおおおお!週末みこにゅ~す!FREE TALK【#みこにゅーす】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-07T03:59:45.000Z",
-      "available_at": "2026-06-07T10:03:21.000Z",
-      "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "start_actual": "2026-06-07T10:03:21.000Z",
-      "live_viewers": 33706,
-      "channel": {
-        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-        "name": "Miko Ch. さくらみこ",
-        "english_name": "Sakura Miko",
-        "org": "Hololive",
-        "suborg": "0y0th Generation",
-        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCAWSyEs_Io8MtpY3m-zqILA": {
-      "video_id": "5ANfjmmac9w",
-      "title": "【 Forza Horizon 6 】車好きな人カッコいいの教えて~~~~~!!!!!!!!【 桃鈴ねね / hololive 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Forza",
-      "published_at": "2026-06-07T08:20:12.000Z",
-      "available_at": "2026-06-07T10:08:15.000Z",
-      "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "start_actual": "2026-06-07T10:08:15.000Z",
-      "live_viewers": 10371,
-      "channel": {
-        "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-        "name": "Nene Ch.桃鈴ねね",
-        "english_name": "Momosuzu Nene",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1iA6_NT4mtAcIII6ygrvCw": {
       "video_id": "Zcx1344XAmI",
       "title": "【3DLIVE】Rise In Motion【轟はじめ】 #轟はじめ生誕祭2026",
@@ -291,7 +251,7 @@
       "available_at": "2026-06-07T10:53:17.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T10:53:17.000Z",
-      "live_viewers": 55425,
+      "live_viewers": 65562,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -299,63 +259,6 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC7-N7MvN5muVIHqyQx9LFbA": {
-      "video_id": "gKj8RzQUoaY",
-      "title": "【REPO】あばよダチ公【歌衣メイカ/アルランディス/アンジュ/ベルモンド・バンデラス 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-06-07T10:56:19.000Z",
-      "available_at": "2026-06-07T11:00:00.000Z",
-      "start_scheduled": "2026-06-07T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC7-N7MvN5muVIHqyQx9LFbA",
-        "name": "メイカちゃんねる",
-        "english_name": "Utai Meika",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mq4PLSnpYy83ZUfXHKZVIVXsU8VnFE5xpzLcVXrmImnAg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKeAhJvy8zgXWbh9duVjIaQ": {
-      "video_id": "Ht2oKpirTwc",
-      "title": "【R.E.P.O.】アプデが神過ぎたので遊びた過ぎてこれ【アルランディス/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-06-06T12:42:49.000Z",
-      "available_at": "2026-06-07T11:00:00.000Z",
-      "start_scheduled": "2026-06-07T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
-        "name": "Aruran Ch. アルランディス",
-        "english_name": "Arurandeisu",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCHVXbQzkl3rDfsXWo8xi2qw": {
-      "video_id": "djVNCNRqlAI",
-      "title": "最後にみんなでR.E.P.O.しよーぜ!!【にじさんじ/アンジュ・カトリーナ視点/ベルモンド・バンデラス/アルランディス/歌衣メイカ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-06-07T08:35:48.000Z",
-      "available_at": "2026-06-07T11:00:00.000Z",
-      "start_scheduled": "2026-06-07T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCHVXbQzkl3rDfsXWo8xi2qw",
-        "name": "アンジュ・カトリーナ - Ange Katrina -",
-        "english_name": "Ange Katrina",
-        "org": "Nijisanji",
-        "suborg": "0iSanbaka",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_liDbr1ofzknDCW8S3ChEFTci-PGATj8zCJ1pRWlomUCWo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCbc8fwhdUNlqi-J99ISYu4A": {
@@ -377,6 +280,44 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kPzhWinVi4J6aBUsxJKTKL5qa4gDcDjkpAgTeh5SDbiQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UC7-N7MvN5muVIHqyQx9LFbA": {
+      "video_id": "gKj8RzQUoaY",
+      "title": "【REPO】あばよダチ公【歌衣メイカ/アルランディス/アンジュ/ベルモンド・バンデラス 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-06-07T10:56:19.000Z",
+      "available_at": "2026-06-07T11:00:00.000Z",
+      "start_scheduled": "2026-06-07T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC7-N7MvN5muVIHqyQx9LFbA",
+        "name": "メイカちゃんねる",
+        "english_name": "Utai Meika",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mq4PLSnpYy83ZUfXHKZVIVXsU8VnFE5xpzLcVXrmImnAg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCHVXbQzkl3rDfsXWo8xi2qw": {
+      "video_id": "djVNCNRqlAI",
+      "title": "最後にみんなでR.E.P.O.しよーぜ!!【にじさんじ/アンジュ・カトリーナ視点/ベルモンド・バンデラス/アルランディス/歌衣メイカ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-06-07T08:35:48.000Z",
+      "available_at": "2026-06-07T11:00:00.000Z",
+      "start_scheduled": "2026-06-07T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCHVXbQzkl3rDfsXWo8xi2qw",
+        "name": "アンジュ・カトリーナ - Ange Katrina -",
+        "english_name": "Ange Katrina",
+        "org": "Nijisanji",
+        "suborg": "0iSanbaka",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_liDbr1ofzknDCW8S3ChEFTci-PGATj8zCJ1pRWlomUCWo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
       "video_id": "848JLxwfdZk",
       "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#02 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
@@ -387,7 +328,7 @@
       "available_at": "2026-06-07T11:00:19.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:00:19.000Z",
-      "live_viewers": 7838,
+      "live_viewers": 10786,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -395,6 +336,26 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKeAhJvy8zgXWbh9duVjIaQ": {
+      "video_id": "Ht2oKpirTwc",
+      "title": "【R.E.P.O.】アプデが神過ぎたので遊びた過ぎてこれ【アルランディス/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-06-06T12:42:49.000Z",
+      "available_at": "2026-06-07T11:06:32.000Z",
+      "start_scheduled": "2026-06-07T11:00:00.000Z",
+      "start_actual": "2026-06-07T11:06:32.000Z",
+      "live_viewers": 656,
+      "channel": {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "english_name": "Arurandeisu",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
