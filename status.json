@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780865659,
+  "cached_at": 1780865719,
   "lives": {
     "UCHsx4Hqa-1ORjQTh9TYDhww": {
       "video_id": "zyjY2ECJ9s4",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T18:55:43.000Z",
       "start_scheduled": "2026-06-07T19:00:00.000Z",
       "start_actual": "2026-06-07T18:55:43.000Z",
-      "live_viewers": 12571,
+      "live_viewers": 5847,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-07T18:59:21.000Z",
       "start_scheduled": "2026-06-07T19:00:00.000Z",
       "start_actual": "2026-06-07T18:59:21.000Z",
-      "live_viewers": 1012,
+      "live_viewers": 843,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -59,46 +59,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCOyYb1c43VlX9rc_lT6NKQw": {
-      "video_id": "KBME3Q3tlvw",
-      "title": "#PCGamingShow Let's have a look at PC Gaming Show !",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-06-07T14:23:20.000Z",
-      "available_at": "2026-06-07T19:00:12.000Z",
-      "start_scheduled": "2026-06-07T19:00:00.000Z",
-      "start_actual": "2026-06-07T19:00:12.000Z",
-      "live_viewers": 810,
-      "channel": {
-        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-        "name": "Ayunda Risu Ch. hololive-ID",
-        "english_name": "Ayunda Risu",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
-      "video_id": "_u3eWm3qApQ",
-      "title": "PC GAMES WOW【PC GAMING SHOW w/ Ruze and Goldbullet】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-06-07T18:54:09.000Z",
-      "available_at": "2026-06-07T19:00:58.000Z",
-      "start_scheduled": "2026-06-07T19:00:00.000Z",
-      "start_actual": "2026-06-07T19:00:58.000Z",
-      "live_viewers": 836,
-      "channel": {
-        "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-        "name": "Octavio Ch. HOLOSTARS-EN",
-        "english_name": "Octavio",
-        "org": "Hololive",
-        "suborg": "oeHOLOSTARS English -ARMIS-",
-        "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvN5h1ShZtc7nly3pezRayg": {
@@ -111,7 +71,7 @@
       "available_at": "2026-06-07T20:11:23.000Z",
       "start_scheduled": "2026-06-07T20:10:00.000Z",
       "start_actual": "2026-06-07T20:11:23.000Z",
-      "live_viewers": 6511,
+      "live_viewers": 6919,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
