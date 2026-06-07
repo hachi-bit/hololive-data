@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780845139,
+  "cached_at": 1780845199,
   "lives": {
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
       "video_id": "848JLxwfdZk",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-07T11:00:19.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:00:19.000Z",
-      "live_viewers": 18755,
+      "live_viewers": 19225,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-07T12:00:27.000Z",
       "start_scheduled": "2026-06-07T12:00:00.000Z",
       "start_actual": "2026-06-07T12:00:27.000Z",
-      "live_viewers": 13643,
+      "live_viewers": 13336,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-07T12:30:17.000Z",
       "start_scheduled": "2026-06-07T12:30:00.000Z",
       "start_actual": "2026-06-07T12:30:17.000Z",
-      "live_viewers": 2738,
+      "live_viewers": 2837,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -141,26 +141,6 @@
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "jG-EPYQ4V9g",
-      "title": "【 桃太郎電鉄２ 】RoARiSで仲良く桃鉄やるぞっ🎵【ロボ子先輩 AZKi先輩 水宮枢 響咲リオナ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "momotaro_dentetsu",
-      "published_at": "2026-06-06T14:38:35.000Z",
-      "available_at": "2026-06-07T13:04:31.000Z",
-      "start_scheduled": "2026-06-07T13:00:00.000Z",
-      "start_actual": "2026-06-07T13:04:31.000Z",
-      "live_viewers": 9744,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCAoy6rzhSf4ydcYjJw3WoVg": {
       "video_id": "lMHb0UAWHR4",
       "title": "【Subnautica 2】BLUB V2【 iofi / hololiveID 】",
@@ -191,7 +171,7 @@
       "available_at": "2026-06-07T13:30:06.000Z",
       "start_scheduled": "2026-06-07T13:30:00.000Z",
       "start_actual": "2026-06-07T13:30:06.000Z",
-      "live_viewers": 650,
+      "live_viewers": 662,
       "channel": {
         "id": "UCY7Qs1UGnO3LYpNVwitTXUA",
         "name": "ミューコミVR",
@@ -199,45 +179,6 @@
         "org": "Independents",
         "suborg": "niNippon Broadcasting System",
         "photo": "https://yt3.ggpht.com/66MynehwQ9aaPffwcUdt4f4DIHbb3egL3CmQtiguiX-JyelK7caxfs0wZy88L-_TTE6JcQkY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCl69AEx4MdqMZH7Jtsm7Tig": {
-      "video_id": "nEeO2Da6t-s",
-      "title": "1 Hour of Silence Interrupted by 67",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-06-07T07:12:49.000Z",
-      "available_at": "2026-06-07T14:01:19.000Z",
-      "start_scheduled": "2026-06-07T14:00:00.000Z",
-      "start_actual": "2026-06-07T14:01:19.000Z",
-      "live_viewers": 7866,
-      "channel": {
-        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
-        "name": "Raora Panthera Ch. hololive-EN",
-        "english_name": "Raora Panthera",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCez5D_dtExDJzQOAzg1k1RQ": {
-      "video_id": "mz9pg6Skqq0",
-      "title": "【 #Dreadline: Net Quota】オワ軍の時間です【#折咲もしゅ #MOSHULIVE #REJECT】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-06-07T05:42:04.000Z",
-      "available_at": "2026-06-07T15:00:00.000Z",
-      "start_scheduled": "2026-06-07T15:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCez5D_dtExDJzQOAzg1k1RQ",
-        "name": "折咲もしゅch-Moshu Orisaki-",
-        "english_name": "Orisaki Moshu",
-        "org": "REJECT",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/Go2Zwoy_FnXEEYwxhVaEvJ7yIii0bc5415GAS7tpWkX-MGVvbvYfp5a6svtSC4isPBvopLbnPA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
@@ -250,7 +191,7 @@
       "available_at": "2026-06-07T15:03:58.000Z",
       "start_scheduled": "2026-06-07T15:00:00.000Z",
       "start_actual": "2026-06-07T15:03:58.000Z",
-      "live_viewers": 2106,
+      "live_viewers": 2397,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -258,6 +199,26 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCez5D_dtExDJzQOAzg1k1RQ": {
+      "video_id": "mz9pg6Skqq0",
+      "title": "【 #Dreadline: Net Quota】オワ軍の時間です【#折咲もしゅ #MOSHULIVE #REJECT】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-07T05:42:04.000Z",
+      "available_at": "2026-06-07T15:08:16.000Z",
+      "start_scheduled": "2026-06-07T15:00:00.000Z",
+      "start_actual": "2026-06-07T15:08:16.000Z",
+      "live_viewers": 180,
+      "channel": {
+        "id": "UCez5D_dtExDJzQOAzg1k1RQ",
+        "name": "折咲もしゅch-Moshu Orisaki-",
+        "english_name": "Orisaki Moshu",
+        "org": "REJECT",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/Go2Zwoy_FnXEEYwxhVaEvJ7yIii0bc5415GAS7tpWkX-MGVvbvYfp5a6svtSC4isPBvopLbnPA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
