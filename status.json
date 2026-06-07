@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780844959,
+  "cached_at": 1780845019,
   "lives": {
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
       "video_id": "848JLxwfdZk",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T12:00:02.000Z",
       "start_scheduled": "2026-06-07T12:00:00.000Z",
       "start_actual": "2026-06-07T12:00:02.000Z",
-      "live_viewers": 7264,
+      "live_viewers": 8081,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -141,29 +141,9 @@
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "1xrsIfn6LI4",
-      "title": "【メンバー限定】今までありがとうございました!【岸堂天真/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-07T12:34:59.000Z",
-      "available_at": "2026-06-07T13:01:25.000Z",
-      "start_scheduled": "2026-06-07T13:00:00.000Z",
-      "start_actual": "2026-06-07T13:01:25.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "jG-EPYQ4V9g",
-      "title": "【 桃太郎電鉄2 】RoARiSで仲良く桃鉄やるぞっ🎵【ロボ子先輩 AZKi先輩 水宮枢 響咲リオナ】",
+      "title": "【 桃太郎電鉄２ 】RoARiSで仲良く桃鉄やるぞっ🎵【ロボ子先輩 AZKi先輩 水宮枢 響咲リオナ】",
       "type": "stream",
       "status": "live",
       "topic_id": "momotaro_dentetsu",
@@ -171,7 +151,7 @@
       "available_at": "2026-06-07T13:04:31.000Z",
       "start_scheduled": "2026-06-07T13:00:00.000Z",
       "start_actual": "2026-06-07T13:04:31.000Z",
-      "live_viewers": 15264,
+      "live_viewers": 9744,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -179,26 +159,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvInZx9h3jC2JzsIzoOebWg": {
-      "video_id": "bokAZuTvyHY",
-      "title": "#01 【バイオハザード レクイエム】久しぶりのバイオやばいお!【不知火フレア/ホロライブ】ネタバレ注意",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-06-07T13:06:29.000Z",
-      "available_at": "2026-06-07T13:09:12.000Z",
-      "start_scheduled": "2026-06-07T13:06:29.000Z",
-      "start_actual": "2026-06-07T13:09:12.000Z",
-      "live_viewers": 7495,
-      "channel": {
-        "id": "UCvInZx9h3jC2JzsIzoOebWg",
-        "name": "Flare Ch. 不知火フレア",
-        "english_name": "Shiranui Flare",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCAoy6rzhSf4ydcYjJw3WoVg": {
@@ -263,10 +223,10 @@
     },
     "UCez5D_dtExDJzQOAzg1k1RQ": {
       "video_id": "mz9pg6Skqq0",
-      "title": "【 #REPO 】オワ軍の時間です【#折咲もしゅ #MOSHULIVE #REJECT】",
+      "title": "【 #Dreadline: Net Quota】オワ軍の時間です【#折咲もしゅ #MOSHULIVE #REJECT】",
       "type": "stream",
       "status": "live",
-      "topic_id": "R.E.P.O.",
+      "topic_id": "none",
       "published_at": "2026-06-07T05:42:04.000Z",
       "available_at": "2026-06-07T15:00:00.000Z",
       "start_scheduled": "2026-06-07T15:00:00.000Z",
@@ -290,7 +250,7 @@
       "available_at": "2026-06-07T15:03:58.000Z",
       "start_scheduled": "2026-06-07T15:00:00.000Z",
       "start_actual": "2026-06-07T15:03:58.000Z",
-      "live_viewers": 1679,
+      "live_viewers": 2106,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
