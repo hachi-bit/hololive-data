@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780865900,
+  "cached_at": 1780865959,
   "lives": {
     "UCHsx4Hqa-1ORjQTh9TYDhww": {
       "video_id": "zyjY2ECJ9s4",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T18:55:43.000Z",
       "start_scheduled": "2026-06-07T19:00:00.000Z",
       "start_actual": "2026-06-07T18:55:43.000Z",
-      "live_viewers": 5593,
+      "live_viewers": 5519,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC727SQYUvx5pDDGQpTICNWg": {
-      "video_id": "xPjdbbzU1Zo",
-      "title": "【#PCGamingShow】OFFICIAL CO-STREAM! THE GAMES JUST KEEP ON COMING! 同時視聴【hololive | Anya Melfissa】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-06-07T16:39:51.000Z",
-      "available_at": "2026-06-07T18:59:21.000Z",
-      "start_scheduled": "2026-06-07T19:00:00.000Z",
-      "start_actual": "2026-06-07T18:59:21.000Z",
-      "live_viewers": 843,
-      "channel": {
-        "id": "UC727SQYUvx5pDDGQpTICNWg",
-        "name": "Anya Melfissa Ch. hololive-ID",
-        "english_name": "Anya Melfissa",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvN5h1ShZtc7nly3pezRayg": {
@@ -91,7 +71,7 @@
       "available_at": "2026-06-07T20:53:32.000Z",
       "start_scheduled": "2026-06-07T21:00:00.000Z",
       "start_actual": "2026-06-07T20:53:32.000Z",
-      "live_viewers": 455,
+      "live_viewers": 495,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
