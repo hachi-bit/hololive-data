@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780863079,
+  "cached_at": 1780863139,
   "lives": {
     "UCHsx4Hqa-1ORjQTh9TYDhww": {
       "video_id": "zyjY2ECJ9s4",
@@ -99,6 +99,25 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvN5h1ShZtc7nly3pezRayg": {
+      "video_id": "fxLNzyvPPfc",
+      "title": "【ANNOUNCEMENT STREAM】Medium big with a side of fries - hints all over the place",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Choo-Choo_Charles",
+      "published_at": "2026-06-07T12:39:35.000Z",
+      "available_at": "2026-06-07T20:10:00.000Z",
+      "start_scheduled": "2026-06-07T20:10:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvN5h1ShZtc7nly3pezRayg",
+        "name": "Cecilia Immergreen Ch. hololive-EN",
+        "english_name": "Cecilia Immergreen",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
