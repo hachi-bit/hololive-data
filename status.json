@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780839199,
+  "cached_at": 1780839259,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "jb2K72IEubI",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-07T10:00:13.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 29645,
+      "live_viewers": 28881,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T11:00:19.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:00:19.000Z",
-      "live_viewers": 24924,
+      "live_viewers": 23496,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-07T11:06:32.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:06:32.000Z",
-      "live_viewers": 1623,
+      "live_viewers": 1634,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-07T12:01:11.000Z",
       "start_scheduled": "2026-06-07T12:00:00.000Z",
       "start_actual": "2026-06-07T12:01:11.000Z",
-      "live_viewers": 3056,
+      "live_viewers": 3120,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-07T12:30:17.000Z",
       "start_scheduled": "2026-06-07T12:30:00.000Z",
       "start_actual": "2026-06-07T12:30:17.000Z",
-      "live_viewers": 2373,
+      "live_viewers": 2338,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -271,7 +271,7 @@
       "available_at": "2026-06-07T13:00:37.000Z",
       "start_scheduled": "2026-06-07T13:00:00.000Z",
       "start_actual": "2026-06-07T13:00:37.000Z",
-      "live_viewers": 840,
+      "live_viewers": 841,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -311,7 +311,7 @@
       "available_at": "2026-06-07T13:01:02.000Z",
       "start_scheduled": "2026-06-07T13:00:00.000Z",
       "start_actual": "2026-06-07T13:01:02.000Z",
-      "live_viewers": 7416,
+      "live_viewers": 7643,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -351,7 +351,7 @@
       "available_at": "2026-06-07T13:04:31.000Z",
       "start_scheduled": "2026-06-07T13:00:00.000Z",
       "start_actual": "2026-06-07T13:04:31.000Z",
-      "live_viewers": 16001,
+      "live_viewers": 16249,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -371,7 +371,7 @@
       "available_at": "2026-06-07T13:09:12.000Z",
       "start_scheduled": "2026-06-07T13:06:29.000Z",
       "start_actual": "2026-06-07T13:09:12.000Z",
-      "live_viewers": 5748,
+      "live_viewers": 5811,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -391,7 +391,7 @@
       "available_at": "2026-06-07T13:12:50.000Z",
       "start_scheduled": "2026-06-07T13:10:00.000Z",
       "start_actual": "2026-06-07T13:12:50.000Z",
-      "live_viewers": 645,
+      "live_viewers": 666,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -399,6 +399,26 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCY7Qs1UGnO3LYpNVwitTXUA": {
+      "video_id": "bmd3fRDMX8I",
+      "title": "VTuver楽曲ランキング〜空編〜結果発表!ゲスト:ときのそら【#ミューコミVR】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Ranking",
+      "published_at": "2026-05-31T15:40:13.000Z",
+      "available_at": "2026-06-07T13:30:06.000Z",
+      "start_scheduled": "2026-06-07T13:30:00.000Z",
+      "start_actual": "2026-06-07T13:30:06.000Z",
+      "live_viewers": 425,
+      "channel": {
+        "id": "UCY7Qs1UGnO3LYpNVwitTXUA",
+        "name": "ミューコミVR",
+        "english_name": "Ishou Ken",
+        "org": "Independents",
+        "suborg": "niNippon Broadcasting System",
+        "photo": "https://yt3.ggpht.com/66MynehwQ9aaPffwcUdt4f4DIHbb3egL3CmQtiguiX-JyelK7caxfs0wZy88L-_TTE6JcQkY=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
