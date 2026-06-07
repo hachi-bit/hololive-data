@@ -1,26 +1,6 @@
 {
-  "cached_at": 1780868239,
+  "cached_at": 1780868300,
   "lives": {
-    "UCvN5h1ShZtc7nly3pezRayg": {
-      "video_id": "fxLNzyvPPfc",
-      "title": "【ANNOUNCEMENT STREAM】Medium big with a side of fries - hints all over the place",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Choo-Choo_Charles",
-      "published_at": "2026-06-07T12:39:35.000Z",
-      "available_at": "2026-06-07T20:11:23.000Z",
-      "start_scheduled": "2026-06-07T20:10:00.000Z",
-      "start_actual": "2026-06-07T20:11:23.000Z",
-      "live_viewers": 8977,
-      "channel": {
-        "id": "UCvN5h1ShZtc7nly3pezRayg",
-        "name": "Cecilia Immergreen Ch. hololive-EN",
-        "english_name": "Cecilia Immergreen",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "98wolkfCnUE",
       "title": "PC GAMING SHOW AFTER PARTY【MARATHON】",
@@ -31,7 +11,7 @@
       "available_at": "2026-06-07T20:53:32.000Z",
       "start_scheduled": "2026-06-07T21:00:00.000Z",
       "start_actual": "2026-06-07T20:53:32.000Z",
-      "live_viewers": 480,
+      "live_viewers": 462,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -39,6 +19,26 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvN5h1ShZtc7nly3pezRayg": {
+      "video_id": "0ry5cruKqsw",
+      "title": "【GERMAN COVER】LAGTRAIN (Cecilia Immergreen)",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Music_Cover",
+      "published_at": "2026-06-07T21:34:06.000Z",
+      "available_at": "2026-06-07T21:34:06.000Z",
+      "start_scheduled": "2026-06-07T21:34:00.000Z",
+      "start_actual": "2026-06-07T21:34:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvN5h1ShZtc7nly3pezRayg",
+        "name": "Cecilia Immergreen Ch. hololive-EN",
+        "english_name": "Cecilia Immergreen",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
