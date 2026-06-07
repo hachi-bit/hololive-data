@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780816698,
+  "cached_at": 1780816759,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "BQt641OEweY",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T03:07:26.000Z",
       "start_scheduled": "2026-06-07T03:00:00.000Z",
       "start_actual": "2026-06-07T03:07:26.000Z",
-      "live_viewers": 7816,
+      "live_viewers": 7752,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-07T04:03:57.000Z",
       "start_scheduled": "2026-06-07T04:00:00.000Z",
       "start_actual": "2026-06-07T04:03:57.000Z",
-      "live_viewers": 24979,
+      "live_viewers": 24179,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-07T04:58:37.000Z",
       "start_scheduled": "2026-06-07T05:00:00.000Z",
       "start_actual": "2026-06-07T04:58:37.000Z",
-      "live_viewers": 5207,
+      "live_viewers": 4892,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKMWFR6lAstLa7Vbf5dH7ig": {
-      "video_id": "Guyz5x752es",
-      "title": "【競馬/安田記念】来い!!!!!ガイアフォース!!!!!!!!!!!!【輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Horse_racing",
-      "published_at": "2026-06-06T16:23:31.000Z",
-      "available_at": "2026-06-07T05:31:03.000Z",
-      "start_scheduled": "2026-06-07T05:30:00.000Z",
-      "start_actual": "2026-06-07T05:31:03.000Z",
-      "live_viewers": 2641,
-      "channel": {
-        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "english_name": "Rindo Chihaya",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC_vMYWcDjmfdpH6r4TTn1MQ": {
@@ -151,7 +131,7 @@
       "available_at": "2026-06-07T06:21:28.000Z",
       "start_scheduled": "2026-06-07T05:30:00.000Z",
       "start_actual": "2026-06-07T06:21:28.000Z",
-      "live_viewers": 4433,
+      "live_viewers": 4571,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -171,7 +151,7 @@
       "available_at": "2026-06-07T07:00:21.000Z",
       "start_scheduled": "2026-06-07T07:00:00.000Z",
       "start_actual": "2026-06-07T07:00:21.000Z",
-      "live_viewers": 368,
+      "live_viewers": 387,
       "channel": {
         "id": "UCRm6lqtdxs_Qo6HeL-SRQ-w",
         "name": "レイン・パターソン／Lain Paterson【にじさんじ】",
@@ -211,7 +191,7 @@
       "available_at": "2026-06-07T07:01:36.000Z",
       "start_scheduled": "2026-06-07T07:00:00.000Z",
       "start_actual": "2026-06-07T07:01:36.000Z",
-      "live_viewers": 1852,
+      "live_viewers": 1972,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -231,7 +211,7 @@
       "available_at": "2026-06-07T07:02:01.000Z",
       "start_scheduled": "2026-06-07T07:00:00.000Z",
       "start_actual": "2026-06-07T07:02:01.000Z",
-      "live_viewers": 1927,
+      "live_viewers": 2019,
       "channel": {
         "id": "UC9EjSJ8pvxtvPdxLOElv73w",
         "name": "魔界ノりりむ",
@@ -251,7 +231,7 @@
       "available_at": "2026-06-07T07:02:24.000Z",
       "start_scheduled": "2026-06-07T07:00:00.000Z",
       "start_actual": "2026-06-07T07:02:24.000Z",
-      "live_viewers": 2002,
+      "live_viewers": 2172,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
