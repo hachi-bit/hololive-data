@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780838179,
+  "cached_at": 1780838239,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "jb2K72IEubI",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T11:00:19.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:00:19.000Z",
-      "live_viewers": 24962,
+      "live_viewers": 25261,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-07T11:08:07.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:08:07.000Z",
-      "live_viewers": 490,
+      "live_viewers": 519,
       "channel": {
         "id": "UCbc8fwhdUNlqi-J99ISYu4A",
         "name": "ベルモンド・バンデラス",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-07T11:31:54.000Z",
       "start_scheduled": "2026-06-07T11:30:00.000Z",
       "start_actual": "2026-06-07T11:31:54.000Z",
-      "live_viewers": 842,
+      "live_viewers": 839,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -271,7 +271,7 @@
       "available_at": "2026-06-07T13:00:37.000Z",
       "start_scheduled": "2026-06-07T13:00:00.000Z",
       "start_actual": "2026-06-07T13:00:37.000Z",
-      "live_viewers": 689,
+      "live_viewers": 758,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -311,7 +311,7 @@
       "available_at": "2026-06-07T13:01:02.000Z",
       "start_scheduled": "2026-06-07T13:00:00.000Z",
       "start_actual": "2026-06-07T13:01:02.000Z",
-      "live_viewers": 5540,
+      "live_viewers": 5942,
       "channel": {
         "id": "UCL_qhgtOy0dy1Agp8vkySQg",
         "name": "Mori Calliope Ch. hololive-EN",
@@ -351,7 +351,7 @@
       "available_at": "2026-06-07T13:04:31.000Z",
       "start_scheduled": "2026-06-07T13:00:00.000Z",
       "start_actual": "2026-06-07T13:04:31.000Z",
-      "live_viewers": 12816,
+      "live_viewers": 13616,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -371,7 +371,7 @@
       "available_at": "2026-06-07T13:09:12.000Z",
       "start_scheduled": "2026-06-07T13:06:29.000Z",
       "start_actual": "2026-06-07T13:09:12.000Z",
-      "live_viewers": 3528,
+      "live_viewers": 4078,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -388,9 +388,10 @@
       "status": "live",
       "topic_id": "Subnautica",
       "published_at": "2026-06-07T13:10:35.000Z",
-      "available_at": "2026-06-07T13:10:00.000Z",
+      "available_at": "2026-06-07T13:12:50.000Z",
       "start_scheduled": "2026-06-07T13:10:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-07T13:12:50.000Z",
+      "live_viewers": 488,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
