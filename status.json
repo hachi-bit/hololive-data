@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780831339,
+  "cached_at": 1780831399,
   "lives": {
     "UC6t3-_N8A6ME1JShZHHqOMw": {
       "video_id": "5k6Op8OOoO0",
@@ -41,26 +41,6 @@
         "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "jb2K72IEubI",
-      "title": "#5【SFC】完全初見!ドラゴンクエストVI 幻の大地 ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Dragon_Quest",
-      "published_at": "2026-06-06T17:47:08.000Z",
-      "available_at": "2026-06-07T10:00:13.000Z",
-      "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 27258,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
       "video_id": "fozUtn9kJbU",
       "title": "【マリオカート8DX】#ホロスタ無敵マリカ オウガ参戦【荒咬オウガ /ホロスターズ】",
@@ -91,7 +71,7 @@
       "available_at": "2026-06-07T10:00:13.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 815,
+      "live_viewers": 782,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -99,6 +79,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "jb2K72IEubI",
+      "title": "#5【SFC】完全初見!ドラゴンクエストVI 幻の大地 ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dragon_Quest",
+      "published_at": "2026-06-06T17:47:08.000Z",
+      "available_at": "2026-06-07T10:00:13.000Z",
+      "start_scheduled": "2026-06-07T10:00:00.000Z",
+      "start_actual": "2026-06-07T10:00:13.000Z",
+      "live_viewers": 27346,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
@@ -151,7 +151,7 @@
       "available_at": "2026-06-07T10:00:39.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:39.000Z",
-      "live_viewers": 852,
+      "live_viewers": 839,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-07T10:01:29.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:01:29.000Z",
-      "live_viewers": 582,
+      "live_viewers": 576,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-07T10:01:37.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:01:37.000Z",
-      "live_viewers": 223,
+      "live_viewers": 225,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -231,7 +231,7 @@
       "available_at": "2026-06-07T10:53:17.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T10:53:17.000Z",
-      "live_viewers": 76741,
+      "live_viewers": 81602,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-07T11:00:19.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:00:19.000Z",
-      "live_viewers": 16731,
+      "live_viewers": 17589,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -271,7 +271,7 @@
       "available_at": "2026-06-07T11:06:32.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:06:32.000Z",
-      "live_viewers": 1503,
+      "live_viewers": 1688,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -291,7 +291,7 @@
       "available_at": "2026-06-07T11:08:07.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:08:07.000Z",
-      "live_viewers": 454,
+      "live_viewers": 480,
       "channel": {
         "id": "UCbc8fwhdUNlqi-J99ISYu4A",
         "name": "ベルモンド・バンデラス",
@@ -311,7 +311,7 @@
       "available_at": "2026-06-07T11:14:21.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:14:21.000Z",
-      "live_viewers": 2491,
+      "live_viewers": 3063,
       "channel": {
         "id": "UCHVXbQzkl3rDfsXWo8xi2qw",
         "name": "アンジュ・カトリーナ - Ange Katrina -",
@@ -331,7 +331,7 @@
       "available_at": "2026-06-07T11:14:23.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:14:23.000Z",
-      "live_viewers": 426,
+      "live_viewers": 495,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
