@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780813459,
+  "cached_at": 1780813519,
   "lives": {
     "UCYz_5n-uDuChHtLo7My1HnQ": {
       "video_id": "e1OPR1uUPVw",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-07T03:07:26.000Z",
       "start_scheduled": "2026-06-07T03:00:00.000Z",
       "start_actual": "2026-06-07T03:07:26.000Z",
-      "live_viewers": 8027,
+      "live_viewers": 7999,
       "channel": {
         "id": "UC8rcEBzJSleTkf_-agPM20g",
         "name": "IRyS Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-07T04:03:57.000Z",
       "start_scheduled": "2026-06-07T04:00:00.000Z",
       "start_actual": "2026-06-07T04:03:57.000Z",
-      "live_viewers": 23925,
+      "live_viewers": 24129,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-07T04:58:37.000Z",
       "start_scheduled": "2026-06-07T05:00:00.000Z",
       "start_actual": "2026-06-07T04:58:37.000Z",
-      "live_viewers": 5624,
+      "live_viewers": 5997,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -121,25 +121,6 @@
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
-      "video_id": "93C9OK0fW80",
-      "title": "【ウマ娘プリティーダービー】完全初見#17 新人トレーナ✨️メイン編【水宮枢/ホロライブDEV_IS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "umamusume",
-      "published_at": "2026-06-06T20:24:30.000Z",
-      "available_at": "2026-06-07T05:30:00.000Z",
-      "start_scheduled": "2026-06-07T05:30:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-        "name": "Su Ch. 水宮枢 - FLOW GLOW",
-        "english_name": "Mizumiya Su",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
       "video_id": "Guyz5x752es",
       "title": "【競馬/安田記念】来い!!!!!ガイアフォース!!!!!!!!!!!!【輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
@@ -150,7 +131,7 @@
       "available_at": "2026-06-07T05:31:03.000Z",
       "start_scheduled": "2026-06-07T05:30:00.000Z",
       "start_actual": "2026-06-07T05:31:03.000Z",
-      "live_viewers": 3668,
+      "live_viewers": 3723,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -170,7 +151,7 @@
       "available_at": "2026-06-07T06:00:58.000Z",
       "start_scheduled": "2026-06-07T06:00:00.000Z",
       "start_actual": "2026-06-07T06:00:58.000Z",
-      "live_viewers": 5966,
+      "live_viewers": 6250,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -178,6 +159,26 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
+      "video_id": "93C9OK0fW80",
+      "title": "【ウマ娘プリティーダービー】完全初見#17 新人トレーナ✨️メイン編【水宮枢/ホロライブDEV_IS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "umamusume",
+      "published_at": "2026-06-06T20:24:30.000Z",
+      "available_at": "2026-06-07T06:21:28.000Z",
+      "start_scheduled": "2026-06-07T05:30:00.000Z",
+      "start_actual": "2026-06-07T06:21:28.000Z",
+      "live_viewers": 2084,
+      "channel": {
+        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+        "name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "english_name": "Mizumiya Su",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
