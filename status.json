@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780812140,
+  "cached_at": 1780812199,
   "lives": {
     "UCYz_5n-uDuChHtLo7My1HnQ": {
       "video_id": "e1OPR1uUPVw",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T01:00:33.000Z",
       "start_scheduled": "2026-06-07T01:00:00.000Z",
       "start_actual": "2026-06-07T01:00:33.000Z",
-      "live_viewers": 4603,
+      "live_viewers": 4484,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-07T04:03:57.000Z",
       "start_scheduled": "2026-06-07T04:00:00.000Z",
       "start_actual": "2026-06-07T04:03:57.000Z",
-      "live_viewers": 24797,
+      "live_viewers": 24800,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-07T04:58:37.000Z",
       "start_scheduled": "2026-06-07T05:00:00.000Z",
       "start_actual": "2026-06-07T04:58:37.000Z",
-      "live_viewers": 4877,
+      "live_viewers": 4775,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-07T05:29:30.000Z",
       "start_scheduled": "2026-06-07T05:30:00.000Z",
       "start_actual": "2026-06-07T05:29:30.000Z",
-      "live_viewers": 8121,
+      "live_viewers": 8562,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-07T05:31:03.000Z",
       "start_scheduled": "2026-06-07T05:30:00.000Z",
       "start_actual": "2026-06-07T05:31:03.000Z",
-      "live_viewers": 2822,
+      "live_viewers": 2935,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -178,6 +178,25 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_vMYWcDjmfdpH6r4TTn1MQ": {
+      "video_id": "3I2cpBGN_yc",
+      "title": "【Minecraft】ウォーデン100体もたおした!!大会もみた!次はおまえだ【風真いろは/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-07T05:05:47.000Z",
+      "available_at": "2026-06-07T06:00:00.000Z",
+      "start_scheduled": "2026-06-07T06:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "name": "Iroha ch. 風真いろは - holoX -",
+        "english_name": "Kazama Iroha",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
