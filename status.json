@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780871898,
+  "cached_at": 1780871959,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "98wolkfCnUE",
@@ -21,25 +21,6 @@
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
-      "video_id": "kfDqqYKmYEc",
-      "title": "おは言え雑談 【 #奏手イヅル 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-07T22:22:46.000Z",
-      "available_at": "2026-06-07T22:30:00.000Z",
-      "start_scheduled": "2026-06-07T22:30:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "name": "Izuru Ch. 奏手イヅル",
-        "english_name": "Kanade Izuru",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "2brONoZewtQ",
       "title": "【#朝ミオ 】お久しぶりです!おはみぉーん!",
@@ -50,7 +31,7 @@
       "available_at": "2026-06-07T22:31:30.000Z",
       "start_scheduled": "2026-06-07T22:30:00.000Z",
       "start_actual": "2026-06-07T22:31:30.000Z",
-      "live_viewers": 9052,
+      "live_viewers": 13073,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -58,6 +39,26 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
+      "video_id": "kfDqqYKmYEc",
+      "title": "おは言え雑談 【 #奏手イヅル 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-06-07T22:22:46.000Z",
+      "available_at": "2026-06-07T22:33:53.000Z",
+      "start_scheduled": "2026-06-07T22:30:00.000Z",
+      "start_actual": "2026-06-07T22:33:53.000Z",
+      "live_viewers": 352,
+      "channel": {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "english_name": "Kanade Izuru",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
