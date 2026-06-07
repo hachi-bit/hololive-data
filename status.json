@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780810459,
+  "cached_at": 1780810519,
   "lives": {
     "UCYz_5n-uDuChHtLo7My1HnQ": {
       "video_id": "e1OPR1uUPVw",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-07T02:28:25.000Z",
       "start_scheduled": "2026-06-07T02:30:00.000Z",
       "start_actual": "2026-06-07T02:28:25.000Z",
-      "live_viewers": 3251,
+      "live_viewers": 3158,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-07T04:58:37.000Z",
       "start_scheduled": "2026-06-07T05:00:00.000Z",
       "start_actual": "2026-06-07T04:58:37.000Z",
-      "live_viewers": 4198,
+      "live_viewers": 4246,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-07T05:29:30.000Z",
       "start_scheduled": "2026-06-07T05:30:00.000Z",
       "start_actual": "2026-06-07T05:29:30.000Z",
-      "live_viewers": 1255,
+      "live_viewers": 2726,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -187,9 +187,10 @@
       "status": "live",
       "topic_id": "Horse_racing",
       "published_at": "2026-06-06T16:23:31.000Z",
-      "available_at": "2026-06-07T05:30:00.000Z",
+      "available_at": "2026-06-07T05:31:03.000Z",
       "start_scheduled": "2026-06-07T05:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-07T05:31:03.000Z",
+      "live_viewers": 1183,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
