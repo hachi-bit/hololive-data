@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780832239,
+  "cached_at": 1780832299,
   "lives": {
     "UC6t3-_N8A6ME1JShZHHqOMw": {
       "video_id": "5k6Op8OOoO0",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T10:00:07.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:07.000Z",
-      "live_viewers": 604,
+      "live_viewers": 593,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -39,6 +39,26 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGNI4MENvnsymYjKiZwv9eg": {
+      "video_id": "2OJjvdWfSYE",
+      "title": "【#ホロスタ無敵マリカ】ホロスタ最速の男 ラストラン 岸堂天真視点【マリオカート8dx】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_Kart",
+      "published_at": "2026-06-06T15:45:55.000Z",
+      "available_at": "2026-06-07T10:00:13.000Z",
+      "start_scheduled": "2026-06-07T10:00:00.000Z",
+      "start_actual": "2026-06-07T10:00:13.000Z",
+      "live_viewers": 788,
+      "channel": {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "english_name": "Kishido Temma",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
@@ -71,7 +91,7 @@
       "available_at": "2026-06-07T10:00:13.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 27933,
+      "live_viewers": 27733,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -79,26 +99,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "2OJjvdWfSYE",
-      "title": "【#ホロスタ無敵マリカ】ホロスタ最速の男 ラストラン 岸堂天真視点【マリオカート8dx】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mario_Kart",
-      "published_at": "2026-06-06T15:45:55.000Z",
-      "available_at": "2026-06-07T10:00:13.000Z",
-      "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 788,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
@@ -291,7 +291,7 @@
       "available_at": "2026-06-07T11:08:07.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:08:07.000Z",
-      "live_viewers": 528,
+      "live_viewers": 521,
       "channel": {
         "id": "UCbc8fwhdUNlqi-J99ISYu4A",
         "name": "ベルモンド・バンデラス",
@@ -311,7 +311,7 @@
       "available_at": "2026-06-07T11:14:21.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:14:21.000Z",
-      "live_viewers": 3390,
+      "live_viewers": 3483,
       "channel": {
         "id": "UCHVXbQzkl3rDfsXWo8xi2qw",
         "name": "アンジュ・カトリーナ - Ange Katrina -",
@@ -331,7 +331,7 @@
       "available_at": "2026-06-07T11:14:23.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:14:23.000Z",
-      "live_viewers": 579,
+      "live_viewers": 625,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -351,7 +351,7 @@
       "available_at": "2026-06-07T11:31:54.000Z",
       "start_scheduled": "2026-06-07T11:30:00.000Z",
       "start_actual": "2026-06-07T11:31:54.000Z",
-      "live_viewers": 176,
+      "live_viewers": 305,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
