@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780810279,
+  "cached_at": 1780810339,
   "lives": {
     "UCYz_5n-uDuChHtLo7My1HnQ": {
       "video_id": "e1OPR1uUPVw",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-07T01:00:25.000Z",
       "start_scheduled": "2026-06-07T01:00:00.000Z",
       "start_actual": "2026-06-07T01:00:25.000Z",
-      "live_viewers": 1332,
+      "live_viewers": 1324,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T01:00:33.000Z",
       "start_scheduled": "2026-06-07T01:00:00.000Z",
       "start_actual": "2026-06-07T01:00:33.000Z",
-      "live_viewers": 5059,
+      "live_viewers": 5036,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-07T02:00:41.000Z",
       "start_scheduled": "2026-06-07T02:00:00.000Z",
       "start_actual": "2026-06-07T02:00:41.000Z",
-      "live_viewers": 5034,
+      "live_viewers": 4976,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-07T04:03:57.000Z",
       "start_scheduled": "2026-06-07T04:00:00.000Z",
       "start_actual": "2026-06-07T04:03:57.000Z",
-      "live_viewers": 24673,
+      "live_viewers": 23605,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -139,6 +139,64 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "RhM7dBn4weQ",
+      "title": "【 安田記念 】上半期マイル王決定戦!!マイルキングになるのはどの馬だ!?【鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Horse_racing",
+      "published_at": "2026-06-07T01:26:01.000Z",
+      "available_at": "2026-06-07T05:29:30.000Z",
+      "start_scheduled": "2026-06-07T05:30:00.000Z",
+      "start_actual": "2026-06-07T05:29:30.000Z",
+      "live_viewers": 1255,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
+      "video_id": "93C9OK0fW80",
+      "title": "【ウマ娘プリティーダービー】完全初見#17 新人トレーナ✨️メイン編【水宮枢/ホロライブDEV_IS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "umamusume",
+      "published_at": "2026-06-06T20:24:30.000Z",
+      "available_at": "2026-06-07T05:30:00.000Z",
+      "start_scheduled": "2026-06-07T05:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+        "name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "english_name": "Mizumiya Su",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKMWFR6lAstLa7Vbf5dH7ig": {
+      "video_id": "Guyz5x752es",
+      "title": "【競馬/安田記念】来い!!!!!ガイアフォース!!!!!!!!!!!!【輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Horse_racing",
+      "published_at": "2026-06-06T16:23:31.000Z",
+      "available_at": "2026-06-07T05:30:00.000Z",
+      "start_scheduled": "2026-06-07T05:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+        "english_name": "Rindo Chihaya",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
