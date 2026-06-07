@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780863199,
+  "cached_at": 1780863259,
   "lives": {
     "UCHsx4Hqa-1ORjQTh9TYDhww": {
       "video_id": "zyjY2ECJ9s4",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-07T19:00:58.000Z",
       "start_scheduled": "2026-06-07T19:00:00.000Z",
       "start_actual": "2026-06-07T19:00:58.000Z",
-      "live_viewers": 774,
+      "live_viewers": 772,
       "channel": {
         "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
         "name": "Octavio Ch. HOLOSTARS-EN",
@@ -108,9 +108,10 @@
       "status": "live",
       "topic_id": "Choo-Choo_Charles",
       "published_at": "2026-06-07T12:39:35.000Z",
-      "available_at": "2026-06-07T20:10:00.000Z",
+      "available_at": "2026-06-07T20:11:23.000Z",
       "start_scheduled": "2026-06-07T20:10:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-07T20:11:23.000Z",
+      "live_viewers": 2405,
       "channel": {
         "id": "UCvN5h1ShZtc7nly3pezRayg",
         "name": "Cecilia Immergreen Ch. hololive-EN",
