@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780835359,
+  "cached_at": 1780835419,
   "lives": {
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "jb2K72IEubI",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-07T10:00:13.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 28311,
+      "live_viewers": 28439,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "o78B8M05P4A",
-      "title": "【マリオカート8 DX】#ホロスタ無敵マリカ 最後の、ホロスターズ / アステル",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mario_Kart",
-      "published_at": "2026-06-07T09:54:46.000Z",
-      "available_at": "2026-06-07T10:01:29.000Z",
-      "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "start_actual": "2026-06-07T10:01:29.000Z",
-      "live_viewers": 1176,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
@@ -111,7 +91,7 @@
       "available_at": "2026-06-07T11:14:21.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:14:21.000Z",
-      "live_viewers": 3763,
+      "live_viewers": 3781,
       "channel": {
         "id": "UCHVXbQzkl3rDfsXWo8xi2qw",
         "name": "アンジュ・カトリーナ - Ange Katrina -",
@@ -171,7 +151,7 @@
       "available_at": "2026-06-07T12:00:02.000Z",
       "start_scheduled": "2026-06-07T12:00:00.000Z",
       "start_actual": "2026-06-07T12:00:02.000Z",
-      "live_viewers": 8709,
+      "live_viewers": 8887,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -191,7 +171,7 @@
       "available_at": "2026-06-07T12:00:18.000Z",
       "start_scheduled": "2026-06-07T12:00:00.000Z",
       "start_actual": "2026-06-07T12:00:18.000Z",
-      "live_viewers": 4184,
+      "live_viewers": 4189,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -211,7 +191,7 @@
       "available_at": "2026-06-07T12:00:27.000Z",
       "start_scheduled": "2026-06-07T12:00:00.000Z",
       "start_actual": "2026-06-07T12:00:27.000Z",
-      "live_viewers": 19014,
+      "live_viewers": 19996,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -231,7 +211,7 @@
       "available_at": "2026-06-07T12:01:11.000Z",
       "start_scheduled": "2026-06-07T12:00:00.000Z",
       "start_actual": "2026-06-07T12:01:11.000Z",
-      "live_viewers": 3106,
+      "live_viewers": 3039,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -243,7 +223,7 @@
     },
     "UC-hM6YJuNYVAmUWxeIr9FeA": {
       "video_id": "_8zbCVELEm4",
-      "title": "【#1】完全初見でバイオハザード5Resident Evil 5 にぇ!!!【ホロライブ/さくらみこ】",
+      "title": "【#1】完全初見でバイオハザード５Resident Evil 5 にぇ！！！【ホロライブ/さくらみこ】",
       "type": "stream",
       "status": "live",
       "topic_id": "residentevil",
@@ -251,7 +231,7 @@
       "available_at": "2026-06-07T12:02:10.000Z",
       "start_scheduled": "2026-06-07T12:00:00.000Z",
       "start_actual": "2026-06-07T12:02:10.000Z",
-      "live_viewers": 31470,
+      "live_viewers": 28743,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
