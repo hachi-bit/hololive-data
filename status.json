@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780830019,
+  "cached_at": 1780830079,
   "lives": {
     "UC8rcEBzJSleTkf_-agPM20g": {
       "video_id": "trGnCPYAlnY",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T06:00:58.000Z",
       "start_scheduled": "2026-06-07T06:00:00.000Z",
       "start_actual": "2026-06-07T06:00:58.000Z",
-      "live_viewers": 3994,
+      "live_viewers": 3702,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCWQtYtq9EOB4-I5P-3fh8lA": {
-      "video_id": "MIMFfjMph1s",
-      "title": "【 The Walking Trade #04 】新しいバイトが欲しい、、金を持ってこいー!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-06-07T06:45:30.000Z",
-      "available_at": "2026-06-07T07:01:36.000Z",
-      "start_scheduled": "2026-06-07T07:00:00.000Z",
-      "start_actual": "2026-06-07T07:01:36.000Z",
-      "live_viewers": 3914,
-      "channel": {
-        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-        "english_name": "Otonose Kanade",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
@@ -71,7 +51,7 @@
       "available_at": "2026-06-07T08:33:39.000Z",
       "start_scheduled": "2026-06-07T08:30:00.000Z",
       "start_actual": "2026-06-07T08:33:39.000Z",
-      "live_viewers": 6258,
+      "live_viewers": 5073,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -91,7 +71,7 @@
       "available_at": "2026-06-07T09:59:50.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T09:59:50.000Z",
-      "live_viewers": 836,
+      "live_viewers": 861,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -121,26 +101,6 @@
         "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "2OJjvdWfSYE",
-      "title": "【#ホロスタ無敵マリカ】ホロスタ最速の男 ラストラン 岸堂天真視点【マリオカート8dx】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mario_Kart",
-      "published_at": "2026-06-06T15:45:55.000Z",
-      "available_at": "2026-06-07T10:00:13.000Z",
-      "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 745,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
       "video_id": "fozUtn9kJbU",
       "title": "【マリオカート8DX】#ホロスタ無敵マリカ オウガ参戦【荒咬オウガ /ホロスターズ】",
@@ -161,6 +121,26 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCGNI4MENvnsymYjKiZwv9eg": {
+      "video_id": "2OJjvdWfSYE",
+      "title": "【#ホロスタ無敵マリカ】ホロスタ最速の男 ラストラン 岸堂天真視点【マリオカート8dx】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_Kart",
+      "published_at": "2026-06-06T15:45:55.000Z",
+      "available_at": "2026-06-07T10:00:13.000Z",
+      "start_scheduled": "2026-06-07T10:00:00.000Z",
+      "start_actual": "2026-06-07T10:00:13.000Z",
+      "live_viewers": 745,
+      "channel": {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "english_name": "Kishido Temma",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "jb2K72IEubI",
       "title": "#5【SFC】完全初見!ドラゴンクエストVI 幻の大地 ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
@@ -171,7 +151,7 @@
       "available_at": "2026-06-07T10:00:13.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 26712,
+      "live_viewers": 26865,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -191,7 +171,7 @@
       "available_at": "2026-06-07T10:00:15.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:15.000Z",
-      "live_viewers": 605,
+      "live_viewers": 577,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -211,7 +191,7 @@
       "available_at": "2026-06-07T10:00:20.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:20.000Z",
-      "live_viewers": 448,
+      "live_viewers": 430,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -271,7 +251,7 @@
       "available_at": "2026-06-07T10:01:29.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:01:29.000Z",
-      "live_viewers": 535,
+      "live_viewers": 523,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -291,7 +271,7 @@
       "available_at": "2026-06-07T10:01:37.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:01:37.000Z",
-      "live_viewers": 222,
+      "live_viewers": 175,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -331,7 +311,7 @@
       "available_at": "2026-06-07T10:03:21.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:03:21.000Z",
-      "live_viewers": 36140,
+      "live_viewers": 35303,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -351,7 +331,7 @@
       "available_at": "2026-06-07T10:08:15.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:08:15.000Z",
-      "live_viewers": 10379,
+      "live_viewers": 10162,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -371,7 +351,7 @@
       "available_at": "2026-06-07T10:53:17.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T10:53:17.000Z",
-      "live_viewers": 17355,
+      "live_viewers": 25210,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
