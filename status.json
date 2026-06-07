@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780862659,
+  "cached_at": 1780862719,
   "lives": {
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
       "video_id": "FD8Z0YDt8u0",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-07T15:03:58.000Z",
       "start_scheduled": "2026-06-07T15:00:00.000Z",
       "start_actual": "2026-06-07T15:03:58.000Z",
-      "live_viewers": 1271,
+      "live_viewers": 1275,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T15:08:16.000Z",
       "start_scheduled": "2026-06-07T15:00:00.000Z",
       "start_actual": "2026-06-07T15:08:16.000Z",
-      "live_viewers": 155,
+      "live_viewers": 165,
       "channel": {
         "id": "UCez5D_dtExDJzQOAzg1k1RQ",
         "name": "折咲もしゅch-Moshu Orisaki-",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-07T16:02:52.000Z",
       "start_scheduled": "2026-06-07T16:00:00.000Z",
       "start_actual": "2026-06-07T16:02:52.000Z",
-      "live_viewers": 3286,
+      "live_viewers": 3228,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-07T18:55:43.000Z",
       "start_scheduled": "2026-06-07T19:00:00.000Z",
       "start_actual": "2026-06-07T18:55:43.000Z",
-      "live_viewers": 13003,
+      "live_viewers": 12886,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-07T18:59:21.000Z",
       "start_scheduled": "2026-06-07T19:00:00.000Z",
       "start_actual": "2026-06-07T18:59:21.000Z",
-      "live_viewers": 942,
+      "live_viewers": 944,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-07T19:00:12.000Z",
       "start_scheduled": "2026-06-07T19:00:00.000Z",
       "start_actual": "2026-06-07T19:00:12.000Z",
-      "live_viewers": 819,
+      "live_viewers": 845,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -139,6 +139,25 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvN5h1ShZtc7nly3pezRayg": {
+      "video_id": "fxLNzyvPPfc",
+      "title": "【ANNOUNCEMENT STREAM】Medium big with a side of fries - hints all over the place",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Choo-Choo_Charles",
+      "published_at": "2026-06-07T12:39:35.000Z",
+      "available_at": "2026-06-07T20:00:00.000Z",
+      "start_scheduled": "2026-06-07T20:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvN5h1ShZtc7nly3pezRayg",
+        "name": "Cecilia Immergreen Ch. hololive-EN",
+        "english_name": "Cecilia Immergreen",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
