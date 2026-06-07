@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780865778,
+  "cached_at": 1780865839,
   "lives": {
     "UCHsx4Hqa-1ORjQTh9TYDhww": {
       "video_id": "zyjY2ECJ9s4",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-07T16:02:52.000Z",
       "start_scheduled": "2026-06-07T16:00:00.000Z",
       "start_actual": "2026-06-07T16:02:52.000Z",
-      "live_viewers": 2823,
+      "live_viewers": 2761,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T18:55:43.000Z",
       "start_scheduled": "2026-06-07T19:00:00.000Z",
       "start_actual": "2026-06-07T18:55:43.000Z",
-      "live_viewers": 5847,
+      "live_viewers": 5593,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -79,6 +79,26 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
+      "video_id": "98wolkfCnUE",
+      "title": "PC GAMING SHOW AFTER PARTY【MARATHON】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Marathon",
+      "published_at": "2026-06-07T20:52:18.000Z",
+      "available_at": "2026-06-07T20:53:32.000Z",
+      "start_scheduled": "2026-06-07T21:00:00.000Z",
+      "start_actual": "2026-06-07T20:53:32.000Z",
+      "live_viewers": 455,
+      "channel": {
+        "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+        "name": "Octavio Ch. HOLOSTARS-EN",
+        "english_name": "Octavio",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
