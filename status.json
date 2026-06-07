@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780847478,
+  "cached_at": 1780847539,
   "lives": {
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
       "video_id": "848JLxwfdZk",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-07T11:00:19.000Z",
       "start_scheduled": "2026-06-07T11:00:00.000Z",
       "start_actual": "2026-06-07T11:00:19.000Z",
-      "live_viewers": 13425,
+      "live_viewers": 12515,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-07T12:00:02.000Z",
       "start_scheduled": "2026-06-07T12:00:00.000Z",
       "start_actual": "2026-06-07T12:00:02.000Z",
-      "live_viewers": 9635,
+      "live_viewers": 9728,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -121,26 +121,6 @@
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCAoy6rzhSf4ydcYjJw3WoVg": {
-      "video_id": "lMHb0UAWHR4",
-      "title": "【Subnautica 2】BLUB V2【 iofi / hololiveID 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Subnautica",
-      "published_at": "2026-06-07T13:10:35.000Z",
-      "available_at": "2026-06-07T13:12:50.000Z",
-      "start_scheduled": "2026-06-07T13:10:00.000Z",
-      "start_actual": "2026-06-07T13:12:50.000Z",
-      "live_viewers": 1251,
-      "channel": {
-        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-        "name": "Airani Iofifteen Channel hololive-ID",
-        "english_name": "Airani Iofifteen",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCKeAhJvy8zgXWbh9duVjIaQ": {
       "video_id": "FD8Z0YDt8u0",
       "title": "【オワ軍よさらば】一番忙しい人に予定が入ったら爆散する枠【アルランディス/ホロスターズ】",
@@ -151,7 +131,7 @@
       "available_at": "2026-06-07T15:03:58.000Z",
       "start_scheduled": "2026-06-07T15:00:00.000Z",
       "start_actual": "2026-06-07T15:03:58.000Z",
-      "live_viewers": 1880,
+      "live_viewers": 1953,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
