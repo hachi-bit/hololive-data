@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780827799,
+  "cached_at": 1780827859,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "BQt641OEweY",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-07T07:00:28.000Z",
       "start_scheduled": "2026-06-07T07:00:00.000Z",
       "start_actual": "2026-06-07T07:00:28.000Z",
-      "live_viewers": 1348,
+      "live_viewers": 1345,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-07T07:01:36.000Z",
       "start_scheduled": "2026-06-07T07:00:00.000Z",
       "start_actual": "2026-06-07T07:01:36.000Z",
-      "live_viewers": 3110,
+      "live_viewers": 3997,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-07T09:59:50.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T09:59:50.000Z",
-      "live_viewers": 775,
+      "live_viewers": 796,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-07T10:00:07.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:07.000Z",
-      "live_viewers": 586,
+      "live_viewers": 581,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -219,26 +219,6 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "jb2K72IEubI",
-      "title": "#5【SFC】完全初見!ドラゴンクエストVI 幻の大地 ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Dragon_Quest",
-      "published_at": "2026-06-06T17:47:08.000Z",
-      "available_at": "2026-06-07T10:00:13.000Z",
-      "start_scheduled": "2026-06-07T10:00:00.000Z",
-      "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 19716,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
@@ -251,7 +231,7 @@
       "available_at": "2026-06-07T10:00:13.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 387,
+      "live_viewers": 409,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -271,7 +251,7 @@
       "available_at": "2026-06-07T10:00:13.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:13.000Z",
-      "live_viewers": 660,
+      "live_viewers": 681,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -279,6 +259,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "jb2K72IEubI",
+      "title": "#5【SFC】完全初見!ドラゴンクエストVI 幻の大地 ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dragon_Quest",
+      "published_at": "2026-06-06T17:47:08.000Z",
+      "available_at": "2026-06-07T10:00:13.000Z",
+      "start_scheduled": "2026-06-07T10:00:00.000Z",
+      "start_actual": "2026-06-07T10:00:13.000Z",
+      "live_viewers": 21543,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdfMHxjcCc2HSd9qFvfJgjg": {
@@ -291,7 +291,7 @@
       "available_at": "2026-06-07T10:00:15.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:15.000Z",
-      "live_viewers": 563,
+      "live_viewers": 568,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -311,7 +311,7 @@
       "available_at": "2026-06-07T10:00:20.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:20.000Z",
-      "live_viewers": 406,
+      "live_viewers": 427,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -331,7 +331,7 @@
       "available_at": "2026-06-07T10:00:39.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:39.000Z",
-      "live_viewers": 769,
+      "live_viewers": 741,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -351,7 +351,7 @@
       "available_at": "2026-06-07T10:00:59.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:00:59.000Z",
-      "live_viewers": 604,
+      "live_viewers": 611,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -371,7 +371,7 @@
       "available_at": "2026-06-07T10:01:29.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:01:29.000Z",
-      "live_viewers": 495,
+      "live_viewers": 475,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -391,7 +391,7 @@
       "available_at": "2026-06-07T10:01:37.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:01:37.000Z",
-      "live_viewers": 188,
+      "live_viewers": 187,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -406,12 +406,12 @@
       "title": "【活動3000日記念🎉】記念に雑談(?)【星街すいせい / #ほしまちすたじお】",
       "type": "stream",
       "status": "live",
-      "topic_id": "talk",
+      "topic_id": "totsu",
       "published_at": "2026-06-07T08:35:02.000Z",
       "available_at": "2026-06-07T10:01:53.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:01:53.000Z",
-      "live_viewers": 16053,
+      "live_viewers": 16082,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -431,7 +431,7 @@
       "available_at": "2026-06-07T10:03:21.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:03:21.000Z",
-      "live_viewers": 32595,
+      "live_viewers": 27523,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -451,7 +451,7 @@
       "available_at": "2026-06-07T10:08:15.000Z",
       "start_scheduled": "2026-06-07T10:00:00.000Z",
       "start_actual": "2026-06-07T10:08:15.000Z",
-      "live_viewers": 7926,
+      "live_viewers": 7699,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
