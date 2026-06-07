@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780874059,
+  "cached_at": 1780874120,
   "lives": {
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "2brONoZewtQ",
@@ -48,9 +48,10 @@
       "status": "live",
       "topic_id": "none",
       "published_at": "2026-06-07T11:26:24.000Z",
-      "available_at": "2026-06-07T23:00:00.000Z",
+      "available_at": "2026-06-07T23:12:05.000Z",
       "start_scheduled": "2026-06-07T23:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-07T23:12:05.000Z",
+      "live_viewers": 177,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
