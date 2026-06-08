@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780891399,
+  "cached_at": 1780891459,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "Y2OC6zHn4Kc",
@@ -41,26 +41,6 @@
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCozx5csNhCx1wsVq3SZVkBQ": {
-      "video_id": "TWVzfYA1oZo",
-      "title": "【常闇祭2】格ゲーマー必見!トワ様こだわりのアケコンが予約開始!【#昼ホロ / #風白ゆき】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "News_Show",
-      "published_at": "2026-06-08T01:33:56.000Z",
-      "available_at": "2026-06-08T02:58:27.000Z",
-      "start_scheduled": "2026-06-08T03:00:00.000Z",
-      "start_actual": "2026-06-08T02:58:27.000Z",
-      "live_viewers": 4053,
-      "channel": {
-        "id": "UCozx5csNhCx1wsVq3SZVkBQ",
-        "name": "holoAN room (ホロアナ)",
-        "english_name": "holoAN room",
-        "org": "Hololive",
-        "suborg": "0hOfficial",
-        "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCmbs8T6MWqUHP1tIQvSgKrg": {
       "video_id": "AZiDaFfgU3Y",
       "title": "【Just Chatting】Shortest Yap Session",
@@ -91,7 +71,7 @@
       "available_at": "2026-06-08T03:36:34.000Z",
       "start_scheduled": "2026-06-08T03:00:00.000Z",
       "start_actual": "2026-06-08T03:36:34.000Z",
-      "live_viewers": 658,
+      "live_viewers": 660,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -99,6 +79,26 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/wHtqHQ5LdCv_PnI-EeHUoedJgOe-fQcv9Fhkb7cod7oTo-f3rKJBJA0xSsVS4BhO9HnShdrnBA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCANDOlYTJT7N5jlRC3zfzVA": {
+      "video_id": "CFxColuUlNY",
+      "title": "【P5R】初見で挑む『ペルソナ5 ザ・ロイヤル』 16日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Persona",
+      "published_at": "2026-05-29T08:52:08.000Z",
+      "available_at": "2026-06-08T04:00:43.000Z",
+      "start_scheduled": "2026-06-08T04:00:00.000Z",
+      "start_actual": "2026-06-08T04:00:43.000Z",
+      "live_viewers": 659,
+      "channel": {
+        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+        "name": "Roberu Ch. 夕刻ロベル",
+        "english_name": "Yukoku Roberu",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
