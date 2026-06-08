@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780927399,
+  "cached_at": 1780927459,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "Pp4wTzwErrk",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-08T11:02:03.000Z",
       "start_scheduled": "2026-06-08T11:00:00.000Z",
       "start_actual": "2026-06-08T11:02:03.000Z",
-      "live_viewers": 27527,
+      "live_viewers": 26909,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-08T11:30:19.000Z",
       "start_scheduled": "2026-06-08T11:30:00.000Z",
       "start_actual": "2026-06-08T11:30:19.000Z",
-      "live_viewers": 7742,
+      "live_viewers": 7586,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-08T13:00:59.000Z",
       "start_scheduled": "2026-06-08T13:00:00.000Z",
       "start_actual": "2026-06-08T13:00:59.000Z",
-      "live_viewers": 4340,
+      "live_viewers": 4482,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -271,7 +271,7 @@
       "available_at": "2026-06-08T13:30:42.000Z",
       "start_scheduled": "2026-06-08T13:30:00.000Z",
       "start_actual": "2026-06-08T13:30:42.000Z",
-      "live_viewers": 3879,
+      "live_viewers": 3895,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -279,6 +279,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTvHWSfBZgtxE4sILOaurIQ": {
+      "video_id": "YfgVXtExnmI",
+      "title": "【Forza Horizon 6】Let me drive :D",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-06-08T12:11:42.000Z",
+      "available_at": "2026-06-08T14:00:23.000Z",
+      "start_scheduled": "2026-06-08T14:00:00.000Z",
+      "start_actual": "2026-06-08T14:00:23.000Z",
+      "live_viewers": 495,
+      "channel": {
+        "id": "UCTvHWSfBZgtxE4sILOaurIQ",
+        "name": "Vestia Zeta Ch. hololive-ID",
+        "english_name": "Vestia Zeta",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
