@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780931059,
+  "cached_at": 1780931120,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "Pp4wTzwErrk",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-08T11:02:03.000Z",
       "start_scheduled": "2026-06-08T11:00:00.000Z",
       "start_actual": "2026-06-08T11:02:03.000Z",
-      "live_viewers": 25621,
+      "live_viewers": 24899,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGNI4MENvnsymYjKiZwv9eg": {
-      "video_id": "e31KCJPnI48",
-      "title": "【卒業配信】岸堂天真の人生【岸堂天真/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Graduation",
-      "published_at": "2026-06-06T15:12:37.000Z",
-      "available_at": "2026-06-08T13:00:11.000Z",
-      "start_scheduled": "2026-06-08T13:00:00.000Z",
-      "start_actual": "2026-06-08T13:00:11.000Z",
-      "live_viewers": 12906,
-      "channel": {
-        "id": "UCGNI4MENvnsymYjKiZwv9eg",
-        "name": "Temma Ch. 岸堂天真",
-        "english_name": "Kishido Temma",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1DCedRgGHBdm81E1llLhOQ": {
@@ -191,7 +171,7 @@
       "available_at": "2026-06-08T13:30:42.000Z",
       "start_scheduled": "2026-06-08T13:30:00.000Z",
       "start_actual": "2026-06-08T13:30:42.000Z",
-      "live_viewers": 4881,
+      "live_viewers": 4702,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -231,7 +211,7 @@
       "available_at": "2026-06-08T14:44:49.000Z",
       "start_scheduled": "2026-06-08T14:40:00.000Z",
       "start_actual": "2026-06-08T14:44:49.000Z",
-      "live_viewers": 2938,
+      "live_viewers": 3257,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -239,6 +219,25 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9mf_ZVpouoILRY9NUIaK-w": {
+      "video_id": "TS6lesa6OkY",
+      "title": "【メンバー限定枠】最後のめんげん【律可/ホロスターズ】#りつすた",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-06-07T12:51:53.000Z",
+      "available_at": "2026-06-08T15:00:00.000Z",
+      "start_scheduled": "2026-06-08T15:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+        "name": "Rikka ch.律可",
+        "english_name": "Rikka",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
