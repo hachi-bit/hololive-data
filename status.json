@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780941199,
+  "cached_at": 1780941259,
   "lives": {
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "WxvC5T5mY2E",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-08T07:41:47.000Z",
       "start_scheduled": "2026-06-08T07:00:00.000Z",
       "start_actual": "2026-06-08T07:41:47.000Z",
-      "live_viewers": 398,
+      "live_viewers": 12,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9mf_ZVpouoILRY9NUIaK-w": {
-      "video_id": "TS6lesa6OkY",
-      "title": "【メンバー限定枠】最後のめんげん【律可/ホロスターズ】#りつすた",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-07T12:51:53.000Z",
-      "available_at": "2026-06-08T15:01:07.000Z",
-      "start_scheduled": "2026-06-08T15:00:00.000Z",
-      "start_actual": "2026-06-08T15:01:07.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-        "name": "Rikka ch.律可",
-        "english_name": "Rikka",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
