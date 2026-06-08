@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780923739,
+  "cached_at": 1780923799,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "Pp4wTzwErrk",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-08T10:00:12.000Z",
       "start_scheduled": "2026-06-08T10:00:00.000Z",
       "start_actual": "2026-06-08T10:00:12.000Z",
-      "live_viewers": 4832,
+      "live_viewers": 4798,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "1tUWruQTP7A",
-      "title": "【Forza Horizon 6】 自分、免許取りたいんで頑張ります!!!【ホロライブ DEV_IS 響咲リオナ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Forza",
-      "published_at": "2026-06-07T18:39:07.000Z",
-      "available_at": "2026-06-08T10:00:52.000Z",
-      "start_scheduled": "2026-06-08T10:00:00.000Z",
-      "start_actual": "2026-06-08T10:00:52.000Z",
-      "live_viewers": 4811,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC-hM6YJuNYVAmUWxeIr9FeA": {
@@ -121,26 +101,6 @@
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC6t3-_N8A6ME1JShZHHqOMw": {
-      "video_id": "0GwpE2TLi6o",
-      "title": "【 卒業配信】7年間の思いを込めて歌います!!今までありがとう!!【花咲みやび/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Graduation",
-      "published_at": "2022-07-10T18:50:04.000Z",
-      "available_at": "2026-06-08T11:02:38.000Z",
-      "start_scheduled": "2026-06-08T11:00:00.000Z",
-      "start_actual": "2026-06-08T11:02:38.000Z",
-      "live_viewers": 12441,
-      "channel": {
-        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-        "name": "Miyabi Ch. 花咲みやび",
-        "english_name": "Hanasaki Miyabi",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
       "video_id": "W7PHv4E9YiU",
       "title": "【 人生ゲーム 】おかにこ考案…全員鷹嶺ルイ!?地獄の人生ゲーム【#にゃんたかーとらっく/ホロライブ】",
@@ -151,7 +111,7 @@
       "available_at": "2026-06-08T11:02:48.000Z",
       "start_scheduled": "2026-06-08T11:00:00.000Z",
       "start_actual": "2026-06-08T11:02:48.000Z",
-      "live_viewers": 26603,
+      "live_viewers": 26365,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -191,7 +151,7 @@
       "available_at": "2026-06-08T11:46:08.000Z",
       "start_scheduled": "2026-06-08T11:45:00.000Z",
       "start_actual": "2026-06-08T11:46:08.000Z",
-      "live_viewers": 174,
+      "live_viewers": 172,
       "channel": {
         "id": "UCDJA7L_fC9ix9YrknyeU0BQ",
         "name": "nemuCh. 音夢多 ねむね",
@@ -251,7 +211,7 @@
       "available_at": "2026-06-08T12:00:41.000Z",
       "start_scheduled": "2026-06-08T12:00:00.000Z",
       "start_actual": "2026-06-08T12:00:41.000Z",
-      "live_viewers": 1568,
+      "live_viewers": 1588,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -259,6 +219,161 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFTLzh12_nrtzqBPsTCqenA": {
+      "video_id": "3KYUTeLy56Y",
+      "title": "【 #アキロゼ8周年 】○○お願いしてみたらこうなった!?【アキロゼ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Anniversary",
+      "published_at": "2026-06-07T14:41:41.000Z",
+      "available_at": "2026-06-08T13:00:00.000Z",
+      "start_scheduled": "2026-06-08T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCFTLzh12_nrtzqBPsTCqenA",
+        "name": "アキロゼCh。Vtuber/ホロライブ所属",
+        "english_name": "Aki Rosenthal",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdXAk5MpyLD8594lm_OvtGQ": {
+      "video_id": "Bj7PwrmTiXU",
+      "title": "【雑談】らでん放浪記~伊豆の爬虫類っ子~【儒烏風亭らでん #ReGLOSS 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-06-08T11:32:47.000Z",
+      "available_at": "2026-06-08T13:00:00.000Z",
+      "start_scheduled": "2026-06-08T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+        "english_name": "Juufuutei Raden",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCtyWhCj3AqKh2dXctLkDtng": {
+      "video_id": "2O1nThXCNbU",
+      "title": "【定期雑談】新しい可愛いスタンプきたぞおおおお!!!! #34【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-06-08T11:49:09.000Z",
+      "available_at": "2026-06-08T13:00:00.000Z",
+      "start_scheduled": "2026-06-08T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCtyWhCj3AqKh2dXctLkDtng",
+        "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+        "english_name": "Ichijou Ririka",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC0TXe_LYZ4scaW2XMyi5_kw": {
+      "video_id": "AW2d1HGdzfM",
+      "title": "【Forza Horizon 6】AZKiとドライブしよ?【ホロライブ / AZKi】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-06-08T07:36:45.000Z",
+      "available_at": "2026-06-08T13:00:00.000Z",
+      "start_scheduled": "2026-06-08T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+        "name": "AZKi Channel",
+        "english_name": "AZKi",
+        "org": "Hololive",
+        "suborg": "0z0th Generation",
+        "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "Ktc5kgFOvSU",
+      "title": "【メンバー限定配信】開設6年3ヶ月目!まったり雑談...🍀【角巻わため/ホロライブ4期生】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-06-08T07:55:44.000Z",
+      "available_at": "2026-06-08T13:00:00.000Z",
+      "start_scheduled": "2026-06-08T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGNI4MENvnsymYjKiZwv9eg": {
+      "video_id": "e31KCJPnI48",
+      "title": "【卒業配信】岸堂天真の人生【岸堂天真/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Graduation",
+      "published_at": "2026-06-06T15:12:37.000Z",
+      "available_at": "2026-06-08T13:00:11.000Z",
+      "start_scheduled": "2026-06-08T13:00:00.000Z",
+      "start_actual": "2026-06-08T13:00:11.000Z",
+      "live_viewers": 4328,
+      "channel": {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "english_name": "Kishido Temma",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "K4IklKV86SE",
+      "title": "【耐久】逆立ちでゴールするまで終わらない!!!!!!【ホロライブ/兎田ぺこら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Handstand_Hank",
+      "published_at": "2026-06-08T11:20:10.000Z",
+      "available_at": "2026-06-08T13:00:38.000Z",
+      "start_scheduled": "2026-06-08T13:00:00.000Z",
+      "start_actual": "2026-06-08T13:00:38.000Z",
+      "live_viewers": 4162,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvInZx9h3jC2JzsIzoOebWg": {
+      "video_id": "yr2LnhqwXvY",
+      "title": "#02 【バイオハザード レクイエム】おいレオン!弾1発でどうしろと?!【不知火フレア/ホロライブ】ネタバレ注意",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-06-08T10:56:49.000Z",
+      "available_at": "2026-06-08T13:00:44.000Z",
+      "start_scheduled": "2026-06-08T13:00:00.000Z",
+      "start_actual": "2026-06-08T13:00:44.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvInZx9h3jC2JzsIzoOebWg",
+        "name": "Flare Ch. 不知火フレア",
+        "english_name": "Shiranui Flare",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
