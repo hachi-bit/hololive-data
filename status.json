@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780880479,
+  "cached_at": 1780880540,
   "lives": {
     "UCZgOv3YDEs-ZnZWDYVwJdmA": {
       "video_id": "kfDqqYKmYEc",
@@ -39,6 +39,25 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
+      "video_id": "R3XpghKHaWU",
+      "title": "≪Bento Blocks≫ yummy rat sushi",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Bento_Blocks",
+      "published_at": "2026-06-05T07:18:58.000Z",
+      "available_at": "2026-06-08T01:00:00.000Z",
+      "start_scheduled": "2026-06-08T01:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "name": "Hakos Baelz Ch. hololive-EN",
+        "english_name": "Hakos Baelz",
+        "org": "Hololive",
+        "suborg": "ibEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
