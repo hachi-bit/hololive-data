@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780922899,
+  "cached_at": 1780922960,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "Pp4wTzwErrk",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-08T08:59:50.000Z",
       "start_scheduled": "2026-06-08T09:00:00.000Z",
       "start_actual": "2026-06-08T08:59:50.000Z",
-      "live_viewers": 2507,
+      "live_viewers": 2486,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -59,26 +59,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCL9hJsdk9eQa0IlWbFB2oRg": {
-      "video_id": "aDeM4BHpAVg",
-      "title": "【スト6】 あきひろ中学校登校日!イングリッド編!!!!!!!!! 【 ぶいすぽっ! ⁠/蝶屋はなび 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-07T12:48:16.000Z",
-      "available_at": "2026-06-08T09:00:57.000Z",
-      "start_scheduled": "2026-06-08T09:00:00.000Z",
-      "start_actual": "2026-06-08T09:00:57.000Z",
-      "live_viewers": 620,
-      "channel": {
-        "id": "UCL9hJsdk9eQa0IlWbFB2oRg",
-        "name": "蝶屋はなび / Choya Hanabi",
-        "english_name": "Choya Hanabi",
-        "org": "VSpo",
-        "suborg": "0iChoumusubi",
-        "photo": "https://yt3.ggpht.com/N7qEUQMbq8z1lQdp4WBUz3vQ83gYiYmPt-alI5K1xMYnOh4uAxuQlUVPneZQKetzACogh6E_qA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1iA6_NT4mtAcIII6ygrvCw": {
@@ -91,7 +71,7 @@
       "available_at": "2026-06-08T10:00:12.000Z",
       "start_scheduled": "2026-06-08T10:00:00.000Z",
       "start_actual": "2026-06-08T10:00:12.000Z",
-      "live_viewers": 5147,
+      "live_viewers": 4982,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -131,7 +111,7 @@
       "available_at": "2026-06-08T11:02:03.000Z",
       "start_scheduled": "2026-06-08T11:00:00.000Z",
       "start_actual": "2026-06-08T11:02:03.000Z",
-      "live_viewers": 28446,
+      "live_viewers": 28773,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -171,7 +151,7 @@
       "available_at": "2026-06-08T11:02:48.000Z",
       "start_scheduled": "2026-06-08T11:00:00.000Z",
       "start_actual": "2026-06-08T11:02:48.000Z",
-      "live_viewers": 26795,
+      "live_viewers": 26658,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -271,7 +251,7 @@
       "available_at": "2026-06-08T12:00:41.000Z",
       "start_scheduled": "2026-06-08T12:00:00.000Z",
       "start_actual": "2026-06-08T12:00:41.000Z",
-      "live_viewers": 1450,
+      "live_viewers": 1500,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
