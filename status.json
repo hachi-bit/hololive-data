@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780916899,
+  "cached_at": 1780916959,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "Pp4wTzwErrk",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-08T07:01:56.000Z",
       "start_scheduled": "2026-06-08T07:00:00.000Z",
       "start_actual": "2026-06-08T07:01:56.000Z",
-      "live_viewers": 1393,
+      "live_viewers": 1138,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-08T07:41:47.000Z",
       "start_scheduled": "2026-06-08T07:00:00.000Z",
       "start_actual": "2026-06-08T07:41:47.000Z",
-      "live_viewers": 426,
+      "live_viewers": 370,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-08T08:59:50.000Z",
       "start_scheduled": "2026-06-08T09:00:00.000Z",
       "start_actual": "2026-06-08T08:59:50.000Z",
-      "live_viewers": 7731,
+      "live_viewers": 7635,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -59,46 +59,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCOyYb1c43VlX9rc_lT6NKQw": {
-      "video_id": "M3WeCkvSmyA",
-      "title": "Thrifty Business #3 - Business is thriving !",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-06-08T08:32:09.000Z",
-      "available_at": "2026-06-08T09:00:03.000Z",
-      "start_scheduled": "2026-06-08T09:00:00.000Z",
-      "start_actual": "2026-06-08T09:00:03.000Z",
-      "live_viewers": 912,
-      "channel": {
-        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-        "name": "Ayunda Risu Ch. hololive-ID",
-        "english_name": "Ayunda Risu",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
-      "video_id": "aU74Vvt_x4M",
-      "title": "【ストリートファイター6】あきひろ中学校　イングリット編【荒咬オウガ /ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-08T05:41:17.000Z",
-      "available_at": "2026-06-08T09:00:20.000Z",
-      "start_scheduled": "2026-06-08T09:00:00.000Z",
-      "start_actual": "2026-06-08T09:00:20.000Z",
-      "live_viewers": 580,
-      "channel": {
-        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "name": "Oga Ch.荒咬オウガ",
-        "english_name": "Aragami Oga",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCL9hJsdk9eQa0IlWbFB2oRg": {
@@ -111,7 +71,7 @@
       "available_at": "2026-06-08T09:00:57.000Z",
       "start_scheduled": "2026-06-08T09:00:00.000Z",
       "start_actual": "2026-06-08T09:00:57.000Z",
-      "live_viewers": 1649,
+      "live_viewers": 1421,
       "channel": {
         "id": "UCL9hJsdk9eQa0IlWbFB2oRg",
         "name": "蝶屋はなび / Choya Hanabi",
@@ -131,7 +91,7 @@
       "available_at": "2026-06-08T09:01:27.000Z",
       "start_scheduled": "2026-06-08T09:00:00.000Z",
       "start_actual": "2026-06-08T09:01:27.000Z",
-      "live_viewers": 4200,
+      "live_viewers": 3934,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -191,7 +151,7 @@
       "available_at": "2026-06-08T10:04:05.000Z",
       "start_scheduled": "2026-06-08T10:00:00.000Z",
       "start_actual": "2026-06-08T10:04:05.000Z",
-      "live_viewers": 6026,
+      "live_viewers": 3127,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -211,7 +171,7 @@
       "available_at": "2026-06-08T10:09:16.000Z",
       "start_scheduled": "2026-06-08T10:00:00.000Z",
       "start_actual": "2026-06-08T10:09:16.000Z",
-      "live_viewers": 12101,
+      "live_viewers": 11273,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -219,25 +179,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
-      "video_id": "W7PHv4E9YiU",
-      "title": "【 人生ゲーム 】おかにこ考案…全員鷹嶺ルイ!?地獄の人生ゲーム【#にゃんたかーとらっく/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "The_Game_of_Life",
-      "published_at": "2026-06-07T17:29:19.000Z",
-      "available_at": "2026-06-08T11:00:00.000Z",
-      "start_scheduled": "2026-06-08T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "name": "Lui ch. 鷹嶺ルイ - holoX -",
-        "english_name": "Takane Lui",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC-hM6YJuNYVAmUWxeIr9FeA": {
@@ -250,7 +191,7 @@
       "available_at": "2026-06-08T11:02:03.000Z",
       "start_scheduled": "2026-06-08T11:00:00.000Z",
       "start_actual": "2026-06-08T11:02:03.000Z",
-      "live_viewers": 8878,
+      "live_viewers": 17722,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -270,7 +211,7 @@
       "available_at": "2026-06-08T11:02:38.000Z",
       "start_scheduled": "2026-06-08T11:00:00.000Z",
       "start_actual": "2026-06-08T11:02:38.000Z",
-      "live_viewers": 3318,
+      "live_viewers": 6805,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -278,6 +219,26 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "W7PHv4E9YiU",
+      "title": "【 人生ゲーム 】おかにこ考案…全員鷹嶺ルイ!?地獄の人生ゲーム【#にゃんたかーとらっく/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "The_Game_of_Life",
+      "published_at": "2026-06-07T17:29:19.000Z",
+      "available_at": "2026-06-08T11:02:48.000Z",
+      "start_scheduled": "2026-06-08T11:00:00.000Z",
+      "start_actual": "2026-06-08T11:02:48.000Z",
+      "live_viewers": 23200,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
