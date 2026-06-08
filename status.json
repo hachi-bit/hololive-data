@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780920259,
+  "cached_at": 1780920319,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "Pp4wTzwErrk",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-08T08:59:50.000Z",
       "start_scheduled": "2026-06-08T09:00:00.000Z",
       "start_actual": "2026-06-08T08:59:50.000Z",
-      "live_viewers": 3727,
+      "live_viewers": 3490,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-08T11:02:48.000Z",
       "start_scheduled": "2026-06-08T11:00:00.000Z",
       "start_actual": "2026-06-08T11:02:48.000Z",
-      "live_viewers": 33672,
+      "live_viewers": 32654,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-08T11:30:19.000Z",
       "start_scheduled": "2026-06-08T11:30:00.000Z",
       "start_actual": "2026-06-08T11:30:19.000Z",
-      "live_viewers": 6873,
+      "live_viewers": 6815,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-08T11:59:05.000Z",
       "start_scheduled": "2026-06-08T12:00:00.000Z",
       "start_actual": "2026-06-08T11:59:05.000Z",
-      "live_viewers": 9408,
+      "live_viewers": 16366,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -228,9 +228,10 @@
       "status": "live",
       "topic_id": "Forza",
       "published_at": "2026-06-08T06:39:11.000Z",
-      "available_at": "2026-06-08T12:00:00.000Z",
+      "available_at": "2026-06-08T12:00:28.000Z",
       "start_scheduled": "2026-06-08T12:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-08T12:00:28.000Z",
+      "live_viewers": 4249,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -247,9 +248,10 @@
       "status": "live",
       "topic_id": "morning",
       "published_at": "2026-06-08T05:43:22.000Z",
-      "available_at": "2026-06-08T12:00:00.000Z",
+      "available_at": "2026-06-08T12:00:41.000Z",
       "start_scheduled": "2026-06-08T12:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-08T12:00:41.000Z",
+      "live_viewers": 450,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
