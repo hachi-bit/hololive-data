@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780902259,
+  "cached_at": 1780902319,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "Y2OC6zHn4Kc",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-08T01:56:35.000Z",
       "start_scheduled": "2026-06-08T02:00:00.000Z",
       "start_actual": "2026-06-08T01:56:35.000Z",
-      "live_viewers": 8770,
+      "live_viewers": 8835,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -41,25 +41,6 @@
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCAHQGIKolfBfoeXXMY79SBA": {
-      "video_id": "Pp4wTzwErrk",
-      "title": "【 League of Legends #LTK 】今日は無限【白那しずく / ネオポルテ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-06-08T05:16:23.000Z",
-      "available_at": "2026-06-08T07:00:00.000Z",
-      "start_scheduled": "2026-06-08T07:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCAHQGIKolfBfoeXXMY79SBA",
-        "name": "白那しずく",
-        "english_name": "Shirona Shizuku",
-        "org": "Neo-Porte",
-        "suborg": "0k5th Generation",
-        "photo": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
       "video_id": "WxvC5T5mY2E",
       "title": "【LoL】LTK DDnext  無限美  / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeoコーチ わしだいコーチ",
@@ -77,6 +58,26 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAHQGIKolfBfoeXXMY79SBA": {
+      "video_id": "Pp4wTzwErrk",
+      "title": "【 League of Legends #LTK 】今日は無限【白那しずく / ネオポルテ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-06-08T05:16:23.000Z",
+      "available_at": "2026-06-08T07:01:56.000Z",
+      "start_scheduled": "2026-06-08T07:00:00.000Z",
+      "start_actual": "2026-06-08T07:01:56.000Z",
+      "live_viewers": 204,
+      "channel": {
+        "id": "UCAHQGIKolfBfoeXXMY79SBA",
+        "name": "白那しずく",
+        "english_name": "Shirona Shizuku",
+        "org": "Neo-Porte",
+        "suborg": "0k5th Generation",
+        "photo": "https://yt3.ggpht.com/XbpRb0OiLPxFcheXOY24ZosyD0GY2d7w0u6qClgGhJXjTNePCjQsBkl_3yJ6cc0I6R_Qzs8z=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
