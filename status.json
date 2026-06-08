@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780916539,
+  "cached_at": 1780916599,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "Pp4wTzwErrk",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-08T09:00:20.000Z",
       "start_scheduled": "2026-06-08T09:00:00.000Z",
       "start_actual": "2026-06-08T09:00:20.000Z",
-      "live_viewers": 634,
+      "live_viewers": 580,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-08T10:00:52.000Z",
       "start_scheduled": "2026-06-08T10:00:00.000Z",
       "start_actual": "2026-06-08T10:00:52.000Z",
-      "live_viewers": 9766,
+      "live_viewers": 7203,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-08T10:04:05.000Z",
       "start_scheduled": "2026-06-08T10:00:00.000Z",
       "start_actual": "2026-06-08T10:04:05.000Z",
-      "live_viewers": 6078,
+      "live_viewers": 6026,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -239,6 +239,63 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "W7PHv4E9YiU",
+      "title": "【 人生ゲーム 】おかにこ考案…全員鷹嶺ルイ!?地獄の人生ゲーム【#にゃんたかーとらっく/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "The_Game_of_Life",
+      "published_at": "2026-06-07T17:29:19.000Z",
+      "available_at": "2026-06-08T11:00:00.000Z",
+      "start_scheduled": "2026-06-08T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6t3-_N8A6ME1JShZHHqOMw": {
+      "video_id": "0GwpE2TLi6o",
+      "title": "【 卒業配信】7年間の思いを込めて歌います!!今までありがとう!!【花咲みやび/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Graduation",
+      "published_at": "2022-07-10T18:50:04.000Z",
+      "available_at": "2026-06-08T11:00:00.000Z",
+      "start_scheduled": "2026-06-08T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "english_name": "Hanasaki Miyabi",
+        "org": "Hololive",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC-hM6YJuNYVAmUWxeIr9FeA": {
+      "video_id": "GjEdSJ_wevE",
+      "title": "【#1】完全初見バイオハザード リベレーションズ/Resident Evil: Revelationsやるにぇ!!!【ホロライブ/さくらみこ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-06-07T13:01:48.000Z",
+      "available_at": "2026-06-08T11:00:00.000Z",
+      "start_scheduled": "2026-06-08T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+        "name": "Miko Ch. さくらみこ",
+        "english_name": "Sakura Miko",
+        "org": "Hololive",
+        "suborg": "0y0th Generation",
+        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
