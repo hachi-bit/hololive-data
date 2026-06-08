@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780920079,
+  "cached_at": 1780920141,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "Pp4wTzwErrk",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-08T07:41:47.000Z",
       "start_scheduled": "2026-06-08T07:00:00.000Z",
       "start_actual": "2026-06-08T07:41:47.000Z",
-      "live_viewers": 360,
+      "live_viewers": 361,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-08T08:59:50.000Z",
       "start_scheduled": "2026-06-08T09:00:00.000Z",
       "start_actual": "2026-06-08T08:59:50.000Z",
-      "live_viewers": 4232,
+      "live_viewers": 3727,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-08T10:00:52.000Z",
       "start_scheduled": "2026-06-08T10:00:00.000Z",
       "start_actual": "2026-06-08T10:00:52.000Z",
-      "live_viewers": 7434,
+      "live_viewers": 6943,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-08T11:02:03.000Z",
       "start_scheduled": "2026-06-08T11:00:00.000Z",
       "start_actual": "2026-06-08T11:02:03.000Z",
-      "live_viewers": 31598,
+      "live_viewers": 31061,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -199,6 +199,64 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+      "video_id": "AOI7ZIuH30g",
+      "title": "【#王よ8周年です】 ✨️✨️白上フブキ活動8周年記念祭✨️✨️ 【ホロライブ/白上フブキ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Anniversary",
+      "published_at": "2026-06-05T08:54:44.000Z",
+      "available_at": "2026-06-08T11:59:05.000Z",
+      "start_scheduled": "2026-06-08T12:00:00.000Z",
+      "start_actual": "2026-06-08T11:59:05.000Z",
+      "live_viewers": 9408,
+      "channel": {
+        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "name": "フブキCh。白上フブキ",
+        "english_name": "Shirakami Fubuki",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFKOVgVbGmX65RxO3EtH3iw": {
+      "video_id": "8DI1o8iMt34",
+      "title": "【Forza Horizon 6】ホロメン激推しのゲーム、プレイしてみる!!【雪花ラミィ /ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-06-08T06:39:11.000Z",
+      "available_at": "2026-06-08T12:00:00.000Z",
+      "start_scheduled": "2026-06-08T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+        "name": "Lamy Ch. 雪花ラミィ",
+        "english_name": "Yukihana Lamy",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCOyYb1c43VlX9rc_lT6NKQw": {
+      "video_id": "emGAXVQp5bo",
+      "title": "M.M.M. SPECIAL ! (pake telor)",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "morning",
+      "published_at": "2026-06-08T05:43:22.000Z",
+      "available_at": "2026-06-08T12:00:00.000Z",
+      "start_scheduled": "2026-06-08T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+        "name": "Ayunda Risu Ch. hololive-ID",
+        "english_name": "Ayunda Risu",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
