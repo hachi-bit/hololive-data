@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780917079,
+  "cached_at": 1780917139,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "Pp4wTzwErrk",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-08T09:00:57.000Z",
       "start_scheduled": "2026-06-08T09:00:00.000Z",
       "start_actual": "2026-06-08T09:00:57.000Z",
-      "live_viewers": 1421,
+      "live_viewers": 1423,
       "channel": {
         "id": "UCL9hJsdk9eQa0IlWbFB2oRg",
         "name": "蝶屋はなび / Choya Hanabi",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-08T09:01:27.000Z",
       "start_scheduled": "2026-06-08T09:00:00.000Z",
       "start_actual": "2026-06-08T09:01:27.000Z",
-      "live_viewers": 3934,
+      "live_viewers": 4197,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -141,26 +141,6 @@
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCFTLzh12_nrtzqBPsTCqenA": {
-      "video_id": "FCZ61oX1PoE",
-      "title": "【 STREET FIGHTER 6】ランク認定戦やる!【アキロゼ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-08T08:57:12.000Z",
-      "available_at": "2026-06-08T10:04:05.000Z",
-      "start_scheduled": "2026-06-08T10:00:00.000Z",
-      "start_actual": "2026-06-08T10:04:05.000Z",
-      "live_viewers": 3127,
-      "channel": {
-        "id": "UCFTLzh12_nrtzqBPsTCqenA",
-        "name": "アキロゼCh。Vtuber/ホロライブ所属",
-        "english_name": "Aki Rosenthal",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "WaPtW9JVpPc",
       "title": "【料理カメラ有】本格インドネシア料理🍳現地レシピのナシゴレン&ジャコウネコの💩コーヒー作ってみる!!【博衣こより/ホロライブ】",
@@ -191,7 +171,7 @@
       "available_at": "2026-06-08T11:02:03.000Z",
       "start_scheduled": "2026-06-08T11:00:00.000Z",
       "start_actual": "2026-06-08T11:02:03.000Z",
-      "live_viewers": 17722,
+      "live_viewers": 20946,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -211,7 +191,7 @@
       "available_at": "2026-06-08T11:02:38.000Z",
       "start_scheduled": "2026-06-08T11:00:00.000Z",
       "start_actual": "2026-06-08T11:02:38.000Z",
-      "live_viewers": 6805,
+      "live_viewers": 6929,
       "channel": {
         "id": "UC6t3-_N8A6ME1JShZHHqOMw",
         "name": "Miyabi Ch. 花咲みやび",
@@ -231,7 +211,7 @@
       "available_at": "2026-06-08T11:02:48.000Z",
       "start_scheduled": "2026-06-08T11:00:00.000Z",
       "start_actual": "2026-06-08T11:02:48.000Z",
-      "live_viewers": 23200,
+      "live_viewers": 25682,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
