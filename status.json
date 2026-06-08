@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780924999,
+  "cached_at": 1780925060,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "Pp4wTzwErrk",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-08T07:01:56.000Z",
       "start_scheduled": "2026-06-08T07:00:00.000Z",
       "start_actual": "2026-06-08T07:01:56.000Z",
-      "live_viewers": 783,
+      "live_viewers": 712,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-08T07:41:47.000Z",
       "start_scheduled": "2026-06-08T07:00:00.000Z",
       "start_actual": "2026-06-08T07:41:47.000Z",
-      "live_viewers": 355,
+      "live_viewers": 321,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-08T11:02:03.000Z",
       "start_scheduled": "2026-06-08T11:00:00.000Z",
       "start_actual": "2026-06-08T11:02:03.000Z",
-      "live_viewers": 28042,
+      "live_viewers": 28034,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-08T11:02:48.000Z",
       "start_scheduled": "2026-06-08T11:00:00.000Z",
       "start_actual": "2026-06-08T11:02:48.000Z",
-      "live_viewers": 25321,
+      "live_viewers": 25116,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-08T12:00:28.000Z",
       "start_scheduled": "2026-06-08T12:00:00.000Z",
       "start_actual": "2026-06-08T12:00:28.000Z",
-      "live_viewers": 13763,
+      "live_viewers": 13591,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -141,25 +141,6 @@
         "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCqm3BQLlJfvkTsX_hvm0UmA": {
-      "video_id": "Ktc5kgFOvSU",
-      "title": "【メンバー限定配信】開設6年3ヶ月目!まったり雑談...🍀【角巻わため/ホロライブ4期生】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-08T07:55:44.000Z",
-      "available_at": "2026-06-08T13:00:00.000Z",
-      "start_scheduled": "2026-06-08T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-        "name": "Watame Ch. 角巻わため",
-        "english_name": "Tsunomaki Watame",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCGNI4MENvnsymYjKiZwv9eg": {
       "video_id": "e31KCJPnI48",
       "title": "【卒業配信】岸堂天真の人生【岸堂天真/ホロスターズ】",
@@ -170,7 +151,7 @@
       "available_at": "2026-06-08T13:00:11.000Z",
       "start_scheduled": "2026-06-08T13:00:00.000Z",
       "start_actual": "2026-06-08T13:00:11.000Z",
-      "live_viewers": 9473,
+      "live_viewers": 9711,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -190,7 +171,7 @@
       "available_at": "2026-06-08T13:00:38.000Z",
       "start_scheduled": "2026-06-08T13:00:00.000Z",
       "start_actual": "2026-06-08T13:00:38.000Z",
-      "live_viewers": 22101,
+      "live_viewers": 21628,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -210,7 +191,7 @@
       "available_at": "2026-06-08T13:00:54.000Z",
       "start_scheduled": "2026-06-08T13:00:00.000Z",
       "start_actual": "2026-06-08T13:00:54.000Z",
-      "live_viewers": 1718,
+      "live_viewers": 1794,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -230,7 +211,7 @@
       "available_at": "2026-06-08T13:00:59.000Z",
       "start_scheduled": "2026-06-08T13:00:00.000Z",
       "start_actual": "2026-06-08T13:00:59.000Z",
-      "live_viewers": 3222,
+      "live_viewers": 3324,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -250,7 +231,7 @@
       "available_at": "2026-06-08T13:01:31.000Z",
       "start_scheduled": "2026-06-08T13:00:00.000Z",
       "start_actual": "2026-06-08T13:01:31.000Z",
-      "live_viewers": 10831,
+      "live_viewers": 10812,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -270,7 +251,7 @@
       "available_at": "2026-06-08T13:01:45.000Z",
       "start_scheduled": "2026-06-08T13:00:00.000Z",
       "start_actual": "2026-06-08T13:01:45.000Z",
-      "live_viewers": 13789,
+      "live_viewers": 15223,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -290,7 +271,7 @@
       "available_at": "2026-06-08T13:01:50.000Z",
       "start_scheduled": "2026-06-08T13:00:00.000Z",
       "start_actual": "2026-06-08T13:01:50.000Z",
-      "live_viewers": 3057,
+      "live_viewers": 3162,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -298,6 +279,26 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "Ktc5kgFOvSU",
+      "title": "【メンバー限定配信】開設6年3ヶ月目!まったり雑談...🍀【角巻わため/ホロライブ4期生】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-06-08T07:55:44.000Z",
+      "available_at": "2026-06-08T13:05:42.000Z",
+      "start_scheduled": "2026-06-08T13:00:00.000Z",
+      "start_actual": "2026-06-08T13:05:42.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
