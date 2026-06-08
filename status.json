@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780909459,
+  "cached_at": 1780909519,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "CFxColuUlNY",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-08T08:33:09.000Z",
       "start_scheduled": "2026-06-08T08:30:00.000Z",
       "start_actual": "2026-06-08T08:33:09.000Z",
-      "live_viewers": 4825,
+      "live_viewers": 4662,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-08T08:59:50.000Z",
       "start_scheduled": "2026-06-08T09:00:00.000Z",
       "start_actual": "2026-06-08T08:59:50.000Z",
-      "live_viewers": 792,
+      "live_viewers": 1865,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-08T08:59:56.000Z",
       "start_scheduled": "2026-06-08T09:00:00.000Z",
       "start_actual": "2026-06-08T08:59:56.000Z",
-      "live_viewers": 544,
+      "live_viewers": 1407,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
@@ -119,63 +119,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCDqI2jOz0weumE8s7paEk6g": {
-      "video_id": "9yaFxCjAyvU",
-      "title": "【オフコラボ/カメラ有🏠】音霊 魂子とロボ子で夏を先取り流しそうめん食対談✨実はボクたち2018年デビュー組です⁉【＃ろぼたまこ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Camera_Stream",
-      "published_at": "2026-06-06T13:27:48.000Z",
-      "available_at": "2026-06-08T09:00:00.000Z",
-      "start_scheduled": "2026-06-08T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCDqI2jOz0weumE8s7paEk6g",
-        "name": "Roboco Ch. - ロボ子",
-        "english_name": "Robocosan",
-        "org": "Hololive",
-        "suborg": "0w0th Generation",
-        "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCUKD-uaobj9jiqB-VXt71mA": {
-      "video_id": "8c-NX6_9vpk",
-      "title": "【スト6】イングリッドを勉強するのじゃ!  #あきひろ中学校【獅白ぼたん/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-08T06:40:09.000Z",
-      "available_at": "2026-06-08T09:00:00.000Z",
-      "start_scheduled": "2026-06-08T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCUKD-uaobj9jiqB-VXt71mA",
-        "name": "Botan Ch.獅白ぼたん",
-        "english_name": "Shishiro Botan",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCL9hJsdk9eQa0IlWbFB2oRg": {
-      "video_id": "aDeM4BHpAVg",
-      "title": "【スト6】 あきひろ中学校登校日!イングリッド編!!!!!!!!! 【 ぶいすぽっ! ⁠/蝶屋はなび 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-07T12:48:16.000Z",
-      "available_at": "2026-06-08T09:00:00.000Z",
-      "start_scheduled": "2026-06-08T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCL9hJsdk9eQa0IlWbFB2oRg",
-        "name": "蝶屋はなび / Choya Hanabi",
-        "english_name": "Choya Hanabi",
-        "org": "VSpo",
-        "suborg": "0iChoumusubi",
-        "photo": "https://yt3.ggpht.com/N7qEUQMbq8z1lQdp4WBUz3vQ83gYiYmPt-alI5K1xMYnOh4uAxuQlUVPneZQKetzACogh6E_qA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCOyYb1c43VlX9rc_lT6NKQw": {
@@ -188,7 +131,7 @@
       "available_at": "2026-06-08T09:00:03.000Z",
       "start_scheduled": "2026-06-08T09:00:00.000Z",
       "start_actual": "2026-06-08T09:00:03.000Z",
-      "live_viewers": 89,
+      "live_viewers": 236,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -220,7 +163,7 @@
     },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
       "video_id": "aU74Vvt_x4M",
-      "title": "【ストリートファイター6】あきひろ中学校　イングリット編【荒咬オウガ /ホロスターズ】",
+      "title": "【ストリートファイター6】あきひろ中学校 イングリット編【荒咬オウガ /ホロスターズ】",
       "type": "stream",
       "status": "live",
       "topic_id": "Street_Fighter",
@@ -228,7 +171,7 @@
       "available_at": "2026-06-08T09:00:20.000Z",
       "start_scheduled": "2026-06-08T09:00:00.000Z",
       "start_actual": "2026-06-08T09:00:20.000Z",
-      "live_viewers": 131,
+      "live_viewers": 265,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -236,6 +179,66 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCDqI2jOz0weumE8s7paEk6g": {
+      "video_id": "9yaFxCjAyvU",
+      "title": "【オフコラボ/カメラ有🏠】音霊 魂子とロボ子で夏を先取り流しそうめん食対談✨実はボクたち2018年デビュー組です⁉【#ろぼたまこ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Camera_Stream",
+      "published_at": "2026-06-06T13:27:48.000Z",
+      "available_at": "2026-06-08T09:00:26.000Z",
+      "start_scheduled": "2026-06-08T09:00:00.000Z",
+      "start_actual": "2026-06-08T09:00:26.000Z",
+      "live_viewers": 2288,
+      "channel": {
+        "id": "UCDqI2jOz0weumE8s7paEk6g",
+        "name": "Roboco Ch. - ロボ子",
+        "english_name": "Robocosan",
+        "org": "Hololive",
+        "suborg": "0w0th Generation",
+        "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCL9hJsdk9eQa0IlWbFB2oRg": {
+      "video_id": "aDeM4BHpAVg",
+      "title": "【スト6】 あきひろ中学校登校日!イングリッド編!!!!!!!!! 【 ぶいすぽっ! ⁠/蝶屋はなび 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-06-07T12:48:16.000Z",
+      "available_at": "2026-06-08T09:00:57.000Z",
+      "start_scheduled": "2026-06-08T09:00:00.000Z",
+      "start_actual": "2026-06-08T09:00:57.000Z",
+      "live_viewers": 615,
+      "channel": {
+        "id": "UCL9hJsdk9eQa0IlWbFB2oRg",
+        "name": "蝶屋はなび / Choya Hanabi",
+        "english_name": "Choya Hanabi",
+        "org": "VSpo",
+        "suborg": "0iChoumusubi",
+        "photo": "https://yt3.ggpht.com/N7qEUQMbq8z1lQdp4WBUz3vQ83gYiYmPt-alI5K1xMYnOh4uAxuQlUVPneZQKetzACogh6E_qA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "8c-NX6_9vpk",
+      "title": "【スト6】イングリッドを勉強するのじゃ!  #あきひろ中学校【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-06-08T06:40:09.000Z",
+      "available_at": "2026-06-08T09:01:27.000Z",
+      "start_scheduled": "2026-06-08T09:00:00.000Z",
+      "start_actual": "2026-06-08T09:01:27.000Z",
+      "live_viewers": 1543,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
