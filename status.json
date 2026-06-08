@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780891039,
+  "cached_at": 1780891099,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "Y2OC6zHn4Kc",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-08T01:56:35.000Z",
       "start_scheduled": "2026-06-08T02:00:00.000Z",
       "start_actual": "2026-06-08T01:56:35.000Z",
-      "live_viewers": 7837,
+      "live_viewers": 9083,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -41,26 +41,6 @@
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
-      "video_id": "R3XpghKHaWU",
-      "title": "≪Bento Blocks≫ yummy rat sushi",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Bento_Blocks",
-      "published_at": "2026-06-05T07:18:58.000Z",
-      "available_at": "2026-06-08T02:11:28.000Z",
-      "start_scheduled": "2026-06-08T02:10:00.000Z",
-      "start_actual": "2026-06-08T02:11:28.000Z",
-      "live_viewers": 3339,
-      "channel": {
-        "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "name": "Hakos Baelz Ch. hololive-EN",
-        "english_name": "Hakos Baelz",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCozx5csNhCx1wsVq3SZVkBQ": {
       "video_id": "TWVzfYA1oZo",
       "title": "【常闇祭2】格ゲーマー必見!トワ様こだわりのアケコンが予約開始!【#昼ホロ / #風白ゆき】",
@@ -71,7 +51,7 @@
       "available_at": "2026-06-08T02:58:27.000Z",
       "start_scheduled": "2026-06-08T03:00:00.000Z",
       "start_actual": "2026-06-08T02:58:27.000Z",
-      "live_viewers": 4084,
+      "live_viewers": 4053,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
@@ -91,7 +71,7 @@
       "available_at": "2026-06-08T03:17:39.000Z",
       "start_scheduled": "2026-06-08T03:15:00.000Z",
       "start_actual": "2026-06-08T03:17:39.000Z",
-      "live_viewers": 3983,
+      "live_viewers": 4265,
       "channel": {
         "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
         "name": "Ouro Kronii Ch. hololive-EN",
@@ -111,7 +91,7 @@
       "available_at": "2026-06-08T03:36:34.000Z",
       "start_scheduled": "2026-06-08T03:00:00.000Z",
       "start_actual": "2026-06-08T03:36:34.000Z",
-      "live_viewers": 669,
+      "live_viewers": 656,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
