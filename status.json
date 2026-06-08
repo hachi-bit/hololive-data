@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780914079,
+  "cached_at": 1780914139,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "Pp4wTzwErrk",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-08T08:33:09.000Z",
       "start_scheduled": "2026-06-08T08:30:00.000Z",
       "start_actual": "2026-06-08T08:33:09.000Z",
-      "live_viewers": 4338,
+      "live_viewers": 4311,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-08T09:00:03.000Z",
       "start_scheduled": "2026-06-08T09:00:00.000Z",
       "start_actual": "2026-06-08T09:00:03.000Z",
-      "live_viewers": 874,
+      "live_viewers": 895,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-08T09:00:20.000Z",
       "start_scheduled": "2026-06-08T09:00:00.000Z",
       "start_actual": "2026-06-08T09:00:20.000Z",
-      "live_viewers": 717,
+      "live_viewers": 724,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCDqI2jOz0weumE8s7paEk6g": {
-      "video_id": "9yaFxCjAyvU",
-      "title": "【オフコラボ/カメラ有🏠】音霊 魂子とロボ子で夏を先取り流しそうめん食対談✨実はボクたち2018年デビュー組です⁉【＃ろぼたまこ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Camera_Stream",
-      "published_at": "2026-06-06T13:27:48.000Z",
-      "available_at": "2026-06-08T09:00:26.000Z",
-      "start_scheduled": "2026-06-08T09:00:00.000Z",
-      "start_actual": "2026-06-08T09:00:26.000Z",
-      "live_viewers": 5934,
-      "channel": {
-        "id": "UCDqI2jOz0weumE8s7paEk6g",
-        "name": "Roboco Ch. - ロボ子",
-        "english_name": "Robocosan",
-        "org": "Hololive",
-        "suborg": "0w0th Generation",
-        "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCL9hJsdk9eQa0IlWbFB2oRg": {
@@ -151,7 +131,7 @@
       "available_at": "2026-06-08T09:00:57.000Z",
       "start_scheduled": "2026-06-08T09:00:00.000Z",
       "start_actual": "2026-06-08T09:00:57.000Z",
-      "live_viewers": 2420,
+      "live_viewers": 2218,
       "channel": {
         "id": "UCL9hJsdk9eQa0IlWbFB2oRg",
         "name": "蝶屋はなび / Choya Hanabi",
@@ -191,7 +171,7 @@
       "available_at": "2026-06-08T09:59:33.000Z",
       "start_scheduled": "2026-06-08T10:00:00.000Z",
       "start_actual": "2026-06-08T09:59:33.000Z",
-      "live_viewers": 2205,
+      "live_viewers": 2401,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -211,7 +191,7 @@
       "available_at": "2026-06-08T10:00:12.000Z",
       "start_scheduled": "2026-06-08T10:00:00.000Z",
       "start_actual": "2026-06-08T10:00:12.000Z",
-      "live_viewers": 6680,
+      "live_viewers": 7078,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -231,7 +211,7 @@
       "available_at": "2026-06-08T10:00:52.000Z",
       "start_scheduled": "2026-06-08T10:00:00.000Z",
       "start_actual": "2026-06-08T10:00:52.000Z",
-      "live_viewers": 6826,
+      "live_viewers": 7160,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -251,7 +231,7 @@
       "available_at": "2026-06-08T10:04:05.000Z",
       "start_scheduled": "2026-06-08T10:00:00.000Z",
       "start_actual": "2026-06-08T10:04:05.000Z",
-      "live_viewers": 4478,
+      "live_viewers": 4894,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -271,7 +251,7 @@
       "available_at": "2026-06-08T10:09:16.000Z",
       "start_scheduled": "2026-06-08T10:00:00.000Z",
       "start_actual": "2026-06-08T10:09:16.000Z",
-      "live_viewers": 6608,
+      "live_viewers": 7702,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
