@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780930579,
+  "cached_at": 1780930647,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "Pp4wTzwErrk",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-08T13:00:11.000Z",
       "start_scheduled": "2026-06-08T13:00:00.000Z",
       "start_actual": "2026-06-08T13:00:11.000Z",
-      "live_viewers": 12385,
+      "live_viewers": 12958,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-08T13:00:38.000Z",
       "start_scheduled": "2026-06-08T13:00:00.000Z",
       "start_actual": "2026-06-08T13:00:38.000Z",
-      "live_viewers": 22373,
+      "live_viewers": 21728,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCtyWhCj3AqKh2dXctLkDtng": {
-      "video_id": "2O1nThXCNbU",
-      "title": "【定期雑談】新しい可愛いスタンプきたぞおおおお!!!! #34【一条莉々華/hololive DEV_IS ReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-08T11:49:09.000Z",
-      "available_at": "2026-06-08T13:00:54.000Z",
-      "start_scheduled": "2026-06-08T13:00:00.000Z",
-      "start_actual": "2026-06-08T13:00:54.000Z",
-      "live_viewers": 1892,
-      "channel": {
-        "id": "UCtyWhCj3AqKh2dXctLkDtng",
-        "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-        "english_name": "Ichijou Ririka",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvInZx9h3jC2JzsIzoOebWg": {
@@ -171,7 +151,7 @@
       "available_at": "2026-06-08T13:01:45.000Z",
       "start_scheduled": "2026-06-08T13:00:00.000Z",
       "start_actual": "2026-06-08T13:01:45.000Z",
-      "live_viewers": 17691,
+      "live_viewers": 17675,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -251,7 +231,7 @@
       "available_at": "2026-06-08T14:44:49.000Z",
       "start_scheduled": "2026-06-08T14:40:00.000Z",
       "start_actual": "2026-06-08T14:44:49.000Z",
-      "live_viewers": 2535,
+      "live_viewers": 2764,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
