@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780925719,
+  "cached_at": 1780925780,
   "lives": {
     "UCAHQGIKolfBfoeXXMY79SBA": {
       "video_id": "Pp4wTzwErrk",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-08T07:01:56.000Z",
       "start_scheduled": "2026-06-08T07:00:00.000Z",
       "start_actual": "2026-06-08T07:01:56.000Z",
-      "live_viewers": 712,
+      "live_viewers": 719,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-08T11:02:03.000Z",
       "start_scheduled": "2026-06-08T11:00:00.000Z",
       "start_actual": "2026-06-08T11:02:03.000Z",
-      "live_viewers": 28239,
+      "live_viewers": 27790,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-08T11:30:19.000Z",
       "start_scheduled": "2026-06-08T11:30:00.000Z",
       "start_actual": "2026-06-08T11:30:19.000Z",
-      "live_viewers": 7119,
+      "live_viewers": 7277,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCFKOVgVbGmX65RxO3EtH3iw": {
-      "video_id": "8DI1o8iMt34",
-      "title": "【Forza Horizon 6】ホロメン激推しのゲーム、プレイしてみる!!【雪花ラミィ /ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Forza",
-      "published_at": "2026-06-08T06:39:11.000Z",
-      "available_at": "2026-06-08T12:00:28.000Z",
-      "start_scheduled": "2026-06-08T12:00:00.000Z",
-      "start_actual": "2026-06-08T12:00:28.000Z",
-      "live_viewers": 11873,
-      "channel": {
-        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
-        "name": "Lamy Ch. 雪花ラミィ",
-        "english_name": "Yukihana Lamy",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCOyYb1c43VlX9rc_lT6NKQw": {
@@ -151,7 +131,7 @@
       "available_at": "2026-06-08T13:00:11.000Z",
       "start_scheduled": "2026-06-08T13:00:00.000Z",
       "start_actual": "2026-06-08T13:00:11.000Z",
-      "live_viewers": 9865,
+      "live_viewers": 10003,
       "channel": {
         "id": "UCGNI4MENvnsymYjKiZwv9eg",
         "name": "Temma Ch. 岸堂天真",
@@ -171,7 +151,7 @@
       "available_at": "2026-06-08T13:00:38.000Z",
       "start_scheduled": "2026-06-08T13:00:00.000Z",
       "start_actual": "2026-06-08T13:00:38.000Z",
-      "live_viewers": 23112,
+      "live_viewers": 23550,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -211,7 +191,7 @@
       "available_at": "2026-06-08T13:00:59.000Z",
       "start_scheduled": "2026-06-08T13:00:00.000Z",
       "start_actual": "2026-06-08T13:00:59.000Z",
-      "live_viewers": 3481,
+      "live_viewers": 3546,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -231,7 +211,7 @@
       "available_at": "2026-06-08T13:01:31.000Z",
       "start_scheduled": "2026-06-08T13:00:00.000Z",
       "start_actual": "2026-06-08T13:01:31.000Z",
-      "live_viewers": 10519,
+      "live_viewers": 10820,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -251,7 +231,7 @@
       "available_at": "2026-06-08T13:01:45.000Z",
       "start_scheduled": "2026-06-08T13:00:00.000Z",
       "start_actual": "2026-06-08T13:01:45.000Z",
-      "live_viewers": 16128,
+      "live_viewers": 16358,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -271,7 +251,7 @@
       "available_at": "2026-06-08T13:01:50.000Z",
       "start_scheduled": "2026-06-08T13:00:00.000Z",
       "start_actual": "2026-06-08T13:01:50.000Z",
-      "live_viewers": 3397,
+      "live_viewers": 3387,
       "channel": {
         "id": "UCdXAk5MpyLD8594lm_OvtGQ",
         "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -311,7 +291,7 @@
       "available_at": "2026-06-08T13:30:42.000Z",
       "start_scheduled": "2026-06-08T13:30:00.000Z",
       "start_actual": "2026-06-08T13:30:42.000Z",
-      "live_viewers": 534,
+      "live_viewers": 1731,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
