@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781001859,
+  "cached_at": 1781001919,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-09T08:01:41.000Z",
       "start_scheduled": "2026-06-09T08:00:00.000Z",
       "start_actual": "2026-06-09T08:01:41.000Z",
-      "live_viewers": 222,
+      "live_viewers": 255,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -58,26 +58,6 @@
         "org": "Hololive",
         "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
         "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "pi7THOup1A8",
-      "title": "【スーパーマリオ64】完全初見!初めてのマリオ64に挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mario_64",
-      "published_at": "2026-06-09T02:36:20.000Z",
-      "available_at": "2026-06-09T08:58:03.000Z",
-      "start_scheduled": "2026-06-09T09:00:00.000Z",
-      "start_actual": "2026-06-09T08:58:03.000Z",
-      "live_viewers": 5867,
-      "channel": {
-        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "english_name": "Kikirara Vivi",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC_vMYWcDjmfdpH6r4TTn1MQ": {
@@ -90,7 +70,7 @@
       "available_at": "2026-06-09T09:03:26.000Z",
       "start_scheduled": "2026-06-09T09:00:00.000Z",
       "start_actual": "2026-06-09T09:03:26.000Z",
-      "live_viewers": 6011,
+      "live_viewers": 6176,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -110,7 +90,7 @@
       "available_at": "2026-06-09T09:58:42.000Z",
       "start_scheduled": "2026-06-09T10:00:00.000Z",
       "start_actual": "2026-06-09T09:58:42.000Z",
-      "live_viewers": 5435,
+      "live_viewers": 5472,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -170,7 +150,7 @@
       "available_at": "2026-06-09T10:02:09.000Z",
       "start_scheduled": "2026-06-09T10:00:00.000Z",
       "start_actual": "2026-06-09T10:02:09.000Z",
-      "live_viewers": 11689,
+      "live_viewers": 12125,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
