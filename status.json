@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781011459,
+  "cached_at": 1781011519,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-09T06:01:17.000Z",
       "start_scheduled": "2026-06-09T06:00:00.000Z",
       "start_actual": "2026-06-09T06:01:17.000Z",
-      "live_viewers": 1407,
+      "live_viewers": 1009,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-09T08:01:41.000Z",
       "start_scheduled": "2026-06-09T08:00:00.000Z",
       "start_actual": "2026-06-09T08:01:41.000Z",
-      "live_viewers": 174,
+      "live_viewers": 182,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-09T09:58:42.000Z",
       "start_scheduled": "2026-06-09T10:00:00.000Z",
       "start_actual": "2026-06-09T09:58:42.000Z",
-      "live_viewers": 5836,
+      "live_viewers": 5990,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-09T09:59:53.000Z",
       "start_scheduled": "2026-06-09T10:00:00.000Z",
       "start_actual": "2026-06-09T09:59:53.000Z",
-      "live_viewers": 6810,
+      "live_viewers": 7060,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-09T10:45:18.000Z",
       "start_scheduled": "2026-06-09T10:30:00.000Z",
       "start_actual": "2026-06-09T10:45:18.000Z",
-      "live_viewers": 2587,
+      "live_viewers": 2372,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -158,26 +158,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC727SQYUvx5pDDGQpTICNWg": {
-      "video_id": "XzZYeA9rq0M",
-      "title": "【R.E.P.O.】100年ぶりのレポ It's Been 100 Years...【hololive ID 2nd Generation | Anya Melfissa】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-06-09T10:35:15.000Z",
-      "available_at": "2026-06-09T11:00:36.000Z",
-      "start_scheduled": "2026-06-09T11:00:00.000Z",
-      "start_actual": "2026-06-09T11:00:36.000Z",
-      "live_viewers": 1822,
-      "channel": {
-        "id": "UC727SQYUvx5pDDGQpTICNWg",
-        "name": "Anya Melfissa Ch. hololive-ID",
-        "english_name": "Anya Melfissa",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCuI_opAVX6qbxZY-a-AxFuQ": {
@@ -230,7 +210,7 @@
       "available_at": "2026-06-09T11:03:32.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:03:32.000Z",
-      "live_viewers": 48014,
+      "live_viewers": 48297,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -250,7 +230,7 @@
       "available_at": "2026-06-09T11:57:40.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:57:40.000Z",
-      "live_viewers": 522,
+      "live_viewers": 557,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -290,7 +270,7 @@
       "available_at": "2026-06-09T13:00:15.000Z",
       "start_scheduled": "2026-06-09T13:00:00.000Z",
       "start_actual": "2026-06-09T13:00:15.000Z",
-      "live_viewers": 5549,
+      "live_viewers": 6193,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -310,7 +290,7 @@
       "available_at": "2026-06-09T13:00:44.000Z",
       "start_scheduled": "2026-06-09T13:00:00.000Z",
       "start_actual": "2026-06-09T13:00:44.000Z",
-      "live_viewers": 4420,
+      "live_viewers": 4813,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -350,7 +330,7 @@
       "available_at": "2026-06-09T13:02:13.000Z",
       "start_scheduled": "2026-06-09T13:00:00.000Z",
       "start_actual": "2026-06-09T13:02:13.000Z",
-      "live_viewers": 879,
+      "live_viewers": 967,
       "channel": {
         "id": "UChLfthKoUV502J7gU9STArg",
         "name": "渋谷ハル",
@@ -370,7 +350,7 @@
       "available_at": "2026-06-09T13:06:43.000Z",
       "start_scheduled": "2026-06-09T13:05:00.000Z",
       "start_actual": "2026-06-09T13:06:43.000Z",
-      "live_viewers": 1332,
+      "live_viewers": 1404,
       "channel": {
         "id": "UCD5W21JqNMv_tV9nfjvF9sw",
         "name": "紫宮るな /shinomiya runa",
