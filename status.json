@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781005999,
+  "cached_at": 1781006059,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-09T06:01:17.000Z",
       "start_scheduled": "2026-06-09T06:00:00.000Z",
       "start_actual": "2026-06-09T06:01:17.000Z",
-      "live_viewers": 1049,
+      "live_viewers": 1094,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-09T08:01:41.000Z",
       "start_scheduled": "2026-06-09T08:00:00.000Z",
       "start_actual": "2026-06-09T08:01:41.000Z",
-      "live_viewers": 181,
+      "live_viewers": 177,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-09T10:02:09.000Z",
       "start_scheduled": "2026-06-09T10:00:00.000Z",
       "start_actual": "2026-06-09T10:02:09.000Z",
-      "live_viewers": 10258,
+      "live_viewers": 10032,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-09T10:59:59.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T10:59:59.000Z",
-      "live_viewers": 22892,
+      "live_viewers": 22754,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -178,6 +178,26 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+      "video_id": "w_DlM6IuMks",
+      "title": "【R.E.P.O.】REPOコラボ!!みんなでワイワイコスメティック✨️ #ホロREPO【ホロライブ/白上フブキ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "R.E.P.O.",
+      "published_at": "2026-06-09T07:23:23.000Z",
+      "available_at": "2026-06-09T11:00:00.000Z",
+      "start_scheduled": "2026-06-09T11:00:00.000Z",
+      "start_actual": "2026-06-09T11:00:00.000Z",
+      "live_viewers": 11499,
+      "channel": {
+        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "name": "フブキCh。白上フブキ",
+        "english_name": "Shirakami Fubuki",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCNVEsYbiZjH5QLmGeSgTSzg": {
@@ -197,26 +217,6 @@
         "org": "Hololive",
         "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
         "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "w_DlM6IuMks",
-      "title": "【R.E.P.O.】REPOコラボ!!みんなでワイワイコスメティック✨️ #ホロREPO【ホロライブ/白上フブキ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "R.E.P.O.",
-      "published_at": "2026-06-09T07:23:23.000Z",
-      "available_at": "2026-06-09T11:00:00.000Z",
-      "start_scheduled": "2026-06-09T11:00:00.000Z",
-      "start_actual": "2026-06-09T11:00:00.000Z",
-      "live_viewers": 11346,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "フブキCh。白上フブキ",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC0TXe_LYZ4scaW2XMyi5_kw": {
@@ -289,7 +289,7 @@
       "available_at": "2026-06-09T11:00:57.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:00:57.000Z",
-      "live_viewers": 11141,
+      "live_viewers": 11245,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -349,7 +349,7 @@
       "available_at": "2026-06-09T11:01:55.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:01:55.000Z",
-      "live_viewers": 9793,
+      "live_viewers": 9757,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -369,7 +369,7 @@
       "available_at": "2026-06-09T11:02:08.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:02:08.000Z",
-      "live_viewers": 1219,
+      "live_viewers": 1227,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -389,7 +389,7 @@
       "available_at": "2026-06-09T11:03:32.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:03:32.000Z",
-      "live_viewers": 43382,
+      "live_viewers": 43847,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
