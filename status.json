@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780964539,
+  "cached_at": 1780964599,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-08T21:01:28.000Z",
       "start_scheduled": "2026-06-08T21:00:00.000Z",
       "start_actual": "2026-06-08T21:01:28.000Z",
-      "live_viewers": 1054,
+      "live_viewers": 1046,
       "channel": {
         "id": "UCHP4f7G2dWD4qib7BMatGAw",
         "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -47,9 +47,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-06-08T15:28:25.000Z",
-      "available_at": "2026-06-09T00:15:00.000Z",
+      "available_at": "2026-06-09T00:18:39.000Z",
       "start_scheduled": "2026-06-09T00:15:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-09T00:18:39.000Z",
+      "live_viewers": 189,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
