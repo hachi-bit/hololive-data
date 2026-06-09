@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781010679,
+  "cached_at": 1781010740,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-09T09:58:42.000Z",
       "start_scheduled": "2026-06-09T10:00:00.000Z",
       "start_actual": "2026-06-09T09:58:42.000Z",
-      "live_viewers": 5629,
+      "live_viewers": 5641,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-09T09:59:53.000Z",
       "start_scheduled": "2026-06-09T10:00:00.000Z",
       "start_actual": "2026-06-09T09:59:53.000Z",
-      "live_viewers": 6613,
+      "live_viewers": 6696,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-09T10:00:16.000Z",
       "start_scheduled": "2026-06-09T10:00:00.000Z",
       "start_actual": "2026-06-09T10:00:16.000Z",
-      "live_viewers": 6675,
+      "live_viewers": 7128,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-09T10:59:59.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T10:59:59.000Z",
-      "live_viewers": 23922,
+      "live_viewers": 24005,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-09T11:00:00.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:00:00.000Z",
-      "live_viewers": 12488,
+      "live_viewers": 12811,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -210,7 +210,7 @@
       "available_at": "2026-06-09T11:00:05.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:00:05.000Z",
-      "live_viewers": 5900,
+      "live_viewers": 5942,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -270,7 +270,7 @@
       "available_at": "2026-06-09T11:01:42.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:01:42.000Z",
-      "live_viewers": 3801,
+      "live_viewers": 3935,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -290,7 +290,7 @@
       "available_at": "2026-06-09T11:01:55.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:01:55.000Z",
-      "live_viewers": 11891,
+      "live_viewers": 12367,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -330,7 +330,7 @@
       "available_at": "2026-06-09T11:03:32.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:03:32.000Z",
-      "live_viewers": 45783,
+      "live_viewers": 46634,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -380,25 +380,6 @@
         "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdXAk5MpyLD8594lm_OvtGQ": {
-      "video_id": "iTj7OcZB4C4",
-      "title": "【メン限歌枠】おやすみ前に歌うよん【儒烏風亭らでん/ReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-09T12:13:02.000Z",
-      "available_at": "2026-06-09T13:00:00.000Z",
-      "start_scheduled": "2026-06-09T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
-        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
-        "english_name": "Juufuutei Raden",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1iA6_NT4mtAcIII6ygrvCw": {
       "video_id": "C_MkKbykvtk",
       "title": "【みんなのリズム天国】今ならハイレベルいけるはず【轟はじめ/ReGLOSS】",
@@ -409,7 +390,7 @@
       "available_at": "2026-06-09T13:00:15.000Z",
       "start_scheduled": "2026-06-09T13:00:00.000Z",
       "start_actual": "2026-06-09T13:00:15.000Z",
-      "live_viewers": 4217,
+      "live_viewers": 4362,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -429,7 +410,7 @@
       "available_at": "2026-06-09T13:00:44.000Z",
       "start_scheduled": "2026-06-09T13:00:00.000Z",
       "start_actual": "2026-06-09T13:00:44.000Z",
-      "live_viewers": 2573,
+      "live_viewers": 2906,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -437,6 +418,26 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdXAk5MpyLD8594lm_OvtGQ": {
+      "video_id": "iTj7OcZB4C4",
+      "title": "【メン限歌枠】おやすみ前に歌うよん【儒烏風亭らでん/ReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-06-09T12:13:02.000Z",
+      "available_at": "2026-06-09T13:00:59.000Z",
+      "start_scheduled": "2026-06-09T13:00:00.000Z",
+      "start_actual": "2026-06-09T13:00:59.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+        "english_name": "Juufuutei Raden",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChLfthKoUV502J7gU9STArg": {
@@ -449,7 +450,7 @@
       "available_at": "2026-06-09T13:02:13.000Z",
       "start_scheduled": "2026-06-09T13:00:00.000Z",
       "start_actual": "2026-06-09T13:02:13.000Z",
-      "live_viewers": 602,
+      "live_viewers": 645,
       "channel": {
         "id": "UChLfthKoUV502J7gU9STArg",
         "name": "渋谷ハル",
