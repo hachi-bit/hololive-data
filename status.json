@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781010019,
+  "cached_at": 1781010079,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-09T06:01:17.000Z",
       "start_scheduled": "2026-06-09T06:00:00.000Z",
       "start_actual": "2026-06-09T06:01:17.000Z",
-      "live_viewers": 1477,
+      "live_viewers": 1407,
       "channel": {
         "id": "UCAHQGIKolfBfoeXXMY79SBA",
         "name": "白那しずく",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-09T09:58:42.000Z",
       "start_scheduled": "2026-06-09T10:00:00.000Z",
       "start_actual": "2026-06-09T09:58:42.000Z",
-      "live_viewers": 5305,
+      "live_viewers": 5342,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-09T09:59:53.000Z",
       "start_scheduled": "2026-06-09T10:00:00.000Z",
       "start_actual": "2026-06-09T09:59:53.000Z",
-      "live_viewers": 6318,
+      "live_viewers": 6217,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-09T10:00:16.000Z",
       "start_scheduled": "2026-06-09T10:00:00.000Z",
       "start_actual": "2026-06-09T10:00:16.000Z",
-      "live_viewers": 7106,
+      "live_viewers": 6675,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -118,26 +118,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC5CwaMl1eIgY8h02uZw7u8A": {
-      "video_id": "a1rcws7ellI",
-      "title": "【BIOHAZARD requiem】※ネタバレあり‼この街の重さに打ち勝て───【星街すいせい / #ほしまちすたじお】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-06-09T05:10:24.000Z",
-      "available_at": "2026-06-09T10:02:09.000Z",
-      "start_scheduled": "2026-06-09T10:00:00.000Z",
-      "start_actual": "2026-06-09T10:02:09.000Z",
-      "live_viewers": 10344,
-      "channel": {
-        "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-        "name": "Suisei Channel",
-        "english_name": "Hoshimachi Suisei",
-        "org": "Hololive",
-        "suborg": "0x0th Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCjk2nKmHzgH5Xy-C5qYRd5A": {
@@ -170,7 +150,7 @@
       "available_at": "2026-06-09T10:59:59.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T10:59:59.000Z",
-      "live_viewers": 22336,
+      "live_viewers": 22178,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -190,7 +170,7 @@
       "available_at": "2026-06-09T11:00:00.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:00:00.000Z",
-      "live_viewers": 11809,
+      "live_viewers": 11883,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -230,7 +210,7 @@
       "available_at": "2026-06-09T11:00:05.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:00:05.000Z",
-      "live_viewers": 5549,
+      "live_viewers": 5463,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -250,7 +230,7 @@
       "available_at": "2026-06-09T11:00:36.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:00:36.000Z",
-      "live_viewers": 2050,
+      "live_viewers": 2067,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -330,7 +310,7 @@
       "available_at": "2026-06-09T11:01:55.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:01:55.000Z",
-      "live_viewers": 10903,
+      "live_viewers": 11131,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -370,7 +350,7 @@
       "available_at": "2026-06-09T11:03:32.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:03:32.000Z",
-      "live_viewers": 42584,
+      "live_viewers": 42963,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -390,7 +370,7 @@
       "available_at": "2026-06-09T11:57:40.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:57:40.000Z",
-      "live_viewers": 448,
+      "live_viewers": 428,
       "channel": {
         "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
         "name": "astel ch.アステル",
@@ -410,7 +390,7 @@
       "available_at": "2026-06-09T12:00:01.000Z",
       "start_scheduled": "2026-06-09T12:00:00.000Z",
       "start_actual": "2026-06-09T12:00:01.000Z",
-      "live_viewers": 3827,
+      "live_viewers": 3883,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -422,7 +402,7 @@
     },
     "UCvzGlP9oQwU--Y0r9id_jnA": {
       "video_id": "Z-Tyrpc_0Vo",
-      "title": "【#生スバル】スバルの小屋 ゲスト：リオナ!/RIONA Suba Free Talk【ホロライブ/大空スバル】",
+      "title": "【#生スバル】スバルの小屋　ゲスト：リオナ！/RIONA Suba Free Talk【ホロライブ/大空スバル】",
       "type": "stream",
       "status": "live",
       "topic_id": "talk",
@@ -430,7 +410,7 @@
       "available_at": "2026-06-09T12:01:32.000Z",
       "start_scheduled": "2026-06-09T12:00:00.000Z",
       "start_actual": "2026-06-09T12:01:32.000Z",
-      "live_viewers": 24888,
+      "live_viewers": 23255,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
