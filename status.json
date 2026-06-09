@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781017399,
+  "cached_at": 1781017471,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-09T13:00:15.000Z",
       "start_scheduled": "2026-06-09T13:00:00.000Z",
       "start_actual": "2026-06-09T13:00:15.000Z",
-      "live_viewers": 5155,
+      "live_viewers": 5003,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-09T13:00:44.000Z",
       "start_scheduled": "2026-06-09T13:00:00.000Z",
       "start_actual": "2026-06-09T13:00:44.000Z",
-      "live_viewers": 3959,
+      "live_viewers": 2439,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-09T13:06:43.000Z",
       "start_scheduled": "2026-06-09T13:05:00.000Z",
       "start_actual": "2026-06-09T13:06:43.000Z",
-      "live_viewers": 1314,
+      "live_viewers": 1383,
       "channel": {
         "id": "UCD5W21JqNMv_tV9nfjvF9sw",
         "name": "紫宮るな /shinomiya runa",
@@ -140,26 +140,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "1wIkq_CkR-Q",
-      "title": "【同時視聴】Nintendo Direct 2026.6.9を一緒に見よう!!ぺこ!【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-06-08T16:42:46.000Z",
-      "available_at": "2026-06-09T13:44:05.000Z",
-      "start_scheduled": "2026-06-09T13:45:00.000Z",
-      "start_actual": "2026-06-09T13:44:05.000Z",
-      "live_viewers": 20160,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
       "video_id": "AyCsRrxVNHo",
       "title": "【 🔴同時視聴 】Nintendo Direct 2026.6.9 一緒に見よう😸✦ﾜｸﾜｸ【猫又おかゆ/ホロライブ】",
@@ -170,7 +150,7 @@
       "available_at": "2026-06-09T13:45:29.000Z",
       "start_scheduled": "2026-06-09T13:45:00.000Z",
       "start_actual": "2026-06-09T13:45:29.000Z",
-      "live_viewers": 8929,
+      "live_viewers": 8060,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -250,7 +230,7 @@
       "available_at": "2026-06-09T13:46:29.000Z",
       "start_scheduled": "2026-06-09T13:45:00.000Z",
       "start_actual": "2026-06-09T13:46:29.000Z",
-      "live_viewers": 16328,
+      "live_viewers": 12769,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -270,7 +250,7 @@
       "available_at": "2026-06-09T13:47:37.000Z",
       "start_scheduled": "2026-06-09T13:45:00.000Z",
       "start_actual": "2026-06-09T13:47:37.000Z",
-      "live_viewers": 9349,
+      "live_viewers": 8767,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -290,7 +270,7 @@
       "available_at": "2026-06-09T13:50:16.000Z",
       "start_scheduled": "2026-06-09T13:50:00.000Z",
       "start_actual": "2026-06-09T13:50:16.000Z",
-      "live_viewers": 1724,
+      "live_viewers": 1703,
       "channel": {
         "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
         "name": "Oga Ch.荒咬オウガ",
@@ -370,7 +350,7 @@
       "available_at": "2026-06-09T14:00:26.000Z",
       "start_scheduled": "2026-06-09T14:00:00.000Z",
       "start_actual": "2026-06-09T14:00:26.000Z",
-      "live_viewers": 358,
+      "live_viewers": 403,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -390,7 +370,7 @@
       "available_at": "2026-06-09T14:07:12.000Z",
       "start_scheduled": "2026-06-09T14:06:00.000Z",
       "start_actual": "2026-06-09T14:07:12.000Z",
-      "live_viewers": 3878,
+      "live_viewers": 4216,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -398,6 +378,26 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNskpCCH661BeRJkN8n8d-A": {
+      "video_id": "ntZezqcdKD8",
+      "title": "【仮面ライダーW】W-B-X 〜W-Boiled Extreme〜 - 上木彩 w TAKUYA // Coverd by 白玖ウタノ w アルランディス【歌ってみた】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Music_Cover",
+      "published_at": "2026-06-09T15:00:07.000Z",
+      "available_at": "2026-06-09T15:00:07.000Z",
+      "start_scheduled": "2026-06-09T15:00:00.000Z",
+      "start_actual": "2026-06-09T15:00:07.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCNskpCCH661BeRJkN8n8d-A",
+        "name": "UTANO ch. 白玖ウタノ",
+        "english_name": "Shiratama Utano",
+        "org": "Independents",
+        "suborg": "unUniVIRTUAL",
+        "photo": "https://yt3.ggpht.com/T0hSNqGrfZtcz9CPkimsUwc43VN8Bimy03SboQb1OcWtILiojacStkoNwKAGG4nrc8ffRFwy=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
