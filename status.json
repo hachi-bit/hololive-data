@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781017878,
+  "cached_at": 1781017940,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-09T13:02:13.000Z",
       "start_scheduled": "2026-06-09T13:00:00.000Z",
       "start_actual": "2026-06-09T13:02:13.000Z",
-      "live_viewers": 1333,
+      "live_viewers": 1392,
       "channel": {
         "id": "UChLfthKoUV502J7gU9STArg",
         "name": "渋谷ハル",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-09T13:45:29.000Z",
       "start_scheduled": "2026-06-09T13:45:00.000Z",
       "start_actual": "2026-06-09T13:45:29.000Z",
-      "live_viewers": 7990,
+      "live_viewers": 7379,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -190,7 +190,7 @@
       "available_at": "2026-06-09T13:45:39.000Z",
       "start_scheduled": "2026-06-09T13:45:00.000Z",
       "start_actual": "2026-06-09T13:45:39.000Z",
-      "live_viewers": 2104,
+      "live_viewers": 2070,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -210,7 +210,7 @@
       "available_at": "2026-06-09T13:46:20.000Z",
       "start_scheduled": "2026-06-09T13:45:00.000Z",
       "start_actual": "2026-06-09T13:46:20.000Z",
-      "live_viewers": 20096,
+      "live_viewers": 19905,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-09T13:46:29.000Z",
       "start_scheduled": "2026-06-09T13:45:00.000Z",
       "start_actual": "2026-06-09T13:46:29.000Z",
-      "live_viewers": 11661,
+      "live_viewers": 13320,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -250,7 +250,7 @@
       "available_at": "2026-06-09T13:47:37.000Z",
       "start_scheduled": "2026-06-09T13:45:00.000Z",
       "start_actual": "2026-06-09T13:47:37.000Z",
-      "live_viewers": 8767,
+      "live_viewers": 8234,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -300,26 +300,6 @@
         "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC9p_lqQ0FEDz327Vgf5JwqA": {
-      "video_id": "MeRlzDA_LqY",
-      "title": "【NINTENDO DIRECT WATCHALONG 6.9】WE MUST WITNESS WITH @MoriCalliope",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-06-09T06:33:52.000Z",
-      "available_at": "2026-06-09T14:00:00.000Z",
-      "start_scheduled": "2026-06-09T14:00:00.000Z",
-      "start_actual": "2026-06-09T14:00:00.000Z",
-      "live_viewers": 5673,
-      "channel": {
-        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-        "name": "Koseki Bijou Ch. hololive-EN",
-        "english_name": "Koseki Bijou",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
       "video_id": "AhlF58eb8jI",
       "title": "#4【GNOSIA】 my crewmates won't listen to me【Pavolia Reine/hololiveID】",
@@ -350,7 +330,7 @@
       "available_at": "2026-06-09T14:07:12.000Z",
       "start_scheduled": "2026-06-09T14:06:00.000Z",
       "start_actual": "2026-06-09T14:07:12.000Z",
-      "live_viewers": 4216,
+      "live_viewers": 4859,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
