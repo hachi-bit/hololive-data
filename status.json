@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781005519,
+  "cached_at": 1781005579,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-09T08:01:41.000Z",
       "start_scheduled": "2026-06-09T08:00:00.000Z",
       "start_actual": "2026-06-09T08:01:41.000Z",
-      "live_viewers": 173,
+      "live_viewers": 181,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-09T10:00:16.000Z",
       "start_scheduled": "2026-06-09T10:00:00.000Z",
       "start_actual": "2026-06-09T10:00:16.000Z",
-      "live_viewers": 6513,
+      "live_viewers": 6517,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-09T10:45:18.000Z",
       "start_scheduled": "2026-06-09T10:30:00.000Z",
       "start_actual": "2026-06-09T10:45:18.000Z",
-      "live_viewers": 5541,
+      "live_viewers": 5634,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-09T10:59:59.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T10:59:59.000Z",
-      "live_viewers": 22566,
+      "live_viewers": 22549,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -178,6 +178,25 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCNVEsYbiZjH5QLmGeSgTSzg": {
+      "video_id": "LNdf57oUCOc",
+      "title": "【LoL】LTK DDnext  レギュラー最終日 1位目指して  / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeoコーチ わしだいコーチ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "League_of_Legends",
+      "published_at": "2026-06-09T08:55:32.000Z",
+      "available_at": "2026-06-09T11:00:00.000Z",
+      "start_scheduled": "2026-06-09T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "english_name": "Astel Leda",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
@@ -198,25 +217,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCNVEsYbiZjH5QLmGeSgTSzg": {
-      "video_id": "LNdf57oUCOc",
-      "title": "【LoL】LTK DDnext  レギュラー最終日 1位目指して  / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeoコーチ わしだいコーチ",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "League_of_Legends",
-      "published_at": "2026-06-09T08:55:32.000Z",
-      "available_at": "2026-06-09T11:00:00.000Z",
-      "start_scheduled": "2026-06-09T11:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-        "name": "astel ch.アステル",
-        "english_name": "Astel Leda",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC0TXe_LYZ4scaW2XMyi5_kw": {
@@ -269,7 +269,7 @@
       "available_at": "2026-06-09T11:00:36.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:00:36.000Z",
-      "live_viewers": 1974,
+      "live_viewers": 2000,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -329,7 +329,7 @@
       "available_at": "2026-06-09T11:01:42.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:01:42.000Z",
-      "live_viewers": 3114,
+      "live_viewers": 3039,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -349,7 +349,7 @@
       "available_at": "2026-06-09T11:01:55.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:01:55.000Z",
-      "live_viewers": 9103,
+      "live_viewers": 9307,
       "channel": {
         "id": "UC9mf_ZVpouoILRY9NUIaK-w",
         "name": "Rikka ch.律可",
@@ -389,7 +389,7 @@
       "available_at": "2026-06-09T11:03:32.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:03:32.000Z",
-      "live_viewers": 42863,
+      "live_viewers": 42883,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
