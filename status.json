@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781013082,
+  "cached_at": 1781013139,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-09T08:01:41.000Z",
       "start_scheduled": "2026-06-09T08:00:00.000Z",
       "start_actual": "2026-06-09T08:01:41.000Z",
-      "live_viewers": 196,
+      "live_viewers": 173,
       "channel": {
         "id": "UC2hx0xVkMoHGWijwr_lA01w",
         "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-09T09:58:42.000Z",
       "start_scheduled": "2026-06-09T10:00:00.000Z",
       "start_actual": "2026-06-09T09:58:42.000Z",
-      "live_viewers": 7721,
+      "live_viewers": 7185,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -270,7 +270,7 @@
       "available_at": "2026-06-09T13:43:38.000Z",
       "start_scheduled": "2026-06-09T13:45:00.000Z",
       "start_actual": "2026-06-09T13:43:38.000Z",
-      "live_viewers": 8022,
+      "live_viewers": 8866,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -290,7 +290,7 @@
       "available_at": "2026-06-09T13:44:05.000Z",
       "start_scheduled": "2026-06-09T13:45:00.000Z",
       "start_actual": "2026-06-09T13:44:05.000Z",
-      "live_viewers": 14756,
+      "live_viewers": 16444,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -298,25 +298,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "OY8TEfEFIWs",
-      "title": "【同時視聴】Nintendo Direct 2026.6.9　見るンゴ　【ホロライブ/白上フブキ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-06-09T07:27:50.000Z",
-      "available_at": "2026-06-09T13:45:00.000Z",
-      "start_scheduled": "2026-06-09T13:45:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "フブキCh。白上フブキ",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvaTdHTWBGv3MKj3KVqJVCw": {
@@ -329,7 +310,7 @@
       "available_at": "2026-06-09T13:45:29.000Z",
       "start_scheduled": "2026-06-09T13:45:00.000Z",
       "start_actual": "2026-06-09T13:45:29.000Z",
-      "live_viewers": 4822,
+      "live_viewers": 5764,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -349,7 +330,7 @@
       "available_at": "2026-06-09T13:45:36.000Z",
       "start_scheduled": "2026-06-09T13:45:00.000Z",
       "start_actual": "2026-06-09T13:45:36.000Z",
-      "live_viewers": 3065,
+      "live_viewers": 3618,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -369,7 +350,7 @@
       "available_at": "2026-06-09T13:45:39.000Z",
       "start_scheduled": "2026-06-09T13:45:00.000Z",
       "start_actual": "2026-06-09T13:45:39.000Z",
-      "live_viewers": 1253,
+      "live_viewers": 1604,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -389,7 +370,7 @@
       "available_at": "2026-06-09T13:46:20.000Z",
       "start_scheduled": "2026-06-09T13:45:00.000Z",
       "start_actual": "2026-06-09T13:46:20.000Z",
-      "live_viewers": 13698,
+      "live_viewers": 17667,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -409,7 +390,7 @@
       "available_at": "2026-06-09T13:46:29.000Z",
       "start_scheduled": "2026-06-09T13:45:00.000Z",
       "start_actual": "2026-06-09T13:46:29.000Z",
-      "live_viewers": 5735,
+      "live_viewers": 9556,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -417,6 +398,26 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+      "video_id": "OY8TEfEFIWs",
+      "title": "【同時視聴】Nintendo Direct 2026.6.9 見るンゴ 【ホロライブ/白上フブキ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-06-09T07:27:50.000Z",
+      "available_at": "2026-06-09T13:47:37.000Z",
+      "start_scheduled": "2026-06-09T13:45:00.000Z",
+      "start_actual": "2026-06-09T13:47:37.000Z",
+      "live_viewers": 5637,
+      "channel": {
+        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "name": "フブキCh。白上フブキ",
+        "english_name": "Shirakami Fubuki",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
