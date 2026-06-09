@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781010979,
+  "cached_at": 1781011040,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-09T10:59:59.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T10:59:59.000Z",
-      "live_viewers": 24245,
+      "live_viewers": 24313,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-09T11:00:00.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:00:00.000Z",
-      "live_viewers": 12811,
+      "live_viewers": 13058,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -280,26 +280,6 @@
         "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC9mf_ZVpouoILRY9NUIaK-w": {
-      "video_id": "Au0VDh_Bzcg",
-      "title": "【 #律可卒業配信 】今までありがとう【律可/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Graduation",
-      "published_at": "2026-06-07T12:53:24.000Z",
-      "available_at": "2026-06-09T11:01:55.000Z",
-      "start_scheduled": "2026-06-09T11:00:00.000Z",
-      "start_actual": "2026-06-09T11:01:55.000Z",
-      "live_viewers": 12367,
-      "channel": {
-        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-        "name": "Rikka ch.律可",
-        "english_name": "Rikka",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCtyWhCj3AqKh2dXctLkDtng": {
       "video_id": "Y5zqjK8VRTY",
       "title": "【ヨッシーとフカシギの図鑑】まだまだ旅は続くってコト!?【一条莉々華/hololive DEV_IS ReGLOSS】",
@@ -330,7 +310,7 @@
       "available_at": "2026-06-09T11:03:32.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:03:32.000Z",
-      "live_viewers": 47138,
+      "live_viewers": 47251,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -390,7 +370,7 @@
       "available_at": "2026-06-09T13:00:15.000Z",
       "start_scheduled": "2026-06-09T13:00:00.000Z",
       "start_actual": "2026-06-09T13:00:15.000Z",
-      "live_viewers": 4876,
+      "live_viewers": 4711,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -410,7 +390,7 @@
       "available_at": "2026-06-09T13:00:44.000Z",
       "start_scheduled": "2026-06-09T13:00:00.000Z",
       "start_actual": "2026-06-09T13:00:44.000Z",
-      "live_viewers": 3199,
+      "live_viewers": 3380,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -450,7 +430,7 @@
       "available_at": "2026-06-09T13:02:13.000Z",
       "start_scheduled": "2026-06-09T13:00:00.000Z",
       "start_actual": "2026-06-09T13:02:13.000Z",
-      "live_viewers": 707,
+      "live_viewers": 813,
       "channel": {
         "id": "UChLfthKoUV502J7gU9STArg",
         "name": "渋谷ハル",
@@ -470,7 +450,7 @@
       "available_at": "2026-06-09T13:06:43.000Z",
       "start_scheduled": "2026-06-09T13:05:00.000Z",
       "start_actual": "2026-06-09T13:06:43.000Z",
-      "live_viewers": 1005,
+      "live_viewers": 1143,
       "channel": {
         "id": "UCD5W21JqNMv_tV9nfjvF9sw",
         "name": "紫宮るな /shinomiya runa",
