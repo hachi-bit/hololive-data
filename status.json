@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781010559,
+  "cached_at": 1781010619,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-09T10:59:59.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T10:59:59.000Z",
-      "live_viewers": 23589,
+      "live_viewers": 23922,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -190,7 +190,7 @@
       "available_at": "2026-06-09T11:00:01.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:00:01.000Z",
-      "live_viewers": 7155,
+      "live_viewers": 7459,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -210,7 +210,7 @@
       "available_at": "2026-06-09T11:00:05.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:00:05.000Z",
-      "live_viewers": 5552,
+      "live_viewers": 5900,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-09T11:00:36.000Z",
       "start_scheduled": "2026-06-09T11:00:00.000Z",
       "start_actual": "2026-06-09T11:00:36.000Z",
-      "live_viewers": 2141,
+      "live_viewers": 2259,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -399,26 +399,6 @@
         "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCAWSyEs_Io8MtpY3m-zqILA": {
-      "video_id": "jKCX26FYNS4",
-      "title": "【 歌って踊ってみた 】青空のラプソディ【 桃鈴ねね / 響咲リオナ / 綺々羅々ヴィヴィ / hololive 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Music_Cover",
-      "published_at": "2026-06-09T13:00:06.000Z",
-      "available_at": "2026-06-09T13:00:06.000Z",
-      "start_scheduled": "2026-06-09T13:00:00.000Z",
-      "start_actual": "2026-06-09T13:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-        "name": "Nene Ch.桃鈴ねね",
-        "english_name": "Momosuzu Nene",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC1iA6_NT4mtAcIII6ygrvCw": {
       "video_id": "C_MkKbykvtk",
       "title": "【みんなのリズム天国】今ならハイレベルいけるはず【轟はじめ/ReGLOSS】",
@@ -429,7 +409,7 @@
       "available_at": "2026-06-09T13:00:15.000Z",
       "start_scheduled": "2026-06-09T13:00:00.000Z",
       "start_actual": "2026-06-09T13:00:15.000Z",
-      "live_viewers": 3815,
+      "live_viewers": 4217,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -449,7 +429,7 @@
       "available_at": "2026-06-09T13:00:44.000Z",
       "start_scheduled": "2026-06-09T13:00:00.000Z",
       "start_actual": "2026-06-09T13:00:44.000Z",
-      "live_viewers": 2297,
+      "live_viewers": 2573,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -469,7 +449,7 @@
       "available_at": "2026-06-09T13:02:13.000Z",
       "start_scheduled": "2026-06-09T13:00:00.000Z",
       "start_actual": "2026-06-09T13:02:13.000Z",
-      "live_viewers": 456,
+      "live_viewers": 602,
       "channel": {
         "id": "UChLfthKoUV502J7gU9STArg",
         "name": "渋谷ハル",
