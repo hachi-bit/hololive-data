@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781002159,
+  "cached_at": 1781002219,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-09T09:03:26.000Z",
       "start_scheduled": "2026-06-09T09:00:00.000Z",
       "start_actual": "2026-06-09T09:03:26.000Z",
-      "live_viewers": 6176,
+      "live_viewers": 6208,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-09T09:58:42.000Z",
       "start_scheduled": "2026-06-09T10:00:00.000Z",
       "start_actual": "2026-06-09T09:58:42.000Z",
-      "live_viewers": 5472,
+      "live_viewers": 5625,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-09T10:02:09.000Z",
       "start_scheduled": "2026-06-09T10:00:00.000Z",
       "start_actual": "2026-06-09T10:02:09.000Z",
-      "live_viewers": 12106,
+      "live_viewers": 12309,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -167,9 +167,10 @@
       "status": "live",
       "topic_id": "umamusume",
       "published_at": "2026-06-08T20:14:28.000Z",
-      "available_at": "2026-06-09T10:30:00.000Z",
+      "available_at": "2026-06-09T10:45:18.000Z",
       "start_scheduled": "2026-06-09T10:30:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-09T10:45:18.000Z",
+      "live_viewers": 2621,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
