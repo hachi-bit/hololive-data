@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781017699,
+  "cached_at": 1781017759,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-09T13:00:15.000Z",
       "start_scheduled": "2026-06-09T13:00:00.000Z",
       "start_actual": "2026-06-09T13:00:15.000Z",
-      "live_viewers": 5003,
+      "live_viewers": 5440,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-09T13:02:13.000Z",
       "start_scheduled": "2026-06-09T13:00:00.000Z",
       "start_actual": "2026-06-09T13:02:13.000Z",
-      "live_viewers": 1386,
+      "live_viewers": 1333,
       "channel": {
         "id": "UChLfthKoUV502J7gU9STArg",
         "name": "渋谷ハル",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-09T13:45:36.000Z",
       "start_scheduled": "2026-06-09T13:45:00.000Z",
       "start_actual": "2026-06-09T13:45:36.000Z",
-      "live_viewers": 4797,
+      "live_viewers": 4039,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-09T13:46:29.000Z",
       "start_scheduled": "2026-06-09T13:45:00.000Z",
       "start_actual": "2026-06-09T13:46:29.000Z",
-      "live_viewers": 12626,
+      "live_viewers": 11661,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -290,7 +290,7 @@
       "available_at": "2026-06-09T13:51:27.000Z",
       "start_scheduled": "2026-06-09T13:50:00.000Z",
       "start_actual": "2026-06-09T13:51:27.000Z",
-      "live_viewers": 928,
+      "live_viewers": 882,
       "channel": {
         "id": "UC727SQYUvx5pDDGQpTICNWg",
         "name": "Anya Melfissa Ch. hololive-ID",
@@ -330,7 +330,7 @@
       "available_at": "2026-06-09T14:00:26.000Z",
       "start_scheduled": "2026-06-09T14:00:00.000Z",
       "start_actual": "2026-06-09T14:00:26.000Z",
-      "live_viewers": 403,
+      "live_viewers": 400,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -358,26 +358,6 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCNskpCCH661BeRJkN8n8d-A": {
-      "video_id": "ntZezqcdKD8",
-      "title": "【仮面ライダーW】W-B-X 〜W-Boiled Extreme〜 - 上木彩 w TAKUYA // Coverd by 白玖ウタノ w アルランディス【歌ってみた】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Music_Cover",
-      "published_at": "2026-06-09T15:00:07.000Z",
-      "available_at": "2026-06-09T15:00:07.000Z",
-      "start_scheduled": "2026-06-09T15:00:00.000Z",
-      "start_actual": "2026-06-09T15:00:07.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCNskpCCH661BeRJkN8n8d-A",
-        "name": "UTANO ch. 白玖ウタノ",
-        "english_name": "Shiratama Utano",
-        "org": "Independents",
-        "suborg": "unUniVIRTUAL",
-        "photo": "https://yt3.ggpht.com/T0hSNqGrfZtcz9CPkimsUwc43VN8Bimy03SboQb1OcWtILiojacStkoNwKAGG4nrc8ffRFwy=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
