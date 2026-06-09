@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780995559,
+  "cached_at": 1780995619,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-09T04:00:35.000Z",
       "start_scheduled": "2026-06-09T04:00:00.000Z",
       "start_actual": "2026-06-09T04:00:35.000Z",
-      "live_viewers": 2357,
+      "live_viewers": 2334,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -89,7 +89,7 @@
       "published_at": "2026-06-09T08:10:10.000Z",
       "available_at": "2026-06-09T08:10:51.000Z",
       "start_actual": "2026-06-09T08:10:51.000Z",
-      "live_viewers": 6038,
+      "live_viewers": 6090,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -97,6 +97,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "pi7THOup1A8",
+      "title": "【スーパーマリオ64】完全初見!初めてのマリオ64に挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_64",
+      "published_at": "2026-06-09T02:36:20.000Z",
+      "available_at": "2026-06-09T08:58:03.000Z",
+      "start_scheduled": "2026-06-09T09:00:00.000Z",
+      "start_actual": "2026-06-09T08:58:03.000Z",
+      "live_viewers": 777,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
