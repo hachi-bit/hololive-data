@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780982359,
+  "cached_at": 1780982419,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -87,9 +87,10 @@
       "status": "live",
       "topic_id": "Street_Fighter",
       "published_at": "2026-06-09T05:11:13.000Z",
-      "available_at": "2026-06-09T05:10:00.000Z",
+      "available_at": "2026-06-09T05:16:49.000Z",
       "start_scheduled": "2026-06-09T05:10:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-09T05:16:49.000Z",
+      "live_viewers": 741,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
