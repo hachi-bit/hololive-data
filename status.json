@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781042659,
+  "cached_at": 1781042719,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -27,9 +27,10 @@
       "status": "live",
       "topic_id": "morning",
       "published_at": "2026-06-09T16:34:24.000Z",
-      "available_at": "2026-06-09T22:00:00.000Z",
+      "available_at": "2026-06-09T22:02:53.000Z",
       "start_scheduled": "2026-06-09T22:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-09T22:02:53.000Z",
+      "live_viewers": 1582,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
