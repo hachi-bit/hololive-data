@@ -1,5 +1,5 @@
 {
-  "cached_at": 1780977679,
+  "cached_at": 1780977739,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-09T02:01:15.000Z",
       "start_scheduled": "2026-06-09T02:00:00.000Z",
       "start_actual": "2026-06-09T02:01:15.000Z",
-      "live_viewers": 3222,
+      "live_viewers": 3185,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -58,6 +58,25 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCANDOlYTJT7N5jlRC3zfzVA": {
+      "video_id": "t6HC0l-3PW0",
+      "title": "【P5R】初見で挑む『ペルソナ5 ザ・ロイヤル』 17日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Persona",
+      "published_at": "2026-06-08T15:31:11.000Z",
+      "available_at": "2026-06-09T04:00:00.000Z",
+      "start_scheduled": "2026-06-09T04:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+        "name": "Roberu Ch. 夕刻ロベル",
+        "english_name": "Yukoku Roberu",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
