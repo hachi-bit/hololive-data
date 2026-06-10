@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781099239,
+  "cached_at": 1781099299,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-10T11:01:28.000Z",
       "start_scheduled": "2026-06-10T11:00:00.000Z",
       "start_actual": "2026-06-10T11:01:28.000Z",
-      "live_viewers": 4390,
+      "live_viewers": 4286,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -78,26 +78,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKeAhJvy8zgXWbh9duVjIaQ": {
-      "video_id": "TiS7K06mXUk",
-      "title": "【雑談】 最終回(OVA版)【アルランディス/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-10T11:21:30.000Z",
-      "available_at": "2026-06-10T11:33:48.000Z",
-      "start_scheduled": "2026-06-10T11:30:00.000Z",
-      "start_actual": "2026-06-10T11:33:48.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
-        "name": "Aruran Ch. アルランディス",
-        "english_name": "Arurandeisu",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCKMWFR6lAstLa7Vbf5dH7ig": {
@@ -310,7 +290,7 @@
       "available_at": "2026-06-10T13:01:29.000Z",
       "start_scheduled": "2026-06-10T13:00:00.000Z",
       "start_actual": "2026-06-10T13:01:29.000Z",
-      "live_viewers": 39480,
+      "live_viewers": 39394,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -330,7 +310,7 @@
       "available_at": "2026-06-10T13:05:23.000Z",
       "start_scheduled": "2026-06-10T13:05:00.000Z",
       "start_actual": "2026-06-10T13:05:23.000Z",
-      "live_viewers": 4704,
+      "live_viewers": 4940,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -350,7 +330,7 @@
       "available_at": "2026-06-10T13:05:37.000Z",
       "start_scheduled": "2026-06-10T13:00:00.000Z",
       "start_actual": "2026-06-10T13:05:37.000Z",
-      "live_viewers": 4994,
+      "live_viewers": 5027,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
