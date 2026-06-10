@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781096359,
+  "cached_at": 1781096419,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-10T08:28:37.000Z",
       "start_scheduled": "2026-06-10T08:30:00.000Z",
       "start_actual": "2026-06-10T08:28:37.000Z",
-      "live_viewers": 1388,
+      "live_viewers": 1384,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-10T09:01:09.000Z",
       "start_scheduled": "2026-06-10T09:00:00.000Z",
       "start_actual": "2026-06-10T09:01:09.000Z",
-      "live_viewers": 4233,
+      "live_viewers": 3915,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-10T11:01:28.000Z",
       "start_scheduled": "2026-06-10T11:00:00.000Z",
       "start_actual": "2026-06-10T11:01:28.000Z",
-      "live_viewers": 4763,
+      "live_viewers": 4726,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-10T12:00:27.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:00:27.000Z",
-      "live_viewers": 7767,
+      "live_viewers": 7710,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-10T12:00:44.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:00:44.000Z",
-      "live_viewers": 35107,
+      "live_viewers": 34771,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -190,7 +190,7 @@
       "available_at": "2026-06-10T12:02:00.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:02:00.000Z",
-      "live_viewers": 799,
+      "live_viewers": 820,
       "channel": {
         "id": "UC_upTZ0otpptV5KARBsnIPg",
         "name": "小廻こま / Komawari Koma",
@@ -210,7 +210,7 @@
       "available_at": "2026-06-10T12:03:01.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:03:01.000Z",
-      "live_viewers": 4715,
+      "live_viewers": 4738,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-10T12:04:19.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:04:19.000Z",
-      "live_viewers": 24705,
+      "live_viewers": 24632,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -238,6 +238,26 @@
         "org": "Hololive",
         "suborg": "0y0th Generation",
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCDqI2jOz0weumE8s7paEk6g": {
+      "video_id": "jZOmYEfYZhs",
+      "title": "【雑談】夢のなかでもっちゅりん食べたけど…ん?夜にボクとおしゃべりしよ♥【ホロライブ/#ロボ子生放送  】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-06-10T11:12:43.000Z",
+      "available_at": "2026-06-10T12:56:34.000Z",
+      "start_scheduled": "2026-06-10T13:00:00.000Z",
+      "start_actual": "2026-06-10T12:56:34.000Z",
+      "live_viewers": 507,
+      "channel": {
+        "id": "UCDqI2jOz0weumE8s7paEk6g",
+        "name": "Roboco Ch. - ロボ子",
+        "english_name": "Robocosan",
+        "org": "Hololive",
+        "suborg": "0w0th Generation",
+        "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
