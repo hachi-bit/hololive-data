@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781100139,
+  "cached_at": 1781100199,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-10T09:58:13.000Z",
       "start_scheduled": "2026-06-10T10:00:00.000Z",
       "start_actual": "2026-06-10T09:58:13.000Z",
-      "live_viewers": 4677,
+      "live_viewers": 4775,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-10T12:00:27.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:00:27.000Z",
-      "live_viewers": 9586,
+      "live_viewers": 10792,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-10T12:02:00.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:02:00.000Z",
-      "live_viewers": 918,
+      "live_viewers": 912,
       "channel": {
         "id": "UC_upTZ0otpptV5KARBsnIPg",
         "name": "小廻こま / Komawari Koma",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-10T12:04:19.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:04:19.000Z",
-      "live_viewers": 23239,
+      "live_viewers": 23416,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-10T12:56:34.000Z",
       "start_scheduled": "2026-06-10T13:00:00.000Z",
       "start_actual": "2026-06-10T12:56:34.000Z",
-      "live_viewers": 1616,
+      "live_viewers": 1865,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -210,7 +210,7 @@
       "available_at": "2026-06-10T13:01:15.000Z",
       "start_scheduled": "2026-06-10T13:00:00.000Z",
       "start_actual": "2026-06-10T13:01:15.000Z",
-      "live_viewers": 760,
+      "live_viewers": 748,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-10T13:01:29.000Z",
       "start_scheduled": "2026-06-10T13:00:00.000Z",
       "start_actual": "2026-06-10T13:01:29.000Z",
-      "live_viewers": 42816,
+      "live_viewers": 43558,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -250,7 +250,7 @@
       "available_at": "2026-06-10T13:05:23.000Z",
       "start_scheduled": "2026-06-10T13:05:00.000Z",
       "start_actual": "2026-06-10T13:05:23.000Z",
-      "live_viewers": 4792,
+      "live_viewers": 4866,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -270,7 +270,7 @@
       "available_at": "2026-06-10T13:05:37.000Z",
       "start_scheduled": "2026-06-10T13:00:00.000Z",
       "start_actual": "2026-06-10T13:05:37.000Z",
-      "live_viewers": 5804,
+      "live_viewers": 6003,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -278,6 +278,83 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFTLzh12_nrtzqBPsTCqenA": {
+      "video_id": "F7WHJFhWEnE",
+      "title": "【Puzzle Together】やるよ~!w./けんきさん,小廻こまちゃん,夜よいち【ホロライブ/アキロゼ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Puzzle_Together",
+      "published_at": "2026-06-10T13:58:24.000Z",
+      "available_at": "2026-06-10T13:59:04.000Z",
+      "start_scheduled": "2026-06-10T14:00:00.000Z",
+      "start_actual": "2026-06-10T13:59:04.000Z",
+      "live_viewers": 1557,
+      "channel": {
+        "id": "UCFTLzh12_nrtzqBPsTCqenA",
+        "name": "アキロゼCh。Vtuber/ホロライブ所属",
+        "english_name": "Aki Rosenthal",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "n2dAdcbl6ts",
+      "title": "【SPOILER ALERT】 I got a team full of ladies!!!【Digimon Story Time Stranger】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Digimon",
+      "published_at": "2026-06-10T13:15:48.000Z",
+      "available_at": "2026-06-10T14:00:00.000Z",
+      "start_scheduled": "2026-06-10T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCl69AEx4MdqMZH7Jtsm7Tig": {
+      "video_id": "ubTlK-8_vLQ",
+      "title": "【POOLS】I am going on a little walk!! Wanna come with me?",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "POOLS",
+      "published_at": "2026-06-09T03:21:57.000Z",
+      "available_at": "2026-06-10T14:00:00.000Z",
+      "start_scheduled": "2026-06-10T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
+        "name": "Raora Panthera Ch. hololive-EN",
+        "english_name": "Raora Panthera",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCuI_opAVX6qbxZY-a-AxFuQ": {
+      "video_id": "XTmlB5Shg0I",
+      "title": "【 #リオニコラジオ 】第一回目🍷ノンアル晩酌でチルラジオ🐯♔【虎金妃笑虎/響咲リオナ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-06-09T16:13:01.000Z",
+      "available_at": "2026-06-10T14:00:00.000Z",
+      "start_scheduled": "2026-06-10T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+        "english_name": "Koganei Niko",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
