@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781089639,
+  "cached_at": 1781089699,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-10T08:59:14.000Z",
       "start_scheduled": "2026-06-10T09:00:00.000Z",
       "start_actual": "2026-06-10T08:59:14.000Z",
-      "live_viewers": 15704,
+      "live_viewers": 15614,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-10T09:01:09.000Z",
       "start_scheduled": "2026-06-10T09:00:00.000Z",
       "start_actual": "2026-06-10T09:01:09.000Z",
-      "live_viewers": 13389,
+      "live_viewers": 11561,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -120,26 +120,6 @@
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdfMHxjcCc2HSd9qFvfJgjg": {
-      "video_id": "hFE8002s72A",
-      "title": "D/N/A - Azari covered by 水無世燐央(Minase Rio)",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Music_Cover",
-      "published_at": "2026-06-10T11:00:06.000Z",
-      "available_at": "2026-06-10T11:00:06.000Z",
-      "start_scheduled": "2026-06-10T11:00:00.000Z",
-      "start_actual": "2026-06-10T11:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-        "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-        "english_name": "Minase Rio",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "0EArhULPUVA",
       "title": "【 #ホロライブ分かり手クイズ 】どれが誰の解答かを当てろ!!ホロメン分かり手は誰だ!??【宝鐘マリン・尾丸ポルカ・博衣こより/ホロライブ】",
@@ -150,7 +130,7 @@
       "available_at": "2026-06-10T11:00:29.000Z",
       "start_scheduled": "2026-06-10T11:00:00.000Z",
       "start_actual": "2026-06-10T11:00:29.000Z",
-      "live_viewers": 28160,
+      "live_viewers": 33589,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -170,7 +150,7 @@
       "available_at": "2026-06-10T11:01:28.000Z",
       "start_scheduled": "2026-06-10T11:00:00.000Z",
       "start_actual": "2026-06-10T11:01:28.000Z",
-      "live_viewers": 2485,
+      "live_viewers": 2851,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
