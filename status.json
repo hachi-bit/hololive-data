@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781089339,
+  "cached_at": 1781089399,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-10T08:28:37.000Z",
       "start_scheduled": "2026-06-10T08:30:00.000Z",
       "start_actual": "2026-06-10T08:28:37.000Z",
-      "live_viewers": 1508,
+      "live_viewers": 1570,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-10T08:59:14.000Z",
       "start_scheduled": "2026-06-10T09:00:00.000Z",
       "start_actual": "2026-06-10T08:59:14.000Z",
-      "live_viewers": 15957,
+      "live_viewers": 15704,
       "channel": {
         "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
         "name": "Aruran Ch. アルランディス",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-10T09:01:09.000Z",
       "start_scheduled": "2026-06-10T09:00:00.000Z",
       "start_actual": "2026-06-10T09:01:09.000Z",
-      "live_viewers": 13651,
+      "live_viewers": 13389,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-10T09:58:13.000Z",
       "start_scheduled": "2026-06-10T10:00:00.000Z",
       "start_actual": "2026-06-10T09:58:13.000Z",
-      "live_viewers": 7352,
+      "live_viewers": 7381,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-10T09:59:47.000Z",
       "start_scheduled": "2026-06-10T10:00:00.000Z",
       "start_actual": "2026-06-10T09:59:47.000Z",
-      "live_viewers": 15226,
+      "live_viewers": 12242,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -118,6 +118,65 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+      "video_id": "iMbDFs6prD4",
+      "title": "【けものティータイム】ケモミミ+ KAWAII +ASMR=超絶癒やしの喫茶店経営【白上フブキ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Kemono_Teatime",
+      "published_at": "2026-06-10T05:58:42.000Z",
+      "available_at": "2026-06-10T11:00:00.000Z",
+      "start_scheduled": "2026-06-10T11:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "name": "フブキCh。白上フブキ",
+        "english_name": "Shirakami Fubuki",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdfMHxjcCc2HSd9qFvfJgjg": {
+      "video_id": "hFE8002s72A",
+      "title": "D/N/A - Azari covered by 水無世燐央(Minase Rio)",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Music_Cover",
+      "published_at": "2026-06-10T11:00:06.000Z",
+      "available_at": "2026-06-10T11:00:06.000Z",
+      "start_scheduled": "2026-06-10T11:00:00.000Z",
+      "start_actual": "2026-06-10T11:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+        "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+        "english_name": "Minase Rio",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6eWCld0KwmyHFbAqK3V-Rw": {
+      "video_id": "0EArhULPUVA",
+      "title": "【 #ホロライブ分かり手クイズ 】どれが誰の解答かを当てろ!!ホロメン分かり手は誰だ!??【宝鐘マリン・尾丸ポルカ・博衣こより/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Quiz",
+      "published_at": "2026-06-10T02:51:49.000Z",
+      "available_at": "2026-06-10T11:00:29.000Z",
+      "start_scheduled": "2026-06-10T11:00:00.000Z",
+      "start_actual": "2026-06-10T11:00:29.000Z",
+      "live_viewers": 12369,
+      "channel": {
+        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+        "name": "Koyori ch. 博衣こより - holoX -",
+        "english_name": "Hakui Koyori",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
