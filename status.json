@@ -1,26 +1,6 @@
 {
-  "cached_at": 1781133079,
+  "cached_at": 1781133138,
   "lives": {
-    "UCQ0UDLQCjY0rmuxCDE38FGg": {
-      "video_id": "TlPVmgFgow8",
-      "title": "【朝活】おはようしにきてください！【ホロライブ/夏色まつり】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "morning",
-      "published_at": "2026-06-09T13:17:41.000Z",
-      "available_at": "2026-06-10T22:00:06.000Z",
-      "start_scheduled": "2026-06-10T22:00:00.000Z",
-      "start_actual": "2026-06-10T22:00:06.000Z",
-      "live_viewers": 4990,
-      "channel": {
-        "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-        "name": "Matsuri Channel 夏色まつり",
-        "english_name": "Natsuiro Matsuri",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCMwGHR0BTZuLsmjY_NT5Pwg": {
       "video_id": "XQHKHS2hHxM",
       "title": "【CHAT】Short Chatting Before Some Time Off!",
@@ -31,7 +11,7 @@
       "available_at": "2026-06-10T23:01:12.000Z",
       "start_scheduled": "2026-06-10T23:00:00.000Z",
       "start_actual": "2026-06-10T23:01:12.000Z",
-      "live_viewers": 2994,
+      "live_viewers": 3360,
       "channel": {
         "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
         "name": "Ninomae Ina'nis Ch. hololive-EN",
