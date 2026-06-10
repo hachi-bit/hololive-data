@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781104039,
+  "cached_at": 1781104099,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-10T09:58:13.000Z",
       "start_scheduled": "2026-06-10T10:00:00.000Z",
       "start_actual": "2026-06-10T09:58:13.000Z",
-      "live_viewers": 4103,
+      "live_viewers": 4129,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-10T11:59:29.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T11:59:29.000Z",
-      "live_viewers": 8157,
+      "live_viewers": 8218,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-10T12:00:27.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:00:27.000Z",
-      "live_viewers": 9663,
+      "live_viewers": 9863,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-10T12:02:00.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:02:00.000Z",
-      "live_viewers": 754,
+      "live_viewers": 797,
       "channel": {
         "id": "UC_upTZ0otpptV5KARBsnIPg",
         "name": "小廻こま / Komawari Koma",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-10T12:04:19.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:04:19.000Z",
-      "live_viewers": 22629,
+      "live_viewers": 22845,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -118,26 +118,6 @@
         "org": "Hololive",
         "suborg": "0y0th Generation",
         "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCDqI2jOz0weumE8s7paEk6g": {
-      "video_id": "jZOmYEfYZhs",
-      "title": "【雑談】夢のなかでもっちゅりん食べたけど…ん?夜にボクとおしゃべりしよ♥【ホロライブ/#ロボ子生放送  】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-10T11:12:43.000Z",
-      "available_at": "2026-06-10T12:56:34.000Z",
-      "start_scheduled": "2026-06-10T13:00:00.000Z",
-      "start_actual": "2026-06-10T12:56:34.000Z",
-      "live_viewers": 82,
-      "channel": {
-        "id": "UCDqI2jOz0weumE8s7paEk6g",
-        "name": "Roboco Ch. - ロボ子",
-        "english_name": "Robocosan",
-        "org": "Hololive",
-        "suborg": "0w0th Generation",
-        "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
@@ -170,7 +150,7 @@
       "available_at": "2026-06-10T13:01:10.000Z",
       "start_scheduled": "2026-06-10T13:00:00.000Z",
       "start_actual": "2026-06-10T13:01:10.000Z",
-      "live_viewers": 4047,
+      "live_viewers": 4264,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -190,7 +170,7 @@
       "available_at": "2026-06-10T13:01:15.000Z",
       "start_scheduled": "2026-06-10T13:00:00.000Z",
       "start_actual": "2026-06-10T13:01:15.000Z",
-      "live_viewers": 751,
+      "live_viewers": 773,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -210,7 +190,7 @@
       "available_at": "2026-06-10T13:01:29.000Z",
       "start_scheduled": "2026-06-10T13:00:00.000Z",
       "start_actual": "2026-06-10T13:01:29.000Z",
-      "live_viewers": 38834,
+      "live_viewers": 38892,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -230,7 +210,7 @@
       "available_at": "2026-06-10T13:05:37.000Z",
       "start_scheduled": "2026-06-10T13:00:00.000Z",
       "start_actual": "2026-06-10T13:05:37.000Z",
-      "live_viewers": 5683,
+      "live_viewers": 5772,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -250,7 +230,7 @@
       "available_at": "2026-06-10T13:59:04.000Z",
       "start_scheduled": "2026-06-10T14:00:00.000Z",
       "start_actual": "2026-06-10T13:59:04.000Z",
-      "live_viewers": 3740,
+      "live_viewers": 3780,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -258,26 +238,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCuI_opAVX6qbxZY-a-AxFuQ": {
-      "video_id": "XTmlB5Shg0I",
-      "title": "【 #リオニコラジオ 】第一回目🍷ノンアル晩酌でチルラジオ🐯♔【虎金妃笑虎/響咲リオナ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-09T16:13:01.000Z",
-      "available_at": "2026-06-10T14:00:58.000Z",
-      "start_scheduled": "2026-06-10T14:00:00.000Z",
-      "start_actual": "2026-06-10T14:00:58.000Z",
-      "live_viewers": 5798,
-      "channel": {
-        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-        "english_name": "Koganei Niko",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
