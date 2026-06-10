@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781060479,
+  "cached_at": 1781060540,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-10T02:00:20.000Z",
       "start_scheduled": "2026-06-10T02:00:00.000Z",
       "start_actual": "2026-06-10T02:00:20.000Z",
-      "live_viewers": 2085,
+      "live_viewers": 2021,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-10T02:55:03.000Z",
       "start_scheduled": "2026-06-10T03:00:00.000Z",
       "start_actual": "2026-06-10T02:55:03.000Z",
-      "live_viewers": 1463,
+      "live_viewers": 1798,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -87,10 +87,10 @@
       "status": "live",
       "topic_id": "News_Show",
       "published_at": "2026-06-10T01:50:04.000Z",
-      "available_at": "2026-06-10T02:58:18.000Z",
+      "available_at": "2026-06-10T02:58:21.000Z",
       "start_scheduled": "2026-06-10T03:00:00.000Z",
-      "start_actual": "2026-06-10T02:58:18.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-10T02:58:21.000Z",
+      "live_viewers": 1039,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
@@ -98,6 +98,83 @@
         "org": "Hololive",
         "suborg": "0hOfficial",
         "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "wOHSGHgT5Aw",
+      "title": "【 昼活 】起きました。お昼です。明日お誕生日です✨【鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-06-09T19:54:31.000Z",
+      "available_at": "2026-06-10T03:00:00.000Z",
+      "start_scheduled": "2026-06-10T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFKOVgVbGmX65RxO3EtH3iw": {
+      "video_id": "ebe3cicw42Y",
+      "title": "【#まがまがーず】オフコラボ！！これから2人で…【雪花ラミィ・桃鈴ねね /ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-09T13:48:13.000Z",
+      "available_at": "2026-06-10T03:00:00.000Z",
+      "start_scheduled": "2026-06-10T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+        "name": "Lamy Ch. 雪花ラミィ",
+        "english_name": "Yukihana Lamy",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC8rcEBzJSleTkf_-agPM20g": {
+      "video_id": "G1jNKOhsGSY",
+      "title": "【PRAGMATA】I'M BACK DIANAAA",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PRAGMATA",
+      "published_at": "2026-06-09T19:44:30.000Z",
+      "available_at": "2026-06-10T03:00:00.000Z",
+      "start_scheduled": "2026-06-10T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC8rcEBzJSleTkf_-agPM20g",
+        "name": "IRyS Ch. hololive-EN",
+        "english_name": "IRyS",
+        "org": "Hololive",
+        "suborg": "iaEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAoy6rzhSf4ydcYjJw3WoVg": {
+      "video_id": "dwyegwjTFlg",
+      "title": "【Subnautica 2】Blub blub with Shiorin【 iofi / hololiveID 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Subnautica",
+      "published_at": "2026-06-08T12:22:03.000Z",
+      "available_at": "2026-06-10T03:00:04.000Z",
+      "start_scheduled": "2026-06-10T03:00:00.000Z",
+      "start_actual": "2026-06-10T03:00:04.000Z",
+      "live_viewers": 312,
+      "channel": {
+        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+        "name": "Airani Iofifteen Channel hololive-ID",
+        "english_name": "Airani Iofifteen",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
