@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781104518,
+  "cached_at": 1781104579,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-10T09:58:13.000Z",
       "start_scheduled": "2026-06-10T10:00:00.000Z",
       "start_actual": "2026-06-10T09:58:13.000Z",
-      "live_viewers": 4129,
+      "live_viewers": 4080,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-10T11:59:29.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T11:59:29.000Z",
-      "live_viewers": 8218,
+      "live_viewers": 8280,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-10T12:00:27.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:00:27.000Z",
-      "live_viewers": 9863,
+      "live_viewers": 10143,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-10T12:04:19.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:04:19.000Z",
-      "live_viewers": 22729,
+      "live_viewers": 22597,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-10T13:01:15.000Z",
       "start_scheduled": "2026-06-10T13:00:00.000Z",
       "start_actual": "2026-06-10T13:01:15.000Z",
-      "live_viewers": 773,
+      "live_viewers": 779,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -178,26 +178,6 @@
         "org": "Hololive",
         "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
         "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "NJaAiAJIAgg",
-      "title": "【切り抜き鑑賞会】みんなで #ホロ金策サバイバル2 の切り抜き観よう!!!ぺこ!【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-06-10T10:34:08.000Z",
-      "available_at": "2026-06-10T13:01:29.000Z",
-      "start_scheduled": "2026-06-10T13:00:00.000Z",
-      "start_actual": "2026-06-10T13:01:29.000Z",
-      "live_viewers": 39419,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
@@ -210,7 +190,7 @@
       "available_at": "2026-06-10T13:05:37.000Z",
       "start_scheduled": "2026-06-10T13:00:00.000Z",
       "start_actual": "2026-06-10T13:05:37.000Z",
-      "live_viewers": 5772,
+      "live_viewers": 5897,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
