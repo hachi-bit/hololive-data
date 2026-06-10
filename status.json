@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781111359,
+  "cached_at": 1781111419,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-10T14:04:07.000Z",
       "start_scheduled": "2026-06-10T14:00:00.000Z",
       "start_actual": "2026-06-10T14:04:07.000Z",
-      "live_viewers": 5208,
+      "live_viewers": 5191,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -78,26 +78,6 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCP0BspO_AMEe3aQqqpo89Dg": {
-      "video_id": "Q6h4f9qbJTQ",
-      "title": "【Membership】EHE.【Moona Hoshinova】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-10T15:52:46.000Z",
-      "available_at": "2026-06-10T15:55:57.000Z",
-      "start_scheduled": "2026-06-10T15:55:00.000Z",
-      "start_actual": "2026-06-10T15:55:57.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCP0BspO_AMEe3aQqqpo89Dg",
-        "name": "Moona Hoshinova hololive-ID",
-        "english_name": "Moona Hoshinova",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
