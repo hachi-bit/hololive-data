@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781064319,
+  "cached_at": 1781064379,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-10T00:11:23.000Z",
       "start_scheduled": "2026-06-10T00:15:00.000Z",
       "start_actual": "2026-06-10T00:11:23.000Z",
-      "live_viewers": 489,
+      "live_viewers": 488,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-10T02:58:21.000Z",
       "start_scheduled": "2026-06-10T03:00:00.000Z",
       "start_actual": "2026-06-10T02:58:21.000Z",
-      "live_viewers": 2573,
+      "live_viewers": 2486,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-10T03:00:04.000Z",
       "start_scheduled": "2026-06-10T03:00:00.000Z",
       "start_actual": "2026-06-10T03:00:04.000Z",
-      "live_viewers": 906,
+      "live_viewers": 985,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -118,26 +118,6 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCFKOVgVbGmX65RxO3EtH3iw": {
-      "video_id": "ebe3cicw42Y",
-      "title": "【#まがまがーず】オフコラボ!!これから2人で…【雪花ラミィ・桃鈴ねね /ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-06-09T13:48:13.000Z",
-      "available_at": "2026-06-10T03:00:29.000Z",
-      "start_scheduled": "2026-06-10T03:00:00.000Z",
-      "start_actual": "2026-06-10T03:00:29.000Z",
-      "live_viewers": 16494,
-      "channel": {
-        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
-        "name": "Lamy Ch. 雪花ラミィ",
-        "english_name": "Yukihana Lamy",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
@@ -150,7 +130,7 @@
       "available_at": "2026-06-10T03:02:29.000Z",
       "start_scheduled": "2026-06-10T03:00:00.000Z",
       "start_actual": "2026-06-10T03:02:29.000Z",
-      "live_viewers": 2420,
+      "live_viewers": 3173,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
