@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781132479,
+  "cached_at": 1781132538,
   "lives": {
     "UCQ0UDLQCjY0rmuxCDE38FGg": {
       "video_id": "TlPVmgFgow8",
@@ -19,6 +19,25 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCMwGHR0BTZuLsmjY_NT5Pwg": {
+      "video_id": "XQHKHS2hHxM",
+      "title": "【CHAT】Short Chatting Before Some Time Off!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-06-10T17:00:09.000Z",
+      "available_at": "2026-06-10T23:00:00.000Z",
+      "start_scheduled": "2026-06-10T23:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "name": "Ninomae Ina'nis Ch. hololive-EN",
+        "english_name": "Ninomae Ina'nis",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
