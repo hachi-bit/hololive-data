@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781108599,
+  "cached_at": 1781108719,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-10T12:02:00.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:02:00.000Z",
-      "live_viewers": 759,
+      "live_viewers": 752,
       "channel": {
         "id": "UC_upTZ0otpptV5KARBsnIPg",
         "name": "小廻こま / Komawari Koma",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-10T13:01:10.000Z",
       "start_scheduled": "2026-06-10T13:00:00.000Z",
       "start_actual": "2026-06-10T13:01:10.000Z",
-      "live_viewers": 5535,
+      "live_viewers": 5523,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-10T13:01:15.000Z",
       "start_scheduled": "2026-06-10T13:00:00.000Z",
       "start_actual": "2026-06-10T13:01:15.000Z",
-      "live_viewers": 719,
+      "live_viewers": 716,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-10T14:04:07.000Z",
       "start_scheduled": "2026-06-10T14:00:00.000Z",
       "start_actual": "2026-06-10T14:04:07.000Z",
-      "live_viewers": 5649,
+      "live_viewers": 5635,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -165,7 +165,7 @@
       "title": "【Membership】EHE.【Moona Hoshinova】",
       "type": "stream",
       "status": "live",
-      "topic_id": "membership",
+      "topic_id": "membersonly",
       "published_at": "2026-06-10T15:52:46.000Z",
       "available_at": "2026-06-10T15:55:57.000Z",
       "start_scheduled": "2026-06-10T15:55:00.000Z",
