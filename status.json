@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781092999,
+  "cached_at": 1781093059,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-10T09:01:09.000Z",
       "start_scheduled": "2026-06-10T09:00:00.000Z",
       "start_actual": "2026-06-10T09:01:09.000Z",
-      "live_viewers": 9281,
+      "live_viewers": 8950,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-10T11:00:29.000Z",
       "start_scheduled": "2026-06-10T11:00:00.000Z",
       "start_actual": "2026-06-10T11:00:29.000Z",
-      "live_viewers": 65733,
+      "live_viewers": 65783,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -138,6 +138,122 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKMWFR6lAstLa7Vbf5dH7ig": {
+      "video_id": "INdyMzoFtyg",
+      "title": "【FF6】#1 初めてのFF!ケフカに会いに行くぞ〜〜!!※ネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Final_fantasy",
+      "published_at": "2026-06-10T08:44:54.000Z",
+      "available_at": "2026-06-10T11:59:29.000Z",
+      "start_scheduled": "2026-06-10T12:00:00.000Z",
+      "start_actual": "2026-06-10T11:59:29.000Z",
+      "live_viewers": 2953,
+      "channel": {
+        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+        "english_name": "Rindo Chihaya",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_upTZ0otpptV5KARBsnIPg": {
+      "video_id": "ZJ-rGMv7MbQ",
+      "title": "【 PUBG┆VCC 】ま、丸くいきましょうよ【小廻こま/ミリプロ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PUBG",
+      "published_at": "2026-06-10T06:59:40.000Z",
+      "available_at": "2026-06-10T12:00:00.000Z",
+      "start_scheduled": "2026-06-10T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC_upTZ0otpptV5KARBsnIPg",
+        "name": "小廻こま / Komawari Koma",
+        "english_name": "Komawari Koma",
+        "org": "MillionProduction",
+        "suborg": "0g3rd Generation",
+        "photo": "https://yt3.ggpht.com/yws5uaKyNFbLVsDSjGb8Or8WZs-pydOu9U6YEPkZLU0FMZY9GpzRSAm-Fs738-x1_YLEKYGHag=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFTLzh12_nrtzqBPsTCqenA": {
+      "video_id": "YUPkyWu73QA",
+      "title": "【PUBG】カスタムぱぶじーやるってよ!w./けんきさん,小廻こまちゃん,夜よいち【ホロライブ/アキロゼ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "PUBG",
+      "published_at": "2026-06-10T11:26:44.000Z",
+      "available_at": "2026-06-10T12:00:00.000Z",
+      "start_scheduled": "2026-06-10T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCFTLzh12_nrtzqBPsTCqenA",
+        "name": "アキロゼCh。Vtuber/ホロライブ所属",
+        "english_name": "Aki Rosenthal",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvaTdHTWBGv3MKj3KVqJVCw": {
+      "video_id": "YAmIZ9uv1O8",
+      "title": "【 🔴オフコラボ 】マシュマロ雑談だよ~~~~!!🍙🤝🥐【 #おかころ/ホロライブ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Marshmallow",
+      "published_at": "2026-06-09T20:07:03.000Z",
+      "available_at": "2026-06-10T12:00:00.000Z",
+      "start_scheduled": "2026-06-10T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+        "name": "Okayu Ch. 猫又おかゆ",
+        "english_name": "Nekomata Okayu",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC-hM6YJuNYVAmUWxeIr9FeA": {
+      "video_id": "E7dvotTun8Y",
+      "title": "【#2】完全初見バイオハザード リベレーションズ/Resident Evil: Revelationsやるにぇ!!!【ホロライブ/さくらみこ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-06-09T17:50:56.000Z",
+      "available_at": "2026-06-10T12:00:00.000Z",
+      "start_scheduled": "2026-06-10T12:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+        "name": "Miko Ch. さくらみこ",
+        "english_name": "Sakura Miko",
+        "org": "Hololive",
+        "suborg": "0y0th Generation",
+        "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp-5t9SrOQwXMU7iIjQfARg": {
+      "video_id": "__HTr2FYcQo",
+      "title": "【 MOTHER2 】超名作MOTHER2を完全初見プレイ!【#最終回 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "EarthBound",
+      "published_at": "2026-06-10T07:32:17.000Z",
+      "available_at": "2026-06-10T12:00:27.000Z",
+      "start_scheduled": "2026-06-10T12:00:00.000Z",
+      "start_actual": "2026-06-10T12:00:27.000Z",
+      "live_viewers": 1463,
+      "channel": {
+        "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+        "name": "Mio Channel 大神ミオ",
+        "english_name": "Ookami Mio",
+        "org": "Hololive",
+        "suborg": "d_GAMERS",
+        "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
