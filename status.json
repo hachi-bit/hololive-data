@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781060360,
+  "cached_at": 1781060419,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-10T02:00:20.000Z",
       "start_scheduled": "2026-06-10T02:00:00.000Z",
       "start_actual": "2026-06-10T02:00:20.000Z",
-      "live_viewers": 2059,
+      "live_viewers": 2085,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-10T02:55:03.000Z",
       "start_scheduled": "2026-06-10T03:00:00.000Z",
       "start_actual": "2026-06-10T02:55:03.000Z",
-      "live_viewers": 926,
+      "live_viewers": 1463,
       "channel": {
         "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
         "name": "Shiori Novella Ch. hololive-EN",
@@ -78,6 +78,26 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCozx5csNhCx1wsVq3SZVkBQ": {
+      "video_id": "UDUmparZzmw",
+      "title": "【見逃し厳禁】鷹嶺ルイ生誕ライブで一体何が・・・?【#昼ホロ / #井月みちる】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "News_Show",
+      "published_at": "2026-06-10T01:50:04.000Z",
+      "available_at": "2026-06-10T02:58:18.000Z",
+      "start_scheduled": "2026-06-10T03:00:00.000Z",
+      "start_actual": "2026-06-10T02:58:18.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCozx5csNhCx1wsVq3SZVkBQ",
+        "name": "holoAN room (ホロアナ)",
+        "english_name": "holoAN room",
+        "org": "Hololive",
+        "suborg": "0hOfficial",
+        "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
