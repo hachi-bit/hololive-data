@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781101819,
+  "cached_at": 1781101880,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-10T09:58:13.000Z",
       "start_scheduled": "2026-06-10T10:00:00.000Z",
       "start_actual": "2026-06-10T09:58:13.000Z",
-      "live_viewers": 4614,
+      "live_viewers": 4590,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-10T11:59:29.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T11:59:29.000Z",
-      "live_viewers": 9022,
+      "live_viewers": 8871,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-10T12:00:27.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:00:27.000Z",
-      "live_viewers": 8711,
+      "live_viewers": 8697,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-10T12:02:00.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:02:00.000Z",
-      "live_viewers": 774,
+      "live_viewers": 765,
       "channel": {
         "id": "UC_upTZ0otpptV5KARBsnIPg",
         "name": "小廻こま / Komawari Koma",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-10T12:04:19.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:04:19.000Z",
-      "live_viewers": 23741,
+      "live_viewers": 23626,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-10T13:01:29.000Z",
       "start_scheduled": "2026-06-10T13:00:00.000Z",
       "start_actual": "2026-06-10T13:01:29.000Z",
-      "live_viewers": 42129,
+      "live_viewers": 40995,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -250,7 +250,7 @@
       "available_at": "2026-06-10T13:05:23.000Z",
       "start_scheduled": "2026-06-10T13:05:00.000Z",
       "start_actual": "2026-06-10T13:05:23.000Z",
-      "live_viewers": 4607,
+      "live_viewers": 4549,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -270,7 +270,7 @@
       "available_at": "2026-06-10T13:05:37.000Z",
       "start_scheduled": "2026-06-10T13:00:00.000Z",
       "start_actual": "2026-06-10T13:05:37.000Z",
-      "live_viewers": 5980,
+      "live_viewers": 5898,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -290,7 +290,7 @@
       "available_at": "2026-06-10T13:59:04.000Z",
       "start_scheduled": "2026-06-10T14:00:00.000Z",
       "start_actual": "2026-06-10T13:59:04.000Z",
-      "live_viewers": 3248,
+      "live_viewers": 3188,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -310,7 +310,7 @@
       "available_at": "2026-06-10T14:00:58.000Z",
       "start_scheduled": "2026-06-10T14:00:00.000Z",
       "start_actual": "2026-06-10T14:00:58.000Z",
-      "live_viewers": 5314,
+      "live_viewers": 5468,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -330,7 +330,7 @@
       "available_at": "2026-06-10T14:01:52.000Z",
       "start_scheduled": "2026-06-10T14:00:00.000Z",
       "start_actual": "2026-06-10T14:01:52.000Z",
-      "live_viewers": 1303,
+      "live_viewers": 1233,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -350,7 +350,7 @@
       "available_at": "2026-06-10T14:04:07.000Z",
       "start_scheduled": "2026-06-10T14:00:00.000Z",
       "start_actual": "2026-06-10T14:04:07.000Z",
-      "live_viewers": 3879,
+      "live_viewers": 3933,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
