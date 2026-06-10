@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781099839,
+  "cached_at": 1781099899,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-10T08:28:37.000Z",
       "start_scheduled": "2026-06-10T08:30:00.000Z",
       "start_actual": "2026-06-10T08:28:37.000Z",
-      "live_viewers": 1236,
+      "live_viewers": 1207,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-10T09:58:13.000Z",
       "start_scheduled": "2026-06-10T10:00:00.000Z",
       "start_actual": "2026-06-10T09:58:13.000Z",
-      "live_viewers": 4818,
+      "live_viewers": 4677,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-10T12:00:27.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:00:27.000Z",
-      "live_viewers": 9052,
+      "live_viewers": 9586,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -118,26 +118,6 @@
         "org": "Hololive",
         "suborg": "d_GAMERS",
         "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvaTdHTWBGv3MKj3KVqJVCw": {
-      "video_id": "YAmIZ9uv1O8",
-      "title": "【 🔴オフコラボ 】マシュマロ雑談だよ~~~~!!🍙🤝🥐【 #おかころ/ホロライブ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Marshmallow",
-      "published_at": "2026-06-09T20:07:03.000Z",
-      "available_at": "2026-06-10T12:00:44.000Z",
-      "start_scheduled": "2026-06-10T12:00:00.000Z",
-      "start_actual": "2026-06-10T12:00:44.000Z",
-      "live_viewers": 28912,
-      "channel": {
-        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-        "name": "Okayu Ch. 猫又おかゆ",
-        "english_name": "Nekomata Okayu",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC_upTZ0otpptV5KARBsnIPg": {
@@ -158,26 +138,6 @@
         "org": "MillionProduction",
         "suborg": "0g3rd Generation",
         "photo": "https://yt3.ggpht.com/yws5uaKyNFbLVsDSjGb8Or8WZs-pydOu9U6YEPkZLU0FMZY9GpzRSAm-Fs738-x1_YLEKYGHag=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCFTLzh12_nrtzqBPsTCqenA": {
-      "video_id": "YUPkyWu73QA",
-      "title": "【PUBG】カスタムぱぶじーやるってよ!w./けんきさん,小廻こまちゃん,夜よいち【ホロライブ/アキロゼ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "PUBG",
-      "published_at": "2026-06-10T11:26:44.000Z",
-      "available_at": "2026-06-10T12:03:01.000Z",
-      "start_scheduled": "2026-06-10T12:00:00.000Z",
-      "start_actual": "2026-06-10T12:03:01.000Z",
-      "live_viewers": 3877,
-      "channel": {
-        "id": "UCFTLzh12_nrtzqBPsTCqenA",
-        "name": "アキロゼCh。Vtuber/ホロライブ所属",
-        "english_name": "Aki Rosenthal",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC-hM6YJuNYVAmUWxeIr9FeA": {
@@ -210,7 +170,7 @@
       "available_at": "2026-06-10T12:56:34.000Z",
       "start_scheduled": "2026-06-10T13:00:00.000Z",
       "start_actual": "2026-06-10T12:56:34.000Z",
-      "live_viewers": 1533,
+      "live_viewers": 1616,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -270,7 +230,7 @@
       "available_at": "2026-06-10T13:01:15.000Z",
       "start_scheduled": "2026-06-10T13:00:00.000Z",
       "start_actual": "2026-06-10T13:01:15.000Z",
-      "live_viewers": 763,
+      "live_viewers": 760,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -290,7 +250,7 @@
       "available_at": "2026-06-10T13:01:29.000Z",
       "start_scheduled": "2026-06-10T13:00:00.000Z",
       "start_actual": "2026-06-10T13:01:29.000Z",
-      "live_viewers": 39812,
+      "live_viewers": 40564,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -310,7 +270,7 @@
       "available_at": "2026-06-10T13:05:23.000Z",
       "start_scheduled": "2026-06-10T13:05:00.000Z",
       "start_actual": "2026-06-10T13:05:23.000Z",
-      "live_viewers": 4686,
+      "live_viewers": 4792,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
