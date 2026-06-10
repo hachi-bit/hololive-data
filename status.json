@@ -1,4 +1,25 @@
 {
-  "cached_at": 1781128879,
-  "lives": {}
+  "cached_at": 1781128939,
+  "lives": {
+    "UCQ0UDLQCjY0rmuxCDE38FGg": {
+      "video_id": "TlPVmgFgow8",
+      "title": "【朝活】おはようしにきてください!【ホロライブ/夏色まつり】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "morning",
+      "published_at": "2026-06-09T13:17:41.000Z",
+      "available_at": "2026-06-10T22:00:06.000Z",
+      "start_scheduled": "2026-06-10T22:00:00.000Z",
+      "start_actual": "2026-06-10T22:00:06.000Z",
+      "live_viewers": 712,
+      "channel": {
+        "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+        "name": "Matsuri Channel 夏色まつり",
+        "english_name": "Natsuiro Matsuri",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    }
+  }
 }
