@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781106078,
+  "cached_at": 1781106139,
   "lives": {
     "UCLk1hcmxg8rJ3Nm1_GvxTRA": {
       "video_id": "uoYQjVQNAQs",
@@ -40,26 +40,6 @@
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCKMWFR6lAstLa7Vbf5dH7ig": {
-      "video_id": "INdyMzoFtyg",
-      "title": "【FF6】#1 初めてのFF!ケフカに会いに行くぞ〜〜!!※ネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Final_fantasy",
-      "published_at": "2026-06-10T08:44:54.000Z",
-      "available_at": "2026-06-10T11:59:29.000Z",
-      "start_scheduled": "2026-06-10T12:00:00.000Z",
-      "start_actual": "2026-06-10T11:59:29.000Z",
-      "live_viewers": 6066,
-      "channel": {
-        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "english_name": "Rindo Chihaya",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCp-5t9SrOQwXMU7iIjQfARg": {
       "video_id": "__HTr2FYcQo",
       "title": "【 MOTHER2 】超名作MOTHER2を完全初見プレイ!【#最終回 】",
@@ -70,7 +50,7 @@
       "available_at": "2026-06-10T12:00:27.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:00:27.000Z",
-      "live_viewers": 9663,
+      "live_viewers": 9446,
       "channel": {
         "id": "UCp-5t9SrOQwXMU7iIjQfARg",
         "name": "Mio Channel 大神ミオ",
@@ -90,7 +70,7 @@
       "available_at": "2026-06-10T12:02:00.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:02:00.000Z",
-      "live_viewers": 807,
+      "live_viewers": 780,
       "channel": {
         "id": "UC_upTZ0otpptV5KARBsnIPg",
         "name": "小廻こま / Komawari Koma",
@@ -110,7 +90,7 @@
       "available_at": "2026-06-10T12:04:19.000Z",
       "start_scheduled": "2026-06-10T12:00:00.000Z",
       "start_actual": "2026-06-10T12:04:19.000Z",
-      "live_viewers": 22759,
+      "live_viewers": 22692,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
