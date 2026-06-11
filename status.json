@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781161399,
+  "cached_at": 1781161459,
   "lives": {
     "UCkN17JBEg63-17srUnyfWaA": {
       "video_id": "dIgD4tGFIBM",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-11T02:59:24.000Z",
       "start_scheduled": "2026-06-11T03:00:00.000Z",
       "start_actual": "2026-06-11T02:59:24.000Z",
-      "live_viewers": 774,
+      "live_viewers": 750,
       "channel": {
         "id": "UCc88OV45ICgHbn3ZqLLb52w",
         "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -39,6 +39,45 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/wHtqHQ5LdCv_PnI-EeHUoedJgOe-fQcv9Fhkb7cod7oTo-f3rKJBJA0xSsVS4BhO9HnShdrnBA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAoy6rzhSf4ydcYjJw3WoVg": {
+      "video_id": "o38bJricug8",
+      "title": "【MHWilds】Ajak Gelut Monster Part 1 Afternoon【 iofi / hololiveID 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "monhun",
+      "published_at": "2026-06-11T05:20:51.000Z",
+      "available_at": "2026-06-11T07:00:00.000Z",
+      "start_scheduled": "2026-06-11T07:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+        "name": "Airani Iofifteen Channel hololive-ID",
+        "english_name": "Airani Iofifteen",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCQ0UDLQCjY0rmuxCDE38FGg": {
+      "video_id": "Vb4-3_nKKG4",
+      "title": "【 Minecraft / Hardcore 】死んだら即終了☠廃坑探索編!【ホロライブ/夏色まつり】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "minecraft",
+      "published_at": "2026-06-11T06:01:09.000Z",
+      "available_at": "2026-06-11T07:01:03.000Z",
+      "start_scheduled": "2026-06-11T07:00:00.000Z",
+      "start_actual": "2026-06-11T07:01:03.000Z",
+      "live_viewers": 843,
+      "channel": {
+        "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+        "name": "Matsuri Channel 夏色まつり",
+        "english_name": "Natsuiro Matsuri",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
