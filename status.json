@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781184739,
+  "cached_at": 1781184799,
   "lives": {
     "UC5CwaMl1eIgY8h02uZw7u8A": {
       "video_id": "nBO8bhl9wzE",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-11T10:01:01.000Z",
       "start_scheduled": "2026-06-11T10:00:00.000Z",
       "start_actual": "2026-06-11T10:01:01.000Z",
-      "live_viewers": 8686,
+      "live_viewers": 8382,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-11T12:03:24.000Z",
       "start_scheduled": "2026-06-11T12:00:00.000Z",
       "start_actual": "2026-06-11T12:03:24.000Z",
-      "live_viewers": 5600,
+      "live_viewers": 5518,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-11T12:04:15.000Z",
       "start_scheduled": "2026-06-11T12:00:00.000Z",
       "start_actual": "2026-06-11T12:04:15.000Z",
-      "live_viewers": 27043,
+      "live_viewers": 27171,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-11T12:47:40.000Z",
       "start_scheduled": "2026-06-11T12:30:00.000Z",
       "start_actual": "2026-06-11T12:47:40.000Z",
-      "live_viewers": 2157,
+      "live_viewers": 2027,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-11T12:59:13.000Z",
       "start_scheduled": "2026-06-11T13:00:00.000Z",
       "start_actual": "2026-06-11T12:59:13.000Z",
-      "live_viewers": 1156,
+      "live_viewers": 1151,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -231,7 +231,7 @@
       "available_at": "2026-06-11T13:00:07.000Z",
       "start_scheduled": "2026-06-11T13:00:00.000Z",
       "start_actual": "2026-06-11T13:00:07.000Z",
-      "live_viewers": 5009,
+      "live_viewers": 5111,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-11T13:00:57.000Z",
       "start_scheduled": "2026-06-11T13:00:00.000Z",
       "start_actual": "2026-06-11T13:00:57.000Z",
-      "live_viewers": 15627,
+      "live_viewers": 15941,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -271,7 +271,7 @@
       "available_at": "2026-06-11T13:01:34.000Z",
       "start_scheduled": "2026-06-11T13:00:00.000Z",
       "start_actual": "2026-06-11T13:01:34.000Z",
-      "live_viewers": 600,
+      "live_viewers": 597,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -279,6 +279,25 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
+      "video_id": "s1tWJDYCE-M",
+      "title": "#4 【JUDGE EYES：死神の遺言 】完全シリーズ初見!※ネタバレあり【水宮枢/ホロライブDEV_IS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Judgment",
+      "published_at": "2026-06-11T12:25:27.000Z",
+      "available_at": "2026-06-11T13:30:00.000Z",
+      "start_scheduled": "2026-06-11T13:30:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+        "name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "english_name": "Mizumiya Su",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
