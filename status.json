@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781183659,
+  "cached_at": 1781183719,
   "lives": {
     "UC5CwaMl1eIgY8h02uZw7u8A": {
       "video_id": "nBO8bhl9wzE",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-11T10:01:01.000Z",
       "start_scheduled": "2026-06-11T10:00:00.000Z",
       "start_actual": "2026-06-11T10:01:01.000Z",
-      "live_viewers": 9986,
+      "live_viewers": 9601,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-11T12:00:44.000Z",
       "start_scheduled": "2026-06-11T12:00:00.000Z",
       "start_actual": "2026-06-11T12:00:44.000Z",
-      "live_viewers": 32813,
+      "live_viewers": 32584,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-11T12:04:15.000Z",
       "start_scheduled": "2026-06-11T12:00:00.000Z",
       "start_actual": "2026-06-11T12:04:15.000Z",
-      "live_viewers": 25601,
+      "live_viewers": 25727,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-11T12:15:44.000Z",
       "start_scheduled": "2026-06-11T12:15:00.000Z",
       "start_actual": "2026-06-11T12:15:44.000Z",
-      "live_viewers": 3213,
+      "live_viewers": 3147,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-11T12:47:40.000Z",
       "start_scheduled": "2026-06-11T12:30:00.000Z",
       "start_actual": "2026-06-11T12:47:40.000Z",
-      "live_viewers": 1885,
+      "live_viewers": 1985,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-11T12:59:13.000Z",
       "start_scheduled": "2026-06-11T13:00:00.000Z",
       "start_actual": "2026-06-11T12:59:13.000Z",
-      "live_viewers": 766,
+      "live_viewers": 812,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -231,7 +231,7 @@
       "available_at": "2026-06-11T13:00:07.000Z",
       "start_scheduled": "2026-06-11T13:00:00.000Z",
       "start_actual": "2026-06-11T13:00:07.000Z",
-      "live_viewers": 4243,
+      "live_viewers": 4442,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-11T13:00:57.000Z",
       "start_scheduled": "2026-06-11T13:00:00.000Z",
       "start_actual": "2026-06-11T13:00:57.000Z",
-      "live_viewers": 12077,
+      "live_viewers": 12613,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -271,7 +271,7 @@
       "available_at": "2026-06-11T13:01:34.000Z",
       "start_scheduled": "2026-06-11T13:00:00.000Z",
       "start_actual": "2026-06-11T13:01:34.000Z",
-      "live_viewers": 439,
+      "live_viewers": 101,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
