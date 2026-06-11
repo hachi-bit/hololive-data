@@ -1,26 +1,6 @@
 {
-  "cached_at": 1781187439,
+  "cached_at": 1781187559,
   "lives": {
-    "UC5CwaMl1eIgY8h02uZw7u8A": {
-      "video_id": "nBO8bhl9wzE",
-      "title": "【BIOHAZARD requiem】※ネタバレあり‼ 久しぶりの長編、遂に最終回⁉【星街すいせい / #ほしまちすたじお】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-06-11T07:43:44.000Z",
-      "available_at": "2026-06-11T10:01:01.000Z",
-      "start_scheduled": "2026-06-11T10:00:00.000Z",
-      "start_actual": "2026-06-11T10:01:01.000Z",
-      "live_viewers": 7566,
-      "channel": {
-        "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-        "name": "Suisei Channel",
-        "english_name": "Hoshimachi Suisei",
-        "org": "Hololive",
-        "suborg": "0x0th Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "V19FE40osiw",
       "title": "【パワプロ2026】新作!栄冠ナイン3年モード!野村選手と弱小選手のチームで甲子園いけるのか!?検証育成スタート!!⚾✨【博衣こより/ホロライブ】",
@@ -31,7 +11,7 @@
       "available_at": "2026-06-11T12:00:27.000Z",
       "start_scheduled": "2026-06-11T12:00:00.000Z",
       "start_actual": "2026-06-11T12:00:27.000Z",
-      "live_viewers": 11643,
+      "live_viewers": 11812,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -51,7 +31,7 @@
       "available_at": "2026-06-11T12:00:44.000Z",
       "start_scheduled": "2026-06-11T12:00:00.000Z",
       "start_actual": "2026-06-11T12:00:44.000Z",
-      "live_viewers": 28356,
+      "live_viewers": 28304,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -71,7 +51,7 @@
       "available_at": "2026-06-11T12:01:03.000Z",
       "start_scheduled": "2026-06-11T12:00:00.000Z",
       "start_actual": "2026-06-11T12:01:03.000Z",
-      "live_viewers": 1485,
+      "live_viewers": 1522,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -111,7 +91,7 @@
       "available_at": "2026-06-11T12:04:15.000Z",
       "start_scheduled": "2026-06-11T12:00:00.000Z",
       "start_actual": "2026-06-11T12:04:15.000Z",
-      "live_viewers": 26149,
+      "live_viewers": 26751,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -131,7 +111,7 @@
       "available_at": "2026-06-11T12:15:44.000Z",
       "start_scheduled": "2026-06-11T12:15:00.000Z",
       "start_actual": "2026-06-11T12:15:44.000Z",
-      "live_viewers": 2884,
+      "live_viewers": 2833,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -139,26 +119,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC727SQYUvx5pDDGQpTICNWg": {
-      "video_id": "jP5hFUEObSo",
-      "title": "【いえのあじ | A taste of home】I Finally Have a Home【hololive ID 2nd Generation | Anya Melfissa】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "A_taste_of_home",
-      "published_at": "2026-06-11T12:13:20.000Z",
-      "available_at": "2026-06-11T12:30:50.000Z",
-      "start_scheduled": "2026-06-11T12:30:00.000Z",
-      "start_actual": "2026-06-11T12:30:50.000Z",
-      "live_viewers": 892,
-      "channel": {
-        "id": "UC727SQYUvx5pDDGQpTICNWg",
-        "name": "Anya Melfissa Ch. hololive-ID",
-        "english_name": "Anya Melfissa",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCp6993wxpyDPHUpavwDFqgg": {
@@ -171,7 +131,7 @@
       "available_at": "2026-06-11T12:47:40.000Z",
       "start_scheduled": "2026-06-11T12:30:00.000Z",
       "start_actual": "2026-06-11T12:47:40.000Z",
-      "live_viewers": 2177,
+      "live_viewers": 2255,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -231,7 +191,7 @@
       "available_at": "2026-06-11T13:00:57.000Z",
       "start_scheduled": "2026-06-11T13:00:00.000Z",
       "start_actual": "2026-06-11T13:00:57.000Z",
-      "live_viewers": 16900,
+      "live_viewers": 16229,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -251,7 +211,7 @@
       "available_at": "2026-06-11T13:01:34.000Z",
       "start_scheduled": "2026-06-11T13:00:00.000Z",
       "start_actual": "2026-06-11T13:01:34.000Z",
-      "live_viewers": 752,
+      "live_viewers": 1155,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -271,7 +231,7 @@
       "available_at": "2026-06-11T13:30:46.000Z",
       "start_scheduled": "2026-06-11T13:30:00.000Z",
       "start_actual": "2026-06-11T13:30:46.000Z",
-      "live_viewers": 4274,
+      "live_viewers": 4348,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -291,7 +251,7 @@
       "available_at": "2026-06-11T13:40:43.000Z",
       "start_scheduled": "2026-06-11T13:40:00.000Z",
       "start_actual": "2026-06-11T13:40:43.000Z",
-      "live_viewers": 2020,
+      "live_viewers": 2129,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -311,7 +271,7 @@
       "available_at": "2026-06-11T13:59:30.000Z",
       "start_scheduled": "2026-06-11T14:00:00.000Z",
       "start_actual": "2026-06-11T13:59:30.000Z",
-      "live_viewers": 321,
+      "live_viewers": 400,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
