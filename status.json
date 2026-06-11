@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781218639,
+  "cached_at": 1781218699,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "-ibR-CN671o",
@@ -99,6 +99,26 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9p_lqQ0FEDz327Vgf5JwqA": {
+      "video_id": "yhD2s_NCG54",
+      "title": "【Forza Horizon 6】I'LL GO A HUNDRED MILESSSSS- AN HOUR.",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-06-11T12:30:32.000Z",
+      "available_at": "2026-06-11T22:55:15.000Z",
+      "start_scheduled": "2026-06-11T23:00:00.000Z",
+      "start_actual": "2026-06-11T22:55:15.000Z",
+      "live_viewers": 766,
+      "channel": {
+        "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+        "name": "Koseki Bijou Ch. hololive-EN",
+        "english_name": "Koseki Bijou",
+        "org": "Hololive",
+        "suborg": "ihEnglish -Advent-",
+        "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
