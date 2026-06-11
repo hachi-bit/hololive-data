@@ -1,26 +1,6 @@
 {
-  "cached_at": 1781195359,
+  "cached_at": 1781195419,
   "lives": {
-    "UCtyWhCj3AqKh2dXctLkDtng": {
-      "video_id": "91OFn4Tg2Fk",
-      "title": "【ヨッシーとフカシギの図鑑】いっぱい図鑑をうめるんだ～チルヨッシー！【一条莉々華/hololive DEV_IS ReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Yoshi",
-      "published_at": "2026-06-11T11:06:02.000Z",
-      "available_at": "2026-06-11T12:01:03.000Z",
-      "start_scheduled": "2026-06-11T12:00:00.000Z",
-      "start_actual": "2026-06-11T12:01:03.000Z",
-      "live_viewers": 2020,
-      "channel": {
-        "id": "UCtyWhCj3AqKh2dXctLkDtng",
-        "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-        "english_name": "Ichijou Ririka",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCAoy6rzhSf4ydcYjJw3WoVg": {
       "video_id": "JMGNf9OyzHA",
       "title": "【MHWilds】Part 2 euy!【 iofi / hololiveID 】",
@@ -51,7 +31,7 @@
       "available_at": "2026-06-11T13:40:43.000Z",
       "start_scheduled": "2026-06-11T13:40:00.000Z",
       "start_actual": "2026-06-11T13:40:43.000Z",
-      "live_viewers": 3475,
+      "live_viewers": 3538,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -71,7 +51,7 @@
       "available_at": "2026-06-11T13:59:30.000Z",
       "start_scheduled": "2026-06-11T14:00:00.000Z",
       "start_actual": "2026-06-11T13:59:30.000Z",
-      "live_viewers": 845,
+      "live_viewers": 921,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
