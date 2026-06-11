@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781184559,
+  "cached_at": 1781184619,
   "lives": {
     "UC5CwaMl1eIgY8h02uZw7u8A": {
       "video_id": "nBO8bhl9wzE",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-11T10:01:01.000Z",
       "start_scheduled": "2026-06-11T10:00:00.000Z",
       "start_actual": "2026-06-11T10:01:01.000Z",
-      "live_viewers": 8651,
+      "live_viewers": 8686,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-11T12:00:25.000Z",
       "start_scheduled": "2026-06-11T12:00:00.000Z",
       "start_actual": "2026-06-11T12:00:25.000Z",
-      "live_viewers": 3021,
+      "live_viewers": 3031,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-11T12:00:44.000Z",
       "start_scheduled": "2026-06-11T12:00:00.000Z",
       "start_actual": "2026-06-11T12:00:44.000Z",
-      "live_viewers": 31530,
+      "live_viewers": 31028,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-11T12:15:44.000Z",
       "start_scheduled": "2026-06-11T12:15:00.000Z",
       "start_actual": "2026-06-11T12:15:44.000Z",
-      "live_viewers": 2949,
+      "live_viewers": 2860,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-11T12:59:13.000Z",
       "start_scheduled": "2026-06-11T13:00:00.000Z",
       "start_actual": "2026-06-11T12:59:13.000Z",
-      "live_viewers": 1116,
+      "live_viewers": 1156,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -231,7 +231,7 @@
       "available_at": "2026-06-11T13:00:07.000Z",
       "start_scheduled": "2026-06-11T13:00:00.000Z",
       "start_actual": "2026-06-11T13:00:07.000Z",
-      "live_viewers": 5081,
+      "live_viewers": 5009,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-11T13:00:57.000Z",
       "start_scheduled": "2026-06-11T13:00:00.000Z",
       "start_actual": "2026-06-11T13:00:57.000Z",
-      "live_viewers": 14743,
+      "live_viewers": 15627,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -271,7 +271,7 @@
       "available_at": "2026-06-11T13:01:34.000Z",
       "start_scheduled": "2026-06-11T13:00:00.000Z",
       "start_actual": "2026-06-11T13:01:34.000Z",
-      "live_viewers": 578,
+      "live_viewers": 600,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
