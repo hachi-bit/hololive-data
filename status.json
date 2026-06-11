@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781185520,
+  "cached_at": 1781185579,
   "lives": {
     "UC5CwaMl1eIgY8h02uZw7u8A": {
       "video_id": "nBO8bhl9wzE",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-11T10:01:01.000Z",
       "start_scheduled": "2026-06-11T10:00:00.000Z",
       "start_actual": "2026-06-11T10:01:01.000Z",
-      "live_viewers": 8157,
+      "live_viewers": 8119,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-11T12:00:27.000Z",
       "start_scheduled": "2026-06-11T12:00:00.000Z",
       "start_actual": "2026-06-11T12:00:27.000Z",
-      "live_viewers": 11863,
+      "live_viewers": 11744,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-11T12:00:44.000Z",
       "start_scheduled": "2026-06-11T12:00:00.000Z",
       "start_actual": "2026-06-11T12:00:44.000Z",
-      "live_viewers": 34183,
+      "live_viewers": 30168,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -131,7 +131,7 @@
       "available_at": "2026-06-11T12:04:15.000Z",
       "start_scheduled": "2026-06-11T12:00:00.000Z",
       "start_actual": "2026-06-11T12:04:15.000Z",
-      "live_viewers": 25632,
+      "live_viewers": 26409,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-11T12:15:44.000Z",
       "start_scheduled": "2026-06-11T12:15:00.000Z",
       "start_actual": "2026-06-11T12:15:44.000Z",
-      "live_viewers": 3008,
+      "live_viewers": 2991,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-11T12:47:40.000Z",
       "start_scheduled": "2026-06-11T12:30:00.000Z",
       "start_actual": "2026-06-11T12:47:40.000Z",
-      "live_viewers": 2054,
+      "live_viewers": 2075,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-11T13:00:57.000Z",
       "start_scheduled": "2026-06-11T13:00:00.000Z",
       "start_actual": "2026-06-11T13:00:57.000Z",
-      "live_viewers": 16920,
+      "live_viewers": 17030,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -291,7 +291,7 @@
       "available_at": "2026-06-11T13:30:46.000Z",
       "start_scheduled": "2026-06-11T13:30:00.000Z",
       "start_actual": "2026-06-11T13:30:46.000Z",
-      "live_viewers": 2523,
+      "live_viewers": 2820,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -308,9 +308,10 @@
       "status": "live",
       "topic_id": "none",
       "published_at": "2026-06-11T08:37:17.000Z",
-      "available_at": "2026-06-11T13:40:00.000Z",
+      "available_at": "2026-06-11T13:40:43.000Z",
       "start_scheduled": "2026-06-11T13:40:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-11T13:40:43.000Z",
+      "live_viewers": 759,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
