@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781186959,
+  "cached_at": 1781187019,
   "lives": {
     "UC5CwaMl1eIgY8h02uZw7u8A": {
       "video_id": "nBO8bhl9wzE",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-11T10:01:01.000Z",
       "start_scheduled": "2026-06-11T10:00:00.000Z",
       "start_actual": "2026-06-11T10:01:01.000Z",
-      "live_viewers": 7743,
+      "live_viewers": 7566,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-11T12:00:27.000Z",
       "start_scheduled": "2026-06-11T12:00:00.000Z",
       "start_actual": "2026-06-11T12:00:27.000Z",
-      "live_viewers": 11285,
+      "live_viewers": 11643,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-11T12:00:44.000Z",
       "start_scheduled": "2026-06-11T12:00:00.000Z",
       "start_actual": "2026-06-11T12:00:44.000Z",
-      "live_viewers": 28732,
+      "live_viewers": 28685,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-11T13:00:07.000Z",
       "start_scheduled": "2026-06-11T13:00:00.000Z",
       "start_actual": "2026-06-11T13:00:07.000Z",
-      "live_viewers": 5198,
+      "live_viewers": 5129,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -231,7 +231,7 @@
       "available_at": "2026-06-11T13:00:57.000Z",
       "start_scheduled": "2026-06-11T13:00:00.000Z",
       "start_actual": "2026-06-11T13:00:57.000Z",
-      "live_viewers": 17446,
+      "live_viewers": 16900,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -291,7 +291,7 @@
       "available_at": "2026-06-11T13:40:43.000Z",
       "start_scheduled": "2026-06-11T13:40:00.000Z",
       "start_actual": "2026-06-11T13:40:43.000Z",
-      "live_viewers": 1847,
+      "live_viewers": 1891,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -311,7 +311,7 @@
       "available_at": "2026-06-11T13:59:30.000Z",
       "start_scheduled": "2026-06-11T14:00:00.000Z",
       "start_actual": "2026-06-11T13:59:30.000Z",
-      "live_viewers": 271,
+      "live_viewers": 283,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
