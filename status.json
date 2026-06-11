@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781187919,
+  "cached_at": 1781187979,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "V19FE40osiw",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-11T12:00:27.000Z",
       "start_scheduled": "2026-06-11T12:00:00.000Z",
       "start_actual": "2026-06-11T12:00:27.000Z",
-      "live_viewers": 11904,
+      "live_viewers": 11951,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-11T12:00:44.000Z",
       "start_scheduled": "2026-06-11T12:00:00.000Z",
       "start_actual": "2026-06-11T12:00:44.000Z",
-      "live_viewers": 28295,
+      "live_viewers": 28799,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-11T12:01:03.000Z",
       "start_scheduled": "2026-06-11T12:00:00.000Z",
       "start_actual": "2026-06-11T12:01:03.000Z",
-      "live_viewers": 1522,
+      "live_viewers": 1742,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-11T12:04:15.000Z",
       "start_scheduled": "2026-06-11T12:00:00.000Z",
       "start_actual": "2026-06-11T12:04:15.000Z",
-      "live_viewers": 27362,
+      "live_viewers": 28280,
       "channel": {
         "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
         "name": "Miko Ch. さくらみこ",
@@ -121,26 +121,6 @@
         "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC1iA6_NT4mtAcIII6ygrvCw": {
-      "video_id": "cWwG6zYVAo8",
-      "title": "【百尺様】ホラゲーなのかバカゲーなのか??【轟はじめ/ReGLOSS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "HyakusyakuSama",
-      "published_at": "2026-06-11T05:41:24.000Z",
-      "available_at": "2026-06-11T13:00:07.000Z",
-      "start_scheduled": "2026-06-11T13:00:00.000Z",
-      "start_actual": "2026-06-11T13:00:07.000Z",
-      "live_viewers": 4909,
-      "channel": {
-        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-        "english_name": "Todoroki Hajime",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCAoy6rzhSf4ydcYjJw3WoVg": {
       "video_id": "JMGNf9OyzHA",
       "title": "【MHWilds】Part 2 euy!【 iofi / hololiveID 】",
@@ -151,7 +131,7 @@
       "available_at": "2026-06-11T13:01:34.000Z",
       "start_scheduled": "2026-06-11T13:00:00.000Z",
       "start_actual": "2026-06-11T13:01:34.000Z",
-      "live_viewers": 1066,
+      "live_viewers": 1071,
       "channel": {
         "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
         "name": "Airani Iofifteen Channel hololive-ID",
@@ -171,7 +151,7 @@
       "available_at": "2026-06-11T13:30:46.000Z",
       "start_scheduled": "2026-06-11T13:30:00.000Z",
       "start_actual": "2026-06-11T13:30:46.000Z",
-      "live_viewers": 4315,
+      "live_viewers": 4628,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -191,7 +171,7 @@
       "available_at": "2026-06-11T13:40:43.000Z",
       "start_scheduled": "2026-06-11T13:40:00.000Z",
       "start_actual": "2026-06-11T13:40:43.000Z",
-      "live_viewers": 2360,
+      "live_viewers": 2580,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -211,7 +191,7 @@
       "available_at": "2026-06-11T13:59:30.000Z",
       "start_scheduled": "2026-06-11T14:00:00.000Z",
       "start_actual": "2026-06-11T13:59:30.000Z",
-      "live_viewers": 417,
+      "live_viewers": 481,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
