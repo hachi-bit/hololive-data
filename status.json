@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781172259,
+  "cached_at": 1781172319,
   "lives": {
     "UCAoy6rzhSf4ydcYjJw3WoVg": {
       "video_id": "o38bJricug8",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-11T08:59:21.000Z",
       "start_scheduled": "2026-06-11T09:00:00.000Z",
       "start_actual": "2026-06-11T08:59:21.000Z",
-      "live_viewers": 9041,
+      "live_viewers": 9137,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-11T09:01:16.000Z",
       "start_scheduled": "2026-06-11T09:00:00.000Z",
       "start_actual": "2026-06-11T09:01:16.000Z",
-      "live_viewers": 16219,
+      "live_viewers": 16617,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -79,6 +79,65 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCANDOlYTJT7N5jlRC3zfzVA": {
+      "video_id": "XMxMkTJvgwQ",
+      "title": "【#ロベルないとめあ】なんだかんだで雑談をするのは久しぶりな我々【夕刻ロベル/神楽めあ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-06-10T07:59:51.000Z",
+      "available_at": "2026-06-11T10:00:00.000Z",
+      "start_scheduled": "2026-06-11T10:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+        "name": "Roberu Ch. 夕刻ロベル",
+        "english_name": "Yukoku Roberu",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCK9V2B22uJYu3N7eR_BT9QA": {
+      "video_id": "dtnYBYu2KdU",
+      "title": "【ポルカの伝説】街頭ビジョン見に行ってみた!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-11T10:00:06.000Z",
+      "available_at": "2026-06-11T10:00:06.000Z",
+      "start_scheduled": "2026-06-11T10:00:00.000Z",
+      "start_actual": "2026-06-11T10:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+        "name": "Polka Ch. 尾丸ポルカ",
+        "english_name": "Omaru Polka",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC5CwaMl1eIgY8h02uZw7u8A": {
+      "video_id": "nBO8bhl9wzE",
+      "title": "【BIOHAZARD requiem】※ネタバレあり‼ 久しぶりの長編、遂に最終回⁉【星街すいせい / #ほしまちすたじお】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "residentevil",
+      "published_at": "2026-06-11T07:43:44.000Z",
+      "available_at": "2026-06-11T10:01:01.000Z",
+      "start_scheduled": "2026-06-11T10:00:00.000Z",
+      "start_actual": "2026-06-11T10:01:01.000Z",
+      "live_viewers": 3185,
+      "channel": {
+        "id": "UC5CwaMl1eIgY8h02uZw7u8A",
+        "name": "Suisei Channel",
+        "english_name": "Hoshimachi Suisei",
+        "org": "Hololive",
+        "suborg": "0x0th Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
