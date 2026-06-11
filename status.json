@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781178199,
+  "cached_at": 1781178259,
   "lives": {
     "UC5CwaMl1eIgY8h02uZw7u8A": {
       "video_id": "nBO8bhl9wzE",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-11T10:01:01.000Z",
       "start_scheduled": "2026-06-11T10:00:00.000Z",
       "start_actual": "2026-06-11T10:01:01.000Z",
-      "live_viewers": 12790,
+      "live_viewers": 12925,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "0x0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCANDOlYTJT7N5jlRC3zfzVA": {
-      "video_id": "XMxMkTJvgwQ",
-      "title": "【#ロベルないとめあ】なんだかんだで雑談をするのは久しぶりな我々【夕刻ロベル/神楽めあ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-10T07:59:51.000Z",
-      "available_at": "2026-06-11T10:02:53.000Z",
-      "start_scheduled": "2026-06-11T10:00:00.000Z",
-      "start_actual": "2026-06-11T10:02:53.000Z",
-      "live_viewers": 5595,
-      "channel": {
-        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
-        "name": "Roberu Ch. 夕刻ロベル",
-        "english_name": "Yukoku Roberu",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCs9_O1tRPMQTHQ-N_L6FU2g": {
@@ -51,7 +31,7 @@
       "available_at": "2026-06-11T10:52:56.000Z",
       "start_scheduled": "2026-06-11T11:00:00.000Z",
       "start_actual": "2026-06-11T10:52:56.000Z",
-      "live_viewers": 66833,
+      "live_viewers": 67261,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
