@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781173219,
+  "cached_at": 1781173279,
   "lives": {
     "UCAoy6rzhSf4ydcYjJw3WoVg": {
       "video_id": "o38bJricug8",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-11T08:59:14.000Z",
       "start_scheduled": "2026-06-11T09:00:00.000Z",
       "start_actual": "2026-06-11T08:59:14.000Z",
-      "live_viewers": 15086,
+      "live_viewers": 15543,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-11T09:01:16.000Z",
       "start_scheduled": "2026-06-11T09:00:00.000Z",
       "start_actual": "2026-06-11T09:01:16.000Z",
-      "live_viewers": 16404,
+      "live_viewers": 15330,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -79,26 +79,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCK9V2B22uJYu3N7eR_BT9QA": {
-      "video_id": "dtnYBYu2KdU",
-      "title": "【ポルカの伝説】街頭ビジョン見に行ってみた!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-06-11T10:00:06.000Z",
-      "available_at": "2026-06-11T10:00:06.000Z",
-      "start_scheduled": "2026-06-11T10:00:00.000Z",
-      "start_actual": "2026-06-11T10:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-        "name": "Polka Ch. 尾丸ポルカ",
-        "english_name": "Omaru Polka",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC5CwaMl1eIgY8h02uZw7u8A": {
@@ -111,7 +91,7 @@
       "available_at": "2026-06-11T10:01:01.000Z",
       "start_scheduled": "2026-06-11T10:00:00.000Z",
       "start_actual": "2026-06-11T10:01:01.000Z",
-      "live_viewers": 7960,
+      "live_viewers": 8641,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -131,7 +111,7 @@
       "available_at": "2026-06-11T10:02:53.000Z",
       "start_scheduled": "2026-06-11T10:00:00.000Z",
       "start_actual": "2026-06-11T10:02:53.000Z",
-      "live_viewers": 3645,
+      "live_viewers": 3911,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
