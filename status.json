@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781197339,
+  "cached_at": 1781197399,
   "lives": {
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
       "video_id": "5ai2wsv1_8M",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-11T13:40:43.000Z",
       "start_scheduled": "2026-06-11T13:40:00.000Z",
       "start_actual": "2026-06-11T13:40:43.000Z",
-      "live_viewers": 3771,
+      "live_viewers": 3855,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -59,6 +59,25 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCajbFh6e_R8QZdHAMbbi4rQ": {
+      "video_id": "-ibR-CN671o",
+      "title": "Avalon's Least Qualified Oddjobber 【TAINTED GRAIL | Part 10】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-11T04:00:58.000Z",
+      "available_at": "2026-06-11T17:00:00.000Z",
+      "start_scheduled": "2026-06-11T17:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+        "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+        "english_name": "Crimzon Ruze",
+        "org": "Hololive",
+        "suborg": "oeHOLOSTARS English -ARMIS-",
+        "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
