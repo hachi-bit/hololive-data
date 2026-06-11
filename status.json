@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781146879,
+  "cached_at": 1781146939,
   "lives": {
     "UCl69AEx4MdqMZH7Jtsm7Tig": {
       "video_id": "-Ht_HZH9daY",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-11T02:05:13.000Z",
       "start_scheduled": "2026-06-11T02:00:00.000Z",
       "start_actual": "2026-06-11T02:05:13.000Z",
-      "live_viewers": 6021,
+      "live_viewers": 6140,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
@@ -39,6 +39,45 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCc88OV45ICgHbn3ZqLLb52w": {
+      "video_id": "cjoflX8laXY",
+      "title": "【クリア耐久】激ムズ!逆立ちしながら頂きを目指せ|Handstand Hank - 夜十神封魔",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Handstand_Hank",
+      "published_at": "2026-06-10T23:06:01.000Z",
+      "available_at": "2026-06-11T02:59:24.000Z",
+      "start_scheduled": "2026-06-11T03:00:00.000Z",
+      "start_actual": "2026-06-11T02:59:24.000Z",
+      "live_viewers": 123,
+      "channel": {
+        "id": "UCc88OV45ICgHbn3ZqLLb52w",
+        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+        "english_name": "Yatogami Fuma",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/wHtqHQ5LdCv_PnI-EeHUoedJgOe-fQcv9Fhkb7cod7oTo-f3rKJBJA0xSsVS4BhO9HnShdrnBA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "lnn0e8id2tY",
+      "title": "【定期配信#31】木曜のお昼の12時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-06-10T15:15:30.000Z",
+      "available_at": "2026-06-11T03:00:00.000Z",
+      "start_scheduled": "2026-06-11T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
