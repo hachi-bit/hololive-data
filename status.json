@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781175679,
+  "cached_at": 1781175739,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "0XJ5C1_yLNg",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-11T08:59:14.000Z",
       "start_scheduled": "2026-06-11T09:00:00.000Z",
       "start_actual": "2026-06-11T08:59:14.000Z",
-      "live_viewers": 12967,
+      "live_viewers": 12541,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -23,7 +23,7 @@
     },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "Ve5rXmnaEuA",
-      "title": "【ソーセージレジェンド2】3Dで視聴者参加型!初めてのソせレ!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "title": "【ソーセージレジェンド２】３Dで視聴者参加型！初めてのソせレ！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
       "type": "stream",
       "status": "live",
       "topic_id": "Sausage_Legend",
@@ -41,26 +41,6 @@
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "t1WfKHfpUIY",
-      "title": "【HoloCure】再熱!!ホロの神ゲーで遊んでいく!!! 【ホロライブ/白上フブキ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "HoloCure",
-      "published_at": "2026-06-10T06:27:23.000Z",
-      "available_at": "2026-06-11T09:01:16.000Z",
-      "start_scheduled": "2026-06-11T09:00:00.000Z",
-      "start_actual": "2026-06-11T09:01:16.000Z",
-      "live_viewers": 15140,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "フブキCh。白上フブキ",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC5CwaMl1eIgY8h02uZw7u8A": {
       "video_id": "nBO8bhl9wzE",
       "title": "【BIOHAZARD requiem】※ネタバレあり‼ 久しぶりの長編、遂に最終回⁉【星街すいせい / #ほしまちすたじお】",
@@ -71,7 +51,7 @@
       "available_at": "2026-06-11T10:01:01.000Z",
       "start_scheduled": "2026-06-11T10:00:00.000Z",
       "start_actual": "2026-06-11T10:01:01.000Z",
-      "live_viewers": 12108,
+      "live_viewers": 12364,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -111,7 +91,7 @@
       "available_at": "2026-06-11T10:52:56.000Z",
       "start_scheduled": "2026-06-11T11:00:00.000Z",
       "start_actual": "2026-06-11T10:52:56.000Z",
-      "live_viewers": 14083,
+      "live_viewers": 22197,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
