@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781175799,
+  "cached_at": 1781175859,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "0XJ5C1_yLNg",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-11T08:59:14.000Z",
       "start_scheduled": "2026-06-11T09:00:00.000Z",
       "start_actual": "2026-06-11T08:59:14.000Z",
-      "live_viewers": 12541,
+      "live_viewers": 4830,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "Ve5rXmnaEuA",
-      "title": "【ソーセージレジェンド２】３Dで視聴者参加型！初めてのソせレ！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Sausage_Legend",
-      "published_at": "2026-06-11T05:26:39.000Z",
-      "available_at": "2026-06-11T08:59:21.000Z",
-      "start_scheduled": "2026-06-11T09:00:00.000Z",
-      "start_actual": "2026-06-11T08:59:21.000Z",
-      "live_viewers": 8591,
-      "channel": {
-        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "english_name": "Kikirara Vivi",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC5CwaMl1eIgY8h02uZw7u8A": {
@@ -51,7 +31,7 @@
       "available_at": "2026-06-11T10:01:01.000Z",
       "start_scheduled": "2026-06-11T10:00:00.000Z",
       "start_actual": "2026-06-11T10:01:01.000Z",
-      "live_viewers": 12364,
+      "live_viewers": 12243,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -71,7 +51,7 @@
       "available_at": "2026-06-11T10:02:53.000Z",
       "start_scheduled": "2026-06-11T10:00:00.000Z",
       "start_actual": "2026-06-11T10:02:53.000Z",
-      "live_viewers": 5889,
+      "live_viewers": 6131,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -91,7 +71,7 @@
       "available_at": "2026-06-11T10:52:56.000Z",
       "start_scheduled": "2026-06-11T11:00:00.000Z",
       "start_actual": "2026-06-11T10:52:56.000Z",
-      "live_viewers": 22197,
+      "live_viewers": 33723,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -99,6 +79,26 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCtyWhCj3AqKh2dXctLkDtng": {
+      "video_id": "2fOzgCsWeeo",
+      "title": "【ヨッシーとフカシギの図鑑】いっぱい図鑑をうめるんだ~チルヨッシー!【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Yoshi",
+      "published_at": "2026-06-11T10:15:44.000Z",
+      "available_at": "2026-06-11T11:00:16.000Z",
+      "start_scheduled": "2026-06-11T11:00:00.000Z",
+      "start_actual": "2026-06-11T11:00:16.000Z",
+      "live_viewers": 497,
+      "channel": {
+        "id": "UCtyWhCj3AqKh2dXctLkDtng",
+        "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+        "english_name": "Ichijou Ririka",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
