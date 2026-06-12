@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781241439,
+  "cached_at": 1781241500,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "yhD2s_NCG54",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-11T22:55:15.000Z",
       "start_scheduled": "2026-06-11T23:00:00.000Z",
       "start_actual": "2026-06-11T22:55:15.000Z",
-      "live_viewers": 7883,
+      "live_viewers": 7801,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -79,6 +79,26 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCOyYb1c43VlX9rc_lT6NKQw": {
+      "video_id": "E-DJEnHOm20",
+      "title": "#2 CRIMSON DESERT - MAIN QUEST TIME",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-12T04:38:12.000Z",
+      "available_at": "2026-06-12T05:14:09.000Z",
+      "start_scheduled": "2026-06-12T05:15:00.000Z",
+      "start_actual": "2026-06-12T05:14:09.000Z",
+      "live_viewers": 217,
+      "channel": {
+        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+        "name": "Ayunda Risu Ch. hololive-ID",
+        "english_name": "Ayunda Risu",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
