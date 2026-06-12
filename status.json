@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781281999,
+  "cached_at": 1781282059,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "rCu9hiGYLwE",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-12T13:01:13.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:01:13.000Z",
-      "live_viewers": 14872,
+      "live_viewers": 14654,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-12T13:59:50.000Z",
       "start_scheduled": "2026-06-12T14:00:00.000Z",
       "start_actual": "2026-06-12T13:59:50.000Z",
-      "live_viewers": 1060,
+      "live_viewers": 992,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-12T13:59:55.000Z",
       "start_scheduled": "2026-06-12T14:00:00.000Z",
       "start_actual": "2026-06-12T13:59:55.000Z",
-      "live_viewers": 1017,
+      "live_viewers": 1019,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-12T15:00:49.000Z",
       "start_scheduled": "2026-06-12T15:00:00.000Z",
       "start_actual": "2026-06-12T15:00:49.000Z",
-      "live_viewers": 923,
+      "live_viewers": 915,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
