@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781266939,
+  "cached_at": 1781266999,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "32P14JIP2Zg",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-12T09:59:26.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T09:59:26.000Z",
-      "live_viewers": 3271,
+      "live_viewers": 3085,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-12T11:47:03.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T11:47:03.000Z",
-      "live_viewers": 7332,
+      "live_viewers": 7657,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -179,25 +179,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp6993wxpyDPHUpavwDFqgg": {
-      "video_id": "YMYC-mVkrWM",
-      "title": "【 コールありオリ曲 】ライブチケット始まったし、歌っていこう!【ホロライブ/ときのそら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-06-12T10:02:28.000Z",
-      "available_at": "2026-06-12T12:00:00.000Z",
-      "start_scheduled": "2026-06-12T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCp6993wxpyDPHUpavwDFqgg",
-        "name": "SoraCh. ときのそらチャンネル",
-        "english_name": "Tokino Sora",
-        "org": "Hololive",
-        "suborg": "0v0th Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9LSiN9hXI55svYEBrrK-tw": {
@@ -210,7 +191,7 @@
       "available_at": "2026-06-12T12:00:17.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:00:17.000Z",
-      "live_viewers": 2879,
+      "live_viewers": 2801,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -230,7 +211,7 @@
       "available_at": "2026-06-12T12:00:54.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:00:54.000Z",
-      "live_viewers": 30389,
+      "live_viewers": 26384,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -250,7 +231,7 @@
       "available_at": "2026-06-12T12:01:00.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:01:00.000Z",
-      "live_viewers": 19826,
+      "live_viewers": 21169,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -270,7 +251,7 @@
       "available_at": "2026-06-12T12:01:13.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:01:13.000Z",
-      "live_viewers": 6404,
+      "live_viewers": 7773,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -290,7 +271,7 @@
       "available_at": "2026-06-12T12:01:39.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:01:39.000Z",
-      "live_viewers": 15398,
+      "live_viewers": 16003,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -310,7 +291,7 @@
       "available_at": "2026-06-12T12:01:41.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:01:41.000Z",
-      "live_viewers": 7725,
+      "live_viewers": 8236,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -318,6 +299,26 @@
         "org": "Hololive",
         "suborg": "ga5th Generation (holoFive)",
         "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp6993wxpyDPHUpavwDFqgg": {
+      "video_id": "YMYC-mVkrWM",
+      "title": "【 コールありオリ曲 】ライブチケット始まったし、歌っていこう!【ホロライブ/ときのそら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-06-12T10:02:28.000Z",
+      "available_at": "2026-06-12T12:18:35.000Z",
+      "start_scheduled": "2026-06-12T12:00:00.000Z",
+      "start_actual": "2026-06-12T12:18:35.000Z",
+      "live_viewers": 1647,
+      "channel": {
+        "id": "UCp6993wxpyDPHUpavwDFqgg",
+        "name": "SoraCh. ときのそらチャンネル",
+        "english_name": "Tokino Sora",
+        "org": "Hololive",
+        "suborg": "0v0th Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
