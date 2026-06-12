@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781267479,
+  "cached_at": 1781267539,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "32P14JIP2Zg",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-12T09:59:26.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T09:59:26.000Z",
-      "live_viewers": 3085,
+      "live_viewers": 2913,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-12T10:04:21.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:04:21.000Z",
-      "live_viewers": 5789,
+      "live_viewers": 5423,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-12T10:18:47.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:18:47.000Z",
-      "live_viewers": 2661,
+      "live_viewers": 2557,
       "channel": {
         "id": "UCANDOlYTJT7N5jlRC3zfzVA",
         "name": "Roberu Ch. 夕刻ロベル",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-12T12:00:17.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:00:17.000Z",
-      "live_viewers": 2814,
+      "live_viewers": 2817,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -211,7 +211,7 @@
       "available_at": "2026-06-12T12:00:54.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:00:54.000Z",
-      "live_viewers": 32314,
+      "live_viewers": 21786,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -231,7 +231,7 @@
       "available_at": "2026-06-12T12:01:00.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:01:00.000Z",
-      "live_viewers": 23018,
+      "live_viewers": 22854,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-12T12:01:13.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:01:13.000Z",
-      "live_viewers": 7220,
+      "live_viewers": 7738,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -271,7 +271,7 @@
       "available_at": "2026-06-12T12:01:39.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:01:39.000Z",
-      "live_viewers": 16689,
+      "live_viewers": 17314,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -291,7 +291,7 @@
       "available_at": "2026-06-12T12:01:41.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:01:41.000Z",
-      "live_viewers": 10112,
+      "live_viewers": 10450,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
@@ -311,7 +311,7 @@
       "available_at": "2026-06-12T12:18:35.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:18:35.000Z",
-      "live_viewers": 2045,
+      "live_viewers": 2175,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -319,6 +319,26 @@
         "org": "Hololive",
         "suborg": "0v0th Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCAoy6rzhSf4ydcYjJw3WoVg": {
+      "video_id": "VVmzd_aE5l8",
+      "title": "【Subnautica 2】Blub blub blub blub?【 iofi / hololiveID 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Subnautica",
+      "published_at": "2026-06-12T04:25:57.000Z",
+      "available_at": "2026-06-12T12:29:57.000Z",
+      "start_scheduled": "2026-06-12T12:30:00.000Z",
+      "start_actual": "2026-06-12T12:29:57.000Z",
+      "live_viewers": 167,
+      "channel": {
+        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+        "name": "Airani Iofifteen Channel hololive-ID",
+        "english_name": "Airani Iofifteen",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
