@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781282299,
+  "cached_at": 1781282359,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "rCu9hiGYLwE",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-12T10:01:03.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:01:03.000Z",
-      "live_viewers": 7411,
+      "live_viewers": 6052,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-12T13:01:13.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:01:13.000Z",
-      "live_viewers": 14679,
+      "live_viewers": 14593,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-12T13:03:27.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:03:27.000Z",
-      "live_viewers": 5973,
+      "live_viewers": 6035,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1uv2Oq6kNxgATlCiez59hw": {
-      "video_id": "pI56tQ0Zs2Y",
-      "title": "【 STREET FIGHTER 6 】さはらっちょからのありがたすぎるコーチング‼️✨️【常闇トワ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-12T08:30:06.000Z",
-      "available_at": "2026-06-12T13:06:31.000Z",
-      "start_scheduled": "2026-06-12T13:00:00.000Z",
-      "start_actual": "2026-06-12T13:06:31.000Z",
-      "live_viewers": 3709,
-      "channel": {
-        "id": "UC1uv2Oq6kNxgATlCiez59hw",
-        "name": "Towa Ch. 常闇トワ",
-        "english_name": "Tokoyami Towa",
-        "org": "Hololive",
-        "suborg": "fa4th Generation (holoForce)",
-        "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
@@ -191,7 +171,7 @@
       "available_at": "2026-06-12T14:31:13.000Z",
       "start_scheduled": "2026-06-12T14:30:00.000Z",
       "start_actual": "2026-06-12T14:31:13.000Z",
-      "live_viewers": 697,
+      "live_viewers": 719,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
