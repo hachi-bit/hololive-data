@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781274799,
+  "cached_at": 1781274859,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "rCu9hiGYLwE",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-12T10:01:03.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:01:03.000Z",
-      "live_viewers": 12241,
+      "live_viewers": 12056,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-12T12:00:17.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:00:17.000Z",
-      "live_viewers": 2956,
+      "live_viewers": 2886,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-12T12:18:35.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:18:35.000Z",
-      "live_viewers": 2562,
+      "live_viewers": 2544,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -191,7 +191,7 @@
       "available_at": "2026-06-12T13:03:09.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:03:09.000Z",
-      "live_viewers": 2167,
+      "live_viewers": 1996,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -231,7 +231,7 @@
       "available_at": "2026-06-12T13:03:27.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:03:27.000Z",
-      "live_viewers": 5967,
+      "live_viewers": 5928,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -251,7 +251,7 @@
       "available_at": "2026-06-12T13:03:59.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:03:59.000Z",
-      "live_viewers": 4811,
+      "live_viewers": 4599,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -351,7 +351,7 @@
       "available_at": "2026-06-12T13:59:21.000Z",
       "start_scheduled": "2026-06-12T14:00:00.000Z",
       "start_actual": "2026-06-12T13:59:21.000Z",
-      "live_viewers": 2144,
+      "live_viewers": 2191,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -371,7 +371,7 @@
       "available_at": "2026-06-12T13:59:50.000Z",
       "start_scheduled": "2026-06-12T14:00:00.000Z",
       "start_actual": "2026-06-12T13:59:50.000Z",
-      "live_viewers": 1194,
+      "live_viewers": 1159,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -411,7 +411,7 @@
       "available_at": "2026-06-12T14:01:44.000Z",
       "start_scheduled": "2026-06-12T14:00:00.000Z",
       "start_actual": "2026-06-12T14:01:44.000Z",
-      "live_viewers": 478,
+      "live_viewers": 502,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -419,6 +419,46 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCDqI2jOz0weumE8s7paEk6g": {
+      "video_id": "zpYCySU8jR0",
+      "title": "【 歌枠】NO26.かわいい曲を歌ってみようかな~🎤ろぼめろでぃ~ RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-06-12T14:26:18.000Z",
+      "available_at": "2026-06-12T14:29:55.000Z",
+      "start_scheduled": "2026-06-12T14:30:00.000Z",
+      "start_actual": "2026-06-12T14:29:55.000Z",
+      "live_viewers": 447,
+      "channel": {
+        "id": "UCDqI2jOz0weumE8s7paEk6g",
+        "name": "Roboco Ch. - ロボ子",
+        "english_name": "Robocosan",
+        "org": "Hololive",
+        "suborg": "0w0th Generation",
+        "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCP0BspO_AMEe3aQqqpo89Dg": {
+      "video_id": "ZByfr1V7mgU",
+      "title": "【HoloVillage】Chill in the holo village【hololive | moona】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "holoVillage",
+      "published_at": "2026-06-12T14:11:56.000Z",
+      "available_at": "2026-06-12T14:31:13.000Z",
+      "start_scheduled": "2026-06-12T14:30:00.000Z",
+      "start_actual": "2026-06-12T14:31:13.000Z",
+      "live_viewers": 139,
+      "channel": {
+        "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+        "name": "Moona Hoshinova hololive-ID",
+        "english_name": "Moona Hoshinova",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
