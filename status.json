@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781303179,
+  "cached_at": 1781303239,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "3NE9KUMKZH0",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-12T11:47:03.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T11:47:03.000Z",
-      "live_viewers": 4255,
+      "live_viewers": 4201,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCHsx4Hqa-1ORjQTh9TYDhww": {
-      "video_id": "B8jtLcC9Mdw",
-      "title": "【MEMBERS】 Project Hail Mary WATCHALONG!!!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-11T22:58:04.000Z",
-      "available_at": "2026-06-12T18:03:09.000Z",
-      "start_scheduled": "2026-06-12T18:00:00.000Z",
-      "start_actual": "2026-06-12T18:03:09.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
-        "name": "Takanashi Kiara Ch. hololive-EN",
-        "english_name": "Takanashi Kiara",
-        "org": "Hololive",
-        "suborg": "h English -Myth-",
-        "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCDHABijvPBnJm7F-KlNME3w": {
@@ -51,7 +31,7 @@
       "available_at": "2026-06-12T21:00:34.000Z",
       "start_scheduled": "2026-06-12T21:00:00.000Z",
       "start_actual": "2026-06-12T21:00:34.000Z",
-      "live_viewers": 7262,
+      "live_viewers": 7358,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
