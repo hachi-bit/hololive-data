@@ -1,16 +1,15 @@
 {
-  "cached_at": 1781233339,
+  "cached_at": 1781233399,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "c3trvqs-4xo",
-      "title": "stream ends when i sleep or something【MEMBERSHIP】",
+      "video_id": "-_n1qlEnoL8",
+      "title": "I Need To Get To The Pig Church【BLOODBORNE】",
       "type": "stream",
       "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-11T20:29:56.000Z",
-      "available_at": "2026-06-11T20:34:19.000Z",
-      "start_scheduled": "2026-06-11T20:30:00.000Z",
-      "start_actual": "2026-06-11T20:34:19.000Z",
+      "topic_id": "Bloodborne",
+      "published_at": "2026-05-27T03:04:55.000Z",
+      "available_at": "2026-06-12T03:00:00.000Z",
+      "start_scheduled": "2026-06-12T03:00:00.000Z",
       "live_viewers": 0,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
@@ -41,26 +40,6 @@
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC7gxU6NXjKF1LrgOddPzgTw": {
-      "video_id": "y05cmf6AAK0",
-      "title": "【ASMR】This bath feels way too empty without you... Mind joining me ₊⊹♡【BATH STREAM】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "asmr",
-      "published_at": "2026-06-11T13:41:38.000Z",
-      "available_at": "2026-06-12T00:11:58.000Z",
-      "start_scheduled": "2026-06-12T00:15:00.000Z",
-      "start_actual": "2026-06-12T00:11:58.000Z",
-      "live_viewers": 478,
-      "channel": {
-        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-        "english_name": "Banzoin Hakka",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC3OH5FKQ3qtl4uRme_vZTgA": {
       "video_id": "U05ofFK2hCo",
       "title": "【余裕です】私は寝起きでも歌えます。【#UNIT_B / #清澄ライラ】",
@@ -68,10 +47,10 @@
       "status": "live",
       "topic_id": "singing",
       "published_at": "2026-06-11T13:30:12.000Z",
-      "available_at": "2026-06-12T02:58:17.000Z",
+      "available_at": "2026-06-12T02:58:19.000Z",
       "start_scheduled": "2026-06-12T03:00:00.000Z",
-      "start_actual": "2026-06-12T02:58:17.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-12T02:58:19.000Z",
+      "live_viewers": 1324,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -79,6 +58,26 @@
         "org": "Hololive",
         "suborg": "v_mekPark",
         "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCozx5csNhCx1wsVq3SZVkBQ": {
+      "video_id": "L3HMl_bDkWY",
+      "title": "ルイ姉の勢いが止まらない件について。【#昼ホロ / #花園さやか】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "News_Show",
+      "published_at": "2026-06-12T01:58:49.000Z",
+      "available_at": "2026-06-12T03:00:11.000Z",
+      "start_scheduled": "2026-06-12T03:00:00.000Z",
+      "start_actual": "2026-06-12T03:00:11.000Z",
+      "live_viewers": 936,
+      "channel": {
+        "id": "UCozx5csNhCx1wsVq3SZVkBQ",
+        "name": "holoAN room (ホロアナ)",
+        "english_name": "holoAN room",
+        "org": "Hololive",
+        "suborg": "0hOfficial",
+        "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
