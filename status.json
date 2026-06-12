@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781237179,
+  "cached_at": 1781237239,
   "lives": {
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "yhD2s_NCG54",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-11T22:55:15.000Z",
       "start_scheduled": "2026-06-11T23:00:00.000Z",
       "start_actual": "2026-06-11T22:55:15.000Z",
-      "live_viewers": 8495,
+      "live_viewers": 8602,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-12T02:58:19.000Z",
       "start_scheduled": "2026-06-12T03:00:00.000Z",
       "start_actual": "2026-06-12T02:58:19.000Z",
-      "live_viewers": 3398,
+      "live_viewers": 3144,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "v_mekPark",
         "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCozx5csNhCx1wsVq3SZVkBQ": {
-      "video_id": "L3HMl_bDkWY",
-      "title": "ルイ姉の勢いが止まらない件について。【#昼ホロ / #花園さやか】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "News_Show",
-      "published_at": "2026-06-12T01:58:49.000Z",
-      "available_at": "2026-06-12T03:00:11.000Z",
-      "start_scheduled": "2026-06-12T03:00:00.000Z",
-      "start_actual": "2026-06-12T03:00:11.000Z",
-      "live_viewers": 3785,
-      "channel": {
-        "id": "UCozx5csNhCx1wsVq3SZVkBQ",
-        "name": "holoAN room (ホロアナ)",
-        "english_name": "holoAN room",
-        "org": "Hololive",
-        "suborg": "0hOfficial",
-        "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC060r4zABV18vcahAWR1n7w": {
@@ -71,7 +51,7 @@
       "available_at": "2026-06-12T03:36:09.000Z",
       "start_scheduled": "2026-06-12T03:30:00.000Z",
       "start_actual": "2026-06-12T03:36:09.000Z",
-      "live_viewers": 444,
+      "live_viewers": 452,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -91,7 +71,7 @@
       "available_at": "2026-06-12T03:40:47.000Z",
       "start_scheduled": "2026-06-12T03:40:00.000Z",
       "start_actual": "2026-06-12T03:40:47.000Z",
-      "live_viewers": 362,
+      "live_viewers": 394,
       "channel": {
         "id": "UCHP4f7G2dWD4qib7BMatGAw",
         "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -111,7 +91,7 @@
       "available_at": "2026-06-12T04:01:01.000Z",
       "start_scheduled": "2026-06-12T04:00:00.000Z",
       "start_actual": "2026-06-12T04:01:01.000Z",
-      "live_viewers": 687,
+      "live_viewers": 1705,
       "channel": {
         "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
         "name": "Matsuri Channel 夏色まつり",
