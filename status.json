@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781276479,
+  "cached_at": 1781276539,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "rCu9hiGYLwE",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-12T11:01:07.000Z",
       "start_scheduled": "2026-06-12T11:00:00.000Z",
       "start_actual": "2026-06-12T11:01:07.000Z",
-      "live_viewers": 1370,
+      "live_viewers": 1401,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-12T11:47:03.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T11:47:03.000Z",
-      "live_viewers": 7803,
+      "live_viewers": 7638,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-12T12:00:17.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:00:17.000Z",
-      "live_viewers": 2733,
+      "live_viewers": 2608,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCp6993wxpyDPHUpavwDFqgg": {
-      "video_id": "YMYC-mVkrWM",
-      "title": "【 コールありオリ曲 】ライブチケット始まったし、歌っていこう!【ホロライブ/ときのそら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-06-12T10:02:28.000Z",
-      "available_at": "2026-06-12T12:18:35.000Z",
-      "start_scheduled": "2026-06-12T12:00:00.000Z",
-      "start_actual": "2026-06-12T12:18:35.000Z",
-      "live_viewers": 2462,
-      "channel": {
-        "id": "UCp6993wxpyDPHUpavwDFqgg",
-        "name": "SoraCh. ときのそらチャンネル",
-        "english_name": "Tokino Sora",
-        "org": "Hololive",
-        "suborg": "0v0th Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC0TXe_LYZ4scaW2XMyi5_kw": {
@@ -151,7 +131,7 @@
       "available_at": "2026-06-12T13:02:06.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:02:06.000Z",
-      "live_viewers": 830,
+      "live_viewers": 887,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -211,7 +191,7 @@
       "available_at": "2026-06-12T13:03:59.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:03:59.000Z",
-      "live_viewers": 4958,
+      "live_viewers": 5030,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -231,7 +211,7 @@
       "available_at": "2026-06-12T13:05:37.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:05:37.000Z",
-      "live_viewers": 11615,
+      "live_viewers": 11540,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -271,7 +251,7 @@
       "available_at": "2026-06-12T13:11:01.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:11:01.000Z",
-      "live_viewers": 648,
+      "live_viewers": 640,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -331,7 +311,7 @@
       "available_at": "2026-06-12T13:59:50.000Z",
       "start_scheduled": "2026-06-12T14:00:00.000Z",
       "start_actual": "2026-06-12T13:59:50.000Z",
-      "live_viewers": 1206,
+      "live_viewers": 896,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -361,26 +341,6 @@
         "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
-      "video_id": "WqCYGhRrJcE",
-      "title": "【007 First Light】 Peafowl Princess Turned Secret Agent【Pavolia Reine/hololiveID】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "007_First_Light",
-      "published_at": "2026-06-12T12:03:10.000Z",
-      "available_at": "2026-06-12T14:01:44.000Z",
-      "start_scheduled": "2026-06-12T14:00:00.000Z",
-      "start_actual": "2026-06-12T14:01:44.000Z",
-      "live_viewers": 619,
-      "channel": {
-        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "name": "Pavolia Reine Ch. hololive-ID",
-        "english_name": "Pavolia Reine",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCDqI2jOz0weumE8s7paEk6g": {
       "video_id": "zpYCySU8jR0",
       "title": "【 歌枠】NO26.かわいい曲を歌ってみようかな~🎤ろぼめろでぃ~ RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
@@ -391,7 +351,7 @@
       "available_at": "2026-06-12T14:29:55.000Z",
       "start_scheduled": "2026-06-12T14:30:00.000Z",
       "start_actual": "2026-06-12T14:29:55.000Z",
-      "live_viewers": 1659,
+      "live_viewers": 1710,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -411,7 +371,7 @@
       "available_at": "2026-06-12T14:31:13.000Z",
       "start_scheduled": "2026-06-12T14:30:00.000Z",
       "start_actual": "2026-06-12T14:31:13.000Z",
-      "live_viewers": 467,
+      "live_viewers": 457,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -419,6 +379,25 @@
         "org": "Hololive",
         "suborg": "kaIndonesia 1st Gen (AREA 15)",
         "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
+      "video_id": "5ASGKWTOYdg",
+      "title": "【007 First Light】REAL PEAFOWL SPY TECHNIQUES【Pavolia Reine/holoID gen 2】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "007_First_Light",
+      "published_at": "2026-06-12T14:35:28.000Z",
+      "available_at": "2026-06-12T15:00:00.000Z",
+      "start_scheduled": "2026-06-12T15:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "name": "Pavolia Reine Ch. hololive-ID",
+        "english_name": "Pavolia Reine",
+        "org": "Hololive",
+        "suborg": "kcIndonesia 2nd Gen (holoro)",
+        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
