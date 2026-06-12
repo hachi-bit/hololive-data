@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781281399,
+  "cached_at": 1781281459,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "rCu9hiGYLwE",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-12T10:01:03.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:01:03.000Z",
-      "live_viewers": 11011,
+      "live_viewers": 10711,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-12T13:01:13.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:01:13.000Z",
-      "live_viewers": 14567,
+      "live_viewers": 14717,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -141,26 +141,6 @@
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
-      "video_id": "zCb5c9_Pd0Q",
-      "title": "【Forza Horizon 6】みんなで深夜ドライブ🌃【水宮枢／ホロライブDEV_IS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Forza",
-      "published_at": "2026-06-11T17:35:36.000Z",
-      "available_at": "2026-06-12T13:30:23.000Z",
-      "start_scheduled": "2026-06-12T13:30:00.000Z",
-      "start_actual": "2026-06-12T13:30:23.000Z",
-      "live_viewers": 3067,
-      "channel": {
-        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-        "name": "Su Ch. 水宮枢 - FLOW GLOW",
-        "english_name": "Mizumiya Su",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
       "video_id": "N6MoW02xhng",
       "title": "【Pratfall】one must imagine second holoh3ro collab in a year",
@@ -211,7 +191,7 @@
       "available_at": "2026-06-12T13:59:55.000Z",
       "start_scheduled": "2026-06-12T14:00:00.000Z",
       "start_actual": "2026-06-12T13:59:55.000Z",
-      "live_viewers": 1091,
+      "live_viewers": 1039,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
