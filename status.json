@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781259799,
+  "cached_at": 1781259859,
   "lives": {
     "UCgRqGV1gBf2Esxh0Tz1vxzw": {
       "video_id": "2aLte_y1Z-g",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-12T09:59:26.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T09:59:26.000Z",
-      "live_viewers": 4706,
+      "live_viewers": 5080,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -58,25 +58,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCANDOlYTJT7N5jlRC3zfzVA": {
-      "video_id": "NAJdl94kUpM",
-      "title": "【桃鉄2】本日は西日本編!今回も桃鉄を楽しむぞ!! w/エニ、ズズくん、おなつ【夕刻ロベル/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "momotaro_dentetsu",
-      "published_at": "2026-06-12T02:46:43.000Z",
-      "available_at": "2026-06-12T10:00:00.000Z",
-      "start_scheduled": "2026-06-12T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
-        "name": "Roberu Ch. 夕刻ロベル",
-        "english_name": "Yukoku Roberu",
-        "org": "Hololive",
-        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCWQtYtq9EOB4-I5P-3fh8lA": {
@@ -89,7 +70,7 @@
       "available_at": "2026-06-12T10:01:01.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:01:01.000Z",
-      "live_viewers": 3263,
+      "live_viewers": 3567,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -109,7 +90,7 @@
       "available_at": "2026-06-12T10:01:03.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:01:03.000Z",
-      "live_viewers": 7996,
+      "live_viewers": 8507,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -129,7 +110,7 @@
       "available_at": "2026-06-12T10:04:21.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:04:21.000Z",
-      "live_viewers": 4241,
+      "live_viewers": 4693,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -149,7 +130,7 @@
       "available_at": "2026-06-12T10:06:08.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:06:08.000Z",
-      "live_viewers": 542,
+      "live_viewers": 627,
       "channel": {
         "id": "UCdVYY2166hyjUAMHwp2almg",
         "name": "光葉エニ",
@@ -157,6 +138,26 @@
         "org": "Neo-Porte",
         "suborg": "0o7th Generation",
         "photo": "https://yt3.ggpht.com/TmrsPTyZ-wElvGBR49sHd_tSt0q96WdBfiifsFDHfF-sMiLE8hWQ_-Qyz3z9CzGVJwV9RT0l-EM=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCANDOlYTJT7N5jlRC3zfzVA": {
+      "video_id": "NAJdl94kUpM",
+      "title": "【桃鉄2】本日は西日本編!今回も桃鉄を楽しむぞ!! w/エニ、ズズくん、おなつ【夕刻ロベル/ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "momotaro_dentetsu",
+      "published_at": "2026-06-12T02:46:43.000Z",
+      "available_at": "2026-06-12T10:18:47.000Z",
+      "start_scheduled": "2026-06-12T10:00:00.000Z",
+      "start_actual": "2026-06-12T10:18:47.000Z",
+      "live_viewers": 1512,
+      "channel": {
+        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+        "name": "Roberu Ch. 夕刻ロベル",
+        "english_name": "Yukoku Roberu",
+        "org": "Hololive",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCasKmptouCrwWLl8SlQU2tQ": {
@@ -169,7 +170,7 @@
       "available_at": "2026-06-12T10:18:48.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:18:48.000Z",
-      "live_viewers": 218,
+      "live_viewers": 357,
       "channel": {
         "id": "UCasKmptouCrwWLl8SlQU2tQ",
         "name": "おなつのにびたし / Onatsu no Nibitashi",
