@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781259379,
+  "cached_at": 1781259439,
   "lives": {
     "UCOyYb1c43VlX9rc_lT6NKQw": {
       "video_id": "E-DJEnHOm20",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-12T05:14:09.000Z",
       "start_scheduled": "2026-06-12T05:15:00.000Z",
       "start_actual": "2026-06-12T05:14:09.000Z",
-      "live_viewers": 1573,
+      "live_viewers": 1406,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-12T09:06:25.000Z",
       "start_scheduled": "2026-06-12T09:00:00.000Z",
       "start_actual": "2026-06-12T09:06:25.000Z",
-      "live_viewers": 23878,
+      "live_viewers": 25892,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-12T09:59:26.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T09:59:26.000Z",
-      "live_viewers": 4041,
+      "live_viewers": 4440,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -78,25 +78,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCasKmptouCrwWLl8SlQU2tQ": {
-      "video_id": "mfeLv91oy28",
-      "title": "【桃鉄2】やかましそうなメンバーで桃鉄西リベンジ編🍑🚃 w/夕刻ロベル、ズズ、光葉エニ【おなつのにびたし/個人勢Vtuber/#おなつのなま】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "momotaro_dentetsu",
-      "published_at": "2026-06-06T05:57:08.000Z",
-      "available_at": "2026-06-12T10:00:00.000Z",
-      "start_scheduled": "2026-06-12T10:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCasKmptouCrwWLl8SlQU2tQ",
-        "name": "おなつのにびたし / Onatsu no Nibitashi",
-        "english_name": "Onatsu No Nibitashi",
-        "org": "Twitch Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/xWy_Afq5-hYE0riz6wByr6HGlxSMBSabKju2lwHmXld7lttEsMW4D5BLvoykoWQ-_drmCi5UO7E=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCANDOlYTJT7N5jlRC3zfzVA": {
@@ -118,24 +99,23 @@
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC7-N7MvN5muVIHqyQx9LFbA": {
-      "video_id": "maph1wsDv_E",
-      "title": "【#漢義リーグ 第二節ハイライト】あの頃の俺とは訳が違うぜ",
+    "UCasKmptouCrwWLl8SlQU2tQ": {
+      "video_id": "mfeLv91oy28",
+      "title": "【桃鉄2】やかましそうなメンバーで桃鉄西リベンジ編🍑🚃 w/夕刻ロベル、ズズ、光葉エニ【おなつのにびたし/個人勢Vtuber/#おなつのなま】",
       "type": "stream",
       "status": "live",
-      "topic_id": "Mahjong",
-      "published_at": "2026-06-12T10:00:06.000Z",
-      "available_at": "2026-06-12T10:00:06.000Z",
+      "topic_id": "momotaro_dentetsu",
+      "published_at": "2026-06-06T05:57:08.000Z",
+      "available_at": "2026-06-12T10:00:00.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
-      "start_actual": "2026-06-12T10:00:06.000Z",
       "live_viewers": 0,
       "channel": {
-        "id": "UC7-N7MvN5muVIHqyQx9LFbA",
-        "name": "メイカちゃんねる",
-        "english_name": "Utai Meika",
-        "org": "Independents",
+        "id": "UCasKmptouCrwWLl8SlQU2tQ",
+        "name": "おなつのにびたし / Onatsu no Nibitashi",
+        "english_name": "Onatsu No Nibitashi",
+        "org": "Twitch Independents",
         "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mq4PLSnpYy83ZUfXHKZVIVXsU8VnFE5xpzLcVXrmImnAg=s800-c-k-c0x00ffffff-no-rj"
+        "photo": "https://yt3.ggpht.com/xWy_Afq5-hYE0riz6wByr6HGlxSMBSabKju2lwHmXld7lttEsMW4D5BLvoykoWQ-_drmCi5UO7E=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCWQtYtq9EOB4-I5P-3fh8lA": {
@@ -148,7 +128,7 @@
       "available_at": "2026-06-12T10:01:01.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:01:01.000Z",
-      "live_viewers": 2728,
+      "live_viewers": 2837,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -168,7 +148,7 @@
       "available_at": "2026-06-12T10:01:03.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:01:03.000Z",
-      "live_viewers": 6515,
+      "live_viewers": 6687,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -188,7 +168,7 @@
       "available_at": "2026-06-12T10:04:21.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:04:21.000Z",
-      "live_viewers": 3035,
+      "live_viewers": 3557,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -208,7 +188,7 @@
       "available_at": "2026-06-12T10:06:08.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:06:08.000Z",
-      "live_viewers": 389,
+      "live_viewers": 432,
       "channel": {
         "id": "UCdVYY2166hyjUAMHwp2almg",
         "name": "光葉エニ",
