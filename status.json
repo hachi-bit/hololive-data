@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781294839,
+  "cached_at": 1781294899,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "3NE9KUMKZH0",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-12T11:47:03.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T11:47:03.000Z",
-      "live_viewers": 4954,
+      "live_viewers": 5048,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-12T13:03:27.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:03:27.000Z",
-      "live_viewers": 6398,
+      "live_viewers": 6378,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -39,26 +39,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChgTyjG-pdNvxxhdsXfHQ5Q": {
-      "video_id": "5ASGKWTOYdg",
-      "title": "【007 First Light】REAL PEAFOWL SPY TECHNIQUES【Pavolia Reine/holoID gen 2】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "007_First_Light",
-      "published_at": "2026-06-12T14:35:28.000Z",
-      "available_at": "2026-06-12T15:00:49.000Z",
-      "start_scheduled": "2026-06-12T15:00:00.000Z",
-      "start_actual": "2026-06-12T15:00:49.000Z",
-      "live_viewers": 1663,
-      "channel": {
-        "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "name": "Pavolia Reine Ch. hololive-ID",
-        "english_name": "Pavolia Reine",
-        "org": "Hololive",
-        "suborg": "kcIndonesia 2nd Gen (holoro)",
-        "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCHsx4Hqa-1ORjQTh9TYDhww": {
