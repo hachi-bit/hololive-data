@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781272279,
+  "cached_at": 1781272339,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "rCu9hiGYLwE",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-12T10:04:21.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:04:21.000Z",
-      "live_viewers": 3340,
+      "live_viewers": 3335,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-12T12:00:17.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:00:17.000Z",
-      "live_viewers": 2552,
+      "live_viewers": 2489,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "lx46lmIIPa4",
-      "title": "【めっちゃカメレオン】身体に絵を描いて背景に溶け込め!かくれんぼ対決!ぺこ!【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "MECCHA_CHAMELEON",
-      "published_at": "2026-06-12T05:36:42.000Z",
-      "available_at": "2026-06-12T12:00:54.000Z",
-      "start_scheduled": "2026-06-12T12:00:00.000Z",
-      "start_actual": "2026-06-12T12:00:54.000Z",
-      "live_viewers": 24800,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCCzUftO8KOVkV4wQG1vkUvg": {
@@ -151,7 +131,7 @@
       "available_at": "2026-06-12T12:01:00.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:01:00.000Z",
-      "live_viewers": 18142,
+      "live_viewers": 10805,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -163,7 +143,7 @@
     },
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "Ev7udBZyoZQ",
-      "title": "【めっちゃカメレオン】みんなで色塗りかくれんぼ!もういいか~い??【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "title": "【めっちゃカメレオン】みんなで色塗りかくれんぼ！もういいか～い？？【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
       "type": "stream",
       "status": "live",
       "topic_id": "MECCHA_CHAMELEON",
@@ -171,7 +151,7 @@
       "available_at": "2026-06-12T12:01:13.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:01:13.000Z",
-      "live_viewers": 6621,
+      "live_viewers": 5960,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -183,7 +163,7 @@
     },
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
       "video_id": "lvPkBljxlxo",
-      "title": "【めっちゃカメレオン】自分を塗って景色に溶け込め!!!画力バトル!!!MECCHA CHAMELEON 【ホロライブ/白上フブキ】",
+      "title": "【めっちゃカメレオン】自分を塗って景色に溶け込め！！！画力バトル！！！MECCHA CHAMELEON　【ホロライブ/白上フブキ】",
       "type": "stream",
       "status": "live",
       "topic_id": "MECCHA_CHAMELEON",
@@ -199,26 +179,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCAWSyEs_Io8MtpY3m-zqILA": {
-      "video_id": "EgweCO4dIx4",
-      "title": "【 めっちゃカメレオン 】ぺこマリフブヴィヴィねねでかくれんぼ対決だぁあああ!【 桃鈴ねね / hololive 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "MECCHA_CHAMELEON",
-      "published_at": "2026-06-12T09:09:46.000Z",
-      "available_at": "2026-06-12T12:01:41.000Z",
-      "start_scheduled": "2026-06-12T12:00:00.000Z",
-      "start_actual": "2026-06-12T12:01:41.000Z",
-      "live_viewers": 8152,
-      "channel": {
-        "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-        "name": "Nene Ch.桃鈴ねね",
-        "english_name": "Momosuzu Nene",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCp6993wxpyDPHUpavwDFqgg": {
@@ -351,7 +311,7 @@
       "available_at": "2026-06-12T13:03:27.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:03:27.000Z",
-      "live_viewers": 4348,
+      "live_viewers": 4351,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -391,7 +351,7 @@
       "available_at": "2026-06-12T13:05:37.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:05:37.000Z",
-      "live_viewers": 7538,
+      "live_viewers": 7695,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -431,7 +391,7 @@
       "available_at": "2026-06-12T13:11:01.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:11:01.000Z",
-      "live_viewers": 554,
+      "live_viewers": 572,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -470,7 +430,7 @@
       "available_at": "2026-06-12T13:30:23.000Z",
       "start_scheduled": "2026-06-12T13:30:00.000Z",
       "start_actual": "2026-06-12T13:30:23.000Z",
-      "live_viewers": 2570,
+      "live_viewers": 2946,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
