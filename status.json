@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781278219,
+  "cached_at": 1781278279,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "rCu9hiGYLwE",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-12T10:01:03.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:01:03.000Z",
-      "live_viewers": 11936,
+      "live_viewers": 11813,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -41,26 +41,6 @@
         "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
-      "video_id": "2aLte_y1Z-g",
-      "title": "ほのぼの系 魚釣りゲームやるぞ!!【 UMIGARI / ウミガリ / ホロスターズ 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "UMIGARI",
-      "published_at": "2026-06-11T20:29:46.000Z",
-      "available_at": "2026-06-12T11:01:26.000Z",
-      "start_scheduled": "2026-06-12T09:00:00.000Z",
-      "start_actual": "2026-06-12T11:01:26.000Z",
-      "live_viewers": 377,
-      "channel": {
-        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
-        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
-        "english_name": "Utsugi Uyu",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "3NE9KUMKZH0",
       "title": "Pls recommend songs to sing | UNARCHIVED KARAOKE REBROADCAST",
@@ -71,7 +51,7 @@
       "available_at": "2026-06-12T11:47:03.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T11:47:03.000Z",
-      "live_viewers": 6971,
+      "live_viewers": 6757,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -91,7 +71,7 @@
       "available_at": "2026-06-12T12:00:17.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:00:17.000Z",
-      "live_viewers": 2746,
+      "live_viewers": 2730,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -111,7 +91,7 @@
       "available_at": "2026-06-12T13:01:13.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:01:13.000Z",
-      "live_viewers": 14930,
+      "live_viewers": 14717,
       "channel": {
         "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
         "name": "AZKi Channel",
@@ -131,7 +111,7 @@
       "available_at": "2026-06-12T13:02:06.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:02:06.000Z",
-      "live_viewers": 1011,
+      "live_viewers": 1044,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -171,7 +151,7 @@
       "available_at": "2026-06-12T13:03:59.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:03:59.000Z",
-      "live_viewers": 5190,
+      "live_viewers": 5137,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -191,7 +171,7 @@
       "available_at": "2026-06-12T13:05:37.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:05:37.000Z",
-      "live_viewers": 8609,
+      "live_viewers": 8232,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -211,7 +191,7 @@
       "available_at": "2026-06-12T13:06:31.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:06:31.000Z",
-      "live_viewers": 4377,
+      "live_viewers": 4212,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -331,7 +311,7 @@
       "available_at": "2026-06-12T14:29:55.000Z",
       "start_scheduled": "2026-06-12T14:30:00.000Z",
       "start_actual": "2026-06-12T14:29:55.000Z",
-      "live_viewers": 2233,
+      "live_viewers": 2246,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -371,7 +351,7 @@
       "available_at": "2026-06-12T15:00:49.000Z",
       "start_scheduled": "2026-06-12T15:00:00.000Z",
       "start_actual": "2026-06-12T15:00:49.000Z",
-      "live_viewers": 735,
+      "live_viewers": 733,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
