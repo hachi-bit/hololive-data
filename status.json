@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781278699,
+  "cached_at": 1781278759,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "rCu9hiGYLwE",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-12T11:47:03.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T11:47:03.000Z",
-      "live_viewers": 6757,
+      "live_viewers": 6519,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -99,26 +99,6 @@
         "org": "Hololive",
         "suborg": "0z0th Generation",
         "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UChSvpZYRPh0FvG4SJGSga3g": {
-      "video_id": "vEu37WvFtPQ",
-      "title": "【雑談】ワイ、再び名古屋へ【影山シエン/ホロスターズ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-12T06:50:14.000Z",
-      "available_at": "2026-06-12T13:02:06.000Z",
-      "start_scheduled": "2026-06-12T13:00:00.000Z",
-      "start_actual": "2026-06-12T13:02:06.000Z",
-      "live_viewers": 1044,
-      "channel": {
-        "id": "UChSvpZYRPh0FvG4SJGSga3g",
-        "name": "Shien Ch.影山シエン",
-        "english_name": "Kageyama Shien",
-        "org": "Hololive",
-        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-        "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
@@ -171,7 +151,7 @@
       "available_at": "2026-06-12T13:05:37.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:05:37.000Z",
-      "live_viewers": 8232,
+      "live_viewers": 7523,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -191,7 +171,7 @@
       "available_at": "2026-06-12T13:06:31.000Z",
       "start_scheduled": "2026-06-12T13:00:00.000Z",
       "start_actual": "2026-06-12T13:06:31.000Z",
-      "live_viewers": 4212,
+      "live_viewers": 4193,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -251,7 +231,7 @@
       "available_at": "2026-06-12T13:59:21.000Z",
       "start_scheduled": "2026-06-12T14:00:00.000Z",
       "start_actual": "2026-06-12T13:59:21.000Z",
-      "live_viewers": 2506,
+      "live_viewers": 2514,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -291,7 +271,7 @@
       "available_at": "2026-06-12T13:59:55.000Z",
       "start_scheduled": "2026-06-12T14:00:00.000Z",
       "start_actual": "2026-06-12T13:59:55.000Z",
-      "live_viewers": 1019,
+      "live_viewers": 1058,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -311,7 +291,7 @@
       "available_at": "2026-06-12T14:29:55.000Z",
       "start_scheduled": "2026-06-12T14:30:00.000Z",
       "start_actual": "2026-06-12T14:29:55.000Z",
-      "live_viewers": 2257,
+      "live_viewers": 2297,
       "channel": {
         "id": "UCDqI2jOz0weumE8s7paEk6g",
         "name": "Roboco Ch. - ロボ子",
@@ -331,7 +311,7 @@
       "available_at": "2026-06-12T14:31:13.000Z",
       "start_scheduled": "2026-06-12T14:30:00.000Z",
       "start_actual": "2026-06-12T14:31:13.000Z",
-      "live_viewers": 587,
+      "live_viewers": 604,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -351,7 +331,7 @@
       "available_at": "2026-06-12T15:00:49.000Z",
       "start_scheduled": "2026-06-12T15:00:00.000Z",
       "start_actual": "2026-06-12T15:00:49.000Z",
-      "live_viewers": 753,
+      "live_viewers": 799,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
