@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781266039,
+  "cached_at": 1781266099,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "32P14JIP2Zg",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-12T09:59:26.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T09:59:26.000Z",
-      "live_viewers": 3895,
+      "live_viewers": 3534,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-12T10:04:21.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:04:21.000Z",
-      "live_viewers": 6363,
+      "live_viewers": 6087,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-12T10:06:08.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:06:08.000Z",
-      "live_viewers": 897,
+      "live_viewers": 872,
       "channel": {
         "id": "UCdVYY2166hyjUAMHwp2almg",
         "name": "光葉エニ",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-12T10:18:48.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:18:48.000Z",
-      "live_viewers": 840,
+      "live_viewers": 769,
       "channel": {
         "id": "UCasKmptouCrwWLl8SlQU2tQ",
         "name": "おなつのにびたし / Onatsu no Nibitashi",
@@ -119,46 +119,6 @@
         "org": "Twitch Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/xWy_Afq5-hYE0riz6wByr6HGlxSMBSabKju2lwHmXld7lttEsMW4D5BLvoykoWQ-_drmCi5UO7E=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCFKOVgVbGmX65RxO3EtH3iw": {
-      "video_id": "oxknQ9lnsm0",
-      "title": "【超自然スクワッド】4人でゲームプレイするよっ!!【雪花ラミィ視点 /ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-06-11T04:42:34.000Z",
-      "available_at": "2026-06-12T11:00:23.000Z",
-      "start_scheduled": "2026-06-12T11:00:00.000Z",
-      "start_actual": "2026-06-12T11:00:23.000Z",
-      "live_viewers": 7812,
-      "channel": {
-        "id": "UCFKOVgVbGmX65RxO3EtH3iw",
-        "name": "Lamy Ch. 雪花ラミィ",
-        "english_name": "Yukihana Lamy",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdyqAaZDKHXg4Ahi7VENThQ": {
-      "video_id": "z2F-l94L4PA",
-      "title": "【超自然スクワッド】4人で楽しく協力プレイ太郎~🎵【白銀ノエル/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-06-11T09:36:33.000Z",
-      "available_at": "2026-06-12T11:00:26.000Z",
-      "start_scheduled": "2026-06-12T11:00:00.000Z",
-      "start_actual": "2026-06-12T11:00:26.000Z",
-      "live_viewers": 3761,
-      "channel": {
-        "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-        "name": "Noel Ch. 白銀ノエル",
-        "english_name": "Shirogane Noel",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCtyWhCj3AqKh2dXctLkDtng": {
@@ -181,26 +141,6 @@
         "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCUKD-uaobj9jiqB-VXt71mA": {
-      "video_id": "4Q-4KrnI6ng",
-      "title": "【超自然スクワッド】この4人でコミカルホラゲー?!【獅白ぼたん/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-06-10T10:59:25.000Z",
-      "available_at": "2026-06-12T11:01:23.000Z",
-      "start_scheduled": "2026-06-12T11:00:00.000Z",
-      "start_actual": "2026-06-12T11:01:23.000Z",
-      "live_viewers": 4672,
-      "channel": {
-        "id": "UCUKD-uaobj9jiqB-VXt71mA",
-        "name": "Botan Ch.獅白ぼたん",
-        "english_name": "Shishiro Botan",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCgRqGV1gBf2Esxh0Tz1vxzw": {
       "video_id": "2aLte_y1Z-g",
       "title": "ほのぼの系 魚釣りゲームやるぞ!!【 UMIGARI / ウミガリ / ホロスターズ 】",
@@ -211,7 +151,7 @@
       "available_at": "2026-06-12T11:01:26.000Z",
       "start_scheduled": "2026-06-12T09:00:00.000Z",
       "start_actual": "2026-06-12T11:01:26.000Z",
-      "live_viewers": 411,
+      "live_viewers": 412,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -231,7 +171,7 @@
       "available_at": "2026-06-12T11:01:34.000Z",
       "start_scheduled": "2026-06-12T11:00:00.000Z",
       "start_actual": "2026-06-12T11:01:34.000Z",
-      "live_viewers": 7721,
+      "live_viewers": 4560,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -251,7 +191,7 @@
       "available_at": "2026-06-12T11:47:03.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T11:47:03.000Z",
-      "live_viewers": 5083,
+      "live_viewers": 5460,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -280,26 +220,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdfMHxjcCc2HSd9qFvfJgjg": {
-      "video_id": "rvSipqZMKgY",
-      "title": "GEDO / daraku covered by 水無世燐央(Minase Rio)",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Music_Cover",
-      "published_at": "2026-06-12T12:00:06.000Z",
-      "available_at": "2026-06-12T12:00:06.000Z",
-      "start_scheduled": "2026-06-12T12:00:00.000Z",
-      "start_actual": "2026-06-12T12:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-        "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-        "english_name": "Minase Rio",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC9LSiN9hXI55svYEBrrK-tw": {
       "video_id": "CUbV3M4Oilg",
       "title": "【 NARUTO ナルティメットストーム】ついにやっていくぞおお!【ホロライブ DEV_IS 響咲リオナ】※ネタバレあり",
@@ -310,7 +230,7 @@
       "available_at": "2026-06-12T12:00:17.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:00:17.000Z",
-      "live_viewers": 1501,
+      "live_viewers": 1886,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -330,7 +250,7 @@
       "available_at": "2026-06-12T12:00:54.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:00:54.000Z",
-      "live_viewers": 14665,
+      "live_viewers": 20204,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -350,7 +270,7 @@
       "available_at": "2026-06-12T12:01:00.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:01:00.000Z",
-      "live_viewers": 10001,
+      "live_viewers": 13492,
       "channel": {
         "id": "UCCzUftO8KOVkV4wQG1vkUvg",
         "name": "Marine Ch. 宝鐘マリン",
@@ -370,7 +290,7 @@
       "available_at": "2026-06-12T12:01:13.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:01:13.000Z",
-      "live_viewers": 3140,
+      "live_viewers": 4222,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -390,7 +310,7 @@
       "available_at": "2026-06-12T12:01:39.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:01:39.000Z",
-      "live_viewers": 5157,
+      "live_viewers": 8195,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -410,7 +330,7 @@
       "available_at": "2026-06-12T12:01:41.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T12:01:41.000Z",
-      "live_viewers": 2599,
+      "live_viewers": 4377,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
