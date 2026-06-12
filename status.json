@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781282779,
+  "cached_at": 1781282839,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "3NE9KUMKZH0",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-12T11:47:03.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T11:47:03.000Z",
-      "live_viewers": 5709,
+      "live_viewers": 5663,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -61,26 +61,6 @@
         "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCvInZx9h3jC2JzsIzoOebWg": {
-      "video_id": "n6IpB3YOFq0",
-      "title": "#04 【バイオハザード レクイエム】出口だと思った?ざぁんねん!中庭だよん✌【不知火フレア/ホロライブ】ネタバレ注意",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "residentevil",
-      "published_at": "2026-06-12T12:11:01.000Z",
-      "available_at": "2026-06-12T13:03:59.000Z",
-      "start_scheduled": "2026-06-12T13:00:00.000Z",
-      "start_actual": "2026-06-12T13:03:59.000Z",
-      "live_viewers": 5228,
-      "channel": {
-        "id": "UCvInZx9h3jC2JzsIzoOebWg",
-        "name": "Flare Ch. 不知火フレア",
-        "english_name": "Shiranui Flare",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCZLZ8Jjx_RN2CXloOmgTHVg": {
       "video_id": "N6MoW02xhng",
       "title": "【Pratfall】one must imagine second holoh3ro collab in a year",
@@ -111,7 +91,7 @@
       "available_at": "2026-06-12T13:59:50.000Z",
       "start_scheduled": "2026-06-12T14:00:00.000Z",
       "start_actual": "2026-06-12T13:59:50.000Z",
-      "live_viewers": 1003,
+      "live_viewers": 983,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -151,7 +131,7 @@
       "available_at": "2026-06-12T14:31:13.000Z",
       "start_scheduled": "2026-06-12T14:30:00.000Z",
       "start_actual": "2026-06-12T14:31:13.000Z",
-      "live_viewers": 719,
+      "live_viewers": 747,
       "channel": {
         "id": "UCP0BspO_AMEe3aQqqpo89Dg",
         "name": "Moona Hoshinova hololive-ID",
@@ -171,7 +151,7 @@
       "available_at": "2026-06-12T15:00:49.000Z",
       "start_scheduled": "2026-06-12T15:00:00.000Z",
       "start_actual": "2026-06-12T15:00:49.000Z",
-      "live_viewers": 922,
+      "live_viewers": 942,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
