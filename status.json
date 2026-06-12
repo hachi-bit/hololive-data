@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781223319,
+  "cached_at": 1781223379,
   "lives": {
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
       "video_id": "-ibR-CN671o",
@@ -79,6 +79,26 @@
         "org": "Hololive",
         "suborg": "ihEnglish -Advent-",
         "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7gxU6NXjKF1LrgOddPzgTw": {
+      "video_id": "y05cmf6AAK0",
+      "title": "【ASMR】This bath feels way too empty without you... Mind joining me ₊⊹♡【BATH STREAM】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "asmr",
+      "published_at": "2026-06-11T13:41:38.000Z",
+      "available_at": "2026-06-12T00:11:58.000Z",
+      "start_scheduled": "2026-06-12T00:15:00.000Z",
+      "start_actual": "2026-06-12T00:11:58.000Z",
+      "live_viewers": 158,
+      "channel": {
+        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+        "english_name": "Banzoin Hakka",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
