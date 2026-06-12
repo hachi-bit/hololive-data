@@ -1,26 +1,6 @@
 {
-  "cached_at": 1781234539,
+  "cached_at": 1781234599,
   "lives": {
-    "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "c3trvqs-4xo",
-      "title": "stream ends when i sleep or something【MEMBERSHIP】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-11T20:29:56.000Z",
-      "available_at": "2026-06-11T20:34:19.000Z",
-      "start_scheduled": "2026-06-11T20:30:00.000Z",
-      "start_actual": "2026-06-11T20:34:19.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC060r4zABV18vcahAWR1n7w",
-        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-        "english_name": "Machina X Flayon",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC9p_lqQ0FEDz327Vgf5JwqA": {
       "video_id": "yhD2s_NCG54",
       "title": "【Forza Horizon 6】I'LL GO A HUNDRED MILESSSSS- AN HOUR.",
@@ -31,7 +11,7 @@
       "available_at": "2026-06-11T22:55:15.000Z",
       "start_scheduled": "2026-06-11T23:00:00.000Z",
       "start_actual": "2026-06-11T22:55:15.000Z",
-      "live_viewers": 8793,
+      "live_viewers": 8748,
       "channel": {
         "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
         "name": "Koseki Bijou Ch. hololive-EN",
@@ -51,7 +31,7 @@
       "available_at": "2026-06-12T02:58:19.000Z",
       "start_scheduled": "2026-06-12T03:00:00.000Z",
       "start_actual": "2026-06-12T02:58:19.000Z",
-      "live_viewers": 2829,
+      "live_viewers": 3005,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -71,7 +51,7 @@
       "available_at": "2026-06-12T03:00:11.000Z",
       "start_scheduled": "2026-06-12T03:00:00.000Z",
       "start_actual": "2026-06-12T03:00:11.000Z",
-      "live_viewers": 3375,
+      "live_viewers": 3432,
       "channel": {
         "id": "UCozx5csNhCx1wsVq3SZVkBQ",
         "name": "holoAN room (ホロアナ)",
