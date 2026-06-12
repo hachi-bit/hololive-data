@@ -1,26 +1,6 @@
 {
-  "cached_at": 1781255719,
+  "cached_at": 1781255779,
   "lives": {
-    "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "-_n1qlEnoL8",
-      "title": "I Need To Get To The Pig Church【BLOODBORNE】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Bloodborne",
-      "published_at": "2026-05-27T03:04:55.000Z",
-      "available_at": "2026-06-12T03:36:09.000Z",
-      "start_scheduled": "2026-06-12T03:30:00.000Z",
-      "start_actual": "2026-06-12T03:36:09.000Z",
-      "live_viewers": 495,
-      "channel": {
-        "id": "UC060r4zABV18vcahAWR1n7w",
-        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-        "english_name": "Machina X Flayon",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCOyYb1c43VlX9rc_lT6NKQw": {
       "video_id": "E-DJEnHOm20",
       "title": "#2 CRIMSON DESERT - MAIN QUEST TIME",
@@ -51,7 +31,7 @@
       "available_at": "2026-06-12T07:21:08.000Z",
       "start_scheduled": "2026-06-12T07:15:44.000Z",
       "start_actual": "2026-06-12T07:21:08.000Z",
-      "live_viewers": 3737,
+      "live_viewers": 3506,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -71,7 +51,7 @@
       "available_at": "2026-06-12T08:59:38.000Z",
       "start_scheduled": "2026-06-12T09:00:00.000Z",
       "start_actual": "2026-06-12T08:59:38.000Z",
-      "live_viewers": 2843,
+      "live_viewers": 3086,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -110,7 +90,7 @@
       "available_at": "2026-06-12T09:00:37.000Z",
       "start_scheduled": "2026-06-12T09:00:00.000Z",
       "start_actual": "2026-06-12T09:00:37.000Z",
-      "live_viewers": 4300,
+      "live_viewers": 4463,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -130,7 +110,7 @@
       "available_at": "2026-06-12T09:06:25.000Z",
       "start_scheduled": "2026-06-12T09:00:00.000Z",
       "start_actual": "2026-06-12T09:06:25.000Z",
-      "live_viewers": 10901,
+      "live_viewers": 12789,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
