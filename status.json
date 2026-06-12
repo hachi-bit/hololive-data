@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781284519,
+  "cached_at": 1781284580,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "3NE9KUMKZH0",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-12T11:47:03.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T11:47:03.000Z",
-      "live_viewers": 5331,
+      "live_viewers": 5509,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -91,7 +91,7 @@
       "available_at": "2026-06-12T13:59:50.000Z",
       "start_scheduled": "2026-06-12T14:00:00.000Z",
       "start_actual": "2026-06-12T13:59:50.000Z",
-      "live_viewers": 1009,
+      "live_viewers": 1068,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-12T13:59:55.000Z",
       "start_scheduled": "2026-06-12T14:00:00.000Z",
       "start_actual": "2026-06-12T13:59:55.000Z",
-      "live_viewers": 1083,
+      "live_viewers": 1070,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -119,26 +119,6 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCP0BspO_AMEe3aQqqpo89Dg": {
-      "video_id": "ZByfr1V7mgU",
-      "title": "【HoloVillage】Chill in the holo village【hololive | moona】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "holoVillage",
-      "published_at": "2026-06-12T14:11:56.000Z",
-      "available_at": "2026-06-12T14:31:13.000Z",
-      "start_scheduled": "2026-06-12T14:30:00.000Z",
-      "start_actual": "2026-06-12T14:31:13.000Z",
-      "live_viewers": 762,
-      "channel": {
-        "id": "UCP0BspO_AMEe3aQqqpo89Dg",
-        "name": "Moona Hoshinova hololive-ID",
-        "english_name": "Moona Hoshinova",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChgTyjG-pdNvxxhdsXfHQ5Q": {
