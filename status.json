@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781254939,
+  "cached_at": 1781255001,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "-_n1qlEnoL8",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-12T07:21:08.000Z",
       "start_scheduled": "2026-06-12T07:15:44.000Z",
       "start_actual": "2026-06-12T07:21:08.000Z",
-      "live_viewers": 4033,
+      "live_viewers": 4068,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -59,6 +59,84 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "cUZcGarMKnw",
+      "title": "【 3D KARAOKE / 歌枠 】カラオケ屋に新衣装できた~~~!!沢山歌うぞ~~~!!!【鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "singing",
+      "published_at": "2026-06-12T04:47:31.000Z",
+      "available_at": "2026-06-12T08:59:38.000Z",
+      "start_scheduled": "2026-06-12T09:00:00.000Z",
+      "start_actual": "2026-06-12T08:59:38.000Z",
+      "live_viewers": 1240,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCKMWFR6lAstLa7Vbf5dH7ig": {
+      "video_id": "fvVFdWOHOdU",
+      "title": "【Forza Horizon 6】ハンコン体験凸待ち!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Forza",
+      "published_at": "2026-06-11T15:46:39.000Z",
+      "available_at": "2026-06-12T09:00:00.000Z",
+      "start_scheduled": "2026-06-12T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+        "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+        "english_name": "Rindo Chihaya",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
+      "video_id": "2aLte_y1Z-g",
+      "title": "ほのぼの系 魚釣りゲームやるぞ!!【 UMIGARI / ウミガリ / ホロスターズ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "UMIGARI",
+      "published_at": "2026-06-11T20:29:46.000Z",
+      "available_at": "2026-06-12T09:00:00.000Z",
+      "start_scheduled": "2026-06-12T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
+        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
+        "english_name": "Utsugi Uyu",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCuI_opAVX6qbxZY-a-AxFuQ": {
+      "video_id": "BeLXIi1M1zU",
+      "title": "【コンプラ研修】大丈夫だよね、ちまちゃん✨【虎金妃笑虎/町田ちま】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-11T17:11:25.000Z",
+      "available_at": "2026-06-12T09:00:37.000Z",
+      "start_scheduled": "2026-06-12T09:00:00.000Z",
+      "start_actual": "2026-06-12T09:00:37.000Z",
+      "live_viewers": 716,
+      "channel": {
+        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+        "english_name": "Koganei Niko",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
