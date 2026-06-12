@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781263279,
+  "cached_at": 1781263339,
   "lives": {
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "32P14JIP2Zg",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCWQtYtq9EOB4-I5P-3fh8lA": {
-      "video_id": "xkPwxejXouA",
-      "title": "【 雑談 】風邪ひいてた話とかYou & 合図の話とか【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-12T09:31:39.000Z",
-      "available_at": "2026-06-12T10:01:01.000Z",
-      "start_scheduled": "2026-06-12T10:00:00.000Z",
-      "start_actual": "2026-06-12T10:01:01.000Z",
-      "live_viewers": 4264,
-      "channel": {
-        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-        "english_name": "Otonose Kanade",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
@@ -71,7 +51,7 @@
       "available_at": "2026-06-12T10:04:21.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:04:21.000Z",
-      "live_viewers": 6692,
+      "live_viewers": 6564,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -91,7 +71,7 @@
       "available_at": "2026-06-12T10:06:08.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:06:08.000Z",
-      "live_viewers": 946,
+      "live_viewers": 900,
       "channel": {
         "id": "UCdVYY2166hyjUAMHwp2almg",
         "name": "光葉エニ",
@@ -131,7 +111,7 @@
       "available_at": "2026-06-12T10:18:48.000Z",
       "start_scheduled": "2026-06-12T10:00:00.000Z",
       "start_actual": "2026-06-12T10:18:48.000Z",
-      "live_viewers": 766,
+      "live_viewers": 768,
       "channel": {
         "id": "UCasKmptouCrwWLl8SlQU2tQ",
         "name": "おなつのにびたし / Onatsu no Nibitashi",
@@ -151,7 +131,7 @@
       "available_at": "2026-06-12T11:00:23.000Z",
       "start_scheduled": "2026-06-12T11:00:00.000Z",
       "start_actual": "2026-06-12T11:00:23.000Z",
-      "live_viewers": 8069,
+      "live_viewers": 7421,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -171,7 +151,7 @@
       "available_at": "2026-06-12T11:00:26.000Z",
       "start_scheduled": "2026-06-12T11:00:00.000Z",
       "start_actual": "2026-06-12T11:00:26.000Z",
-      "live_viewers": 4260,
+      "live_viewers": 4233,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -191,7 +171,7 @@
       "available_at": "2026-06-12T11:01:07.000Z",
       "start_scheduled": "2026-06-12T11:00:00.000Z",
       "start_actual": "2026-06-12T11:01:07.000Z",
-      "live_viewers": 1069,
+      "live_viewers": 1185,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -211,7 +191,7 @@
       "available_at": "2026-06-12T11:01:23.000Z",
       "start_scheduled": "2026-06-12T11:00:00.000Z",
       "start_actual": "2026-06-12T11:01:23.000Z",
-      "live_viewers": 6733,
+      "live_viewers": 6766,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -231,7 +211,7 @@
       "available_at": "2026-06-12T11:01:26.000Z",
       "start_scheduled": "2026-06-12T09:00:00.000Z",
       "start_actual": "2026-06-12T11:01:26.000Z",
-      "live_viewers": 311,
+      "live_viewers": 335,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -251,7 +231,7 @@
       "available_at": "2026-06-12T11:01:34.000Z",
       "start_scheduled": "2026-06-12T11:00:00.000Z",
       "start_actual": "2026-06-12T11:01:34.000Z",
-      "live_viewers": 6944,
+      "live_viewers": 7361,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
