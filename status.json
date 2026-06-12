@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781249959,
+  "cached_at": 1781250019,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "-_n1qlEnoL8",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-12T03:36:09.000Z",
       "start_scheduled": "2026-06-12T03:30:00.000Z",
       "start_actual": "2026-06-12T03:36:09.000Z",
-      "live_viewers": 576,
+      "live_viewers": 582,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCHP4f7G2dWD4qib7BMatGAw": {
-      "video_id": "eaB9XeE_3AM",
-      "title": "[007 FIRST LIGHT] JAMES BUTCHER BACK AT IT",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "007_First_Light",
-      "published_at": "2026-06-12T03:38:01.000Z",
-      "available_at": "2026-06-12T03:40:47.000Z",
-      "start_scheduled": "2026-06-12T03:40:00.000Z",
-      "start_actual": "2026-06-12T03:40:47.000Z",
-      "live_viewers": 553,
-      "channel": {
-        "id": "UCHP4f7G2dWD4qib7BMatGAw",
-        "name": "Gavis Bettel Ch. HOLOSTARS-EN",
-        "english_name": "Gavis Bettel",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCOyYb1c43VlX9rc_lT6NKQw": {
@@ -71,7 +51,7 @@
       "available_at": "2026-06-12T07:21:08.000Z",
       "start_scheduled": "2026-06-12T07:15:44.000Z",
       "start_actual": "2026-06-12T07:21:08.000Z",
-      "live_viewers": 1494,
+      "live_viewers": 1708,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
