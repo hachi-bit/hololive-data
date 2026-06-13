@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781364139,
+  "cached_at": 1781364199,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-13T07:58:22.000Z",
       "start_scheduled": "2026-06-13T08:00:00.000Z",
       "start_actual": "2026-06-13T07:58:22.000Z",
-      "live_viewers": 4423,
+      "live_viewers": 4344,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-13T11:27:06.000Z",
       "start_scheduled": "2026-06-13T11:30:00.000Z",
       "start_actual": "2026-06-13T11:27:06.000Z",
-      "live_viewers": 18122,
+      "live_viewers": 17925,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-13T13:01:46.000Z",
       "start_scheduled": "2026-06-13T13:00:00.000Z",
       "start_actual": "2026-06-13T13:01:46.000Z",
-      "live_viewers": 5180,
+      "live_viewers": 5167,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -250,7 +250,7 @@
       "available_at": "2026-06-13T13:50:36.000Z",
       "start_scheduled": "2026-06-13T13:30:00.000Z",
       "start_actual": "2026-06-13T13:50:36.000Z",
-      "live_viewers": 5229,
+      "live_viewers": 5313,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -270,7 +270,7 @@
       "available_at": "2026-06-13T13:59:37.000Z",
       "start_scheduled": "2026-06-13T14:00:00.000Z",
       "start_actual": "2026-06-13T13:59:37.000Z",
-      "live_viewers": 962,
+      "live_viewers": 1010,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -290,7 +290,7 @@
       "available_at": "2026-06-13T14:00:47.000Z",
       "start_scheduled": "2026-06-13T14:00:00.000Z",
       "start_actual": "2026-06-13T14:00:47.000Z",
-      "live_viewers": 1496,
+      "live_viewers": 1513,
       "channel": {
         "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
         "name": "Pavolia Reine Ch. hololive-ID",
@@ -410,7 +410,7 @@
       "available_at": "2026-06-13T15:04:28.000Z",
       "start_scheduled": "2026-06-13T15:00:00.000Z",
       "start_actual": "2026-06-13T15:04:28.000Z",
-      "live_viewers": 877,
+      "live_viewers": 1994,
       "channel": {
         "id": "UC1suqwovbL1kzsoaZgFZLKg",
         "name": "Choco Ch. 癒月ちょこ",
@@ -418,6 +418,26 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCHsx4Hqa-1ORjQTh9TYDhww": {
+      "video_id": "s5uxj0q6R1o",
+      "title": "【THE WITCHER 3】ENDING MARATHON PART 1 #kfp #キアライブ",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "witcher3",
+      "published_at": "2026-06-12T22:53:29.000Z",
+      "available_at": "2026-06-13T15:18:49.000Z",
+      "start_scheduled": "2026-06-13T15:20:00.000Z",
+      "start_actual": "2026-06-13T15:18:49.000Z",
+      "live_viewers": 725,
+      "channel": {
+        "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+        "name": "Takanashi Kiara Ch. hololive-EN",
+        "english_name": "Takanashi Kiara",
+        "org": "Hololive",
+        "suborg": "h English -Myth-",
+        "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
