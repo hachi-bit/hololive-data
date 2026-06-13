@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781358619,
+  "cached_at": 1781358679,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-13T09:01:17.000Z",
       "start_scheduled": "2026-06-13T09:00:00.000Z",
       "start_actual": "2026-06-13T09:01:17.000Z",
-      "live_viewers": 3148,
+      "live_viewers": 3168,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-13T10:00:14.000Z",
       "start_scheduled": "2026-06-13T10:00:00.000Z",
       "start_actual": "2026-06-13T10:00:14.000Z",
-      "live_viewers": 6543,
+      "live_viewers": 6372,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-13T10:00:39.000Z",
       "start_scheduled": "2026-06-13T10:00:00.000Z",
       "start_actual": "2026-06-13T10:00:39.000Z",
-      "live_viewers": 12511,
+      "live_viewers": 11965,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-13T11:00:48.000Z",
       "start_scheduled": "2026-06-13T11:00:00.000Z",
       "start_actual": "2026-06-13T11:00:48.000Z",
-      "live_viewers": 6189,
+      "live_viewers": 6004,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-13T11:27:06.000Z",
       "start_scheduled": "2026-06-13T11:30:00.000Z",
       "start_actual": "2026-06-13T11:27:06.000Z",
-      "live_viewers": 21996,
+      "live_viewers": 22167,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-13T12:00:23.000Z",
       "start_scheduled": "2026-06-13T12:00:00.000Z",
       "start_actual": "2026-06-13T12:00:23.000Z",
-      "live_viewers": 1551,
+      "live_viewers": 1537,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -158,26 +158,6 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
-      "video_id": "LSBg6iZykx0",
-      "title": "【めっちゃカメレオン】みんなでかくれんぼ勝負!!参加型めちゃカメやってみよ!? 【ホロライブ/白上フブキ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "MECCHA_CHAMELEON",
-      "published_at": "2026-06-13T08:36:25.000Z",
-      "available_at": "2026-06-13T12:27:13.000Z",
-      "start_scheduled": "2026-06-13T12:30:00.000Z",
-      "start_actual": "2026-06-13T12:27:13.000Z",
-      "live_viewers": 14788,
-      "channel": {
-        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "name": "フブキCh。白上フブキ",
-        "english_name": "Shirakami Fubuki",
-        "org": "Hololive",
-        "suborg": "c 1st Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCjLEmnpCNeisMxy134KPwWw": {
@@ -190,7 +170,7 @@
       "available_at": "2026-06-13T13:00:46.000Z",
       "start_scheduled": "2026-06-13T13:00:00.000Z",
       "start_actual": "2026-06-13T13:00:46.000Z",
-      "live_viewers": 1079,
+      "live_viewers": 1102,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -210,7 +190,7 @@
       "available_at": "2026-06-13T13:01:03.000Z",
       "start_scheduled": "2026-06-13T13:00:00.000Z",
       "start_actual": "2026-06-13T13:01:03.000Z",
-      "live_viewers": 2709,
+      "live_viewers": 2798,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -230,7 +210,7 @@
       "available_at": "2026-06-13T13:01:46.000Z",
       "start_scheduled": "2026-06-13T13:00:00.000Z",
       "start_actual": "2026-06-13T13:01:46.000Z",
-      "live_viewers": 4009,
+      "live_viewers": 4057,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -250,7 +230,7 @@
       "available_at": "2026-06-13T13:04:03.000Z",
       "start_scheduled": "2026-06-13T13:00:00.000Z",
       "start_actual": "2026-06-13T13:04:03.000Z",
-      "live_viewers": 1289,
+      "live_viewers": 1354,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -309,7 +289,7 @@
       "available_at": "2026-06-13T13:32:51.000Z",
       "start_scheduled": "2026-06-13T13:30:00.000Z",
       "start_actual": "2026-06-13T13:32:51.000Z",
-      "live_viewers": 2513,
+      "live_viewers": 2596,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -329,7 +309,7 @@
       "available_at": "2026-06-13T13:35:07.000Z",
       "start_scheduled": "2026-06-13T13:30:00.000Z",
       "start_actual": "2026-06-13T13:35:07.000Z",
-      "live_viewers": 3432,
+      "live_viewers": 3275,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -349,7 +329,7 @@
       "available_at": "2026-06-13T13:37:46.000Z",
       "start_scheduled": "2026-06-13T13:30:00.000Z",
       "start_actual": "2026-06-13T13:37:46.000Z",
-      "live_viewers": 3293,
+      "live_viewers": 3594,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -369,7 +349,7 @@
       "available_at": "2026-06-13T13:39:36.000Z",
       "start_scheduled": "2026-06-13T13:40:00.000Z",
       "start_actual": "2026-06-13T13:39:36.000Z",
-      "live_viewers": 957,
+      "live_viewers": 1165,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
