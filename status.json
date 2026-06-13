@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781369839,
+  "cached_at": 1781369899,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-13T13:01:46.000Z",
       "start_scheduled": "2026-06-13T13:00:00.000Z",
       "start_actual": "2026-06-13T13:01:46.000Z",
-      "live_viewers": 6044,
+      "live_viewers": 6233,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -178,26 +178,6 @@
         "org": "VSpo",
         "suborg": "SSSolo",
         "photo": "https://yt3.ggpht.com/Rgt9lslf7OZntxcW8A9mMFWDdXTG1IxqCq4tZ14Rd7rB1rm4gxQZPTc5kM9LdGTPmXGWkfyzWw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1suqwovbL1kzsoaZgFZLKg": {
-      "video_id": "0LWjS1QzpaI",
-      "title": "【Freetalk】深夜のゲリラ雑談📣 【ホロライブ/癒月ちょこ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-13T14:58:06.000Z",
-      "available_at": "2026-06-13T15:04:28.000Z",
-      "start_scheduled": "2026-06-13T15:00:00.000Z",
-      "start_actual": "2026-06-13T15:04:28.000Z",
-      "live_viewers": 4747,
-      "channel": {
-        "id": "UC1suqwovbL1kzsoaZgFZLKg",
-        "name": "Choco Ch. 癒月ちょこ",
-        "english_name": "Yuzuki Choco",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCHsx4Hqa-1ORjQTh9TYDhww": {
