@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781349739,
+  "cached_at": 1781349799,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-13T07:58:22.000Z",
       "start_scheduled": "2026-06-13T08:00:00.000Z",
       "start_actual": "2026-06-13T07:58:22.000Z",
-      "live_viewers": 5511,
+      "live_viewers": 5618,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-13T09:00:23.000Z",
       "start_scheduled": "2026-06-13T09:00:00.000Z",
       "start_actual": "2026-06-13T09:00:23.000Z",
-      "live_viewers": 647,
+      "live_viewers": 27,
       "channel": {
         "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
         "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-13T09:02:57.000Z",
       "start_scheduled": "2026-06-13T09:00:00.000Z",
       "start_actual": "2026-06-13T09:02:57.000Z",
-      "live_viewers": 575,
+      "live_viewers": 601,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-13T09:06:26.000Z",
       "start_scheduled": "2026-06-13T09:00:00.000Z",
       "start_actual": "2026-06-13T09:06:26.000Z",
-      "live_viewers": 264,
+      "live_viewers": 279,
       "channel": {
         "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
         "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
@@ -240,26 +240,6 @@
         "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UC_vMYWcDjmfdpH6r4TTn1MQ": {
-      "video_id": "ZaE_FIP6oAU",
-      "title": "【JumpKing】1時間チャレンジ🔥RTAしてた人間がコーチングしたらどこまでいけるのか?#あずいろ【風真いろは/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Jump_King",
-      "published_at": "2026-06-13T06:50:26.000Z",
-      "available_at": "2026-06-13T10:01:28.000Z",
-      "start_scheduled": "2026-06-13T10:00:00.000Z",
-      "start_actual": "2026-06-13T10:01:28.000Z",
-      "live_viewers": 13214,
-      "channel": {
-        "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "name": "Iroha ch. 風真いろは - holoX -",
-        "english_name": "Kazama Iroha",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC5CwaMl1eIgY8h02uZw7u8A": {
       "video_id": "GQMY5Vl9Dfk",
       "title": "【雑談 / 告知アリ】話題募集中💭【星街すいせい / #ほしまちすたじお】",
@@ -290,33 +270,13 @@
       "available_at": "2026-06-13T10:59:11.000Z",
       "start_scheduled": "2026-06-13T11:00:00.000Z",
       "start_actual": "2026-06-13T10:59:11.000Z",
-      "live_viewers": 16207,
+      "live_viewers": 17542,
       "channel": {
         "id": "UCu2n3qHuOuQIygREMnWeQWg",
         "name": "hololive DEV_IS FLOW GLOW",
         "org": "Hololive",
         "suborg": "0gOfficial",
         "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvaTdHTWBGv3MKj3KVqJVCw": {
-      "video_id": "PtCNqj8C-2M",
-      "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#03 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Final_fantasy",
-      "published_at": "2026-06-12T15:40:02.000Z",
-      "available_at": "2026-06-13T10:59:44.000Z",
-      "start_scheduled": "2026-06-13T11:00:00.000Z",
-      "start_actual": "2026-06-13T10:59:44.000Z",
-      "live_viewers": 1113,
-      "channel": {
-        "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-        "name": "Okayu Ch. 猫又おかゆ",
-        "english_name": "Nekomata Okayu",
-        "org": "Hololive",
-        "suborg": "d_GAMERS",
-        "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCtyWhCj3AqKh2dXctLkDtng": {
@@ -329,7 +289,7 @@
       "available_at": "2026-06-13T11:00:48.000Z",
       "start_scheduled": "2026-06-13T11:00:00.000Z",
       "start_actual": "2026-06-13T11:00:48.000Z",
-      "live_viewers": 3733,
+      "live_viewers": 4039,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
