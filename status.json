@@ -1,26 +1,6 @@
 {
-  "cached_at": 1781313559,
+  "cached_at": 1781313619,
   "lives": {
-    "UC_sFNM0z0MWm9A6WlKPuMMg": {
-      "video_id": "3NE9KUMKZH0",
-      "title": "Pls recommend songs to sing | UNARCHIVED KARAOKE REBROADCAST",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-06-12T10:23:01.000Z",
-      "available_at": "2026-06-12T11:47:03.000Z",
-      "start_scheduled": "2026-06-12T12:00:00.000Z",
-      "start_actual": "2026-06-12T11:47:03.000Z",
-      "live_viewers": 5006,
-      "channel": {
-        "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
-        "name": "Nerissa Ravencroft Ch. hololive-EN",
-        "english_name": "Nerissa Ravencroft",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCYz_5n-uDuChHtLo7My1HnQ": {
       "video_id": "p4voLD30Qx4",
       "title": "【PRATFALL】 COLLAB: IT'S GOING DOWN!!  【Kureiji Ollie】",
@@ -31,7 +11,7 @@
       "available_at": "2026-06-13T00:58:15.000Z",
       "start_scheduled": "2026-06-13T01:00:00.000Z",
       "start_actual": "2026-06-13T00:58:15.000Z",
-      "live_viewers": 966,
+      "live_viewers": 1026,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -51,7 +31,7 @@
       "available_at": "2026-06-13T01:07:11.000Z",
       "start_scheduled": "2026-06-13T01:05:00.000Z",
       "start_actual": "2026-06-13T01:07:11.000Z",
-      "live_viewers": 20086,
+      "live_viewers": 22084,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -71,7 +51,7 @@
       "available_at": "2026-06-13T01:08:21.000Z",
       "start_scheduled": "2026-06-13T01:05:00.000Z",
       "start_actual": "2026-06-13T01:08:21.000Z",
-      "live_viewers": 5801,
+      "live_viewers": 9672,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -91,7 +71,7 @@
       "available_at": "2026-06-13T01:09:33.000Z",
       "start_scheduled": "2026-06-13T01:00:00.000Z",
       "start_actual": "2026-06-13T01:09:33.000Z",
-      "live_viewers": 332,
+      "live_viewers": 367,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
