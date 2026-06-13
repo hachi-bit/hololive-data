@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781341219,
+  "cached_at": 1781341279,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "14VcJvHC6Mw",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
-      "video_id": "abwe3TQZgr4",
-      "title": "【 MOTHER2 】完全初見!久々に神作ができるうううう✨【鷹嶺ルイ/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "EarthBound",
-      "published_at": "2026-06-12T20:42:28.000Z",
-      "available_at": "2026-06-13T03:02:51.000Z",
-      "start_scheduled": "2026-06-13T03:00:00.000Z",
-      "start_actual": "2026-06-13T03:02:51.000Z",
-      "live_viewers": 4255,
-      "channel": {
-        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "name": "Lui ch. 鷹嶺ルイ - holoX -",
-        "english_name": "Takane Lui",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCANDOlYTJT7N5jlRC3zfzVA": {
@@ -70,7 +50,7 @@
       "available_at": "2026-06-13T06:36:17.000Z",
       "start_scheduled": "2026-06-13T06:30:00.000Z",
       "start_actual": "2026-06-13T06:36:17.000Z",
-      "live_viewers": 4317,
+      "live_viewers": 4275,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -90,7 +70,7 @@
       "available_at": "2026-06-13T07:01:23.000Z",
       "start_scheduled": "2026-06-13T07:00:00.000Z",
       "start_actual": "2026-06-13T07:01:23.000Z",
-      "live_viewers": 6569,
+      "live_viewers": 6652,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -150,7 +130,7 @@
       "available_at": "2026-06-13T08:47:23.000Z",
       "start_scheduled": "2026-06-13T09:00:00.000Z",
       "start_actual": "2026-06-13T08:47:23.000Z",
-      "live_viewers": 1642,
+      "live_viewers": 2090,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -158,6 +138,26 @@
         "org": "Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mq4PLSnpYy83ZUfXHKZVIVXsU8VnFE5xpzLcVXrmImnAg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCwXfrtn26oj7JW9fwB_z1bw": {
+      "video_id": "eO-QbcdCw1M",
+      "title": "【#漢義リーグ】第3節応援&対局視点配信 #秋麗宝燈",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mahjong",
+      "published_at": "2026-06-13T07:50:49.000Z",
+      "available_at": "2026-06-13T08:58:07.000Z",
+      "start_scheduled": "2026-06-13T09:00:00.000Z",
+      "start_actual": "2026-06-13T08:58:07.000Z",
+      "live_viewers": 180,
+      "channel": {
+        "id": "UCwXfrtn26oj7JW9fwB_z1bw",
+        "name": "咲乃もこ【SakinoMoco】",
+        "english_name": "Sakino Moco",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/PU1Ptl5GyhcWRD3deTCx5XpQBFoMZdLa808TYJG1yIkVLjNq0kCdiGEe11W92RsjGouaQi5u-Q=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
