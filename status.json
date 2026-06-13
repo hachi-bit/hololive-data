@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781358919,
+  "cached_at": 1781358979,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-13T07:58:22.000Z",
       "start_scheduled": "2026-06-13T08:00:00.000Z",
       "start_actual": "2026-06-13T07:58:22.000Z",
-      "live_viewers": 5310,
+      "live_viewers": 4906,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-13T09:01:17.000Z",
       "start_scheduled": "2026-06-13T09:00:00.000Z",
       "start_actual": "2026-06-13T09:01:17.000Z",
-      "live_viewers": 3168,
+      "live_viewers": 3140,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-13T10:00:14.000Z",
       "start_scheduled": "2026-06-13T10:00:00.000Z",
       "start_actual": "2026-06-13T10:00:14.000Z",
-      "live_viewers": 6372,
+      "live_viewers": 6400,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-13T10:00:39.000Z",
       "start_scheduled": "2026-06-13T10:00:00.000Z",
       "start_actual": "2026-06-13T10:00:39.000Z",
-      "live_viewers": 11965,
+      "live_viewers": 11821,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-13T11:00:48.000Z",
       "start_scheduled": "2026-06-13T11:00:00.000Z",
       "start_actual": "2026-06-13T11:00:48.000Z",
-      "live_viewers": 5991,
+      "live_viewers": 5959,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-13T11:27:06.000Z",
       "start_scheduled": "2026-06-13T11:30:00.000Z",
       "start_actual": "2026-06-13T11:27:06.000Z",
-      "live_viewers": 22167,
+      "live_viewers": 22223,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-13T13:04:03.000Z",
       "start_scheduled": "2026-06-13T13:00:00.000Z",
       "start_actual": "2026-06-13T13:04:03.000Z",
-      "live_viewers": 1354,
+      "live_viewers": 1318,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -270,7 +270,7 @@
       "available_at": "2026-06-13T13:32:51.000Z",
       "start_scheduled": "2026-06-13T13:30:00.000Z",
       "start_actual": "2026-06-13T13:32:51.000Z",
-      "live_viewers": 2829,
+      "live_viewers": 2844,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -290,7 +290,7 @@
       "available_at": "2026-06-13T13:35:07.000Z",
       "start_scheduled": "2026-06-13T13:30:00.000Z",
       "start_actual": "2026-06-13T13:35:07.000Z",
-      "live_viewers": 3459,
+      "live_viewers": 4739,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -310,7 +310,7 @@
       "available_at": "2026-06-13T13:37:46.000Z",
       "start_scheduled": "2026-06-13T13:30:00.000Z",
       "start_actual": "2026-06-13T13:37:46.000Z",
-      "live_viewers": 3693,
+      "live_viewers": 3955,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -330,7 +330,7 @@
       "available_at": "2026-06-13T13:39:36.000Z",
       "start_scheduled": "2026-06-13T13:40:00.000Z",
       "start_actual": "2026-06-13T13:39:36.000Z",
-      "live_viewers": 1257,
+      "live_viewers": 1393,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -350,7 +350,7 @@
       "available_at": "2026-06-13T13:50:36.000Z",
       "start_scheduled": "2026-06-13T13:30:00.000Z",
       "start_actual": "2026-06-13T13:50:36.000Z",
-      "live_viewers": 1197,
+      "live_viewers": 2269,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
