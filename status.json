@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781309119,
+  "cached_at": 1781309179,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "3NE9KUMKZH0",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-12T21:00:34.000Z",
       "start_scheduled": "2026-06-12T21:00:00.000Z",
       "start_actual": "2026-06-12T21:00:34.000Z",
-      "live_viewers": 7323,
+      "live_viewers": 7333,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -48,9 +48,10 @@
       "status": "live",
       "topic_id": "morning",
       "published_at": "2026-06-12T14:39:26.000Z",
-      "available_at": "2026-06-13T00:00:00.000Z",
+      "available_at": "2026-06-13T00:01:52.000Z",
       "start_scheduled": "2026-06-13T00:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-13T00:01:52.000Z",
+      "live_viewers": 2211,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
