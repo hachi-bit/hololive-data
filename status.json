@@ -1,26 +1,6 @@
 {
-  "cached_at": 1781338399,
+  "cached_at": 1781338459,
   "lives": {
-    "UC6eWCld0KwmyHFbAqK3V-Rw": {
-      "video_id": "9CPfh6woiLA",
-      "title": "【うたわれるもの 白への道標】完全初見✨シリーズ最終章!クジュウリへいくぞ~~~!!! #2 【博衣こより/ホロライブ】※ネタバレを含みます",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Utawarerumono",
-      "published_at": "2026-06-12T09:39:40.000Z",
-      "available_at": "2026-06-13T02:00:07.000Z",
-      "start_scheduled": "2026-06-13T02:00:00.000Z",
-      "start_actual": "2026-06-13T02:00:07.000Z",
-      "live_viewers": 3979,
-      "channel": {
-        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-        "name": "Koyori ch. 博衣こより - holoX -",
-        "english_name": "Hakui Koyori",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "14VcJvHC6Mw",
       "title": "Game Came Out In 2007 Btw【ELSWORD】",
@@ -31,7 +11,7 @@
       "available_at": "2026-06-13T02:11:33.000Z",
       "start_scheduled": "2026-06-13T02:00:00.000Z",
       "start_actual": "2026-06-13T02:11:33.000Z",
-      "live_viewers": 590,
+      "live_viewers": 565,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -110,7 +90,7 @@
       "available_at": "2026-06-13T06:36:17.000Z",
       "start_scheduled": "2026-06-13T06:30:00.000Z",
       "start_actual": "2026-06-13T06:36:17.000Z",
-      "live_viewers": 4541,
+      "live_viewers": 4234,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -130,7 +110,7 @@
       "available_at": "2026-06-13T07:01:23.000Z",
       "start_scheduled": "2026-06-13T07:00:00.000Z",
       "start_actual": "2026-06-13T07:01:23.000Z",
-      "live_viewers": 5764,
+      "live_viewers": 5762,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -150,7 +130,7 @@
       "available_at": "2026-06-13T07:53:45.000Z",
       "start_scheduled": "2026-06-13T07:50:00.000Z",
       "start_actual": "2026-06-13T07:53:45.000Z",
-      "live_viewers": 206,
+      "live_viewers": 220,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -170,7 +150,7 @@
       "available_at": "2026-06-13T07:58:22.000Z",
       "start_scheduled": "2026-06-13T08:00:00.000Z",
       "start_actual": "2026-06-13T07:58:22.000Z",
-      "live_viewers": 2510,
+      "live_viewers": 2803,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
