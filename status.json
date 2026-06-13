@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781358738,
+  "cached_at": 1781358799,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-13T11:00:48.000Z",
       "start_scheduled": "2026-06-13T11:00:00.000Z",
       "start_actual": "2026-06-13T11:00:48.000Z",
-      "live_viewers": 6004,
+      "live_viewers": 5991,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -190,7 +190,7 @@
       "available_at": "2026-06-13T13:01:03.000Z",
       "start_scheduled": "2026-06-13T13:00:00.000Z",
       "start_actual": "2026-06-13T13:01:03.000Z",
-      "live_viewers": 2798,
+      "live_viewers": 3073,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -210,7 +210,7 @@
       "available_at": "2026-06-13T13:01:46.000Z",
       "start_scheduled": "2026-06-13T13:00:00.000Z",
       "start_actual": "2026-06-13T13:01:46.000Z",
-      "live_viewers": 4057,
+      "live_viewers": 4309,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -260,25 +260,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
-      "video_id": "Za2q-gHS2xc",
-      "title": "#5 【JUDGE EYES：死神の遺言 】完全シリーズ初見!※ネタバレあり【水宮枢/ホロライブDEV_IS】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Judgment",
-      "published_at": "2026-06-11T17:44:36.000Z",
-      "available_at": "2026-06-13T13:30:00.000Z",
-      "start_scheduled": "2026-06-13T13:30:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-        "name": "Su Ch. 水宮枢 - FLOW GLOW",
-        "english_name": "Mizumiya Su",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCp6993wxpyDPHUpavwDFqgg": {
       "video_id": "3GtW4fSfRwA",
       "title": "【なぜ人気? 】そらザウルスの歴史を考えてみよう!【ホロライブ/ときのそら】",
@@ -289,7 +270,7 @@
       "available_at": "2026-06-13T13:32:51.000Z",
       "start_scheduled": "2026-06-13T13:30:00.000Z",
       "start_actual": "2026-06-13T13:32:51.000Z",
-      "live_viewers": 2596,
+      "live_viewers": 2829,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -309,7 +290,7 @@
       "available_at": "2026-06-13T13:35:07.000Z",
       "start_scheduled": "2026-06-13T13:30:00.000Z",
       "start_actual": "2026-06-13T13:35:07.000Z",
-      "live_viewers": 3275,
+      "live_viewers": 3459,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -329,7 +310,7 @@
       "available_at": "2026-06-13T13:37:46.000Z",
       "start_scheduled": "2026-06-13T13:30:00.000Z",
       "start_actual": "2026-06-13T13:37:46.000Z",
-      "live_viewers": 3594,
+      "live_viewers": 3693,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -349,7 +330,7 @@
       "available_at": "2026-06-13T13:39:36.000Z",
       "start_scheduled": "2026-06-13T13:40:00.000Z",
       "start_actual": "2026-06-13T13:39:36.000Z",
-      "live_viewers": 1165,
+      "live_viewers": 1257,
       "channel": {
         "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
         "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -357,6 +338,26 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
+      "video_id": "Za2q-gHS2xc",
+      "title": "#5 【JUDGE EYES：死神の遺言 】完全シリーズ初見!※ネタバレあり【水宮枢/ホロライブDEV_IS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Judgment",
+      "published_at": "2026-06-11T17:44:36.000Z",
+      "available_at": "2026-06-13T13:50:36.000Z",
+      "start_scheduled": "2026-06-13T13:30:00.000Z",
+      "start_actual": "2026-06-13T13:50:36.000Z",
+      "live_viewers": 1197,
+      "channel": {
+        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+        "name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "english_name": "Mizumiya Su",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
