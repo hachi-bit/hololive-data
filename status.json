@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781314399,
+  "cached_at": 1781314459,
   "lives": {
     "UCYz_5n-uDuChHtLo7My1HnQ": {
       "video_id": "p4voLD30Qx4",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-13T00:58:15.000Z",
       "start_scheduled": "2026-06-13T01:00:00.000Z",
       "start_actual": "2026-06-13T00:58:15.000Z",
-      "live_viewers": 1225,
+      "live_viewers": 1265,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-13T01:07:11.000Z",
       "start_scheduled": "2026-06-13T01:05:00.000Z",
       "start_actual": "2026-06-13T01:07:11.000Z",
-      "live_viewers": 25627,
+      "live_viewers": 26715,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-13T01:08:21.000Z",
       "start_scheduled": "2026-06-13T01:05:00.000Z",
       "start_actual": "2026-06-13T01:08:21.000Z",
-      "live_viewers": 10752,
+      "live_viewers": 10760,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-13T01:09:33.000Z",
       "start_scheduled": "2026-06-13T01:00:00.000Z",
       "start_actual": "2026-06-13T01:09:33.000Z",
-      "live_viewers": 474,
+      "live_viewers": 512,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -79,6 +79,26 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCjk2nKmHzgH5Xy-C5qYRd5A": {
+      "video_id": "WTqH6YeQGbQ",
+      "title": "【歌枠 KARAOKE】縦型歌雑談〜❕【水宮枢/ホロライブDEV_IS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-06-13T01:30:45.000Z",
+      "available_at": "2026-06-13T01:31:01.000Z",
+      "start_scheduled": "2026-06-13T01:30:45.000Z",
+      "start_actual": "2026-06-13T01:31:01.000Z",
+      "live_viewers": 303,
+      "channel": {
+        "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+        "name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "english_name": "Mizumiya Su",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
