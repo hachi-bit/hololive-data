@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781313139,
+  "cached_at": 1781313199,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "3NE9KUMKZH0",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-12T11:47:03.000Z",
       "start_scheduled": "2026-06-12T12:00:00.000Z",
       "start_actual": "2026-06-12T11:47:03.000Z",
-      "live_viewers": 5055,
+      "live_viewers": 5006,
       "channel": {
         "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
         "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -31,7 +31,7 @@
       "available_at": "2026-06-13T00:58:15.000Z",
       "start_scheduled": "2026-06-13T01:00:00.000Z",
       "start_actual": "2026-06-13T00:58:15.000Z",
-      "live_viewers": 932,
+      "live_viewers": 947,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -39,44 +39,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC7gxU6NXjKF1LrgOddPzgTw": {
-      "video_id": "C8erxgghQ5k",
-      "title": "【PRATFALL】I'VE FALLEN AND I CAN'T GET UP 🗣️‼️ LET'S HANG OUT WITH AMAZING FRIENDS  (♡ˊ͈ ꒳ ˋ͈) ! ! !",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Pratfall",
-      "published_at": "2026-06-12T13:22:21.000Z",
-      "available_at": "2026-06-13T01:00:00.000Z",
-      "start_scheduled": "2026-06-13T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-        "english_name": "Banzoin Hakka",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
-      "video_id": "XRW6TInwvuw",
-      "title": "≪Nintendo Switch Sports≫ getting physical in 3D before Serendipity #holoSerendipity",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Nintendo_Switch_Sports",
-      "published_at": "2026-06-12T14:45:51.000Z",
-      "available_at": "2026-06-13T01:05:00.000Z",
-      "start_scheduled": "2026-06-13T01:05:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "name": "Hakos Baelz Ch. hololive-EN",
-        "english_name": "Hakos Baelz",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvzGlP9oQwU--Y0r9id_jnA": {
@@ -89,7 +51,7 @@
       "available_at": "2026-06-13T01:07:11.000Z",
       "start_scheduled": "2026-06-13T01:05:00.000Z",
       "start_actual": "2026-06-13T01:07:11.000Z",
-      "live_viewers": 8529,
+      "live_viewers": 16043,
       "channel": {
         "id": "UCvzGlP9oQwU--Y0r9id_jnA",
         "name": "Subaru Ch. 大空スバル",
@@ -97,6 +59,46 @@
         "org": "Hololive",
         "suborg": "d 2nd Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
+      "video_id": "XRW6TInwvuw",
+      "title": "≪Nintendo Switch Sports≫ getting physical in 3D before Serendipity #holoSerendipity",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Nintendo_Switch_Sports",
+      "published_at": "2026-06-12T14:45:51.000Z",
+      "available_at": "2026-06-13T01:08:21.000Z",
+      "start_scheduled": "2026-06-13T01:05:00.000Z",
+      "start_actual": "2026-06-13T01:08:21.000Z",
+      "live_viewers": 4522,
+      "channel": {
+        "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "name": "Hakos Baelz Ch. hololive-EN",
+        "english_name": "Hakos Baelz",
+        "org": "Hololive",
+        "suborg": "ibEnglish -Promise-",
+        "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7gxU6NXjKF1LrgOddPzgTw": {
+      "video_id": "C8erxgghQ5k",
+      "title": "【PRATFALL】I'VE FALLEN AND I CAN'T GET UP 🗣️‼️ LET'S HANG OUT WITH AMAZING FRIENDS  (♡ˊ͈ ꒳ ˋ͈) ! ! !",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pratfall",
+      "published_at": "2026-06-12T13:22:21.000Z",
+      "available_at": "2026-06-13T01:09:33.000Z",
+      "start_scheduled": "2026-06-13T01:00:00.000Z",
+      "start_actual": "2026-06-13T01:09:33.000Z",
+      "live_viewers": 270,
+      "channel": {
+        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+        "english_name": "Banzoin Hakka",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
