@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781337739,
+  "cached_at": 1781337799,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "9CPfh6woiLA",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-13T03:00:09.000Z",
       "start_scheduled": "2026-06-13T03:00:00.000Z",
       "start_actual": "2026-06-13T03:00:09.000Z",
-      "live_viewers": 25158,
+      "live_viewers": 24987,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-13T07:01:23.000Z",
       "start_scheduled": "2026-06-13T07:00:00.000Z",
       "start_actual": "2026-06-13T07:01:23.000Z",
-      "live_viewers": 5759,
+      "live_viewers": 5691,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-13T07:53:45.000Z",
       "start_scheduled": "2026-06-13T07:50:00.000Z",
       "start_actual": "2026-06-13T07:53:45.000Z",
-      "live_viewers": 165,
+      "live_viewers": 183,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -162,15 +162,15 @@
     },
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "DSFjlbOv3jM",
-      "title": "【 ゼノブレイド2 】初見プレイ！初めての「Xenoblade 2」に挑戦するのら！！！＃02【姫森ルーナ/ホロライブ】",
+      "title": "【 ゼノブレイド2 】初見プレイ!初めての「Xenoblade 2」に挑戦するのら!!!#02【姫森ルーナ/ホロライブ】",
       "type": "stream",
       "status": "live",
       "topic_id": "Xenoblade",
       "published_at": "2026-06-11T14:35:10.000Z",
-      "available_at": "2026-06-13T07:58:19.000Z",
+      "available_at": "2026-06-13T07:58:22.000Z",
       "start_scheduled": "2026-06-13T08:00:00.000Z",
-      "start_actual": "2026-06-13T07:58:19.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-13T07:58:22.000Z",
+      "live_viewers": 1345,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
