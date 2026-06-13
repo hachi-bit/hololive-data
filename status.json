@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781337439,
+  "cached_at": 1781337499,
   "lives": {
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
       "video_id": "9CPfh6woiLA",
@@ -51,7 +51,7 @@
       "available_at": "2026-06-13T03:00:09.000Z",
       "start_scheduled": "2026-06-13T03:00:00.000Z",
       "start_actual": "2026-06-13T03:00:09.000Z",
-      "live_viewers": 25499,
+      "live_viewers": 25158,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -71,7 +71,7 @@
       "available_at": "2026-06-13T03:02:51.000Z",
       "start_scheduled": "2026-06-13T03:00:00.000Z",
       "start_actual": "2026-06-13T03:02:51.000Z",
-      "live_viewers": 3876,
+      "live_viewers": 4058,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-13T06:36:17.000Z",
       "start_scheduled": "2026-06-13T06:30:00.000Z",
       "start_actual": "2026-06-13T06:36:17.000Z",
-      "live_viewers": 4338,
+      "live_viewers": 4543,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -147,9 +147,10 @@
       "status": "live",
       "topic_id": "League_of_Legends",
       "published_at": "2026-06-13T07:50:35.000Z",
-      "available_at": "2026-06-13T07:50:00.000Z",
+      "available_at": "2026-06-13T07:53:45.000Z",
       "start_scheduled": "2026-06-13T07:50:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-13T07:53:45.000Z",
+      "live_viewers": 128,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
