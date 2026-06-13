@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781355799,
+  "cached_at": 1781355859,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-13T10:00:14.000Z",
       "start_scheduled": "2026-06-13T10:00:00.000Z",
       "start_actual": "2026-06-13T10:00:14.000Z",
-      "live_viewers": 6835,
+      "live_viewers": 6843,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-13T10:00:39.000Z",
       "start_scheduled": "2026-06-13T10:00:00.000Z",
       "start_actual": "2026-06-13T10:00:39.000Z",
-      "live_viewers": 11945,
+      "live_viewers": 11959,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-13T11:27:06.000Z",
       "start_scheduled": "2026-06-13T11:30:00.000Z",
       "start_actual": "2026-06-13T11:27:06.000Z",
-      "live_viewers": 21711,
+      "live_viewers": 22473,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -210,7 +210,7 @@
       "available_at": "2026-06-13T12:01:49.000Z",
       "start_scheduled": "2026-06-13T12:00:00.000Z",
       "start_actual": "2026-06-13T12:01:49.000Z",
-      "live_viewers": 61326,
+      "live_viewers": 61138,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-13T12:27:13.000Z",
       "start_scheduled": "2026-06-13T12:30:00.000Z",
       "start_actual": "2026-06-13T12:27:13.000Z",
-      "live_viewers": 10989,
+      "live_viewers": 11129,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -238,6 +238,142 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvInZx9h3jC2JzsIzoOebWg": {
+      "video_id": "2Bykm9aQZUk",
+      "title": "【同時視聴】4・5の間の話らしい「バイオハザード ディジェネレーション」をみんなでみよう【不知火フレア/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "watchalong",
+      "published_at": "2026-06-13T11:20:06.000Z",
+      "available_at": "2026-06-13T13:00:00.000Z",
+      "start_scheduled": "2026-06-13T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCvInZx9h3jC2JzsIzoOebWg",
+        "name": "Flare Ch. 不知火フレア",
+        "english_name": "Shiranui Flare",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "6-8dnUflMrc",
+      "title": "【メン限同時視聴】映画ワイルドスピード3!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-06-13T03:19:03.000Z",
+      "available_at": "2026-06-13T13:00:00.000Z",
+      "start_scheduled": "2026-06-13T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCwL7dgTxKo8Y4RFIKWaf8gA": {
+      "video_id": "8_sWhxVNzHU",
+      "title": "【メンバー限定】同時視聴 たべっこどうぶつ THE MOVIE【荒咬オウガ /ホロスターズ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "membersonly",
+      "published_at": "2026-06-13T10:38:08.000Z",
+      "available_at": "2026-06-13T13:00:00.000Z",
+      "start_scheduled": "2026-06-13T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "name": "Oga Ch.荒咬オウガ",
+        "english_name": "Aragami Oga",
+        "org": "Hololive",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC3OH5FKQ3qtl4uRme_vZTgA": {
+      "video_id": "feguSTNzMiQ",
+      "title": "【わかりて選手権】出会って1ヶ月の絆を確認!【 #UNIT_B / #全員集合】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-13T09:53:54.000Z",
+      "available_at": "2026-06-13T13:00:00.000Z",
+      "start_scheduled": "2026-06-13T13:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
+        "name": "UNIT B (Pre-Debut) - mekPark",
+        "english_name": "UNIT B [Pre-Debut]",
+        "org": "Hololive",
+        "suborg": "v_mekPark",
+        "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCjLEmnpCNeisMxy134KPwWw": {
+      "video_id": "uFlKJNz6dbY",
+      "title": "【FREE TALK】HIIII CATCHC UP CATCH UP!!!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-06-11T11:31:37.000Z",
+      "available_at": "2026-06-13T13:00:46.000Z",
+      "start_scheduled": "2026-06-13T13:00:00.000Z",
+      "start_actual": "2026-06-13T13:00:46.000Z",
+      "live_viewers": 435,
+      "channel": {
+        "id": "UCjLEmnpCNeisMxy134KPwWw",
+        "name": "Kobo Kanaeru Ch. hololive-ID",
+        "english_name": "Kobo Kanaeru",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC9LSiN9hXI55svYEBrrK-tw": {
+      "video_id": "J89YvGxzhYc",
+      "title": "【 NARUTO ナルティメットストーム】ついにやっていくぞおお!【ホロライブ DEV_IS 響咲リオナ】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "NARUTO",
+      "published_at": "2026-06-12T18:53:07.000Z",
+      "available_at": "2026-06-13T13:01:03.000Z",
+      "start_scheduled": "2026-06-13T13:00:00.000Z",
+      "start_actual": "2026-06-13T13:01:03.000Z",
+      "live_viewers": 470,
+      "channel": {
+        "id": "UC9LSiN9hXI55svYEBrrK-tw",
+        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "english_name": "Isaki Riona",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCqm3BQLlJfvkTsX_hvm0UmA": {
+      "video_id": "cuqB-i5uDRM",
+      "title": "【 エトランジュ オーヴァーロード 】スイーティアちゃん役のわため!ドキドキプレイ! #2【角巻わため/ホロライブ4期生】※ネタバレあり",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-12T23:26:04.000Z",
+      "available_at": "2026-06-13T13:01:40.000Z",
+      "start_scheduled": "2026-06-13T13:00:00.000Z",
+      "start_actual": "2026-06-13T13:01:40.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+        "name": "Watame Ch. 角巻わため",
+        "english_name": "Tsunomaki Watame",
+        "org": "Hololive",
+        "suborg": "fa4th Generation (holoForce)",
+        "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
