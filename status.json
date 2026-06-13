@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781319739,
+  "cached_at": 1781319799,
   "lives": {
     "UCYz_5n-uDuChHtLo7My1HnQ": {
       "video_id": "p4voLD30Qx4",
@@ -21,26 +21,6 @@
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCgmPnx-EEeOrZSg5Tiw7ZRQ": {
-      "video_id": "XRW6TInwvuw",
-      "title": "≪Nintendo Switch Sports≫ getting physical in 3D before Serendipity #holoSerendipity",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Nintendo_Switch_Sports",
-      "published_at": "2026-06-12T14:45:51.000Z",
-      "available_at": "2026-06-13T01:08:21.000Z",
-      "start_scheduled": "2026-06-13T01:05:00.000Z",
-      "start_actual": "2026-06-13T01:08:21.000Z",
-      "live_viewers": 11333,
-      "channel": {
-        "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "name": "Hakos Baelz Ch. hololive-EN",
-        "english_name": "Hakos Baelz",
-        "org": "Hololive",
-        "suborg": "ibEnglish -Promise-",
-        "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UC7gxU6NXjKF1LrgOddPzgTw": {
       "video_id": "C8erxgghQ5k",
       "title": "【PRATFALL】I'VE FALLEN AND I CAN'T GET UP 🗣️‼️ LET'S HANG OUT WITH AMAZING FRIENDS  (♡ˊ͈ ꒳ ˋ͈) ! ! !",
@@ -51,7 +31,7 @@
       "available_at": "2026-06-13T01:09:33.000Z",
       "start_scheduled": "2026-06-13T01:00:00.000Z",
       "start_actual": "2026-06-13T01:09:33.000Z",
-      "live_viewers": 524,
+      "live_viewers": 537,
       "channel": {
         "id": "UC7gxU6NXjKF1LrgOddPzgTw",
         "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -70,7 +50,7 @@
       "published_at": "2026-03-16T13:10:55.000Z",
       "available_at": "2026-06-13T01:14:09.000Z",
       "start_actual": "2026-06-13T01:14:09.000Z",
-      "live_viewers": 4780,
+      "live_viewers": 4653,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -90,7 +70,7 @@
       "available_at": "2026-06-13T01:31:01.000Z",
       "start_scheduled": "2026-06-13T01:30:45.000Z",
       "start_actual": "2026-06-13T01:31:01.000Z",
-      "live_viewers": 3279,
+      "live_viewers": 3345,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -110,7 +90,7 @@
       "available_at": "2026-06-13T02:00:07.000Z",
       "start_scheduled": "2026-06-13T02:00:00.000Z",
       "start_actual": "2026-06-13T02:00:07.000Z",
-      "live_viewers": 3739,
+      "live_viewers": 3826,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -130,7 +110,7 @@
       "available_at": "2026-06-13T02:01:16.000Z",
       "start_scheduled": "2026-06-13T02:00:00.000Z",
       "start_actual": "2026-06-13T02:01:16.000Z",
-      "live_viewers": 5139,
+      "live_viewers": 5265,
       "channel": {
         "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
         "name": "Noel Ch. 白銀ノエル",
@@ -150,7 +130,7 @@
       "available_at": "2026-06-13T02:01:34.000Z",
       "start_scheduled": "2026-06-13T02:00:00.000Z",
       "start_actual": "2026-06-13T02:01:34.000Z",
-      "live_viewers": 1057,
+      "live_viewers": 1193,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -170,7 +150,7 @@
       "available_at": "2026-06-13T02:11:33.000Z",
       "start_scheduled": "2026-06-13T02:00:00.000Z",
       "start_actual": "2026-06-13T02:11:33.000Z",
-      "live_viewers": 374,
+      "live_viewers": 355,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -178,6 +158,65 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "abwe3TQZgr4",
+      "title": "【 MOTHER2 】完全初見!久々に神作ができるうううう✨【鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "EarthBound",
+      "published_at": "2026-06-12T20:42:28.000Z",
+      "available_at": "2026-06-13T03:00:00.000Z",
+      "start_scheduled": "2026-06-13T03:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCotXwY6s8pWmuWd_snKYjhg": {
+      "video_id": "ZM6erDsYGgY",
+      "title": "Marked In Stone🗿 #holoEN3DRepeat",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Animation",
+      "published_at": "2026-06-13T03:00:06.000Z",
+      "available_at": "2026-06-13T03:00:06.000Z",
+      "start_scheduled": "2026-06-13T03:00:00.000Z",
+      "start_actual": "2026-06-13T03:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCotXwY6s8pWmuWd_snKYjhg",
+        "name": "hololive English",
+        "english_name": "",
+        "org": "Hololive",
+        "suborg": "0dOfficial",
+        "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1DCedRgGHBdm81E1llLhOQ": {
+      "video_id": "MkwM4iZmH7A",
+      "title": "#6【SFC】完全初見!ドラゴンクエストVI 幻の大地 ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Dragon_Quest",
+      "published_at": "2026-06-12T13:49:17.000Z",
+      "available_at": "2026-06-13T03:00:09.000Z",
+      "start_scheduled": "2026-06-13T03:00:00.000Z",
+      "start_actual": "2026-06-13T03:00:09.000Z",
+      "live_viewers": 2816,
+      "channel": {
+        "id": "UC1DCedRgGHBdm81E1llLhOQ",
+        "name": "Pekora Ch. 兎田ぺこら",
+        "english_name": "Usada Pekora",
+        "org": "Hololive",
+        "suborg": "ea3rd Generation (Fantasy)",
+        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
