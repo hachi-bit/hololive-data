@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781320519,
+  "cached_at": 1781320580,
   "lives": {
     "UCYz_5n-uDuChHtLo7My1HnQ": {
       "video_id": "p4voLD30Qx4",
@@ -39,25 +39,6 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "K1nIWY8Bck8",
-      "title": "【 縦型歌枠/KARAOKE 】66万人ありがとう!!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "singing",
-      "published_at": "2026-03-16T13:10:55.000Z",
-      "available_at": "2026-06-13T01:14:09.000Z",
-      "start_actual": "2026-06-13T01:14:09.000Z",
-      "live_viewers": 3485,
-      "channel": {
-        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "english_name": "Kikirara Vivi",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCjk2nKmHzgH5Xy-C5qYRd5A": {
@@ -150,7 +131,7 @@
       "available_at": "2026-06-13T02:11:33.000Z",
       "start_scheduled": "2026-06-13T02:00:00.000Z",
       "start_actual": "2026-06-13T02:11:33.000Z",
-      "live_viewers": 396,
+      "live_viewers": 399,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -170,7 +151,7 @@
       "available_at": "2026-06-13T03:00:09.000Z",
       "start_scheduled": "2026-06-13T03:00:00.000Z",
       "start_actual": "2026-06-13T03:00:09.000Z",
-      "live_viewers": 10867,
+      "live_viewers": 11702,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -190,7 +171,7 @@
       "available_at": "2026-06-13T03:02:51.000Z",
       "start_scheduled": "2026-06-13T03:00:00.000Z",
       "start_actual": "2026-06-13T03:02:51.000Z",
-      "live_viewers": 1676,
+      "live_viewers": 1846,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
