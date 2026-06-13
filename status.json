@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781356219,
+  "cached_at": 1781356280,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-13T09:01:17.000Z",
       "start_scheduled": "2026-06-13T09:00:00.000Z",
       "start_actual": "2026-06-13T09:01:17.000Z",
-      "live_viewers": 3948,
+      "live_viewers": 3501,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-13T10:00:14.000Z",
       "start_scheduled": "2026-06-13T10:00:00.000Z",
       "start_actual": "2026-06-13T10:00:14.000Z",
-      "live_viewers": 6968,
+      "live_viewers": 6802,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-13T10:00:39.000Z",
       "start_scheduled": "2026-06-13T10:00:00.000Z",
       "start_actual": "2026-06-13T10:00:39.000Z",
-      "live_viewers": 11959,
+      "live_viewers": 12378,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-13T11:27:06.000Z",
       "start_scheduled": "2026-06-13T11:30:00.000Z",
       "start_actual": "2026-06-13T11:27:06.000Z",
-      "live_viewers": 22793,
+      "live_viewers": 22745,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -210,7 +210,7 @@
       "available_at": "2026-06-13T12:01:49.000Z",
       "start_scheduled": "2026-06-13T12:00:00.000Z",
       "start_actual": "2026-06-13T12:01:49.000Z",
-      "live_viewers": 59832,
+      "live_viewers": 52648,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -238,25 +238,6 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC3OH5FKQ3qtl4uRme_vZTgA": {
-      "video_id": "feguSTNzMiQ",
-      "title": "【わかりて選手権】出会って1ヶ月の絆を確認！【 #UNIT_B / #全員集合】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "none",
-      "published_at": "2026-06-13T09:53:54.000Z",
-      "available_at": "2026-06-13T13:00:00.000Z",
-      "start_scheduled": "2026-06-13T13:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
-        "name": "UNIT B (Pre-Debut) - mekPark",
-        "english_name": "UNIT B [Pre-Debut]",
-        "org": "Hololive",
-        "suborg": "v_mekPark",
-        "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCwL7dgTxKo8Y4RFIKWaf8gA": {
@@ -288,7 +269,7 @@
       "available_at": "2026-06-13T13:00:46.000Z",
       "start_scheduled": "2026-06-13T13:00:00.000Z",
       "start_actual": "2026-06-13T13:00:46.000Z",
-      "live_viewers": 768,
+      "live_viewers": 786,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -308,7 +289,7 @@
       "available_at": "2026-06-13T13:01:03.000Z",
       "start_scheduled": "2026-06-13T13:00:00.000Z",
       "start_actual": "2026-06-13T13:01:03.000Z",
-      "live_viewers": 1311,
+      "live_viewers": 1365,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -328,7 +309,7 @@
       "available_at": "2026-06-13T13:01:46.000Z",
       "start_scheduled": "2026-06-13T13:00:00.000Z",
       "start_actual": "2026-06-13T13:01:46.000Z",
-      "live_viewers": 2106,
+      "live_viewers": 2310,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -348,7 +329,7 @@
       "available_at": "2026-06-13T13:03:55.000Z",
       "start_scheduled": "2026-06-13T13:00:00.000Z",
       "start_actual": "2026-06-13T13:03:55.000Z",
-      "live_viewers": 845,
+      "live_viewers": 982,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -368,7 +349,7 @@
       "available_at": "2026-06-13T13:04:03.000Z",
       "start_scheduled": "2026-06-13T13:00:00.000Z",
       "start_actual": "2026-06-13T13:04:03.000Z",
-      "live_viewers": 945,
+      "live_viewers": 1020,
       "channel": {
         "id": "UCvInZx9h3jC2JzsIzoOebWg",
         "name": "Flare Ch. 不知火フレア",
@@ -376,6 +357,26 @@
         "org": "Hololive",
         "suborg": "ea3rd Generation (Fantasy)",
         "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC3OH5FKQ3qtl4uRme_vZTgA": {
+      "video_id": "feguSTNzMiQ",
+      "title": "【わかりて選手権】出会って1ヶ月の絆を確認!【 #UNIT_B / #全員集合】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-13T09:53:54.000Z",
+      "available_at": "2026-06-13T13:06:22.000Z",
+      "start_scheduled": "2026-06-13T13:00:00.000Z",
+      "start_actual": "2026-06-13T13:06:22.000Z",
+      "live_viewers": 1841,
+      "channel": {
+        "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
+        "name": "UNIT B (Pre-Debut) - mekPark",
+        "english_name": "UNIT B [Pre-Debut]",
+        "org": "Hololive",
+        "suborg": "v_mekPark",
+        "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
