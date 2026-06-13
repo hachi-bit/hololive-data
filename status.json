@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781368759,
+  "cached_at": 1781368819,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-13T10:00:39.000Z",
       "start_scheduled": "2026-06-13T10:00:00.000Z",
       "start_actual": "2026-06-13T10:00:39.000Z",
-      "live_viewers": 10481,
+      "live_viewers": 10368,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -38,26 +38,6 @@
         "org": "Hololive",
         "suborg": "gm6th Generation -holoX-",
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCjLEmnpCNeisMxy134KPwWw": {
-      "video_id": "uFlKJNz6dbY",
-      "title": "【FREE TALK】HIIII CATCHC UP CATCH UP!!!",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-11T11:31:37.000Z",
-      "available_at": "2026-06-13T13:00:46.000Z",
-      "start_scheduled": "2026-06-13T13:00:00.000Z",
-      "start_actual": "2026-06-13T13:00:46.000Z",
-      "live_viewers": 810,
-      "channel": {
-        "id": "UCjLEmnpCNeisMxy134KPwWw",
-        "name": "Kobo Kanaeru Ch. hololive-ID",
-        "english_name": "Kobo Kanaeru",
-        "org": "Hololive",
-        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-        "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC9LSiN9hXI55svYEBrrK-tw": {
@@ -70,7 +50,7 @@
       "available_at": "2026-06-13T13:01:03.000Z",
       "start_scheduled": "2026-06-13T13:00:00.000Z",
       "start_actual": "2026-06-13T13:01:03.000Z",
-      "live_viewers": 2880,
+      "live_viewers": 2862,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
