@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781340619,
+  "cached_at": 1781340679,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "14VcJvHC6Mw",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-13T07:53:45.000Z",
       "start_scheduled": "2026-06-13T07:50:00.000Z",
       "start_actual": "2026-06-13T07:53:45.000Z",
-      "live_viewers": 340,
+      "live_viewers": 322,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-13T07:58:22.000Z",
       "start_scheduled": "2026-06-13T08:00:00.000Z",
       "start_actual": "2026-06-13T07:58:22.000Z",
-      "live_viewers": 5283,
+      "live_viewers": 5457,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -138,6 +138,26 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7-N7MvN5muVIHqyQx9LFbA": {
+      "video_id": "AZwO7N1sE20",
+      "title": "【雀魂】#漢義リーグ 第3節",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mahjong",
+      "published_at": "2026-06-12T16:16:41.000Z",
+      "available_at": "2026-06-13T08:47:23.000Z",
+      "start_scheduled": "2026-06-13T09:00:00.000Z",
+      "start_actual": "2026-06-13T08:47:23.000Z",
+      "live_viewers": 673,
+      "channel": {
+        "id": "UC7-N7MvN5muVIHqyQx9LFbA",
+        "name": "メイカちゃんねる",
+        "english_name": "Utai Meika",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mq4PLSnpYy83ZUfXHKZVIVXsU8VnFE5xpzLcVXrmImnAg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
