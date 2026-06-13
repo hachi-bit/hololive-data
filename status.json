@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781341399,
+  "cached_at": 1781341459,
   "lives": {
     "UC060r4zABV18vcahAWR1n7w": {
       "video_id": "14VcJvHC6Mw",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-13T02:11:33.000Z",
       "start_scheduled": "2026-06-13T02:00:00.000Z",
       "start_actual": "2026-06-13T02:11:33.000Z",
-      "live_viewers": 515,
+      "live_viewers": 496,
       "channel": {
         "id": "UC060r4zABV18vcahAWR1n7w",
         "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-13T07:01:23.000Z",
       "start_scheduled": "2026-06-13T07:00:00.000Z",
       "start_actual": "2026-06-13T07:01:23.000Z",
-      "live_viewers": 6652,
+      "live_viewers": 6555,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-13T07:58:22.000Z",
       "start_scheduled": "2026-06-13T08:00:00.000Z",
       "start_actual": "2026-06-13T07:58:22.000Z",
-      "live_viewers": 5697,
+      "live_viewers": 5770,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-13T08:47:23.000Z",
       "start_scheduled": "2026-06-13T09:00:00.000Z",
       "start_actual": "2026-06-13T08:47:23.000Z",
-      "live_viewers": 2090,
+      "live_viewers": 3974,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-13T08:58:07.000Z",
       "start_scheduled": "2026-06-13T09:00:00.000Z",
       "start_actual": "2026-06-13T08:58:07.000Z",
-      "live_viewers": 180,
+      "live_viewers": 379,
       "channel": {
         "id": "UCwXfrtn26oj7JW9fwB_z1bw",
         "name": "咲乃もこ【SakinoMoco】",
@@ -158,6 +158,123 @@
         "org": "Independents",
         "suborg": "ZZ",
         "photo": "https://yt3.ggpht.com/PU1Ptl5GyhcWRD3deTCx5XpQBFoMZdLa808TYJG1yIkVLjNq0kCdiGEe11W92RsjGouaQi5u-Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCc88OV45ICgHbn3ZqLLb52w": {
+      "video_id": "Jvw_DgZNBr4",
+      "title": "Pratfall|3人の地下労働行きが決定しました - 夜十神封魔 × 羽継烏有 × 水無世燐央",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pratfall",
+      "published_at": "2026-06-13T02:36:31.000Z",
+      "available_at": "2026-06-13T09:00:00.000Z",
+      "start_scheduled": "2026-06-13T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCc88OV45ICgHbn3ZqLLb52w",
+        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+        "english_name": "Yatogami Fuma",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/wHtqHQ5LdCv_PnI-EeHUoedJgOe-fQcv9Fhkb7cod7oTo-f3rKJBJA0xSsVS4BhO9HnShdrnBA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdfMHxjcCc2HSd9qFvfJgjg": {
+      "video_id": "YmCDbY5EvTY",
+      "title": "【 Pratfall |  #放課後アップロー 】わんわん救助隊ぷっろー出動!【 水無世燐央 | UPROAR!! 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pratfall",
+      "published_at": "2026-06-13T04:53:32.000Z",
+      "available_at": "2026-06-13T09:00:00.000Z",
+      "start_scheduled": "2026-06-13T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+        "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+        "english_name": "Minase Rio",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCgRqGV1gBf2Esxh0Tz1vxzw": {
+      "video_id": "QH3Ezu25y2s",
+      "title": "迷子になった犬を探すゲームです!!【 Pratfall / 放課後アップロー / ホロスターズ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Pratfall",
+      "published_at": "2026-06-13T05:15:08.000Z",
+      "available_at": "2026-06-13T09:00:00.000Z",
+      "start_scheduled": "2026-06-13T09:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
+        "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
+        "english_name": "Utsugi Uyu",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC22BVlBsZc6ta3Dqz75NU6Q": {
+      "video_id": "K4XHAwlscd8",
+      "title": "LEVEL5 -judgelight- /covered by  飯田ぽち。&Pavolia Reine【歌ってみた】【#飯田ぽち生誕ライブ2026 高画質版】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Music_Cover",
+      "published_at": "2026-06-13T09:00:06.000Z",
+      "available_at": "2026-06-13T09:00:06.000Z",
+      "start_scheduled": "2026-06-13T09:00:00.000Z",
+      "start_actual": "2026-06-13T09:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC22BVlBsZc6ta3Dqz75NU6Q",
+        "name": "飯田ぽち。【Iida Pochi.】",
+        "english_name": "Iida Pochi",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/iWFFbPPyYnEqGJ3CkMsYgTkO4Nyu3ZxOLWalrVf5uIw78i-nv3X8nesL-eBmR5L_QJ7VuteN=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC_82HBGtvwN1hcGeOGHzUBQ": {
+      "video_id": "8FzMIoknJX0",
+      "title": "【#漢義リーグ ¦ 第3節】勝利!ポイント!いっぱい!ほしい!【にじさんじ/空星きらめ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mahjong",
+      "published_at": "2026-06-13T08:16:02.000Z",
+      "available_at": "2026-06-13T09:00:23.000Z",
+      "start_scheduled": "2026-06-13T09:00:00.000Z",
+      "start_actual": "2026-06-13T09:00:23.000Z",
+      "live_viewers": 139,
+      "channel": {
+        "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
+        "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
+        "english_name": "Sorahoshi Kirame",
+        "org": "Nijisanji",
+        "suborg": "1cKiramero",
+        "photo": "https://yt3.ggpht.com/0hwFUTExbP8nb6TT5iRURYq3WJTlotAdcbRohnVGh4ppEnZjKR0l4Qt4oz0KWrOXF0y-ye6LFQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCFTLzh12_nrtzqBPsTCqenA": {
+      "video_id": "882wf7kV8sA",
+      "title": "【 #漢義リーグ 】第3節!ツモ神様ぁああ!応援は #秋麗宝燈 で!w.咲乃もこ/空星きらめ/ロボ子さん【ホロライブ/アキロゼ 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mahjong",
+      "published_at": "2026-06-13T08:37:30.000Z",
+      "available_at": "2026-06-13T09:01:17.000Z",
+      "start_scheduled": "2026-06-13T09:00:00.000Z",
+      "start_actual": "2026-06-13T09:01:17.000Z",
+      "live_viewers": 619,
+      "channel": {
+        "id": "UCFTLzh12_nrtzqBPsTCqenA",
+        "name": "アキロゼCh。Vtuber/ホロライブ所属",
+        "english_name": "Aki Rosenthal",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
