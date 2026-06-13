@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781320999,
+  "cached_at": 1781321059,
   "lives": {
     "UCYz_5n-uDuChHtLo7My1HnQ": {
       "video_id": "p4voLD30Qx4",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-13T00:58:15.000Z",
       "start_scheduled": "2026-06-13T01:00:00.000Z",
       "start_actual": "2026-06-13T00:58:15.000Z",
-      "live_viewers": 1569,
+      "live_viewers": 1563,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -111,7 +111,7 @@
       "available_at": "2026-06-13T02:01:34.000Z",
       "start_scheduled": "2026-06-13T02:00:00.000Z",
       "start_actual": "2026-06-13T02:01:34.000Z",
-      "live_viewers": 1218,
+      "live_viewers": 1258,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -151,7 +151,7 @@
       "available_at": "2026-06-13T03:00:09.000Z",
       "start_scheduled": "2026-06-13T03:00:00.000Z",
       "start_actual": "2026-06-13T03:00:09.000Z",
-      "live_viewers": 13052,
+      "live_viewers": 13603,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -171,7 +171,7 @@
       "available_at": "2026-06-13T03:02:51.000Z",
       "start_scheduled": "2026-06-13T03:00:00.000Z",
       "start_actual": "2026-06-13T03:02:51.000Z",
-      "live_viewers": 2026,
+      "live_viewers": 2072,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
