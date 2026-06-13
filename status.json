@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781371219,
+  "cached_at": 1781371279,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-13T14:00:49.000Z",
       "start_scheduled": "2026-06-13T14:00:00.000Z",
       "start_actual": "2026-06-13T14:00:49.000Z",
-      "live_viewers": 4122,
+      "live_viewers": 3480,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-13T14:01:11.000Z",
       "start_scheduled": "2026-06-13T14:00:00.000Z",
       "start_actual": "2026-06-13T14:01:11.000Z",
-      "live_viewers": 944,
+      "live_viewers": 915,
       "channel": {
         "id": "UChLfthKoUV502J7gU9STArg",
         "name": "渋谷ハル",
@@ -138,26 +138,6 @@
         "org": "Neo-Porte",
         "suborg": "0a0th Generation",
         "photo": "https://yt3.ggpht.com/TdoTY1zdj6MkO4hJEgdjAs3CLqjDFQsWylCeslTVTgUbNO8Zj4METNPE3AJLAxtQZ2XSC7Sq=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCl69AEx4MdqMZH7Jtsm7Tig": {
-      "video_id": "-nzHuD40i60",
-      "title": "【Baldi's Basics Classic】 I can only count to four is it ok???​",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Baldi's_Basics",
-      "published_at": "2026-06-13T06:33:09.000Z",
-      "available_at": "2026-06-13T14:02:57.000Z",
-      "start_scheduled": "2026-06-13T14:00:00.000Z",
-      "start_actual": "2026-06-13T14:02:57.000Z",
-      "live_viewers": 3550,
-      "channel": {
-        "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
-        "name": "Raora Panthera Ch. hololive-EN",
-        "english_name": "Raora Panthera",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCD5W21JqNMv_tV9nfjvF9sw": {
@@ -190,7 +170,7 @@
       "available_at": "2026-06-13T15:18:49.000Z",
       "start_scheduled": "2026-06-13T15:20:00.000Z",
       "start_actual": "2026-06-13T15:18:49.000Z",
-      "live_viewers": 3454,
+      "live_viewers": 4936,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
