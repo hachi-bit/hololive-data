@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781349199,
+  "cached_at": 1781349259,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -20,26 +20,6 @@
         "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCWQtYtq9EOB4-I5P-3fh8lA": {
-      "video_id": "zUJHhzPV9HE",
-      "title": "【 Handstand Hank 】逆立ちして頂上まで登っていくムキムキおじさんゲーム【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Handstand_Hank",
-      "published_at": "2026-06-13T06:26:35.000Z",
-      "available_at": "2026-06-13T07:01:23.000Z",
-      "start_scheduled": "2026-06-13T07:00:00.000Z",
-      "start_actual": "2026-06-13T07:01:23.000Z",
-      "live_viewers": 4374,
-      "channel": {
-        "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-        "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-        "english_name": "Otonose Kanade",
-        "org": "Hololive",
-        "suborg": "taDEV_IS ReGLOSS",
-        "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCa9Y57gfeY0Zro_noHRVrnw": {
       "video_id": "DSFjlbOv3jM",
       "title": "【 ゼノブレイド2 】初見プレイ!初めての「Xenoblade 2」に挑戦するのら!!!#02【姫森ルーナ/ホロライブ】",
@@ -50,7 +30,7 @@
       "available_at": "2026-06-13T07:58:22.000Z",
       "start_scheduled": "2026-06-13T08:00:00.000Z",
       "start_actual": "2026-06-13T07:58:22.000Z",
-      "live_viewers": 5475,
+      "live_viewers": 5218,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -70,7 +50,7 @@
       "available_at": "2026-06-13T08:47:23.000Z",
       "start_scheduled": "2026-06-13T09:00:00.000Z",
       "start_actual": "2026-06-13T08:47:23.000Z",
-      "live_viewers": 12503,
+      "live_viewers": 12660,
       "channel": {
         "id": "UC7-N7MvN5muVIHqyQx9LFbA",
         "name": "メイカちゃんねる",
@@ -170,7 +150,7 @@
       "available_at": "2026-06-13T09:02:57.000Z",
       "start_scheduled": "2026-06-13T09:00:00.000Z",
       "start_actual": "2026-06-13T09:02:57.000Z",
-      "live_viewers": 639,
+      "live_viewers": 575,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -290,7 +270,7 @@
       "available_at": "2026-06-13T10:01:57.000Z",
       "start_scheduled": "2026-06-13T10:00:00.000Z",
       "start_actual": "2026-06-13T10:01:57.000Z",
-      "live_viewers": 12238,
+      "live_viewers": 11990,
       "channel": {
         "id": "UC5CwaMl1eIgY8h02uZw7u8A",
         "name": "Suisei Channel",
@@ -310,7 +290,7 @@
       "available_at": "2026-06-13T10:59:11.000Z",
       "start_scheduled": "2026-06-13T11:00:00.000Z",
       "start_actual": "2026-06-13T10:59:11.000Z",
-      "live_viewers": 12867,
+      "live_viewers": 13534,
       "channel": {
         "id": "UCu2n3qHuOuQIygREMnWeQWg",
         "name": "hololive DEV_IS FLOW GLOW",
@@ -329,7 +309,7 @@
       "available_at": "2026-06-13T10:59:44.000Z",
       "start_scheduled": "2026-06-13T11:00:00.000Z",
       "start_actual": "2026-06-13T10:59:44.000Z",
-      "live_viewers": 9705,
+      "live_viewers": 10602,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -349,7 +329,7 @@
       "available_at": "2026-06-13T11:00:48.000Z",
       "start_scheduled": "2026-06-13T11:00:00.000Z",
       "start_actual": "2026-06-13T11:00:48.000Z",
-      "live_viewers": 2584,
+      "live_viewers": 2803,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
