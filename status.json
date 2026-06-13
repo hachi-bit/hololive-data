@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781312659,
+  "cached_at": 1781312719,
   "lives": {
     "UC_sFNM0z0MWm9A6WlKPuMMg": {
       "video_id": "3NE9KUMKZH0",
@@ -21,26 +21,6 @@
         "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCuI_opAVX6qbxZY-a-AxFuQ": {
-      "video_id": "kKvSa1yjyOI",
-      "title": "【朝活/ #朝ガオ 】今週も盛沢山だったから話すぞ~!珈琲飲んでいい朝を!【虎金妃笑虎】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "morning",
-      "published_at": "2026-06-12T14:39:26.000Z",
-      "available_at": "2026-06-13T00:01:52.000Z",
-      "start_scheduled": "2026-06-13T00:00:00.000Z",
-      "start_actual": "2026-06-13T00:01:52.000Z",
-      "live_viewers": 5824,
-      "channel": {
-        "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-        "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-        "english_name": "Koganei Niko",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCYz_5n-uDuChHtLo7My1HnQ": {
       "video_id": "p4voLD30Qx4",
       "title": "【PRATFALL】 COLLAB: IT'S GOING DOWN!!  【Kureiji Ollie】",
@@ -51,7 +31,7 @@
       "available_at": "2026-06-13T00:58:15.000Z",
       "start_scheduled": "2026-06-13T01:00:00.000Z",
       "start_actual": "2026-06-13T00:58:15.000Z",
-      "live_viewers": 388,
+      "live_viewers": 637,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -59,25 +39,6 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvzGlP9oQwU--Y0r9id_jnA": {
-      "video_id": "boIfgHnBjAo",
-      "title": "【#生スバル】おはすば!：FREE TALK【ホロライブ/大空スバル】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "morning",
-      "published_at": "2026-06-09T16:10:16.000Z",
-      "available_at": "2026-06-13T01:00:00.000Z",
-      "start_scheduled": "2026-06-13T01:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-        "name": "Subaru Ch. 大空スバル",
-        "english_name": "Oozora Subaru",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC7gxU6NXjKF1LrgOddPzgTw": {
@@ -97,6 +58,26 @@
         "org": "Hololive",
         "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
         "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCvzGlP9oQwU--Y0r9id_jnA": {
+      "video_id": "boIfgHnBjAo",
+      "title": "【#生スバル】おはすば!：FREE TALK【ホロライブ/大空スバル】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "morning",
+      "published_at": "2026-06-09T16:10:16.000Z",
+      "available_at": "2026-06-13T01:02:45.000Z",
+      "start_scheduled": "2026-06-13T01:00:00.000Z",
+      "start_actual": "2026-06-13T01:02:45.000Z",
+      "live_viewers": 4765,
+      "channel": {
+        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+        "name": "Subaru Ch. 大空スバル",
+        "english_name": "Oozora Subaru",
+        "org": "Hololive",
+        "suborg": "d 2nd Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
