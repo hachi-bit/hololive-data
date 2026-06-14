@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781409259,
+  "cached_at": 1781409319,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-13T23:01:32.000Z",
       "start_scheduled": "2026-06-13T23:00:00.000Z",
       "start_actual": "2026-06-13T23:01:32.000Z",
-      "live_viewers": 546,
+      "live_viewers": 543,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -78,25 +78,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC060r4zABV18vcahAWR1n7w": {
-      "video_id": "6Q29JH7KnTM",
-      "title": "This Maid Learns 2 Play Hero Shooter【OVERWATCH】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Overwatch",
-      "published_at": "2026-06-08T16:06:43.000Z",
-      "available_at": "2026-06-14T02:00:00.000Z",
-      "start_scheduled": "2026-06-14T02:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC060r4zABV18vcahAWR1n7w",
-        "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-        "english_name": "Machina X Flayon",
-        "org": "Hololive",
-        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-        "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC6eWCld0KwmyHFbAqK3V-Rw": {
@@ -169,7 +150,7 @@
       "available_at": "2026-06-14T03:05:45.000Z",
       "start_scheduled": "2026-06-14T03:00:00.000Z",
       "start_actual": "2026-06-14T03:05:45.000Z",
-      "live_viewers": 7151,
+      "live_viewers": 7575,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
