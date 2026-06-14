@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781438119,
+  "cached_at": 1781438179,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-14T07:08:23.000Z",
       "start_scheduled": "2026-06-14T07:00:00.000Z",
       "start_actual": "2026-06-14T07:08:23.000Z",
-      "live_viewers": 517,
+      "live_viewers": 536,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -38,6 +38,26 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7-N7MvN5muVIHqyQx9LFbA": {
+      "video_id": "jIvyMnJvKDM",
+      "title": "【シヴィライゼーション7】欲しい=正義だ!科学で世界を変える【歌衣メイカ・奏手イヅル・AlphaAzur・Day1・乾伸一郎・kinako】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Civilization",
+      "published_at": "2026-06-14T07:15:39.000Z",
+      "available_at": "2026-06-14T07:45:04.000Z",
+      "start_scheduled": "2026-06-14T07:30:00.000Z",
+      "start_actual": "2026-06-14T07:45:04.000Z",
+      "live_viewers": 515,
+      "channel": {
+        "id": "UC7-N7MvN5muVIHqyQx9LFbA",
+        "name": "メイカちゃんねる",
+        "english_name": "Utai Meika",
+        "org": "Independents",
+        "suborg": "ZZ",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mq4PLSnpYy83ZUfXHKZVIVXsU8VnFE5xpzLcVXrmImnAg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCa9Y57gfeY0Zro_noHRVrnw": {
@@ -50,7 +70,7 @@
       "available_at": "2026-06-14T07:59:53.000Z",
       "start_scheduled": "2026-06-14T08:00:00.000Z",
       "start_actual": "2026-06-14T07:59:53.000Z",
-      "live_viewers": 4898,
+      "live_viewers": 4978,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -90,7 +110,7 @@
       "available_at": "2026-06-14T10:57:09.000Z",
       "start_scheduled": "2026-06-14T11:00:00.000Z",
       "start_actual": "2026-06-14T10:57:09.000Z",
-      "live_viewers": 124084,
+      "live_viewers": 124019,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -110,7 +130,7 @@
       "available_at": "2026-06-14T11:01:11.000Z",
       "start_scheduled": "2026-06-14T11:00:00.000Z",
       "start_actual": "2026-06-14T11:01:11.000Z",
-      "live_viewers": 3523,
+      "live_viewers": 3796,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
