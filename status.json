@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781425999,
+  "cached_at": 1781426059,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-14T03:05:45.000Z",
       "start_scheduled": "2026-06-14T03:00:00.000Z",
       "start_actual": "2026-06-14T03:05:45.000Z",
-      "live_viewers": 8037,
+      "live_viewers": 7956,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -78,26 +78,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvzGlP9oQwU--Y0r9id_jnA": {
-      "video_id": "Ec-8stokC_I",
-      "title": "【#生スバル】逆転裁判3やるしゅばああああああああああ!!!!!：Phoenix Wright: Ace Attorney - Trials and Tribulations【ネタバレあり】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Ace_Attorney",
-      "published_at": "2026-06-13T07:44:04.000Z",
-      "available_at": "2026-06-14T04:01:19.000Z",
-      "start_scheduled": "2026-06-14T04:00:00.000Z",
-      "start_actual": "2026-06-14T04:01:19.000Z",
-      "live_viewers": 18247,
-      "channel": {
-        "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-        "name": "Subaru Ch. 大空スバル",
-        "english_name": "Oozora Subaru",
-        "org": "Hololive",
-        "suborg": "d 2nd Generation",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UC1uv2Oq6kNxgATlCiez59hw": {
@@ -110,7 +90,7 @@
       "available_at": "2026-06-14T04:56:41.000Z",
       "start_scheduled": "2026-06-14T05:00:00.000Z",
       "start_actual": "2026-06-14T04:56:41.000Z",
-      "live_viewers": 3604,
+      "live_viewers": 3265,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -210,7 +190,7 @@
       "available_at": "2026-06-14T07:59:53.000Z",
       "start_scheduled": "2026-06-14T08:00:00.000Z",
       "start_actual": "2026-06-14T07:59:53.000Z",
-      "live_viewers": 3687,
+      "live_viewers": 3671,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -218,6 +198,26 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCMqGG8BRAiI1lJfKOpETM_w": {
+      "video_id": "QSupC5i8VhA",
+      "title": "【Guerilla】sound booth noise check?",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-14T08:28:56.000Z",
+      "available_at": "2026-06-14T08:29:49.000Z",
+      "start_scheduled": "2026-06-14T08:30:00.000Z",
+      "start_actual": "2026-06-14T08:29:49.000Z",
+      "live_viewers": 65,
+      "channel": {
+        "id": "UCMqGG8BRAiI1lJfKOpETM_w",
+        "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
+        "english_name": "Josuiji Shinri",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
