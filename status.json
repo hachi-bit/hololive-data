@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781466499,
+  "cached_at": 1781466560,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-14T18:59:47.000Z",
       "start_scheduled": "2026-06-14T20:00:00.000Z",
       "start_actual": "2026-06-14T18:59:47.000Z",
-      "live_viewers": 668,
+      "live_viewers": 667,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-14T19:15:54.000Z",
       "start_scheduled": "2026-06-14T19:00:00.000Z",
       "start_actual": "2026-06-14T19:15:54.000Z",
-      "live_viewers": 5840,
+      "live_viewers": 5839,
       "channel": {
         "id": "UCW5uhrG1eCBYditmhL0Ykjw",
         "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -102,14 +102,15 @@
     },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "CrtF3r-T000",
-      "title": "【同時視聴】ワールドカップ開幕！サッカー日本代表 vs オランダ戦 みんなで応援！！ぺこ！【ホロライブ/兎田ぺこら】",
+      "title": "【同時視聴】ワールドカップ開幕!サッカー日本代表 vs オランダ戦 みんなで応援!!ぺこ!【ホロライブ/兎田ぺこら】",
       "type": "stream",
       "status": "live",
       "topic_id": "watchalong",
       "published_at": "2026-06-14T03:46:03.000Z",
-      "available_at": "2026-06-14T19:45:00.000Z",
+      "available_at": "2026-06-14T19:45:26.000Z",
       "start_scheduled": "2026-06-14T19:45:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-14T19:45:26.000Z",
+      "live_viewers": 7295,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -126,9 +127,10 @@
       "status": "live",
       "topic_id": "watchalong",
       "published_at": "2026-06-14T12:59:05.000Z",
-      "available_at": "2026-06-14T19:45:00.000Z",
+      "available_at": "2026-06-14T19:46:05.000Z",
       "start_scheduled": "2026-06-14T19:45:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-14T19:46:05.000Z",
+      "live_viewers": 2218,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
