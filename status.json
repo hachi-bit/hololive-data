@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781395278,
+  "cached_at": 1781395339,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-13T13:37:46.000Z",
       "start_scheduled": "2026-06-13T13:30:00.000Z",
       "start_actual": "2026-06-13T13:37:46.000Z",
-      "live_viewers": 5322,
+      "live_viewers": 5355,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -38,26 +38,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCgnfPPb9JI3e9A4cXHnWbyg": {
-      "video_id": "ElE0EIMyEP8",
-      "title": "Why I Did Nothing Wrong in EN:Reco Season 3 【Members Only】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-13T01:49:12.000Z",
-      "available_at": "2026-06-13T20:55:11.000Z",
-      "start_scheduled": "2026-06-13T21:00:00.000Z",
-      "start_actual": "2026-06-13T20:55:11.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
-        "name": "Shiori Novella Ch. hololive-EN",
-        "english_name": "Shiori Novella",
-        "org": "Hololive",
-        "suborg": "ihEnglish -Advent-",
-        "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCajbFh6e_R8QZdHAMbbi4rQ": {
@@ -70,7 +50,7 @@
       "available_at": "2026-06-13T23:01:32.000Z",
       "start_scheduled": "2026-06-13T23:00:00.000Z",
       "start_actual": "2026-06-13T23:01:32.000Z",
-      "live_viewers": 443,
+      "live_viewers": 446,
       "channel": {
         "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
         "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -78,6 +58,44 @@
         "org": "Hololive",
         "suborg": "oeHOLOSTARS English -ARMIS-",
         "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC7gxU6NXjKF1LrgOddPzgTw": {
+      "video_id": "NEIMR_-mYjc",
+      "title": "【lovebyte.exe】ZETA SABERDRIFTER IS PLAYING WITH HIMSELF, LAWD WHAT A STREAM 🫦✨",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-13T13:44:22.000Z",
+      "available_at": "2026-06-14T00:00:00.000Z",
+      "start_scheduled": "2026-06-14T00:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+        "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+        "english_name": "Banzoin Hakka",
+        "org": "Hololive",
+        "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+        "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCs9_O1tRPMQTHQ-N_L6FU2g": {
+      "video_id": "gN91npViT-k",
+      "title": "【 MOTHER2 】完全初見!砂漠を進んでフォーサイドへ・・・!【鷹嶺ルイ/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "EarthBound",
+      "published_at": "2026-06-13T17:17:12.000Z",
+      "available_at": "2026-06-14T00:00:00.000Z",
+      "start_scheduled": "2026-06-14T00:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "english_name": "Takane Lui",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
