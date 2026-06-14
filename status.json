@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781474838,
+  "cached_at": 1781474899,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-14T19:12:22.000Z",
       "start_scheduled": "2026-06-14T19:00:00.000Z",
       "start_actual": "2026-06-14T19:12:22.000Z",
-      "live_viewers": 4836,
+      "live_viewers": 4538,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-14T19:15:54.000Z",
       "start_scheduled": "2026-06-14T19:00:00.000Z",
       "start_actual": "2026-06-14T19:15:54.000Z",
-      "live_viewers": 6091,
+      "live_viewers": 5455,
       "channel": {
         "id": "UCW5uhrG1eCBYditmhL0Ykjw",
         "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -78,46 +78,6 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC1DCedRgGHBdm81E1llLhOQ": {
-      "video_id": "CrtF3r-T000",
-      "title": "【同時視聴】ワールドカップ開幕！サッカー日本代表 vs オランダ戦 みんなで応援！！ぺこ！【ホロライブ/兎田ぺこら】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-06-14T03:46:03.000Z",
-      "available_at": "2026-06-14T19:45:26.000Z",
-      "start_scheduled": "2026-06-14T19:45:00.000Z",
-      "start_actual": "2026-06-14T19:45:26.000Z",
-      "live_viewers": 22160,
-      "channel": {
-        "id": "UC1DCedRgGHBdm81E1llLhOQ",
-        "name": "Pekora Ch. 兎田ぺこら",
-        "english_name": "Usada Pekora",
-        "org": "Hololive",
-        "suborg": "ea3rd Generation (Fantasy)",
-        "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "XpPcFh5o36I",
-      "title": "【W杯同時視聴】サッカー日本代表VSオランダ!みんなで応援するぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "watchalong",
-      "published_at": "2026-06-14T12:59:05.000Z",
-      "available_at": "2026-06-14T19:46:05.000Z",
-      "start_scheduled": "2026-06-14T19:45:00.000Z",
-      "start_actual": "2026-06-14T19:46:05.000Z",
-      "live_viewers": 9056,
-      "channel": {
-        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "english_name": "Kikirara Vivi",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCAWSyEs_Io8MtpY3m-zqILA": {
@@ -130,7 +90,7 @@
       "available_at": "2026-06-14T21:33:20.000Z",
       "start_scheduled": "2026-06-14T21:30:00.000Z",
       "start_actual": "2026-06-14T21:33:20.000Z",
-      "live_viewers": 6183,
+      "live_viewers": 7651,
       "channel": {
         "id": "UCAWSyEs_Io8MtpY3m-zqILA",
         "name": "Nene Ch.桃鈴ねね",
