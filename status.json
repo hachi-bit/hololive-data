@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781421139,
+  "cached_at": 1781421214,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-14T03:05:45.000Z",
       "start_scheduled": "2026-06-14T03:00:00.000Z",
       "start_actual": "2026-06-14T03:05:45.000Z",
-      "live_viewers": 7216,
+      "live_viewers": 7385,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-14T05:01:51.000Z",
       "start_scheduled": "2026-06-14T05:00:00.000Z",
       "start_actual": "2026-06-14T05:01:51.000Z",
-      "live_viewers": 7324,
+      "live_viewers": 7392,
       "channel": {
         "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
         "name": "Iroha ch. 風真いろは - holoX -",
@@ -190,7 +190,7 @@
       "available_at": "2026-06-14T05:04:01.000Z",
       "start_scheduled": "2026-06-14T05:00:00.000Z",
       "start_actual": "2026-06-14T05:04:01.000Z",
-      "live_viewers": 2350,
+      "live_viewers": 2346,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-14T05:31:37.000Z",
       "start_scheduled": "2026-06-14T05:30:00.000Z",
       "start_actual": "2026-06-14T05:31:37.000Z",
-      "live_viewers": 8447,
+      "live_viewers": 7961,
       "channel": {
         "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
         "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -247,9 +247,10 @@
       "status": "live",
       "topic_id": "Civilization",
       "published_at": "2026-06-14T07:01:06.000Z",
-      "available_at": "2026-06-14T07:00:00.000Z",
+      "available_at": "2026-06-14T07:08:23.000Z",
       "start_scheduled": "2026-06-14T07:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-14T07:08:23.000Z",
+      "live_viewers": 195,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
