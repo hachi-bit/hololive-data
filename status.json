@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781423479,
+  "cached_at": 1781423539,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-14T04:56:41.000Z",
       "start_scheduled": "2026-06-14T05:00:00.000Z",
       "start_actual": "2026-06-14T04:56:41.000Z",
-      "live_viewers": 3916,
+      "live_viewers": 3963,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -138,26 +138,6 @@
         "org": "Hololive",
         "suborg": "naHOLOSTARS UPROAR!!",
         "photo": "https://yt3.ggpht.com/wHtqHQ5LdCv_PnI-EeHUoedJgOe-fQcv9Fhkb7cod7oTo-f3rKJBJA0xSsVS4BhO9HnShdrnBA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC_vMYWcDjmfdpH6r4TTn1MQ": {
-      "video_id": "RMEFmM78oE4",
-      "title": "【雑談】あの急に母きましたが❔みんなとなにするか決めるわ👍【風真いろは/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-14T04:32:52.000Z",
-      "available_at": "2026-06-14T05:01:51.000Z",
-      "start_scheduled": "2026-06-14T05:00:00.000Z",
-      "start_actual": "2026-06-14T05:01:51.000Z",
-      "live_viewers": 7489,
-      "channel": {
-        "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "name": "Iroha ch. 風真いろは - holoX -",
-        "english_name": "Kazama Iroha",
-        "org": "Hololive",
-        "suborg": "gm6th Generation -holoX-",
-        "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCp6993wxpyDPHUpavwDFqgg": {
@@ -190,7 +170,7 @@
       "available_at": "2026-06-14T05:31:02.000Z",
       "start_scheduled": "2026-06-14T05:30:00.000Z",
       "start_actual": "2026-06-14T05:31:02.000Z",
-      "live_viewers": 5680,
+      "live_viewers": 5878,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
