@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781438959,
+  "cached_at": 1781439020,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-14T07:59:53.000Z",
       "start_scheduled": "2026-06-14T08:00:00.000Z",
       "start_actual": "2026-06-14T07:59:53.000Z",
-      "live_viewers": 5126,
+      "live_viewers": 5032,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-14T10:57:09.000Z",
       "start_scheduled": "2026-06-14T11:00:00.000Z",
       "start_actual": "2026-06-14T10:57:09.000Z",
-      "live_viewers": 119282,
+      "live_viewers": 122571,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -140,25 +140,6 @@
         "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCdfMHxjcCc2HSd9qFvfJgjg": {
-      "video_id": "rw7Kddr2CXo",
-      "title": "【 VALORANT |  コラボ 】歌がうますぎる方々に囲まれふるぱ!!【 水無世燐央 | UPROAR!! 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "valorant",
-      "published_at": "2026-06-14T11:45:49.000Z",
-      "available_at": "2026-06-14T12:00:00.000Z",
-      "start_scheduled": "2026-06-14T12:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-        "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-        "english_name": "Minase Rio",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCWQtYtq9EOB4-I5P-3fh8lA": {
       "video_id": "ateuR0yZHLE",
       "title": "【 My Little Puppy 】泣けると噂のゲームをプレイしてみる!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
@@ -169,7 +150,7 @@
       "available_at": "2026-06-14T12:00:11.000Z",
       "start_scheduled": "2026-06-14T12:00:00.000Z",
       "start_actual": "2026-06-14T12:00:11.000Z",
-      "live_viewers": 2035,
+      "live_viewers": 2272,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -189,7 +170,7 @@
       "available_at": "2026-06-14T12:00:18.000Z",
       "start_scheduled": "2026-06-14T12:00:00.000Z",
       "start_actual": "2026-06-14T12:00:18.000Z",
-      "live_viewers": 5663,
+      "live_viewers": 7052,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -209,7 +190,7 @@
       "available_at": "2026-06-14T12:00:30.000Z",
       "start_scheduled": "2026-06-14T12:00:00.000Z",
       "start_actual": "2026-06-14T12:00:30.000Z",
-      "live_viewers": 7650,
+      "live_viewers": 9281,
       "channel": {
         "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
         "name": "Okayu Ch. 猫又おかゆ",
@@ -229,7 +210,7 @@
       "available_at": "2026-06-14T12:01:43.000Z",
       "start_scheduled": "2026-06-14T12:00:00.000Z",
       "start_actual": "2026-06-14T12:01:43.000Z",
-      "live_viewers": 591,
+      "live_viewers": 613,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -237,6 +218,26 @@
         "org": "Hololive",
         "suborg": "maHOLOSTARS 1st Gen",
         "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdfMHxjcCc2HSd9qFvfJgjg": {
+      "video_id": "rw7Kddr2CXo",
+      "title": "【 VALORANT |  コラボ 】歌がうますぎる方々に囲まれふるぱ!!【 水無世燐央 | UPROAR!! 】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "valorant",
+      "published_at": "2026-06-14T11:45:49.000Z",
+      "available_at": "2026-06-14T12:07:09.000Z",
+      "start_scheduled": "2026-06-14T12:00:00.000Z",
+      "start_actual": "2026-06-14T12:07:09.000Z",
+      "live_viewers": 162,
+      "channel": {
+        "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+        "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+        "english_name": "Minase Rio",
+        "org": "Hololive",
+        "suborg": "naHOLOSTARS UPROAR!!",
+        "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
