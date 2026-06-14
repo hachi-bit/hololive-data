@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781454859,
+  "cached_at": 1781454919,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-14T07:59:53.000Z",
       "start_scheduled": "2026-06-14T08:00:00.000Z",
       "start_actual": "2026-06-14T07:59:53.000Z",
-      "live_viewers": 3418,
+      "live_viewers": 3453,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -78,26 +78,6 @@
         "org": "Hololive",
         "suborg": "taDEV_IS ReGLOSS",
         "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCdfMHxjcCc2HSd9qFvfJgjg": {
-      "video_id": "rw7Kddr2CXo",
-      "title": "【 VALORANT |  コラボ 】歌がうますぎる方々に囲まれふるぱ!!【 水無世燐央 | UPROAR!! 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "valorant",
-      "published_at": "2026-06-14T11:45:49.000Z",
-      "available_at": "2026-06-14T12:07:09.000Z",
-      "start_scheduled": "2026-06-14T12:00:00.000Z",
-      "start_actual": "2026-06-14T12:07:09.000Z",
-      "live_viewers": 284,
-      "channel": {
-        "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-        "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-        "english_name": "Minase Rio",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCvInZx9h3jC2JzsIzoOebWg": {
@@ -150,7 +130,7 @@
       "available_at": "2026-06-14T13:02:05.000Z",
       "start_scheduled": "2026-06-14T13:00:00.000Z",
       "start_actual": "2026-06-14T13:02:05.000Z",
-      "live_viewers": 5320,
+      "live_viewers": 5300,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -190,7 +170,7 @@
       "available_at": "2026-06-14T14:05:21.000Z",
       "start_scheduled": "2026-06-14T14:00:00.000Z",
       "start_actual": "2026-06-14T14:05:21.000Z",
-      "live_viewers": 4676,
+      "live_viewers": 4655,
       "channel": {
         "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
         "name": "Raora Panthera Ch. hololive-EN",
