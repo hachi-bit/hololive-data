@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781440759,
+  "cached_at": 1781440819,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -82,7 +82,7 @@
     },
     "UC1DCedRgGHBdm81E1llLhOQ": {
       "video_id": "HViPZmjIa14",
-      "title": "【3D】＃ホロライブ歌うま大賞【生放送】",
+      "title": "【3D】#ホロライブ歌うま大賞【生放送】",
       "type": "stream",
       "status": "live",
       "topic_id": "3D_Stream",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-14T10:57:09.000Z",
       "start_scheduled": "2026-06-14T11:00:00.000Z",
       "start_actual": "2026-06-14T10:57:09.000Z",
-      "live_viewers": 123485,
+      "live_viewers": 123484,
       "channel": {
         "id": "UC1DCedRgGHBdm81E1llLhOQ",
         "name": "Pekora Ch. 兎田ぺこら",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-14T11:01:31.000Z",
       "start_scheduled": "2026-06-14T11:00:00.000Z",
       "start_actual": "2026-06-14T11:01:31.000Z",
-      "live_viewers": 10460,
+      "live_viewers": 10235,
       "channel": {
         "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
         "name": "Koyori ch. 博衣こより - holoX -",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-14T12:00:11.000Z",
       "start_scheduled": "2026-06-14T12:00:00.000Z",
       "start_actual": "2026-06-14T12:00:11.000Z",
-      "live_viewers": 2938,
+      "live_viewers": 2946,
       "channel": {
         "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
         "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-14T12:00:18.000Z",
       "start_scheduled": "2026-06-14T12:00:00.000Z",
       "start_actual": "2026-06-14T12:00:18.000Z",
-      "live_viewers": 10814,
+      "live_viewers": 11115,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -210,7 +210,7 @@
       "available_at": "2026-06-14T12:01:43.000Z",
       "start_scheduled": "2026-06-14T12:00:00.000Z",
       "start_actual": "2026-06-14T12:01:43.000Z",
-      "live_viewers": 641,
+      "live_viewers": 649,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-14T12:07:09.000Z",
       "start_scheduled": "2026-06-14T12:00:00.000Z",
       "start_actual": "2026-06-14T12:07:09.000Z",
-      "live_viewers": 290,
+      "live_viewers": 282,
       "channel": {
         "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
         "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
