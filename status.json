@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781464819,
+  "cached_at": 1781464879,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-14T18:59:47.000Z",
       "start_scheduled": "2026-06-14T20:00:00.000Z",
       "start_actual": "2026-06-14T18:59:47.000Z",
-      "live_viewers": 327,
+      "live_viewers": 363,
       "channel": {
         "id": "UCjLEmnpCNeisMxy134KPwWw",
         "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -78,25 +78,6 @@
         "org": "Hololive",
         "suborg": "keIndonesia 3rd Gen (holoh3ro)",
         "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCW5uhrG1eCBYditmhL0Ykjw": {
-      "video_id": "cRRFdgxCOgg",
-      "title": "My first day as a sprout 🌱【FINAL FANTASY XIV Online】#ad 💄👧",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Final_Fantasy_Online",
-      "published_at": "2026-06-13T22:07:03.000Z",
-      "available_at": "2026-06-14T19:00:00.000Z",
-      "start_scheduled": "2026-06-14T19:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-        "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-        "english_name": "Elizabeth Rose Bloodflame",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCDHABijvPBnJm7F-KlNME3w": {
@@ -109,7 +90,7 @@
       "available_at": "2026-06-14T19:12:22.000Z",
       "start_scheduled": "2026-06-14T19:00:00.000Z",
       "start_actual": "2026-06-14T19:12:22.000Z",
-      "live_viewers": 4344,
+      "live_viewers": 4815,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
@@ -117,6 +98,26 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCW5uhrG1eCBYditmhL0Ykjw": {
+      "video_id": "cRRFdgxCOgg",
+      "title": "My first day as a sprout 🌱【FINAL FANTASY XIV Online】#ad 💄👧",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Final_Fantasy_Online",
+      "published_at": "2026-06-13T22:07:03.000Z",
+      "available_at": "2026-06-14T19:15:54.000Z",
+      "start_scheduled": "2026-06-14T19:00:00.000Z",
+      "start_actual": "2026-06-14T19:15:54.000Z",
+      "live_viewers": 2999,
+      "channel": {
+        "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+        "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+        "english_name": "Elizabeth Rose Bloodflame",
+        "org": "Hololive",
+        "suborg": "jaEnglish -Justice-",
+        "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
