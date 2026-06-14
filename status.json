@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781426899,
+  "cached_at": 1781426959,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-14T03:05:45.000Z",
       "start_scheduled": "2026-06-14T03:00:00.000Z",
       "start_actual": "2026-06-14T03:05:45.000Z",
-      "live_viewers": 8286,
+      "live_viewers": 8295,
       "channel": {
         "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
         "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-14T04:56:41.000Z",
       "start_scheduled": "2026-06-14T05:00:00.000Z",
       "start_actual": "2026-06-14T04:56:41.000Z",
-      "live_viewers": 3224,
+      "live_viewers": 3278,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -78,26 +78,6 @@
         "org": "Hololive",
         "suborg": "fa4th Generation (holoForce)",
         "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCc88OV45ICgHbn3ZqLLb52w": {
-      "video_id": "IGDuDH3MzII",
-      "title": "スプラトゥーン3|敵陣に住民票を移しました【スパッタリー】 夜十神封魔",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Splatoon",
-      "published_at": "2026-06-13T13:50:39.000Z",
-      "available_at": "2026-06-14T04:58:20.000Z",
-      "start_scheduled": "2026-06-14T05:00:00.000Z",
-      "start_actual": "2026-06-14T04:58:20.000Z",
-      "live_viewers": 356,
-      "channel": {
-        "id": "UCc88OV45ICgHbn3ZqLLb52w",
-        "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-        "english_name": "Yatogami Fuma",
-        "org": "Hololive",
-        "suborg": "naHOLOSTARS UPROAR!!",
-        "photo": "https://yt3.ggpht.com/wHtqHQ5LdCv_PnI-EeHUoedJgOe-fQcv9Fhkb7cod7oTo-f3rKJBJA0xSsVS4BhO9HnShdrnBA=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCdn5BQ06XqgXoAxIhbqw5Rg": {
@@ -130,7 +110,7 @@
       "available_at": "2026-06-14T07:08:23.000Z",
       "start_scheduled": "2026-06-14T07:00:00.000Z",
       "start_actual": "2026-06-14T07:08:23.000Z",
-      "live_viewers": 522,
+      "live_viewers": 537,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -150,7 +130,7 @@
       "available_at": "2026-06-14T07:59:53.000Z",
       "start_scheduled": "2026-06-14T08:00:00.000Z",
       "start_actual": "2026-06-14T07:59:53.000Z",
-      "live_viewers": 4549,
+      "live_viewers": 4613,
       "channel": {
         "id": "UCa9Y57gfeY0Zro_noHRVrnw",
         "name": "Luna Ch. 姫森ルーナ",
@@ -170,7 +150,7 @@
       "available_at": "2026-06-14T08:29:49.000Z",
       "start_scheduled": "2026-06-14T08:30:00.000Z",
       "start_actual": "2026-06-14T08:29:49.000Z",
-      "live_viewers": 192,
+      "live_viewers": 211,
       "channel": {
         "id": "UCMqGG8BRAiI1lJfKOpETM_w",
         "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -190,7 +170,7 @@
       "available_at": "2026-06-14T08:36:42.000Z",
       "start_scheduled": "2026-06-14T08:35:00.000Z",
       "start_actual": "2026-06-14T08:36:42.000Z",
-      "live_viewers": 5230,
+      "live_viewers": 5361,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
