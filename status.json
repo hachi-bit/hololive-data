@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781532139,
+  "cached_at": 1781532199,
   "lives": {
     "UCSFCh5NL4qXrAy9u-u2lX3g": {
       "video_id": "eaNaUiUteAA",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-15T11:01:26.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:26.000Z",
-      "live_viewers": 3733,
+      "live_viewers": 3766,
       "channel": {
         "id": "UChdY64fJb14Nfnbs8EGdQig",
         "name": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
@@ -120,6 +120,26 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k1CPaOgRI2Mu5IEri_BZInMpG8xGyCi-koUo8GUJQ3ibxdodVjGLAG_bd8zdnFKpqUPQ0=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UChLfthKoUV502J7gU9STArg": {
+      "video_id": "b7GQvReH1uE",
+      "title": "【スト6】V最スクリム1日目 VS テンちゃんTeam w/ 天鬼ぷるる 常闇トワ 紫宮るな【STREET FIGHTER6】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-06-15T10:38:42.000Z",
+      "available_at": "2026-06-15T11:01:43.000Z",
+      "start_scheduled": "2026-06-15T11:00:00.000Z",
+      "start_actual": "2026-06-15T11:01:43.000Z",
+      "live_viewers": 1750,
+      "channel": {
+        "id": "UChLfthKoUV502J7gU9STArg",
+        "name": "渋谷ハル",
+        "english_name": "Shibuya HAL",
+        "org": "Neo-Porte",
+        "suborg": "0a0th Generation",
+        "photo": "https://yt3.ggpht.com/TdoTY1zdj6MkO4hJEgdjAs3CLqjDFQsWylCeslTVTgUbNO8Zj4METNPE3AJLAxtQZ2XSC7Sq=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCC7rRD6P7RQcx0hKv9RQP4w": {
       "video_id": "pecWzhhDdYk",
       "title": "【スト6】22時からスクリムDay1 vsチーム1 それまでランクやら【にじさんじ/風楽奏斗】",
@@ -140,26 +160,6 @@
         "photo": "https://yt3.ggpht.com/oZ33Q5iMwNyfcqODF2zw65lDve4sZOK6L0Co0rPUb96qZbyVqPF5a8scUNC7-FIvChDSO1EdUNY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UChLfthKoUV502J7gU9STArg": {
-      "video_id": "b7GQvReH1uE",
-      "title": "【スト6】V最スクリム1日目 VS テンちゃんTeam w/ 天鬼ぷるる 常闇トワ 紫宮るな【STREET FIGHTER6】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-15T10:38:42.000Z",
-      "available_at": "2026-06-15T11:01:43.000Z",
-      "start_scheduled": "2026-06-15T11:00:00.000Z",
-      "start_actual": "2026-06-15T11:01:43.000Z",
-      "live_viewers": 1824,
-      "channel": {
-        "id": "UChLfthKoUV502J7gU9STArg",
-        "name": "渋谷ハル",
-        "english_name": "Shibuya HAL",
-        "org": "Neo-Porte",
-        "suborg": "0a0th Generation",
-        "photo": "https://yt3.ggpht.com/TdoTY1zdj6MkO4hJEgdjAs3CLqjDFQsWylCeslTVTgUbNO8Zj4METNPE3AJLAxtQZ2XSC7Sq=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCFTLzh12_nrtzqBPsTCqenA": {
       "video_id": "ucHTWG8TURQ",
       "title": "【 STREET FIGHTER 6】#花重奏WIN V最スクリム1日目!VSチーム7【アキロゼ/ホロライブ】",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-15T11:02:59.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:02:59.000Z",
-      "live_viewers": 3682,
+      "live_viewers": 3618,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -190,7 +190,7 @@
       "available_at": "2026-06-15T11:46:13.000Z",
       "start_scheduled": "2026-06-15T11:45:00.000Z",
       "start_actual": "2026-06-15T11:46:13.000Z",
-      "live_viewers": 2413,
+      "live_viewers": 2045,
       "channel": {
         "id": "UCoztvTULBYd3WmStqYeoHcA",
         "name": "笹木咲 / Sasaki Saku",
@@ -210,7 +210,7 @@
       "available_at": "2026-06-15T12:00:34.000Z",
       "start_scheduled": "2026-06-15T12:00:00.000Z",
       "start_actual": "2026-06-15T12:00:34.000Z",
-      "live_viewers": 2406,
+      "live_viewers": 2417,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-15T12:01:02.000Z",
       "start_scheduled": "2026-06-15T12:00:00.000Z",
       "start_actual": "2026-06-15T12:01:02.000Z",
-      "live_viewers": 9354,
+      "live_viewers": 9393,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -250,7 +250,7 @@
       "available_at": "2026-06-15T12:58:04.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T12:58:04.000Z",
-      "live_viewers": 5877,
+      "live_viewers": 6292,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -310,7 +310,7 @@
       "available_at": "2026-06-15T13:00:17.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T13:00:17.000Z",
-      "live_viewers": 6595,
+      "live_viewers": 6638,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -430,7 +430,7 @@
       "available_at": "2026-06-15T13:30:20.000Z",
       "start_scheduled": "2026-06-15T13:30:00.000Z",
       "start_actual": "2026-06-15T13:30:20.000Z",
-      "live_viewers": 17411,
+      "live_viewers": 18186,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -450,7 +450,7 @@
       "available_at": "2026-06-15T13:50:33.000Z",
       "start_scheduled": "2026-06-15T13:50:00.000Z",
       "start_actual": "2026-06-15T13:50:33.000Z",
-      "live_viewers": 816,
+      "live_viewers": 944,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -458,6 +458,25 @@
         "org": "Hololive",
         "suborg": "kcIndonesia 2nd Gen (holoro)",
         "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCp6993wxpyDPHUpavwDFqgg": {
+      "video_id": "n9aOSmzAWr0",
+      "title": "【んなたんのピクセルプリンセス 】パズルしながらまったりしよう!!【ホロライブ/ときのそら】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Picross",
+      "published_at": "2026-06-15T13:29:34.000Z",
+      "available_at": "2026-06-15T14:00:00.000Z",
+      "start_scheduled": "2026-06-15T14:00:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCp6993wxpyDPHUpavwDFqgg",
+        "name": "SoraCh. ときのそらチャンネル",
+        "english_name": "Tokino Sora",
+        "org": "Hololive",
+        "suborg": "0v0th Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
