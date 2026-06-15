@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781535079,
+  "cached_at": 1781535139,
   "lives": {
     "UCSFCh5NL4qXrAy9u-u2lX3g": {
       "video_id": "eaNaUiUteAA",
@@ -10,7 +10,7 @@
       "published_at": "2026-06-15T08:55:35.000Z",
       "available_at": "2026-06-15T09:11:09.000Z",
       "start_actual": "2026-06-15T09:11:09.000Z",
-      "live_viewers": 24162,
+      "live_viewers": 23730,
       "channel": {
         "id": "UCSFCh5NL4qXrAy9u-u2lX3g",
         "name": "Kuzuha Channel",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-15T11:01:26.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:26.000Z",
-      "live_viewers": 3415,
+      "live_viewers": 3343,
       "channel": {
         "id": "UChdY64fJb14Nfnbs8EGdQig",
         "name": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-15T11:01:43.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:43.000Z",
-      "live_viewers": 1052,
+      "live_viewers": 992,
       "channel": {
         "id": "UChLfthKoUV502J7gU9STArg",
         "name": "渋谷ハル",
@@ -138,26 +138,6 @@
         "org": "Neo-Porte",
         "suborg": "0a0th Generation",
         "photo": "https://yt3.ggpht.com/TdoTY1zdj6MkO4hJEgdjAs3CLqjDFQsWylCeslTVTgUbNO8Zj4METNPE3AJLAxtQZ2XSC7Sq=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCC7rRD6P7RQcx0hKv9RQP4w": {
-      "video_id": "pecWzhhDdYk",
-      "title": "【スト6】22時からスクリムDay1 vsチーム1 それまでランクやら【にじさんじ/風楽奏斗】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-15T08:41:47.000Z",
-      "available_at": "2026-06-15T11:01:43.000Z",
-      "start_scheduled": "2026-06-15T11:00:00.000Z",
-      "start_actual": "2026-06-15T11:01:43.000Z",
-      "live_viewers": 1924,
-      "channel": {
-        "id": "UCC7rRD6P7RQcx0hKv9RQP4w",
-        "name": "風楽奏斗 / Fura Kanato ",
-        "english_name": "Fura Kanato",
-        "org": "Nijisanji",
-        "suborg": "1mVOLTACTION",
-        "photo": "https://yt3.ggpht.com/oZ33Q5iMwNyfcqODF2zw65lDve4sZOK6L0Co0rPUb96qZbyVqPF5a8scUNC7-FIvChDSO1EdUNY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCFTLzh12_nrtzqBPsTCqenA": {
@@ -170,7 +150,7 @@
       "available_at": "2026-06-15T11:02:59.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:02:59.000Z",
-      "live_viewers": 3015,
+      "live_viewers": 2969,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -190,7 +170,7 @@
       "available_at": "2026-06-15T11:46:13.000Z",
       "start_scheduled": "2026-06-15T11:45:00.000Z",
       "start_actual": "2026-06-15T11:46:13.000Z",
-      "live_viewers": 2268,
+      "live_viewers": 2206,
       "channel": {
         "id": "UCoztvTULBYd3WmStqYeoHcA",
         "name": "笹木咲 / Sasaki Saku",
@@ -210,7 +190,7 @@
       "available_at": "2026-06-15T12:01:02.000Z",
       "start_scheduled": "2026-06-15T12:00:00.000Z",
       "start_actual": "2026-06-15T12:01:02.000Z",
-      "live_viewers": 5517,
+      "live_viewers": 5211,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -270,7 +250,7 @@
       "available_at": "2026-06-15T12:58:43.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T12:58:43.000Z",
-      "live_viewers": 2434,
+      "live_viewers": 2451,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -330,7 +310,7 @@
       "available_at": "2026-06-15T13:03:17.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T13:03:17.000Z",
-      "live_viewers": 778,
+      "live_viewers": 840,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -350,7 +330,7 @@
       "available_at": "2026-06-15T13:22:37.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T13:22:37.000Z",
-      "live_viewers": 15688,
+      "live_viewers": 16311,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -430,7 +410,7 @@
       "available_at": "2026-06-15T14:22:30.000Z",
       "start_scheduled": "2026-06-15T14:20:00.000Z",
       "start_actual": "2026-06-15T14:22:30.000Z",
-      "live_viewers": 3813,
+      "live_viewers": 3851,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -447,9 +427,10 @@
       "status": "live",
       "topic_id": "talk",
       "published_at": "2026-06-15T14:28:04.000Z",
-      "available_at": "2026-06-15T14:45:00.000Z",
+      "available_at": "2026-06-15T14:46:11.000Z",
       "start_scheduled": "2026-06-15T14:45:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-15T14:46:11.000Z",
+      "live_viewers": 465,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
