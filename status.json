@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781537899,
+  "cached_at": 1781537959,
   "lives": {
     "UCSFCh5NL4qXrAy9u-u2lX3g": {
       "video_id": "eaNaUiUteAA",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-15T11:00:09.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:00:09.000Z",
-      "live_viewers": 233,
+      "live_viewers": 260,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-15T12:58:26.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T12:58:26.000Z",
-      "live_viewers": 1334,
+      "live_viewers": 1261,
       "channel": {
         "id": "UCD5W21JqNMv_tV9nfjvF9sw",
         "name": "紫宮るな /shinomiya runa",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-15T13:22:37.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T13:22:37.000Z",
-      "live_viewers": 17120,
+      "live_viewers": 17463,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-15T14:46:11.000Z",
       "start_scheduled": "2026-06-15T14:45:00.000Z",
       "start_actual": "2026-06-15T14:46:11.000Z",
-      "live_viewers": 986,
+      "live_viewers": 1035,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
