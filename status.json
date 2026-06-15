@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781536219,
+  "cached_at": 1781536279,
   "lives": {
     "UCSFCh5NL4qXrAy9u-u2lX3g": {
       "video_id": "eaNaUiUteAA",
@@ -10,7 +10,7 @@
       "published_at": "2026-06-15T08:55:35.000Z",
       "available_at": "2026-06-15T09:11:09.000Z",
       "start_actual": "2026-06-15T09:11:09.000Z",
-      "live_viewers": 22996,
+      "live_viewers": 22284,
       "channel": {
         "id": "UCSFCh5NL4qXrAy9u-u2lX3g",
         "name": "Kuzuha Channel",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-15T11:01:08.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:08.000Z",
-      "live_viewers": 286,
+      "live_viewers": 277,
       "channel": {
         "id": "UCasKmptouCrwWLl8SlQU2tQ",
         "name": "おなつのにびたし / Onatsu no Nibitashi",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-15T11:01:35.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:35.000Z",
-      "live_viewers": 341,
+      "live_viewers": 350,
       "channel": {
         "id": "UCKF9kMEyUzID3-P7GbxmT6w",
         "name": "hm",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-15T11:46:13.000Z",
       "start_scheduled": "2026-06-15T11:45:00.000Z",
       "start_actual": "2026-06-15T11:46:13.000Z",
-      "live_viewers": 2115,
+      "live_viewers": 2037,
       "channel": {
         "id": "UCoztvTULBYd3WmStqYeoHcA",
         "name": "笹木咲 / Sasaki Saku",
@@ -158,26 +158,6 @@
         "org": "Nijisanji",
         "suborg": "06Ex-Gamers",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_ndD74_Ur1076OaSlnIXzWTos2ohDX6Mxr04R2tdK78qA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCUKD-uaobj9jiqB-VXt71mA": {
-      "video_id": "ZipT-k-ZrU8",
-      "title": "【Subnautica 2】未知の深海を調査する!水中サバイバルアドベンチャー / サブノーティカ2【獅白ぼたん/ホロライブ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Subnautica",
-      "published_at": "2026-06-15T01:07:20.000Z",
-      "available_at": "2026-06-15T12:01:02.000Z",
-      "start_scheduled": "2026-06-15T12:00:00.000Z",
-      "start_actual": "2026-06-15T12:01:02.000Z",
-      "live_viewers": 4516,
-      "channel": {
-        "id": "UCUKD-uaobj9jiqB-VXt71mA",
-        "name": "Botan Ch.獅白ぼたん",
-        "english_name": "Shishiro Botan",
-        "org": "Hololive",
-        "suborg": "ga5th Generation (holoFive)",
-        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCD5W21JqNMv_tV9nfjvF9sw": {
@@ -250,7 +230,7 @@
       "available_at": "2026-06-15T13:22:37.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T13:22:37.000Z",
-      "live_viewers": 16228,
+      "live_viewers": 16082,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -330,7 +310,7 @@
       "available_at": "2026-06-15T14:22:30.000Z",
       "start_scheduled": "2026-06-15T14:20:00.000Z",
       "start_actual": "2026-06-15T14:22:30.000Z",
-      "live_viewers": 4511,
+      "live_viewers": 4577,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -350,7 +330,7 @@
       "available_at": "2026-06-15T14:46:11.000Z",
       "start_scheduled": "2026-06-15T14:45:00.000Z",
       "start_actual": "2026-06-15T14:46:11.000Z",
-      "live_viewers": 806,
+      "live_viewers": 825,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
