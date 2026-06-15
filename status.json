@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781524819,
+  "cached_at": 1781524879,
   "lives": {
     "UCSFCh5NL4qXrAy9u-u2lX3g": {
       "video_id": "eaNaUiUteAA",
@@ -10,7 +10,7 @@
       "published_at": "2026-06-15T08:55:35.000Z",
       "available_at": "2026-06-15T09:11:09.000Z",
       "start_actual": "2026-06-15T09:11:09.000Z",
-      "live_viewers": 43973,
+      "live_viewers": 44186,
       "channel": {
         "id": "UCSFCh5NL4qXrAy9u-u2lX3g",
         "name": "Kuzuha Channel",
@@ -18,26 +18,6 @@
         "org": "Nijisanji",
         "suborg": "06Ex-Gamers",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_kOiA-_aFW-Qz7jxl0wCPDRAKIYL7wDIgs9-iKo7NjztcA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCTvHWSfBZgtxE4sILOaurIQ": {
-      "video_id": "evwPO4je0Hk",
-      "title": "【Free Talk】whasssup",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-15T10:19:11.000Z",
-      "available_at": "2026-06-15T10:59:02.000Z",
-      "start_scheduled": "2026-06-15T11:00:00.000Z",
-      "start_actual": "2026-06-15T10:59:02.000Z",
-      "live_viewers": 1832,
-      "channel": {
-        "id": "UCTvHWSfBZgtxE4sILOaurIQ",
-        "name": "Vestia Zeta Ch. hololive-ID",
-        "english_name": "Vestia Zeta",
-        "org": "Hololive",
-        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-        "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCv3EicDtxObcZZmnFcHvNnw": {
@@ -70,7 +50,7 @@
       "available_at": "2026-06-15T11:00:34.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:00:34.000Z",
-      "live_viewers": 108018,
+      "live_viewers": 104053,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -90,7 +70,7 @@
       "available_at": "2026-06-15T11:00:53.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:00:53.000Z",
-      "live_viewers": 857,
+      "live_viewers": 1041,
       "channel": {
         "id": "UCL9hJsdk9eQa0IlWbFB2oRg",
         "name": "蝶屋はなび / Choya Hanabi",
@@ -130,7 +110,7 @@
       "available_at": "2026-06-15T11:01:13.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:13.000Z",
-      "live_viewers": 686,
+      "live_viewers": 543,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -230,7 +210,7 @@
       "available_at": "2026-06-15T11:46:13.000Z",
       "start_scheduled": "2026-06-15T11:45:00.000Z",
       "start_actual": "2026-06-15T11:46:13.000Z",
-      "live_viewers": 2362,
+      "live_viewers": 2644,
       "channel": {
         "id": "UCoztvTULBYd3WmStqYeoHcA",
         "name": "笹木咲 / Sasaki Saku",
@@ -238,6 +218,26 @@
         "org": "Nijisanji",
         "suborg": "06Ex-Gamers",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_ndD74_Ur1076OaSlnIXzWTos2ohDX6Mxr04R2tdK78qA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdn5BQ06XqgXoAxIhbqw5Rg": {
+      "video_id": "QpYSkEMJeTM",
+      "title": "【 #ホロドリゲーム企画 】お姉さんVSお子さま!? #ホロドリ エンジョイゲーム大会!!",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "hololive_Dreams",
+      "published_at": "2026-06-13T05:59:04.000Z",
+      "available_at": "2026-06-15T11:58:09.000Z",
+      "start_scheduled": "2026-06-15T12:00:00.000Z",
+      "start_actual": "2026-06-15T11:58:09.000Z",
+      "live_viewers": 6710,
+      "channel": {
+        "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "name": "フブキCh。白上フブキ",
+        "english_name": "Shirakami Fubuki",
+        "org": "Hololive",
+        "suborg": "c 1st Generation",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
