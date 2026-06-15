@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781533759,
+  "cached_at": 1781533820,
   "lives": {
     "UCSFCh5NL4qXrAy9u-u2lX3g": {
       "video_id": "eaNaUiUteAA",
@@ -10,7 +10,7 @@
       "published_at": "2026-06-15T08:55:35.000Z",
       "available_at": "2026-06-15T09:11:09.000Z",
       "start_actual": "2026-06-15T09:11:09.000Z",
-      "live_viewers": 26405,
+      "live_viewers": 26021,
       "channel": {
         "id": "UCSFCh5NL4qXrAy9u-u2lX3g",
         "name": "Kuzuha Channel",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-15T11:01:08.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:08.000Z",
-      "live_viewers": 279,
+      "live_viewers": 271,
       "channel": {
         "id": "UCasKmptouCrwWLl8SlQU2tQ",
         "name": "おなつのにびたし / Onatsu no Nibitashi",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-15T11:01:13.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:13.000Z",
-      "live_viewers": 586,
+      "live_viewers": 577,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-15T11:01:26.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:26.000Z",
-      "live_viewers": 3959,
+      "live_viewers": 3923,
       "channel": {
         "id": "UChdY64fJb14Nfnbs8EGdQig",
         "name": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-15T11:01:43.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:43.000Z",
-      "live_viewers": 1636,
+      "live_viewers": 1474,
       "channel": {
         "id": "UChLfthKoUV502J7gU9STArg",
         "name": "渋谷ハル",
@@ -310,7 +310,7 @@
       "available_at": "2026-06-15T13:00:24.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T13:00:24.000Z",
-      "live_viewers": 13405,
+      "live_viewers": 13073,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -370,7 +370,7 @@
       "available_at": "2026-06-15T13:03:17.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T13:03:17.000Z",
-      "live_viewers": 753,
+      "live_viewers": 754,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -390,7 +390,7 @@
       "available_at": "2026-06-15T13:22:37.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T13:22:37.000Z",
-      "live_viewers": 15350,
+      "live_viewers": 14623,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -430,7 +430,7 @@
       "available_at": "2026-06-15T13:50:33.000Z",
       "start_scheduled": "2026-06-15T13:50:00.000Z",
       "start_actual": "2026-06-15T13:50:33.000Z",
-      "live_viewers": 2180,
+      "live_viewers": 2173,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -450,7 +450,7 @@
       "available_at": "2026-06-15T14:07:22.000Z",
       "start_scheduled": "2026-06-15T14:00:00.000Z",
       "start_actual": "2026-06-15T14:07:22.000Z",
-      "live_viewers": 3522,
+      "live_viewers": 3710,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -470,7 +470,7 @@
       "available_at": "2026-06-15T14:22:30.000Z",
       "start_scheduled": "2026-06-15T14:20:00.000Z",
       "start_actual": "2026-06-15T14:22:30.000Z",
-      "live_viewers": 1625,
+      "live_viewers": 1951,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
