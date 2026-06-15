@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781529499,
+  "cached_at": 1781529559,
   "lives": {
     "UCSFCh5NL4qXrAy9u-u2lX3g": {
       "video_id": "eaNaUiUteAA",
@@ -10,7 +10,7 @@
       "published_at": "2026-06-15T08:55:35.000Z",
       "available_at": "2026-06-15T09:11:09.000Z",
       "start_actual": "2026-06-15T09:11:09.000Z",
-      "live_viewers": 41580,
+      "live_viewers": 41776,
       "channel": {
         "id": "UCSFCh5NL4qXrAy9u-u2lX3g",
         "name": "Kuzuha Channel",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-15T11:00:09.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:00:09.000Z",
-      "live_viewers": 438,
+      "live_viewers": 492,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-15T11:01:13.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:13.000Z",
-      "live_viewers": 608,
+      "live_viewers": 598,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-15T11:01:35.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:35.000Z",
-      "live_viewers": 366,
+      "live_viewers": 381,
       "channel": {
         "id": "UCKF9kMEyUzID3-P7GbxmT6w",
         "name": "hm",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-15T11:02:59.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:02:59.000Z",
-      "live_viewers": 4924,
+      "live_viewers": 4579,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -190,7 +190,7 @@
       "available_at": "2026-06-15T11:46:13.000Z",
       "start_scheduled": "2026-06-15T11:45:00.000Z",
       "start_actual": "2026-06-15T11:46:13.000Z",
-      "live_viewers": 3710,
+      "live_viewers": 3216,
       "channel": {
         "id": "UCoztvTULBYd3WmStqYeoHcA",
         "name": "笹木咲 / Sasaki Saku",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-15T12:00:34.000Z",
       "start_scheduled": "2026-06-15T12:00:00.000Z",
       "start_actual": "2026-06-15T12:00:34.000Z",
-      "live_viewers": 3145,
+      "live_viewers": 2963,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -250,7 +250,7 @@
       "available_at": "2026-06-15T12:00:35.000Z",
       "start_scheduled": "2026-06-15T12:00:00.000Z",
       "start_actual": "2026-06-15T12:00:35.000Z",
-      "live_viewers": 4117,
+      "live_viewers": 3811,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -290,7 +290,7 @@
       "available_at": "2026-06-15T12:01:02.000Z",
       "start_scheduled": "2026-06-15T12:00:00.000Z",
       "start_actual": "2026-06-15T12:01:02.000Z",
-      "live_viewers": 8904,
+      "live_viewers": 8893,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -310,7 +310,7 @@
       "available_at": "2026-06-15T12:58:04.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T12:58:04.000Z",
-      "live_viewers": 4726,
+      "live_viewers": 5235,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -330,7 +330,7 @@
       "available_at": "2026-06-15T12:58:26.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T12:58:26.000Z",
-      "live_viewers": 2017,
+      "live_viewers": 2474,
       "channel": {
         "id": "UCD5W21JqNMv_tV9nfjvF9sw",
         "name": "紫宮るな /shinomiya runa",
@@ -350,7 +350,7 @@
       "available_at": "2026-06-15T12:58:43.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T12:58:43.000Z",
-      "live_viewers": 2119,
+      "live_viewers": 2230,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -389,7 +389,7 @@
       "available_at": "2026-06-15T13:00:17.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T13:00:17.000Z",
-      "live_viewers": 5075,
+      "live_viewers": 5453,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -409,7 +409,7 @@
       "available_at": "2026-06-15T13:00:24.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T13:00:24.000Z",
-      "live_viewers": 8995,
+      "live_viewers": 10178,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -429,7 +429,7 @@
       "available_at": "2026-06-15T13:01:27.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T13:01:27.000Z",
-      "live_viewers": 1778,
+      "live_viewers": 1889,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -469,7 +469,7 @@
       "available_at": "2026-06-15T13:03:17.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T13:03:17.000Z",
-      "live_viewers": 574,
+      "live_viewers": 624,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -489,7 +489,7 @@
       "available_at": "2026-06-15T13:05:35.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T13:05:35.000Z",
-      "live_viewers": 830,
+      "live_viewers": 904,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
