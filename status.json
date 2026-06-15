@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781535559,
+  "cached_at": 1781535619,
   "lives": {
     "UCSFCh5NL4qXrAy9u-u2lX3g": {
       "video_id": "eaNaUiUteAA",
@@ -10,7 +10,7 @@
       "published_at": "2026-06-15T08:55:35.000Z",
       "available_at": "2026-06-15T09:11:09.000Z",
       "start_actual": "2026-06-15T09:11:09.000Z",
-      "live_viewers": 23551,
+      "live_viewers": 23627,
       "channel": {
         "id": "UCSFCh5NL4qXrAy9u-u2lX3g",
         "name": "Kuzuha Channel",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-15T11:01:08.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:08.000Z",
-      "live_viewers": 283,
+      "live_viewers": 286,
       "channel": {
         "id": "UCasKmptouCrwWLl8SlQU2tQ",
         "name": "おなつのにびたし / Onatsu no Nibitashi",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-15T11:01:26.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:26.000Z",
-      "live_viewers": 3232,
+      "live_viewers": 3100,
       "channel": {
         "id": "UChdY64fJb14Nfnbs8EGdQig",
         "name": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-15T11:01:43.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:43.000Z",
-      "live_viewers": 1012,
+      "live_viewers": 981,
       "channel": {
         "id": "UChLfthKoUV502J7gU9STArg",
         "name": "渋谷ハル",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-15T11:46:13.000Z",
       "start_scheduled": "2026-06-15T11:45:00.000Z",
       "start_actual": "2026-06-15T11:46:13.000Z",
-      "live_viewers": 2122,
+      "live_viewers": 2101,
       "channel": {
         "id": "UCoztvTULBYd3WmStqYeoHcA",
         "name": "笹木咲 / Sasaki Saku",
@@ -210,7 +210,7 @@
       "available_at": "2026-06-15T12:58:26.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T12:58:26.000Z",
-      "live_viewers": 1461,
+      "live_viewers": 1405,
       "channel": {
         "id": "UCD5W21JqNMv_tV9nfjvF9sw",
         "name": "紫宮るな /shinomiya runa",
@@ -218,26 +218,6 @@
         "org": "VSpo",
         "suborg": "SSSolo",
         "photo": "https://yt3.ggpht.com/Rgt9lslf7OZntxcW8A9mMFWDdXTG1IxqCq4tZ14Rd7rB1rm4gxQZPTc5kM9LdGTPmXGWkfyzWw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC3OH5FKQ3qtl4uRme_vZTgA": {
-      "video_id": "HFiKXUUxpAg",
-      "title": "【裏側公開】楽曲の制作過程をお見せします!【 #UNIT_B / #清澄ライラ】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Music_Production",
-      "published_at": "2026-06-15T11:33:58.000Z",
-      "available_at": "2026-06-15T12:58:43.000Z",
-      "start_scheduled": "2026-06-15T13:00:00.000Z",
-      "start_actual": "2026-06-15T12:58:43.000Z",
-      "live_viewers": 2451,
-      "channel": {
-        "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
-        "name": "UNIT B (Pre-Debut) - mekPark",
-        "english_name": "UNIT B [Pre-Debut]",
-        "org": "Hololive",
-        "suborg": "v_mekPark",
-        "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCtyWhCj3AqKh2dXctLkDtng": {
@@ -350,7 +330,7 @@
       "available_at": "2026-06-15T13:50:33.000Z",
       "start_scheduled": "2026-06-15T13:50:00.000Z",
       "start_actual": "2026-06-15T13:50:33.000Z",
-      "live_viewers": 2042,
+      "live_viewers": 1952,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -370,7 +350,7 @@
       "available_at": "2026-06-15T14:07:22.000Z",
       "start_scheduled": "2026-06-15T14:00:00.000Z",
       "start_actual": "2026-06-15T14:07:22.000Z",
-      "live_viewers": 4140,
+      "live_viewers": 4081,
       "channel": {
         "id": "UCp6993wxpyDPHUpavwDFqgg",
         "name": "SoraCh. ときのそらチャンネル",
@@ -390,7 +370,7 @@
       "available_at": "2026-06-15T14:22:30.000Z",
       "start_scheduled": "2026-06-15T14:20:00.000Z",
       "start_actual": "2026-06-15T14:22:30.000Z",
-      "live_viewers": 4065,
+      "live_viewers": 4184,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -410,7 +390,7 @@
       "available_at": "2026-06-15T14:46:11.000Z",
       "start_scheduled": "2026-06-15T14:45:00.000Z",
       "start_actual": "2026-06-15T14:46:11.000Z",
-      "live_viewers": 602,
+      "live_viewers": 630,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
