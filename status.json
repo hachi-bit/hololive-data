@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781530519,
+  "cached_at": 1781530579,
   "lives": {
     "UCSFCh5NL4qXrAy9u-u2lX3g": {
       "video_id": "eaNaUiUteAA",
@@ -10,7 +10,7 @@
       "published_at": "2026-06-15T08:55:35.000Z",
       "available_at": "2026-06-15T09:11:09.000Z",
       "start_actual": "2026-06-15T09:11:09.000Z",
-      "live_viewers": 37368,
+      "live_viewers": 36500,
       "channel": {
         "id": "UCSFCh5NL4qXrAy9u-u2lX3g",
         "name": "Kuzuha Channel",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-15T11:01:08.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:08.000Z",
-      "live_viewers": 307,
+      "live_viewers": 305,
       "channel": {
         "id": "UCasKmptouCrwWLl8SlQU2tQ",
         "name": "おなつのにびたし / Onatsu no Nibitashi",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-15T11:01:13.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:13.000Z",
-      "live_viewers": 608,
+      "live_viewers": 627,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -120,26 +120,6 @@
         "photo": "https://yt3.ggpht.com/ytc/AIdro_k1CPaOgRI2Mu5IEri_BZInMpG8xGyCi-koUo8GUJQ3ibxdodVjGLAG_bd8zdnFKpqUPQ0=s800-c-k-c0x00ffffff-no-rj"
       }
     },
-    "UCC7rRD6P7RQcx0hKv9RQP4w": {
-      "video_id": "pecWzhhDdYk",
-      "title": "【スト6】22時からスクリムDay1 vsチーム1 それまでランクやら【にじさんじ/風楽奏斗】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-15T08:41:47.000Z",
-      "available_at": "2026-06-15T11:01:43.000Z",
-      "start_scheduled": "2026-06-15T11:00:00.000Z",
-      "start_actual": "2026-06-15T11:01:43.000Z",
-      "live_viewers": 2614,
-      "channel": {
-        "id": "UCC7rRD6P7RQcx0hKv9RQP4w",
-        "name": "風楽奏斗 / Fura Kanato ",
-        "english_name": "Fura Kanato",
-        "org": "Nijisanji",
-        "suborg": "1mVOLTACTION",
-        "photo": "https://yt3.ggpht.com/oZ33Q5iMwNyfcqODF2zw65lDve4sZOK6L0Co0rPUb96qZbyVqPF5a8scUNC7-FIvChDSO1EdUNY=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UChLfthKoUV502J7gU9STArg": {
       "video_id": "b7GQvReH1uE",
       "title": "【スト6】V最スクリム1日目 VS テンちゃんTeam w/ 天鬼ぷるる 常闇トワ 紫宮るな【STREET FIGHTER6】",
@@ -158,6 +138,26 @@
         "org": "Neo-Porte",
         "suborg": "0a0th Generation",
         "photo": "https://yt3.ggpht.com/TdoTY1zdj6MkO4hJEgdjAs3CLqjDFQsWylCeslTVTgUbNO8Zj4METNPE3AJLAxtQZ2XSC7Sq=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCC7rRD6P7RQcx0hKv9RQP4w": {
+      "video_id": "pecWzhhDdYk",
+      "title": "【スト6】22時からスクリムDay1 vsチーム1 それまでランクやら【にじさんじ/風楽奏斗】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-06-15T08:41:47.000Z",
+      "available_at": "2026-06-15T11:01:43.000Z",
+      "start_scheduled": "2026-06-15T11:00:00.000Z",
+      "start_actual": "2026-06-15T11:01:43.000Z",
+      "live_viewers": 2724,
+      "channel": {
+        "id": "UCC7rRD6P7RQcx0hKv9RQP4w",
+        "name": "風楽奏斗 / Fura Kanato ",
+        "english_name": "Fura Kanato",
+        "org": "Nijisanji",
+        "suborg": "1mVOLTACTION",
+        "photo": "https://yt3.ggpht.com/oZ33Q5iMwNyfcqODF2zw65lDve4sZOK6L0Co0rPUb96qZbyVqPF5a8scUNC7-FIvChDSO1EdUNY=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCFTLzh12_nrtzqBPsTCqenA": {
@@ -270,7 +270,7 @@
       "available_at": "2026-06-15T12:01:02.000Z",
       "start_scheduled": "2026-06-15T12:00:00.000Z",
       "start_actual": "2026-06-15T12:01:02.000Z",
-      "live_viewers": 8600,
+      "live_viewers": 8505,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -290,7 +290,7 @@
       "available_at": "2026-06-15T12:58:04.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T12:58:04.000Z",
-      "live_viewers": 6366,
+      "live_viewers": 5617,
       "channel": {
         "id": "UC1uv2Oq6kNxgATlCiez59hw",
         "name": "Towa Ch. 常闇トワ",
@@ -310,7 +310,7 @@
       "available_at": "2026-06-15T12:58:26.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T12:58:26.000Z",
-      "live_viewers": 2492,
+      "live_viewers": 2656,
       "channel": {
         "id": "UCD5W21JqNMv_tV9nfjvF9sw",
         "name": "紫宮るな /shinomiya runa",
@@ -330,7 +330,7 @@
       "available_at": "2026-06-15T12:58:43.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T12:58:43.000Z",
-      "live_viewers": 2380,
+      "live_viewers": 2382,
       "channel": {
         "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
         "name": "UNIT B (Pre-Debut) - mekPark",
@@ -350,7 +350,7 @@
       "available_at": "2026-06-15T13:00:17.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T13:00:17.000Z",
-      "live_viewers": 5173,
+      "live_viewers": 5393,
       "channel": {
         "id": "UC9LSiN9hXI55svYEBrrK-tw",
         "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -370,7 +370,7 @@
       "available_at": "2026-06-15T13:00:24.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T13:00:24.000Z",
-      "live_viewers": 11315,
+      "live_viewers": 11405,
       "channel": {
         "id": "UCFKOVgVbGmX65RxO3EtH3iw",
         "name": "Lamy Ch. 雪花ラミィ",
@@ -390,7 +390,7 @@
       "available_at": "2026-06-15T13:01:27.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T13:01:27.000Z",
-      "live_viewers": 2065,
+      "live_viewers": 2146,
       "channel": {
         "id": "UCtyWhCj3AqKh2dXctLkDtng",
         "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -430,7 +430,7 @@
       "available_at": "2026-06-15T13:03:17.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T13:03:17.000Z",
-      "live_viewers": 709,
+      "live_viewers": 689,
       "channel": {
         "id": "UChSvpZYRPh0FvG4SJGSga3g",
         "name": "Shien Ch.影山シエン",
@@ -450,7 +450,7 @@
       "available_at": "2026-06-15T13:05:35.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T13:05:35.000Z",
-      "live_viewers": 1204,
+      "live_viewers": 1264,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -470,7 +470,7 @@
       "available_at": "2026-06-15T13:22:37.000Z",
       "start_scheduled": "2026-06-15T13:00:00.000Z",
       "start_actual": "2026-06-15T13:22:37.000Z",
-      "live_viewers": 9106,
+      "live_viewers": 9948,
       "channel": {
         "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
         "name": "Watame Ch. 角巻わため",
@@ -482,15 +482,15 @@
     },
     "UCjk2nKmHzgH5Xy-C5qYRd5A": {
       "video_id": "2fSzFm6PfsM",
-      "title": "【凸待ち】誕生日一緒に迎えたい…🎂🎉！【水宮枢／ホロライブDEV_IS】",
+      "title": "【凸待ち】誕生日一緒に迎えたい…🎂🎉!【水宮枢/ホロライブDEV_IS】",
       "type": "stream",
       "status": "live",
       "topic_id": "Birthday",
       "published_at": "2026-06-13T16:53:11.000Z",
-      "available_at": "2026-06-15T13:30:15.000Z",
+      "available_at": "2026-06-15T13:30:20.000Z",
       "start_scheduled": "2026-06-15T13:30:00.000Z",
-      "start_actual": "2026-06-15T13:30:15.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-15T13:30:20.000Z",
+      "live_viewers": 6075,
       "channel": {
         "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
         "name": "Su Ch. 水宮枢 - FLOW GLOW",
