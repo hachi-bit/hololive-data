@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781524039,
+  "cached_at": 1781524100,
   "lives": {
     "UCSFCh5NL4qXrAy9u-u2lX3g": {
       "video_id": "eaNaUiUteAA",
@@ -10,7 +10,7 @@
       "published_at": "2026-06-15T08:55:35.000Z",
       "available_at": "2026-06-15T09:11:09.000Z",
       "start_actual": "2026-06-15T09:11:09.000Z",
-      "live_viewers": 44045,
+      "live_viewers": 44220,
       "channel": {
         "id": "UCSFCh5NL4qXrAy9u-u2lX3g",
         "name": "Kuzuha Channel",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-15T10:59:02.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T10:59:02.000Z",
-      "live_viewers": 1729,
+      "live_viewers": 1797,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-15T11:00:09.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:00:09.000Z",
-      "live_viewers": 217,
+      "live_viewers": 228,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-15T11:00:34.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:00:34.000Z",
-      "live_viewers": 105529,
+      "live_viewers": 105096,
       "channel": {
         "id": "UChAnqc_AY5_I3Px5dig3X1Q",
         "name": "Korone Ch. 戌神ころね",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-15T11:00:53.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:00:53.000Z",
-      "live_viewers": 785,
+      "live_viewers": 818,
       "channel": {
         "id": "UCL9hJsdk9eQa0IlWbFB2oRg",
         "name": "蝶屋はなび / Choya Hanabi",
@@ -110,7 +110,7 @@
       "available_at": "2026-06-15T11:01:08.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:08.000Z",
-      "live_viewers": 280,
+      "live_viewers": 315,
       "channel": {
         "id": "UCasKmptouCrwWLl8SlQU2tQ",
         "name": "おなつのにびたし / Onatsu no Nibitashi",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-15T11:01:13.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:13.000Z",
-      "live_viewers": 600,
+      "live_viewers": 602,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-15T11:01:26.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:26.000Z",
-      "live_viewers": 3698,
+      "live_viewers": 3746,
       "channel": {
         "id": "UChdY64fJb14Nfnbs8EGdQig",
         "name": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
@@ -170,7 +170,7 @@
       "available_at": "2026-06-15T11:01:35.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:35.000Z",
-      "live_viewers": 355,
+      "live_viewers": 350,
       "channel": {
         "id": "UCKF9kMEyUzID3-P7GbxmT6w",
         "name": "hm",
@@ -218,6 +218,25 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCoztvTULBYd3WmStqYeoHcA": {
+      "video_id": "LKZmZFDBstg",
+      "title": "スト6┊︎V 最スクリム１日目やよっ！ vs チーム７",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-06-15T11:03:49.000Z",
+      "available_at": "2026-06-15T11:45:00.000Z",
+      "start_scheduled": "2026-06-15T11:45:00.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCoztvTULBYd3WmStqYeoHcA",
+        "name": "笹木咲 / Sasaki Saku",
+        "english_name": "Sasaki Saku",
+        "org": "Nijisanji",
+        "suborg": "06Ex-Gamers",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_ndD74_Ur1076OaSlnIXzWTos2ohDX6Mxr04R2tdK78qA=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
