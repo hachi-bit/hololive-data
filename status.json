@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781537719,
+  "cached_at": 1781537779,
   "lives": {
     "UCSFCh5NL4qXrAy9u-u2lX3g": {
       "video_id": "eaNaUiUteAA",
@@ -10,7 +10,7 @@
       "published_at": "2026-06-15T08:55:35.000Z",
       "available_at": "2026-06-15T09:11:09.000Z",
       "start_actual": "2026-06-15T09:11:09.000Z",
-      "live_viewers": 20560,
+      "live_viewers": 20352,
       "channel": {
         "id": "UCSFCh5NL4qXrAy9u-u2lX3g",
         "name": "Kuzuha Channel",
@@ -38,66 +38,6 @@
         "org": "Neo-Porte",
         "suborg": "0m6th Generation",
         "photo": "https://yt3.ggpht.com/ApKOz7sH6YpKWtzBQVaZGVc9N4KHJSlT3MUEVukFphSTTnJMEl_dplx6b3EI5n1pW_heDH4aCQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCasKmptouCrwWLl8SlQU2tQ": {
-      "video_id": "EZtkTx2n-CA",
-      "title": "【雀魂】#初心者雀魂会 鳴けるのか それもわからぬ 初心者よ🀄【おなつのにびたし/個人勢Vtuber/#おなつのなま】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mahjong",
-      "published_at": "2026-06-14T06:13:13.000Z",
-      "available_at": "2026-06-15T11:01:08.000Z",
-      "start_scheduled": "2026-06-15T11:00:00.000Z",
-      "start_actual": "2026-06-15T11:01:08.000Z",
-      "live_viewers": 262,
-      "channel": {
-        "id": "UCasKmptouCrwWLl8SlQU2tQ",
-        "name": "おなつのにびたし / Onatsu no Nibitashi",
-        "english_name": "Onatsu No Nibitashi",
-        "org": "Twitch Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/xWy_Afq5-hYE0riz6wByr6HGlxSMBSabKju2lwHmXld7lttEsMW4D5BLvoykoWQ-_drmCi5UO7E=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
-      "video_id": "iczW7ZpF4po",
-      "title": "【雀魂】初心者雀魂会 キタ━(ﾟ∀ﾟ)━!【 奏手イヅル 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mahjong",
-      "published_at": "2026-06-14T16:33:20.000Z",
-      "available_at": "2026-06-15T11:01:13.000Z",
-      "start_scheduled": "2026-06-15T11:00:00.000Z",
-      "start_actual": "2026-06-15T11:01:13.000Z",
-      "live_viewers": 641,
-      "channel": {
-        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "name": "Izuru Ch. 奏手イヅル",
-        "english_name": "Kanade Izuru",
-        "org": "Hololive",
-        "suborg": "maHOLOSTARS 1st Gen",
-        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCKF9kMEyUzID3-P7GbxmT6w": {
-      "video_id": "55BYcjG4pjc",
-      "title": "【 初心者雀魂会 】麻雀初心者の会に参加させていただきます。東西南北ぐらいは読めます。【 日向まる / 個人 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mahjong",
-      "published_at": "2026-06-14T21:00:45.000Z",
-      "available_at": "2026-06-15T11:01:35.000Z",
-      "start_scheduled": "2026-06-15T11:00:00.000Z",
-      "start_actual": "2026-06-15T11:01:35.000Z",
-      "live_viewers": 288,
-      "channel": {
-        "id": "UCKF9kMEyUzID3-P7GbxmT6w",
-        "name": "hm",
-        "english_name": "Hinata Maru",
-        "org": "Independents",
-        "suborg": "ZZ",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_k1CPaOgRI2Mu5IEri_BZInMpG8xGyCi-koUo8GUJQ3ibxdodVjGLAG_bd8zdnFKpqUPQ0=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UChLfthKoUV502J7gU9STArg": {
@@ -130,7 +70,7 @@
       "available_at": "2026-06-15T11:46:13.000Z",
       "start_scheduled": "2026-06-15T11:45:00.000Z",
       "start_actual": "2026-06-15T11:46:13.000Z",
-      "live_viewers": 1906,
+      "live_viewers": 1893,
       "channel": {
         "id": "UCoztvTULBYd3WmStqYeoHcA",
         "name": "笹木咲 / Sasaki Saku",
@@ -210,7 +150,7 @@
       "available_at": "2026-06-15T14:22:30.000Z",
       "start_scheduled": "2026-06-15T14:20:00.000Z",
       "start_actual": "2026-06-15T14:22:30.000Z",
-      "live_viewers": 5119,
+      "live_viewers": 5605,
       "channel": {
         "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
         "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
