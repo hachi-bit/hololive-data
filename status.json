@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781514379,
+  "cached_at": 1781514439,
   "lives": {
     "UCGzTVXqMQHa4AgJVJIVvtDQ": {
       "video_id": "ZxMS6f8Dymk",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-15T09:00:01.000Z",
       "start_scheduled": "2026-06-15T09:00:00.000Z",
       "start_actual": "2026-06-15T09:00:01.000Z",
-      "live_viewers": 4895,
+      "live_viewers": 7826,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -38,46 +38,6 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCJFZiqLMntJufDCHc6bQixg": {
-      "video_id": "7niInaXeAfo",
-      "title": "【新ボイス&グッズ】大切なキミと、誓いを新たに",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Teaser",
-      "published_at": "2026-06-15T09:00:06.000Z",
-      "available_at": "2026-06-15T09:00:06.000Z",
-      "start_scheduled": "2026-06-15T09:00:00.000Z",
-      "start_actual": "2026-06-15T09:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCJFZiqLMntJufDCHc6bQixg",
-        "name": "hololive ホロライブ - VTuber Group",
-        "english_name": "hololive VTuber Group",
-        "org": "Hololive",
-        "suborg": "0aOfficial",
-        "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UC9LSiN9hXI55svYEBrrK-tw": {
-      "video_id": "uCUhMPPWqy8",
-      "title": "【#響咲リオナ生誕祭2026】JANE DOE (Cover)【響咲リオナ/虎金妃笑虎】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Music_Cover",
-      "published_at": "2026-06-15T09:00:06.000Z",
-      "available_at": "2026-06-15T09:00:06.000Z",
-      "start_scheduled": "2026-06-15T09:00:00.000Z",
-      "start_actual": "2026-06-15T09:00:06.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UC9LSiN9hXI55svYEBrrK-tw",
-        "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "english_name": "Isaki Riona",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
