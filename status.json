@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781557579,
+  "cached_at": 1781557640,
   "lives": {
     "UCHsx4Hqa-1ORjQTh9TYDhww": {
       "video_id": "MwfeI28tXIA",
@@ -28,9 +28,10 @@
       "status": "live",
       "topic_id": "13_Sentinels:_Aegis_Rim",
       "published_at": "2026-06-15T00:05:46.000Z",
-      "available_at": "2026-06-15T21:00:00.000Z",
+      "available_at": "2026-06-15T21:01:54.000Z",
       "start_scheduled": "2026-06-15T21:00:00.000Z",
-      "live_viewers": 0,
+      "start_actual": "2026-06-15T21:01:54.000Z",
+      "live_viewers": 1235,
       "channel": {
         "id": "UCDHABijvPBnJm7F-KlNME3w",
         "name": "Gigi Murin Ch. hololive-EN",
