@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781537239,
+  "cached_at": 1781537299,
   "lives": {
     "UCSFCh5NL4qXrAy9u-u2lX3g": {
       "video_id": "eaNaUiUteAA",
@@ -50,7 +50,7 @@
       "available_at": "2026-06-15T11:01:08.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:08.000Z",
-      "live_viewers": 267,
+      "live_viewers": 262,
       "channel": {
         "id": "UCasKmptouCrwWLl8SlQU2tQ",
         "name": "おなつのにびたし / Onatsu no Nibitashi",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-15T11:02:59.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:02:59.000Z",
-      "live_viewers": 2856,
+      "live_viewers": 2541,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -178,26 +178,6 @@
         "org": "VSpo",
         "suborg": "SSSolo",
         "photo": "https://yt3.ggpht.com/Rgt9lslf7OZntxcW8A9mMFWDdXTG1IxqCq4tZ14Rd7rB1rm4gxQZPTc5kM9LdGTPmXGWkfyzWw=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCAoy6rzhSf4ydcYjJw3WoVg": {
-      "video_id": "Odv8rfe0RwM",
-      "title": "Drawing and June Talk",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "membersonly",
-      "published_at": "2026-06-15T04:39:10.000Z",
-      "available_at": "2026-06-15T13:01:32.000Z",
-      "start_scheduled": "2026-06-15T13:00:00.000Z",
-      "start_actual": "2026-06-15T13:01:32.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-        "name": "Airani Iofifteen Channel hololive-ID",
-        "english_name": "Airani Iofifteen",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj"
       }
     },
     "UCqm3BQLlJfvkTsX_hvm0UmA": {
@@ -250,7 +230,7 @@
       "available_at": "2026-06-15T13:50:33.000Z",
       "start_scheduled": "2026-06-15T13:50:00.000Z",
       "start_actual": "2026-06-15T13:50:33.000Z",
-      "live_viewers": 2066,
+      "live_viewers": 1841,
       "channel": {
         "id": "UCYz_5n-uDuChHtLo7My1HnQ",
         "name": "Kureiji Ollie Ch. hololive-ID",
@@ -310,7 +290,7 @@
       "available_at": "2026-06-15T14:46:11.000Z",
       "start_scheduled": "2026-06-15T14:45:00.000Z",
       "start_actual": "2026-06-15T14:46:11.000Z",
-      "live_viewers": 883,
+      "live_viewers": 932,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
