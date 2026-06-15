@@ -1,45 +1,6 @@
 {
-  "cached_at": 1781548399,
+  "cached_at": 1781548459,
   "lives": {
-    "UCSFCh5NL4qXrAy9u-u2lX3g": {
-      "video_id": "eaNaUiUteAA",
-      "title": "【スト6】  コーチング→顔合わせ→スクリム vs ティム=カゲツ 【 コーチ:河河 】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Street_Fighter",
-      "published_at": "2026-06-15T08:55:35.000Z",
-      "available_at": "2026-06-15T09:11:09.000Z",
-      "start_actual": "2026-06-15T09:11:09.000Z",
-      "live_viewers": 11845,
-      "channel": {
-        "id": "UCSFCh5NL4qXrAy9u-u2lX3g",
-        "name": "Kuzuha Channel",
-        "english_name": "Kuzuha",
-        "org": "Nijisanji",
-        "suborg": "06Ex-Gamers",
-        "photo": "https://yt3.ggpht.com/ytc/AIdro_kOiA-_aFW-Qz7jxl0wCPDRAKIYL7wDIgs9-iKo7NjztcA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCOyYb1c43VlX9rc_lT6NKQw": {
-      "video_id": "Uh14NrUivzs",
-      "title": "#Ayundaweekday1 YAP YAP w/@sammybollivienn",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "talk",
-      "published_at": "2026-06-15T14:28:04.000Z",
-      "available_at": "2026-06-15T14:46:11.000Z",
-      "start_scheduled": "2026-06-15T14:45:00.000Z",
-      "start_actual": "2026-06-15T14:46:11.000Z",
-      "live_viewers": 1069,
-      "channel": {
-        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-        "name": "Ayunda Risu Ch. hololive-ID",
-        "english_name": "Ayunda Risu",
-        "org": "Hololive",
-        "suborg": "kaIndonesia 1st Gen (AREA 15)",
-        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCHsx4Hqa-1ORjQTh9TYDhww": {
       "video_id": "MwfeI28tXIA",
       "title": "【SUBNAUTICA 2】getting to know the game for tomorrow!! #kfp #キアライブ",
@@ -50,7 +11,7 @@
       "available_at": "2026-06-15T18:00:26.000Z",
       "start_scheduled": "2026-06-15T18:00:00.000Z",
       "start_actual": "2026-06-15T18:00:26.000Z",
-      "live_viewers": 3555,
+      "live_viewers": 4286,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
