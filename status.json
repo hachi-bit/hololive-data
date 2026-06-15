@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781555779,
+  "cached_at": 1781555839,
   "lives": {
     "UCHsx4Hqa-1ORjQTh9TYDhww": {
       "video_id": "MwfeI28tXIA",
@@ -11,7 +11,7 @@
       "available_at": "2026-06-15T18:00:26.000Z",
       "start_scheduled": "2026-06-15T18:00:00.000Z",
       "start_actual": "2026-06-15T18:00:26.000Z",
-      "live_viewers": 4198,
+      "live_viewers": 4288,
       "channel": {
         "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
         "name": "Takanashi Kiara Ch. hololive-EN",
@@ -19,26 +19,6 @@
         "org": "Hololive",
         "suborg": "h English -Myth-",
         "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
-    "UCvN5h1ShZtc7nly3pezRayg": {
-      "video_id": "mRr_Jp4VRSo",
-      "title": "【HANDCAM STREAM】LET ME SHOW YOU THESE DICE!!! #sponsored",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Camera_Stream",
-      "published_at": "2026-06-14T20:52:57.000Z",
-      "available_at": "2026-06-15T19:07:52.000Z",
-      "start_scheduled": "2026-06-15T19:05:00.000Z",
-      "start_actual": "2026-06-15T19:07:52.000Z",
-      "live_viewers": 5685,
-      "channel": {
-        "id": "UCvN5h1ShZtc7nly3pezRayg",
-        "name": "Cecilia Immergreen Ch. hololive-EN",
-        "english_name": "Cecilia Immergreen",
-        "org": "Hololive",
-        "suborg": "jaEnglish -Justice-",
-        "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
