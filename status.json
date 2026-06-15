@@ -1,25 +1,6 @@
 {
-  "cached_at": 1781514559,
+  "cached_at": 1781514619,
   "lives": {
-    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
-      "video_id": "ZxMS6f8Dymk",
-      "title": "【スーパーマリオ64】完全初見!初めてのマリオ64に挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-      "type": "stream",
-      "status": "live",
-      "topic_id": "Mario_64",
-      "published_at": "2026-06-14T22:38:44.000Z",
-      "available_at": "2026-06-15T09:00:00.000Z",
-      "start_scheduled": "2026-06-15T09:00:00.000Z",
-      "live_viewers": 0,
-      "channel": {
-        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "english_name": "Kikirara Vivi",
-        "org": "Hololive",
-        "suborg": "tcDEV_IS FLOW GLOW",
-        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
-      }
-    },
     "UCuI_opAVX6qbxZY-a-AxFuQ": {
       "video_id": "kONALN0pJxM",
       "title": "【3Dオフコラボ】らでん先輩~ほぉら日本酒ですよ~【虎金妃笑虎/儒烏風亭らでん】",
@@ -30,7 +11,7 @@
       "available_at": "2026-06-15T09:00:01.000Z",
       "start_scheduled": "2026-06-15T09:00:00.000Z",
       "start_actual": "2026-06-15T09:00:01.000Z",
-      "live_viewers": 7826,
+      "live_viewers": 9308,
       "channel": {
         "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
         "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -38,6 +19,26 @@
         "org": "Hololive",
         "suborg": "tcDEV_IS FLOW GLOW",
         "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCGzTVXqMQHa4AgJVJIVvtDQ": {
+      "video_id": "ZxMS6f8Dymk",
+      "title": "【スーパーマリオ64】完全初見!初めてのマリオ64に挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Mario_64",
+      "published_at": "2026-06-14T22:38:44.000Z",
+      "available_at": "2026-06-15T09:06:26.000Z",
+      "start_scheduled": "2026-06-15T09:00:00.000Z",
+      "start_actual": "2026-06-15T09:06:26.000Z",
+      "live_viewers": 2166,
+      "channel": {
+        "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+        "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "english_name": "Kikirara Vivi",
+        "org": "Hololive",
+        "suborg": "tcDEV_IS FLOW GLOW",
+        "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
