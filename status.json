@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781524939,
+  "cached_at": 1781524999,
   "lives": {
     "UCSFCh5NL4qXrAy9u-u2lX3g": {
       "video_id": "eaNaUiUteAA",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-15T11:00:09.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:00:09.000Z",
-      "live_viewers": 234,
+      "live_viewers": 250,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-15T11:00:53.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:00:53.000Z",
-      "live_viewers": 1041,
+      "live_viewers": 1094,
       "channel": {
         "id": "UCL9hJsdk9eQa0IlWbFB2oRg",
         "name": "蝶屋はなび / Choya Hanabi",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-15T11:01:08.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:08.000Z",
-      "live_viewers": 347,
+      "live_viewers": 346,
       "channel": {
         "id": "UCasKmptouCrwWLl8SlQU2tQ",
         "name": "おなつのにびたし / Onatsu no Nibitashi",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-15T11:01:26.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:26.000Z",
-      "live_viewers": 3993,
+      "live_viewers": 4412,
       "channel": {
         "id": "UChdY64fJb14Nfnbs8EGdQig",
         "name": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-15T11:01:35.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:35.000Z",
-      "live_viewers": 355,
+      "live_viewers": 376,
       "channel": {
         "id": "UCKF9kMEyUzID3-P7GbxmT6w",
         "name": "hm",
@@ -190,7 +190,7 @@
       "available_at": "2026-06-15T11:02:59.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:02:59.000Z",
-      "live_viewers": 4773,
+      "live_viewers": 5301,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -210,7 +210,7 @@
       "available_at": "2026-06-15T11:46:13.000Z",
       "start_scheduled": "2026-06-15T11:45:00.000Z",
       "start_actual": "2026-06-15T11:46:13.000Z",
-      "live_viewers": 2644,
+      "live_viewers": 3151,
       "channel": {
         "id": "UCoztvTULBYd3WmStqYeoHcA",
         "name": "笹木咲 / Sasaki Saku",
@@ -230,7 +230,7 @@
       "available_at": "2026-06-15T11:58:09.000Z",
       "start_scheduled": "2026-06-15T12:00:00.000Z",
       "start_actual": "2026-06-15T11:58:09.000Z",
-      "live_viewers": 6710,
+      "live_viewers": 30904,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -238,6 +238,106 @@
         "org": "Hololive",
         "suborg": "c 1st Generation",
         "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCdXAk5MpyLD8594lm_OvtGQ": {
+      "video_id": "HRm9Z1bgUVU",
+      "title": "【音声ガイド】ロンドン ナショナル・ギャラリー 所蔵名画20選〜儒烏風亭らでんの瞳に映る世界の名画——A Shared Art Journey〜【儒烏風亭らでん】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-15T12:00:06.000Z",
+      "available_at": "2026-06-15T12:00:06.000Z",
+      "start_scheduled": "2026-06-15T12:00:00.000Z",
+      "start_actual": "2026-06-15T12:00:06.000Z",
+      "live_viewers": 0,
+      "channel": {
+        "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+        "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+        "english_name": "Juufuutei Raden",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCOyYb1c43VlX9rc_lT6NKQw": {
+      "video_id": "PfzrZSPjU5g",
+      "title": "Ayunda Week #Day1 : M.M.M.",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "morning",
+      "published_at": "2026-06-15T10:51:38.000Z",
+      "available_at": "2026-06-15T12:00:34.000Z",
+      "start_scheduled": "2026-06-15T12:00:00.000Z",
+      "start_actual": "2026-06-15T12:00:34.000Z",
+      "live_viewers": 670,
+      "channel": {
+        "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+        "name": "Ayunda Risu Ch. hololive-ID",
+        "english_name": "Ayunda Risu",
+        "org": "Hololive",
+        "suborg": "kaIndonesia 1st Gen (AREA 15)",
+        "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC1iA6_NT4mtAcIII6ygrvCw": {
+      "video_id": "-qPa00j05AU",
+      "title": "【雑談】ぽやぽや~【轟はじめ/ReGLOSS】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "talk",
+      "published_at": "2026-06-15T09:56:48.000Z",
+      "available_at": "2026-06-15T12:00:35.000Z",
+      "start_scheduled": "2026-06-15T12:00:00.000Z",
+      "start_actual": "2026-06-15T12:00:35.000Z",
+      "live_viewers": 975,
+      "channel": {
+        "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+        "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+        "english_name": "Todoroki Hajime",
+        "org": "Hololive",
+        "suborg": "taDEV_IS ReGLOSS",
+        "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCTvHWSfBZgtxE4sILOaurIQ": {
+      "video_id": "0CMvvyPLJdo",
+      "title": "【Pode】2 braincells stronk with @AnyaMelfissa",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "none",
+      "published_at": "2026-06-15T10:27:32.000Z",
+      "available_at": "2026-06-15T12:00:41.000Z",
+      "start_scheduled": "2026-06-15T12:00:00.000Z",
+      "start_actual": "2026-06-15T12:00:41.000Z",
+      "live_viewers": 654,
+      "channel": {
+        "id": "UCTvHWSfBZgtxE4sILOaurIQ",
+        "name": "Vestia Zeta Ch. hololive-ID",
+        "english_name": "Vestia Zeta",
+        "org": "Hololive",
+        "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+        "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCUKD-uaobj9jiqB-VXt71mA": {
+      "video_id": "ZipT-k-ZrU8",
+      "title": "【Subnautica 2】未知の深海を調査する!水中サバイバルアドベンチャー / サブノーティカ2【獅白ぼたん/ホロライブ】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Subnautica",
+      "published_at": "2026-06-15T01:07:20.000Z",
+      "available_at": "2026-06-15T12:01:02.000Z",
+      "start_scheduled": "2026-06-15T12:00:00.000Z",
+      "start_actual": "2026-06-15T12:01:02.000Z",
+      "live_viewers": 2011,
+      "channel": {
+        "id": "UCUKD-uaobj9jiqB-VXt71mA",
+        "name": "Botan Ch.獅白ぼたん",
+        "english_name": "Shishiro Botan",
+        "org": "Hololive",
+        "suborg": "ga5th Generation (holoFive)",
+        "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
