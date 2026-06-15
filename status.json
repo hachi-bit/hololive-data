@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781535439,
+  "cached_at": 1781535499,
   "lives": {
     "UCSFCh5NL4qXrAy9u-u2lX3g": {
       "video_id": "eaNaUiUteAA",
@@ -30,7 +30,7 @@
       "available_at": "2026-06-15T11:00:09.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:00:09.000Z",
-      "live_viewers": 284,
+      "live_viewers": 294,
       "channel": {
         "id": "UCv3EicDtxObcZZmnFcHvNnw",
         "name": "鬼ヶ谷 テン / Onigaya Ten",
@@ -150,7 +150,7 @@
       "available_at": "2026-06-15T11:02:59.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:02:59.000Z",
-      "live_viewers": 3347,
+      "live_viewers": 3000,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -190,7 +190,7 @@
       "available_at": "2026-06-15T12:01:02.000Z",
       "start_scheduled": "2026-06-15T12:00:00.000Z",
       "start_actual": "2026-06-15T12:01:02.000Z",
-      "live_viewers": 5211,
+      "live_viewers": 4908,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
@@ -410,7 +410,7 @@
       "available_at": "2026-06-15T14:46:11.000Z",
       "start_scheduled": "2026-06-15T14:45:00.000Z",
       "start_actual": "2026-06-15T14:46:11.000Z",
-      "live_viewers": 587,
+      "live_viewers": 602,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
