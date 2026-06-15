@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781560999,
+  "cached_at": 1781561059,
   "lives": {
     "UCDHABijvPBnJm7F-KlNME3w": {
       "video_id": "bi220qlkfMM",
@@ -19,6 +19,26 @@
         "org": "Hololive",
         "suborg": "jaEnglish -Justice-",
         "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UC6eWCld0KwmyHFbAqK3V-Rw": {
+      "video_id": "Uo6UIb_8fi8",
+      "title": "【 #朝こよ 】おはこよ!火曜日の朝は~!朝こよ!☀ #285 【博衣こより/hololive】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "News_Show",
+      "published_at": "2026-06-15T02:55:25.000Z",
+      "available_at": "2026-06-15T22:00:19.000Z",
+      "start_scheduled": "2026-06-15T22:00:00.000Z",
+      "start_actual": "2026-06-15T22:00:19.000Z",
+      "live_viewers": 3837,
+      "channel": {
+        "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+        "name": "Koyori ch. 博衣こより - holoX -",
+        "english_name": "Hakui Koyori",
+        "org": "Hololive",
+        "suborg": "gm6th Generation -holoX-",
+        "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
