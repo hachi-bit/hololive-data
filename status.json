@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781492419,
+  "cached_at": 1781492479,
   "lives": {
     "UCANDOlYTJT7N5jlRC3zfzVA": {
       "video_id": "6r0wTlT2xXo",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-15T02:10:21.000Z",
       "start_scheduled": "2026-06-15T02:10:00.000Z",
       "start_actual": "2026-06-15T02:10:21.000Z",
-      "live_viewers": 5544,
+      "live_viewers": 5612,
       "channel": {
         "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "name": "Hakos Baelz Ch. hololive-EN",
@@ -98,6 +98,26 @@
         "org": "Hololive",
         "suborg": "ibEnglish -Promise-",
         "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "UCozx5csNhCx1wsVq3SZVkBQ": {
+      "video_id": "PZhxWpdjzBA",
+      "title": "【覚悟】君たちは推しを幸せにできるのか。【#昼ホロ / #風白ゆき】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "News_Show",
+      "published_at": "2026-06-15T02:20:07.000Z",
+      "available_at": "2026-06-15T02:58:28.000Z",
+      "start_scheduled": "2026-06-15T03:00:00.000Z",
+      "start_actual": "2026-06-15T02:58:28.000Z",
+      "live_viewers": 654,
+      "channel": {
+        "id": "UCozx5csNhCx1wsVq3SZVkBQ",
+        "name": "holoAN room (ホロアナ)",
+        "english_name": "holoAN room",
+        "org": "Hololive",
+        "suborg": "0hOfficial",
+        "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj"
       }
     }
   }
