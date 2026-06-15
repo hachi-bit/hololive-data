@@ -1,5 +1,5 @@
 {
-  "cached_at": 1781525959,
+  "cached_at": 1781526019,
   "lives": {
     "UCSFCh5NL4qXrAy9u-u2lX3g": {
       "video_id": "eaNaUiUteAA",
@@ -10,7 +10,7 @@
       "published_at": "2026-06-15T08:55:35.000Z",
       "available_at": "2026-06-15T09:11:09.000Z",
       "start_actual": "2026-06-15T09:11:09.000Z",
-      "live_viewers": 45780,
+      "live_viewers": 46889,
       "channel": {
         "id": "UCSFCh5NL4qXrAy9u-u2lX3g",
         "name": "Kuzuha Channel",
@@ -70,7 +70,7 @@
       "available_at": "2026-06-15T11:01:08.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:08.000Z",
-      "live_viewers": 374,
+      "live_viewers": 362,
       "channel": {
         "id": "UCasKmptouCrwWLl8SlQU2tQ",
         "name": "おなつのにびたし / Onatsu no Nibitashi",
@@ -90,7 +90,7 @@
       "available_at": "2026-06-15T11:01:13.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:13.000Z",
-      "live_viewers": 655,
+      "live_viewers": 656,
       "channel": {
         "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
         "name": "Izuru Ch. 奏手イヅル",
@@ -130,7 +130,7 @@
       "available_at": "2026-06-15T11:01:35.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:01:35.000Z",
-      "live_viewers": 397,
+      "live_viewers": 355,
       "channel": {
         "id": "UCKF9kMEyUzID3-P7GbxmT6w",
         "name": "hm",
@@ -160,6 +160,26 @@
         "photo": "https://yt3.ggpht.com/TdoTY1zdj6MkO4hJEgdjAs3CLqjDFQsWylCeslTVTgUbNO8Zj4METNPE3AJLAxtQZ2XSC7Sq=s800-c-k-c0x00ffffff-no-rj"
       }
     },
+    "UCC7rRD6P7RQcx0hKv9RQP4w": {
+      "video_id": "pecWzhhDdYk",
+      "title": "【スト6】22時からスクリムDay1 vsチーム1 それまでランクやら【にじさんじ/風楽奏斗】",
+      "type": "stream",
+      "status": "live",
+      "topic_id": "Street_Fighter",
+      "published_at": "2026-06-15T08:41:47.000Z",
+      "available_at": "2026-06-15T11:01:43.000Z",
+      "start_scheduled": "2026-06-15T11:00:00.000Z",
+      "start_actual": "2026-06-15T11:01:43.000Z",
+      "live_viewers": 1775,
+      "channel": {
+        "id": "UCC7rRD6P7RQcx0hKv9RQP4w",
+        "name": "風楽奏斗 / Fura Kanato ",
+        "english_name": "Fura Kanato",
+        "org": "Nijisanji",
+        "suborg": "1mVOLTACTION",
+        "photo": "https://yt3.ggpht.com/oZ33Q5iMwNyfcqODF2zw65lDve4sZOK6L0Co0rPUb96qZbyVqPF5a8scUNC7-FIvChDSO1EdUNY=s800-c-k-c0x00ffffff-no-rj"
+      }
+    },
     "UCFTLzh12_nrtzqBPsTCqenA": {
       "video_id": "ucHTWG8TURQ",
       "title": "【 STREET FIGHTER 6】#花重奏WIN V最スクリム1日目!VSチーム7【アキロゼ/ホロライブ】",
@@ -170,7 +190,7 @@
       "available_at": "2026-06-15T11:02:59.000Z",
       "start_scheduled": "2026-06-15T11:00:00.000Z",
       "start_actual": "2026-06-15T11:02:59.000Z",
-      "live_viewers": 7572,
+      "live_viewers": 7626,
       "channel": {
         "id": "UCFTLzh12_nrtzqBPsTCqenA",
         "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -190,7 +210,7 @@
       "available_at": "2026-06-15T11:46:13.000Z",
       "start_scheduled": "2026-06-15T11:45:00.000Z",
       "start_actual": "2026-06-15T11:46:13.000Z",
-      "live_viewers": 4519,
+      "live_viewers": 4767,
       "channel": {
         "id": "UCoztvTULBYd3WmStqYeoHcA",
         "name": "笹木咲 / Sasaki Saku",
@@ -210,7 +230,7 @@
       "available_at": "2026-06-15T11:58:09.000Z",
       "start_scheduled": "2026-06-15T12:00:00.000Z",
       "start_actual": "2026-06-15T11:58:09.000Z",
-      "live_viewers": 62935,
+      "live_viewers": 66056,
       "channel": {
         "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
         "name": "フブキCh。白上フブキ",
@@ -250,7 +270,7 @@
       "available_at": "2026-06-15T12:00:34.000Z",
       "start_scheduled": "2026-06-15T12:00:00.000Z",
       "start_actual": "2026-06-15T12:00:34.000Z",
-      "live_viewers": 2959,
+      "live_viewers": 2990,
       "channel": {
         "id": "UCOyYb1c43VlX9rc_lT6NKQw",
         "name": "Ayunda Risu Ch. hololive-ID",
@@ -270,7 +290,7 @@
       "available_at": "2026-06-15T12:00:35.000Z",
       "start_scheduled": "2026-06-15T12:00:00.000Z",
       "start_actual": "2026-06-15T12:00:35.000Z",
-      "live_viewers": 3762,
+      "live_viewers": 4035,
       "channel": {
         "id": "UC1iA6_NT4mtAcIII6ygrvCw",
         "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -290,7 +310,7 @@
       "available_at": "2026-06-15T12:00:41.000Z",
       "start_scheduled": "2026-06-15T12:00:00.000Z",
       "start_actual": "2026-06-15T12:00:41.000Z",
-      "live_viewers": 1468,
+      "live_viewers": 1505,
       "channel": {
         "id": "UCTvHWSfBZgtxE4sILOaurIQ",
         "name": "Vestia Zeta Ch. hololive-ID",
@@ -310,7 +330,7 @@
       "available_at": "2026-06-15T12:01:02.000Z",
       "start_scheduled": "2026-06-15T12:00:00.000Z",
       "start_actual": "2026-06-15T12:01:02.000Z",
-      "live_viewers": 6745,
+      "live_viewers": 7314,
       "channel": {
         "id": "UCUKD-uaobj9jiqB-VXt71mA",
         "name": "Botan Ch.獅白ぼたん",
